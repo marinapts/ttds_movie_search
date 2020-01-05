@@ -10,6 +10,7 @@ import re
 import codecs
 import pprint
 import json
+import datetime
 
 class SrtIndexer:
   def __init__(self, path = os.path.dirname(os.path.abspath(__file__))):
@@ -96,18 +97,48 @@ class SrtIndexer:
     Arguments:
         file_path {string} -- the srt file path.
     """
-    with codecs.open(file_path, mode="r", encoding="utf-8", errors='ignore') as f:
-      data = f.readlines()
 
-    regex_string = '(\d\d:\d\d:\d\d,\d\d\d\s*-->\s*\d\d:\d\d:\d\d,\d\d\d|\d+)\r*\n*'
-    pattern = re.compile(regex_string)
+    with codecs.open(file_path, mode="r", encoding="utf-8", errors='ignore') as f:
+      lines = f.readlines()
+
+    data = self.__reformat_srt_file(lines)
     
-    data = [preprocessing.preprocess(x, stemming=True, stop=False) for x in data if not pattern.match(x)]
+    # Save data to db.
+
+    data = [preprocessing.preprocess(x, stemming=True, stop=False) for x in data if isinstance(x, str) ]
     data = list(filter(None, data))
     self.__update_word_list(data)
     file_name = os.path.splitext(os.path.basename(file_path))[0]; 
     self.__update_inverted_index(data, file_name)
     #String[] words = str.split("\s\n+");
+
+  def __reformat_srt_file(self, raw_lines):
+    lines = []
+    regex_string = '\d\d:\d\d:\d\d,\d\d\d\s*-->\s*\d\d:\d\d:\d\d,\d\d\d\r*\n*'
+    regex_end_sentence = '.*(?<!\.{2})[.?!"]\n*\r*$'
+    regex_numeric = '\d+\r*\n*'
+    regex_empty = '^\s*\r*\n*$'
+    pattern_time = re.compile(regex_string)
+    pattern_end_sentence = re.compile(regex_end_sentence)
+    pattern_numeric = re.compile(regex_numeric)
+    pattern_empty = re.compile(regex_empty)
+
+    temp = ""
+    temp_time = None
+    for line in raw_lines:
+      if pattern_time.match(line):
+        time = line.split(' --> ')[0]
+        start_time = datetime.datetime.strptime(time, '%H:%M:%S,%f')
+        if temp_time == None:
+          temp_time = start_time.timestamp()
+      elif not pattern_numeric.match(line) and not pattern_empty.match(line):
+        temp += line.replace('\n', ' ').replace('...', '')
+        if pattern_end_sentence.match(line):
+          lines.append(temp_time)
+          lines.append(temp.strip())
+          temp = ""
+          temp_time = None
+    return lines
 
   def __update_word_list(self, word_lists):
     """ It updates the word2id dictionary by adding new words in word_lists.
@@ -130,15 +161,18 @@ class SrtIndexer:
     """
     for word, id in self.word2id.items():
       if id not in self.inverted_index.keys():
-        self.inverted_index[id] = dict()
+        #self.inverted_index[id] = dict()
+        self.inverted_index[word] = dict()
 
     for line_number, sent in enumerate(word_lists, start=1):
         docid = file_name + '_' + str(line_number)
         for pos_in_doc, term in enumerate(sent, start=1):
-          if docid not in self.inverted_index[self.word2id[term]].keys():
-              self.inverted_index[self.word2id[term]][docid] = []
+          #index_term = self.word2id[term]
+          index_term = term
+          if docid not in self.inverted_index[index_term].keys():
+              self.inverted_index[index_term][docid] = []
 
-          self.inverted_index[self.word2id[term]][docid].append(pos_in_doc)
+          self.inverted_index[index_term][docid].append(pos_in_doc)
 
   def __json_write(self, data, path):
     """ write data to path in json format.
@@ -160,7 +194,7 @@ class SrtIndexer:
     """
     return json.load(open(path))
 
-ab = SrtIndexer()
+ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/srt")
 ab.enforce_reindex(True)
 ab.build_index()
 #pprint.pprint(ab.get_inverted_index())
