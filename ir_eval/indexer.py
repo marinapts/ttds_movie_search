@@ -5,6 +5,7 @@ import sys
 sys.path.insert(1, './')
 
 import preprocessing
+from quotes import Quotes
 
 import re
 import codecs
@@ -14,13 +15,13 @@ import datetime
 import pickle
 
 class SrtIndexer:
-  def __init__(self, path = os.path.dirname(os.path.abspath(__file__))):
+  def __init__(self, root_subtitle_path = os.path.dirname(os.path.abspath(__file__))):
     """ The constructor function of the class.
     
     Arguments:
         path {string} -- Optional path argument to be indexed. It is set current working directory bu default.
     """
-    self.set_path(path)
+    self.set_path(root_subtitle_path)
     self.inverted_index = {}
     self.word2id = {}
     self.json_name = "inverted_index.pickle"
@@ -77,7 +78,7 @@ class SrtIndexer:
     root = os.walk(self.path)
     for dir_entry in root:
       for fname in dir_entry[2]:
-        yield os.path.join(dir_entry[0], fname)
+        yield os.path.join(dir_entry[0], fname), os.path.join(dir_entry[0].replace('subtitles', 'quotes'), fname.replace('srt','txt'))
 
   def build_index(self):
     """ Sets the inverted index. If an inverted index file saved before and reindexing is not enforced, 
@@ -86,28 +87,27 @@ class SrtIndexer:
     """
     old_path = os.path.join(self.path, self.json_name)
     if os.path.isfile(old_path) and not self.reindex:
-      self.inverted_index = self.__json_load(old_path)
-      print(sys.getsizeof(self.inverted_index))
+      self.inverted_index = self.__pickle_load(old_path)
     else:
-      for element in self.__iterate_files():
+      for element, quote_path in self.__iterate_files():
           if (element.endswith('.srt')):
-            self.__index_single_file(element)
+            self.__index_single_file(element, quote_path)
       self.__pickle_write(self.inverted_index, old_path)
 
-  def __index_single_file(self, file_path):
+  def __index_single_file(self, file_path, quote_path):
     """ It indexes only one file. It is called for each file in build_index function.
     
     Arguments:
         file_path {string} -- the srt file path.
     """
-    file_name = os.path.splitext(os.path.basename(file_path))[0]; 
+    file_name = os.path.splitext(os.path.basename(file_path))[0]
 
     with codecs.open(file_path, mode="r", encoding="utf-8", errors='ignore') as f:
       lines = f.readlines()
 
     data = self.__reformat_srt_file(lines)
     self.__save_to_db(data, file_name)
-    data = [preprocessing.preprocess(x[1], stemming=True, stop=False) for x in data]
+    data = [preprocessing.preprocess(x[1], stemming=self.activate_stem, stop=self.activate_stop) for x in data]
     data = list(filter(None, data))
     self.__update_word_list(data)
     self.__update_inverted_index(data, file_name)
@@ -225,7 +225,11 @@ class SrtIndexer:
       b = pickle.load(handle)
     return b
 
-ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/subtitles/")
+#ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/subtitles/")
 #ab.enforce_reindex(True)
-ab.build_index()
+#ab.enableStopping(True)
+#ab.build_index()
 #pprint.pprint(ab.get_inverted_index())
+
+#cd = Quotes('/Users/oguz/Documents/ttds_movie_search/ir_eval/data/quotes/0/0/7/tt0073582.txt')
+#cd.find_character_name("a woman is going to be free so she can")
