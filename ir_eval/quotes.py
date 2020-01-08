@@ -37,7 +37,7 @@ class Quotes:
 
   def find_character_name(self, sentence):
     """ Finds the most similar sentence in the quotes and returns the character name who said the sentence.
-        Cosine similarity is used to find most similas sentence.
+        Cosine similarity is used to find most similar sentence.
     
     Arguments:
         sentence {string} -- input sentence found in subtitles.
