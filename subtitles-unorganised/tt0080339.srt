@@ -1,0 +1,943 @@
+{2288}{2404}The white zone is for loading|and unloading of passengers only.
+{2407}{2471}There is no stopping in the red zone.
+{2503}{2626}The white zone is for loading|and unloading of passengers only.
+{2629}{2698}There is no stopping in the red zone.
+{2965}{3059}Hello. Take this flower from|the Religious Consciousness Church.
+{3062}{3155}- Would you care to make a donation?|- No, but thank you anyway.
+{3191}{3307}The red zone is for loading|and unloading of passengers only.
+{3310}{3383}There's no stopping|in the white zone.
+{3386}{3467}No. The white zone|is for loading and unloading.
+{3470}{3541}There's no stopping in the red zone.
+{3544}{3637}The red zone's always been|for loading and unloading.
+{3640}{3700}There's never stopping|in a white zone.
+{3703}{3794}Don't tell me which zone's for|stopping and which is for loading.
+{3797}{3886}Listen, Betty, don't start up|with your white zone shit again.
+{3959}{4047}Hello. Take this flower from|the Religious Consciousness Church.
+{4050}{4091}Would you like to make a donation?
+{4094}{4154}No, thanks. We gave at the office.
+{4360}{4455}Would you put all your metal objects|into this dish, please?
+{4649}{4717}There's just no stopping|in a white zone.
+{4720}{4766}Really, Vernon, why pretend?
+{4769}{4837}We both know|what you're talking about.
+{4840}{4886}You want me to have an abortion.
+{4889}{4973}It's the only sensible thing to do.|If it's done properly,
+{4976}{5049}therapeutically,|there's no danger involved.
+{5052}{5083}Taxi!
+{5263}{5307}I'll be back in a minute.
+{5474}{5572}Hello, sir, take this flower from|the Religious Consciousness Church.
+{5575}{5613}Would you care...
+{5993}{6061}- Hey, Larry, where's the forklift?|- Forklift?
+{6064}{6128}It's over there|by the baggage loader.
+{6230}{6268}Look out!
+{6547}{6607}- Elaine.|- Ted!
+{6609}{6672}I came home early|and found your note.
+{6675}{6769}I guess you meant for me to read|it later. I've got to talk to you.
+{6772}{6830}I don't want to go over it any more.
+{6833}{6894}Things haven't been right|for a long time,
+{6897}{6973}but it'll be different,|like in the beginning.
+{6976}{7024}Just be patient|and I'll work things out.
+{7027}{7101}I have been patient|and I've tried to help,
+{7104}{7152}but you wouldn't even let me do that.
+{7209}{7279}Don't you feel anything|for me any more?
+{7281}{7386}It takes so many things|to make love last.
+{7389}{7439}Most of all, it takes respect.
+{7442}{7542}I can't live with a man|I don't respect!
+{7678}{7727}What a pisser.
+{7939}{8007}Captain Oveur, white courtesy phone.
+{8009}{8085}Captain Clarence Oveur,|white courtesy phone.
+{8203}{8251}No, the white phone!
+{8336}{8378}This is Captain Oveur.
+{8381}{8455}One moment for your call|from the Mayo Clinic.
+{8458}{8527}Captain Oveur, white courtesy phone.
+{8530}{8582}- I've got it!|- Thank you.
+{8585}{8631}Go ahead with your call.
+{8634}{8683}This is Dr Brody at the Mayo Clinic.
+{8686}{8747}There's a passenger|on your Chicago flight,
+{8750}{8823}a little girl named Lisa Davis,|en route to Minneapolis.
+{8826}{8883}She's scheduled|for a heart transplant.
+{8886}{8940}Tell her mother we found a donor.
+{8943}{8992}The heart is ready for surgery.
+{8995}{9078}We must have the recipient on|the operating table within six hours.
+{9081}{9163}Make sure she's kept|in a reclined position,
+{9166}{9237}that a continuous watch|is kept on her IV.
+{9240}{9295}It's very important|she remain calm...
+{9298}{9343}Excuse me, this is the operator.
+{9346}{9444}I have an emergency call|on line five from Mr Hamm.
+{9447}{9497}Give me Hamm on five, hold the Mayo.
+{10143}{10191}You'll be back tomorrow night.
+{10194}{10242}We'll have dinner.|We'll talk things over.
+{10245}{10328}I won't be back.|I've requested the Atlanta run.
+{10331}{10400}Elaine... I promise I can change.
+{10403}{10496}Then why didn't you take the job that|Louie Netz offered you at Boeing?
+{10499}{10589}I haven't been able to get near|a plane since the war.
+{10592}{10679}And they wouldn't hire me|because of my war record.
+{10682}{10769}War record? You're the only one|keeping that alive.
+{10772}{10825}For everyone else,|it's ancient history.
+{10828}{10910}- You expect me to believe that?|- It's the truth.
+{10913}{10986}What's hurt you the most|is your record since the war -
+{10989}{11024}different cities, different jobs -
+{11027}{11109}and not one of them shows you|can accept any real responsibility.
+{11112}{11184}- Elaine, just give me one more...|- It's too late, Ted.
+{11187}{11246}When I get back to Chicago,
+{11249}{11351}I'm going to start my life|all over again. I'm sorry.
+{11416}{11491}Excuse me, take this flower|from the Church of Religious...
+{11732}{11782}Hi! Well, good evening.
+{11785}{11878}There you go.|Just follow them to the back.
+{11969}{12043}Any word on that storm lifting|over Salt Lake, Clarence?
+{12046}{12106}No, not likely, Victor.
+{12109}{12205}I just reviewed the area report|for 1600 hours through 2400.
+{12208}{12279}There's an occluded front|stalled over the Dakotas,
+{12282}{12326}backed up all the way to Utah.
+{12329}{12422}If she decides to push over the Great|Lakes, it could get plenty soupy.
+{12425}{12471}What about that southern route|around Tulsa?
+{12474}{12532}I double-checked|the terminal forecast,
+{12535}{12612}and the wind's aloft|and IFR ceilings all the way.
+{12615}{12658}Where do they top out?
+{12661}{12754}Light scattered cover|at 20,000, icing around 18.
+{12782}{12879}- Looks like over Denver is best.|- Denver it is.
+{12882}{12922}Sorry, Clarence.
+{12925}{13003}Latest report shows everything's|socked in from Salt Lake to Lincoln.
+{13006}{13047}Hi, Roger. Glad to have you aboard.
+{13050}{13092}Victor, this is Roger Murdock.|Victor Basta.
+{13094}{13148}- How do you do?|- Nice to meet you.
+{13151}{13227}I was telling Victor|I reviewed the area report
+{13230}{13308}for 1600 hours through 2400.
+{13311}{13388}There's an occluded front|stalled over the Dakotas.
+{13613}{13678}There you go. Thank you.
+{13680}{13749}Is Elaine Dickinson on this flight?
+{13752}{13867}The whole flight crew has boarded.|Let me see.
+{13869}{13913}Oh, yes. She is on board.
+{13988}{14079}I'd like one ticket to Chicago.|No baggage.
+{14219}{14302}- Smoking or non-smoking?|- Smoking, please.
+{14352}{14403}There. Have a nice trip.
+{14794}{14859}Striker, this is Red Leader Four.
+{14862}{14913}Primary target covered by fog.
+{14916}{14965}Decision to proceed is yours.
+{14968}{15047}The decision is yours...
+{15050}{15116}is yours... is yours...
+{15351}{15415}Golly, that white fellow|should stay away from my wife,
+{15418}{15480}or I will punch him.
+{15483}{15590}Yes, he is wrong for doing that.
+{15593}{15655}I knew a man|in a similar predicament,
+{15658}{15693}and he ended up being sorry.
+{15696}{15749}Don't be naive, Arthur.
+{15752}{15828}Each of us faces|a clear moral choice.
+{15872}{15985}Early to bed, early to rise makes|a man healthy, wealthy and wise.
+{15988}{16026}How true!
+{16029}{16052}Golly!
+{16966}{17009}Nervous?
+{17012}{17056}Yes.
+{17059}{17123}First time?
+{17125}{17196}No. I've been nervous lots of times.
+{17340}{17435}Hi. We'll be taking off real soon,|so I better fasten you in tight.
+{17438}{17509}Thank you.|Oh, Mother, this is so exciting!
+{17512}{17581}I know, but remember,|you must get some rest.
+{17584}{17681}That's good advice. You relax,|and I'll be back after takeoff.
+{17684}{17716}Thank you.
+{17772}{17853}- I'm going to miss you so much.|- I'm going to miss you, too.
+{17856}{17925}Promise you'll write?
+{17928}{17978}Every day.
+{18011}{18046}Bill!
+{18049}{18101}Better get on board, son.
+{18142}{18194}All aboard!
+{18197}{18275}209er to ground control.|We're ready to taxi.
+{18278}{18345}- Goodbye, Bill!|- Goodbye, darling!
+{18348}{18392}I love you, darling!
+{18395}{18455}209er, taxi to runway 19er.
+{18519}{18558}Goodbye, darling!
+{18561}{18647}Have your picture taken the minute|you get there and send me one.
+{18650}{18700}OK. Here, hurry.
+{18758}{18832}It's your watch. You shouldn't.|You're going to need this.
+{18835}{18889}It's all right. It doesn't work.
+{18892}{18937}- Bill!|- Goodbye, darling!
+{18940}{18971}Bill!
+{19004}{19088}Bill! Bill!|I'll keep it with me all the time.
+{19091}{19148}Goodbye, darling.|Take care of yourself. Goodbye.
+{19173}{19230}- Flight 209er - clear for takeoff.|- Roger.
+{19257}{19330}- LA departure frequency 123.9er.|- Roger.
+{19371}{19428}- Request vector. Over.|- What?
+{19431}{19485}Flight 209er, clear for vector 324.
+{19488}{19542}- We have clearance, Clarence.|- Roger, Roger.
+{19545}{19589}What's our vector, Victor?
+{19592}{19687}- I want radio clearance. Over.|- That's Clarence Oveur. Over.
+{19690}{19732}- Roger.|- Huh?
+{19735}{19803}- Roger. Over.|- Huh? Who?
+{20417}{20472}Do you feel all right, sir?
+{20475}{20560}Oh, I haven't flown for a long time.
+{20767}{20822}Good evening.|This is Captain Oveur speaking.
+{20825}{20901}We'll be cruising|at 36,000 feet this evening...
+{21169}{21217}Relax and enjoy your flight.
+{21220}{21270}Would you like something to read?
+{21273}{21322}Do you have anything light?
+{21364}{21465}How about this leaflet,|"Famous Jewish Sports Legends"?
+{21468}{21514}Yes. Thank you.
+{21546}{21625}- Ted! What are you doing here?|- I've got to talk to you.
+{21628}{21689}You shouldn't have come.|I don't have time now.
+{21692}{21740}- Stewardess?|- Excuse me.
+{21743}{21767}But...
+{22069}{22168}No wonder you're upset. She's lovely.
+{22220}{22285}And a darling figure.
+{22288}{22399}Supple, pouting breasts, firm thighs.
+{22432}{22505}It's a shame you two|don't get along.
+{22508}{22556}Yes, I know.
+{22559}{22607}Things used to be different.
+{22681}{22748}I remember when we first met.
+{22751}{22822}It was during the war.
+{22825}{22868}I was in the air force,
+{22871}{22958}stationed in Drambuie,|off the Barbary Coast.
+{22961}{23019}I used to hang out|at the Magumba Bar.
+{23022}{23114}It was a rough place.|The seediest dive on the wharf,
+{23117}{23235}populated with every reject and|cut-throat from Bombay to Calcutta.
+{23238}{23284}It was worse than Detroit.
+{23550}{23595}The mood in the place was ugly.
+{23598}{23683}You wouldn't be there unless|you knew how to use your fists.
+{23686}{23748}A fight broke out almost every night.
+{25428}{25487}I didn't go there that night|to fall in love.
+{25490}{25538}I just wanted a couple of drinks.
+{25541}{25588}And suddenly, there she was.
+{25820}{25918}I was captivated, entranced.|It hit me like a thunderbolt.
+{25920}{26029}I had to asked this guy to pinch me|to make sure I wasn't dreaming.
+{26144}{26194}I was afraid to approach her,
+{26197}{26262}but that night, fate was on my side.
+{30741}{30822}We laughed, we talked, we danced.
+{30825}{30914}I never wanted it to end.|I guess I still don't.
+{30917}{31015}Enough about me. I hope|this hasn't been boring for you.
+{31018}{31086}Whenever I talk about Elaine,|I get carried away.
+{31089}{31135}I lose all track of time.
+{31192}{31240}Would you like to order dinner?
+{31243}{31312}Joey will have steak.|We'll have fish.
+{31314}{31361}When can I see the cockpit?
+{31364}{31457}The pilots are probably too busy|flying the plane for that.
+{31460}{31498}Aw, gee whizz!
+{31501}{31584}I'll talk to the captain|and see what I can arrange.
+{31587}{31640}Gee, that'd be swell!
+{31702}{31752}Would you care to order your dinners?
+{31755}{31839}I would like the steak, please.
+{31920}{31979}I'll have the fish.
+{32166}{32235}Excuse me, I happened to be passing.
+{32238}{32297}I thought you might like some coffee.
+{32300}{32364}That's very nice of you. Thank you.
+{32417}{32493}- Won't you sit down?|- Thank you.
+{32560}{32620}- Cream?|- No, I take it black.
+{32623}{32667}Like my men.
+{34349}{34430}Ted, I never knew|I could be so happy.
+{34433}{34512}These past few months|have been wonderful.
+{34515}{34631}Tomorrow, why don't we drive|to that little seafood place and...
+{34634}{34733}- What's the matter?|- My orders came through.
+{34736}{34782}My squadron ships out tomorrow.
+{34785}{34868}We're bombing the storage depots|at Daiquiri at 1800 hours.
+{34871}{34929}We're coming in|from the north, below their radar.
+{34932}{34975}When will you be back?
+{34978}{35057}I can't tell you that.|It's classified.
+{35060}{35172}Oh, Ted, please be careful.|I worry about you so much.
+{35175}{35234}I love you, Elaine.
+{35237}{35286}I love you.
+{35807}{35897}Flight 209er,|this is Denver flight control.
+{35900}{35949}You're approaching rough weather.
+{35952}{36010}Please climb to 42,000 feet.
+{36035}{36110}- Roger, Denver.|- We have a visitor.
+{36113}{36137}Hello.
+{36140}{36243}Captain Oveur, Mr Murdock,|and Mr Basta, this is Joey Hammen.
+{36246}{36297}- Hi, Joey.|- Come up here.
+{36300}{36396}This is for special visitors.|Would you like to have it?
+{36399}{36507}- Thank you. Thanks a lot.|- Sure. Ever been in a cockpit?
+{36510}{36579}No, I've never been up|in a plane before.
+{36582}{36647}Have you ever seen a grown man naked?
+{36650}{36749}- Shall I check the weather?|- No, why don't you take care of it?
+{36752}{36846}Joey, do you ever hang around|a gymnasium?
+{36849}{36932}- We'd better get back.|- No, Joey can stay for a while.
+{36935}{37003}- Could I?|- OK, if you don't get in the way.
+{37006}{37098}Flight 209er to Denver,|climbing to cruise at 42,000.
+{37101}{37179}Will report again over Lincoln.|Over and out.
+{37182}{37276}Wait a minute, I know you.|You're Kareem Abdul Jabbar.
+{37279}{37353}You play basketball|for the Los Angeles Lakers.
+{37356}{37439}Sorry, you have me confused|with someone else.
+{37442}{37520}My name's Roger Murdock.|I'm the co-pilot.
+{37523}{37615}You are Kareem! I've seen you play.|My dad's got season tickets.
+{37618}{37695}You should go back to your seat now.|Right, Clarence?
+{37722}{37796}No, he's not bothering anyone.|Let him stay here.
+{37826}{37920}All right, but just remember|my name is Roger Murdock.
+{37923}{37964}I'm an airline pilot.
+{37967}{38015}I think you're the greatest,
+{38018}{38124}but my dad says you don't work hard|enough on defence.
+{38127}{38216}And he says lots of times|you don't even run downcourt.
+{38219}{38296}And you don't try,|except during play-offs.
+{38299}{38343}The hell I don't!
+{38383}{38477}Listen, kid, I've been hearing|that crap ever since I was at UCLA.
+{38480}{38563}I'm out there busting my buns|every night.
+{38566}{38635}Tell your old man|to drag Walton and Lanier
+{38638}{38693}up and down the court for 48 minutes.
+{38837}{38870}Joey...
+{38873}{38923}Do you like movies about gladiators?
+{39060}{39126}Elaine, just hear me out.
+{39129}{39193}Things haven't been right|for a long time,
+{39195}{39295}but it'll be different,|like in the beginning, remember?
+{39298}{39371}I remember everything.
+{39374}{39440}All I have is memories.
+{39443}{39519}Mostly, I remember the nights|we were together.
+{39522}{39603}I remember how you used to hold me,
+{39606}{39686}and how I used to sit on your face|and wriggle, and...
+{39689}{39779}afterwards, how we'd watch|till the sun came up.
+{39782}{39861}When it did, it was almost like...
+{39864}{39970}like each new day was|created only for us.
+{39973}{40038}That's the way|I've always wanted it to be.
+{40041}{40090}But it won't be.
+{40093}{40186}Not as long as you insist|on living in the past!
+{40441}{40492}You're too low, Ted! You're too low!
+{40709}{40783}The mind plays tricks on you.
+{40829}{40909}He looks so happy today, doesn't he?
+{40912}{40960}You look so happy today.
+{40992}{41096}OK, Robert, slip them down.|This won't hurt much.
+{41099}{41163}You got a telegram|from headquarters today.
+{41165}{41215}Headquarters? What is it?
+{41218}{41303}A big building where generals meet,|but that's not important.
+{41306}{41398}They've cleared you of any blame|for what happened on that raid.
+{41401}{41467}- Isn't that good news?|- Is it?
+{41470}{41587}Because of my mistake,|six men didn't return from that raid.
+{41590}{41663}Seven.|Lieutenant Zip died this morning.
+{41666}{41758}But Dr Sandler says you'll be out|in a week. Isn't that wonderful?
+{41791}{41857}I wish I could say the same|for George Zip.
+{41860}{41978}Be patient, Ted. Nobody expects you|to get over this immediately.
+{41981}{42074}Hey, Striker, how about a break?|I'm getting tired.
+{42077}{42127}Yeah, all right. Take five.
+{42155}{42204}Thanks.
+{42207}{42294}I found a wonderful apartment for us.
+{42297}{42345}It has a brick fireplace
+{42348}{42428}and a cute bedroom|with mirrors on the ceiling and...
+{42431}{42501}Red Leader!|Red Leader, I'm going down!
+{42504}{42614}Captain Geline. He think he's|a pilot, still fighting the war.
+{42646}{42711}I've found the tunnel, Johnson!|It's this way!
+{42714}{42782}$25 for a cigarette is too much!
+{42866}{42947}- What's his problem?|- It's Lieutenant Hurwitz.
+{42950}{43000}Severe shell shock.
+{43003}{43053}He thinks he's Ethel Merman.
+{43497}{43555}War is hell.
+{43661}{43763}Excuse me, sir. Would you|like coffee before dinner?
+{43766}{43821}No. No, thank you.
+{43864}{43954}- Would you like another cup?|- I will, but Jim won't.
+{43957}{44060}I think I will have|another cup of coffee.
+{44063}{44141}Jim never has a second|cup of coffee at home.
+{44286}{44350}- Excuse me, sister.|- Yes?
+{44353}{44411}There's a little girl|onboard who's ill.
+{44414}{44480}Oh, yes, I saw. Poor child.
+{44483}{44579}Could I borrow your guitar?|I thought maybe I could cheer her up.
+{44582}{44641}- Of course.|- Thank you.
+{44801}{44847}- Hi.|- Hi.
+{44850}{44917}Do you mind if I talk|to your daughter?
+{44920}{44981}I think that'd would be nice.
+{45020}{45087}- Hi, I'm Randy.|- I'm Lisa.
+{45090}{45157}Oh, you have a guitar!
+{45160}{45233}I thought maybe you'd|like to hear a song.
+{45236}{45273}I'd love to.
+{45276}{45341}OK. Let's see...
+{45344}{45393}This is one of my favorites.
+{47483}{47533}You're late. We've been waiting.
+{47536}{47589}- Who's first?|- Go ahead, Clarence.
+{47592}{47640}How's the weather?
+{47643}{47691}We got some heavy stuff ahead.
+{47694}{47739}We've got to climb on top.
+{47784}{47883}Yeah, after the war, I wanted|to get as far away as possible,
+{47886}{47978}so Elaine and I|joined the Peace Corps.
+{47981}{48091}We were assigned|to an isolated tribe, the Molombos.
+{48094}{48163}They'd never seen Americans before.
+{48497}{48545}It was really a challenge,
+{48548}{48624}introducing them|to our western culture.
+{48726}{48791}At first, they didn't know|what to think of us.
+{48794}{48845}But soon, we gained their trust.
+{49056}{49139}It'll help you better|prepare storing foods
+{49142}{49220}for the up and coming|monsoon months.
+{49223}{49340}Also, Supperware products|are ideal for storing leftovers
+{49343}{49409}to help stretch your food dollar.
+{49412}{49504}This two-quart|"Seals-M-Rite" container
+{49507}{49571}keeps hot dog buns fresh for days.
+{49574}{49677}These people had been completely|isolated from civilization.
+{49680}{49771}No one had outlined a physical|fitness program for them,
+{49774}{49818}and they had no athletic equipment.
+{49821}{49867}I started them|on simple calisthenics,
+{49870}{49910}worked up to rudimentary game skills,
+{49913}{49983}and finally,|advanced competitive theory.
+{49986}{50064}I was patient,|and they were eager to learn.
+{50067}{50109}They seemed to enjoy themselves.
+{50112}{50193}Probably due to advanced|American teaching techniques,
+{50196}{50265}we bridged the generations|of isolation,
+{50268}{50332}and communicated successfully|with the Molombos.
+{50485}{50529}They're getting the hang of it.
+{50532}{50580}When we re-enlist,|I'll teach them baseball.
+{50583}{50650}Ted, I don't want to stay here.
+{50653}{50757}It's time to go home|to the plans we made before the war.
+{50803}{50907}A lot of people made plans|before the war. Like George Zip.
+{51029}{51148}At that moment, I realised Elaine|had doubts about our relationship.
+{51151}{51249}And that, as much as anything else,|led to my drinking problem.
+{51277}{51373}We did come back to the States.|I tried a number of jobs.
+{51376}{51455}I could go on,|but I'd probably bore you.
+{51458}{51523}I couldn't blame Elaine.|She wanted a career.
+{51694}{51759}- I can't stand it.|- What is it?
+{51762}{51811}- Yes?|- It's my stomach.
+{51814}{51917}I haven't felt this awful|since we saw that Ronald Reagan film.
+{51920}{52007}I'll see if I can find|some dramamine.
+{52185}{52255}Captain, a woman passenger|is very sick.
+{52258}{52294}Airsick?
+{52297}{52393}I think so,|but I've never seen it so acute.
+{52396}{52493}Find out if a doctor's onboard|as quietly as you can.
+{52558}{52664}Joey, have you ever been|in a Turkish prison?
+{52723}{52796}I shouldn't have had|that second cup of coffee.
+{53072}{53151}Jim never vomits at home.
+{53154}{53226}Sorry to wake you.|I'm looking for a doctor.
+{53229}{53270}There's nothing to worry about.
+{53273}{53366}Stewardess, I think the man|next to me is a doctor.
+{53369}{53458}Sir, excuse me. Sorry to wake you,|are you a doctor?
+{53461}{53539}- That's right.|- We have sick passengers.
+{53541}{53632}- Could you come look at them?|- Yes. Yes, of course.
+{53840}{53897}Let me see your tongue.
+{54619}{54669}I'll be back in a minute.
+{54794}{54894}Tell the captain to land.|She must go to a hospital.
+{54897}{54946}A hospital! What is it?
+{54949}{55022}It's a big building with patients,|but that's not important.
+{55025}{55096}- I must speak to the captain.|- Certainly.
+{55255}{55306}Victor, we're running into heavy...
+{55309}{55361}Roger, take over!
+{55904}{55984}- Captain, how soon can you land?|- I can't tell.
+{55987}{56064}- You can tell me. I'm a doctor.|- No, I'm not sure.
+{56066}{56179}- Can't you take a guess?|- Not for another two hours.
+{56182}{56256}You can't take a guess|for another two hours?
+{56259}{56344}No, we can't land.|Fog has closed down everything.
+{56347}{56398}We've got to get through to Chicago.
+{56576}{56621}Get him out of there!
+{57238}{57286}What is it, Doctor? What's going on?
+{57289}{57348}I'm not sure.|Haven't seen anything like this
+{57351}{57399}since the Anita Bryant Concert.
+{57402}{57514}- What did we have for dinner?|- We had a choice - steak or fish.
+{57516}{57588}Yes, I remember. I had Lasagna.
+{57591}{57648}- What did he have?|- He had fish.
+{57651}{57751}Doctor, two more are sick.|The other passengers are worried.
+{57754}{57802}We'll handle the passengers.
+{57804}{57878}Find out what the sick people|had for dinner.
+{57880}{57919}This is Captain Oveur speaking.
+{57922}{58022}It's bumpy, but we'll be past it|in a few minutes.
+{58025}{58102}We're now flying over Hoover Dam,
+{58104}{58189}and later we'll pass south|of the Grand Canyon.
+{58191}{58252}Meanwhile, relax|and enjoy your flight, OK?
+{58295}{58398}Chicago, this is flight 209er.|We're in trouble.
+{58401}{58449}We need traffic below us cleared
+{58452}{58492}and priority landing in Chicago.
+{58612}{58635}Yes?
+{58639}{58731}My husband's very sick.|Can you do something?
+{58734}{58817}The doctor will be with you|in just a moment.
+{58821}{58866}Do you know what he had for dinner?
+{58869}{58921}Yes, we both had fish. Why?
+{58924}{58980}It's nothing to be alarmed about.
+{58983}{59033}We'll be back to you very quickly.
+{59185}{59251}Doctor, Mr Hammen ate fish,
+{59254}{59348}and Randy said there are five|more cases, and they all had fish.
+{59351}{59424}The co-pilot had fish.|What did the navigator have?
+{59427}{59466}He had fish.
+{59469}{59546}All right, now we know|what we're up against.
+{59549}{59668}Those who had fish for dinner|will soon become violently ill.
+{59671}{59768}- Just how serious is it?|- Extremely serious.
+{59771}{59855}It starts with a slight fever,|dryness of the throat.
+{59858}{59925}When the virus penetrates,|the victim becomes dizzy,
+{59928}{60006}and begins to experience|an itching rash.
+{60009}{60092}From there, the poison works|on the central nervous system,
+{60095}{60140}causing severe muscle spasms,
+{60142}{60189}followed by the inevitable drooling.
+{60191}{60251}At this point,|the digestive system collapses,
+{60254}{60320}accompanied|by uncontrollable flatulence.
+{60323}{60379}Until, finally,|the poor bastard is reduced
+{60382}{60444}to a quivering,|wasted piece of jelly.
+{60879}{60951}Put it on... automatic pilot.
+{60987}{61071}Automatic pilot, automatic pilot...|There it is!
+{61279}{61345}I'll go back to the passengers.
+{61400}{61462}Come in, 209er. This is Chicago.
+{61465}{61519}Flight 209er, come in.
+{61551}{61611}This is Elaine Dickinson,|the stewardess.
+{61614}{61661}Captain Oveur's passed out.
+{61664}{61748}We've lost the co-pilot|and navigator, too. We're in trouble.
+{61751}{61829}Roger. I'm Steve McCroskey,|Chicago air control.
+{61832}{61922}I'll be back in a moment.|Hold all takeoffs.
+{61925}{61989}When 508 reports,|bring it straight in.
+{61991}{62084}Suspend all meal service|on flights leaving Los Angeles.
+{62087}{62153}Tell all dispatchers|to remain at the post.
+{62155}{62197}- How about coffee?|- No, thanks.
+{62200}{62280}I want the weather|on every available landing field.
+{62283}{62323}You understand?
+{62326}{62407}Any place available|to land that plane!
+{62410}{62502}Go to the tower|and get a runway diagram.
+{62504}{62582}Check down the field|for emergency equipment.
+{62585}{62688}Chief, we got fog every place|east of the Rockies.
+{62691}{62779}They'll have|to come through to Chicago.
+{62782}{62858}Looks like I picked the wrong week|to quit smoking.
+{62861}{62970}Get the best available man|who won't crack under pressure.
+{62973}{63032}How about Mr Rogers?
+{63101}{63156}Get me Rex Kramer.
+{63271}{63361}Next to the throttle|is the air speed gauge.
+{63364}{63437}What speed does it indicate?
+{63440}{63552}- 520 miles per hour.|- Good. Very good.
+{63554}{63614}Now, check your altitude.
+{63616}{63701}That's the dial below and right|of the speed indicator.
+{63704}{63778}35,000 feet.
+{63780}{63850}No, wait. 34,000 feet.
+{63853}{63936}No. It's dropping!|It's dropping fast!
+{63939}{64003}Why is it doing that?
+{64059}{64159}Oh, my God! The automatic pilot,|it's deflating!
+{64162}{64218}Elaine, don't panic.
+{64221}{64291}On his belt line|there's a hollow tube.
+{64294}{64354}That's the manual inflation nozzle.
+{64357}{64417}Pull it out and blow on it.
+{64513}{64586}What the hell's going on up there?
+{65895}{65965}- Elaine.|- Yes, Doctor?
+{66019}{66067}Elaine, you're a member of this crew.
+{66070}{66131}- Can you face some unpleasant facts?|- No.
+{66134}{66221}Unless we hospitalise|those people quickly,
+{66224}{66293}I can't be sure|of saving their lives.
+{66296}{66369}Is there anyone on board|who can land this plane?
+{66372}{66416}Well...
+{66474}{66517}No. No one I know of.
+{66520}{66650}You ought to know our chances.|Our lives depend on just one thing -
+{66653}{66776}finding someone to fly this plane|who didn't have fish for dinner.
+{67054}{67147}Ladies and gentlemen,|this is your stewardess speaking.
+{67150}{67247}We regret any inconvenience|the sudden cabin movement caused.
+{67250}{67339}This is due to periodic air pockets.
+{67342}{67449}There's no reason to become alarmed.|We hope you enjoy your flight.
+{67452}{67566}By the way, is there anyone|on board who can fly a plane?
+{68282}{68325}Hello. I'm Paul Carey|from the airline.
+{68328}{68386}- I'm here to pick up Captain Kramer.|- Yes. Come in, Paul.
+{68389}{68439}Rex will be right out.
+{68495}{68559}Shep, sit. Sit!
+{68561}{68626}I understand there's an emergency.
+{68629}{68735}Something like that. There wasn't|time to tell me very much...
+{68793}{68839}Shep, no!
+{68842}{68921}I'll bet exciting things|happen all the time down there.
+{68924}{68984}Airline business|does have its moments.
+{68987}{69049}After a while, you get used to it.
+{69089}{69135}Shep! Come!
+{69176}{69257}He gets so excited|when new people are here.
+{69260}{69333}- Are you a pilot?|- No, I'm in...
+{69336}{69392}a training program.
+{69395}{69474}It's unbelievable.|It's just unbelievable.
+{69477}{69561}How many times have I warned|about food inspection?
+{69564}{69632}You'd think|someone would listen to you.
+{69635}{69752}Well, airport management,|the FAA, and the airlines...
+{69755}{69809}they're all cheats and liars.
+{69812}{69876}All right. Let's get out of here.
+{70031}{70153}I'm sorry, I was just looking|for someone with flying experience.
+{70156}{70251}When they built those roads,|they didn't think about drainage,
+{70254}{70348}so we had to take a special jeep|up to the main road.
+{70351}{70400}We were lucky to get a jeep,
+{70403}{70506}since, just the day before,|only one we had broke down.
+{70510}{70545}It had a bad axle...
+{70548}{70617}Excuse me, sir.|There's a problem in the cockpit.
+{70620}{70665}The cockpit? What is it?
+{70668}{70747}The little room where the pilot sits.|That's not important.
+{70750}{70789}The first officer is ill,
+{70792}{70867}and the captain needs someone|to help him with the radio.
+{70870}{70929}Do you know anything about planes?
+{70932}{71002}I flew in the war years ago.
+{71005}{71083}I wouldn't know anything about it.
+{71086}{71134}Would you go up, please?
+{71540}{71581}The stewardess said...
+{71637}{71725}- Both pilots?|- Can you fly this plane and land it?
+{71728}{71784}Surely, you can't be serious.
+{71787}{71852}I am serious,|and don't call me Shirley.
+{71881}{71970}Doctor, I've checked everyone.|Mr Striker's the only one.
+{71973}{72014}What's your flying experience?
+{72017}{72115}I flew single-engine fighters,|but this plane has four engines.
+{72118}{72187}It's an entirely different|kind of flying... altogether.
+{72190}{72267}It's an entirely different|kind of flying.
+{72324}{72396}I haven't touched|any kind of plane in six years.
+{72399}{72479}Mr Striker,|I know nothing about flying.
+{72482}{72596}You're the only one on this plane|who can possibly fly it.
+{72599}{72663}You're the only chance we've got.
+{73641}{73738}That's right. That's what I said.|You heard me.
+{73741}{73789}Tell Omaha to acknowledge|and stand by.
+{73792}{73874}Every piece|of emergency equipment available.
+{73877}{73950}Alert rescue units every mile|of the way, from here to the Rockies.
+{73953}{74002}Chief!
+{74005}{74077}We'll need|a free-landing flight check. Fast.
+{74080}{74132}- It's your wife.|- I want the kids in bed by nine,
+{74135}{74188}the dog fed, the yard watered,|the gate locked.
+{74191}{74264}Get a note to the milkman -|"No more cheese."
+{74314}{74363}Where the hell is Kramer?
+{74565}{74662}No, he can't do that.|The risk of a flame-out's too great.
+{74665}{74742}Keep him at 24,000... No, feet.
+{74820}{74884}A passenger is going|to land that plane.
+{74887}{74961}- Is that possible?|- It's a hundred to one shot.
+{75060}{75142}- I know this guy.|- You do? Who is it?
+{75145}{75211}Ted striker.|I flew with him during the war.
+{75214}{75302}It won't make my job easier.
+{75305}{75382}Ted Striker was a crack|flight leader.
+{75385}{75515}He was one of those men who...|felt too much inside.
+{75518}{75567}Maybe you know that kind.
+{75570}{75659}He went all to pieces|on a particular mission.
+{75662}{75735}Let's just hope|that doesn't happen tonight.
+{75914}{76015}Let's see... Altitude, 24,000 feet.
+{76044}{76128}Level flight. Speed, 520 knots.
+{76131}{76196}Course Zero Niner Zero.
+{76199}{76291}Trim, mixture.|Wash, soap, rinse, spin.
+{76377}{76479}Ted! What are you doing here?|You can't fly this plane!
+{76482}{76532}That's what I'm trying to tell them.
+{76535}{76640}Elaine. I don't have time to be|gentle, so I'll be very direct.
+{76643}{76703}Everyone is in a desperate situation.
+{76706}{76786}Mr Striker is the only hope we got.
+{76875}{76989}Those are the flaps.|This is the thrust.
+{76992}{77073}This must turn on the landing lights.
+{77398}{77488}- Mayday! Mayday!|- Mayday? What the hell is that?
+{77491}{77579}May Day's the Russian new year.|We'll have a big parade and serve...
+{77845}{77898}I can't stand it any more.
+{77901}{77969}I've got to get out of here!
+{77972}{78021}Calm down! Get a hold of yourself!
+{78024}{78097}- Please let me handle this.|- I've got to get out...
+{78135}{78216}Calm down. Get to your seat.|I'll handle it.
+{78219}{78266}Calm down. Get ahold of yourself.
+{78269}{78324}Doctor, you're wanted on the phone.
+{78354}{78407}Everything will be all right.
+{78411}{78485}- Sister, I can handle this.|- Got to get out of here!
+{78597}{78659}We'd like you to have this flower.
+{78704}{78744}Excuse me, sir, would you...
+{78747}{78814}Donations for Reverend Moon?
+{78817}{78858}Jews for Jesus?
+{78861}{78941}Read about Jehovah's Witness?
+{78944}{79003}How about Buddhism?
+{79006}{79057}Help Jerry's kids?
+{79060}{79133}- Scientology?|- For nuclear power?
+{79298}{79392}Your attention, please.|No-frills passengers now arriving.
+{79395}{79491}Please have your baggage|claim checks ready to show
+{79494}{79547}upon leaving the terminal.
+{79550}{79622}This guy has no airline experience.
+{79625}{79693}He's a menace|to everything in the air.
+{79696}{79739}Yes, birds, too.
+{79742}{79825}OK, he's a terrible risk,|but what other choice have we got?
+{79828}{79920}That's the whole story, Rex.|Everything we know.
+{79923}{79974}Let's face a few facts.
+{79977}{80042}I flew with Striker during the war.
+{80045}{80144}He can't afford to worry about those|times when... things weren't so good.
+{80147}{80248}- Right now things aren't so good.|- Let me tell you something.
+{80251}{80326}Striker was a top-notch|squadron leader long ago.
+{80329}{80434}Get on the horn|and talk that guy down.
+{80437}{80510}Let him get the feel|of that airplane,
+{80513}{80619}then you'll have to talk him|right down to the ground.
+{80656}{80722}Very well.|Put Striker on the speaker.
+{80725}{80798}Use my radio.
+{80801}{80883}I took the wrong week|to quit drinking.
+{80931}{81010}You can work them direct|from here, Captain.
+{81051}{81176}Striker? Striker, this is|Captain Rex Kramer speaking.
+{81247}{81344}Yes, Captain Kramer.|Read you loud and clear.
+{81426}{81501}All right.|It's obvious you remember me.
+{81504}{81611}What do you say we forget about|everything, except what we must do?
+{81614}{81670}Let's not kid each other, Kramer.
+{81673}{81746}You know I've never flown|a bucket like this.
+{81749}{81832}- I'll need all the luck there is.|- Stand by, Striker.
+{81835}{81955}Our one hope is to build this man up.|I've got to give him confidence.
+{81958}{82043}Striker, you ever flown|a multi-engine plane?
+{82046}{82116}- No, never.|- Shit! It's a goddamn waste of time.
+{82119}{82168}There's no way he can land it!
+{82171}{82233}You got to talk him down! You got to!
+{82236}{82318}Route him into Lake Michigan. At|least avoid killing innocent people.
+{82321}{82392}You're the only chance they've got.
+{82450}{82504}All right.
+{82507}{82597}Striker, you listen,|and you listen close.
+{82600}{82654}Flying a plane|is like riding a bicycle.
+{82657}{82745}It's just harder|to put baseball cards in the spokes.
+{82748}{82794}First, get the feel of the plane.
+{82797}{82915}Later, we'll run down|the landing procedure.
+{82976}{83062}All right.|Disengage the automatic pilot.
+{83065}{83167}Make no violent control movements|like you did in the fighter planes.
+{83170}{83243}All right.|I'll unlock the automatic pilot.
+{83372}{83459}The controls will feel very heavy|compared to a fighter.
+{83507}{83580}Don't worry about that.|It's perfectly normal.
+{83875}{83923}Now, one more thing.
+{83926}{84004}Can somebody work the radio|and leave you free for flying?
+{84007}{84051}The stewardess is here with me.
+{84054}{84141}Good. Have her sit|in the co-pilot seat.
+{84172}{84269}Elaine, he wants you|to sit in the co-pilot seat.
+{84446}{84549}What's going on?|We have a right to know the truth.
+{84552}{84600}All right, I'll level with you all.
+{84603}{84678}The most important thing|is that you remain calm.
+{84681}{84733}There's no reason to panic.
+{84736}{84814}It's true|one of the crew members is ill.
+{84817}{84865}Slightly ill.
+{84868}{84932}The other two pilots are fine.
+{84935}{84980}They're flying the plane,
+{84983}{85039}free to pursue|a life of religious fulfilment.
+{85042}{85156}The radio is all yours. Keep an eye|on number three engine gauge.
+{85159}{85207}It's running a little hot.
+{85285}{85359}Striker,|first I'd like to say something.
+{85362}{85451}I know things must look|pretty rough up there.
+{85454}{85520}If you do what I tell you|when I tell you,
+{85523}{85588}there's no reason|you should lack confidence
+{85591}{85678}in your chances of coming out|alive and in one piece.
+{85681}{85738}What weather are you in?
+{85741}{85822}- Rain.|- And a little ice.
+{85825}{85865}And a little ice.
+{85868}{86006}- How's it handling?|- Sluggish. Like a wet sponge.
+{86009}{86066}Sluggish. Like a wet sponge.
+{86069}{86150}All right, Striker.|You're doing just fine.
+{86177}{86248}It's damn good|he doesn't know I hate his guts.
+{86251}{86345}It's damn good|you don't know he hates your guts.
+{86505}{86569}Can I get you something?
+{86698}{86742}I'm sorry. I don't understand.
+{86779}{86856}- Stewardess. I speak jive.|- Good.
+{86859}{86906}He said he's in great pain,
+{86909}{86982}and he wants to know|if you can help him?
+{86985}{87089}Tell him to relax.|I'll be back with some medicine.
+{87793}{87878}Call Captain Oveur's wife|and let her know what's going on.
+{87881}{87959}This weather bulletin|just came off the wire.
+{87997}{88044}What can you make out of this?
+{88047}{88151}This? I can make a hat|or a brooch or pterodactyl...
+{88399}{88450}- Hello?|- Mrs Oveur?
+{88453}{88497}Yes, this is Mrs Oveur.
+{88500}{88559}This is Ed Macias|calling from the airport.
+{88562}{88617}There's trouble|on your husband's flight.
+{88620}{88668}We don't know how serious it is,
+{88671}{88754}but Steve McCroskey thought you'd|want to come over right away.
+{88757}{88825}Yes. I'll be right down.
+{88897}{88947}I've got to go to the airport.
+{88950}{89010}You can let yourself|out the back door.
+{89013}{89061}There's juice in the refrigerator.
+{89266}{89335}Doctor says the sick people|are getting worse.
+{89338}{89384}We're running out of time.
+{89429}{89472}I've got to concentrate.
+{89520}{89569}I've got to concentrate.
+{89619}{89658}Hello?
+{89695}{89733}Echo!
+{89778}{89864}Pinch hitting for Pedro Bourbone,
+{89867}{89915}Manny Mota.
+{90006}{90094}- How you doing, honey?|- Jack, I'm so hot, I'm burning up.
+{90097}{90146}I'll turn on some air.
+{90288}{90369}- What's going on?|- Close the window!
+{90372}{90430}Chicago,|the passengers are panicking.
+{90433}{90486}When do we start down?
+{90489}{90588}Not yet. You'll be in radar range|any second now.
+{90591}{90679}They should have been in range|10 minutes ago.
+{90682}{90776}Gunderson, check the radar range.|Anything yet?
+{90779}{90825}About two more minutes, chief.
+{90924}{90979}Two minutes?|They could be miles off course.
+{90982}{91023}Impossible! They're on instruments.
+{91129}{91184}This is going to be a real sweat.
+{91187}{91253}Gunderson,|let me know when you get anything.
+{91256}{91295}Got a cigarette, Nels?
+{91298}{91365}I can't take much more of this.
+{91432}{91531}Looks like I picked the wrong week|to quit amphetamines.
+{91534}{91584}- Johnny, how about some more coffee?|- No, thanks.
+{91590}{91648}These reporters want a statement.
+{91651}{91742}- How much longer can they hold out?|- 30, 45 minutes.
+{91745}{91812}- Who's flying the plane?|- A passenger.
+{91815}{91895}He's an experienced air force pilot.|No cause for alarm.
+{91898}{91950}- Take over.|- What kind of plane?
+{91953}{92012}It's a big, pretty white plane
+{92015}{92087}with red stripes,|curtains and wheels.
+{92090}{92138}It looks like a big tylenol.
+{92141}{92215}OK, boys. Let's get some pictures.
+{92915}{92957}This bulletin just handed to me.
+{92960}{93007}Stricken airliner|approaching Chicago...
+{93350}{93414}Shana, they bought their tickets.
+{93417}{93517}They knew what|they were getting into.
+{93520}{93596}I say, let them crash!
+{93961}{94039}- Would you like some whisky, ma'am?|- Certainly not!
+{94330}{94379}How are the passengers?
+{94382}{94455}I won't deceive you, Mr Striker.|We're running out of time.
+{94458}{94527}Surely, there's something you can do.
+{94530}{94587}I'm doing everything I can...
+{94590}{94640}and stop calling me Shirley.
+{95212}{95273}Randy, are you all right?
+{95276}{95360}Oh, Dr Rumack.
+{95363}{95398}I'm scared.
+{95401}{95465}I've never been so scared...
+{95467}{95559}And besides,|I'm 26 and I'm not married.
+{95562}{95645}We're going to make it.|You've got to believe that.
+{95648}{95725}Dr Rumack, do you have any idea|when we'll be landing?
+{95728}{95776}Pretty soon. How are you bearing up?
+{95779}{95853}To be honest,|I've never been so scared,
+{95856}{95914}but at least I have a husband.
+{96232}{96319}Stay in formation.|Target's just ahead.
+{96322}{96401}Target should be clear|if you go in low enough.
+{96404}{96489}You'll have to decide.|You'll have to decide.
+{96492}{96559}You'll have to decide.
+{96562}{96621}Stay in formation.|Target's just ahead.
+{96624}{96711}Target should be clear|if you go in low enough.
+{96714}{96788}You'll have to decide.|You'll have to decide.
+{96791}{96833}You'll have to decide.
+{96949}{97042}Oh, rats! Lost number four.
+{97045}{97103}What happened? What went wrong?
+{97106}{97177}I forgot to check the oil pressure.
+{97180}{97273}When Kramer hears about this,|the shit's going to hit the fan.
+{97336}{97415}I told him to watch that|oil temperature. What's he doing?
+{97418}{97484}Stiker, that plane can't land itself.
+{97487}{97574}Ease off. It's not his fault.|It could happen to any pilot.
+{97577}{97622}It happened to Barbara Stanwyck.
+{97625}{97712}Can't push him too hard. Might break.|Remember who you're dealing with.
+{97715}{97767}Nick, Pete, Jerry,|there's a fire in the barn.
+{97807}{97886}He's right.|I can't take the pressure.
+{97889}{97962}I was crazy to think|I could land this plane.
+{97965}{98035}- But, Ted, you're the only...|- I don't care.
+{98038}{98082}I don't have what it takes.
+{98085}{98170}They would be better off with someone|who's never flown before.
+{98422}{98490}Bad news. Fog's getting thicker.
+{98493}{98599}And Leon's getting larger.
+{99162}{99245}I know what you're going to say,|so save your breath.
+{99287}{99355}Well, I don't have a thing to say.
+{99358}{99427}You've done the best you could.
+{99430}{99499}You really have. The best you could.
+{99502}{99573}We can't expect to win them all.
+{99622}{99730}I want to tell you something I've|kept to myself through these years.
+{99733}{99831}I was in the war. Medical corps.
+{99834}{99956}One night, they brought in|a badly wounded pilot from one raid.
+{99959}{100014}He could barely talk.
+{100017}{100067}He looked up at me, he said,
+{100070}{100184}"The odds were against us there,|but we went in anyway.
+{100187}{100308}"I'm glad.|Captain made the right decision."
+{100349}{100405}The pilot's name was George Zip.
+{100447}{100498}George Zip said that?
+{100536}{100584}The last thing he said to me,
+{100587}{100677}"Doc," he said, "Sometime...
+{100680}{100730}"...the crew is up against it.
+{100733}{100788}"The breaks are beating the boys.
+{100791}{100903}"Tell them to give it all they've got
+{100906}{100981}"and win just one for the Zipper.
+{101037}{101133}"I don't know|where I'll be then," he said...
+{101136}{101225}"but I won't smell too good,|that's for sure."
+{101275}{101344}Excuse me, doc.
+{101347}{101398}I've got a plane to land.
+{101588}{101637}You'd better stay up there a bit.
+{101640}{101695}When the fog lifts,|we'll bring you in.
+{101698}{101747}I'll take it, Elaine.
+{101922}{102031}Listen, Dr Rumack says the sick|people are in critical condition.
+{102034}{102108}Every minute counts.|We've got to land now.
+{102112}{102211}Don't be a fool, Striker. You know|what landing like this means.
+{102214}{102260}I'm ordering you to stay up there.
+{102263}{102310}No dice, Chicago.
+{102313}{102385}I'm giving the orders,|and we're coming in.
+{102388}{102471}I guess the foot's|on the other hand now.
+{102521}{102580}He'll never make it in this soup.
+{102583}{102670}But it's his ship now.|He's in charge.
+{102673}{102737}He's boss, head man, top dog,
+{102740}{102790}big cheese, head honcho...
+{102793}{102837}Captain, look at this.
+{102840}{102905}"Passengers certain to die."
+{102908}{102961}"Airline negligent."
+{102964}{103032}There's a sale at Penny's!
+{103089}{103172}I'll need three men in the tower.|You, Neubauer, you, Macias.
+{103175}{103223}Me John. Big tree.
+{103247}{103326}Striker, we're going to the tower.|Good luck.
+{103329}{103371}They're going to the tower.
+{103374}{103475}The tower! The tower!|Rapunzel! Rapunzel!
+{103577}{103647}Stewardess, how soon till we land?
+{103650}{103731}It won't be long now.|Try not to worry.
+{104043}{104088}We're all ready, sir.
+{104091}{104141}Captain McCroskey,|this is Captain Roberts.
+{104144}{104196}Captain Kramer,|this is Captain Colosimo.
+{104199}{104243}Captain Hinshaw,|this is Captain Gantz.
+{104246}{104331}Captain Kramer, Captain Gantz.|Captain Hinshaw, Captain Roberts.
+{104333}{104381}Colosimo, you work the relay.
+{104383}{104436}Roberts, check air traffic.
+{104439}{104543}Get that finger out of your ear.|You don't know where it's been.
+{104589}{104645}- Steve!|- Got a cigarette, Nels?
+{104648}{104735}Linda, your husband and the others|are alive but unconscious.
+{104738}{104785}Just like Gerald Ford.
+{104788}{104894}There's a chance we can save them|if Striker lands that plane in time.
+{104897}{104953}That isn't much of a chance.
+{104956}{105049}I don't know. We're doing|everything we can. Now excuse me.
+{105120}{105199}Where did you get that dress?|It's awful!
+{105202}{105273}And those shoes and that coat! Geez!
+{105373}{105465}8 miles. Turn right to heading 044.
+{105514}{105587}We're now at 2,000 feet|beginning our descent.
+{105590}{105701}- Pour every light onto that field.|- It's being done.
+{105808}{105888}Tower to emergency vehicles,|runway is niner.
+{105891}{105977}Airport vehicles,|take positions one and two.
+{105980}{106032}Civilian equipment, number three.
+{106083}{106151}Air force, positions four and five.
+{106154}{106208}All ambulances go to number three.
+{106210}{106307}Air Israel, please clear the runway.
+{106422}{106500}In a moment, we'll ask you|to assume crash positions.
+{106503}{106557}Life jackets are under your seat.
+{106559}{106617}Place it over your head.
+{106620}{106704}When I give the word,|pull the cord on the right side flap.
+{106745}{106829}Your seat cushions are also equipped|with a flotation device.
+{106856}{106962}WZAZ in Chicago,|where disco lives forever.
+{107053}{107155}Your altitude's too erratic.|You can't come straight in.
+{107158}{107212}You've got enough fuel for two hours.
+{107215}{107290}I'll take it, Elaine.|Listen to me, Kramer.
+{107293}{107393}We have people up here who will die|in less than an hour.
+{107396}{107516}I may bend your precious airplane,|but I'll get it down.
+{107519}{107618}- The passengers are ready.|- Thanks, Randy.
+{107621}{107723}You better leave, sweetheart.|You might get hurt up here.
+{107933}{108015}- Ted...|- Yes?
+{108018}{108120}I wanted you to know... now...
+{108123}{108185}I'm very proud.
+{108258}{108331}Tell them the gear is down|and we're ready to land.
+{108420}{108493}The gear is down,|and we're ready to land.
+{108539}{108577}He's on final now.
+{108580}{108651}Put out all runway lights|except niner.
+{108683}{108785}Captain, maybe we ought|to turn on the searchlights.
+{108788}{108830}No.
+{108833}{108931}That's just what they'll|be expecting us to do.
+{109042}{109143}I want to tell you both good luck.|We're all counting on you.
+{109183}{109236}Now listen carefully.
+{109239}{109294}You'll see the runway at 300 feet.
+{109297}{109372}Touch down a third of the way.
+{109375}{109434}A slight cross wind, so be ready.
+{109436}{109508}Land too fast,|use your emergency brakes.
+{109510}{109602}Red handle's right in front.|If that doesn't stop you...
+{109735}{109826}If that doesn't stop you,|cut the four ignition switches.
+{109908}{110018}Can you see us now? You should|be able to see the field.
+{110177}{110275}- Sure is quiet out there.|- Yeah, too quiet.
+{110308}{110406}Looks like I picked the wrong week|to quit sniffing glue.
+{110708}{110752}There it is.
+{110796}{110819}There he is!
+{110880}{110929}Striker, you're coming in too fast.
+{110932}{110974}I know, I know!
+{110977}{111021}He knows, he knows!
+{111089}{111145}Below 700 now. Still going down.
+{111148}{111239}675, 650, 625, he's holding.
+{111242}{111287}No, he's down, he's down.
+{111290}{111338}Sound your alarm now.
+{111385}{111450}Now, everybody,|get in crash positions.
+{111580}{111625}Put down 30 degrees of flap.
+{111719}{111795}All right, listen to me.|Remember your brakes and switches.
+{111798}{111840}Get ready to flare it out!
+{111843}{111893}He's all over the place.
+{111896}{111983}900 up to 1,300 feet.|What an asshole.
+{111985}{112051}More left rudder. Put down more flap.
+{112177}{112220}Just kidding!
+{112247}{112327}Striker, lift your nose.|Straighten your wings.
+{112330}{112401}Coming in too fast. Watch your speed.
+{112404}{112458}He's coming right at us!
+{112557}{112638}Coming in too hot.|Ease up on the throttle.
+{112641}{112733}Watch out for that cross wind.|Level it out.
+{112735}{112785}You'll have to dip your left wing.
+{112845}{112928}You're drifting. Keep your eyes|on the far end of the runway.
+{112983}{113028}You're too low, damn it!
+{113070}{113112}Watch your stall speed.
+{113192}{113229}Flare it out!
+{113296}{113342}Ease her down. Down!
+{113449}{113520}The brake! Pull the red handle!
+{113632}{113730}I want to tell you both good luck.|We're all counting on you.
+{113874}{113983}Flight 209 now arriving|at gate eight.
+{113985}{114038}Gate nine.
+{114041}{114075}Gate ten.
+{114078}{114142}Pull out of it! Push that button!
+{114304}{114382}Gate 13... Gate 14.
+{114384}{114422}Gate 15...
+{114654}{114733}Auntie Em! Toto! It's a twister!
+{114795}{114882}Gate 23, 24, 25...
+{115429}{115557}I want to tell you both good luck.|We're all counting on you.
+{115661}{115699}Striker?
+{115702}{115805}- Striker, are you all right?|- Yeah. We're OK.
+{115808}{115881}Ted, that was probably|the lousiest landing
+{115883}{115946}in the history of this airport.
+{115949}{115998}But some of us, particularly me,
+{116001}{116096}would like to buy you a|drink and shake your hand.
+{116220}{116291}And, Ted, when the going got rough...
+{116359}{116419}Have a nice day. OK.
+{116422}{116502}Have a nice day and thank you|for flying TransAmerican.
+{116505}{116587}Loneliness, that's the bottom line.
+{116590}{116639}I was never happy as a child.
+{116642}{116696}Christmas,|what does that mean to you?
+{116699}{116750}Mine was living hell.
+{116753}{116826}Do you know what it's like|to fall in the mud
+{116829}{116898}and get kicked in the head|by an iron boot?
+{116901}{116955}Of course not. It never happens.
+{116958}{117012}Sorry. That's a dumb question.|Skip that.
+{117133}{117200}There you go. Have a nice day.
+{117554}{117637}Municipal bonds, Ted.|Talking double "A" rating.
+{117640}{117704}Best investment in America.
+{125652}{125750}Well, I'll give him|another 20 minutes, but that's it.

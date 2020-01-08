@@ -1,0 +1,3734 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:09.00,00:00:12.10
+Want to see it again, little girl?[br]It shouldn't frighten you.
+
+00:00:30.70,00:00:33.90
+I'm sorry. Nothing until[br]matinee tomorrow.
+
+00:00:45.10,00:00:46.90
+Lady,[br]would ya mind takin' off your hat?
+
+00:00:47.00,00:00:48.20
+Excuse me.
+
+00:01:00.20,00:01:02.60
+Atta girl, Janey. Show 'em how!
+
+00:01:29.50,00:01:32.40
+Oh, thank you, folks.[br]Thank you very much, thank you...
+
+00:01:34.70,00:01:36.40
+One final request, all right?
+
+00:01:44.20,00:01:45.80
+"I've Written a Letter to Daddy!"
+
+00:01:46.50,00:01:48.70
+All right, thank you.
+
+00:01:49.50,00:01:51.40
+"I've Written a Letter to Daddy."
+
+00:02:09.40,00:02:15.00
+"I've written a letter to Daddy.
+
+00:02:16.10,00:02:21.30
+"His address is heaven above.
+
+00:02:22.30,00:02:28.00
+"I've written, Dear Daddy,[br]we miss you...
+
+00:02:28.70,00:02:34.30
+"...and wish you were with us to love.
+
+00:02:35.20,00:02:40.00
+"Instead of a stamp I put kisses.
+
+00:02:41.60,00:02:47.30
+"The postman says that's best to do.
+
+00:02:48.10,00:02:52.80
+"I've written this letter to Daddy...
+
+00:02:53.40,00:02:59.30
+"...saying, I love you.
+
+00:03:21.80,00:03:26.90
+"I've written a letter to Daddy...
+
+00:03:27.50,00:03:34.40
+"...saying, I love you!"
+
+00:03:52.30,00:03:53.70
+Well, what do you have here?
+
+00:03:54.60,00:03:55.70
+All for you.
+
+00:03:56.00,00:03:58.20
+Jane, isn't that a beautiful doll?
+
+00:03:58.50,00:04:00.30
+Thank you, young man,[br]that's a gorgeous doll!
+
+00:04:00.50,00:04:03.70
+Folks, have you ever seen[br]such a lovely doll?
+
+00:04:15.60,00:04:17.80
+Don't forget, there's a genuine...
+
+00:04:17.90,00:04:20.70
+...Baby Jane doll waiting for each and[br]every one of you right out in the foyer.
+
+00:04:20.90,00:04:23.80
+All you have to do is go out there[br]and collect it. And kids, remember...
+
+00:04:24.00,00:04:26.80
+...you can tell your moms that[br]each and everyone of these...
+
+00:04:27.00,00:04:29.10
+...genuine, beautiful, great[br]big dolls...
+
+00:04:29.40,00:04:33.50
+...is an exact replica of your own[br]Baby Jane Hudson.
+
+00:04:37.00,00:04:39.80
+Baby Jane dolls.[br]Only $3.25.
+
+00:04:53.90,00:04:57.00
+I won't, I don't wanna[br]go back to that ol' hotel!
+
+00:04:57.40,00:05:00.00
+I don't have to take a nap[br]and you can't make me!
+
+00:05:00.10,00:05:01.60
+Now, Jane, don't act up, sweetheart.
+
+00:05:01.70,00:05:03.40
+You've got to take your nap.[br]You know that.
+
+00:05:03.50,00:05:06.00
+No, I don't know and I'm not going to!
+
+00:05:07.00,00:05:09.10
+You don't want all these[br]nice friends of yours out here...
+
+00:05:09.20,00:05:11.30
+...to think that you're[br]a bad little girl, do ya?
+
+00:05:11.30,00:05:14.30
+I don't care! I want an ice cream!
+
+00:05:14.40,00:05:16.70
+Janey, I told you...
+
+00:05:16.70,00:05:19.90
+I make the money,[br]so I can have what I want!
+
+00:05:21.40,00:05:23.10
+Leave me alone! I need an ice cream!
+
+00:05:25.30,00:05:26.80
+Well, if you need an ice cream...
+
+00:05:27.30,00:05:28.80
+...I guess you better have some.
+
+00:05:28.90,00:05:30.70
+I mean, it's pretty hot and all.
+
+00:05:30.90,00:05:33.20
+But remember, this is[br]the last time this week.
+
+00:05:33.70,00:05:37.50
+All right, Daddy.[br]Blanche wants some, too.
+
+00:05:37.80,00:05:39.60
+We gotta have some[br]ice cream for Blanche.
+
+00:05:42.40,00:05:43.80
+I don't want anything.
+
+00:05:44.20,00:05:46.00
+What do you think you're tryin' to do?!
+
+00:05:46.30,00:05:48.90
+I always said it's the parents' fault[br]in cases like this.
+
+00:05:49.30,00:05:50.90
+I'm really disappointed!
+
+00:05:51.50,00:05:53.90
+It sure is a hot day today.
+
+00:06:08.00,00:06:10.50
+You're the lucky one, though,[br]Blanche, really you are.
+
+00:06:10.80,00:06:13.60
+Someday it's going to be you[br]that's getting all the attention.
+
+00:06:13.90,00:06:15.40
+And when that happens, I...
+
+00:06:17.40,00:06:19.70
+...I want you to try to be kinder[br]to Jane and your father...
+
+00:06:19.80,00:06:21.80
+...than they are to you now.
+
+00:06:23.90,00:06:25.40
+You know what I mean?
+
+00:06:29.00,00:06:31.60
+I hope you'll try'n remember that.
+
+00:06:32.70,00:06:34.50
+I won't forget.
+
+00:06:34.90,00:06:37.20
+You bet I won't forget!
+
+00:06:44.30,00:06:45.80
+The Seltzer Agency sent you?
+
+00:06:46.80,00:06:48.60
+Think there's any chance for me?
+
+00:06:48.70,00:06:51.30
+There's a chance if Mr. Weber likes you.
+
+00:06:51.80,00:06:53.60
+What type does he like?
+
+00:06:55.70,00:06:57.10
+A lot of personality.
+
+00:06:58.10,00:07:00.60
+I'll catch on, watch me.
+
+00:07:03.10,00:07:05.10
+Oh, boy! Oh, boy!
+
+00:07:08.00,00:07:11.00
+With my money[br]I should make a picture like that, huh?
+
+00:07:14.30,00:07:16.50
+Good morning, Mr. Weber.[br]I'm Ms. Brent.
+
+00:07:16.60,00:07:18.90
+Yes. Won't you come a little closer,[br]please?
+
+00:07:19.00,00:07:22.00
+She's got a southern accent[br]like I got a southern accent.
+
+00:07:26.90,00:07:30.10
+I know it's 11:00![br]I'll be there when I get there!
+
+00:07:34.30,00:07:35.80
+Gardner is here to see you.
+
+00:07:36.00,00:07:38.00
+Gardner?
+
+00:07:38.10,00:07:39.10
+I'll come out.
+
+00:07:40.20,00:07:41.90
+I'll be right back, Ms. Brent.
+
+00:07:41.90,00:07:43.70
+Have yourself a cigarette.
+
+00:07:43.80,00:07:44.90
+Make yourself at home.
+
+00:07:44.90,00:07:46.50
+Then the job is mine?
+
+00:07:46.90,00:07:48.10
+Need you ask?
+
+00:08:26.30,00:08:27.30
+Kill it!
+
+00:08:31.10,00:08:33.00
+What do you think, Ben?
+
+00:08:33.60,00:08:36.00
+What's thinking got to do with it, huh?
+
+00:08:36.90,00:08:39.00
+She stinks, doesn't she?
+
+00:08:39.80,00:08:43.00
+They say the end's pretty good.[br]Maybe we should've seen it through.
+
+00:08:44.80,00:08:47.40
+You gonna want that picture[br]again today, Mr. Feldman?
+
+00:08:49.40,00:08:53.50
+I don't think anybody's ever gonna want[br]that picture again!
+
+00:09:00.30,00:09:02.50
+When the old man hired them[br]Hudson sisters...
+
+00:09:02.80,00:09:05.30
+...how come he had to hire[br]the back end of the act, too?
+
+00:09:05.50,00:09:08.10
+Boy, what a no-talent broad[br]that Baby Jane is!
+
+00:09:08.40,00:09:10.70
+Why can't she stay sober?
+
+00:09:12.20,00:09:15.20
+Jane's got her pride.[br]She's a very sensitive girl.
+
+00:09:15.50,00:09:19.00
+Your "very sensitive girl" guzzled[br]her way through six cases of Scotch...
+
+00:09:19.30,00:09:20.80
+...and slugged two studio cops.
+
+00:09:20.90,00:09:24.20
+Not to mention one or two other[br]less savory items of publicity...
+
+00:09:24.50,00:09:26.50
+...before we got that so-called[br]epic in the can.
+
+00:09:26.80,00:09:28.50
+Anyway, you don't have to talk to Jane.
+
+00:09:28.80,00:09:31.10
+If Blanche will only let us out[br]of that clause in the contract...
+
+00:09:31.10,00:09:33.40
+...which says that we have to make[br]a picture with Baby Jane...
+
+00:09:33.50,00:09:35.30
+...for every picture that we make[br]with Blanche.
+
+00:09:35.40,00:09:37.50
+Then Baby Jane's contract[br]won't be any problem.
+
+00:09:37.80,00:09:39.70
+You see, that's what we pay lawyers for.
+
+00:09:39.80,00:09:40.70
+Possibly.
+
+00:09:40.90,00:09:44.10
+But somehow,[br]I can't see Blanche doing that.
+
+00:09:44.30,00:09:45.40
+You know, I don't get it!
+
+00:09:45.50,00:09:47.40
+Blanche Hudson's the biggest thing[br]in movies today.
+
+00:09:47.60,00:09:50.10
+She can write her own ticket.[br]She's got a script approval.
+
+00:09:50.30,00:09:52.70
+She's got more money than she knows[br]what to do with...
+
+00:09:54.10,00:09:57.80
+You know, she just bought that[br]tremendous place Valentino used to have.
+
+00:09:57.80,00:09:59.20
+It's gonna take her a year[br]to fix it up...
+
+00:09:59.40,00:10:01.80
+...the way she wants it[br]before they move in.
+
+00:10:02.00,00:10:05.40
+Well I guess they can manage[br]to struggle on where they are now.
+
+00:10:05.50,00:10:07.60
+But, my point is she ought to have[br]sense enough to know that...
+
+00:10:07.70,00:10:11.40
+...she can't make a star[br]out of Baby Jane again.
+
+00:10:11.50,00:10:14.60
+Blanche doesn't have[br]any illusions like that.
+
+00:10:15.30,00:10:18.50
+But she's a very fine person, Ben.
+
+00:10:18.80,00:10:20.90
+She's never gonna forget[br]those early years.
+
+00:10:21.20,00:10:23.20
+What her sister did for her.[br]She told me that herself.
+
+00:10:23.30,00:10:27.30
+Well, I tell you, she's not doin'[br]Baby Jane any favor.
+
+00:10:27.50,00:10:30.50
+Someday, sooner or later,[br]that girl's gonna end up in a home.
+
+00:10:32.90,00:10:35.20
+Look, you're going to their party[br]at the Grove tonight, aren't you?
+
+00:10:35.80,00:10:39.10
+Did you ever try refusing[br]one of Blanche's invitations?
+
+00:10:39.40,00:10:41.70
+Do me a favor, Marty, will ya?[br]You talk to Blanche.
+
+00:10:42.00,00:10:44.00
+Try to make her understand, huh?
+
+00:10:44.70,00:10:46.40
+- Do my best.[br]- Thanks...
+
+00:10:48.20,00:10:50.50
+Remind me to send you[br]one of those...
+
+00:10:50.60,00:10:53.00
+...Baby Jane dolls for Christmas.
+
+00:10:54.10,00:10:56.10
+I've got mine for this year.
+
+00:10:58.00,00:10:59.90
+I don't get it, Marty.
+
+00:11:00.40,00:11:02.60
+What do they make monsters[br]like this for?
+
+00:11:02.90,00:11:04.70
+For Blanche Hudson.
+
+00:11:08.30,00:11:10.50
+That's our problem.
+
+00:14:59.90,00:15:01.60
+You go to bed!
+
+00:15:10.90,00:15:13.00
+- Hi, Mom![br]- Oh, hi, dear.
+
+00:15:26.00,00:15:27.30
+Hello, beautiful![br]How 'bout a little souvenir?
+
+00:15:27.30,00:15:28.70
+Let go of that, will ya, let go!
+
+00:15:29.20,00:15:31.50
+Come on, don't be like that.[br]Who do you think you are?
+
+00:15:34.90,00:15:35.90
+Thanks.
+
+00:15:42.60,00:15:44.50
+Isn't she great?
+
+00:15:45.80,00:15:49.10
+Sorry to break in on this fine old[br]Blanche Hudson movie, folks.
+
+00:15:49.40,00:15:50.90
+But you'll be glad I did...
+
+00:15:51.00,00:15:52.70
+...when you see what I have[br]right here...
+
+00:15:52.80,00:15:55.00
+...for that favorite pooch of yours.
+
+00:15:55.10,00:15:56.60
+And Iliad means quality.
+
+00:15:57.20,00:16:01.00
+So when your dog says, "woof woof"...
+
+00:16:01.00,00:16:02.90
+...feed him Iliad,[br]the classic dog food.
+
+00:16:02.90,00:16:04.20
+Oh, shut up!
+
+00:16:04.70,00:16:06.30
+Iliad will bring the sheen[br]back to your dog's coat...
+
+00:16:06.40,00:16:09.50
+Oh, my goodness, I remember[br]the first time I saw that picture.
+
+00:16:09.70,00:16:12.10
+I thought it was just wonderful.
+
+00:16:12.60,00:16:13.40
+When was that?
+
+00:16:14.00,00:16:18.20
+Let's see now, as I recall, your father[br]took me to see it at the old Majestic.
+
+00:16:18.40,00:16:20.30
+It was before we were married.
+
+00:16:20.60,00:16:24.10
+She must be about 150 by now!
+
+00:16:25.70,00:16:27.70
+As a matter of fact, dear,[br]I think Blanche Hudson is...
+
+00:16:27.80,00:16:29.50
+...just a few years older than I am.
+
+00:16:30.30,00:16:31.10
+Really?!
+
+00:16:31.20,00:16:33.30
+Yes, dear, "really."
+
+00:16:33.60,00:16:35.90
+Well, how come[br]we never see her around?
+
+00:16:36.30,00:16:38.90
+We've been living next door to them[br]for six months now...
+
+00:16:39.10,00:16:42.40
+...and the only one I ever see[br]is that fat sister slouching around.
+
+00:16:42.60,00:16:44.60
+Don't they ever have company?
+
+00:16:44.80,00:16:46.20
+I mean it must be awful.
+
+00:16:46.50,00:16:50.80
+You know, Julie says[br]that sister's kind of peculiar.
+
+00:16:51.10,00:16:52.40
+Did you ever notice that?
+
+00:16:52.70,00:16:54.30
+No, I never have.
+
+00:16:55.10,00:16:56.60
+Well, that's what Julie told me.
+
+00:16:56.70,00:16:59.30
+She said that she was supposed[br]to be responsible for the accident...
+
+00:16:59.50,00:17:01.70
+...that crippled her sister Blanche.
+
+00:17:02.00,00:17:04.90
+That all happened[br]a very long time ago, dear.
+
+00:17:05.00,00:17:06.70
+And maybe you shouldn't[br]pay too much attention...
+
+00:17:06.80,00:17:08.10
+...to everything that Julie Fowler[br]tells you.
+
+00:17:08.20,00:17:10.90
+There's too many people in this town[br]with nothing else to do but talk.
+
+00:17:11.20,00:17:14.30
+Maybe so, but Julie's folks[br]have lived here a long time.
+
+00:17:14.50,00:17:16.00
+I guess she should know.
+
+00:17:16.30,00:17:19.00
+Turn up the volume, dear.[br]We're missing the picture.
+
+00:17:20.90,00:17:23.20
+- Will you have a little champagne?[br]- No, thank you.
+
+00:17:26.20,00:17:28.40
+You wanna tell Poppa your troubles?
+
+00:17:29.90,00:17:31.20
+Somebody you love?
+
+00:17:32.10,00:17:35.10
+Oh, Jack, please try to understand.
+
+00:17:35.40,00:17:36.90
+I married you because...
+
+00:17:37.20,00:17:40.40
+...I was knocked silly[br]and it was a refuge.
+
+00:17:41.70,00:17:45.60
+I found out tonight that this boy's[br]in trouble, maybe alone.
+
+00:17:46.20,00:17:48.00
+It's blinding me.
+
+00:17:48.50,00:17:50.40
+I can't think of anything else...
+
+00:17:52.70,00:17:54.30
+Oh! He should've held that shot...
+
+00:17:54.40,00:17:55.40
+...Ionger.
+
+00:17:55.80,00:17:59.40
+I told him that when we were rehearsing,[br]also when it was shot!
+
+00:17:59.70,00:18:00.80
+But he wouldn't listen!
+
+00:18:08.10,00:18:10.40
+- Hiya?[br]- Swell.
+
+00:18:12.30,00:18:14.60
+It's still a pretty good picture.
+
+00:18:16.80,00:18:19.00
+...and Gemini...
+
+00:18:59.60,00:19:02.00
+Tommy, you don't have to stay here,[br]do you?
+
+00:19:03.60,00:19:05.40
+I'll just sit here.
+
+00:19:07.00,00:19:09.10
+Enjoying yourself?
+
+00:19:09.40,00:19:11.60
+Jane, what are you doing?
+
+00:19:13.40,00:19:14.70
+I was watching!
+
+00:19:16.10,00:19:17.10
+Then you're an idiot!
+
+00:19:17.80,00:19:20.50
+I won't have you speak to me like that!
+
+00:19:29.80,00:19:31.60
+Ah, the poor thing!
+
+00:19:33.10,00:19:35.50
+Poor baby.
+
+00:19:38.50,00:19:40.30
+Quiet down.
+
+00:20:03.30,00:20:06.40
+Oh, good morning, Ms. Hudson.[br]I hope I'm not intruding.
+
+00:20:06.90,00:20:09.30
+I just couldn't resist cutting[br]these flowers for your sister...
+
+00:20:09.50,00:20:11.70
+...after seeing her show yesterday.
+
+00:20:12.70,00:20:15.00
+You must be very proud[br]of her new success...
+
+00:20:15.30,00:20:17.10
+...on television, I mean.
+
+00:20:19.80,00:20:21.40
+I can't tell you how nice it is...
+
+00:20:21.50,00:20:23.90
+...to be seeing all of[br]her old pictures like this.
+
+00:20:24.50,00:20:26.00
+I'll tell 'er you said so.
+
+00:20:27.60,00:20:31.70
+You know, my daughter and I[br]would just love to meet her one day.
+
+00:20:31.80,00:20:32.80
+Perhaps she could...
+
+00:20:33.40,00:20:35.20
+Mrs. Bates,[br]my sister doesn't ever go out.
+
+00:20:35.30,00:20:38.40
+She's not fit to receive visitors.
+
+00:20:39.00,00:20:41.20
+Oh, I am sorry to hear that.
+
+00:20:41.70,00:20:43.80
+I'd no idea that, well...
+
+00:20:46.90,00:20:49.30
+I hope she likes the flowers.
+
+00:20:53.20,00:20:54.60
+Thanks.
+
+00:21:18.30,00:21:20.90
+You miserable...
+
+00:22:02.80,00:22:03.80
+Oh, Jane, I'm sorry.
+
+00:22:04.00,00:22:06.00
+I didn't mean to ring for my breakfast.
+
+00:22:06.40,00:22:09.00
+I was just wondering who all those[br]people were at the back door.
+
+00:22:09.50,00:22:11.30
+Wasn't anything.
+
+00:22:11.60,00:22:15.20
+Just that nosey Mrs. Bates going on[br]about your picture last night.
+
+00:22:16.10,00:22:18.30
+Oh, really? Did she like it?
+
+00:22:18.90,00:22:21.60
+Oh, really? Did she like it?
+
+00:22:24.00,00:22:25.90
+She liked it.
+
+00:22:28.60,00:22:30.60
+I remember, when it first came out...
+
+00:22:30.80,00:22:33.30
+...it had a tremendous reception.
+
+00:22:34.00,00:22:37.60
+The critics described it as... brilliant!
+
+00:22:38.40,00:22:41.40
+Do you remember what year[br]you made that picture?
+
+00:22:42.90,00:22:46.10
+Well, of course, you must, too.[br]In 1934, right after I did "Moonglow."
+
+00:22:46.60,00:22:49.10
+I made a picture that year, too!
+
+00:22:50.10,00:22:53.80
+Oh, yes, it was that comedy[br]directed by Lloyd, wasn't it?
+
+00:22:54.50,00:22:56.60
+No, it wasn't. It was a love story.
+
+00:22:56.80,00:22:58.20
+"The Longest Night."
+
+00:22:58.50,00:23:00.70
+Marty McDonald said[br]it was the best thing I ever did!
+
+00:23:02.30,00:23:05.40
+They never even released it[br]in the United States!
+
+00:23:06.90,00:23:08.20
+Feldman was very upset.
+
+00:23:08.30,00:23:09.80
+He told me the company had...
+
+00:23:09.90,00:23:11.70
+...a very bad year and[br]they couldn't afford...
+
+00:23:11.70,00:23:12.80
+No, they didn't![br]They had a great year!
+
+00:23:12.90,00:23:14.60
+They didn't want to show my films.
+
+00:23:15.30,00:23:17.60
+They were too busy[br]giving a "big build-up"...
+
+00:23:17.80,00:23:20.30
+...to that crap you were turning out.
+
+00:23:24.20,00:23:25.30
+I'll clean the cage.
+
+00:23:29.20,00:23:30.50
+Oh, that would be Elvira.
+
+00:24:04.70,00:24:05.80
+Come in, Elvira!
+
+00:24:07.90,00:24:10.20
+- How are you today?[br]- Fine.
+
+00:24:11.00,00:24:12.80
+Oh, you've seen Jane.
+
+00:24:15.00,00:24:17.10
+I don't think she's feeling[br]very well today.
+
+00:24:17.30,00:24:20.70
+Did you speak to that Dr. Shelby[br]about Ms. Jane like you said?
+
+00:24:21.30,00:24:24.20
+No, I haven't yet.[br]It's rather difficult.
+
+00:24:24.40,00:24:26.90
+I don't want to upset her again,[br]if I can help it.
+
+00:24:27.20,00:24:29.00
+But she'll be upset anyway,[br]Ms. Blanche.
+
+00:24:29.20,00:24:32.10
+And the longer you leave it,[br]the worse it's gonna be.
+
+00:24:32.90,00:24:33.90
+I know.
+
+00:24:34.90,00:24:37.80
+But I was just hoping[br]it wouldn't be necessary.
+
+00:24:38.30,00:24:40.80
+I think she seems much better lately.
+
+00:24:41.10,00:24:42.50
+It's none of my business...
+
+00:24:42.60,00:24:45.00
+...but she's been drinkin' again.[br]You know that, don't ya?
+
+00:24:45.20,00:24:47.20
+No, I hadn't noticed.
+
+00:24:48.90,00:24:51.40
+Oh, I don't think[br]it does her any real harm.
+
+00:24:51.60,00:24:53.60
+I think I understand her.
+
+00:24:53.90,00:24:55.00
+Oh, you do, huh?
+
+00:24:55.30,00:24:57.40
+Well, then, you ought[br]to take a look at this.
+
+00:25:02.00,00:25:03.10
+What are these?
+
+00:25:03.20,00:25:05.20
+I guess it's what you'd call fan mail.
+
+00:25:07.50,00:25:10.80
+Oh, how kind people are.
+
+00:25:11.50,00:25:12.70
+You better look at them...
+
+00:25:12.70,00:25:16.10
+...and then you can tell me[br]whether or not you've seen them before.
+
+00:25:16.50,00:25:18.10
+- Did you read that?[br]- No.
+
+00:25:19.20,00:25:20.40
+But they've been opened.
+
+00:25:20.50,00:25:22.10
+That's right, they all have.
+
+00:25:22.40,00:25:25.20
+And there's one in here[br]marked "Personal."
+
+00:25:31.90,00:25:35.80
+"The other night my husband and I[br]watched that lovely movie of yours...
+
+00:25:36.10,00:25:37.20
+"...'Last Honeymoon.'
+
+00:25:37.40,00:25:40.40
+"I remember saying to my husband[br]at the time that seeing you again...
+
+00:25:40.50,00:25:42.70
+"...was just like[br]meeting an old friend."
+
+00:25:43.80,00:25:47.10
+Oh, that's charming.[br]That's really charming!
+
+00:25:47.40,00:25:50.00
+The point is, you never[br]saw them before, did you?
+
+00:25:53.90,00:25:55.60
+I thought not.
+
+00:25:56.50,00:25:59.40
+I'm sorry, I thought you ought to know.
+
+00:26:00.00,00:26:02.80
+But, I don't understand.
+
+00:26:03.40,00:26:05.20
+Where'd they come from?[br]Where'd you find them?
+
+00:26:05.50,00:26:07.40
+In the trash barrel, that's where!
+
+00:26:07.60,00:26:09.10
+They're from that television station...
+
+00:26:09.20,00:26:11.20
+...that's been running[br]your old movies, aren't they?
+
+00:26:20.10,00:26:21.60
+You mean Jane?
+
+00:26:21.90,00:26:23.80
+Who else?
+
+00:26:25.10,00:26:27.50
+Oh, well, she must have thought[br]they were advertisements.
+
+00:26:27.70,00:26:30.00
+Then why would she open[br]the one marked "Personal"?
+
+00:26:30.20,00:26:33.20
+And what about this?[br]You might as well see this, too.
+
+00:26:35.10,00:26:36.80
+Writing those dirty words!
+
+00:26:37.10,00:26:41.30
+I can even remember the last time[br]I saw words like that written down!
+
+00:26:41.90,00:26:43.90
+But, why would she do a thing like this?
+
+00:26:44.30,00:26:46.40
+You know what makes her[br]do things like this!
+
+00:26:46.60,00:26:49.80
+She's sick, and she's not[br]getting any better.
+
+00:26:50.50,00:26:52.90
+In fact, the last month[br]she's been getting a lot worse.
+
+00:26:56.00,00:26:57.40
+If you don't believe me, then...
+
+00:26:57.50,00:27:00.40
+...why are you selling this house[br]and planning to move out?
+
+00:27:00.80,00:27:02.80
+You said this last month...
+
+00:27:03.50,00:27:05.20
+...she's been a lot worse.
+
+00:27:06.00,00:27:07.30
+Do you think she knows?
+
+00:27:07.60,00:27:09.00
+About selling the house?
+
+00:27:09.40,00:27:12.90
+How could she?[br]You don't have anything in writing.
+
+00:27:13.50,00:27:15.60
+We're sisters, Elvira.
+
+00:27:16.20,00:27:17.80
+We know each other very well.
+
+00:27:17.90,00:27:18.90
+I think she's jealous...
+
+00:27:19.00,00:27:22.90
+...because of those old movies of yours[br]they're showing on television this week.
+
+00:27:23.40,00:27:25.80
+Anyway, in six weeks you'll have to[br]hand over the house and then...
+
+00:27:26.00,00:27:27.70
+...she'll have to know.
+
+00:27:29.40,00:27:30.60
+How do I tell her?
+
+00:27:30.80,00:27:31.50
+How?!
+
+00:27:32.60,00:27:36.70
+Well, if you'd just speak to that[br]Dr. Shelby, maybe he could tell her.
+
+00:27:42.40,00:27:44.50
+No, it ought to be me.
+
+00:27:46.80,00:27:49.00
+I can't let a stranger tell her.
+
+00:27:49.30,00:27:52.90
+But he's a doctor, Ms. Blanche.[br]And she's a sick woman.
+
+00:27:53.70,00:27:57.80
+Elvira, you didn't know her[br]when she was a child.
+
+00:27:58.60,00:27:59.50
+When she was young.
+
+00:27:59.70,00:28:02.50
+I've seen those pictures she keeps.
+
+00:28:03.90,00:28:07.30
+It wasn't that she was just pretty.
+
+00:28:08.10,00:28:09.90
+She was different.
+
+00:28:10.00,00:28:11.70
+She was so alive.
+
+00:28:18.20,00:28:20.40
+I was cleaning the cage.
+
+00:28:21.10,00:28:22.30
+The bird got out.
+
+00:28:23.70,00:28:25.10
+But where is it now?
+
+00:28:25.60,00:28:27.40
+It flew out the window.
+
+00:28:28.50,00:28:31.10
+You let that bird out[br]on purpose, Ms. Jane!
+
+00:28:31.50,00:28:36.30
+I just told ya, I was cleaning the cage[br]and the bird flew out the window.
+
+00:28:38.40,00:28:39.70
+I'm sorry!
+
+00:28:40.50,00:28:44.50
+She did that on purpose![br]Believe me, she did it on purpose!
+
+00:28:44.80,00:28:46.10
+Never mind.
+
+00:28:46.90,00:28:48.30
+Maybe he'll come back.
+
+00:29:03.10,00:29:04.70
+You won't change your mind, will you?
+
+00:29:04.80,00:29:06.50
+I mean about coming to live with me?
+
+00:29:06.60,00:29:09.00
+You know I don't go back[br]on my word, Ms. Blanche.
+
+00:29:09.30,00:29:12.40
+But you've got to make up your mind[br]about finding somewhere for Ms. Jane...
+
+00:29:12.60,00:29:15.00
+...where they can[br]look after her properly.
+
+00:29:18.50,00:29:20.40
+I have made up my mind.
+
+00:29:21.10,00:29:23.40
+I'm going to call Dr. Shelby today.
+
+00:29:33.90,00:29:35.90
+I know, Ms. Blanche, I know.
+
+00:29:39.50,00:29:41.10
+It's just that I have to be sure...
+
+00:29:41.20,00:29:43.10
+...I'm doing the right thing for her.
+
+00:30:09.80,00:30:11.30
+Hello, is this Johnson's?
+
+00:30:12.20,00:30:14.70
+I want to order some liquor.[br]It's Jane Hudson.
+
+00:30:17.30,00:30:20.20
+Waddaya mean you can't fill[br]any more orders for me?
+
+00:30:21.00,00:30:22.70
+My sister did?
+
+00:30:29.10,00:30:32.70
+Well, wait a minute,[br]I'll put 'er on.
+
+00:30:35.10,00:30:39.40
+Blanche, would you speak[br]to this man from Johnson's?
+
+00:30:45.10,00:30:47.70
+Hello, who is this, please?
+
+00:30:49.70,00:30:52.90
+Oh, yes, Mr. Carlston.
+
+00:30:53.00,00:30:55.90
+Yes, this is Blanche Hudson.[br]What seems to be the trouble?
+
+00:31:00.50,00:31:03.70
+I'm afraid there's been some[br]misunderstanding.
+
+00:31:04.10,00:31:05.80
+I certainly didn't mean to suggest...
+
+00:31:06.10,00:31:09.00
+...that you shouldn't fill[br]any orders for her.
+
+00:31:11.30,00:31:13.70
+After all, we do pay[br]our bills, don't we?
+
+00:31:17.90,00:31:19.70
+Yes, fine.
+
+00:31:20.70,00:31:21.70
+Would you please?
+
+00:31:24.60,00:31:26.60
+I'll put her on.
+
+00:31:32.30,00:31:33.90
+Okay, then?
+
+00:31:34.90,00:31:35.60
+Good...
+
+00:31:35.60,00:31:40.10
+...I'd like to order six bottles[br]of Scotch and three bottles of gin.
+
+00:31:40.80,00:31:44.60
+The same brands,[br]and as soon as possible.
+
+00:31:53.60,00:31:58.40
+I just told Ms. Blanche. I'm going[br]downtown to see a man about jury duty.
+
+00:32:04.80,00:32:06.60
+I'll be back tomorrow.
+
+00:33:18.70,00:33:23.10
+"I've written a letter to Daddy.
+
+00:33:25.60,00:33:29.30
+"His address is heaven above.
+
+00:33:32.10,00:33:36.80
+"I've written, Dear Daddy,[br]we miss you...
+
+00:33:38.90,00:33:44.40
+"...and wish you were with us to love.
+
+00:33:45.30,00:33:50.20
+"Instead of a stamp, I put kisses.
+
+00:33:52.10,00:33:54.90
+"The postman says...
+
+00:34:11.60,00:34:15.40
+"The postman says...
+
+00:34:15.50,00:34:17.20
+"...that's best to do.
+
+00:34:20.60,00:34:24.50
+"I've written a letter to Daddy...
+
+00:34:28.00,00:34:29.70
+"...saying, 'I...
+
+00:34:31.60,00:34:32.90
+"...Iove... you."'
+
+00:34:56.00,00:34:57.70
+"Now when I'm very good...
+
+00:34:57.90,00:35:01.40
+"...And do as I am told...
+
+00:35:01.90,00:35:03.50
+"...I'm Mama's little angel.
+
+00:35:04.50,00:35:08.20
+"And Papa says I'm good as gold.
+
+00:35:08.20,00:35:10.00
+"But when I'm very bad...
+
+00:35:11.30,00:35:13.50
+"...and answer back and sass...
+
+00:35:14.20,00:35:15.80
+"...then I'm Mama's little devil.
+
+00:35:16.60,00:35:19.50
+"And Papa says I've got the brass.
+
+00:35:21.60,00:35:24.30
+"Now I wish that you would tell me...
+
+00:35:25.60,00:35:28.60
+"...'cause I'm much too young[br]to know..."
+
+00:36:11.60,00:36:14.10
+All right, Blanche Hudson!
+
+00:36:14.40,00:36:17.30
+Ms. Big, Fat, Movie Star!
+
+00:36:17.70,00:36:20.70
+Ms. Rotten, Stinking Actress!
+
+00:36:21.00,00:36:22.60
+Press a button, ring a bell...
+
+00:36:22.90,00:36:27.10
+...and you think the whole damn world[br]comes running, don't you?!
+
+00:36:29.40,00:36:31.00
+Lunch, Ms. Hudson?
+
+00:36:31.40,00:36:34.70
+Why, certainly, Ms. Hudson!
+
+00:36:35.00,00:36:39.60
+I'm sure we can find something[br]appropriate for you, Ms. Hudson!
+
+00:37:16.20,00:37:19.40
+Oh, you brought my lunch.[br]A bit early, isn't it?
+
+00:37:19.60,00:37:21.10
+Then what were you ringing for?
+
+00:37:21.50,00:37:24.80
+Oh, I wanted to tell you,[br]something's wrong with the telephone.
+
+00:37:25.00,00:37:27.00
+Maybe it's been left off[br]the hook downstairs.
+
+00:37:27.00,00:37:28.80
+Is that so?
+
+00:37:28.90,00:37:31.10
+Who'd you wanna call, Blanche?
+
+00:37:31.40,00:37:35.20
+Well, actually I wanted[br]to call Bert Hanley.
+
+00:37:36.50,00:37:38.80
+Oh, our business manager?
+
+00:37:40.80,00:37:45.20
+There's something I've been[br]meaning to discuss with you.
+
+00:37:52.60,00:37:55.90
+Well, I'm afraid I have bad news...[br]about money.
+
+00:37:56.60,00:38:01.10
+You see the point is, Bert thinks[br]we'll probably have to sell the house.
+
+00:38:03.00,00:38:05.80
+Why should we have to[br]sell the house, Blanche?
+
+00:38:08.60,00:38:11.00
+Well, that's what I'm trying[br]to tell you.
+
+00:38:11.50,00:38:14.50
+Our financial position[br]is such that we just...
+
+00:38:14.80,00:38:16.00
+...we can't afford to...
+
+00:38:16.30,00:38:18.20
+We've got plenty of[br]money invested. I know.
+
+00:38:18.50,00:38:21.20
+Yes... yes, that's quite true, but...
+
+00:38:21.70,00:38:24.70
+...some of those investments[br]aren't paying much.
+
+00:38:27.10,00:38:31.00
+When did our business manager[br]tell you all this?
+
+00:38:32.30,00:38:33.80
+Early last week, I think.
+
+00:38:35.20,00:38:38.00
+He didn't call here last week.[br]I know that, too.
+
+00:38:38.30,00:38:42.50
+No, we didn't actually speak[br]on the telephone.
+
+00:38:42.80,00:38:43.80
+He wrote me a letter.
+
+00:38:43.90,00:38:45.60
+He didn't write you any letter either.
+
+00:38:45.90,00:38:47.20
+There hasn't been a letter[br]from his office since...
+
+00:38:47.20,00:38:48.20
+Yes, Jane, there has.
+
+00:38:48.30,00:38:51.50
+Oh, you're a liar! You're just a liar![br]You always were!
+
+00:38:53.10,00:38:56.00
+Bert Hanley never wrote you any letter[br]and never called you on the phone...
+
+00:38:56.20,00:38:57.80
+...tellin' you to sell the house.
+
+00:38:58.00,00:39:01.40
+You called him four weeks ago[br]and told him to sell it!
+
+00:39:03.70,00:39:05.80
+I did nothing of the sort.
+
+00:39:06.60,00:39:10.50
+Don't you think I know everything[br]that goes on in this house?
+
+00:39:14.00,00:39:15.80
+You've been spying on me!
+
+00:39:17.50,00:39:19.30
+What do you think?!
+
+00:39:19.90,00:39:21.40
+You are disgusting!
+
+00:39:22.90,00:39:24.40
+After all I've done for you!
+
+00:39:24.70,00:39:26.30
+When all I'm trying to do is help.
+
+00:39:26.40,00:39:28.60
+Who are you tryin' to help, Blanche?
+
+00:39:29.10,00:39:31.80
+What were you plannin' to do with me[br]when you sold the house?
+
+00:39:32.10,00:39:33.60
+What'd you have in mind...
+
+00:39:33.80,00:39:36.70
+...some nice little place[br]where they could look after me?
+
+00:39:48.90,00:39:52.40
+Better not tire yourself out[br]using the phone anymore.
+
+00:39:53.10,00:39:56.20
+If there are any calls,[br]I'll take them downstairs.
+
+00:39:59.70,00:40:02.30
+Eat your lunch, it'll get cold!
+
+00:41:29.10,00:41:31.50
+Jane! Please wait.
+
+00:41:36.80,00:41:39.90
+Jane, I want to talk to you... please!
+
+00:41:40.50,00:41:42.00
+Jane, I want to talk to...
+
+00:43:16.10,00:43:17.50
+Telephone, mother.
+
+00:43:18.30,00:43:19.70
+All right, dear.
+
+00:44:18.30,00:44:20.30
+I called this morning and placed an ad.
+
+00:44:20.60,00:44:22.30
+Did we give you a reference number?
+
+00:44:22.30,00:44:23.20
+Oh, yeah.
+
+00:44:33.50,00:44:36.50
+Here it is.[br]You want to check the copy?
+
+00:44:42.20,00:44:43.40
+That's fine.
+
+00:44:43.60,00:44:45.90
+Did you want this to go in the[br]"Personal" column or in the want ads?
+
+00:44:46.10,00:44:48.80
+Well, I always think the "Personal"[br]column's nicer, don't you.
+
+00:44:52.80,00:44:56.20
+That's an eight-line ad.[br]That'll be $6.30.
+
+00:45:04.80,00:45:06.50
+Who's placing this ad?
+
+00:45:08.10,00:45:09.10
+We have to know.
+
+00:45:09.70,00:45:10.70
+Why, I am!
+
+00:45:11.90,00:45:13.80
+Yeah, I know, but who for?
+
+00:45:14.10,00:45:16.00
+You see, when you're placing[br]an advertisement for someone...
+
+00:45:16.00,00:45:18.50
+...to do a job for you, we have to[br]have your name for the record.
+
+00:45:18.70,00:45:21.50
+Well, my name is... Jane Hudson.
+
+00:45:26.70,00:45:30.70
+Maybe you remember me.[br]I'm Baby Jane Hudson!
+
+00:45:32.70,00:45:33.50
+Sure.
+
+00:45:34.60,00:45:37.10
+Thank you. This will be[br]in the paper tomorrow.
+
+00:45:41.60,00:45:44.60
+Who the hell was Baby Jane Hudson?
+
+00:45:47.00,00:45:50.30
+"Please call Dr. Shelby[br]at OL6-1656 and...
+
+00:45:50.50,00:45:53.10
+"...ask him to come[br]to the house immediately."
+
+00:46:01.90,00:46:05.40
+"Under no circumstances...
+
+00:46:08.50,00:46:11.30
+"...let my sister...
+
+00:46:12.60,00:46:17.20
+"...see the contents...
+
+00:46:17.40,00:46:21.50
+"...of this note.
+
+00:46:22.20,00:46:24.50
+"...Blanche Hudson."
+
+00:47:33.90,00:47:35.60
+Oh, Ms. Hudson, how nice to see you.
+
+00:47:36.00,00:47:38.20
+- I was just going to call on you.[br]- Why?
+
+00:47:38.40,00:47:41.30
+I just wanted to ask you about the[br]flowers I brought over for your sister.
+
+00:47:41.50,00:47:43.80
+I'm afraid they don't last very long[br]this time of year and...
+
+00:47:44.00,00:47:46.10
+...I thought perhaps[br]you'd like some more.
+
+00:47:48.60,00:47:49.80
+You could've saved yourself[br]the trouble.
+
+00:47:49.90,00:47:51.30
+Oh, but it's no trouble at all.
+
+00:47:51.40,00:47:54.10
+I've just been cutting some,[br]that's why I came over.
+
+00:47:54.50,00:47:56.10
+I always think it's so nice[br]to have flowers...
+
+00:47:56.20,00:47:57.60
+...in the house...[br]- Mrs. Bates!
+
+00:47:58.10,00:48:01.00
+I guess if my sister needed flowers,[br]we could afford to buy them!
+
+00:48:45.70,00:48:48.40
+What's the matter, Mother? You look[br]as though you've been in a fight.
+
+00:48:48.70,00:48:50.50
+I'm not sure that I haven't been.
+
+00:48:50.80,00:48:54.00
+Jane Hudson makes me so mad,[br]I could kill her!
+
+00:48:55.30,00:48:56.70
+That's a good idea.
+
+00:48:57.00,00:48:58.50
+What'll we use?
+
+00:49:55.90,00:49:57.90
+Did you have a nice drive?
+
+00:49:58.70,00:50:00.10
+What are you talking about?
+
+00:50:00.40,00:50:03.10
+Nothing, dear. It's been so long[br]since you were out of the house.
+
+00:50:03.40,00:50:05.90
+I though perhaps you'd gone[br]for a drive or something.
+
+00:50:06.20,00:50:07.80
+You know, I was thinking...
+
+00:50:09.00,00:50:12.10
+...it's been so long since[br]we had a talk...
+
+00:50:12.90,00:50:15.70
+...you know, a real talk[br]about the future and everything.
+
+00:50:20.20,00:50:22.60
+I didn't want you to be worried[br]about the house.
+
+00:50:22.90,00:50:25.80
+Even if I do have to sell it,[br]we'll still be together.
+
+00:50:26.10,00:50:28.50
+Blanche, you're not going[br]to sell this house.
+
+00:50:29.90,00:50:31.80
+Daddy bought this house.
+
+00:50:32.10,00:50:33.70
+And he bought it for me.
+
+00:50:36.00,00:50:38.30
+You don't think I remember that,[br]do you?
+
+00:50:39.30,00:50:41.20
+You're wrong, Jane.
+
+00:50:41.30,00:50:42.80
+You've just forgotten.
+
+00:50:43.70,00:50:45.70
+I bought this house for the two of us...
+
+00:50:45.90,00:50:47.40
+...when I signed my first contract.
+
+00:50:47.50,00:50:50.20
+You don't think I remember anything,[br]do you?
+
+00:50:51.20,00:50:53.00
+There're a whole lot of things[br]I remember.
+
+00:50:53.30,00:50:55.40
+And you never paid for this house.
+
+00:50:56.30,00:51:00.60
+Baby Jane paid for this house,[br]that's who!
+
+00:51:01.00,00:51:03.00
+You don't know what you're saying.
+
+00:51:07.10,00:51:10.00
+You aren't ever gonna[br]sell this house.
+
+00:51:10.40,00:51:12.90
+And you aren't ever[br]gonna leave it...
+
+00:51:14.30,00:51:15.70
+...either.
+
+00:51:29.00,00:51:32.40
+Do you remember when[br]I first came back after the accident?
+
+00:51:37.70,00:51:41.00
+You promised you wouldn't ever[br]talk about that again.
+
+00:51:41.20,00:51:42.50
+I know I did...
+
+00:51:43.30,00:51:45.30
+...but I'm still in this chair.
+
+00:51:45.50,00:51:48.60
+After all those years[br]I'm still in this chair.
+
+00:51:48.90,00:51:52.00
+Doesn't that give you[br]some kind of responsibility?
+
+00:51:52.50,00:51:55.60
+Jane, I'm just trying to explain[br]to you how things really are.
+
+00:51:56.20,00:51:58.30
+You wouldn't be able to do[br]these awful things to me...
+
+00:51:58.40,00:52:00.50
+...if I weren't still in this chair!
+
+00:52:05.60,00:52:09.20
+But you are, Blanche![br]You are in that chair!
+
+00:52:10.20,00:52:15.00
+And tell me what are these awful things[br]I'm supposed to be doing to you?
+
+00:52:17.90,00:52:19.20
+Well I meant...
+
+00:52:20.20,00:52:22.70
+...you wouldn't have to work so hard.
+
+00:52:23.30,00:52:25.60
+And I was thinking maybe...
+
+00:52:25.70,00:52:28.40
+...maybe Elvira could come in[br]more often.
+
+00:52:29.00,00:52:31.20
+Maybe she could even live with us.
+
+00:52:32.10,00:52:34.40
+We don't need Elvira!
+
+00:52:36.00,00:52:38.00
+But you get so tired, you...
+
+00:52:39.00,00:52:41.50
+There's so much to do,[br]and you're not well.
+
+00:52:42.50,00:52:44.00
+Maybe you're right.
+
+00:52:45.30,00:52:48.10
+Maybe I should get[br]a check-up or something.
+
+00:52:49.50,00:52:51.60
+That would be wonderful!
+
+00:52:52.80,00:52:56.80
+Perhaps we can, we can find[br]a really good doctor.
+
+00:52:57.60,00:53:01.60
+We could get hold of that[br]nice Dr. Shelby, couldn't we?
+
+00:53:03.20,00:53:04.80
+Let's see...
+
+00:53:05.70,00:53:07.70
+...what's his number again?
+
+00:53:17.20,00:53:20.10
+"...Under no circumstances...
+
+00:53:20.60,00:53:24.70
+"...tell my sister the contents[br]of this note."
+
+00:53:26.20,00:53:29.00
+It's not me that needs[br]a doctor, Blanche!
+
+00:55:30.90,00:55:32.80
+Hello, lovey.
+
+00:55:33.70,00:55:35.90
+Now, don't stop for me.
+
+00:55:36.20,00:55:37.80
+What did the doctor say?
+
+00:55:39.00,00:55:43.70
+He says it's no use my trying[br]to go back to work for six months.
+
+00:55:44.00,00:55:45.90
+Didn't he even give you[br]anything new to take?
+
+00:55:46.10,00:55:48.40
+Oh, he says it's arthritis.
+
+00:55:48.70,00:55:53.00
+An' the only thing for me to do is[br]not to try an' work until it clears up.
+
+00:55:53.30,00:55:56.90
+Did he suggest what we're going[br]to use for money in the meantime?
+
+00:55:57.80,00:56:01.20
+No, dear.[br]But he's ever such a nice man.
+
+00:56:03.70,00:56:06.10
+Now, lovey, never you mind, anyway.
+
+00:56:06.60,00:56:09.80
+You know, we've still got[br]a bit of savings.
+
+00:56:10.20,00:56:12.60
+You're my little worrier.
+
+00:56:13.80,00:56:16.70
+That's nice.[br]You've found something, have you?
+
+00:56:17.00,00:56:20.60
+You don't have to get so excited.[br]You haven't even seen what it is yet.
+
+00:56:21.50,00:56:23.80
+No, dear but it's a possibility,[br]isn't it?
+
+00:56:24.00,00:56:26.90
+I mean, there aren't that many jobs[br]that'd be suitable...
+
+00:56:27.20,00:56:30.00
+...I mean for someone[br]with your qualifications.
+
+00:56:30.30,00:56:33.40
+What qualifications?
+
+00:56:34.50,00:56:37.40
+Well, you know... serious music[br]and that...
+
+00:56:37.60,00:56:41.50
+Oh, this sounds like[br]just the ticket, doesn't it?
+
+00:56:45.30,00:56:47.70
+- You're gonna call?[br]- Call who?
+
+00:56:48.40,00:56:50.00
+These people.
+
+00:56:51.00,00:56:51.80
+Might as well.
+
+00:56:51.90,00:56:52.90
+Now?
+
+00:56:53.20,00:56:57.70
+Well, it wouldn't be a lot of bloody use[br]calling next week, would it?
+
+00:57:03.00,00:57:06.70
+Mom, tell you what.[br]Why don't you call for me?
+
+00:57:07.50,00:57:09.40
+Tell them you're my secretary[br]or something.
+
+00:57:09.50,00:57:11.90
+All right, dear, I'll do that.
+
+00:57:13.10,00:57:15.30
+And listen, I won't let on who I am.
+
+00:57:15.60,00:57:19.60
+You see, I'll just tell 'em[br]I'm Mr. Flagg's "secketary."
+
+00:57:19.90,00:57:23.50
+- Secretary.[br]- Sec-re-tary.
+
+00:57:26.10,00:57:27.30
+Well, do you know...
+
+00:57:27.50,00:57:29.50
+...I do believe yer old mum'd...
+
+00:57:29.70,00:57:32.90
+...be a jolly good "secketary" at that.
+
+00:57:33.90,00:57:36.20
+Don't you think?
+
+00:57:52.50,00:57:54.30
+This is Jane Hudson.
+
+00:57:56.30,00:57:58.40
+Oh, about the ad!
+
+00:58:00.20,00:58:01.30
+Who is this?
+
+00:58:01.60,00:58:04.50
+This is Mr. Flagg's "secketary."
+
+00:58:05.30,00:58:07.30
+Oh, his secretary.
+
+00:58:09.00,00:58:11.00
+Mr. Flagg is very interested.
+
+00:58:11.30,00:58:13.60
+And he'd like to know if[br]he can have an appointment.
+
+00:58:13.90,00:58:17.90
+I think you'll find[br]he's very well qualified.
+
+00:58:18.80,00:58:21.80
+Well, sure, I'd be glad to give[br]Mr. Flagg an appointment.
+
+00:58:22.80,00:58:24.70
+Well, now, let me see...
+
+00:58:25.30,00:58:27.00
+...how 'bout 4:00 this afternoon?
+
+00:58:30.00,00:58:32.50
+I think that would be fine.
+
+00:58:34.00,00:58:36.00
+Well, I'll be expecting him then.
+
+00:58:44.60,00:58:46.80
+It's all fixed, lovey.
+
+00:58:47.10,00:58:51.20
+Ah, yer old mum's managed everything...
+
+00:58:51.80,00:58:53.30
+...hasn't she?
+
+00:59:00.60,00:59:01.80
+Oh, shut up!
+
+00:59:13.60,00:59:14.90
+What do you want this time?
+
+00:59:15.20,00:59:16.50
+Who was on the telephone?
+
+00:59:16.70,00:59:18.90
+None of your business![br]What were you ringing for?
+
+00:59:19.20,00:59:20.20
+I'm hungry, Jane.
+
+00:59:20.50,00:59:22.30
+Well, of course you're hungry.[br]You didn't eat your dinner.
+
+00:59:22.40,00:59:23.70
+That's why you're hungry.
+
+00:59:24.90,00:59:26.40
+But you forgot my breakfast.
+
+00:59:26.90,00:59:29.20
+I didn't forget your breakfast.
+
+00:59:30.00,00:59:31.80
+I didn't bring your breakfast...
+
+00:59:32.10,00:59:34.60
+...because you didn't eat your din-din.
+
+00:59:38.30,00:59:40.00
+We're right back where we started.
+
+00:59:40.30,00:59:43.20
+When I was on the stage, you had[br]to depend on me for everything...
+
+00:59:43.50,00:59:46.00
+...even the food you ate[br]came from me.
+
+00:59:46.30,00:59:48.70
+Now you have to depend on me[br]for your food again.
+
+00:59:49.00,00:59:50.90
+So you see, we're right back[br]where we started.
+
+00:59:51.50,00:59:53.40
+Why are you doing this to me?
+
+00:59:53.40,00:59:54.30
+Why?
+
+00:59:55.40,00:59:56.40
+Doing what?
+
+00:59:56.80,00:59:59.90
+Making me afraid to eat,[br]trying to make me starve myself.
+
+01:00:01.10,01:00:02.50
+Don't be silly.
+
+01:00:03.10,01:00:05.20
+If you starve, you die.
+
+01:00:05.40,01:00:07.90
+I don't know what you're talking about.[br]You really must be sick!
+
+01:00:11.40,01:00:13.30
+Did you ever stop to think that...
+
+01:00:13.90,01:00:17.10
+...if anything happened to me,[br]I mean anything bad...
+
+01:00:18.20,01:00:20.10
+...there wouldn't be any money for you?
+
+01:00:20.30,01:00:22.20
+I wouldn't be here to sign the checks.
+
+01:00:22.50,01:00:24.40
+You wouldn't even have pocket money.
+
+01:00:25.50,01:00:27.50
+Did you ever think of that?
+
+01:00:28.40,01:00:30.20
+I've thought about that.
+
+01:00:35.10,01:00:37.20
+Why didn't you eat your dinner?
+
+01:00:38.50,01:00:40.10
+Because I'm afraid.
+
+01:00:40.30,01:00:42.00
+You made me afraid.
+
+01:00:42.80,01:00:46.40
+I thought you were supposed to be[br]the big girl in this family.
+
+01:00:49.40,01:00:51.30
+Nothing wrong with it.
+
+01:00:52.10,01:00:54.20
+You're just a neurotic, Blanche!
+
+01:00:56.60,01:00:57.50
+D'you know that...
+
+01:00:57.60,01:00:59.40
+...you're just a neurotic?
+
+01:01:06.20,01:01:08.40
+- Good morning, Elvira.[br]- Good morning.
+
+01:01:16.60,01:01:19.30
+- Please, Jane, I'm so hungry.[br]- I have to go now.
+
+01:01:19.50,01:01:21.40
+But just a little, please!
+
+01:01:21.80,01:01:26.00
+No. You didn't eat your din-din,[br]so you'll have to wait till lunchtime.
+
+01:01:26.20,01:01:30.10
+Jane, please... don't do this to me.[br]Jane! Please!
+
+01:01:54.40,01:01:57.30
+- Good morning, Elvira.[br]- Good morning, Ms. Jane.
+
+01:01:59.10,01:02:01.00
+I wanna talk to you.
+
+01:02:01.20,01:02:03.20
+- I want to apologize.[br]- Apologize?
+
+01:02:03.90,01:02:07.60
+I wasn't feeling so well yesterday,[br]so I was unkind to you.
+
+01:02:08.60,01:02:10.40
+I want to make it up.
+
+01:02:10.50,01:02:13.00
+I got up this morning[br]and fixed the house.
+
+01:02:14.30,01:02:16.20
+So you can have the whole day off.
+
+01:02:17.10,01:02:18.90
+Here's your $15.
+
+01:02:19.50,01:02:22.30
+Well, thanks, but does Miss...[br]What I mean, is...
+
+01:02:22.60,01:02:24.40
+...does Ms. Blanche know[br]about my taking the day off?
+
+01:02:24.50,01:02:26.00
+Oh, sure, she knows.
+
+01:02:26.90,01:02:29.00
+All right... if you say so.
+
+01:02:29.30,01:02:31.40
+See you next Tuesday then.
+
+01:02:32.50,01:02:33.80
+Have a good time.
+
+01:02:35.00,01:02:36.10
+Goodbye.
+
+01:02:47.00,01:02:47.90
+Bye!
+
+01:04:12.60,01:04:14.50
+Who was that at the door earlier?
+
+01:04:14.60,01:04:15.60
+Elvira.
+
+01:04:16.40,01:04:18.50
+Where is she now? In the kitchen?
+
+01:04:19.50,01:04:22.10
+No. I gave her the day off.
+
+01:04:22.40,01:04:24.80
+She has a pretty hard time, considering.
+
+01:04:25.00,01:04:26.90
+I told her to come back next week.
+
+01:04:34.80,01:04:36.40
+You know we got rats in the cellar?
+
+01:07:11.60,01:07:12.80
+Good afternoon.
+
+01:07:17.30,01:07:18.50
+Mr. Flagg?
+
+01:07:18.80,01:07:21.10
+Yes, I'm Edwin Flagg.
+
+01:07:22.80,01:07:26.80
+I have an appointment with[br]Ms. Hudson for 4:00 o'clock.
+
+01:07:27.40,01:07:29.50
+I'm Jane Hudson.
+
+01:07:30.50,01:07:33.60
+My, you're... you're right on time,[br]aren't you?
+
+01:07:33.90,01:07:35.70
+Yes, I believe I am.
+
+01:07:36.80,01:07:37.80
+Come in.
+
+01:07:58.40,01:08:00.40
+We can talk here in the living room.
+
+01:08:05.60,01:08:09.70
+Oh, I say... what a perfectly[br]charming room.
+
+01:08:12.90,01:08:15.80
+- So, you're Edwin Flagg?[br]- Yes, that's right.
+
+01:08:17.30,01:08:19.20
+I'll bring you some tea. You like tea?
+
+01:08:19.70,01:08:22.10
+Oh, yes. I'm quite fond of tea.
+
+01:08:22.30,01:08:24.40
+You must've guessed that I'm English.
+
+01:08:25.20,01:08:27.30
+Oh, really? How nice for you.
+
+01:09:41.50,01:09:44.20
+Oh, here, let me help you.
+
+01:09:39.00,01:09:40.10
+That's a terribly big...
+
+01:09:40.20,01:09:42.40
+...burden for such a little girl.
+
+01:09:42.80,01:09:45.10
+Thank you. You're very kind.
+
+01:09:47.00,01:09:49.70
+It's so hot today.[br]Did you drive here in your car?
+
+01:09:49.90,01:09:51.80
+Well, actually I took a cab.
+
+01:09:51.90,01:09:55.70
+It's a bit of a nuisance, but I had[br]to put my car in for servicing.
+
+01:09:56.70,01:09:58.20
+- Oh. Cream or lemon?[br]- Cream.
+
+01:10:00.50,01:10:01.70
+Sugar?
+
+01:10:07.50,01:10:09.70
+My, it looks good.
+
+01:10:10.90,01:10:14.90
+I always think it's nice[br]to break bread...
+
+01:10:15.10,01:10:17.60
+...with strangers, don't you?[br]- Oh, yes, indeed.
+
+01:10:19.80,01:10:22.80
+I don't think you actually mentioned[br]the exact nature of...
+
+01:10:23.70,01:10:25.40
+Well, I've been retired[br]for some time now.
+
+01:10:25.70,01:10:28.60
+I've been taking care of someone[br]in my family who's sick.
+
+01:10:28.70,01:10:30.90
+And now you're free to return[br]to your profession?
+
+01:10:30.90,01:10:31.80
+Yes.
+
+01:10:32.80,01:10:34.30
+And what exactly...
+
+01:10:34.90,01:10:37.80
+I mean, I take it you are a soloist.[br]Some instrument?
+
+01:10:40.70,01:10:42.80
+I wonder if you can guess who I am.
+
+01:10:46.90,01:10:48.30
+Can you give me a hint?
+
+01:10:48.70,01:10:51.70
+Well, it's not fair to make you guess.
+
+01:10:53.00,01:10:55.20
+I'm Baby Jane Hudson!
+
+01:11:04.30,01:11:07.90
+Oh! Do you mean you're really[br]the Baby Jane Hudson?
+
+01:11:08.40,01:11:09.50
+Yes, I am!
+
+01:11:09.80,01:11:13.00
+And I'm going to revive my act[br]exactly as I used to do it.
+
+01:11:13.30,01:11:15.90
+Of course, some of the arrangements[br]will have to be brought up to date.
+
+01:11:16.00,01:11:18.70
+Music changes so much, doesn't it?
+
+01:11:19.00,01:11:20.80
+And you know, they're desperate[br]for new acts. Television...
+
+01:11:20.90,01:11:23.30
+...Las Vegas and all the clubs and...
+
+01:11:23.50,01:11:26.50
+...there are a lot of people[br]who remember me, lots of them.
+
+01:11:28.00,01:11:30.00
+I don't see how you could fail.
+
+01:11:37.20,01:11:39.20
+You know, I had a kind of a feeling...
+
+01:11:39.30,01:11:41.50
+...the minute I opened that door[br]and saw you standing there.
+
+01:11:41.90,01:11:44.70
+I just knew we were going to be friends.
+
+01:11:45.00,01:11:46.90
+I've been thinking about costumes.
+
+01:11:47.50,01:11:48.30
+Costumes...
+
+01:11:48.40,01:11:49.50
+Yes. I took some of my old ones...
+
+01:11:49.60,01:11:52.10
+...down to be copied.[br]You think that's a good idea?
+
+01:11:52.30,01:11:53.70
+Of course.
+
+01:11:54.10,01:11:56.50
+But I don't quite remember...
+
+01:11:56.70,01:11:58.50
+How silly of me, Edwin.[br]How could you?
+
+01:11:58.70,01:12:01.30
+But I do want your opinion.[br]I really do.
+
+01:12:01.40,01:12:03.50
+All my scrap books and stuff[br]are in the rehearsal room and...
+
+01:12:03.60,01:12:05.80
+...you can look at them[br]and tell me what you think.
+
+01:12:07.90,01:12:09.90
+- You'd like to see them, wouldn't you?[br]- Well, of course.
+
+01:12:12.40,01:12:15.60
+Oh, I wish Daddy could be here[br]right now!
+
+01:12:16.30,01:12:19.10
+"You can never lose your talent,"[br]he used to tell me.
+
+01:12:19.40,01:12:22.70
+"You can lose everything[br]but you can't lose your talent!"
+
+01:12:30.40,01:12:31.70
+I think you'll find these clippings...
+
+01:12:31.80,01:12:33.40
+...very interesting.
+
+01:12:33.60,01:12:35.70
+Daddy saved them for me[br]from the very first.
+
+01:12:36.00,01:12:38.40
+He used to put them in special books.
+
+01:12:41.10,01:12:43.30
+I always liked that picture.
+
+01:12:44.50,01:12:45.20
+It's so sad.
+
+01:12:54.30,01:12:56.20
+- Will you excuse me?[br]- Yes, certainly.
+
+01:13:09.20,01:13:12.30
+You always spoil everything![br]Don't you?!
+
+01:13:12.80,01:13:15.60
+- No, Jane. I just wanted to know...[br]- Who is down there? I'll tell ya!
+
+01:13:16.30,01:13:19.20
+I got a friend down there.[br]Someone who's come to see me!
+
+01:13:19.50,01:13:22.50
+He doesn't even know you exist![br]And you don't like that, do you?
+
+01:13:22.60,01:13:24.90
+But you're wrong, Jane.[br]I've always wanted you to have friends.
+
+01:13:25.00,01:13:26.40
+That's what I've always wanted, really.
+
+01:13:26.50,01:13:27.90
+Then how come I never had any?
+
+01:13:28.10,01:13:29.60
+Well, maybe you weren't...
+
+01:13:30.10,01:13:32.30
+...I've, I mean, you were[br]just too independent...
+
+01:13:32.60,01:13:33.60
+No, that's not why!
+
+01:13:33.70,01:13:35.90
+You always stopped me[br]from having friends, that's why!
+
+01:13:36.50,01:13:38.40
+Not anymore, Jane, not anymore.
+
+01:13:38.70,01:13:42.30
+I'm pleased that you have a friend.[br]That's what you need.
+
+01:13:42.40,01:13:44.80
+- Oh, sure![br]- I was just hoping maybe...
+
+01:13:45.00,01:13:48.40
+...I could meet him and we could have[br]a nice talk just the three of us.
+
+01:13:48.70,01:13:50.10
+You'd like that, wouldn't you?
+
+01:13:50.30,01:13:52.50
+Then you could tell him[br]a whole lot of lies about me.
+
+01:13:52.80,01:13:54.10
+Scare him off...
+
+01:13:54.30,01:13:55.40
+...or maybe have him...
+
+01:13:55.50,01:13:57.20
+...for yourself!
+
+01:14:37.20,01:14:41.70
+"I've written a letter to Daddy.
+
+01:14:42.30,01:14:46.40
+"His address is heaven above."
+
+01:14:48.20,01:14:49.80
+That's wonderful!
+
+01:15:01.70,01:15:05.80
+"I've written a letter to Daddy.
+
+01:15:06.70,01:15:10.90
+"His address is heaven above.
+
+01:15:12.70,01:15:16.90
+"I've written, Dear Daddy,[br]we miss you...
+
+01:15:18.00,01:15:22.00
+"...and wish you were with us to love.
+
+01:15:24.90,01:15:28.90
+"Instead of a stamp I put kisses.
+
+01:15:29.90,01:15:34.00
+"The postman says that's best to do.
+
+01:15:36.50,01:15:40.60
+"I've written a letter to Daddy...
+
+01:15:40.70,01:15:45.60
+"...saying, I love you.
+
+01:16:39.00,01:16:43.20
+"I've written a letter to Daddy...
+
+01:16:43.30,01:16:47.60
+"...saying, I love you!"
+
+01:17:09.00,01:17:10.90
+Oh, Edwin, you certainly[br]can play, can't you?
+
+01:17:11.20,01:17:14.10
+- And you certainly can sing.[br]- Oh, thank you.
+
+01:17:14.70,01:17:17.10
+I can see you've done[br]this kind of work before.
+
+01:17:17.40,01:17:18.60
+No. Not really.
+
+01:17:18.90,01:17:21.60
+Actually, I've spent most of my time[br]on serious music.
+
+01:17:21.70,01:17:23.30
+Composing, and that sort of thing.
+
+01:17:23.40,01:17:25.60
+You mean, this will be your[br]first contact with show business?
+
+01:17:25.90,01:17:27.00
+Not exactly.
+
+01:17:27.30,01:17:30.20
+You see, my father was[br]quite well known as an actor.
+
+01:17:30.50,01:17:32.70
+In the movies?[br]Maybe I worked with him.
+
+01:17:33.00,01:17:35.40
+I shouldn't think so.
+
+01:17:35.70,01:17:38.20
+He's been dead quite a long time now.
+
+01:17:38.40,01:17:41.10
+I lost my daddy when[br]I was quite young, too.
+
+01:17:41.30,01:17:44.30
+Of course, he was more in the[br]classical tradition, I mean as an actor.
+
+01:17:44.50,01:17:46.20
+Shakespeare and that sort of thing.
+
+01:17:46.40,01:17:49.30
+People used to say Daddy could've been[br]a star in his own right.
+
+01:17:49.60,01:17:51.30
+He was a musician, too.
+
+01:17:51.50,01:17:52.50
+Oh? What instrument?
+
+01:17:52.60,01:17:53.90
+Piano and banjo.
+
+01:17:56.80,01:17:59.10
+Oh, that's very interesting.
+
+01:17:59.40,01:18:02.30
+You know, the banjo's a very[br]native American instrument.
+
+01:18:02.70,01:18:04.50
+Of course, my father was British...
+
+01:18:05.00,01:18:06.00
+...but he never...
+
+01:18:06.10,01:18:08.80
+...really got a chance[br]out here in Hollywood.
+
+01:18:09.10,01:18:10.80
+Oh, that's too bad.
+
+01:18:22.30,01:18:23.40
+It's funny, really.
+
+01:18:23.70,01:18:26.80
+Because actually he came from a[br]rather distinguished family, socially...
+
+01:18:27.10,01:18:30.40
+...and yet nearly all the parts he had[br]were playing menials, butlers and such.
+
+01:18:31.20,01:18:32.20
+- Oh, really?[br]- Yes.
+
+01:18:33.50,01:18:34.70
+I don't think my mother...
+
+01:18:34.90,01:18:37.80
+...ever really appreciated[br]what he was trying to do.
+
+01:18:38.30,01:18:39.90
+Oh, I know what you mean.
+
+01:18:40.10,01:18:43.70
+It's very hard for an artist[br]when people don't understand.
+
+01:18:44.00,01:18:44.90
+I remember when...
+
+01:18:45.00,01:18:47.40
+I sometimes try to explain to her...
+
+01:18:47.50,01:18:49.70
+...that if you're going to produce[br]anything decent in the way...
+
+01:18:49.80,01:18:51.50
+...of serious music...
+
+01:18:52.30,01:18:55.40
+...you must have the right atmosphere.
+
+01:18:55.80,01:18:57.90
+But of course.[br]Delia can't understand that.
+
+01:18:59.30,01:19:01.60
+Delia? Who's Delia?
+
+01:19:02.70,01:19:05.70
+You might not think it to look at her,[br]but she is my mother.
+
+01:19:08.60,01:19:10.60
+For a minute I thought you had...
+
+01:19:10.80,01:19:12.70
+...a wife or a lady friend...
+
+01:19:12.90,01:19:14.50
+...tucked away somewhere.
+
+01:19:16.70,01:19:21.50
+Oh, no. Nothing like that. How much[br]were you actually thinking of paying?
+
+01:19:22.00,01:19:23.00
+Paying?
+
+01:19:28.00,01:19:29.20
+Well, what do you think?
+
+01:19:33.80,01:19:35.20
+How about a $100?
+
+01:19:36.10,01:19:38.10
+A week, of course.
+
+01:19:40.80,01:19:42.30
+Oh. I think that would be fair.
+
+01:19:42.50,01:19:44.30
+Then that's settled.
+
+01:19:44.50,01:19:46.20
+I don't like talking about money,[br]do you?
+
+01:19:46.50,01:19:50.00
+No. It's not that important, is it?[br]Not like relationships between people...
+
+01:19:50.30,01:19:53.00
+...but the thing is, if I'm going to[br]move out and give up my pupils...
+
+01:19:53.30,01:19:55.20
+...I'll have to know for sure.
+
+01:19:55.60,01:19:57.70
+When were you thinking of starting?
+
+01:19:58.50,01:20:01.10
+Just when could you let me[br]have some money?
+
+01:20:02.30,01:20:06.80
+Well, I've some family matters[br]to take care of...
+
+01:20:07.90,01:20:10.80
+...that should take about a week or so.
+
+01:20:11.10,01:20:14.50
+Well, then I don't see why[br]we couldn't start rehearsing right away.
+
+01:20:17.70,01:20:19.00
+Tell you what, Edwin...
+
+01:20:19.30,01:20:23.60
+...I'll pay you first thing Wednesday,[br]a month in advance.
+
+01:20:25.20,01:20:26.40
+It's done.
+
+01:20:26.70,01:20:29.10
+How about going to dinner[br]somewhere nice?
+
+01:20:29.40,01:20:31.10
+Oh, it sounds fine.
+
+01:20:31.70,01:20:33.10
+Why don't you come with me now?
+
+01:20:33.20,01:20:35.10
+I've got to go down and pick up[br]my costumes and then...
+
+01:20:35.10,01:20:37.10
+...we could go on to dinner from there.
+
+01:20:37.90,01:20:42.40
+Oh, I promised my mo...[br]...Delia I'd be home for supper.
+
+01:20:43.60,01:20:45.80
+Oh. Well, I'll drive you home then.
+
+01:20:47.10,01:20:48.90
+Oh, I'm so excited.
+
+01:20:49.20,01:20:52.80
+You know, I know everything[br]is going to go just marvelously.
+
+01:20:53.40,01:20:56.50
+I have to go up and change.[br]I won't be a minute.
+
+01:21:17.50,01:21:18.40
+This is really...
+
+01:21:18.70,01:21:20.90
+...a rather charming neighborhood.
+
+01:21:23.90,01:21:26.70
+Yes, I've always found it very nice.
+
+01:23:34.00,01:23:35.90
+I just can't wait to get started now,[br]rehearsing.
+
+01:23:36.20,01:23:38.00
+We're going to be a great team,[br]the two of us.
+
+01:23:38.30,01:23:40.50
+Oh, I'm sure we are.
+
+01:23:42.50,01:23:44.30
+I'll see you Wednesday. Bye.
+
+01:26:39.70,01:26:41.70
+This is Blanche, Blanche Hudson.
+
+01:26:42.90,01:26:46.10
+I need your help. Is the doctor there?[br]I must talk to him.
+
+01:26:46.50,01:26:48.20
+Well, he's with a patient right now.
+
+01:26:48.80,01:26:51.40
+But I have to talk to him.[br]I've got to.
+
+01:26:52.00,01:26:54.70
+Hold on, please.[br]I'll see if I can interrupt him.
+
+01:26:58.80,01:27:02.20
+Ms. Hill tells me you're a little upset.[br]What seems to be the trouble?
+
+01:27:03.60,01:27:05.90
+You must come. I need you here.
+
+01:27:12.70,01:27:14.70
+No. It's about my sister.
+
+01:27:15.50,01:27:18.00
+I need your help. I need you here.
+
+01:27:18.50,01:27:19.90
+Here at the house.
+
+01:27:20.60,01:27:22.70
+No. It's nothing like that.
+
+01:27:24.10,01:27:26.30
+It's the way she's behaving.
+
+01:27:27.30,01:27:31.00
+You've got to come over right away.[br]Please, before she comes back.
+
+01:27:31.20,01:27:32.60
+I don't quite understand.
+
+01:27:32.80,01:27:35.30
+Is this some kind of emotional[br]disturbance you're talking about?
+
+01:27:35.60,01:27:39.00
+Yes, she's emotionally disturbed.
+
+01:27:39.50,01:27:41.30
+She's unbalanced.
+
+01:27:43.00,01:27:45.10
+I don't know, doctor.
+
+01:27:45.80,01:27:47.70
+Are you trying to tell me[br]that she's violent?
+
+01:27:48.50,01:27:49.40
+Yes!
+
+01:27:50.00,01:27:51.20
+Yes, she is!
+
+01:28:08.70,01:28:10.90
+I'm... not sure.
+
+01:28:24.20,01:28:26.90
+We aren't getting anywhere like this.[br]I'll come over right away.
+
+01:28:32.80,01:28:34.70
+I know who it was.
+
+01:28:35.00,01:28:36.40
+No, Jane, that really was...
+
+01:28:36.70,01:28:39.00
+And I know what you're trying to do.
+
+01:28:39.20,01:28:41.70
+I'm not trying to do anything.[br]Honestly, Jane.
+
+01:29:44.80,01:29:47.00
+This is Blanche Hudson again.
+
+01:29:47.40,01:29:48.80
+Could I speak to the doctor?
+
+01:29:49.10,01:29:52.50
+Oh, yes, certainly. Hold on, please.[br]I'll try and catch him.
+
+01:30:01.80,01:30:03.60
+Hello, Blanche. I'm on my way now.
+
+01:30:04.50,01:30:07.20
+Oh, I'm so glad I caught you in time.
+
+01:30:07.50,01:30:10.50
+Dr. Shelby, we're not going[br]to need you after all.
+
+01:30:12.10,01:30:15.70
+I know, but Jane has gone[br]to another doctor.
+
+01:30:16.60,01:30:19.70
+- Another doctor?[br]- Yes. Another doctor.
+
+01:30:20.60,01:30:22.80
+Well, of course, if she's chosen[br]to go to someone else...
+
+01:30:25.50,01:30:28.70
+Well, after all,[br]we really can't interfere, can we?
+
+01:30:28.90,01:30:31.50
+If Jane's chosen to go[br]to another doctor...
+
+01:30:32.30,01:30:34.10
+I'm very sorry.
+
+01:30:40.80,01:30:42.90
+Goodbye, doctor.
+
+01:31:22.50,01:31:24.90
+I thought I told you not to come back[br]until next week.
+
+01:31:25.00,01:31:28.10
+Yes, but I had a free day today[br]so I thought I'd come by and see...
+
+01:31:28.20,01:31:30.60
+...if there was anything needed doin'.[br]- Well, there isn't anything.
+
+01:31:30.60,01:31:32.70
+So you could've saved yourself[br]the trouble.
+
+01:31:33.30,01:31:36.00
+I was gonna write you a note, but now[br]you're here I may as well tell you.
+
+01:31:36.20,01:31:38.00
+We're not gonna be[br]needing you anymore.
+
+01:31:38.70,01:31:40.40
+But I don't understand.
+
+01:31:40.60,01:31:41.90
+We're closing up the house.
+
+01:31:42.20,01:31:44.20
+Blanche wants to take[br]a smaller place at the beach.
+
+01:31:44.30,01:31:47.10
+The doctor thinks that's best for her[br]so that's what we're going to do.
+
+01:31:47.60,01:31:50.70
+Oh, don't worry, you'll be paid[br]for today. I'll send you a check.
+
+01:31:51.00,01:31:52.50
+I'm not worried about any pay.
+
+01:31:52.60,01:31:54.60
+I'd just like to see[br]Ms. Blanche before I go.
+
+01:31:55.80,01:31:58.20
+Well, you can't. She's asleep.
+
+01:32:00.40,01:32:02.40
+That's all right. I don't mind waiting.
+
+01:32:02.80,01:32:05.30
+Well, I do, I gotta leave,[br]so just gimme the keys to the house.
+
+01:32:08.10,01:32:11.00
+I'm sorry, I don't have the keys.[br]I must've left 'em at home.
+
+01:32:11.30,01:32:12.90
+Anyway, go. You're fired.
+
+01:34:03.10,01:34:06.40
+Ms. Blanche, are you awake?
+
+01:34:28.20,01:34:30.30
+Are you all right in there?
+
+01:34:33.80,01:34:36.50
+Wait now, and I'll go find the key.
+
+01:34:41.10,01:34:42.00
+Thank you.
+
+01:34:45.70,01:34:47.80
+Good morning, Ms. Hudson.
+
+01:34:48.70,01:34:50.30
+How's Ms. Blanche these days?
+
+01:34:51.50,01:34:53.50
+She's just fine.
+
+01:34:54.00,01:34:55.80
+Your deposit slip?
+
+01:34:56.50,01:34:59.40
+Well, Blanche wanted me[br]to get it all in cash this time.
+
+01:34:59.60,01:35:03.30
+- I guess she has some special reason.[br]- Yes, but doesn't she normally...?
+
+01:35:03.60,01:35:06.90
+I mean if she isn't going to deposit[br]her monthly check, she usually...
+
+01:35:07.00,01:35:09.80
+...gives us a call and tells us what[br]she wants us to do, doesn't she?
+
+01:35:10.20,01:35:11.80
+- Didn't she call?[br]- I don't think so.
+
+01:35:12.80,01:35:16.50
+Oh, I guess she must still be asleep.[br]She gave me that check last night.
+
+01:35:16.80,01:35:19.40
+I see. Just a moment, please.
+
+01:35:34.20,01:35:36.70
+I guess that'll be all right,[br]Ms. Hudson.
+
+01:35:37.60,01:35:40.00
+- Fifty and twenties, all right?[br]- Yes, please.
+
+01:35:47.30,01:35:50.40
+- There you are.[br]- Thank you.
+
+01:35:58.40,01:36:01.40
+Ms. Blanche, I'll tell you right now,[br]if that sister of yours...
+
+01:36:01.50,01:36:04.50
+...has gone and given you[br]sleeping pills to keep you quiet...
+
+01:36:04.50,01:36:06.50
+...while she's out doin'[br]I don't know what...
+
+01:36:06.70,01:36:10.00
+...I'm sure as hell[br]gonna call the police on her.
+
+01:36:10.70,01:36:12.40
+It's all right, Ms. Blanche.
+
+01:36:26.20,01:36:27.30
+I'm glad I caught you.
+
+01:36:27.40,01:36:30.70
+I hope you don't mind, but there's[br]something I've been meaning to ask you.
+
+01:36:30.80,01:36:33.50
+Well, to tell you the truth, I'm kind of[br]short of help around the house and...
+
+01:36:33.50,01:36:35.60
+...I was wondering if you'd mind me[br]asking your cleaning lady...
+
+01:36:35.70,01:36:37.60
+...if she could give me[br]a couple of days a week.
+
+01:36:37.90,01:36:40.50
+As far as I'm concerned,[br]you can have her as often as you want.
+
+01:36:40.80,01:36:42.00
+My sister and I are moving.
+
+01:36:42.10,01:36:43.40
+So we won't want her anymore.
+
+01:36:43.50,01:36:45.70
+But you'll have to call her[br]because she isn't here.
+
+01:36:45.80,01:36:47.30
+I've already sent her home.
+
+01:36:48.00,01:36:49.70
+But I just saw her.
+
+01:36:50.00,01:36:52.10
+Yes, but I sent her home.
+
+01:36:52.20,01:36:54.10
+Oh, no, but that's impossible.
+
+01:36:54.30,01:36:57.20
+I saw her go into the house[br]a few minutes ago.
+
+01:37:02.10,01:37:03.80
+- In the house?[br]- Yes.
+
+01:37:28.10,01:37:29.80
+So, you finally decided to come back.
+
+01:37:31.40,01:37:32.80
+What're you doing here?
+
+01:37:34.40,01:37:36.60
+- I told you, you were fired.[br]- Never mind all that.
+
+01:37:36.70,01:37:38.60
+I want to know what's goin' on[br]around here.
+
+01:37:38.90,01:37:41.70
+But you said you didn't have your key.
+
+01:37:42.20,01:37:43.80
+It just so happened that I did.
+
+01:37:43.90,01:37:47.10
+So now you can tell me what you mean[br]by lockin' Ms. Blanche in her room.
+
+01:37:50.30,01:37:52.70
+This isn't Blanche's house, this is[br]my house. And I can do what I like.
+
+01:37:52.80,01:37:54.80
+It doesn't make a bit of difference[br]whose house it is.
+
+01:37:54.90,01:37:57.30
+You've got to act like a grown woman,[br]the same as everybody else.
+
+01:37:57.40,01:37:58.90
+Suppose there'd been a fire[br]or somethin'...
+
+01:37:58.90,01:38:00.50
+...and Ms. Blanche locked up[br]in her room like that?
+
+01:38:00.60,01:38:01.80
+Well, there wasn't.
+
+01:38:02.00,01:38:05.10
+You open that door and[br]stop all this nonsense.
+
+01:38:05.50,01:38:07.00
+Then give me the key!
+
+01:38:07.50,01:38:10.10
+She's asleep. I gave her a pill.
+
+01:38:10.70,01:38:12.00
+You did, huh?
+
+01:38:12.20,01:38:14.70
+Then you better give me that key[br]and be quick about it.
+
+01:38:15.40,01:38:18.10
+I won't, and you can't make me.
+
+01:38:18.40,01:38:19.50
+I'm not afraid of you.
+
+01:38:20.10,01:38:23.50
+All right, Ms. Hudson.[br]I'm not going to fool with you.
+
+01:38:23.60,01:38:25.10
+If you won't give me that key...
+
+01:38:25.10,01:38:27.60
+...I'll go right and call the police.
+
+01:38:29.60,01:38:31.00
+You'll be sorry.
+
+01:38:31.60,01:38:33.10
+Give me that key.
+
+01:38:45.90,01:38:47.40
+I didn't mean her any harm.
+
+01:38:47.70,01:38:49.60
+You better not have done her any harm.
+
+01:38:58.90,01:39:00.80
+What has she done to you?
+
+01:39:09.10,01:39:10.60
+Get it off in a minute.
+
+01:39:11.20,01:39:13.80
+Don't worry, Ms. Blanche.[br]I'll get you down from there.
+
+01:39:17.50,01:39:19.00
+You just rest easy.
+
+01:39:35.60,01:39:37.50
+Going out are you, dear?
+
+01:39:40.00,01:39:41.10
+You know I am.
+
+01:39:41.20,01:39:43.10
+Having dinner with her?
+
+01:39:45.10,01:39:47.20
+I'm forgotten.
+
+01:39:47.50,01:39:51.00
+Now you won't be back too late,[br]will you, lovey? Huh?
+
+01:39:57.80,01:39:59.60
+Who knows?
+
+01:40:17.20,01:40:20.40
+You could've been[br]better than all of 'em.
+
+01:40:21.30,01:40:24.00
+But they didn't want that.
+
+01:40:32.60,01:40:35.00
+They just didn't love you enough.
+
+01:40:36.70,01:40:40.10
+Do you know that?[br]They just didn't love you enough.
+
+01:41:39.70,01:41:41.80
+I'm sorry, Edwin.
+
+01:41:42.50,01:41:44.90
+I can't let you in.
+
+01:41:45.60,01:41:47.00
+Not now.
+
+01:42:02.70,01:42:04.40
+Go to hell!
+
+01:42:15.30,01:42:17.50
+I can't let you in.
+
+01:42:23.90,01:42:25.50
+Not now.
+
+01:42:52.90,01:42:56.40
+What am I going to do?
+
+01:45:12.30,01:45:15.00
+I thought... I didn't know[br]there was anyone in here.
+
+01:45:16.00,01:45:17.70
+I just came home and saw a light...
+
+01:45:18.00,01:45:20.70
+...and I thought perhaps you'd left[br]the lights of your car on.
+
+01:45:21.00,01:45:22.60
+You know, I've had that happen to me.
+
+01:45:22.70,01:45:24.10
+That's all right, Mrs. Bates.
+
+01:45:24.80,01:45:27.70
+I had that happen to me once,[br]it's no joke.
+
+01:45:28.00,01:45:30.80
+Wake up in the morning and find[br]you've got a dead battery.
+
+01:45:31.70,01:45:32.80
+No joke.
+
+01:45:35.00,01:45:37.70
+Well, as long as everything's[br]all right...
+
+01:45:38.90,01:45:40.60
+...I guess I'll just say good night.
+
+01:45:40.80,01:45:41.60
+Good night.
+
+01:47:34.40,01:47:36.60
+That doesn't prove anything.
+
+01:47:36.60,01:47:38.60
+Now what do you think you'll do?
+
+01:47:38.70,01:47:40.50
+I'll manage, lovey.
+
+01:47:40.50,01:47:41.90
+I suppose you think[br]I'm making all this up.
+
+01:47:42.00,01:47:43.20
+I wouldn't know.
+
+01:47:43.50,01:47:45.30
+Well, Hazel should know, shouldn't she?
+
+01:47:45.30,01:47:47.80
+She worked right in the same studio[br]and that's when it all happened.
+
+01:47:48.00,01:47:50.50
+Just after one of those studio parties.
+
+01:47:50.80,01:47:52.50
+And right in front of her own house.
+
+01:47:52.80,01:47:56.40
+Jane Hudson drove a car straight at her[br]own sister and crippled her for life.
+
+01:47:56.70,01:47:58.50
+Come on. You mean,[br]she tried to kill her?
+
+01:47:58.80,01:48:01.70
+Yes, she did. She tried[br]to murder her own sister.
+
+01:48:02.00,01:48:03.90
+How is it they didn't arrest her then?
+
+01:48:04.10,01:48:06.60
+Oh, they would've, but the studio[br]had it all hushed up...
+
+01:48:06.80,01:48:08.70
+...on account[br]of Blanche Hudson's career.
+
+01:48:08.90,01:48:10.40
+That sounds very likely.
+
+01:48:10.70,01:48:13.40
+Yes, doesn't it. So the fine woman[br]you've chosen to run around with...
+
+01:48:13.50,01:48:17.30
+...turns out to be broke[br]and a murderer as well.
+
+01:48:17.60,01:48:18.50
+Well, it's true.
+
+01:48:18.60,01:48:21.70
+All right then, if it's true, I'll ask[br]her about it when I see her again.
+
+01:48:21.90,01:48:24.20
+You wouldn't see a woman[br]like that again?
+
+01:48:24.30,01:48:26.30
+Why not? You just told me,[br]she's got a rich sister.
+
+01:48:26.40,01:48:29.00
+You haven't heard the worst of it yet.
+
+01:48:29.30,01:48:31.20
+- You mean there's more?[br]- Yes, there is.
+
+01:48:31.50,01:48:35.90
+After she'd run down her own sister,[br]your precious Jane Hudson ran off and...
+
+01:48:36.20,01:48:39.20
+...left her there to die,[br]like some poor animal.
+
+01:48:39.50,01:48:42.70
+She ran off and disappeared[br]for three whole days.
+
+01:48:42.90,01:48:45.40
+So what happened then?[br]Don't tell me they couldn't find her.
+
+01:48:45.70,01:48:48.40
+Oh, they found her all right.[br]They found her all right.
+
+01:48:48.70,01:48:51.00
+They found her in some hotel room...
+
+01:48:51.20,01:48:53.50
+...with a man that she'd[br]never even seen before.
+
+01:48:53.80,01:48:57.00
+Why should that upset you?
+
+01:48:58.00,01:49:00.90
+Isn't that how I was conceived?
+
+01:49:25.90,01:49:28.00
+Yes, this is Ms. Hudson.
+
+01:49:44.20,01:49:46.10
+She left.
+
+01:49:49.30,01:49:50.80
+About a week ago.
+
+01:49:52.20,01:49:56.40
+We have a report here, filed by her[br]cousin, listing her as a missing person.
+
+01:49:56.70,01:49:59.60
+Did she tell you what her plans were,[br]anything like that?
+
+01:50:01.80,01:50:04.30
+No, I don't know a thing.
+
+01:50:04.50,01:50:06.20
+Well, we have a couple of[br]other addresses to check.
+
+01:50:06.30,01:50:07.80
+Maybe we'll come up with something.
+
+01:50:07.90,01:50:10.90
+Otherwise, we'll probably be[br]getting in touch with you again.
+
+01:50:11.10,01:50:14.50
+Meanwhile, if you do hear from her,[br]we would appreciate you letting us know.
+
+01:50:44.20,01:50:47.00
+The police are looking for Elvira.
+
+01:50:47.80,01:50:48.90
+It wasn't my fault.
+
+01:50:49.20,01:50:52.00
+She wouldn't go away, you heard her,[br]she wouldn't leave me alone.
+
+01:50:52.20,01:50:55.90
+I don't know what to do, Blanche.[br]What am I going to do?
+
+01:51:01.20,01:51:03.20
+What am I going to do?
+
+01:51:06.60,01:51:09.00
+If they find her,[br]we'll have to run away.
+
+01:51:09.30,01:51:12.50
+That's what we'll do.[br]We'll go away.
+
+01:51:13.80,01:51:16.60
+Oh, but then I wouldn't[br]see Edwin anymore.
+
+01:51:16.90,01:51:19.30
+He wouldn't like what I did.
+
+01:51:19.60,01:51:23.40
+It wasn't my fault,[br]but he wouldn't like it.
+
+01:51:24.60,01:51:25.80
+I don't care.
+
+01:51:26.00,01:51:27.60
+We'll just go to the beach.
+
+01:51:27.70,01:51:30.00
+We'll go and live at the seashore[br]all the time, like we used to...
+
+01:51:30.60,01:51:32.80
+...when I was little[br]and Daddy was there.
+
+01:51:33.00,01:51:35.40
+And maybe we'll have friends.
+
+01:51:35.70,01:51:39.20
+People would come and see us.[br]Oh, I'd like that.
+
+01:51:48.30,01:51:50.30
+Blanche, listen to me.
+
+01:51:51.70,01:51:54.40
+You know, I always wanted[br]everything to be nice, don't you?
+
+01:51:55.10,01:51:58.10
+I don't see how Elvira could[br]make me do a thing like that.
+
+01:51:58.30,01:52:00.30
+I just don't understand.
+
+01:52:00.80,01:52:03.10
+It was like that time[br]in the hotel room...
+
+01:52:03.40,01:52:07.20
+...when they came and told me that[br]you were hurt and that I'd done it.
+
+01:52:07.40,01:52:10.80
+And there was a big man there,[br]a policeman.
+
+01:52:11.00,01:52:13.00
+And he hit me and[br]he slapped me and...
+
+01:52:13.20,01:52:16.80
+...I tried to tell him that[br]I couldn't do a thing like that.
+
+01:52:16.90,01:52:19.30
+Not to my own sister.
+
+01:52:26.10,01:52:28.30
+He said I was a liar.
+
+01:52:29.70,01:52:31.50
+The accident, it...
+
+01:52:32.40,01:52:34.60
+No, it wasn't an accident.
+
+01:52:34.80,01:52:38.20
+I did it. You told me so yourself.
+
+01:52:42.20,01:52:44.00
+I must tell you.
+
+01:52:44.70,01:52:46.80
+I don't want to talk about it.
+
+01:52:47.10,01:52:50.40
+Every time I think about something nice,[br]you remind me of all the bad things.
+
+01:52:50.60,01:52:53.30
+I only want to talk about[br]the nice things.
+
+01:52:58.90,01:53:02.40
+Remember when Daddy and I[br]used to rehearse at the beach?
+
+01:53:03.90,01:53:06.20
+I'd be dancing on the sand...
+
+01:53:06.90,01:53:09.60
+...and all the people[br]would come and watch...
+
+01:53:10.10,01:53:13.80
+...all crowd around to see[br]Baby Jane Hudson.
+
+01:53:23.90,01:53:25.30
+What'll I do?
+
+01:53:26.30,01:53:28.20
+- Let them in.[br]- Oh, but what if...?
+
+01:53:30.00,01:53:32.00
+It may be Edwin.
+
+01:53:35.20,01:53:38.00
+Of course, Edwin.
+
+01:53:48.00,01:53:50.10
+You want to make him tell on me.
+
+01:54:16.60,01:54:18.30
+Wait for me!
+
+01:54:29.00,01:54:31.40
+I'm sorry, Ms. Hudson but we just[br]picked up this young man...
+
+01:54:31.50,01:54:32.80
+...in front of your house.
+
+01:54:32.90,01:54:35.10
+Says he's on his way in[br]to see you. Is that right?
+
+01:54:37.30,01:54:38.70
+I don't understand.
+
+01:54:38.90,01:54:41.00
+They're trying to say I'm drunk.
+
+01:54:41.30,01:54:43.50
+Let's just say you're[br]a little happy, okay?
+
+01:54:43.70,01:54:45.40
+Who's happy?
+
+01:54:45.90,01:54:47.40
+I'm not happy.
+
+01:54:54.70,01:54:55.80
+So now you know.
+
+01:54:56.70,01:54:59.10
+That's right. So now we know.
+
+01:55:00.20,01:55:02.30
+Sorry to have bothered you,[br]Ms. Hudson. Good night.
+
+01:55:26.70,01:55:31.10
+I have the money. Really, I have.[br]But don't be mean to me.
+
+01:55:31.60,01:55:33.00
+You promised me.
+
+01:55:33.00,01:55:36.20
+I know I did, and I have the money.
+
+01:55:36.40,01:55:40.00
+Look, let's go in the kitchen[br]and have a drink together.
+
+01:55:40.30,01:55:41.70
+It's nice there.[br]And then...
+
+01:55:41.90,01:55:44.80
+...we can be friends again,[br]and everything.
+
+01:55:45.40,01:55:46.60
+And everything...
+
+01:55:47.00,01:55:48.80
+- I've got something else for you, too.[br]- What?
+
+01:55:48.80,01:55:51.80
+It's a surprise. Would you like to...?
+
+01:55:59.30,01:56:01.20
+You're gonna like your present.
+
+01:56:03.50,01:56:05.50
+You're really gonna like it.
+
+01:56:05.70,01:56:07.50
+Drink your drink, Edwin.
+
+01:56:11.10,01:56:13.50
+I'll go and get it for you.
+
+01:56:44.70,01:56:47.00
+This is my very own.
+
+01:56:48.20,01:56:51.10
+It's a genuine Baby Jane Doll.
+
+01:56:52.50,01:56:55.60
+I used to give them[br]to all my really good friends...
+
+01:56:55.80,01:56:58.70
+...the people that I worked with.
+
+01:56:59.00,01:57:00.80
+- They made them for me.[br]- Marvelous.
+
+01:57:00.90,01:57:02.30
+Specially.
+
+01:57:02.70,01:57:04.30
+Very lifelike.
+
+01:57:04.60,01:57:07.70
+Now Jane, you talk[br]to nice Mr. Flagg, and...
+
+01:57:08.20,01:57:12.40
+...nice Mr. Flagg will have[br]his money in a minute.
+
+01:57:26.10,01:57:29.20
+Oh, you're not comfy[br]like that, are you?
+
+01:57:46.90,01:57:48.40
+Shall we go bye-bye?
+
+01:58:02.30,01:58:04.60
+Here comes the Super Chief.
+
+01:58:17.30,01:58:18.90
+What was that?
+
+01:58:19.00,01:58:22.00
+Nothing. Nothing.[br]I didn't do anything.
+
+01:58:28.20,01:58:30.80
+She'll take you away from me.
+
+01:58:41.50,01:58:43.00
+Please...
+
+01:58:44.20,01:58:45.40
+...help me.
+
+01:59:01.00,01:59:02.80
+She's dying.
+
+01:59:04.90,01:59:07.60
+For God's sake.
+
+01:59:09.60,01:59:10.70
+She's dying.
+
+01:59:11.60,01:59:13.90
+Get away from me![br]Get away from me!
+
+01:59:15.90,01:59:18.70
+Edwin, I've got your money.
+
+01:59:21.10,01:59:23.50
+Edwin, you forgot your money!
+
+01:59:33.30,01:59:35.20
+He hates me.
+
+01:59:41.40,01:59:43.40
+He hates me.
+
+02:00:07.30,02:00:09.70
+He's going to tell.
+
+02:00:33.10,02:00:35.90
+You've got to help me.
+
+02:00:36.70,02:00:38.70
+We've got to leave.
+
+02:00:41.40,02:00:43.70
+Please, Blanche.
+
+02:00:45.60,02:00:48.30
+Help me, please.
+
+02:03:14.50,02:03:17.00
+I like this place.
+
+02:03:17.20,02:03:19.80
+We can just sit here for a while.
+
+02:03:20.00,02:03:23.90
+And pretty soon the sun will[br]come up and it will be nice.
+
+02:03:25.50,02:03:27.90
+You should look at the sea.
+
+02:03:28.20,02:03:31.10
+It has all lights on it.
+
+02:03:31.50,02:03:33.80
+You used to like that.
+
+02:04:02.10,02:04:05.10
+We interrupt this program to bring you[br]a special news bulletin.
+
+02:04:05.30,02:04:08.20
+At 11:25 this morning all local[br]law-enforcement agencies...
+
+02:04:08.30,02:04:09.60
+...had assigned special details...
+
+02:04:09.70,02:04:13.40
+...to the kidnap-slaying mystery that[br]surrounds the famed Hudson sisters.
+
+02:04:13.70,02:04:16.60
+It is believed that Blanche Hudson,[br]film great of the early Thirties...
+
+02:04:16.90,02:04:18.90
+...has been forcibly abducted[br]by her sister...
+
+02:04:18.90,02:04:21.00
+...former child star,[br]Baby Jane Hudson...
+
+02:04:21.20,02:04:23.60
+...from the family home on[br]Northwood Avenue in Hollywood...
+
+02:04:23.70,02:04:27.10
+...sometime between the hours of[br]10:00 p.m. And 10:30 p.m. Last evening.
+
+02:04:27.80,02:04:29.60
+With the exception of one witness...
+
+02:04:29.70,02:04:33.50
+...who reportedly saw the Hudson car,[br]a 1940 or 1941 black convertible...
+
+02:04:33.70,02:04:36.00
+...heading west on Wilshire[br]and Santa Monica...
+
+02:04:36.30,02:04:38.80
+...no report has been received.
+
+02:05:07.80,02:05:09.80
+I see you found that colored woman.
+
+02:05:10.00,02:05:11.20
+They found her all right.
+
+02:05:11.60,02:05:14.50
+Sure is a rotten way to get[br]your picture in the papers.
+
+02:05:15.00,02:05:17.50
+You reckon you'll ever find that[br]Baby Jane, or whatever her name is?
+
+02:05:17.80,02:05:20.90
+Sure, we'll find her.[br]But I guess maybe it'll be too late.
+
+02:05:57.50,02:06:00.50
+Oh, officer, there's a car down there[br]parked right out in the road.
+
+02:06:00.80,02:06:03.10
+I almost got stuck in the sand[br]when I tried to get around it.
+
+02:06:03.80,02:06:06.40
+- You mean that old Lincoln convertible?[br]- That's right.
+
+02:06:06.80,02:06:09.80
+That was parked there when[br]we opened up this morning.
+
+02:06:10.20,02:06:12.60
+The keys are there, but I didn't want[br]to move it. I thought maybe...
+
+02:06:14.90,02:06:16.20
+How do you figure?
+
+02:06:16.50,02:06:18.90
+Cops. How do you figure cops?
+
+02:06:33.10,02:06:34.10
+This is it.
+
+02:07:06.40,02:07:08.20
+You must be hot.
+
+02:07:16.10,02:07:17.60
+Help me.
+
+02:07:19.30,02:07:20.90
+I'm afraid.
+
+02:07:26.10,02:07:28.00
+Find someone...
+
+02:07:29.50,02:07:30.40
+...a doctor.
+
+02:07:31.00,02:07:32.60
+I can't.
+
+02:07:35.20,02:07:36.70
+If I die...
+
+02:07:39.10,02:07:40.40
+...you'll be alone.
+
+02:07:40.60,02:07:42.70
+But they'd be mean to me,[br]like they were before.
+
+02:07:44.20,02:07:46.10
+They'll be kind.
+
+02:07:48.10,02:07:50.00
+I don't want to hear.
+
+02:07:51.80,02:07:53.40
+Jane, I'm dying.
+
+02:07:54.80,02:07:57.10
+There's no time.
+
+02:07:57.80,02:07:59.80
+You must listen.
+
+02:08:00.50,02:08:02.00
+I made you...
+
+02:08:02.50,02:08:04.70
+...waste your whole life...
+
+02:08:05.90,02:08:08.50
+...thinking you'd crippled me.
+
+02:08:08.70,02:08:10.40
+Please, stop.
+
+02:08:12.50,02:08:15.10
+You didn't do it.
+
+02:08:17.50,02:08:19.90
+I did it myself.
+
+02:08:21.80,02:08:23.80
+Don't you understand?
+
+02:08:25.40,02:08:28.70
+I crippled myself.
+
+02:08:29.70,02:08:31.00
+You weren't driving...
+
+02:08:31.10,02:08:33.00
+...that night.
+
+02:09:00.50,02:09:03.00
+You weren't driving.
+
+02:09:04.40,02:09:06.30
+You were too drunk.
+
+02:09:06.60,02:09:08.80
+I wouldn't let you drive.
+
+02:09:10.70,02:09:13.60
+I made you go open the gates.
+
+02:09:14.00,02:09:16.70
+I watched you get out of the car.
+
+02:09:18.10,02:09:21.10
+You'd been so cruel to me at the party.
+
+02:09:22.20,02:09:23.90
+Imitating me...
+
+02:09:24.40,02:09:26.90
+...making people laugh at me.
+
+02:09:27.70,02:09:30.10
+I watched you get out of the car and...
+
+02:09:31.60,02:09:34.20
+...I wanted to run you down...
+
+02:09:34.50,02:09:36.30
+...crush you.
+
+02:09:37.00,02:09:39.40
+You saw the car coming.
+
+02:09:42.00,02:09:44.00
+I hit the gates.
+
+02:09:49.10,02:09:51.80
+Snapped my spine.
+
+02:09:53.30,02:09:55.10
+Then, you mean...
+
+02:09:58.10,02:10:02.20
+...all this time[br]we could've been friends?
+
+02:10:03.80,02:10:07.80
+You were frightened and ran away.
+
+02:10:09.70,02:10:13.70
+I managed to crawl out[br]of the car and up to the gates.
+
+02:10:14.40,02:10:16.40
+When they found me...
+
+02:10:17.10,02:10:19.90
+...they assumed it was your fault.
+
+02:10:22.40,02:10:25.90
+Oh, you were so drunk and confused.
+
+02:10:26.20,02:10:28.10
+You didn't know any better.
+
+02:10:32.40,02:10:35.00
+You weren't ugly then.
+
+02:10:36.10,02:10:38.40
+I made you that way.
+
+02:10:40.00,02:10:42.70
+I even did that.
+
+02:10:45.20,02:10:48.20
+There's a place up there[br]that sells things.
+
+02:10:51.50,02:10:53.70
+You like ice cream.
+
+02:10:57.00,02:10:59.00
+I'll get you some.
+
+02:11:13.40,02:11:14.90
+Do you have ice cream?
+
+02:11:15.10,02:11:16.00
+Yes, what flavor?
+
+02:11:19.60,02:11:22.00
+Vanilla, coffee, strawberry, lemon...
+
+02:11:22.30,02:11:25.40
+Strawberry. Strawberry, please.[br]Two big strawberries, please.
+
+02:11:35.10,02:11:37.70
+- That'll be forty cents.[br]- Thanks.
+
+02:11:39.60,02:11:42.70
+Right. You better send some more help.
+
+02:11:53.30,02:11:55.00
+We've been looking all over for you.
+
+02:11:55.60,02:11:57.60
+I'm sorry, but we must find your sister.
+
+02:12:02.00,02:12:03.70
+Is she down here on the beach with you?
+
+02:12:04.20,02:12:06.10
+- Yes, she is.[br]- I'll take these for you.
+
+02:12:06.20,02:12:09.40
+Oh, no, they're mine.[br]They're for my sister, Blanche.
+
+02:12:09.90,02:12:11.80
+She's going to be[br]a movie star, you know.
+
+02:12:12.40,02:12:13.40
+That's right, miss.
+
+02:12:13.80,02:12:17.20
+We want to find your sister, because[br]I think maybe she needs help.
+
+02:12:17.40,02:12:18.80
+I think maybe she's in trouble.
+
+02:12:18.80,02:12:21.20
+Won't you show us where she is, please?
+
+02:12:21.70,02:12:24.30
+Won't you take us to her?[br]Please, Ms. Hudson.

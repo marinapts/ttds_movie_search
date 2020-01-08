@@ -1,0 +1,2891 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:13.83,00:00:25.97
+THIS IS NOT THE TALE OF IMPRESSIVE DEEDS[br]IS A PIECE OF TWO LIVES TAKEN IN A MOMENT[br]WHEN THEY WERE CRUISING TOGETHER ALONG A GIVEN PATH[br]WITH THE SAME IDENTITY OF ASPIRATIONS AND DREAMS[br]Ernesto Guevara de la Serna, 1952
+
+00:00:56.08,00:00:58.96
+The Plan:  To travel 8 thousand kilometers in four months
+
+00:01:01.23,00:01:03.73
+The method: Improvisation
+
+00:01:10.60,00:01:15.27
+Objective: Explore the Latin American continent[br]that we only know by books
+
+00:01:15.62,00:01:19.90
+motorcycle diaries
+
+00:01:20.00,00:01:21.20
+Good Night Granado
+
+00:01:22.75,00:01:25.09
+Equipment: "La Poderosa" (The Powerful)
+
+00:01:26.67,00:01:30.11
+A '39 Norton 500 that's battered and leaks
+
+00:01:37.59,00:01:39.11
+The Pilot: Alberto Granado
+
+00:01:39.64,00:01:41.82
+A chubby friend, 29 years old and biochemist 
+
+00:01:42.71,00:01:43.98
+self proclaimed scientific vagabond
+
+00:01:45.06,00:01:48.47
+The Pilot's dream: crown the trip with he's 30th birthday
+
+00:01:50.19,00:01:52.25
+Copilot: That would be me
+
+00:01:52.85,00:01:54.15
+Ernesto Guevara de la Serna
+
+00:01:54.44,00:01:56.49
+"El Fuser", 23 years old
+
+00:01:56.51,00:01:59.19
+- Ernesto is going away?[br]- No, Ernesto stays
+
+00:01:59.74,00:02:02.74
+Ernesto, could you takes us with you, please
+
+00:02:02.77,00:02:04.42
+Look dad, I'm sorry, but no matter how[br]many times you tell me...
+
+00:02:04.43,00:02:06.97
+Please Ernesto, you are only 3 assignments[br]away from your MD title
+
+00:02:07.47,00:02:08.81
+And that can wait
+
+00:02:11.20,00:02:12.71
+MD student
+
+00:02:13.03,00:02:14.13
+Leprosy specialist
+
+00:02:17.53,00:02:18.73
+Amateur Rugby player
+
+00:02:20.54,00:02:22.35
+Hey Fuser...nice Fuser!
+
+00:02:22.79,00:02:24.66
+And occasionally, asthmatic
+
+00:02:36.33,00:02:37.64
+Departure date... January 4th
+
+00:02:37.64,00:02:40.74
+The route: from Buenos Aires to Patagonia[br]and then Chile
+
+00:02:42.34,00:02:47.70
+then to the north up to 6 thousand meters[br]by the spine of the Andes to Machu Picchu
+
+00:02:47.72,00:02:51.43
+From there, to the lepers home of San Pablo[br]in the Peruvian amazonia
+
+00:02:53.14,00:02:57.70
+Final Destination: the Peninsula of Guajira in Venezuela[br]at the north point of the continent
+
+00:02:57.90,00:03:03.20
+We settle at the Peninsula of Guajira, the point of this great continent
+
+00:03:03.22,00:03:06.41
+Mouths full of wine, nice music
+
+00:03:06.67,00:03:07.76
+That beer is good, ah?
+
+00:03:08.24,00:03:12.05
+- Fuser, on January 4th, you should be done with all your exams, right?[br]- Yes
+
+00:03:12.78,00:03:18.65
+- If you want, i can make a detour to Miramar to visit your little girlfriend[br]- "little girlfriend"
+
+00:03:19.04,00:03:20.70
+A couple of days
+
+00:03:23.01,00:03:26.79
+- Look Fuser, look at that guy over there[br]- What?
+
+00:03:27.36,00:03:29.13
+Do you want your life to be like that?
+
+00:03:30.77,00:03:32.86
+You don't want your life to be like that, Fuser
+
+00:03:33.90,00:03:36.16
+What you want is to fuck in every country in South America
+
+00:03:36.31,00:03:40.85
+Hey boy...and in every town if we are lucky enough[br]That's and extra ingredient, right
+
+00:03:41.04,00:03:46.32
+What we had in common: our restlessness, our dreaming spirit
+
+00:03:47.58,00:03:49.85
+and the untiring love for the route
+
+00:03:49.85,00:03:51.67
+BUENOS AIRES, ARGENTINA[br]January 4th, 1952[br]Km 0
+
+00:03:52.33,00:03:55.03
+Let's go Ernestito, we don't have the whole day
+
+00:03:55.59,00:04:00.05
+- Isn't it too much Granado?[br]- Not enough chief.  Norton 500, "this" is a motorcycle
+
+00:04:00.22,00:04:03.14
+Your son is in good wheels, don't worry
+
+00:04:08.32,00:04:10.95
+You should expect some difficult times son
+
+00:04:11.50,00:04:14.65
+But the truth is that i always dreamed of doing something like this
+
+00:04:14.91,00:04:19.79
+And i have to confess that if i had a couple less years on me...[br]I would jump right along with you on that motorcycle
+
+00:04:19.98,00:04:21.73
+Try to think that i do it for the both of us
+
+00:04:21.74,00:04:25.19
+- 10 years planning this trip, uncle[br]- Since you were a kid
+
+00:04:25.25,00:04:29.16
+Meanwhile...I trust you eh?
+
+00:04:30.96,00:04:32.47
+And the revolution uncle, for when?
+
+00:04:32.46,00:04:34.95
+Here? In a century
+
+00:04:37.65,00:04:40.19
+- Are you already leaving?[br]- Yes, Im off
+
+00:04:42.45,00:04:46.86
+You should only worry about taking your medicines, nothing more, ok?
+
+00:04:48.08,00:04:48.92
+And writing me...
+
+00:04:49.23,00:04:52.48
+The most beautiful letters you have ever read mom
+
+00:04:52.69,00:04:55.03
+- Bye, my love[br]- You'll see. Bye. I love you
+
+00:04:59.35,00:04:59.90
+Bye
+
+00:05:01.44,00:05:03.77
+Bye little sister, take care
+
+00:05:04.20,00:05:06.01
+Bye man
+
+00:05:15.06,00:05:16.27
+Send me postcards
+
+00:05:16.28,00:05:19.07
+Ok, stop it or Ill start crying. Please
+
+00:05:19.20,00:05:20.63
+Take care, ok?
+
+00:05:21.49,00:05:25.14
+Just like Don Quixote had Rocinante and Saint Martin had his mule
+
+00:05:25.40,00:05:27.03
+We have "La Poderosa"
+
+00:05:27.04,00:05:32.03
+- Yeah, that pisses oil[br]- Yes, pisses oil, but what Im trying to say is that[br]in this precise moment
+
+00:05:32.10,00:05:37.39
+The young Fuser and myself are embarking in a trip[br]to the most remote places of the human spirit
+
+00:05:37.64,00:05:41.44
+where we will meet new lands, listen to new anthems, eat new fruits...
+
+00:05:41.52,00:05:47.29
+Granado...Im making you responsible. If something happens to Ernesto Ill find you.[br]Put on the handkerchief darling
+
+00:05:47.98,00:05:50.93
+Don't worry mam, he will come back to become[br]the doctor we all want him to be
+
+00:05:50.95,00:05:52.28
+It better be
+
+00:05:52.61,00:05:54.40
+Ok, is time to leave!
+
+00:06:14.00,00:06:15.48
+Animal!
+
+00:06:21.35,00:06:23.07
+Careful with that bike!
+
+00:06:36.80,00:06:39.89
+Dear mom...Buenos Aires is behind us
+
+00:06:40.71,00:06:42.17
+behind is as also the miserable life
+
+00:06:42.47,00:06:45.10
+the faculty, the exams and the dissertations that make you sleepy
+
+00:06:46.69,00:06:48.87
+Before us lies all of Latin America
+
+00:06:50.37,00:06:52.13
+From now on we will only trust in "La Poderosa"
+
+00:07:14.27,00:07:19.66
+I wish you could see us. We look like adventurers[br]and inspire admiration and envy everywhere
+
+00:07:33.06,00:07:36.19
+Go Mial. Assume aerodynamic road position
+
+00:07:37.09,00:07:40.05
+C'mon baby, don't fail me baby.[br]C'mon, c'mon
+
+00:07:41.45,00:07:43.28
+What happened Mial?!
+
+00:07:51.12,00:07:56.45
+I'm glad to have left behind civilization, and be closer to the earth
+
+00:07:58.17,00:08:01.69
+Wait, something is coming out...something is coming out
+
+00:08:07.08,00:08:08.85
+Fuser, are you alright?
+
+00:08:12.36,00:08:13.98
+What happened puppy?
+
+00:08:20.29,00:08:21.07
+Are you alright?
+
+00:08:22.53,00:08:25.40
+- What the fuck is that?[br]- What the fuck does it look like?
+
+00:08:25.73,00:08:28.44
+- A fucking dog?![br]-  Oh fuck, you are a shitty driver...
+
+00:08:28.79,00:08:31.13
+What the fuck is that dog doing on the bike?
+
+00:08:31.41,00:08:33.34
+Is for Chichina and his name is Kamba
+
+00:08:36.81,00:08:38.00
+Pick up the bike.
+
+00:08:49.11,00:08:53.75
+Miramar, Argentina[br]January 13th, 1952[br]Km 601
+
+00:08:57.54,00:08:59.24
+Where the fuck are we? Switzerland?
+
+00:09:04.31,00:09:06.73
+- Good morning[br]- Good morning
+
+00:09:07.07,00:09:09.43
+- Chichina?[br]- She's inside with the rest of the family
+
+00:09:11.42,00:09:12.63
+That bike is giving you problems, uh?
+
+00:09:16.34,00:09:18.57
+Esteban, please tell us about your trip
+
+00:09:19.02,00:09:23.17
+It was great Don Horacio,[br]i had the opportunity to take a seminar in Cambridge
+
+00:09:24.40,00:09:27.42
+and stay a couple of weeks in London,[br]a fascinating city
+
+00:09:27.51,00:09:30.44
+- What a privilege![br]- Yes it was
+
+00:09:30.96,00:09:33.61
+-  Esteban is getting his PhD soon, right?[br]- Yes
+
+00:09:35.01,00:09:37.21
+- Medicine?[br]- No, Law
+
+00:09:38.16,00:09:39.32
+Ah, law
+
+00:10:16.87,00:10:18.20
+Sorry.
+
+00:10:37.12,00:10:39.15
+1, 2, 3, 4
+
+00:10:40.80,00:10:42.07
+Is your turn, come
+
+00:10:42.65,00:10:44.57
+I never saw a pig who wanted to dance, never.
+
+00:10:46.71,00:10:47.67
+C'mon
+
+00:10:48.40,00:10:49.35
+Knock it off!
+
+00:10:51.62,00:10:58.58
+- With this hand...back...side[br]- What are you laughing at?[br]- I'm laughing at you.
+
+00:11:05.99,00:11:07.75
+Tonight?
+
+00:11:08.15,00:11:10.88
+My dad ask aunt Roxanna not to take her eyes off of me
+
+00:11:11.24,00:11:16.10
+My mom promised the Lady of the Valley that she would[br]walk to her sanctuary if we broke up
+
+00:11:17.56,00:11:23.22
+And your parents can't see that the more they bury the diamonds,[br]the more decided is the pirate to steal them?
+
+00:11:24.58,00:11:28.38
+Believe me, this diamond wouldn't mind being stolen
+
+00:11:31.97,00:11:33.26
+Dance
+
+00:11:40.41,00:11:41.40
+Look
+
+00:11:53.22,00:11:54.73
+Let me see your bathroom
+
+00:11:59.64,00:12:01.54
+- Good night[br]- Good night ladies
+
+00:12:09.02,00:12:13.53
+Aunt Roxanna, which room is mine?
+
+00:12:24.69,00:12:26.51
+Get away Kamba!
+
+00:13:10.74,00:13:15.35
+- How many days did you say we were staying here?[br]- You already know[br]- Two
+
+00:13:16.10,00:13:21.58
+- And how many days have we been here?[br]- If you become a Doctor, will you operate with wire too?[br]- Six days, Fuser
+
+00:13:25.96,00:13:27.35
+Someone will see us
+
+00:13:45.74,00:13:49.37
+If you'd stay we could do many things, Ernesto,[br]but only if you'd stay
+
+00:13:53.22,00:13:54.61
+I didn't like the sound of that
+
+00:13:55.08,00:14:00.55
+- What do you want me to say? That Im going to wait for you?[br]- I told you Im coming back
+
+00:14:02.12,00:14:05.45
+- Yes, i have the dog as proof[br]- You didn't like it?
+
+00:14:07.90,00:14:15.97
+What do you want Ernesto, what do you want to hear?[br]That Im going to wait forever,[br]that Ill wait for months and months till you come back?
+
+00:14:21.07,00:14:26.52
+- What's going on?[br]- What do you want? What do you want?
+
+00:14:29.15,00:14:32.27
+I'd like you to stay like this forever. Quiet.
+
+00:14:35.32,00:14:38.69
+I want to look at you, cause Im not going[br]to see you for a long time
+
+00:14:47.43,00:14:51.79
+Of course Im going to wait for you,[br]but please don't take an eternity
+
+00:14:56.23,00:15:00.76
+- And how long is an eternity?[br]- That's slippery ground mister
+
+00:15:07.22,00:15:08.93
+I'm not going to touch you
+
+00:15:14.26,00:15:22.81
+Did i hit you? Did i hurt you? Did i hurt you?[br]That was a trick, a very bad trick
+
+00:15:23.30,00:15:27.57
+Ok lovebirds...is time to leave.[br]Fuser
+
+00:15:30.45,00:15:34.95
+Miss Ferreira...[br]Thanks for everything
+
+00:15:54.61,00:16:00.02
+"I used to listen the bare feet splashing in the ship[br]"And had a feeling of the faces darkened by hunger
+
+00:16:01.22,00:16:03.73
+"My heart was a pendulum between her and the street
+
+00:16:05.02,00:16:09.37
+"I don't know with what strength i freed myself from her eyes,[br]"I broke away from her arms
+
+00:16:09.72,00:16:13.02
+"She was left clouding with tears her anguish[br]"Behind the rain and the glass
+
+00:16:13.85,00:16:15.43
+- Lorca eh?[br]- No
+
+00:16:15.83,00:16:17.79
+- Neruda[br]- No
+
+00:16:18.00,00:16:21.68
+- Who?[br]- I don't remember
+
+00:16:48.59,00:16:50.85
+- Good bye[br]- Bye
+
+00:16:55.28,00:16:57.11
+Wait, wait. The snot is...
+
+00:16:59.30,00:17:02.21
+And so...with Chichina, nothing...
+
+00:17:04.44,00:17:08.18
+Not even after giving her the German shepherd with pedigree...nothing
+
+00:17:09.56,00:17:12.11
+I mean, at least you saw a tit...one
+
+00:17:15.81,00:17:18.74
+Ahhh....You saw her tits, Ernesto
+
+00:17:19.60,00:17:23.11
+Scalpel, Scalpel
+
+00:17:24.90,00:17:26.63
+North American Dollars?
+
+00:17:27.51,00:17:30.43
+- Fifteen[br]- Chichina?[br]- Yes
+
+00:17:30.43,00:17:35.02
+I like that girl for you, i always said that she was your girlfriend.[br]We will eat better now
+
+00:17:35.03,00:17:36.90
+- No...[br]- Protein food
+
+00:17:36.79,00:17:41.77
+No, she gave me this money for when we get to the US.[br]She asked me to buy her some pants.
+
+00:17:43.82,00:17:45.46
+I told her i would
+
+00:17:46.39,00:17:49.69
+- What?[br]- Forget about this money. It is out of our budget.
+
+00:17:50.26,00:17:55.00
+- Fucking moron, he is testing me...[br]-  Che are you talking to the bike again
+
+00:17:55.24,00:17:58.91
+Listen to me man, what is wrong with your head?[br]That chick's got you by the balls.
+
+00:17:59.68,00:18:02.25
+Calm down
+
+00:18:03.05,00:18:04.64
+- Good evening[br]- Hi
+
+00:18:15.28,00:18:20.55
+Piedra de guila, Argentina[br]January 29th, 1952[br]Km 1809
+
+00:18:22.94,00:18:27.12
+- How do you feel the bike?[br]- The wire is making wonders, it works great
+
+00:18:34.72,00:18:36.71
+- Son of a bitch...fuck
+
+00:18:38.47,00:18:39.89
+Are you alright Fuser?
+
+00:18:42.10,00:18:43.41
+It was the curve
+
+00:18:45.53,00:18:46.40
+Son of a...
+
+00:18:50.52,00:18:52.94
+Look at the pipe...[br]son of a bitch!
+
+00:18:53.43,00:18:56.37
+Pass the stakes, Im all out
+
+00:18:56.08,00:18:57.63
+Wait, wait, don't fuck with me
+
+00:18:58.51,00:19:01.20
+- You had to choose this place, you idiot...[br]- No you chose this place
+
+00:19:01.28,00:19:03.45
+Hold that side
+
+00:19:12.24,00:19:13.92
+- No...fuck[br]- Son of a...
+
+00:19:16.12,00:19:18.59
+- The river is taking it[br]- Grab it, grab it
+
+00:19:20.63,00:19:22.11
+It took it
+
+00:19:32.88,00:19:39.17
+- Che and what if we go there?[br]- We should ask for help over here, with the common people
+
+00:19:44.26,00:19:48.90
+- Which one are we doing? The broken headlight?[br]- No, Red October. You have the experience right?
+
+00:19:53.90,00:19:55.13
+Good Night
+
+00:19:56.81,00:19:57.85
+What do you want
+
+00:19:58.13,00:20:04.81
+Maybe our appearance doesn't show it, but we are doctors[br]from Buenos Aires and Crdoba, respectively
+
+00:20:05.34,00:20:17.89
+We are traveling all over the country, doing some research[br]with hopes of curing some of the worst diseases of the 20th century
+
+00:20:18.10,00:20:23.58
+Plagues that not only consume our energy but that also[br]keeps Argentina in need
+
+00:20:23.91,00:20:27.95
+When by just reading the medical literature, you could notice, just as us...
+
+00:20:28.19,00:20:31.89
+What the fuck do you want, pair of bums?
+
+00:20:33.60,00:20:39.21
+Look sir, the wind took our tent, we are starving[br]and we need a place to spend the night
+
+00:20:39.85,00:20:46.09
+Ok, out there in the shed there's a good ground.[br]You can sleep with the workers
+
+00:20:46.33,00:20:55.94
+- We are doctors...[br]- Hmm...i like your face a lot, but i don't like yours fatty
+
+00:20:58.15,00:21:00.32
+- Fine?[br]- Yes, its fine[br]- Thank you.
+
+00:21:14.37,00:21:21.89
+Dear Mom...we are still hitting the road,[br]but to tell you the truth, the bike is less powerful every day
+
+00:21:27.16,00:21:31.20
+San Martn de los Andes, Argentina[br]January 31st, 1952[br]Km 2051
+
+00:21:32.90,00:21:39.13
+Money and food are scarce, but we manage to find opportunities[br]to eat and sleep for free
+
+00:21:41.76,00:21:45.16
+Thanks to our secret weapon:[br]Alberto's infallible sweet talking
+
+00:21:45.19,00:21:49.46
+...plagues that not only consume our energy but compromise[br]the modernization of Argentina
+
+00:21:49.59,00:21:59.27
+- So, you are doctors[br]- Well, no. Alberto is a biochemist and I am an MD student[br]- He is practically graduated, we are like doctors
+
+00:21:59.27,00:22:05.30
+- Then i would appreciate it if you could look at a swelling i have in the neck[br]- Gladly, eh...Mr.?
+
+00:22:05.31,00:22:06.27
+Von Puttkamer
+
+00:22:11.57,00:22:12.60
+Does it hurt?
+
+00:22:16.50,00:22:19.32
+- This is a tumor[br]- What do you mean a tumor?[br]- Yes
+
+00:22:21.17,00:22:24.49
+- Do you think so[br]- Yes[br]- Allow me
+
+00:22:27.17,00:22:31.28
+I don't know Fuser, fat sedimentation[br]it could be a cyst
+
+00:22:31.58,00:22:37.53
+No.  It is a tumor in the occipital area
+
+00:22:38.13,00:22:41.78
+- Schatzie, these gentlemen say i have a tumor[br]- Tumor?
+
+00:22:42.15,00:22:47.19
+Good morning mam, i sincerely don't believe it is a tumor[br]but a sebaceous cyst
+
+00:22:47.36,00:22:50.46
+If you could give us a place where we could[br]eat and sleep we might be able to treat it
+
+00:22:50.51,00:22:56.69
+No, no look...we can't treat it. You will have to go[br]to Buenos Aires. I can recommend you a specialist
+
+00:22:57.02,00:23:02.61
+- Or we could try to help him, don't you think?[br]- Help with what? With the grass, with prayers?
+
+00:23:02.73,00:23:08.34
+- I understand, you can't do anything for me[br]- Yes we can, if you give us a place where we could eat and sleep.
+
+00:23:09.09,00:23:18.19
+- Around here there's a lake with lots of fish and a shed[br]- Sir, the diagnostic is very...[br]- We have nothing more to talk about, doctors. Let's go Schatzie
+
+00:23:22.50,00:23:28.85
+- The next time could you try to help us a little[br]- Of course i can give you a hand, but never at the price of the health of a man
+
+00:23:29.13,00:23:34.17
+- Ok, let's say that you are right and the old guy has a tumor,[br]how the fuck do you tell him like that?
+
+00:23:34.43,00:23:37.20
+Is the truth, if he can't handle it he can go to hell
+
+00:23:37.20,00:23:42.73
+- You can't treat a patient like that, you can't[br]- The guy has a serious problem,[br]the sooner he looks into it the better
+
+00:23:43.40,00:23:46.78
+That's the proper treatment, didn't they teach you that[br]at biochemistry school?
+
+00:23:49.58,00:23:52.15
+Don't talk to me about proper medicine
+
+00:23:53.08,00:23:57.25
+Nurse. First graduate and then talk.[br]You think you know everything, moron
+
+00:23:57.93,00:23:59.51
+I'm going to look for food
+
+00:24:00.22,00:24:03.11
+Duck! duck! duck!. Give me gun, move it! move it!
+
+00:24:04.65,00:24:06.09
+Son of a...
+
+00:24:11.24,00:24:12.38
+Great Mial...
+
+00:24:12.62,00:24:13.60
+I hit it, man
+
+00:24:15.14,00:24:17.25
+- How did you do it?[br]- I can't fucking believe it...
+
+00:24:18.01,00:24:24.54
+Well, there's no other choice but to get in the water[br]and pick up dinner, no?  Fuser, to the water to get the food!
+
+00:24:24.65,00:24:27.54
+You are really crazy if you think Im going to get in there.[br]Do you know how cold is that water?
+
+00:24:27.55,00:24:36.10
+Yes, i know you are allergic to cold, water, hot and all that[br]but you know what, i am older, wiser and i shot the duck, so[br]you have to go
+
+00:24:36.22,00:24:39.90
+- That shot came out of your ass, besides i have asthma[br]- Ok, you are right. If you can't Ill do it
+
+00:24:41.63,00:24:44.77
+- I didn't say i couldn't[br]- You can't or you don't want to[br]- I didn't say that i couldn't
+
+00:24:45.37,00:24:49.13
+Or you don't want to and that is the same. Or you could give[br]me Chichina's fifteen bucks...
+
+00:24:50.14,00:24:52.35
+...and we eat as God intended, c'mon.
+
+00:24:52.72,00:24:56.41
+- Look if i get to find that fucking duck, Ill eat it all by myself[br]- Ah! in the water, in the water, duck.
+
+00:24:59.01,00:25:02.80
+- I'm going to get my balls frozen[br]- For the use you give them, Fuser...
+
+00:25:07.22,00:25:14.63
+Good Fuser, good...bring on that duck with potatoes.[br]Is it cold Fuser? Hey! cold? Not over here.
+
+00:25:17.86,00:25:18.74
+Duck
+
+00:25:22.78,00:25:27.05
+- Are you feeling sick?[br]- No, Im just perfect
+
+00:25:29.61,00:25:33.79
+Bariloche Train Station, Argentina[br]3 days later[br]Km 2270
+
+00:25:40.37,00:25:43.15
+Easy
+
+00:25:43.53,00:25:45.22
+Fuser...
+
+00:26:05.00,00:26:10.90
+Fuser, listen to me. Give me Chichina's fifteen dollars and let's[br]go to a hospital like the people
+
+00:26:12.36,00:26:15.35
+If you say that to me again, Ill throw up all over you.
+
+00:26:59.08,00:27:06.92
+Dear mom...what is it that's lost when you cross a border.[br]Each moment seems to be split in two
+
+00:27:07.15,00:27:14.12
+Melancholy for what was left behind and on the[br]other hand all the enthusiasm at entering new lands
+
+00:27:14.85,00:27:17.30
+Frias Lake, Argentina[br]February 15th, 1952[br]Km 2306
+
+00:27:17.61,00:27:23.50
+- Look Mial, Chile[br]- Chile! Viva Chile!
+
+00:27:25.71,00:27:29.62
+- Is it your first time out of the country?[br]- Yes, of course
+
+00:27:29.72,00:27:31.53
+You are almost a man, Che
+
+00:27:33.68,00:27:40.79
+Look Mial, when we are old and tired of traveling, we[br]should come back and set a clinic on this lake
+
+00:27:43.23,00:27:44.91
+That's a good idea
+
+00:27:45.24,00:27:47.90
+Providing attention to everybody, if anyone ever comes
+
+00:27:48.15,00:27:50.23
+Count on me, brother
+
+00:27:50.93,00:27:53.60
+Hey, things are getting better Fuser, eh?[br]- Yeah
+
+00:27:55.08,00:27:58.86
+- Hey, it is snowing[br]- No, is just frost
+
+00:28:20.44,00:28:27.32
+- Help me[br]- On three, 1, 2, 3[br]- Done
+
+00:28:36.29,00:28:38.25
+Go, go, go
+
+00:28:43.80,00:28:48.50
+- Fuck is cold![br]- Some summer, uh
+
+00:29:05.75,00:29:09.16
+Che, you told me we would enter Chile like two conquerors.[br]Not on foot like a pair of losers
+
+00:29:09.19,00:29:11.27
+If you don't like it, go fuck yourself Ernesto
+
+00:29:11.34,00:29:12.30
+TEMUCO, CHILE[br]February 18th, 1952[br]Km 2772
+
+00:29:12.40,00:29:14.32
+What if we dump this shit that gives us so much trouble
+
+00:29:15.02,00:29:17.41
+And go on foot through the whole continent, you genius
+
+00:29:17.99,00:29:23.36
+Yes, we would see more and meet more people...[br]you would lose weight
+
+00:29:24.14,00:29:27.12
+You sissy, but if with a couple of dollars from[br]Chichina this gets fixed immediately
+
+00:29:27.41,00:29:29.62
+And again with the same thing. Forget about that money
+
+00:29:31.42,00:29:36.19
+Ok, perfect. If you get that mad then go all the way to Venezuela[br]walking and leave me here alone with the boss's money
+
+00:29:36.66,00:29:40.39
+Know what? I would get there in half the time and stop[br]meddling with other people business
+
+00:29:40.58,00:29:41.41
+Fuck you bastard!
+
+00:29:45.70,00:29:49.21
+"Uy, Ernestito, bring me the little Yankee pants[br]from Miami"
+
+00:29:50.26,00:29:54.29
+Can't you see that you will never see them on or off?[br]You wanker!
+
+00:29:57.20,00:29:58.11
+Fuser..
+
+00:30:02.42,00:30:03.74
+You know what your problem is?
+
+00:30:04.42,00:30:07.19
+Your fucking honesty.
+
+00:30:07.31,00:30:10.15
+You should tell a lie from now and then to help us.
+
+00:30:14.25,00:30:17.92
+- Hold it for a second
+
+00:30:18.16,00:30:23.26
+- Hey, hey, what are you doing?[br]- Come, Come
+
+00:30:31.80,00:30:32.33
+Thank you
+
+00:30:35.03,00:30:36.78
+- What? Do you have "mate"? Thank you.[br]- It has sugar
+
+00:30:37.25,00:30:41.55
+- Excuse me, what's your name?[br]- Teresa[br]- Teresa, Ernesto, nice to meet you
+
+00:30:44.62,00:30:48.86
+- It would be nice as a souvenir, eh?[br]- A souvenir? I'll take back to Argentina
+
+00:30:49.18,00:30:54.94
+-You are traveling?[br]- Yes we are traveling, we are the owners of that old bike[br]- A the big one over there
+
+00:30:55.21,00:30:57.32
+- What are these?[br]- This is "malton"
+
+00:30:57.51,00:31:00.11
+- And This?[br]- These are oysters
+
+00:31:03.38,00:31:05.63
+Maybe next time ,ok? next time...
+
+00:31:09.92,00:31:13.13
+Austral Newspaper, 3 pesos,[br]Austral Newspaper, only 3 pesos
+
+00:31:15.08,00:31:18.34
+Get informed about Chile and the world,[br]for only 3 pesos
+
+00:31:23.92,00:31:28.93
+Yesterday evening, Temuco was honored by the arrival[br]of 2 of the most renowned leprosy specialists of Latin America
+
+00:31:29.55,00:31:34.53
+- Dr. Alberto Granados from Crdoba[br]- What do you mean "Granados"[br]- That's what it says
+
+00:31:35.34,00:31:39.91
+Dr. Alberto Granados from Crdoba and[br]Dr. Ernesto Guevara de la Serna from Buenos Aires
+
+00:31:40.03,00:31:43.72
+They have embarked on an epic trip from their[br]homeland to the north point of Venezuela
+
+00:31:44.10,00:31:51.56
+The charismatic adventurer scientists, experts in their field,[br]have treated three thousand patients in all the continent.
+
+00:31:53.58,00:32:01.46
+They hope to complete their trip in a record time of[br]five months, just in time to celebrate the 30th birthday[br]of the youthful Dr. Granados
+
+00:32:01.79,00:32:04.86
+- It says youthful, eh?[br]-  Yes, and so i get informed too.
+
+00:32:05.80,00:32:06.89
+Do you think it will work?
+
+00:32:19.47,00:32:21.69
+Hello, good evening
+
+00:32:23.14,00:32:30.22
+My friend and i  have some problems with our bike[br]The direction is broken, the brakes are practically gone[br]and the shift box as always...
+
+00:32:30.56,00:32:32.34
+And my backside is killing me...
+
+00:32:32.71,00:32:36.19
+Let's see. I can fix the direction, the brakes and the shift box.
+
+00:32:36.77,00:32:39.69
+But i can't do anything about your backside.
+
+00:32:41.68,00:32:42.90
+We don't have any money
+
+00:32:44.68,00:32:47.92
+What? You don't have any money?
+
+00:32:48.22,00:32:52.08
+When we get to Valparaiso we will receive some money,[br]when we have it we will send it to you...
+
+00:32:52.35,00:32:56.67
+You know, i wouldn't want to be rude, but if you[br]don't have any money,[br]you have nothing to do here, so please...
+
+00:32:56.71,00:33:04.11
+Excuse me the interruption, but if you help us right now you will[br]contribute to the bilateral relationships between our countries
+
+00:33:04.20,00:33:06.49
+If i understand correctly, you want me to fix it for free
+
+00:33:06.68,00:33:08.15
+I think we are not making ourselves clear
+
+00:33:08.54,00:33:12.61
+besides we can't expect everybody to know[br]who's who in the Latin-American medicine field
+
+00:33:12.77,00:33:19.43
+- Please doctor, come on in[br]- Yes, precisely today there was an article[br]published on the paper...
+
+00:33:28.32,00:33:30.38
+- Let me see...allow me[br]- Yes of course
+
+00:33:35.63,00:33:40.85
+- Look Piedad, Tulio look...
+
+00:33:41.50,00:33:44.40
+- Well the picture is not very good[br]- Yes we are not favorably depicted
+
+00:33:44.72,00:33:47.07
+Look, is them...
+
+00:33:49.44,00:33:55.08
+Gentlemen, for me it will be a great honor to fix your bike,[br]once i finish this card game with my wife
+
+00:33:55.58,00:33:57.20
+Of course, there's no problem
+
+00:33:57.24,00:33:58.55
+That's the main priority.
+
+00:34:00.06,00:34:05.09
+Do you know that tonight there's a dance[br]and God willing, all the ladies of the town will be there
+
+00:34:05.11,00:34:05.81
+Oh, what a shame.
+
+00:34:07.12,00:34:08.70
+- Could you give me the paper back?[br]- Thanks a lot, you are very kind
+
+00:34:08.90,00:34:10.95
+- I'll bring the bike over[br]- Please bring it over, we will fix it
+
+00:34:26.81,00:34:28.78
+Could i have this dance?
+
+00:34:36.49,00:34:39.71
+Cheers!
+
+00:35:22.97,00:35:24.97
+You know, i was just thinking about you
+
+00:35:27.21,00:35:28.23
+And why is that?
+
+00:35:30.15,00:35:32.29
+You made quite an impression when i met you
+
+00:35:36.96,00:35:38.24
+Thanks
+
+00:35:43.56,00:35:46.33
+- Would you like to dance?[br]- No
+
+00:35:47.68,00:35:49.08
+I don't dance
+
+00:35:50.44,00:35:56.08
+My husband fell asleep, he's drunk.[br]I don't have a dance partner
+
+00:35:57.70,00:36:01.75
+Well, if you teach me, yes?
+
+00:36:18.57,00:36:21.26
+Hey, you finally remembered that you are a man?
+
+00:36:22.38,00:36:23.38
+You had forgotten?
+
+00:36:25.00,00:36:29.83
+It's been a long time since i danced,[br]but is coming back to me, is coming back...
+
+00:36:42.37,00:36:43.39
+I can't dance here
+
+00:36:48.80,00:36:49.85
+Would you like to keep dancing?
+
+00:36:52.32,00:36:53.83
+Wouldn't you prefer to go out
+
+00:36:55.91,00:36:57.10
+I would love to, yes
+
+00:36:59.41,00:37:00.77
+Let's go
+
+00:37:04.89,00:37:06.94
+- What's going on?[br]- No, we better stay
+
+00:37:09.84,00:37:10.75
+Let me go!
+
+00:37:12.12,00:37:14.32
+The Argentinean is leaving with your wife
+
+00:37:14.46,00:37:15.77
+Let me go!
+
+00:37:15.88,00:37:17.55
+Sorry, sorry...Im sorry
+
+00:37:17.42,00:37:19.12
+Argentinean mother fucker!!
+
+00:38:08.78,00:38:10.04
+Aren't you tired?
+
+00:38:10.36,00:38:11.26
+No
+
+00:38:11.67,00:38:13.91
+- Don't you want to switch?[br]- No
+
+00:38:14.28,00:38:15.47
+Are you sure?
+
+00:38:31.83,00:38:34.04
+Cows! cows!
+
+00:38:35.76,00:38:37.17
+I can't Stop, I can't stop!
+
+00:38:37.91,00:38:39.17
+The brakes don't work
+
+00:38:39.65,00:38:40.61
+Fucking mechanic
+
+00:38:56.22,00:38:58.62
+- Are you ok?[br]- Perfect, what do you want me to tell you Fuser?
+
+00:39:06.10,00:39:07.23
+Shitty mechanic
+
+00:39:38.17,00:39:40.14
+Is he your father?
+
+00:39:41.70,00:39:42.96
+Yes
+
+00:39:49.18,00:39:51.04
+Hey, that cow is going blind
+
+00:39:54.43,00:39:56.07
+...for the shit it's going to see
+
+00:40:09.05,00:40:12.46
+Los Angeles, Chile[br]February 26th, 1952[br]Km 2940
+
+00:40:17.24,00:40:19.09
+We are 25 days behind
+
+00:40:23.65,00:40:25.65
+Wait wait wait wait
+
+00:40:29.04,00:40:30.20
+Hello
+
+00:40:30.95,00:40:34.22
+There's a rumor that the Chilean women are the most[br]daring in all the continent
+
+00:40:34.25,00:40:38.34
+Well, the rumors have no scientific support Dr. Granado.[br]We have to make a field test
+
+00:40:41.20,00:40:42.07
+You didn't like them, really?
+
+00:40:44.75,00:40:45.53
+Here they come
+
+00:40:50.26,00:40:51.31
+Hello girls
+
+00:40:51.71,00:40:53.21
+- Excuse us, the place is packed...
+
+00:40:53.25,00:40:57.72
+- Can we sit with you?[br]- Yes, of course[br]- Thanks
+
+00:40:59.87,00:41:01.98
+- How are you?...Ernesto[br]- He is Alberto
+
+00:41:03.56,00:41:04.77
+- Miss?[br]- Jazmn
+
+00:41:05.03,00:41:05.86
+Daniela
+
+00:41:06.51,00:41:07.91
+- Nice to meet you[br]- Nice to meet you
+
+00:41:09.09,00:41:11.72
+- So are you Argentineans?[br]- How did you know?
+
+00:41:12.49,00:41:16.15
+I don't know...the accent,[br]because you say "Che", i don't know
+
+00:41:16.44,00:41:18.72
+- Had you noticed that Che? i hadn't[br]- No me neither
+
+00:41:22.10,00:41:25.02
+- Do you know what day is today?[br]- February 26th
+
+00:41:25.87,00:41:31.94
+February 26th...we are going to seem like liars,[br]but it has been a year...
+
+00:41:32.18,00:41:33.77
+A year? A year since when?
+
+00:41:34.15,00:41:37.48
+- A year since we started this trip[br]- That's nice
+
+00:41:37.87,00:41:44.09
+- Damn, one year and we don't have one cent to celebrate[br]- Wouldn't you like us to invite you a bottle of wine?
+
+00:41:44.60,00:41:45.98
+- Wine?[br]- Yes...
+
+00:41:46.44,00:41:53.24
+Lucho, bring a bottle of wine to our Argentinean visitors that[br]have made such an effort
+
+00:41:53.75,00:41:58.25
+But ladies, please don't takes this the wrong way,[br]but i can't drink wine
+
+00:41:58.59,00:42:01.32
+- But why, why can't you drink a little wine to celebrate?[br]- Exactly...
+
+00:42:01.94,00:42:07.21
+- Well there is an old tradition in Argentina that...[br]- Please c'mon, don't...[br]- What?
+
+00:42:07.43,00:42:10.79
+- I think they deserve and explanation[br]- Is adequate, yes
+
+00:42:11.95,00:42:20.48
+Thanks Lucho...Well, there is a long costume in Argentina[br]that doesn't allow us to drink with empty stomachs
+
+00:42:20.90,00:42:27.57
+And since we don't have any money at the moment, we can't[br]buy food and we must reject your generous offer
+
+00:42:29.79,00:42:38.61
+Please, don't be like that...wait.[br]Lucho, could you bring us some empanadas
+
+00:42:38.87,00:42:41.00
+- Do you like Chilean empanadas?[br]- I have never tried them
+
+00:42:41.28,00:42:44.31
+- four, eight?[br]- They are really hungry.  Twelve.
+
+00:42:46.42,00:42:47.30
+I've always liked that number
+
+00:42:47.40,00:42:52.51
+- I would really like to stay here[br]- Too bad we don't have a place to stay,[br]but we can sleep at the plaza
+
+00:42:53.25,00:43:00.20
+Hey, but my father loves Argentineans.[br]I think he can help you
+
+00:43:01.44,00:43:03.78
+He is the chief of the fire department,[br]so he knows a lot of people
+
+00:43:03.82,00:43:06.36
+Wait, are you sisters?
+
+00:43:06.65,00:43:09.65
+Yes, of course, you hadn't noticed? Look...
+
+00:43:10.43,00:43:11.31
+They hadn't noticed.
+
+00:43:12.47,00:43:15.34
+- The mechanic doesn't come back until tomorrow,[br]but the bike can stay here
+
+00:43:15.34,00:43:16.34
+- Thanks a lot
+
+00:43:17.52,00:43:23.40
+Guys, let me introduce you to two Argentinean volunteers[br]that will be staying here with you
+
+00:43:23.84,00:43:30.53
+- Let me introduce you to Dr. Che Skinny and Dr. Che Fatty[br]- Nice to meet you
+
+00:43:30.78,00:43:33.58
+- Hey, would you like to see more of the town?[br]- Yes
+
+00:43:34.50,00:43:36.46
+- But...[br]- Don't worry sir
+
+00:43:36.82,00:43:39.22
+- Excuse me...[br]- Yes?
+
+00:43:42.84,00:43:45.32
+I wouldn't like to bother you, but are you really doctors?
+
+00:43:45.41,00:43:47.41
+- No[br]- Yes[br]- No
+
+00:43:47.76,00:43:48.87
+I'm a biochemist
+
+00:43:49.22,00:43:52.57
+- Could you visit a lady that is sick[br]- Yes, when you tell me...
+
+00:43:53.34,00:43:57.03
+Could it be right now, cause she is really sick.[br]It's been a very long time since she saw a doctor
+
+00:43:57.60,00:44:00.59
+Ok, let me pick up my things and we will go.
+
+00:44:01.04,00:44:03.63
+Is nice to be faithful to the Hippocratic oath, Fuser
+
+00:44:10.40,00:44:11.52
+Excuse me
+
+00:44:18.21,00:44:19.40
+Look at my eyes
+
+00:44:27.38,00:44:28.59
+I'm going to touch your neck a little
+
+00:44:37.32,00:44:38.65
+Has she eaten?
+
+00:44:40.55,00:44:41.51
+I don't know
+
+00:45:09.72,00:45:11.90
+Look, Doa Rosa, Im going to leave you these pills
+
+00:45:14.07,00:45:15.76
+Take one with each meal
+
+00:45:17.11,00:45:18.59
+And one before bedtime.
+
+00:45:19.87,00:45:22.02
+This will help you feel better
+
+00:45:29.75,00:45:35.37
+Dear mom...I knew i wouldn't be able to help that poor woman
+
+00:45:35.54,00:45:39.18
+That up to a month ago she had been serving[br]tables, panting like me
+
+00:45:39.79,00:45:41.48
+Trying to live with dignity
+
+00:45:43.40,00:45:47.39
+In those dying eyes, there was a humble[br]request for excuses
+
+00:45:48.01,00:45:52.72
+And a desperate plea of consolation[br]that gets lost in the emptiness
+
+00:45:53.32,00:45:59.31
+Just as her body will get lost very soon[br]in the magnitude of the mystery that surrounds us
+
+00:46:05.94,00:46:10.97
+Fuser, you still haven't asked me how was the[br]field test with the Chilean sisters
+
+00:46:11.91,00:46:15.70
+You know how i fear that you might become[br]the new sexual ambassador of Argentina
+
+00:46:16.94,00:46:19.48
+Are you the two lazy asses that travel[br]on that piece of crap
+
+00:46:20.80,00:46:22.90
+Her name is "La Poderosa"
+
+00:46:23.33,00:46:27.86
+It was. But now we could name it The Dead One, The Paraplegic
+
+00:46:27.99,00:46:29.20
+Oh yeah, why?
+
+00:46:29.95,00:46:32.64
+What do you mean why? Because Im[br]the mechanic, what else
+
+00:46:32.72,00:46:38.49
+If you sell it per pound, you might obtain something,[br]but that piece of crap arrived dead here, really
+
+00:46:53.80,00:46:55.60
+I'll be missing you Negra
+
+00:47:04.28,00:47:06.22
+I'll take these, let's go
+
+00:47:13.12,00:47:14.67
+What do we do? Should we go on?
+
+00:47:15.43,00:47:19.32
+Yes, we go on.[br]You only reach 30 once in a lifetime
+
+00:47:27.32,00:47:29.67
+You are really something[br]Ernesto Guevara de la Serna
+
+00:47:30.49,00:47:34.57
+- If we change the dollars...[br]- No, don't even think about it
+
+00:48:14.24,00:48:16.11
+We arrived at Valparaiso
+
+00:48:17.46,00:48:22.46
+"I love Valparaiso. How much you encompass[br]and how much you irradiate bride of the ocean"
+
+00:48:23.24,00:48:25.42
+"Even far away from your deaf halo..."
+
+00:48:25.51,00:48:28.88
+- Federico Garca Lorca[br]- No[br]- No, it's Neruda
+
+00:48:31.66,00:48:35.10
+Valparaso, Chile[br]March 7th, 1952[br]Km 3573
+
+00:48:48.45,00:48:50.07
+Thank you
+
+00:48:50.71,00:48:53.30
+- From Chichina![br]- Chichina, and the money?
+
+00:48:55.23,00:48:56.98
+- Should i open it?[br]- Yes open it
+
+00:48:57.95,00:48:59.89
+I leave you alone love bird
+
+00:49:09.80,00:49:11.35
+How do i love you Celia de la Serna!
+
+00:49:19.21,00:49:20.41
+What's going on?
+
+00:49:24.97,00:49:26.19
+Fuser
+
+00:50:19.57,00:50:22.58
+- Che, are you ready?[br]- Me?[br]- Yes you
+
+00:50:23.06,00:50:24.25
+- Of course[br]- Let's go
+
+00:50:24.37,00:50:25.47
+Right away sir
+
+00:50:55.64,00:50:59.86
+Atacama Desert, Chile[br]March 11, 1952[br]Km 4960
+
+00:51:06.02,00:51:08.51
+You know what, my plan was a lot better
+
+00:51:12.48,00:51:14.69
+You are so fucking proud, at least answer me
+
+00:51:17.46,00:51:18.88
+Do you want to go back?
+
+00:51:19.54,00:51:22.87
+Go ahead...[br]I'll get to the mine and then Ill tell you what it looks like
+
+00:51:24.21,00:51:26.73
+Are you suggesting that i won't make it to the mine?
+
+00:51:27.95,00:51:30.84
+If you can little doctor asthma, i can do it too
+
+00:51:32.53,00:51:33.25
+Moron
+
+00:51:34.44,00:51:35.90
+Oh, you want to win?
+
+00:51:42.09,00:51:43.95
+Stop! Fuck!
+
+00:51:54.02,00:51:56.40
+- Good evening, how are you?[br]- What's your name?
+
+00:51:56.53,00:51:59.04
+- Ernesto[br]- Nice to meet you
+
+00:52:09.99,00:52:15.43
+Yes, that's it, that's were we are from
+
+00:52:17.62,00:52:20.66
+We didn't have much, just a dry and difficult land
+
+00:52:21.57,00:52:23.42
+It belonged to his grandparents
+
+00:52:23.96,00:52:28.28
+It was ours, until a landlord arrived and kicked us out
+
+00:52:28.71,00:52:35.95
+- And that is what they call progress[br]- We had to leave our son with the family and travel to find job
+
+00:52:36.38,00:52:41.58
+- Trying to escape from the police that wanted to catch us[br]- Why?
+
+00:52:42.88,00:52:44.96
+Because we are communists
+
+00:52:45.87,00:52:49.20
+We are going to the mine. If we are lucky Ill find a job.
+
+00:52:50.59,00:52:53.69
+Apparently they are so dangerous that they[br]don't care what party you belong to
+
+00:52:56.73,00:52:58.75
+Are you looking for a job?
+
+00:52:59.30,00:53:01.12
+No, we are not.
+
+00:53:02.55,00:53:07.56
+No? And then why are you traveling?
+
+00:53:11.10,00:53:13.14
+Just because
+
+00:53:20.30,00:53:26.63
+Bless you, blessed be your travels
+
+00:53:31.27,00:53:32.60
+Take this
+
+00:53:33.07,00:53:33.53
+Thanks
+
+00:53:36.94,00:53:38.61
+- Some "mate"[br]- Thanks
+
+00:53:41.12,00:53:43.76
+Those eyes had a dark and tragic expression
+
+00:53:45.98,00:53:50.04
+They told us about some friends that had disappeared[br]under mysterious circumstances
+
+00:53:50.31,00:53:53.34
+And that apparently ended up in some[br]part on the bottom of the ocean
+
+00:53:57.43,00:54:00.18
+That was one of the coldest nights of my life
+
+00:54:01.69,00:54:09.75
+But meeting them made me feel closer to human kind.[br]Strange, so strange to me
+
+00:54:19.28,00:54:24.28
+You...you too[br]You, the next one
+
+00:54:34.91,00:54:37.39
+Move it, guys, move it
+
+00:54:39.06,00:54:42.41
+Chuquicamata Mine, Chile[br]March 15th, 1952[br]Km 5122
+
+00:55:02.78,00:55:04.20
+Move it, guys, move it
+
+00:55:07.00,00:55:09.24
+Get in the truck. The rest go to your homes.[br]Out
+
+00:55:32.63,00:55:34.67
+You two, what are doing here?
+
+00:55:35.77,00:55:36.62
+Nothing, we are looking
+
+00:55:37.00,00:55:39.71
+Looking at what, this is not a tourist attraction. Out
+
+00:55:40.42,00:55:44.01
+Can't you see that these people are thirsty.[br]Give them some water damn it.
+
+00:55:46.22,00:55:47.76
+I will call security so they will arrest you
+
+00:55:48.06,00:55:49.26
+Oh yeah. Why?
+
+00:55:49.49,00:55:53.30
+Invasion of property. This is the property of the[br]Anaconda Mining Company
+
+00:55:55.59,00:55:56.57
+Let's go.
+
+00:56:01.28,00:56:01.92
+Son of a bitch
+
+00:56:27.80,00:56:31.28
+When we left the mine, we felt reality was changing
+
+00:56:31.53,00:56:32.79
+...or were we the ones changing
+
+00:56:35.46,00:56:39.46
+Going deeper and deeper into the mountain range[br]we found more natives
+
+00:56:40.72,00:56:43.67
+that don't even have a roof in what used to be their own land
+
+00:56:50.19,00:56:52.12
+Finally we entered Peru
+
+00:56:52.51,00:56:55.31
+Thanks to a truck driver half blind, Felix
+
+00:56:56.79,00:57:01.77
+I almost forgot...Today is Alberto's 30th birthday[br]but not in Venezuela, as he had envisioned
+
+00:57:04.35,00:57:08.27
+We were so tired, mom[br]that we couldn't even celebrate
+
+00:57:12.97,00:57:14.20
+Fuser
+
+00:57:17.54,00:57:19.38
+This is humanly impossible
+
+00:57:45.36,00:57:47.08
+Finally we arrived to the heart of America...
+
+00:57:47.80,00:57:49.04
+Cuzco
+
+00:57:49.62,00:57:52.91
+Cuzco, Peru[br]April 2, 1952[br]Km 6932
+
+00:57:53.48,00:57:55.67
+After entering the city, we met Don Nestor
+
+00:57:57.32,00:58:00.60
+A very wise man, mom[br]that ended up as our official guide
+
+00:58:01.44,00:58:03.97
+I was wondering Sir, which one of this walls is Inca?
+
+00:58:04.23,00:58:06.72
+This one should be the Inca wall, and that one is Spanish
+
+00:58:07.18,00:58:13.49
+We, as a joke, call this one the Inca wall[br]and that one the wall of the Incapables, those were[br]the Spanish
+
+00:58:14.86,00:58:24.97
+Cuzco was the capital of the Incas, but[br]when the Spanish came they destroyed everything,[br]and named Lima as the new capital
+
+00:58:25.46,00:58:26.61
+- Lima?[br]- Yes
+
+00:58:31.21,00:58:32.18
+- This is The Plaza?[br]- Yes
+
+00:58:45.14,00:58:57.07
+She says that she has never been to a school because[br]she has always been near the cattle, that's why she doesn't[br]know how to speak Castilian only Quechua
+
+00:58:57.33,00:59:08.96
+I think that before, there was enough money for everything,[br]but now there's little money and there are no jobs
+
+00:59:11.19,00:59:13.09
+That is affecting us more and more
+
+00:59:13.33,00:59:24.78
+Since i was little i have worked with crafts[br]and that's how i keep on level...regular
+
+01:00:03.70,01:00:05.21
+With both hands, with both hands
+
+01:00:08.53,01:00:10.37
+With both hands, Nestor
+
+01:00:23.26,01:00:24.31
+Good evening
+
+01:00:29.06,01:00:29.96
+Good evening
+
+01:00:33.85,01:00:40.97
+When i was working, the owner came[br]and he threw me out of the land
+
+01:00:42.06,01:00:44.94
+Once i was producing all the products[br]he threw me out
+
+01:00:45.53,01:00:47.74
+He threw you out? How? Did he call the police?
+
+01:00:47.94,01:00:52.29
+Yes, he brought the police.[br]He is a powerful man, he has a lot of money
+
+01:00:52.66,01:00:57.16
+- He wanted me to leave the land[br]- Yes, once it was producing
+
+01:00:57.49,01:01:04.40
+Yes, it was producing wheat, corn, potatoes, beans...[br]and i was meant to keep a part of it
+
+01:01:05.06,01:01:14.37
+But i won't stay behind, i have to keep moving forward.[br]Working, looking for money to educate my children
+
+01:01:14.70,01:01:16.67
+- How many kids do you have?[br]- I have five kids
+
+01:01:17.11,01:01:26.47
+- Have you joined with other farmers of the area?[br]- Yes, in the community we are organized, we help each other
+
+01:01:26.74,01:01:30.46
+We help each other, together
+
+01:02:09.50,01:02:15.42
+Machu Picchu, Peru[br]April 5th, 1952[br]Km 7014
+
+01:02:35.86,01:02:39.42
+Let's see how you behave Fuser, eh?[br]That's it, that's it
+
+01:02:40.84,01:02:42.52
+For posterity
+
+01:02:47.15,01:02:52.70
+The Incas had a high knowledge of astronomy, medicine,[br]math, among others
+
+01:02:53.19,01:02:55.64
+But the Spanish invaders had powder
+
+01:02:57.23,01:03:00.61
+How would America be today if things had been different?
+
+01:03:01.83,01:03:08.57
+Fuser, look what i think. I should marry with an Inca descendant[br]and found an indigenous party
+
+01:03:09.93,01:03:11.44
+We encourage everyone to vote
+
+01:03:12.74,01:03:17.45
+Reactivate Tupac Amaru's revolution,[br]the indoamerican revolution, Fuser[br]What do you think?
+
+01:03:19.26,01:03:23.96
+A revolution without gunshots?[br]You are crazy Mial
+
+01:03:37.97,01:03:41.73
+How is it possible that i feel nostalgia for a world i never knew
+
+01:03:43.86,01:03:46.96
+How do you explain that a civilization capable of building this
+
+01:03:48.31,01:03:49.65
+is wiped out to build...
+
+01:03:50.74,01:03:52.43
+...this
+
+01:03:53.35,01:03:56.08
+Lima, Peru[br]May 12th, 1952[br]Km 8198
+
+01:04:12.41,01:04:14.16
+- I know this is not the one[br]- No?
+
+01:04:22.15,01:04:24.71
+Mercaderes 52, let's ask
+
+01:04:25.12,01:04:25.63
+Mercaderes Street?
+
+01:04:25.78,01:04:31.61
+Mercaderes?  2 blocks that way, then turn right and 6 or 7 blocks more
+
+01:04:31.95,01:04:36.03
+- This one has to be Mercaderes[br]- That one too
+
+01:04:36.22,01:04:38.81
+- Hey, is this one Mercaderes?      - Yes[br]- And that one too?       -Yes
+
+01:04:41.43,01:04:46.20
+Count from down there...from down there are 2, 4...[br]What?
+
+01:04:46.85,01:04:48.39
+Oh look
+
+01:04:52.00,01:04:53.67
+Can i help you with something?
+
+01:04:57.07,01:05:00.84
+This is the one from Mariategui...[br]and you should also read Cesar Vallejo
+
+01:05:01.09,01:05:03.46
+The best part of Lima, mom, was Dr. Hugo Pesce
+
+01:05:03.83,01:05:06.16
+The chief of the program for the treatment of leprosy in Peru
+
+01:05:06.80,01:05:08.92
+Alberto had contacted him before starting the journey
+
+01:05:09.68,01:05:14.46
+He fed us, gave us cloth, money and some very good ideas
+
+01:05:16.45,01:05:22.09
+Mariategui talks about the revolutionary potential of the[br]natives and farmers of Latin America
+
+01:05:22.98,01:05:25.89
+He says that the native main problem is the land
+
+01:05:26.46,01:05:31.80
+and that the revolution will not be a copy[br]but a heroic creation of our people
+
+01:05:39.25,01:05:43.02
+"7 ESSAYS OF INTERPRETATION OF THE PERUVIAN REALITY"
+
+01:05:56.58,01:05:58.85
+"We are too few to be divided", he says
+
+01:06:00.09,01:06:01.41
+Everything unites us
+
+01:06:02.78,01:06:03.93
+nothing keeps us apart...
+
+01:06:04.20,01:06:05.87
+Here's the main group of patients
+
+01:06:08.31,01:06:13.30
+Pesce let us stay at the guide Hospital, were they[br]treat patients in the first stage of the disease
+
+01:06:14.94,01:06:19.03
+The ones with more serious conditions are sent to San Pablo's[br]Lepers center in the Amazon
+
+01:06:19.50,01:06:22.40
+- Zoraida, this is Alberto, Ernesto[br]- How are you?[br]- Nice to meet you
+
+01:06:22.83,01:06:26.64
+Well, i think we know each other well enough[br]so i will allow myself to tell you something
+
+01:06:26.98,01:06:34.30
+I look into your eyes, Ernesto, Alberto, and i see[br]a great idealism, but also a lot of doubts
+
+01:06:35.65,01:06:37.69
+That's why Im glad that you are going to San Pablo
+
+01:06:38.31,01:06:40.03
+I think you will find something important there
+
+01:06:41.12,01:06:42.59
+Important for you
+
+01:06:44.05,01:06:45.07
+Thanks a lot
+
+01:06:45.88,01:06:51.81
+- Ok, if you excuse me, i will show you something, ok?[br]- Another surprise? How many surprises!
+
+01:06:52.92,01:06:54.62
+- What is he bringing, little on?[br]- A book
+
+01:06:55.28,01:06:57.59
+- A book, uh?[br]- Eat everything Tito, eh?
+
+01:06:58.87,01:07:00.77
+This is the great love of my life...
+
+01:07:01.68,01:07:03.04
+...after her of course
+
+01:07:03.26,01:07:04.46
+Ah, ok
+
+01:07:04.95,01:07:06.64
+It's my novel
+
+01:07:06.85,01:07:08.49
+"The Stillness of Silence"
+
+01:07:09.84,01:07:11.45
+I hope you give me the honor of reading it
+
+01:07:12.37,01:07:14.62
+- Of course, of course[br]- The honor is ours
+
+01:07:15.68,01:07:17.75
+You can tell me what you think after
+
+01:07:17.88,01:07:19.24
+- Yes, of course. Can i open it?[br]- Yes, yes
+
+01:07:20.14,01:07:21.51
+- Who dares read it first?
+
+01:07:22.77,01:07:26.49
+- Both of us[br]- Besides he reads faster than i do, really.
+
+01:07:28.97,01:07:29.65
+Ok guys...
+
+01:07:30.36,01:07:33.20
+- ...that's the boat, "La Cenepa"                              Pucallpa, Peru[br]May 25th, 1952[br]Km 8983
+
+01:07:33.66,01:07:35.62
+In five more days you'll be in San Pablo
+
+01:07:38.06,01:07:47.14
+Teacher, thanks a lot for everything, for your kindness,[br]for the tickets, the cloths, for everything. It's been an honor
+
+01:07:47.34,01:07:49.32
+Don't worry about anything
+
+01:07:49.91,01:07:52.35
+Thanks Doctor, thanks a lot
+
+01:07:52.52,01:07:58.95
+Don't you think you are forgetting something?[br]You've said nothing about my novel
+
+01:08:00.15,01:08:03.45
+- The novel, Fuser[br]- Did you read it?[br]- Of course[br]-So?
+
+01:08:04.29,01:08:10.78
+What can i say? I can sincerely tell you that[br]no one can tell a story like you
+
+01:08:12.32,01:08:13.92
+It has taken a lot of effort
+
+01:08:14.76,01:08:16.97
+- And what do you think Ernesto?[br]- He is fascinated!
+
+01:08:17.32,01:08:19.71
+If he is fascinated, i would rather to hear it from him
+
+01:08:20.44,01:08:26.32
+Look Doctor, I feel that your book is a little beaten
+
+01:08:26.81,01:08:29.39
+I think there are many common places...
+
+01:08:32.07,01:08:35.76
+- Well, that is not that bad[br]- No
+
+01:08:36.36,01:08:39.97
+Basically is poorly written and that makes it hard to read
+
+01:08:42.80,01:08:46.56
+It's a very good try doctor, but i think you should[br]focus on what you know best
+
+01:08:49.84,01:08:52.82
+I'm sorry, teacher. You asked for my opinion[br]and Im giving it to you
+
+01:08:56.20,01:09:03.87
+Wao son! No one had been so blunt with me.[br]You have been the only one. The only one
+
+01:09:06.61,01:09:09.56
+- Ok, i won't delay you any more, go on.[br]- Thanks
+
+01:09:09.76,01:09:12.25
+Good bye and...eternally grateful and forgive me.
+
+01:09:13.33,01:09:14.39
+Take care!
+
+01:11:06.28,01:11:09.37
+- Have you seen a bag that was over there?[br]- No
+
+01:11:10.30,01:11:13.94
+- It is brown and small[br]- If i see it Ill let you know
+
+01:11:26.59,01:11:27.57
+What is wrong with him?
+
+01:11:28.83,01:11:30.27
+Ask for help! Ask for help!
+
+01:11:39.91,01:11:40.67
+Pass me that pillow
+
+01:11:48.12,01:11:49.86
+Be calm, Fuser
+
+01:11:56.83,01:11:58.62
+Be calm, Im going to give you the adrenalin
+
+01:12:14.31,01:12:16.17
+Fuser... easy, easy...
+
+01:12:27.13,01:12:28.03
+Fuser...easy
+
+01:12:45.67,01:12:46.55
+Miss
+
+01:12:48.71,01:12:52.37
+I came to thank you personally for the[br]help you offer to my friend and i. Thanks
+
+01:12:52.51,01:12:54.59
+Don't worry, your friend got really sick
+
+01:12:54.98,01:12:56.60
+- Yes he did[br]- He gave me quite a scare
+
+01:12:56.64,01:12:59.07
+And i, thanks a lot, Miss.
+
+01:13:01.12,01:13:04.02
+- You know, a minute ago i saw a "bufeo" around[br]- Bufeo?
+
+01:13:04.22,01:13:07.07
+Well a river dolphin, but we call them "bufeo"
+
+01:13:08.04,01:13:09.26
+Have you ever seen one?
+
+01:13:09.37,01:13:11.34
+No, never. I heard it, but didn't see it
+
+01:13:13.46,01:13:15.80
+- I'm going to tell you a secret[br]- Me?
+
+01:13:17.41,01:13:25.25
+The bufeo's genitals look like a woman's[br]and the natives use it to relieve themselves
+
+01:13:25.53,01:13:34.54
+But there's a little problem, when they are done[br]they have to kill the animal, because the suffer[br]contractions so strong that don't let them get out
+
+01:13:39.22,01:13:41.39
+Miss, no offense but can i ask you something?
+
+01:13:41.86,01:13:42.49
+Yes
+
+01:13:42.71,01:13:45.03
+What brings you to these inhospitable waters?
+
+01:13:45.43,01:13:50.06
+I work on the boat, I come and go between Pucallpa and Leticia.[br]I'm from Pucallpa, you know?
+
+01:13:50.22,01:13:51.75
+- Pucallpenian?[br]- Pucallpian
+
+01:13:52.22,01:13:55.85
+- Do you know it?[br]- It is full of beautiful women, but you are the best
+
+01:13:56.04,01:13:57.12
+- Thanks[br]- You are welcome
+
+01:13:58.58,01:14:00.02
+And how do you pay for your ticket?
+
+01:14:00.18,01:14:01.93
+I give the captain part of what i make
+
+01:14:02.89,01:14:06.65
+But...how do you earn the money?[br]Miss...
+
+01:14:09.60,01:14:14.29
+Let's just say that, if we go to your room, Ill show you
+
+01:14:14.78,01:14:19.78
+My name is Luz, in case you want to[br]know who you make business with
+
+01:14:21.44,01:14:25.92
+Lucecita, for a night with you i would[br]give a pile of gold as big as the Aconcagua
+
+01:14:25.98,01:14:29.11
+But, darling i don't have a single coin
+
+01:14:29.42,01:14:31.72
+Well, then my friend, you'll have to excuse me
+
+01:14:32.16,01:14:36.13
+- But i have to go earn a living[br]- Are you going to leave me like this
+
+01:14:47.57,01:14:48.97
+I need the fifteen dollars, Fuser
+
+01:14:49.22,01:14:54.90
+Her name is Luz and she told me a story about a[br]fish that the natives fuck and she gave me a little kiss
+
+01:14:56.11,01:14:57.35
+I already spent them
+
+01:14:58.32,01:15:05.21
+C'mon Fuser, don't fuck with me.  We crossed the[br]desert together, we almost died of starvation and cold,[br]the accident
+
+01:15:05.93,01:15:10.48
+- My needs have higher priority than Chichina's pants[br]- I don't have them anymore
+
+01:15:11.59,01:15:13.81
+I gave them to the mining couple
+
+01:15:21.44,01:15:22.64
+- Court her
+
+01:15:25.04,01:15:26.92
+- Fuck you Fuser
+
+01:15:31.73,01:15:33.19
+The house wins gentlemen.
+
+01:15:35.14,01:15:36.18
+Mr. Lloyd retires
+
+01:15:36.68,01:15:38.50
+- Good night[br]- Good night
+
+01:15:38.60,01:15:40.25
+Make your bets gentlemen
+
+01:15:40.29,01:15:42.04
+- 8 soles[br]-10 soles
+
+01:15:42.52,01:15:45.02
+-  1 sol[br]- 1 sol? What?
+
+01:15:45.75,01:15:47.52
+This is for men, not for school kids
+
+01:15:47.56,01:15:50.81
+I didn't know that in Peru you measured a man balls in soles
+
+01:15:52.88,01:15:55.93
+Ok, ok, let's play.[br]Cards gentlemen
+
+01:15:58.19,01:15:59.10
+- Card?[br]- One
+
+01:15:59.89,01:16:00.83
+- Sir?[br]- Nothing
+
+01:16:01.00,01:16:02.61
+- Young man?[br]- One
+
+01:16:04.74,01:16:06.47
+I stay
+
+01:16:06.86,01:16:08.21
+- Card[br]- Of course
+
+01:16:12.81,01:16:15.42
+Gentlemen, the house pays.
+
+01:16:16.06,01:16:19.93
+Sir?  17. I'm sorry[br]Gentleman?[br]Thanks
+
+01:16:19.97,01:16:20.76
+You young man?
+
+01:16:20.97,01:16:22.58
+Pay!
+
+01:16:25.62,01:16:27.76
+- How much did you bet?[br]- 1 sol
+
+01:16:28.33,01:16:29.53
+The first one
+
+01:16:32.54,01:16:35.65
+- Ok, gentlemen, your bets[br]- 2 soles
+
+01:16:53.67,01:16:57.60
+- I want to see your bets. Your bet sir?[br]- 30 soles
+
+01:17:01.53,01:17:03.75
+Gentlemen, again, Blackjack!
+
+01:17:05.77,01:17:07.35
+- How much do i owe you?[br]- 30
+
+01:17:07.43,01:17:17.09
+- 30 paid[br]- Thanks, yes sir. I will retire now. I think is very[br]clear who has more balls in this table. Excuse me gentlemen
+
+01:17:17.42,01:17:21.61
+Son of a bitch. Now that we are millionaires[br]we will eat better
+
+01:17:21.67,01:17:23.67
+Precisely, look at the mouthful Im about to eat
+
+01:17:23.80,01:17:27.72
+- What a night, we are very lucky[br]- How are you? Ernesto... Luz[br]- Hi
+
+01:17:28.12,01:17:29.25
+- Luz[br]- At your service
+
+01:17:29.49,01:17:33.48
+Burning light that blinds my dreams[br]Now hold on tight for what is coming for you
+
+01:17:33.60,01:17:35.14
+- Ah, Neruda?[br]- No, Granado
+
+01:18:24.66,01:18:27.90
+San Pablo, Peru[br]June 8th, 1952[br]Km 10223
+
+01:18:31.28,01:18:32.47
+Are you Bresciani?
+
+01:18:32.73,01:18:34.00
+How are you guys? How was the trip?
+
+01:18:34.21,01:18:36.14
+- Long but good[br]- A little long
+
+01:18:38.18,01:18:39.19
+No the other way
+
+01:18:40.91,01:18:42.38
+- Nice to meet you.  Bresciani[br]- Nice to meet you
+
+01:18:45.09,01:18:47.76
+Dr. Pesce has talked very enthusiastically about you[br]so, welcome to San Pablo
+
+01:18:48.13,01:18:51.17
+By the way, i have a letter from Dr. Pesce for you[br]do you want it now?
+
+01:18:51.45,01:18:52.88
+No, no, there'll be time for that
+
+01:18:54.48,01:18:57.40
+Well, since we are here i can show you something
+
+01:18:57.96,01:19:00.46
+The Amazon divides the colony in two
+
+01:19:00.81,01:19:10.96
+The south part is where we keep the patients.[br]Here, in the north part is were the staff, the doctors and nurses live.[br]And a couple of nuns that are very efficient
+
+01:19:11.54,01:19:12.99
+This is your room
+
+01:19:16.48,01:19:19.58
+The beds are a little hard, but that is good for your spine
+
+01:19:24.19,01:19:25.85
+You can see the hospital from here
+
+01:19:26.32,01:19:29.68
+Over there[br]And that's the laboratory
+
+01:19:30.37,01:19:33.80
+Doctor, let me introduce you to our Argentinean volunteers
+
+01:19:37.43,01:19:39.65
+Alberto, i understand you have[br]some experience in baciloscopy
+
+01:19:39.91,01:19:43.10
+- That's right[br]- I believe he could help us in the lab, why don't[br]you take him with you
+
+01:19:45.00,01:19:46.89
+Ernesto, you are going to help me in the hospital
+
+01:19:50.62,01:19:53.71
+Here we have the more serious cases,[br]we transfer them from the south area
+
+01:19:55.07,01:19:56.90
+- Georgina[br]- Hello doctor
+
+01:19:57.78,01:20:02.06
+- And do you make the operations on this side too?[br]- Yes, on that side we have an operating room
+
+01:20:05.80,01:20:09.54
+She is Silvia, daughter of one of our patients[br]and a very good nurse
+
+01:20:13.69,01:20:16.18
+- How is he?[br]- He's better, doctor
+
+01:20:17.40,01:20:20.42
+- Then keep administering the same treatment[br]- Yes
+
+01:20:23.47,01:20:26.96
+- Doctor, then how many patients live in the south area?[br]- Almost six hundred
+
+01:20:27.07,01:20:33.80
+- All of them Peruvian?[br]- No, most of them yes, but there are some from[br]Colombia, Venezuela and other countries of South America
+
+01:20:39.24,01:20:45.08
+I suggest you use these gloves. It's true that[br]leprosy under treatment is not contagious
+
+01:20:45.22,01:20:48.15
+but the nuns are very strict about this
+
+01:20:51.52,01:20:57.35
+- If it's not contagious, then this is purely symbolic[br]- Yes, but Im telling you so you don't make mortal enemies over there
+
+01:20:57.92,01:21:02.30
+- Well, you'll have to forgive us but we are not going to use them[br]- Yes, thanks doctor
+
+01:21:03.94,01:21:05.67
+Don't say i didn't warn you
+
+01:21:12.98,01:21:14.50
+Take out the boxes.[br]Come this way
+
+01:21:21.80,01:21:23.22
+- Good evening[br]- Good evening
+
+01:21:24.38,01:21:28.63
+- Good evening.  Welcome to San Pablo[br]- Thanks[br]- You are very kind
+
+01:21:28.98,01:21:31.69
+- Papa Carlito, at your service[br]- Nemesio Reyna
+
+01:21:31.95,01:21:34.38
+- Ernesto Guevara[br]- I'm Alberto Granado, a pleasure to meet you
+
+01:21:35.06,01:21:36.29
+Nice to meet you
+
+01:21:38.78,01:21:41.49
+Doctor, didn't you explain the rules to them?
+
+01:21:46.82,01:21:48.02
+Nice to meet you
+
+01:21:48.62,01:21:53.24
+- Don Nemesio, nice to meet you
+
+01:21:53.86,01:21:56.88
+Papa Carlito is the head of the community.[br]They are Argentineans doctors
+
+01:21:57.09,01:22:00.04
+Nice meeting you, bye
+
+01:22:01.52,01:22:03.22
+They are real gentlemen
+
+01:22:03.44,01:22:06.55
+Dr.  Bresciani, this gentlemen arrive and think[br]they can behave as they want?
+
+01:22:07.00,01:22:10.96
+Mother San Alberto, this gentlemen have good[br]medical experience in Cordoba and Buenos Aires
+
+01:22:11.95,01:22:14.69
+That doesn't give them the right to behave[br]like this and break the rules
+
+01:22:15.04,01:22:17.04
+I suggest we leave this conversation for later, ok?
+
+01:22:18.41,01:22:19.90
+Thanks Mother, you are very understanding
+
+01:22:20.85,01:22:22.22
+She is the Mother Superior
+
+01:22:33.99,01:22:35.57
+This is the dinning hall.
+
+01:22:35.90,01:22:40.52
+The nuns make lunch on Sundays,[br]but only for those that come to mass
+
+01:22:43.25,01:22:49.36
+The sad thing is that most of San Pablo's patients are here[br]because they have been abandoned by their families[br]or thrown out of their jobs
+
+01:22:49.51,01:22:54.55
+That's why they try to adapt to their new life[br]building their own houses, seeding, caring for animals
+
+01:22:55.24,01:22:57.01
+- Doctor, good morning[br]- How is Silvia?
+
+01:22:57.89,01:23:01.43
+- She doesn't want to go to surgery[br]- Thanks doctor, Ill go see her
+
+01:23:03.04,01:23:08.77
+Silvia is a patient a little rebellious and if we don't[br]operate her ulna, she risks loosing her arm
+
+01:23:11.74,01:23:12.91
+Hello Silvia
+
+01:23:16.67,01:23:18.24
+She's very young
+
+01:23:21.23,01:23:22.99
+Can i come inside to talk to her
+
+01:23:24.13,01:23:24.78
+Yes
+
+01:23:42.97,01:23:44.41
+Can i sit?
+
+01:23:52.28,01:23:54.10
+Does your arm hurt?
+
+01:24:05.55,01:24:07.11
+What is wrong with you?
+
+01:24:08.17,01:24:10.63
+I was born with bad lungs
+
+01:24:13.36,01:24:14.82
+What a shame
+
+01:24:15.56,01:24:21.03
+No, is not that bad. Thanks to that[br]i skipped the military service
+
+01:24:22.03,01:24:24.69
+I didn't have to shine anyone boots
+
+01:24:26.11,01:24:31.66
+Is that why you became a doctor?[br]Because you are sick?
+
+01:24:32.50,01:24:38.98
+Is possible.[br]The first word i learned was injection
+
+01:24:41.73,01:24:43.67
+I want to be useful in some way
+
+01:24:46.97,01:24:50.45
+- You are wasting your time[br]- Why?
+
+01:24:55.12,01:24:57.37
+This life is hell
+
+01:24:58.48,01:25:08.92
+Yes, it's really fucked up, but we have to[br]fight for every breath and tell Death to fuck off
+
+01:25:52.55,01:26:01.74
+Hey Fuser,  Bresciani is going to write me a recommendation[br]for an internship in Cabo Blanco's Hospital, in Caracas[br]What do you think?
+
+01:26:03.76,01:26:04.72
+That's nice.
+
+01:26:06.02,01:26:09.88
+Nice?[br]What's going on Fuser?
+
+01:26:14.15,01:26:16.85
+- Did you see the river?[br]- Yes
+
+01:26:20.05,01:26:22.76
+It keeps away the sick from the healthy
+
+01:26:26.52,01:26:27.90
+Yes
+
+01:26:59.38,01:27:02.13
+That's it...[br]Just a quick...
+
+01:27:24.16,01:27:25.12
+Are you ok?
+
+01:27:26.71,01:27:27.93
+Scalpel
+
+01:27:29.26,01:27:32.94
+It's ok, it's ok. Look at me
+
+01:27:35.51,01:27:40.84
+That's it. The nerve is coming out
+
+01:27:41.20,01:27:42.90
+It's thick
+
+01:27:46.21,01:27:52.81
+I have four siblings, Celia, Ana Maria[br]Roberto and Juan Martin
+
+01:27:54.79,01:28:01.12
+And they are the ones i miss the most actually.[br]And also my mom
+
+01:28:12.40,01:28:14.49
+You have to tell us these things with time
+
+01:28:20.52,01:28:24.38
+- Have you been playing soccer lately?[br]- Not lately
+
+01:28:24.73,01:28:30.22
+For the next time, please wear some snickers[br]and invite me
+
+01:28:30.55,01:28:31.67
+Gladly
+
+01:29:42.54,01:29:45.59
+C'mon, C'mon
+
+01:29:56.84,01:30:01.00
+North team![br]Mark that one there!!
+
+01:30:08.04,01:30:09.37
+Out, out
+
+01:30:09.54,01:30:13.77
+Get out of there
+
+01:30:14.69,01:30:17.15
+Mark that...[br]Out, out
+
+01:30:18.82,01:30:23.32
+Gol! Gol!
+
+01:30:26.88,01:30:29.87
+What happened? What happened?[br]They scored you one fatty!!
+
+01:30:32.49,01:30:33.46
+Get out of here!
+
+01:30:40.91,01:30:42.91
+Excuse me
+
+01:30:44.09,01:30:45.75
+Sister, why you don't give us food?
+
+01:30:47.45,01:30:51.98
+The rules of Mother San Alberto are very clear,[br]we only serve to those who go to Holy Mass
+
+01:30:52.43,01:30:55.56
+- What is it?[br]- They won't give us food because we didn't go to mass
+
+01:30:55.76,01:30:58.51
+- Says who?[br]- San Alberto
+
+01:30:59.42,01:31:01.31
+- Mother[br]- Yes?
+
+01:31:01.72,01:31:04.34
+- We want to eat[br]- We deserve to eat like everyone else
+
+01:31:04.80,01:31:06.78
+- Yes but you didn't go to mass[br]- No
+
+01:31:07.09,01:31:12.10
+Then, how do you expect to feed the body[br]if you didn't feed the soul first
+
+01:31:12.36,01:31:16.20
+- Denying food is not very Christian-like[br]- Yes, i doubt Jesus would act like this
+
+01:31:16.36,01:31:20.33
+In this house we have a set of rules[br]that have to be followed
+
+01:31:20.51,01:31:24.81
+- I haven't read any rule book[br]- Neither did i. I think that if find it i would eat it
+
+01:31:31.74,01:31:32.85
+Your lunch
+
+01:31:34.26,01:31:35.56
+Did you steal it?
+
+01:31:37.26,01:31:39.17
+- Yes[br]- Thanks
+
+01:31:44.11,01:31:46.51
+- Did you took it from San Alberto?[br]- Yes
+
+01:31:46.94,01:31:47.86
+Thanks
+
+01:32:03.74,01:32:05.29
+- Is it deep?[br]- Yes
+
+01:32:19.07,01:32:21.11
+- Do you want some "mate"?[br]- No thanks
+
+01:32:35.33,01:32:36.23
+What?
+
+01:32:39.29,01:32:40.34
+From Caracas?
+
+01:32:50.41,01:32:53.79
+Great![br]Great, isn't it?
+
+01:32:55.69,01:32:59.24
+- Should i accept?[br]- What do you want to do?
+
+01:33:04.16,01:33:06.13
+Maybe is time to settle down
+
+01:33:07.47,01:33:10.65
+Yes, have a stable job, a girlfriend...
+
+01:33:11.78,01:33:12.98
+Get a belly
+
+01:33:15.21,01:33:19.12
+And you? Are you going back to finish school?
+
+01:33:19.48,01:33:22.90
+I don't know. If i find a way to get[br]back to Buenos Aires, yes
+
+01:33:24.58,01:33:27.69
+You're going to be 24 next week, Fuser
+
+01:33:29.60,01:33:32.77
+I should be thinking on something, right?
+
+01:33:38.25,01:33:40.96
+San Pablo, Peru[br]June 14th, 1952
+
+01:33:54.47,01:33:58.24
+The Mother dances well, uh?[br]I like the way she dances
+
+01:34:18.17,01:34:19.51
+No, I don't dance
+
+01:34:31.33,01:34:32.14
+Thank you
+
+01:34:39.51,01:34:42.24
+- It's good uh?[br]It's really good
+
+01:34:42.34,01:34:45.35
+Listen, this is the tango that[br]Chichina's uncle played in Miramar
+
+01:34:45.61,01:34:47.47
+- Ah yes, i like it[br]- You see[br]- Yes, yes
+
+01:34:47.47,01:34:48.82
+- Do you know how to dance it?[br]- This one's a little faster,
+
+01:34:49.26,01:34:54.26
+But you know how to dance it.[br]And there's a lady very interested in dancing with you
+
+01:34:55.75,01:34:58.63
+- Should i ask her?[br]- The bird in the stories flies and never returns
+
+01:34:58.79,01:34:59.88
+Fly, fly
+
+01:35:00.53,01:35:02.17
+Do you want to dance?
+
+01:35:02.60,01:35:05.48
+- Do you know how to dance?[br]- Yes
+
+01:35:08.89,01:35:11.05
+Is just that this version is faster
+
+01:35:21.36,01:35:22.56
+Dance Ernesto!
+
+01:35:23.17,01:35:25.33
+Did you think it was a tango?
+
+01:35:25.66,01:35:27.81
+Mambo, mambo, mambo
+
+01:35:30.30,01:35:36.21
+Happy birthday to you! Happy birthday to you!
+
+01:35:36.27,01:35:43.52
+Happy birthday, Ernesto, Happy birthday to you!
+
+01:35:43.63,01:35:46.24
+Make three wishes Fuser
+
+01:35:54.81,01:35:56.38
+Friends, one moment please...
+
+01:35:56.80,01:36:03.90
+I believe this is a great opportunity to let Ernesto[br]and Alberto know, how grateful we are
+
+01:36:04.10,01:36:14.15
+Not just for having gotten here, but also for their[br]commitment and enthusiasm to the patients of San Pablo[br]during the three weeks you have spent here
+
+01:36:14.72,01:36:18.60
+For that reason, we have prepared[br]a little surprise
+
+01:36:19.27,01:36:23.07
+Tomorrow you will receive a raft to[br]continue your journey
+
+01:36:23.33,01:36:29.41
+and we will name it,[br]suggested by this night, The "Mambo Tango"
+
+01:36:34.29,01:36:35.40
+Thanks a lot
+
+01:36:36.88,01:36:43.00
+Speech! Speech!
+
+01:36:44.84,01:36:51.09
+Well...I feel obligated to thank this toast with something[br]more than a conventional gesture
+
+01:36:52.16,01:36:57.76
+But given the poor conditions in which we travel...[br]the only affectionate resource that we have is the word
+
+01:36:58.81,01:37:04.03
+And is by using it, that i want to thank you all,[br]all the staff of the colony
+
+01:37:04.14,01:37:05.33
+Thanks
+
+01:37:05.65,01:37:13.45
+You, that give us this magnificent display of affection[br]by celebrating my birthday as you would celebrate one of yourselves
+
+01:37:14.86,01:37:23.28
+And since we will leave Peru tomorrow, this[br]words also serve as a goodbye
+
+01:37:23.72,01:37:29.02
+in which i want to put all my effort to give[br]a recognition to the people of this country
+
+01:37:30.88,01:37:35.42
+that uninterruptedly have overwhelmed us with[br]nice gestures since we arrived
+
+01:37:36.37,01:37:40.00
+And i would like to highlight something more,[br]a little off topic of this toast
+
+01:37:40.42,01:37:43.03
+But don't worry, i won't dance
+
+01:37:48.28,01:37:55.59
+Although our meager personalities prevent us[br]from being spokesmen of your cause
+
+01:37:56.69,01:38:06.23
+We believe, even more after this journey, that the[br]separation of America in false and uncertain nationalities
+
+01:38:06.43,01:38:08.62
+is completely fictitious
+
+01:38:09.72,01:38:15.54
+We are a single mixed race, from Mexico[br]to the Strait of Magellan
+
+01:38:16.51,01:38:20.34
+So, trying to free myself from any[br]nationality load
+
+01:38:21.34,01:38:26.34
+I raise a toast for Peru and for America united
+
+01:38:33.27,01:38:37.84
+Cheers
+
+01:39:31.83,01:39:33.95
+What's up with you?
+
+01:39:35.84,01:39:37.43
+Do you know where the boat is?
+
+01:39:39.01,01:39:40.72
+No, i don't see it
+
+01:39:45.16,01:39:47.55
+I'm going to celebrate my birthday on the other side
+
+01:39:49.25,01:39:52.45
+Yes, of course, tomorrow when we find the boat[br]you will celebrate your birthday on the other side
+
+01:39:52.45,01:39:53.81
+- No, now[br]- No you won't
+
+01:39:53.84,01:39:56.31
+- My birthday is today not tomorrow[br]- I know Fuser but...are you crazy
+
+01:39:56.72,01:39:59.31
+You can't cross the river at night with all[br]those animals that can eat you raw
+
+01:39:59.36,01:40:02.84
+Mial, how many times in this journey did we thought[br]it was the end and look, here we are
+
+01:40:03.03,01:40:04.52
+- This time is different Fuser[br]-Why?
+
+01:40:04.70,01:40:07.54
+Because this time i won't be around to help you.[br]There's no way Im getting in the river
+
+01:40:07.71,01:40:09.45
+You will always be with me Mial, come
+
+01:40:09.65,01:40:13.67
+Hey, come here you bastard mother fucker, come back here.[br]Think of me, your mom is going to kill me
+
+01:40:14.23,01:40:16.69
+Fuser, come back here.[br]Ernesto! Listen!
+
+01:40:16.98,01:40:18.44
+Son of a bitch
+
+01:40:20.06,01:40:23.32
+Ernesto come back![br]Son of a bitch
+
+01:40:24.17,01:40:25.87
+Come back here!
+
+01:40:31.24,01:40:33.84
+- What's going on?[br]- This crazy mother fucker wants to swim across the river
+
+01:40:34.17,01:40:36.69
+- What?[br]- Please tell me that someone has cross this river
+
+01:40:37.08,01:40:38.36
+No, no one in all the years Ive been here
+
+01:40:38.47,01:40:40.26
+Ernesto, come back damn it!
+
+01:40:40.54,01:40:43.75
+- Hey kid, listen to your friend![br]- No he won't listen
+
+01:40:44.07,01:40:45.43
+- Come here kid![br]- Come back Ernesto
+
+01:41:12.08,01:41:14.15
+- What's going on?[br]- Something is moving
+
+01:41:22.45,01:41:24.13
+The current is getting stronger
+
+01:41:24.18,01:41:28.19
+- What's going on?[br]- That moron that is swimming across the river. Come back, Ernesto
+
+01:41:38.12,01:41:41.06
+- Is that Ernesto?[br]- He is swimming this way
+
+01:41:42.07,01:41:43.09
+There he is
+
+01:41:50.25,01:41:51.96
+- He's tired[br]- You can do it Ernesto!
+
+01:41:59.80,01:42:00.72
+There he is
+
+01:42:07.92,01:42:10.34
+Come one. Come on. Come on.[br]Ernesto!!
+
+01:43:00.62,01:43:02.98
+He made it?![br]Son of a bitch, he made it!
+
+01:43:03.66,01:43:05.41
+He made it! He made it!
+
+01:43:25.78,01:43:27.29
+I always knew he would make it
+
+01:43:30.56,01:43:31.65
+Son of a bitch
+
+01:44:03.97,01:44:07.03
+I'm going to miss you. Take care, ok?
+
+01:44:11.60,01:44:16.65
+- Papa Carlito is very sad[br]- Take care
+
+01:44:18.05,01:44:20.64
+- Good luck[br]- We will miss you
+
+01:44:22.48,01:44:23.91
+Thanks for everything
+
+01:44:26.49,01:44:29.50
+- Take care, ok[br]- You too
+
+01:44:48.87,01:44:51.03
+Take care kids
+
+01:44:54.60,01:44:58.22
+- Good bye Mauro[br]- We will always remember you
+
+01:46:30.87,01:46:35.77
+Near Leticia, Colombia[br]June 22nd, 1952[br]Km 10240
+
+01:46:58.93,01:47:03.65
+Caracas, Venezuela[br]July 26th, 1952[br]Km 12425
+
+01:47:06.44,01:47:11.25
+You know, i had memorized a speech filled with[br]anecdotes, and i can't remember a fucking thing
+
+01:47:11.82,01:47:14.74
+- That happens[br]- Yeah
+
+01:47:18.15,01:47:21.22
+You still have the chance to come and[br]work with me in Cabo Blanco, eh?
+
+01:47:22.63,01:47:24.14
+You can graduate and Ill wait for you
+
+01:47:25.54,01:47:27.23
+I don't know
+
+01:47:29.07,01:47:30.22
+I don't know
+
+01:47:32.88,01:47:39.25
+Look Mial, all this time we spent on the route, something happened
+
+01:47:42.52,01:47:45.68
+something that i have to think about long and hard
+
+01:47:55.31,01:47:57.47
+So much injustice, eh?
+
+01:48:02.10,01:48:03.80
+Come on, the plane is leaving!
+
+01:48:05.23,01:48:07.92
+Wait, wait. This could be useful
+
+01:48:10.44,01:48:11.73
+You kept it
+
+01:48:12.07,01:48:13.14
+Is yours
+
+01:48:14.20,01:48:15.19
+I'm off now
+
+01:48:26.44,01:48:27.98
+I'll write you, ok?
+
+01:48:37.41,01:48:39.49
+Fuser...
+
+01:48:45.05,01:48:47.14
+I have to tell you something important.
+
+01:48:48.36,01:48:52.45
+My birthday is not on April 2nd, it is on August 8th.[br]I told you only to motivate you
+
+01:48:52.93,01:48:55.72
+- I knew[br]- You knew? Son of a bitch
+
+01:49:09.28,01:49:10.84
+See you!
+
+01:49:11.08,01:49:12.67
+See you friend!
+
+01:49:45.25,01:49:48.27
+This is not the tale of impressive deeds
+
+01:49:49.07,01:49:53.94
+Is a piece of two lives taken in a moment[br]when they were cruising together along a given path
+
+01:49:54.32,01:49:57.75
+With identity of aspirations and a conjunction of dreams
+
+01:49:58.75,01:50:04.11
+Was our vision too narrow, too partial, too rushed?
+
+01:50:04.59,01:50:06.98
+Were our conclusions too rigid?
+
+01:50:08.09,01:50:09.64
+Maybe...
+
+01:50:11.27,01:50:16.21
+...but that aimless roaming through our enormous America[br]has changed me more than i thought
+
+01:50:17.53,01:50:18.39
+I..
+
+01:50:18.94,01:50:20.01
+...am not myself anymore
+
+01:50:20.29,01:50:24.82
+At least, Im not the same inside
+
+01:51:57.13,01:51:59.93
+Eight years passed before the two of[br]them would meet again
+
+01:52:01.95,01:52:05.19
+In 1960, Granado accepted an invitation to move[br]to Cuba to work as a researcher.
+
+01:52:05.24,01:52:11.85
+The invitation came from his old friend Fuser,[br]that at the time was known as Commander Che Guevara,[br]one of the few influential and charismatic[br]leaders of the Cuban Revolution.
+
+01:52:14.90,01:52:21.90
+Ernesto Che Guevara fought for his ideals in Congo[br]and Bolivia, where he was captured by the Regulation Army and,[br]with the consent of the CIA, was assassinated in October of 1967
+
+01:52:23.93,01:52:33.14
+Alberto Granado, always faithful to his friend Fuser,[br]remained in Cuba, where he founded the "School of[br]Medicine of Santiago".  Today he lives in Havana[br]with his wife Delia, his three sons and grandsons.

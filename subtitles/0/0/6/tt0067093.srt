@@ -1,0 +1,1961 @@
+{1}{1}23.976
+{3031}{3090}A fiddler on the roof.
+{3092}{3153}Sounds crazy, no?
+{3242}{3342}But here, in our little|village of Anatevka...
+{3343}{3399}you might say...
+{3400}{3477}every one of us|is a fiddler on the roof...
+{3508}{3588}trying to scratch out...
+{3590}{3641}a pleasant, simple tune...
+{3670}{3730}without breaking his neck.
+{3767}{3843}It isn't easy. You may ask...
+{3845}{3895}why do we stay up there...
+{3897}{3946}if it's so dangerous?
+{3981}{4043}Well, we stay because...
+{4045}{4123}Anatevka is our home.
+{4170}{4246}And how do we keep our balance?
+{4247}{4307}That I can tell you in one word:
+{4332}{4367}Tradition!
+{4439}{4488}Tradition
+{5073}{5154}Because of our traditions...
+{5155}{5252}we've kept our balance|for many, many years.
+{5396}{5445}Here in Anatevka...
+{5447}{5515}we have traditions|for everything:
+{5541}{5601}how to sleep, how to eat...
+{5658}{5704}how to work...
+{5772}{5819}how to wear clothes.
+{5878}{5986}For instance, we always|keep our heads covered...
+{5988}{6089}and always wear|a little prayer shawl.
+{6091}{6209}This shows|our constant devotion to God.
+{6211}{6257}You may ask...
+{6259}{6342}how did this tradition|get started?
+{6344}{6391}I'll tell you.
+{6422}{6457}I don't know.
+{6459}{6510}But it's a tradition.
+{6535}{6595}And because of our traditions...
+{6623}{6722}every one of us knows who he is...
+{6723}{6809}and what God expects him to do.
+{6902}{6973}Who day and night|must scramble for a living
+{6975}{7048}Feed a wife and children|Say his daily prayers
+{7050}{7114}And who has a right|as master of the house
+{7116}{7171}To have the final word at home
+{7199}{7246}The papa
+{7320}{7367}Tradition
+{7575}{7646}Who must know the way|to make a proper home
+{7647}{7721}A quiet home, a kosher home
+{7723}{7792}Who must raise a family|and run the home
+{7794}{7865}So Papa's free to read|the Holy Book
+{7942}{7996}The mama
+{8051}{8086}Tradition
+{8351}{8428}At three I started Hebrew school
+{8430}{8497}At ten I learned a trade
+{8499}{8573}I hear they picked|a bride for me
+{8575}{8645}I hope she's pretty
+{8647}{8715}And who does Mama teach
+{8717}{8787}To mend and tend and fix
+{8789}{8871}Preparing her to marry
+{8872}{8926}Whoever Papa picks
+{8955}{9002}The daughters
+{9059}{9094}Tradition
+{9095}{9141}- The papa|- Mama
+{9143}{9178}- Sons|- The daughters
+{9210}{9244}Tradition
+{9372}{9466}And in the circle|of our little village...
+{9467}{9534}we've always had our special types.
+{9535}{9562}For instance...
+{9585}{9657}Yente the matchmaker...
+{9659}{9718}Reb Nachum the beggar...
+{9795}{9875}and most important of all...
+{9876}{9919}our beloved rabbi.
+{9921}{9982}Rabbi, may I ask a question?
+{9984}{10019}Certainly.
+{10020}{10102}Is there a proper blessing|for the czar?
+{10103}{10188}A blessing for the czar?|Of course.
+{10190}{10272}May God bless and keep the czar...
+{10274}{10334}far away from us.
+{11248}{11332}Then there are the others|in our village.
+{11334}{11425}They make a much bigger circle.
+{11511}{11557}We don't bother them...
+{11559}{11642}and so far, they don't bother us.
+{11711}{11765}And among ourselves...
+{11767}{11842}we always get along perfectly well.
+{11875}{11922}Of course, there was the time...
+{11923}{11985}when he sold him a horse...
+{11987}{12051}and told him it was six years old...
+{12053}{12117}when it was really 12.
+{12119}{12190}But now, it's all over...
+{12192}{12295}and we all live|in simple peace and harmony.
+{12390}{12442}- It was really 12 years old.|- It was six.
+{12443}{12494}Tevye knows it was 12.
+{12662}{12719}Twelve!
+{12720}{12783}It was 12!
+{12952}{13003}Tradition
+{13395}{13462}Traditions, traditions.
+{13464}{13519}Without our traditions...
+{13521}{13628}our lives would be as shaky as...
+{13654}{13744}as a fiddler on the roof.
+{19108}{19195}Mama! Yente the matchmaker|is coming.
+{19196}{19271}Maybe she's finally found a match|for you, Tzeitel.
+{19272}{19329}From your mouth to God's ears.
+{19331}{19407}Why does she come now?|It's almost Sabbath.
+{19408}{19470}I want to talk to Yente alone.
+{19472}{19528}But, Mama, the men she finds.
+{19530}{19651}The last was so old,|and he was bald. He had no hair.
+{19674}{19744}A girl without a dowry|can't be so particular.
+{19745}{19795}You want hair, marry a monkey.
+{19796}{19873}Even a poor girl has to look|at her husband sometime.
+{19875}{19935}A husband's to get, not to look at.
+{19937}{19984}I'm not yet 20...
+{20026}{20084}Do you have to boast|about your age?
+{20085}{20171}Do you want to tempt the evil eye?|Out, all of you.
+{20173}{20251}There's work to be done|before the Sabbath. Hurry!
+{20484}{20541}Golde, I have such news for you.
+{20543}{20595}Not every day in the week news.
+{20597}{20662}Once in a lifetime news.
+{20664}{20774}Such diamonds, such jewels.
+{20776}{20865}I'll find a husband|for every one of them...
+{20867}{20939}but you shouldn't be|so picky, right?
+{20941}{21003}Of course right,|because after all...
+{21004}{21071}even the worst|husband, God forbid...
+{21073}{21143}is better than no husband,|God forbid.
+{21144}{21218}Who should know better than me?|Since my husband died...
+{21220}{21336}I've been a poor widow,|all alone, no one to talk to.
+{21337}{21398}All I do at night|is think of him.
+{21400}{21486}Even that gives me no pleasure.
+{21617}{21691}- Is Tzeitel in the house?|- Go in and find out.
+{21693}{21740}Thank you, Bielke.
+{21876}{21968}- He never raised his voice.|- Good afternoon.
+{21970}{22002}Is Tzeitel here?
+{22004}{22053}She's busy. Come back later.
+{22055}{22132}- I'd like to tell her something.|- Later.
+{22153}{22237}Later. Oh, all right.
+{22239}{22322}What does that skinny tailor|want with Tzeitel?
+{22324}{22398}They've been friends since they|were babies. They talk, they play.
+{22400}{22461}Play? What do they play?
+{22463}{22509}I don't know. They're children.
+{22511}{22572}From such children|come other children.
+{22574}{22625}Motel is nothing.
+{22627}{22705}Yente, you said|you had news for me.
+{22707}{22756}Children.
+{22758}{22822}They are your blessing|in your old age.
+{22824}{22931}But my Aaron, may he rest in peace,|couldn't give me children.
+{22933}{23007}To tell the truth,|Golde, he hardly tried.
+{23009}{23071}But what's the use complaining?
+{23073}{23162}Other women enjoy complaining.|Not Yente.
+{23164}{23249}Not every woman|in the world is a Yente.
+{23251}{23327}Well, l...|I have to go home now...
+{23328}{23390}to prepare my poor Sabbath meal.
+{23392}{23443}So good-bye, Golde...
+{23444}{23535}and it was a pleasure|talking our hearts out.
+{23536}{23594}You said you had news.
+{23596}{23651}Oi, I'm losing my head.
+{23653}{23709}Someday it'll fall off altogether...
+{23711}{23760}and a horse will kick it in the mud...
+{23762}{23808}and good-bye, Yente.
+{23810}{23872}Of course, the news.
+{23897}{23966}It's about Lazar Wolf, the butcher.
+{23968}{24014}A good, fine man...
+{24016}{24082}and I don't have to say|he's well off, no?
+{24084}{24176}Yes. But he's Ionely, the poor man.
+{24178}{24243}He's been a widower all these years.
+{24245}{24326}Of course you understand.|So, to make it short.
+{24328}{24420}Out of the whole town,|he's cast his eye...
+{24422}{24474}on Tzeitel.
+{24476}{24565}- My Tzeitel?|- No, the czar's Tzeitel.
+{24567}{24624}Of course your Tzeitel.
+{24626}{24699}Such a match for my Tzeitel.
+{24749}{24863}But Tevye wants a learned man.|He doesn't like Lazar.
+{24865}{24919}Good, so Lazar won't marry him.
+{24920}{24986}He wants the daughter, not the father.
+{24988}{25047}Listen to me, Golde.
+{25048}{25136}You send Tevye to him.|Don't tell him what it's about.
+{25138}{25187}Let Lazar discuss it himself.
+{25189}{25296}He'll win him over.|He's a good man and a wealthy man.
+{25298}{25349}Let me know how it went.
+{25351}{25423}You don't have to thank me...
+{25424}{25518}because aside from my fee,|which Lazar will pay anyway...
+{25520}{25566}it gives me satisfaction...
+{25568}{25615}to make people happy.
+{25617}{25695}True? Of course true.
+{25697}{25788}So good-bye, Golde,|and you're welcome.
+{25794}{25838}Good-bye, Yente.
+{25884}{25965}Come, children, get changed|for the Sabbath. Hurry.
+{25967}{26066}- Hurry with your work.|- I wonder if Yente found you a husband.
+{26068}{26137}I'm not anxious for that.
+{26139}{26207}- Unless it's Motel the tailor.|- I didn't ask you.
+{26208}{26276}You're the oldest.|They have to make a match for you...
+{26278}{26324}before making one for me.
+{26326}{26360}Then after her, one for me.
+{26361}{26417}- So if Yente...|- Yente!
+{26446}{26501}Well, somebody has to|arrange the matches.
+{26503}{26567}- She might bring someone wonderful.|- Someone interesting.
+{26569}{26623}- Well-off.|- And important.
+{26692}{26788}Matchmaker, matchmaker|Make me a match
+{26790}{26856}Find me a find
+{26858}{26900}Catch me a catch
+{26926}{27037}Matchmaker, matchmaker|Look through your book
+{27039}{27122}And make me a perfect match
+{27191}{27290}Matchmaker, matchmaker|I'll bring the veil
+{27292}{27345}You bring the groom
+{27347}{27416}Slender and pale
+{27417}{27495}Bring me a ring|for I'm longing to be
+{27497}{27576}The envy of all I see
+{27578}{27656}For Papa, make him a scholar
+{27658}{27736}For Mama, make him rich as a king
+{27738}{27811}For me, well, I wouldn't holler
+{27812}{27919}If he were as handsome as anything
+{27921}{27993}Matchmaker, matchmaker|Make me a match
+{27995}{28074}Find me a find|Catch me a catch
+{28076}{28142}Night after night|in the dark I'm alone
+{28144}{28190}So find me a match
+{28192}{28299}Of my own
+{28343}{28403}Since when are you|interested in a match, Chava?
+{28405}{28473}I thought you had|your eye on books.
+{28475}{28534}You have your eye|on the rabbi's son.
+{28536}{28630}Well, why not?|We only have one rabbi...
+{28632}{28700}and he only has one son.
+{28702}{28745}Why shouldn't I want the best?
+{28747}{28806}Because you're from a poor family...
+{28808}{28857}so whatever Yente brings, you'll take.
+{28859}{28939}Right? Of course right.
+{28956}{29029}Hodel, oh, Hodel|Have I made a match for you
+{29031}{29101}He's handsome, he's young|All right, he's 62
+{29103}{29195}But he's a nice man|A good catch, true, true
+{29196}{29278}I promise you'll be happy|And even if you're not
+{29280}{29328}There's more to life than that
+{29330}{29379}Don't ask me what
+{29446}{29523}Chava, I found him|Will you be a lucky bride
+{29524}{29599}He's handsome, he's tall|That is, from side to side
+{29601}{29657}But he's a nice man|A good catch
+{29659}{29694}- Right|- Right
+{29696}{29775}- You heard he has a temper|- He'll beat you every night
+{29777}{29860}But only when he's sober|So you're all right
+{29892}{29950}Did you think you'd get a prince
+{29952}{30022}Well, I'll find the best I can
+{30024}{30131}With no dowry, no money
+{30133}{30199}No family background
+{30200}{30295}Be glad you've got a man
+{30443}{30515}Matchmaker, matchmaker|You know that I'm
+{30516}{30559}Still very young
+{30560}{30624}Please take your time
+{30627}{30722}Up to this minute|I misunderstood
+{30722}{30810}That I could get stuck for good
+{30812}{30885}Dear Yente|See that he's gentle
+{30887}{30963}Remember you were also a bride
+{30965}{31061}It's not that I'm sentimental
+{31063}{31162}It's just that I'm terrified
+{31164}{31236}Matchmaker, matchmaker|Plan me no plans
+{31238}{31319}I'm in no rush|Maybe I've learned
+{31320}{31431}Playing with matches|a girl can get burned
+{31432}{31487}So bring me no ring
+{31488}{31562}Groom me no groom|Find me no find
+{31564}{31612}Catch me no catch
+{31614}{31735}Unless he's a matchless match
+{32179}{32275}Dear God, was that necessary?
+{32324}{32415}Did you have to make him lame|just before the Sabbath?
+{32446}{32519}Ah, that wasn't nice.
+{32520}{32559}It's enough you pick on me...
+{32561}{32638}bless me with five daughters,|a life of poverty.
+{32640}{32733}That's all right, but what|have you got against my horse?
+{32770}{32846}Really, sometimes I think...
+{32848}{32916}when things are too quiet|up there...
+{32918}{32974}you say to yourself...
+{32976}{33036}"Let's see.|What kind of mischief...
+{33038}{33106}can I play on my friend Tevye?"
+{33246}{33320}Aha! So you're finally here,|my breadwinner.
+{33322}{33362}I'll talk to you later.
+{33364}{33445}- So why are you late today?|- His foot went lame.
+{33447}{33508}Hurry. The sun won't wait.
+{33510}{33562}I have something|important to say.
+{33564}{33651}- I still have deliveries.|- You'll be late for the Sabbath.
+{33653}{33685}I won't be late.
+{33687}{33722}You'll be late.
+{33724}{33770}I won't be late.
+{33816}{33885}If you ever stop talking,|I won't be late!
+{33887}{33926}You can die from him.
+{33928}{33980}As the Good Book says...
+{33982}{34050}"Heal us, O Lord,|and we shall be healed."
+{34089}{34161}In other words,|send us the cure.
+{34163}{34221}We've got the sickness already.
+{34458}{34525}Well, I'm not really complaining.
+{34557}{34608}After all, with your help...
+{34677}{34727}I'm starving to death.
+{34764}{34813}Oh, dear Lord.
+{34919}{35016}You made many, many poor people.
+{35018}{35131}I realize, of course,|it's no shame to be poor...
+{35132}{35185}but it's no great honor either.
+{35328}{35407}So what would have been|so terrible...
+{35408}{35507}if I had a small fortune?
+{35626}{35675}If I were a rich man
+{35798}{35883}All day long|I'd biddy biddy bum
+{35885}{35971}If I were a wealthy man
+{35973}{36020}I wouldn't have to work hard
+{36144}{36232}If I were a biddy biddy rich
+{36234}{36320}Idle deedle daidle daidle man
+{36322}{36369}I'd build
+{36371}{36428}A big, tall house
+{36430}{36483}With rooms by the dozen
+{36484}{36560}Right in the middle of the town
+{36562}{36675}A fine tin roof|with real wooden floors below
+{36711}{36818}There would be one long staircase|just going up
+{36820}{36901}And one even longer coming down
+{36903}{37018}And one more leading nowhere|Just for show
+{37085}{37159}I'd fill my yard
+{37161}{37222}With chicks and turkeys and geese
+{37224}{37317}And ducks for the town|to see and hear
+{37319}{37422}Squawking just as noisily as they can
+{37459}{37505}And each loud
+{37568}{37643}Will land like|a trumpet on the ear
+{37645}{37689}As if to say
+{37691}{37810}Here lives a wealthy man
+{37948}{38008}If I were a rich man
+{38122}{38210}All day long|I'd biddy biddy bum
+{38212}{38275}If I were a wealthy man
+{38276}{38350}I wouldn't have to work hard
+{38467}{38557}If I were a biddy biddy rich
+{38559}{38655}Idle deedle daidle daidle man
+{38657}{38779}I'd see my wife, my Golde
+{38780}{38831}Looking like a rich man's wife
+{38832}{38903}With a proper double chin
+{38904}{39002}Supervising meals|to her heart's delight
+{39046}{39159}I'd see her putting on airs|and strutting like a peacock
+{39161}{39240}Oh, what a happy mood she's in
+{39242}{39348}Screaming at her servants|day and night
+{39450}{39503}The most important men in town
+{39504}{39571}Will come to fawn on me
+{39587}{39673}They will ask me to advise them
+{39675}{39767}Like Solomon the Wise
+{39769}{39855}If you please, Reb Tevye
+{39857}{39964}Pardon me, Reb Tevye
+{39966}{40100}Posing problems that|would cross a rabbi's eyes
+{40372}{40457}And it won't make|one bit of difference
+{40459}{40545}If I answer right or wrong
+{40547}{40660}When you're rich|they think you really know
+{40717}{40797}If I were rich
+{40799}{40873}I'd have the time that I lack
+{40875}{40959}To sit in the synagogue and pray
+{40961}{41074}And maybe have a seat|by the Eastern wall
+{41105}{41189}And I'd discuss the holy books
+{41191}{41301}With the learned men|seven hours every day
+{41303}{41342}And that would be
+{41344}{41453}The sweetest thing of all
+{41599}{41650}If I were a rich man
+{41770}{41857}All day long|I'd biddy biddy bum
+{41859}{41918}If I were a wealthy man
+{41920}{41995}I wouldn't have to work hard
+{42112}{42188}Lord who made|the lion and the lamb
+{42190}{42270}You decreed I should be what I am
+{42272}{42393}Would it spoil|some vast eternal plan
+{42435}{42474}If I were
+{42476}{42577}A wealthy man
+{43009}{43074}Where's your horse?
+{43075}{43167}Well, he decided|to take the day off.
+{43169}{43262}- Have a good Sabbath.|- Thank you, Your Honor.
+{43311}{43379}- Tevye, you're late.|- Where's your horse?
+{43381}{43466}- It's almost the Sabbath.|- You kept us all waiting.
+{43468}{43505}What happened to your horse?
+{43507}{43607}Look at this!|Look what it says in the paper!
+{43609}{43674}- Look.|- What's the matter, Avram?
+{43675}{43718}Sha! Quiet!
+{43743}{43861}Stop braying like a pack of mules,|and let a man talk. Talk, Avram.
+{43863}{43962}My paper came to the post office|today like it does every week.
+{43963}{44027}Usually it comes Thursday,|but sometimes...
+{44029}{44123}Avram, that's not talking.|That's babbling.
+{44125}{44194}- Tell us the news.|- What does it say?
+{44195}{44267}Quiet!|Talk, Avram.
+{44269}{44330}Well, I was reading my paper.
+{44332}{44418}It's nothing very important... a story|about the crops in the Ukraine...
+{44419}{44454}and this and that.
+{44455}{44502}Avram, talk.
+{44559}{44630}And then, I saw this.
+{44682}{44749}All right. We all see it.
+{44796}{44852}What does it say?
+{44926}{44995}"In a village called Rajanka...
+{44997}{45043}all the Jews were evicted...
+{45044}{45114}forced to leave their homes."
+{45152}{45187}For what reason?
+{45231}{45336}It doesn't say. Maybe the czar|wanted their land. Maybe a plague.
+{45338}{45384}May the czar have|his own personal plague!
+{45386}{45426}Amen!
+{45427}{45515}Why don't you ever bring us|some good news?
+{45517}{45597}It's not my fault.|I only read it.
+{45599}{45653}"An edict from the authorities."
+{45655}{45702}May the authorities|grow like onions...
+{45703}{45751}with their heads in the ground.
+{45789}{45841}What good will your cursing do?
+{45877}{45995}You stand around, curse and chatter,|and you don't do anything.
+{45996}{46060}You'll all chatter your way|into the grave.
+{46062}{46155}Excuse me.|You're not from this village.
+{46179}{46210}Where are you from?
+{46212}{46250}Kiev.
+{46252}{46293}I studied at the university.
+{46295}{46358}The university.
+{46360}{46422}Tell me, is that a place|where you learned...
+{46423}{46473}how not to respect your elders?
+{46475}{46556}That's where I learned|there is more to life than talk.
+{46558}{46655}- You need to know the outside world.|- Careful, my paper.
+{46657}{46722}Why should I break my head|about the outside world?
+{46724}{46778}Let the outside world|break its own head.
+{46780}{46827}Well put!
+{46843}{46925}He's right.|As the Good Book says...
+{46927}{47028}"If you spit in the air,|it lands in your face."
+{47030}{47076}Nonsense.
+{47078}{47147}You can't close your eyes|to what's happening in the world.
+{47197}{47226}He's right.
+{47227}{47281}He's right, and he's right?
+{47283}{47338}They can't both be right.
+{47366}{47412}You know, you are also right.
+{47414}{47486}He's too young|to wipe his own nose.
+{47488}{47555}Good Sabbath, Tevye.|The university!
+{47607}{47661}- Here. Good Sabbath.|- Good Sabbath, Tevye.
+{47745}{47840}Oh, yes. I'm sorry.|I apologize. Here.
+{47889}{47940}Tevye, the rabbi's order.
+{47942}{47976}Of course.
+{47999}{48054}So you are from Kiev, Reb...
+{48055}{48091}Perchik.
+{48117}{48183}So you are a newcomer here, huh?
+{48211}{48261}As Abraham said...
+{48263}{48358}"I'm a stranger|in a strange land."
+{48360}{48407}Moses said that.
+{48408}{48443}Forgive me.
+{48445}{48556}As King David said, "I'm slow of speech|and slow of tongue."
+{48558}{48604}That was also Moses.
+{48659}{48729}For a man with a slow tongue|he talked a lot.
+{48800}{48850}Here, Reb Perchik.
+{48852}{48906}Have a piece.
+{48908}{48974}I have no money,|and I'm not a beggar.
+{48976}{49067}Take it. It's a blessing|for me to give.
+{49118}{49174}Very well. For your sake.
+{49175}{49245}Thank you.
+{49247}{49318}You know, it's no crime|to be poor.
+{49320}{49379}In this world,|the rich are the criminals.
+{49380}{49461}- Someday their wealth will be ours.|- That would be nice.
+{49463}{49544}If they would agree, I would agree.
+{49546}{49615}Who will make this miracle|come to pass?
+{49617}{49672}People. Ordinary people.
+{49674}{49742}- Like you?|- Like me.
+{49743}{49847}Until your golden day comes,|Reb Perchik, how will you live?
+{49849}{49934}By giving lessons to children.|Do you have any children?
+{49935}{49982}I have five daughters.
+{50004}{50048}Five!
+{50050}{50092}Daughters!
+{50094}{50167}Girls should learn too.|Girls are people.
+{50169}{50206}- A radical!|- Go away.
+{50207}{50313}I'd be willing to teach them,|open their minds to great thoughts.
+{50315}{50374}I'd like them|to know the Good Book.
+{50376}{50451}The Bible has many lessons|for our times.
+{50453}{50511}Perchik...
+{50512}{50579}I'm a very poor man...
+{50581}{50667}but food for lessons, huh?
+{50669}{50733}Good. Stay with us for the Sabbath.
+{50735}{50791}Of course, we don't|eat like kings...
+{50793}{50832}but we don't starve either.
+{50834}{50919}As the Good Book says,|when a poor man eats a chicken...
+{50921}{50973}one of them is sick.
+{50975}{51016}Where does the Book say that?
+{51018}{51106}All right. It doesn't|exactly say that...
+{51108}{51186}but someplace it has something|about a chicken.
+{51187}{51242}Good Sabbath.
+{51244}{51333}- Did Yente find somebody?|- I don't know.
+{51335}{51389}- Good Sabbath, children.|- Good Sabbath, Papa.
+{51391}{51453}Children, this is Perchik.
+{51455}{51505}Perchik, this is|my eldest daughter.
+{51507}{51558}Good Sabbath. You have|a pleasant daughter.
+{51560}{51638}I have five pleasant daughters.
+{51639}{51726}This is mine, and this is mine...
+{51728}{51785}and this is mine...
+{51787}{51886}and this is mine,|and this is mine, and...
+{51919}{52001}Well, this is not mine.|This is Motel Kamzoil.
+{52003}{52092}So, you did us a favor|and came home.
+{52143}{52190}Well, this is also mine.
+{52227}{52302}This is Perchik from Kiev.
+{52304}{52380}He'll be staying the Sabbath|with us. He is a teacher!
+{52382}{52482}- Would you like to take lessons?|- I'm a good teacher.
+{52483}{52596}I heard that the rabbi who must praise|himself has a congregation of one.
+{52642}{52699}Your daughter has a quick|and witty tongue.
+{52700}{52797}The wit she gets from me.|As the Good Book says...
+{52799}{52848}The Good Book can wait.|Wash.
+{52850}{52896}The tongue she gets|from her mother.
+{52898}{52962}Motel, you're also eating with us?
+{52963}{53036}Of course. Another blessing.
+{53038}{53122}Tzeitel, get the small table.|Chava, the two chairs from outside.
+{53124}{53180}Children, finish dressing.|You can wash at the well.
+{53182}{53284}Hurry. Hodel, help them.|It's almost the Sabbath. Hurry!
+{53386}{53436}Tevye, I have something|to say to you.
+{53438}{53503}Why should today be different?
+{53504}{53560}I have something to tell you!
+{53561}{53608}Tzeitel, I have|something to tell you.
+{53609}{53668}- Yente was here.|- I saw her.
+{53670}{53754}If there's a match,|it will be too late for us.
+{53756}{53866}But I've found someone who will|sell me his sewing machine.
+{53868}{53943}So maybe in a few weeks|I can buy it, and then your father...
+{53944}{53989}That might be too late.
+{53991}{54037}Lazar Wolf wants to see you.
+{54039}{54080}The butcher?|What is it about?
+{54082}{54140}I don't know, only|he says it's important.
+{54142}{54220}I have nothing|for him to slaughter.
+{54222}{54283}After the Sabbath,|talk with him.
+{54284}{54405}About what? If he's thinking|about buying my new milk cow...
+{54407}{54453}he can forget it.
+{54455}{54495}I want you to talk...
+{54653}{54700}I want you to talk to...
+{54808}{54855}What else can I do?
+{54902}{54951}You could ask my father|for my hand tonight.
+{54953}{55000}Now.
+{55002}{55060}Why should he consider me?|I'm a poor tailor.
+{55062}{55154}I'm only a poor milkman's daughter.|Just talk to him.
+{55156}{55250}Tzeitel, if your father|says no, that's it. It's final.
+{55276}{55332}He'll yell at me.
+{55333}{55402}I'm just a poor tailor.
+{55404}{55485}Even a poor tailor|is entitled to some happiness.
+{55555}{55589}That's true.
+{55669}{55741}Amen. A man sends you an important|message, you can talk to him.
+{55743}{55780}- I don't want to...|- Talk to him!
+{55782}{55864}All right!|After the Sabbath I'll talk to him!
+{55865}{55924}All right. I'll talk to him.
+{56147}{56192}Well, it's getting late.
+{56220}{56293}- Where is everybody?|- I don't know, Papa.
+{56295}{56395}Children! Come down, children!|We are lighting the candles.
+{56396}{56491}Not now, Motel. Hurry up, children!
+{56492}{56535}Not now, Motel.
+{56561}{56617}The sun is almost down.
+{56619}{56649}What is it?
+{56704}{56750}Yes?
+{56796}{56844}Well, Motel, what is it?
+{56916}{56974}Good Sabbath, Reb Tevye.
+{57076}{57111}Hurry up.
+{57113}{57189}Hurry, children.|It's getting late.
+{58112}{58238}May the Lord|protect and defend you
+{58264}{58392}May he always|shield you from shame
+{58417}{58488}May you come to be
+{58489}{58629}In Israel a shining name
+{58731}{58851}May you be like Ruth|and like Esther
+{58877}{59010}May you be deserving of praise
+{59028}{59094}Strengthen them, O Lord
+{59096}{59224}And keep them|from the stranger's ways
+{59339}{59438}May God bless you
+{59440}{59506}And grant you long lives
+{59508}{59648}May the Lord fulfill|our Sabbath prayer for you
+{59649}{59745}May God make you
+{59747}{59809}Good mothers and wives
+{59811}{59863}May he send you husbands
+{59865}{59977}Who will care for you
+{59979}{60105}May the Lord protect and defend you
+{60131}{60248}May the Lord preserve you from pain
+{60280}{60359}Favor them, O Lord
+{60361}{60421}With happiness and peace
+{60423}{60516}Oh, hear our Sabbath prayer
+{60547}{60677}Amen
+{61179}{61226}Is Reb...
+{61276}{61331}Is Reb Lazar Wolf at home?
+{61446}{61507}Is Reb Lazar Wolf at home?
+{61508}{61559}He's in the back.
+{61561}{61612}Oh. May l...
+{61679}{61750}- Come in.|- Oh, thank you.
+{62068}{62143}And all this from|killing innocent animals?
+{62145}{62219}- Don't touch anything.|- All right.
+{62958}{63061}Well, Tevye.|You're here.
+{63063}{63149}- Well, sit down.|- Thank you.
+{63151}{63247}- Have a drink.|- I won't insult you by saying no.
+{63308}{63403}Well. How goes it with you,|Reb Tevye?
+{63405}{63474}- How should it go?|- You're right.
+{63476}{63536}- And you?|- The same.
+{63538}{63584}I'm sorry to hear that.
+{63908}{64014}How is your brother-in-law|in America?
+{64016}{64077}- He's doing very well.|- Oh, he wrote you?
+{64079}{64140}- No, not lately.|- Then how do you know?
+{64142}{64197}If he was doing badly,|he would write.
+{64579}{64626}Yes?
+{64664}{64771}I suppose you know|why I wanted to see you.
+{64773}{64850}Oh, yes, I do, but...
+{64852}{64917}there is no use talking about it.
+{65006}{65080}I understand how you feel...
+{65082}{65136}but...
+{65138}{65215}After all, you have|a few more without her.
+{65217}{65267}Ah, I see.
+{65269}{65351}Today you want one.|Tomorrow you may want two.
+{65353}{65446}Two? What would I do with two?
+{65448}{65502}The same as you do with one.
+{65833}{65903}This is very important to me.
+{65905}{65979}Why is it so important to you?
+{66014}{66061}Frankly...
+{66062}{66109}because...
+{66146}{66193}I'm Ionely.
+{66255}{66313}Lonely?
+{66315}{66408}Reb Lazar, what are|you talking about?
+{66409}{66460}How can a little cow|keep you company?
+{66461}{66538}Little cow?|Is that what you call her?
+{66540}{66619}What else should I call her? That's|what she is. What are you talking about?
+{66621}{66709}- Don't you know?|- We're talking about my milk cow...
+{66711}{66761}you want to buy from me.
+{66763}{66809}A milk cow?
+{66906}{66956}A milk cow so I won't be Ionely?
+{67104}{67168}I'm talking about...
+{67169}{67254}your daughter Tzeitel.
+{67256}{67319}My daughter Tzeitel?
+{67321}{67379}Of course.|Your daughter Tzeitel.
+{67381}{67491}I see her every Thursday|in my butcher shop...
+{67493}{67568}and she's made|a very good impression on me.
+{67570}{67617}A very good impression.
+{67680}{67724}I like her.
+{67785}{67843}Why don't we just shake hands...
+{67845}{67891}and call it a match?
+{67981}{68032}And...
+{68034}{68086}I'll be good to her.
+{68245}{68292}l...
+{68309}{68355}I like her.
+{68429}{68476}Well?
+{68516}{68595}- What do you think?|- What do I think?
+{68789}{68835}I never really liked him.
+{68881}{68983}Why should I? You can have a fine|conversation with him...
+{68985}{69061}if you talk|about kidneys and livers.
+{69063}{69101}On the other hand...
+{69135}{69207}not everyone has to be a scholar.
+{69241}{69300}And with a butcher...
+{69301}{69372}my daughter will|surely never know hunger.
+{69409}{69455}Maybe I misjudged him.
+{69505}{69552}He's a good man.
+{69604}{69650}He likes her.
+{69713}{69783}And he'll try|to make her happy.
+{69886}{69928}What do I think?
+{69961}{69997}It's a match.
+{70024}{70076}- You agree?|- I agree.
+{70141}{70201}- You've made me a happy man.|- Good.
+{70202}{70256}- Let's drink on it.|- Why not?
+{70309}{70368}- To you.|- No, my friend. To you.
+{70370}{70468}- To both of us.|- To our agreement!
+{70473}{70516}To our prosperity.
+{70574}{70642}To our good health|and happiness.
+{70687}{70738}And most important of all...
+{70840}{70902}To life, to life|Le'chayim
+{70928}{71003}Le'chayim, le'chayim|To life
+{71005}{71064}Here's to the father|I've tried to be
+{71065}{71114}Here's to my bride-to-be
+{71116}{71187}Drink le'chayim to life
+{71314}{71376}Life has a way|of confusing us
+{71378}{71428}Blessing and bruising us
+{71513}{71574}God would like us to be joyful
+{71576}{71685}Even when our hearts|lie panting on the floor
+{71687}{71752}How much more can we be joyful
+{71753}{71795}When there's really something
+{71797}{71867}To be joyful for
+{71958}{72034}- To Tzeitel, my daughter|- My wife
+{72036}{72095}It gives you|something to think about
+{72097}{72147}Something to drink about
+{72277}{72344}- Mordcha!|- Yes. What is it?
+{72345}{72405}- Drinks for everyone!|- What's the big occasion?
+{72406}{72460}I'm taking myself a bride!
+{72461}{72551}- Who's the lucky one?|- Tevye's eldest, Tzeitel!
+{72669}{72707}To Lazar Wolf
+{72709}{72750}To Tevye
+{72752}{72819}- To Tzeitel, your daughter|- My wife
+{72821}{72872}May all your futures|be pleasant ones
+{72873}{72911}Not like our present ones
+{73098}{73149}It takes a wedding|to make us say
+{73151}{73196}Let's live another day
+{73253}{73318}We'll raise a glass|and sip a drop of schnapps
+{73320}{73399}In honor of the great good luck|that favored you
+{73420}{73493}We know that when good fortune|favors two such men
+{73495}{73557}It stands to reason|we deserve it too
+{73586}{73666}To us and our good fortune
+{73668}{73736}Be happy, be healthy, long life
+{73737}{73790}And if our good fortune|never comes
+{73792}{73836}Here's to whatever comes
+{74912}{75007}Heaven bless you both
+{75057}{75136}To your health
+{75138}{75248}And may we live|together in peace
+{75250}{75304}Thank you.
+{75583}{75659}May you both be favored|with the future of your choice
+{75661}{75738}May you live to see|a thousand reasons to rejoice
+{78224}{78302}Hey! I like it!
+{80013}{80061}Drinks for everybody!
+{80188}{80234}To life!
+{80793}{80835}After...
+{80837}{80883}the marriage...
+{80885}{80946}we will be related.
+{80970}{81039}You will be my...
+{81041}{81104}papa.
+{81105}{81152}Your papa?
+{81265}{81315}Lazar Wolf...
+{81317}{81390}I always wanted a son.
+{81437}{81537}But I wanted one|a little younger than myself.
+{81817}{81863}Good night.
+{82116}{82195}I hear that congratulations|are in order, Tevye.
+{82197}{82254}Oh, thank you, Your Honor.
+{82533}{82576}Yes, Your Honor?
+{82609}{82696}I have news I think|I should tell you as a friend.
+{82725}{82821}I'm giving you this news|because I like you.
+{82823}{82905}You're an honest, decent person,|even though you are a Jew.
+{82907}{83016}Oh, thank you, Your Honor.
+{83017}{83140}How often does a man get|a compliment like that?
+{83156}{83218}And the news?
+{83220}{83275}We have received orders|that sometime soon...
+{83277}{83388}this district is to have|a little unofficial demonstration.
+{83425}{83472}What?
+{83537}{83608}A pogrom? Here?
+{83609}{83692}No. Just a little|unofficial demonstration.
+{83693}{83728}Little?
+{83754}{83814}- How little?|- Not too serious.
+{83816}{83885}Just mischief so that if|an inspector comes...
+{83887}{83933}he can see that we did our duty.
+{83969}{84060}Personally, I don't know why there has|to be trouble between people.
+{84061}{84115}But I thought I should tell you.
+{84155}{84201}Thank you, Your Honor.
+{84246}{84293}You're a good man.
+{84333}{84394}If I may say so...
+{84396}{84452}it's too bad|you're not a Jew.
+{84492}{84538}That's what I like about you.
+{84540}{84586}You're always joking.
+{84718}{84781}Congratulations again|for your daughter.
+{84783}{84852}Thank you, Your Honor.
+{84853}{84917}Oh, about the other matter,|it won't be too bad.
+{84919}{84997}- I wouldn't worry.|- Of course not.
+{85429}{85496}Dear God...
+{85497}{85588}did you have to send me|news like that...
+{85589}{85636}today of all days?
+{85689}{85784}I know, we are the chosen people...
+{85825}{85934}but once in a while,|can't you choose someone else?
+{86095}{86147}Anyway...
+{86149}{86231}thank you for sending a husband...
+{86233}{86279}for my Tzeitel.
+{87890}{88006}Now, after Jacob had worked|for Laban for seven years...
+{88008}{88055}do you know what happened?
+{88057}{88164}Laban fooled him and gave him|his ugly daughter Leah.
+{88166}{88276}So to marry Rachel, Jacob was forced|to work another seven years.
+{88277}{88312}So you see, children...
+{88313}{88373}the Bible clearly teaches us...
+{88374}{88428}you can never trust an employer.
+{88449}{88499}And that is what|the Bible teaches us?
+{88501}{88556}That is the lesson of Jacob...
+{88557}{88617}if you interpret it correctly.
+{88619}{88691}- Is your papa up yet?|- No, Mama.
+{88719}{88803}Enough lessons. Back to the house.|There's work to be done.
+{88805}{88877}Go on, children.|Another story tomorrow.
+{89017}{89080}That was a very interesting|lesson, Perchik.
+{89125}{89169}Do you think so?
+{89195}{89280}Although I don't know if the rabbi|would agree with your interpretation.
+{89322}{89412}Neither, I suppose,|would the rabbi's son.
+{89413}{89485}My little sisters|talk too much.
+{89487}{89567}What do you know about him,|except that he is a rabbi's son?
+{89569}{89652}At least I know|he doesn't have strange ideas...
+{89653}{89703}about turning|the world upside-down.
+{89705}{89749}Good day, Perchik.
+{89751}{89821}- You have wit, even intelligence.|- Thank you.
+{89822}{89883}Perhaps. But what good|is your brain?
+{89885}{89961}Without curiosity,|it is a rusty tool.
+{89963}{90045}- Good day, Hodel.|- We have an old custom here!
+{90046}{90116}A boy talks|respectfully to a girl.
+{90117}{90212}But that is too traditional|for an advanced thinker like you.
+{90214}{90310}Nothing must change. Everything|is perfect exactly as it is!
+{90312}{90405}- We like our ways.|- Our ways are changing all over.
+{90406}{90487}In the city, boys and girls|can be affectionate...
+{90489}{90535}without the permission|of a matchmaker.
+{90561}{90641}They hold hands together.|They even dance together!
+{90642}{90695}New dances, like this.
+{90848}{90894}I learned it in Kiev.
+{90980}{91061}- Do you like it?|- It's very nice.
+{91485}{91512}There.
+{91545}{91623}We've just changed|an old custom.
+{91625}{91661}Yes.
+{91709}{91770}I mean... thank you.
+{91861}{91909}I mean...
+{91911}{91957}good day!
+{92743}{92813}So, my prince is finally|out of bed.
+{92814}{92864}- Not now.|- Open your eyes.
+{92866}{92926}- Go away.|- The day's half gone.
+{92928}{92972}Well?
+{92973}{93070}Well, what happened last night|besides your drinking like a peasant?
+{93072}{93118}Did you see Lazar Wolf?
+{93217}{93307}Well, what did he say?|What did you say?
+{93309}{93355}Where...
+{93357}{93403}Where's Tzeitel?
+{93405}{93478}She's in the barn.|Do you have news for me?
+{93480}{93548}Did you talk with Lazar Wolf?|Well, what happened?
+{93549}{93612}Woman, patience.
+{93654}{93741}As the Good Book says,|good news will stay...
+{93743}{93811}and bad news|will refuse to leave.
+{93813}{93899}- And there's another saying...|- You can die from such a man!
+{93962}{94017}Did you see Lazar?|Was it friendly?
+{94019}{94102}- Sha, woman!|- Are you still drunk, or what?
+{94104}{94154}Here she is.
+{94156}{94228}Tzeitel, my lamb, come here.
+{94230}{94319}You are to be congratulated.
+{94321}{94371}You are going to be married.
+{94373}{94405}Married?
+{94407}{94462}What do you mean, Papa?
+{94491}{94554}Lazar Wolf has asked|for your hand.
+{94556}{94593}I knew it!
+{94595}{94667}- The butcher?|- Dear God, I thank thee.
+{94669}{94740}- I thank thee!|- Why do you have to...
+{94742}{94785}What do you say, Tzeitel?
+{94787}{94855}- What can she say?|- Let her say one word.
+{94857}{94927}My firstborn, a bride.
+{95006}{95109}May you grow old with him|in fortune and honor.
+{95111}{95171}Not like Fruma Sarah,|Lazar's first wife.
+{95173}{95242}She was a bitter woman.|May she rest in peace.
+{95243}{95305}Not like my Tzeitel.
+{95339}{95396}And now I must thank Yente.
+{95398}{95457}My Tzeitel, a bride.
+{95459}{95522}A bride! I thank thee!
+{95581}{95604}Well, Chaveleh?
+{95670}{95713}Mazel tov, Tzeitel.
+{95742}{95791}"Mazel tov, Tzeitel."
+{95793}{95851}What kind of|a mazel tov is that?
+{95853}{95962}You, Reb Perchik, aren't you going|to congratulate her?
+{95990}{96025}Congratulations, Tzeitel...
+{96027}{96087}for getting a rich man.
+{96118}{96208}Again with the rich.|What's wrong with being rich?
+{96210}{96297}It's no reason to marry.|Money's the world's curse.
+{96331}{96388}May the Lord|smite me with it...
+{96426}{96474}and may I never recover!
+{96515}{96549}"The world's curse."
+{96603}{96682}My Tzeitel knows|I mean only her welfare.
+{96683}{96736}Am I right, Tzeitel?
+{96738}{96799}- Yes, Papa.|- There, you see?
+{96801}{96871}I see. I see very well.
+{97125}{97177}Well, my child...
+{97179}{97250}why are you so silent?
+{97252}{97328}Aren't you happy|with this blessing?
+{97389}{97427}Papa...
+{97463}{97509}What is it? Tell me.
+{97538}{97595}Papa, I don't want|to marry him.
+{97597}{97670}I can't marry him.
+{97672}{97726}What do you mean you can't?
+{97727}{97837}If I say you will, you will.
+{97839}{97929}Papa, if it's a matter of money,|I'll do anything.
+{97931}{97985}I'll work as a servant.
+{97987}{98067}- Just don't...|- But we made an agreement!
+{98069}{98130}And with us, an agreement|is an agreement.
+{98180}{98226}Is that...
+{98251}{98332}more important than I am, Papa?
+{98447}{98510}Papa, don't force me, please!
+{98511}{98580}I'll be unhappy all my days!
+{98694}{98779}- I don't want to marry him.|- All right.
+{98827}{98878}I won't force you.
+{98879}{98971}Oh, thank you, Papa.
+{98973}{99019}"Thank you, Papa."
+{99109}{99202}It seems it was not ordained...
+{99203}{99282}that you should have|all the comforts of life.
+{99499}{99582}- Reb Tevye, may I speak to you?|- Later.
+{99584}{99668}- But I would like to speak to you.|- Not now.
+{99670}{99716}I have problems.
+{99743}{99851}That's why I want to speak to you.|I think I can help.
+{99853}{99946}Like a bandage can help a corpse.|Good-bye, Motel.
+{99947}{100031}At least listen to him, Papa.
+{100033}{100122}All right.|You have a tongue. Talk.
+{100123}{100200}I hear you are arranging|a match for Tzeitel.
+{100202}{100236}He also has ears.
+{100238}{100276}Well...
+{100303}{100388}- I have a match for Tzeitel.|- What kind of a match?
+{100390}{100449}A perfect fit.
+{100451}{100502}Like a glove.
+{100504}{100561}This match was made|exactly to measure.
+{100563}{100693}"Made to measure." Stop talking|like a tailor and tell me who is it?
+{100695}{100754}Please don't shout|at me, Reb Tevye.
+{100756}{100800}I won't shout.
+{100855}{100889}Who is it?
+{101143}{101190}It's me.
+{101225}{101266}Myself.
+{101332}{101430}It's him. Himself.
+{101432}{101506}Either you're out of your mind|or you're crazy!
+{101508}{101599}He must be crazy!|Arranging a match for yourself?
+{101601}{101703}Are you everything? The bridegroom,|the matchmaker, the guests?
+{101705}{101777}I suppose you'll|perform the ceremony yourself!
+{101779}{101838}Please don't shout at me.
+{101839}{101909}Being my own matchmaker...|I know it's a little unusual.
+{101911}{101959}Unusual? It's crazy!
+{101962}{102012}Times are changing, Reb Tevye.
+{102014}{102111}Over a year ago, your daughter and I|gave each other our pledge...
+{102113}{102159}that we would marry.
+{102283}{102338}You gave each other a pledge?
+{102530}{102568}Yes, Papa.
+{102603}{102673}We gave each other our pledge.
+{102720}{102783}They gave each other a pledge.
+{102785}{102846}Unheard of, absurd.
+{102847}{102931}You gave each other a pledge|Unthinkable
+{102966}{103057}Where do you think you are|In Moscow, in Paris
+{103059}{103103}Where do they think they are
+{103105}{103157}America
+{103159}{103244}And what do you think you're doing|You stitcher, you nothing
+{103246}{103332}Who do you think you are|King Solomon
+{103334}{103426}This isn't the way it's done|Not here, not now
+{103428}{103486}Some things I will not
+{103487}{103570}I cannot allow
+{103625}{103672}Tradition
+{103674}{103728}Marriages must be arranged
+{103730}{103782}By the papa
+{103783}{103830}This should never be changed
+{103831}{103878}One little time|you pull out the prop
+{103879}{103934}And where does it stop
+{103995}{104077}Do I still have something to say|about my daughter?
+{104079}{104149}Doesn't anyone have to ask|a father anymore?
+{104151}{104210}I've wanted to ask you for some time.
+{104212}{104284}First I wanted to save enough|for a sewing machine.
+{104286}{104348}You stop talking nonsense.
+{104350}{104398}You are just a poor tailor!
+{104399}{104494}But even a poor tailor|is entitled to some happiness!
+{104784}{104858}I promise you, your daughter|will not starve.
+{105009}{105086}He's beginning|to talk like a man.
+{105131}{105181}On the other hand...
+{105183}{105238}what kind of a match would that be...
+{105239}{105302}with a poor tailor?
+{105358}{105463}On the other hand, he is an honest,|hard worker.
+{105509}{105560}But on the other hand...
+{105562}{105622}he has absolutely nothing.
+{105659}{105740}On the other hand,|things could never get worse for him.
+{105742}{105788}They could only get better.
+{105908}{105967}They gave each other a pledge
+{105968}{106034}Unheard of, absurd
+{106035}{106090}They gave each other|a pledge
+{106091}{106127}Unthinkable
+{106159}{106226}But look at my daughter's face
+{106227}{106302}She loves him|She wants him
+{106304}{106376}And look at my daughter's eyes
+{106378}{106424}So hopeful
+{106530}{106576}Tradition!
+{106817}{106863}Well, children...
+{106894}{106940}when shall we make the wedding?
+{107023}{107069}Thank you, Papa!
+{107131}{107177}You won't be sorry.
+{107200}{107250}- I won't be sorry?|- No.
+{107252}{107299}I'm sorry already!
+{107301}{107347}Thank you, Papa.
+{107384}{107422}All right.
+{107696}{107752}They gave each other a pledge.
+{108079}{108123}What shall I tell Golde?
+{108282}{108332}You were wonderful!
+{108334}{108380}It was a miracle!
+{108406}{108473}Wonder of wonders|Miracle of miracles
+{108474}{108549}God took a Daniel once again
+{108550}{108623}Stood by his side|and miracle of miracles
+{108625}{108694}Walked him through|the lion's den
+{108695}{108773}Wonder of wonders|Miracle of miracles
+{108775}{108849}I was afraid|that God would frown
+{108851}{108922}But like he did|so long ago in Jericho
+{108924}{108994}God just made|a wall fall down
+{109075}{109148}When Moses softened|Pharaoh's heart
+{109150}{109196}That was a miracle
+{109226}{109305}When God made the waters|of the Red Sea part
+{109307}{109374}That was a miracle too
+{109376}{109453}But of all God's miracles|large and small
+{109455}{109529}The most miraculous|one of all
+{109530}{109637}Is that out of|a worthless lump of clay
+{109639}{109769}God has made a man today
+{109805}{109878}Wonder of wonders|Miracle of miracles
+{109880}{109953}God took a tailor|by the hand
+{109955}{110030}Turned him around|and miracle of miracles
+{110032}{110098}Led him to the Promised Land
+{110100}{110181}When David slew Goliath, yes
+{110182}{110229}That was a miracle
+{110257}{110344}When God gave us manna|in the wilderness
+{110346}{110457}That was a miracle too
+{110458}{110553}But of all God's miracles|large and small
+{110555}{110653}The most miraculous|one of all
+{110682}{110798}Is the one I thought|could never be
+{110842}{110958}God has given you
+{110959}{111044}To me
+{111754}{111786}Good day.
+{111788}{111829}Hello, Sarah.
+{111830}{111888}- Mazel tov, Chava.|- Thank you.
+{111890}{111935}- Soon it will be you.|- I hope so.
+{111937}{111997}- Give my best wishes to Tzeitel.|- I will.
+{112410}{112478}No, don't... Please.|I just want to pass.
+{112544}{112596}All right, stop it.
+{112598}{112641}What's wrong with you, Fyedka?
+{112643}{112726}- Just stop it.|- We're just having a little fun.
+{112727}{112783}Good-bye, Sasha.
+{112785}{112837}I said good-bye.
+{113270}{113332}I'm sorry about that.|They mean no harm.
+{113334}{113372}Don't they?
+{113703}{113750}Is there something you want?
+{113751}{113826}Yes. I'd like|to talk to you.
+{113828}{113874}I'd rather not.
+{113924}{113985}I've often noticed you|at the bookseller's.
+{113986}{114079}Not many girls in this village|like to read.
+{114081}{114173}Would you like to|borrow this book?
+{114174}{114221}It's very good.
+{114378}{114405}Thank you.
+{114407}{114461}Why?
+{114463}{114510}Because I'm not Jewish?
+{114556}{114598}Do you feel about me...
+{114600}{114669}the way they feel about you?
+{114670}{114717}I didn't think you would.
+{114762}{114847}And what do you|know about me, eh?
+{114849}{114920}Let me tell you about myself.
+{114922}{115002}I'm a pleasant fellow.|Charming...
+{115003}{115113}honest, ambitious, quite bright...
+{115133}{115179}and very modest.
+{115390}{115473}Go ahead.|Take the book...
+{115474}{115534}and after you return it...
+{115535}{115574}I'll ask you how you like it...
+{115576}{115646}and we can talk|about it for a while.
+{115647}{115685}Then we can talk about life...
+{115687}{115761}how we feel about things.
+{115788}{115822}Here.
+{116076}{116114}Thank you.
+{116198}{116236}Good day, Chava.
+{116238}{116268}Good day.
+{117514}{117555}- Help!|- Tevye, what's the matter?
+{117557}{117646}- Motel, Tzeitel, help!|- Wake up! What is the matter?
+{117648}{117690}Wake up!
+{117692}{117739}- Where is she?|- Where? Who?
+{117741}{117799}- Where is she?|- What are you talking about?
+{117801}{117874}Fruma Sarah,|Lazar Wolf's first wife.
+{117876}{117921}She was standing here a minute ago.
+{117922}{117981}What are you talking about?
+{117982}{118069}Fruma Sarah's been dead for years.|Sha!
+{118071}{118125}- You must have been dreaming.|- Yes.
+{118206}{118250}Now...
+{118252}{118298}tell me what you dreamt...
+{118300}{118375}and I'll tell you what it meant.
+{118377}{118438}- It was terrible.|- Tell me.
+{118440}{118473}All right...
+{118474}{118536}only don't be frightened!
+{118612}{118670}In the beginning...
+{118672}{118718}I dreamt that...
+{118766}{118812}we were having...
+{118838}{118893}a celebration of some kind.
+{118969}{119033}Everybody we knew...
+{119034}{119108}all of our beloved departed...
+{119110}{119148}were there.
+{119202}{119265}All of them...
+{119266}{119341}even your|Great Uncle Mordechai...
+{119342}{119390}was there...
+{119415}{119500}and your cousin Rachel|was there.
+{119502}{119545}And in the middle of the dream...
+{119547}{119649}in walks your grandmother Tzeitel,|may she rest in peace.
+{119650}{119720}Grandmother Tzeitel!|How did she look?
+{119722}{119773}Well, for a woman|who's dead 30 years...
+{119774}{119840}she looked very good.
+{119842}{119918}Naturally, I went up|to greet her.
+{119920}{119959}A blessing on your head
+{119961}{120010}Mazel tov, mazel tov
+{120012}{120047}To see a daughter wed
+{120094}{120180}And such a son-in-law|Like no one ever saw
+{120182}{120248}The tailor Motel Kamzoil
+{120279}{120314}A worthy boy is he
+{120366}{120404}Of pious family
+{120444}{120492}They named him after my
+{120494}{120534}Dear Uncle Mordechai
+{120535}{120583}The tailor Motel Kamzoil
+{120585}{120648}Tailor?|She must have heard wrong.
+{120650}{120698}- She meant the butcher.|- I'll tell her.
+{120700}{120786}You must have heard wrong, Grandma
+{120787}{120849}There's no tailor
+{120880}{120960}You mean the butcher, Grandma
+{120962}{120998}By the name of Lazar Wolf
+{121000}{121107}No, no, no|I mean the tailor, Tevye
+{121108}{121178}My great-grandchild
+{121180}{121265}My little Tzeitel|who you named for me
+{121267}{121358}Motel's bride was meant to be
+{121360}{121398}For such a match I prayed
+{121442}{121480}In heaven it was made
+{121529}{121572}A fine upstanding boy
+{121574}{121613}A comfort and a joy
+{121615}{121672}The tailor Motel Kamzoil
+{121722}{121798}- Stop it!|- We made a bargain with the butcher.
+{121800}{121848}A blessing on your house
+{121893}{121931}Imagine such a spouse
+{121965}{122041}And such a son-in-law|like no one ever saw
+{122043}{122082}The tailor Motel Kamzoil
+{122084}{122152}- But he's a butcher!|- The tailor Motel Kamzoil
+{122154}{122230}His name is Lazar Wolf!|The tailor Motel Kamzoil
+{122299}{122355}- Look|- Who is this
+{122357}{122397}- Who comes here|- Who, who
+{122477}{122547}What woman is this|by righteous anger shaken
+{122549}{122585}- Could it be|- Sure
+{122587}{122624}- Yes, it could|- Why not
+{122626}{122680}Who could be mistaken
+{122731}{122797}It's the butcher's wife|come from beyond the grave
+{122799}{122834}Oh, here she comes.
+{122836}{122909}It's the butcher's dear|darling, departed wife
+{122911}{122938}Fruma Sarah
+{123168}{123271}What is this about your daughter|marrying my husband
+{123273}{123364}Would you do this to your friend|and neighbor, Fruma Sarah
+{123366}{123463}Have you no consideration|for a woman's feelings
+{123465}{123559}Handing over my belongings|to a total stranger
+{123561}{123646}How can you allow it, How can you|let your daughter take my place
+{123648}{123695}Live in my house, carry my keys
+{123696}{123758}And wear my clothes, pearls
+{123759}{123815}How can you allow your daughter|to take her place
+{123817}{123839}- Pearls|- House
+{123841}{123862}- Pearls|- Keys
+{123864}{123907}- Pearls|- Clothes
+{124103}{124199}Such a learned man as Tevye|wouldn't let it happen
+{124201}{124299}Tell me that it isn't true|and then I wouldn't worry
+{124301}{124399}Say you didn't give your blessing|to your daughter's marriage
+{124401}{124498}Let me tell you what would follow|such a fatal wedding
+{124725}{124829}If Tzeitel marries Lazar Wolf
+{124863}{124910}I pity them both
+{124950}{125074}She'll live with him three weeks
+{125075}{125138}And when three weeks are up
+{125159}{125227}I'll come to her by night
+{125264}{125362}I'll take her by the throat
+{125364}{125408}This I'll give your Tzeitel
+{125410}{125456}This I'll give your Tzeitel
+{125769}{125807}Jump!
+{125863}{125923}Here's my wedding present
+{125925}{126018}If she marries Lazar Wolf
+{126083}{126138}Oh, spirit, away!
+{126140}{126194}Such an evil spirit.
+{126196}{126283}May it sink back into the earth.
+{126285}{126374}Such a dark and horrible dream.
+{126376}{126408}It was brought on...
+{126410}{126462}because you went|to see that butcher.
+{126530}{126619}My grandmother Tzeitel,|may she rest in peace...
+{126621}{126690}took the trouble to come|from the other world...
+{126692}{126735}to tell us about the tailor.
+{126737}{126830}All I can say is that it's for the best|and couldn't be any better.
+{126831}{126885}- But, Golde...|- Amen.
+{126887}{126925}Amen.
+{128617}{128665}Do you like|these troublemakers?
+{128667}{128745}- These Christ killers?|- Of course not.
+{128747}{128841}I just meant that things have|been peaceful here.
+{128946}{129002}I have other|villages to visit.
+{129003}{129114}If you don't want to follow orders,|we shall get someone else who will.
+{129115}{129160}No, sir.
+{129162}{129212}I'll take care of it,|of course.
+{131984}{132040}Quiet down!
+{133132}{133197}Is this the little girl
+{133199}{133292}I carried
+{133294}{133410}Is this the little boy|at play
+{133455}{133592}I don't remember|growing older
+{133618}{133721}When did they
+{133763}{133824}When did she get to be
+{133826}{133919}A beauty
+{133921}{134030}When did he grow|to be so tall
+{134075}{134138}Wasn't it yesterday
+{134139}{134270}When they were small
+{134428}{134507}Sunrise, sunset
+{134572}{134705}Swiftly flow the days
+{134731}{134803}Seedlings turn overnight
+{134805}{134887}To sunflowers
+{134888}{135001}Blossoming even as we gaze
+{135199}{135326}Swiftly fly the years
+{135351}{135423}One season following
+{135424}{135505}Another
+{135507}{135590}Laden with happiness
+{135591}{135666}And tears
+{135802}{135862}What words of wisdom
+{135863}{135965}Can I give them
+{135967}{136088}How can I help|to ease their way
+{136127}{136174}Now they must learn
+{136176}{136278}From one another
+{136279}{136396}Day by day
+{136431}{136495}They look so natural
+{136497}{136580}Together
+{136582}{136691}Just like two|newlyweds should be
+{136735}{136851}Is there a canopy in store
+{136852}{136940}For me
+{139700}{139735}Quiet down!
+{143850}{143901}That was really beautiful.
+{143945}{144004}Take your places, everybody.
+{144006}{144063}Quiet! Quiet down!
+{144280}{144317}The newlyweds.
+{144319}{144376}Friends...
+{144378}{144459}we are gathered here|to share in the joys...
+{144461}{144534}of the newlyweds,|Motel and Tzeitel.
+{144536}{144655}May they live together|to a ripe old age. Amen!
+{144687}{144738}And now I want to say...
+{144809}{144889}Please! Not here!
+{144890}{144971}Now I'd like to announce|that the bride's parents...
+{144973}{145029}are giving the newlyweds|the following:
+{145030}{145065}a new feather bed...
+{145086}{145121}two pillows...
+{145122}{145185}Goose pillows.
+{145186}{145240}A Sabbath tablecloth...
+{145267}{145345}and a pair of candlesticks.
+{145384}{145438}Quiet!
+{145440}{145558}Now, we are just here on earth|for a short visit.
+{145560}{145654}Even the great|and wealthy must die.
+{145656}{145777}In fact, if the rich could|hire others to die for them...
+{145779}{145865}we, the poor, would all|make a nice living.
+{145891}{145923}Well put.
+{145982}{146069}Lazar Wolf.|Talking about the rich.
+{146071}{146173}There sits our|good friend Lazar Wolf.
+{146174}{146241}Lazar has everything|in the world...
+{146242}{146289}except a bride.
+{146334}{146415}But Lazar has|no ill feelings.
+{146417}{146511}In fact, he has|a gift for the newlyweds...
+{146513}{146559}that he himself|wants to announce.
+{146561}{146633}Come on, Lazar.
+{146713}{146762}Just like he said...
+{146764}{146839}I have no ill feelings.
+{146841}{146931}What's done is done.
+{146933}{147061}I am giving the newlyweds|five chickens...
+{147063}{147149}one for each of the first|five Sabbaths...
+{147151}{147224}of their wedded life.
+{147418}{147529}Reb Lazar Wolf,|you are a decent man...
+{147531}{147580}and on behalf|of my daughter...
+{147582}{147661}and her new husband...
+{147663}{147700}I accept your gift.
+{147728}{147805}There is a famous|saying that...
+{147807}{147865}I am not marrying your daughter.
+{147867}{147929}I don't have to listen|to your sayings.
+{147930}{148007}- If you would only listen...|- Why should I listen?
+{148009}{148111}A man who breaks an agreement...|I have a right to talk!
+{148113}{148169}What right?|It's not your wedding.
+{148170}{148206}It should have been!
+{148207}{148250}But it's not, thank goodness.
+{148252}{148317}- Don't shame Tevye...|- He shamed me...
+{148318}{148379}in front of the whole village.
+{148381}{148416}He shamed me!
+{148502}{148548}Rabbi, say something.
+{148574}{148613}I say...
+{148615}{148647}Yeah.
+{148649}{148716}I say let's sit down.
+{148766}{148865}Yes. Well, we all heard|the words of the rabbi.
+{148866}{148903}Let's sit down.
+{148905}{148981}Now I'm going|to sing a little song.
+{149196}{149244}I don't want that.|Leave me alone.
+{149326}{149387}You can keep your|diseased chickens!
+{149389}{149460}You leave my chickens|out of this!
+{149462}{149543}- We made a bargain!|- The terms weren't settled!
+{149545}{149582}We drank on it!
+{149608}{149653}Just sit down, all right?
+{149655}{149710}Once a butcher,|always a butcher.
+{149712}{149796}- Once a liar, always a liar.|- Sit down!
+{149798}{149903}Those happen to be my chickens.|That man...
+{149905}{149942}I had a sign!
+{149944}{150020}Quiet, I'm singing.
+{150023}{150108}Quiet!
+{150108}{150160}What's all|the screaming about?
+{150162}{150224}"They drank on it."|"An agreement."
+{150225}{150297}"A sign."|It's all nonsense.
+{150298}{150367}Tzeitel wanted to marry|Motel and not Lazar.
+{150369}{150425}A young girl|decides for herself?
+{150426}{150478}Why not?|They love each other.
+{150480}{150526}- Love?|- Terrible.
+{150528}{150591}- He's a radical.|- Musicians, play.
+{150593}{150675}It's a dance. Everybody dance.
+{150677}{150727}- It's a wedding!|- Some wedding.
+{150729}{150804}- What is he doing?|- Who will dance with me?
+{150845}{150900}- That's a sin.|- It's no sin to dance.
+{150901}{150942}- But with a girl?|- Yes!
+{150944}{151019}That's what comes of taking a wild man|into your house.
+{151021}{151114}He's not a wild man!|He is a little bit different.
+{151116}{151162}- Come on.|- It's a sin.
+{151164}{151225}It's no sin.|Ask the rabbi.
+{151227}{151282}Go on, ask him.
+{151317}{151363}Well, rabbi?
+{151365}{151411}Dancing?
+{151413}{151532}- It's not exactly forbidden, but...|- Well, there you see!
+{151534}{151597}- It's not forbidden!|- And it's no sin.
+{151599}{151660}Now, who will dance with me?
+{151827}{151874}He's asking her to dance!
+{151989}{152058}It's only a dance, Mama.
+{152125}{152172}Play!
+{152337}{152375}Say something.
+{152574}{152612}She's dancing with a man!
+{152614}{152697}I can see that she's|dancing with a man!
+{152783}{152849}And I'm going to dance|with my wife!
+{152914}{152952}Mama, no!
+{153123}{153157}- No, I will not.|- Tzeitel!
+{153346}{153432}See that? You are|responsible for that...
+{153433}{153484}and I can't stand it!
+{153485}{153508}I tried my best!
+{153749}{153807}Everybody dance!
+{154277}{154336}Come on!|Dance, rabbi, dance!
+{156258}{156305}All right! Enough!
+{156452}{156488}I said enough!
+{156490}{156528}Come!
+{156927}{157009}Orders are orders,|you understand?
+{157897}{157935}Well...
+{157986}{158057}why are you all|standing around?
+{158090}{158128}Clean up!
+{162994}{163051}Tradition
+{163888}{163960}Troubles, troubles.
+{163997}{164053}That's all you hear from me, right?
+{164079}{164166}But who else|can we simple people...
+{164168}{164229}take our troubles to?
+{164271}{164339}You know, sometimes I wonder.
+{164340}{164399}Who do you take your troubles to?
+{164496}{164543}Go away.
+{164689}{164799}Anyway, Motel and Tzeitel|have been married for some time now.
+{164859}{164905}They work very hard.
+{164931}{164980}And...
+{164982}{165060}they're as poor|as squirrels in winter.
+{165109}{165224}But they're so happy|they don't know how miserable they are.
+{165392}{165464}Motel keeps talking|about a sewing machine.
+{165489}{165579}I know.|You are very busy now.
+{165580}{165640}Wars, revolutions,|floods, plagues...
+{165642}{165768}all those little things|that bring people back to you.
+{165770}{165896}But couldn't you take a second|and get him his sewing machine?
+{165926}{166032}And while you're in the neighborhood...
+{166059}{166149}as you can see,|my horse's leg is...
+{166151}{166205}Am I bothering you too much?
+{166207}{166247}I'm sorry.
+{166248}{166308}As the Good Book says...
+{166337}{166434}Why should I tell you|what the Good Book says?
+{166612}{166673}So you must go away?
+{166675}{166722}Yes.
+{166724}{166780}So soon?
+{166782}{166828}Yes.
+{166829}{166876}Tomorrow morning.
+{166996}{167053}- Alone?|- No. With a few friends.
+{167055}{167095}We'll be joining others.
+{167096}{167143}- Where?|- In the city... Kiev.
+{167181}{167288}Hodel, there are some things|I cannot tell even you.
+{167326}{167372}I see.
+{167403}{167443}Don't be upset.
+{167445}{167509}Why should I be upset?|If you must leave, you must.
+{167511}{167549}I do have to.
+{167551}{167644}- So you've told me.|- Great changes are about to take place.
+{167645}{167692}Tremendous changes.
+{167693}{167751}But they can't happen|by themselves.
+{167752}{167799}So you feel that you personally...
+{167800}{167851}Not only me!|Many people!
+{167852}{167959}Jews, Gentiles... many people hate|what's going on. Don't you understand?
+{167960}{168026}I understand, of course.
+{168028}{168066}You want to leave.
+{168092}{168151}Then good-bye.
+{168177}{168221}Hodel, listen to me!
+{168223}{168288}I have work to do.
+{168290}{168351}The greatest work|a man can do.
+{168417}{168464}Don't you understand?
+{168513}{168556}Yes, Perchik.
+{168745}{168797}Wait!
+{168799}{168839}There's a question...
+{168841}{168905}a certain question|I wish to discuss with you.
+{168907}{168970}- Yes?|- It's a political question.
+{168972}{169055}- What is it?|- The question of marriage.
+{169147}{169211}Is this a political question?
+{169213}{169261}Well, yes.
+{169263}{169332}Everything's political.
+{169333}{169407}Like everything else, the relationship|between a man and a woman...
+{169408}{169466}has a socioeconomic base.
+{169513}{169637}Marriage must be founded|on mutual beliefs.
+{169639}{169700}A common attitude|and philosophy towards society.
+{169702}{169765}And affection?
+{169767}{169830}Well, yes. Of course.
+{169832}{169878}That is also necessary.
+{169904}{170018}Such a relationship|can have positive social values.
+{170020}{170119}When two people face the world|with unity and solidarity...
+{170121}{170163}And affection!
+{170164}{170235}Yes, that is an important element!
+{170315}{170367}At any rate, l...
+{170368}{170488}I personally am in favor|of such a socioeconomic relationship.
+{170569}{170616}I think...
+{170652}{170711}you're asking me to marry you.
+{170762}{170803}Well...
+{170805}{170860}in a theoretical sense.
+{170862}{170905}Yes, I am.
+{170960}{171004}I was hoping you were.
+{171106}{171167}I'm very happy, Hodel.
+{171193}{171255}I'm very, very happy.
+{171991}{172074}- Good afternoon.|- Good afternoon, Reb Tevye.
+{172076}{172123}I have some bad news.
+{172125}{172183}- What?|- I must leave here.
+{172184}{172250}- When?|- Tomorrow morning.
+{172252}{172330}I'm sorry to hear that.
+{172332}{172403}- We'll all miss you.|- But I also have some good news.
+{172404}{172462}- Good.|- You can congratulate me.
+{172463}{172532}- Congratulations. What for?|- We are engaged.
+{172556}{172616}- Engaged?|- Yes, Papa. We're engaged.
+{172618}{172661}No, you're not.
+{172663}{172744}I know. You like him,|and he likes you.
+{172746}{172837}But you're going away,|and you're staying here.
+{172839}{172912}So have a nice trip.|I hope you'll be happy.
+{172914}{173000}- And my answer is no!|- Please, Papa. You don't understand.
+{173002}{173041}I understand.
+{173043}{173168}I gave permission to Motel and Tzeitel,|so you feel you also have a right.
+{173170}{173248}I'm sorry. I like you.
+{173250}{173325}But you're going away.|So go in good health.
+{173327}{173419}- And my answer is still no!|- You don't understand.
+{173420}{173478}And you are not listening.|I said no!
+{173479}{173554}Reb Tevye,|we're not asking for your permission.
+{173556}{173616}Only for your blessing.
+{173642}{173698}We are going to get married.
+{173855}{173949}You are not asking|for my permission?
+{174003}{174080}But we would like your blessing, Papa.
+{174187}{174255}I can't believe my own ears.
+{174257}{174320}My blessing? For what?
+{174322}{174368}For going over my head
+{174370}{174425}Impossible
+{174427}{174473}At least with Tzeitel and Motel
+{174475}{174520}They asked me|They begged me
+{174522}{174563}But now, if I like it or not
+{174565}{174614}You'll marry him
+{174615}{174656}What do you want from me
+{174658}{174704}Go on|Be wed
+{174706}{174814}And tear out my beard|and uncover my head
+{174893}{174938}Tradition
+{174939}{174995}And not even asking permission
+{174997}{175052}From the papa
+{175054}{175109}What's happening to the tradition
+{175111}{175162}One little time|I pulled out a thread
+{175163}{175220}And where has it led
+{175222}{175279}Where has it led? To this!
+{175281}{175345}A man tells me he's getting married!
+{175347}{175393}He doesn't ask me. He tells me!
+{175395}{175450}But first he abandons you.
+{175452}{175499}He's not abandoning me!
+{175501}{175578}As soon as I can,|I'll send for her and marry her.
+{175604}{175645}I love her.
+{175718}{175780}He loves her.
+{175795}{175837}Love.
+{175839}{175880}It's a new style.
+{175906}{175948}On the other hand...
+{175950}{176026}our old ways|were once new, weren't they?
+{176059}{176142}On the other hand,|they decided without parents...
+{176144}{176195}without the matchmaker!
+{176223}{176271}One the other hand...
+{176273}{176343}did Adam and Eve|have a matchmaker?
+{176395}{176456}Yes, they did.
+{176486}{176578}And it seems these two|have the same matchmaker.
+{176699}{176758}They're going over my head.
+{176759}{176820}Unheard of. Absurd!
+{176822}{176895}For this, they want to be blessed
+{176897}{176964}Unthinkable
+{176966}{177032}I'll lock her up in her room
+{177034}{177103}I couldn't|I should
+{177104}{177189}But look at my daughter's eyes
+{177191}{177247}She loves him
+{177336}{177424}Tradition
+{177563}{177693}Well, children. I've decided to give you|my blessing and my permission!
+{177744}{177791}Thank you, Papa!
+{177840}{177918}- What else could I do?|- Thank you, Papa.
+{178033}{178095}What am I going to tell your mother?
+{178097}{178143}Another dream?
+{178212}{178252}Perhaps if you tell her...
+{178254}{178302}that I'm going to visit a rich uncle!
+{178303}{178413}Perchik, please!|I can handle my own wife!
+{178621}{178698}- Hello, Golde.|- Have some soup.
+{178859}{178934}I have something|very important to tell you.
+{178936}{178977}Have the soup.
+{178979}{179029}It's warm.
+{179199}{179306}- I've just met Perchik and Hodel.|- Well?
+{179433}{179518}Well, they seem to be|very fond of each other.
+{179520}{179577}So? What do you mean?
+{179579}{179613}So...
+{179695}{179828}So, I've decided to give them|my permission to become engaged.
+{179830}{179875}- I'll eat later...|- What?
+{179877}{179956}Just like that?|Without even asking me?
+{179958}{180038}Who asks you?
+{180039}{180107}- I'm the father!|- Who is he?
+{180109}{180203}A pauper! He has absolutely nothing!
+{180279}{180337}I wouldn't say that!
+{180403}{180497}I hear he has a rich uncle.
+{180499}{180545}A rich uncle!
+{180755}{180801}Golde, he's a good man.
+{180831}{180935}I like him. He's a little crazy,|but I like him.
+{180965}{181058}And what's more important...
+{181109}{181155}Hodel likes him.
+{181190}{181230}Hodel loves him.
+{181307}{181353}So what can we do?
+{181423}{181473}It's a new world.
+{181631}{181665}Love.
+{181826}{181884}Do you love me
+{181886}{181922}Do I what?
+{181952}{182020}Do you love me
+{182022}{182077}Do I love you
+{182079}{182115}Well?
+{182117}{182220}With our daughters getting married|and this trouble in the town
+{182222}{182318}You're upset, you're worn-out|Go inside, go lie down
+{182320}{182376}Maybe it's indigestion.
+{182378}{182456}No, Golde.|I'm asking you a question.
+{182482}{182547}Do you love me
+{182549}{182626}- You're a fool!|- I know.
+{182627}{182706}But do you love me
+{182707}{182790}- Do I love you|- Well?
+{182791}{182860}For 25 years|I've washed your clothes
+{182862}{182925}Cooked your meals|cleaned your house
+{182927}{182997}Given you children|milked your cow
+{182999}{183100}After 25 years|why talk about love right now
+{183163}{183272}The first time I met you|was on our wedding day
+{183274}{183327}- I was scared|- I was shy
+{183329}{183406}- I was nervous|- So was I
+{183407}{183544}But my father and my mother|said we'd learn to love each other
+{183546}{183622}And now I'm asking|Golde
+{183624}{183686}Do you love me
+{183688}{183759}- I'm your wife|- I know!
+{183761}{183833}But do you love me
+{183861}{183955}- Do I love him|- Well?
+{183985}{184046}For 25 years|I've lived with him
+{184048}{184122}Fought with him|starved with him
+{184124}{184219}Twenty-five years|my bed is his
+{184221}{184312}If that's not love, what is
+{184314}{184405}Then you love me
+{184407}{184472}I suppose I do
+{184531}{184660}And I suppose I love you too
+{184719}{184799}It doesn't change a thing
+{184825}{184903}But even so
+{184932}{185018}After 25 years
+{185091}{185186}It's nice to
+{185188}{185248}Know
+{185892}{185930}Halt!
+{186105}{186202}There is no authority|above the will of the people.
+{186204}{186252}And we are the people!
+{186253}{186343}We are Russia!
+{186392}{186487}The time has come,|and the time is now.
+{186516}{186604}We stand here before you,|not one, but many.
+{186606}{186726}Many, like you...|students, workers...
+{186728}{186804}striving for a better life.
+{186806}{186872}And I urge you, fellow workers...
+{186874}{186937}to band together with us.
+{186939}{186992}Join our movement.|In the factories!
+{187048}{187163}In the schools!|In the army!
+{187165}{187223}The winds of freedom...
+{187225}{187312}are beginning to blow|all over Russia!
+{187781}{187831}Halt.
+{188036}{188095}Wait! Stand!
+{188168}{188254}Wait, fellow workers!|Don't let them break up our meeting!
+{188256}{188310}We have our rights!
+{188697}{188755}- So I found a girl...|- Good day to you, Esther.
+{188793}{188867}She didn't like her.|Just a minute.
+{188869}{188910}Tzeitel!
+{188912}{188976}- Good day, Yente.|- Tzeitel!
+{188978}{189096}I happened to stop in the post office|today to say hello... see what's what.
+{189098}{189165}It doesn't cost anything|to be friendly.
+{189167}{189226}So few people are like that.
+{189252}{189367}People! I tell you,|if God lived on Earth...
+{189369}{189426}people would break his windows.
+{189428}{189509}- So you went to the post office?|- The postman told me...
+{189511}{189579}there was a letter|for your sister Hodel.
+{189580}{189649}- Thanks. I'll go get it.|- I got it.
+{189651}{189723}It's from her intended, Perchik.
+{189725}{189823}Hodel will be so happy. She's been|waiting to hear from him for...
+{189825}{189920}- But it's opened.|- So it happened to be opened.
+{190558}{190613}You don't have to wait|for the train.
+{190615}{190661}You'll be late for your customers.
+{190687}{190737}It's all right.
+{190739}{190791}They'll just have to wait|for a while.
+{191040}{191118}Is he in bad trouble...
+{191120}{191171}that hero of yours?
+{191260}{191295}Arrested?
+{191361}{191452}- Convicted?|- Yes. But he did nothing wrong.
+{191454}{191502}He cares nothing for himself.
+{191504}{191550}Everything he does|is for other people.
+{191552}{191663}But if he did nothing wrong,|he wouldn't be in trouble.
+{191664}{191751}Oh, Papa. How can you say that?
+{191752}{191821}What wrongs did Joseph do?
+{191823}{191878}And Abraham? And Moses?
+{191880}{191935}And they had troubles.
+{191937}{192002}Yes, but...
+{192004}{192095}But why won't you tell me...
+{192097}{192192}where he is now,|this Joseph of yours?
+{192243}{192289}It is far, Papa.
+{192342}{192388}Terribly far.
+{192468}{192522}He is in a settlement in Siberia.
+{192649}{192775}And he asks you|to leave your father and mother...
+{192777}{192866}and join him in that frozen wasteland...
+{192868}{192915}and marry him there?
+{192916}{192955}No, Papa.
+{192957}{193021}He did not ask me to go.
+{193023}{193082}I want to go.
+{193084}{193134}I don't want him to be alone.
+{193136}{193205}I want to help him in his work.
+{193294}{193400}How can I hope to make you understand
+{193402}{193458}Why I do
+{193460}{193532}What I do
+{193534}{193650}Why I must travel|to a distant land
+{193652}{193759}Far from the home I love
+{193761}{193879}Once I was happily content to be
+{193881}{193939}As I was
+{193941}{194009}Where I was
+{194011}{194124}Close to the people|who are close to me
+{194126}{194215}Here in the home I love
+{194268}{194353}Who could see that a man would come
+{194355}{194458}Who would change the shape|of my dreams
+{194460}{194599}Helpless now|I stand with him
+{194600}{194651}Watching
+{194653}{194789}Older dreams grow dim
+{194827}{194933}Oh, what a melancholy choice this is
+{194959}{195022}Wanting home
+{195024}{195080}Wanting him
+{195082}{195211}Closing my heart|to every hope but his
+{195212}{195316}Leaving the home I love
+{195370}{195482}There where my heart|has settled long ago
+{195484}{195543}I must go
+{195666}{195728}Who could imagine
+{195730}{195804}I'd be wandering so
+{195806}{195904}Far from the home I love
+{195932}{195982}Yet
+{195984}{196077}There with my love
+{196104}{196188}I'm home
+{196737}{196799}And who, my child will there be...
+{196801}{196859}to perform a marriage...
+{196860}{196927}there in the wilderness?
+{196928}{196978}Papa, I promise you.
+{196980}{197047}We will be married under a canopy.
+{197048}{197083}Yes.
+{197179}{197259}No doubt, a rabbi or two...
+{197260}{197314}were also arrested.
+{198378}{198412}Papa!
+{198452}{198528}God alone knows|when we shall see each other again.
+{198575}{198674}Then we will leave it in his hands.
+{199572}{199619}Take care of her.
+{199695}{199762}See that she dresses warm.
+{200159}{200275}Even though she only|burned his cooking...
+{200277}{200335}he is permitted to divorce her!
+{200337}{200444}- Just for supper?|- That's what it says.
+{200446}{200506}- I'm sorry, Rabbi...|- Yes, of course.
+{200508}{200558}What news of the outside world, Avram?
+{200560}{200623}- It's terrible!|- Then don't tell me!
+{200625}{200731}If I want bad news,|I'll read about Noah and the flood.
+{200786}{200829}Tell me, Avram.
+{200831}{200931}Surely somewhere|there are good things happening?
+{200933}{201027}Can't you buy a paper|that prints those things?
+{201029}{201109}It's not my fault!|I only read it!
+{201111}{201175}- Rabbi! Did you hear the news?|- More bad news?
+{201177}{201291}No! Good news!|At Motel and Tzeitel's! A new arrival!
+{201482}{201566}We just heard the good news!|Mazel tov!
+{201568}{201620}Thank you very much.
+{201622}{201668}- It's a nice thing.|- Yes, it is.
+{201670}{201718}- Very nice.|- Thank you.
+{201720}{201805}- What is it?|- It's a sewing machine!
+{201807}{201856}It can work twice as fast.
+{201858}{201905}You got it!
+{201907}{201948}I got it!
+{201950}{202006}- It's beautiful.|- I know.
+{202008}{202057}- Have you tried it yet?|- Look!
+{202095}{202134}- Beautiful!|- I know!
+{202135}{202229}And in less than a minute!|See how close and even the stitches are?
+{202231}{202274}- It's beautiful!|- I know!
+{202276}{202353}From now on my clothes will be perfect!
+{202355}{202456}Made by machine!|No more handmade clothes!
+{202483}{202527}Look, Mama!
+{202597}{202651}It's wonderful!
+{202689}{202723}The rabbi!
+{202867}{202929}Rabbi, is there a blessing|for a sewing machine?
+{202931}{203015}There is a blessing for everything.
+{203239}{203341}That's your new arrival?|What is it, a boy or a girl?
+{203343}{203390}Well put.
+{203445}{203511}Yankeleh!
+{203568}{203613}Why isn't he asleep?
+{203615}{203658}Oh, Mama. But he's wonderful!
+{203660}{203710}He never cries or any...
+{203712}{203757}Do you want to invite bad luck?
+{203804}{203863}Well, Motel!
+{203894}{203944}I never thought|you'd amount to anything.
+{203946}{204054}But look at you!|A baby, a new sewing machine.
+{204079}{204109}You're a person.
+{204140}{204207}- I'll show you how it works.|- Go, children!
+{204292}{204342}First you put the cloth in, like this.
+{204343}{204443}It's an amazing thing. You work it|with your foot and your hand.
+{204667}{204707}Your father is coming.
+{204785}{204840}Chava, let me talk to him.|Let me tell him about us.
+{204842}{204902}No, Fyedka.|That would be the worst thing.
+{204904}{204955}- But let me try!|- No!
+{204957}{205042}I'll talk to him.|I promise.
+{205214}{205261}Good afternoon, sir.
+{205293}{205339}Good afternoon.
+{205427}{205496}It's a cold day, isn't it?
+{205632}{205666}Well...
+{205716}{205763}Good day, sir.
+{205804}{205875}- Good day, Chava.|- Good day.
+{206012}{206103}What were you and he talking about?
+{206105}{206164}Nothing. We were just talking.
+{206215}{206254}Good.
+{206302}{206335}Papa!
+{206375}{206472}Fyedka and l... We've known each other|for a long time now.
+{206474}{206518}Chaveleh...
+{206520}{206578}I would be much happier...
+{206579}{206673}if you would remain friends|from a distance.
+{206675}{206757}You must not forget who you are...
+{206759}{206809}and who that man is.
+{206839}{206903}- He has a name, Papa.|- Of course.
+{206904}{206971}All creatures on Earth|have a name.
+{206973}{207026}Fyedka's not a creature, Papa.
+{207028}{207096}- Fyedka is a man!|- Who says he isn't?
+{207133}{207224}It's just that he's|a different kind of man.
+{207247}{207303}As the Good Book says...
+{207304}{207378}"Each shall seek his own kind."
+{207380}{207485}In other words,|a bird may love a fish...
+{207487}{207558}but where would they build|a home together?
+{207660}{207744}- The world is changing, Papa!|- No, Chaveleh.
+{207770}{207808}No.
+{207810}{207870}Some things do not change for us.
+{207898}{207953}Some things will never change.
+{207997}{208051}We don't feel that way.
+{208102}{208147}"We"?
+{208149}{208250}Fyedka and I.|We want to be married.
+{208252}{208352}What? Are you out of your mind?
+{208353}{208400}What?
+{208401}{208517}Don't you understand what that means,|marrying outside of the faith?
+{208518}{208557}- But, Papa!|- No!
+{208559}{208609}I said no!
+{208611}{208678}Never talk about it again.
+{208680}{208728}Never mention his name again.
+{208730}{208778}Never see him again.
+{208780}{208818}Never.
+{208848}{208908}Do you understand me?
+{208959}{209005}Yes, Papa.
+{209039}{209106}I understand you.
+{209269}{209336}You're finally here!|Let's go home. It's late.
+{209337}{209385}I want to see Motel's new machine.
+{209387}{209433}See it another time!|It's late!
+{209435}{209481}Quiet, woman, before I get angry!
+{209483}{209579}Because when I'm angry,|even flies don't dare to fly!
+{209581}{209688}I'm very frightened of you.|After we finish supper I'll faint.
+{209719}{209793}I am the man in the house!
+{209795}{209846}I'm the head of the family!
+{209848}{209958}And I want to see|Motel's new machine now!
+{210105}{210156}Now let's go home!
+{212293}{212340}What are you doing here?|What do you want?
+{212399}{212460}May I see His Honor the Priest?
+{212461}{212515}- The Reverend Father?|- Yes.
+{212517}{212575}Why do you want to see him?
+{212577}{212628}It's a family matter.
+{212629}{212681}A personal matter.
+{212719}{212801}- My daughter.|- Yes? What about your daughter?
+{212802}{212858}Please, if I could speak with the pr...
+{212896}{212978}If I could speak with|the Reverend Father.
+{212980}{213010}Please!
+{213069}{213115}Wait here.
+{214309}{214357}What is it?
+{214359}{214418}It's Chava.
+{214420}{214468}She left home this morning...
+{214469}{214507}with Fyedka.
+{214509}{214531}What?
+{214533}{214599}I've looked everywhere for her.
+{214601}{214660}I even went to the priest.
+{214751}{214810}He told me they were married.
+{214923}{214962}Married?
+{214964}{214998}Yes.
+{215104}{215138}Well...
+{215173}{215220}go home, Golde.
+{215269}{215315}We have other children at home.
+{215349}{215419}You have work to do.|I have work to do.
+{215421}{215478}- Go home.|- But Chaveleh!
+{215480}{215546}Chava is dead to us!
+{215639}{215685}We'll forget her.
+{215718}{215767}Go home.
+{216723}{216790}Little bird
+{216792}{216870}Little Chaveleh
+{216872}{216958}I don't understand|what's happening today
+{216960}{217038}Everything is all a blur
+{217081}{217167}All I can see is a happy child
+{217169}{217249}The sweet little bird you were|Chaveleh
+{217434}{217481}Little bird
+{217506}{217556}Little Chaveleh
+{217585}{217680}You were always such|a pretty little thing
+{217682}{217762}Everybody's favorite child
+{217880}{217961}Gentle and kind and affectionate
+{217963}{218048}What a sweet little bird you were|Chaveleh
+{220259}{220294}Papa.
+{220464}{220538}Papa, I've been looking|everywhere for you.
+{221045}{221091}Papa, stop!
+{221158}{221209}At least listen to me.
+{221250}{221309}Papa!
+{221310}{221368}I beg you to accept us!
+{221551}{221598}Accept them?
+{221627}{221678}How can I accept them?
+{221726}{221785}Can I deny everything|I believe in?
+{221850}{221896}On the other hand...
+{221923}{221971}can I deny my own daughter?
+{222140}{222196}On the other hand...
+{222222}{222319}how can I turn my back on my faith?
+{222321}{222367}My people?
+{222419}{222500}If I try and bend that far...
+{222538}{222584}I'll break.
+{222672}{222718}On the other hand...
+{222838}{222881}No!
+{222883}{222930}There is no other hand!
+{222968}{223041}No, Chava!
+{223043}{223098}But, Papa!
+{223679}{223812}Golde, here they are!|The boys I told you about!
+{223814}{223853}Wonderful boys!
+{223854}{223945}From good families!|Each of them a prize, a jewel!
+{223946}{224001}You couldn't do better|for your girls.
+{224002}{224087}I don't know, Yente.|My girls are still so young.
+{224089}{224153}So what do they look like?|Grandfathers?
+{224154}{224207}True, the marriage can wait.
+{224209}{224305}But meanwhile their future|will be all signed and sealed!
+{224338}{224380}Which one for which one?
+{224382}{224428}What's the difference?|Take your pick.
+{224430}{224473}They're both wonderful boys!
+{224475}{224600}Yankel, the fat one,|is apprenticed to a carpenter.
+{224602}{224673}- I'm Yankel.|- Did I ask you?
+{224674}{224769}- Yankel, the skinny one, is...|- Mama, is Reb Tevye in the house?
+{224771}{224827}He's in the barn.|Is there trouble?
+{224855}{224909}Stay inside, children.
+{224958}{225001}What is it?|What's the matter?
+{225026}{225096}Tevye, have you seen|the constable lately?
+{225098}{225192}- No. Why?|- There's some rumors in town.
+{225194}{225266}We thought since you knew him so well...
+{225268}{225334}maybe he told you what is true|and what is not.
+{225336}{225409}Rumors? What rumors?
+{225411}{225476}Quiet! Talk, Avram.
+{225478}{225596}Someone from Zolodin said an edict|was issued in St. Petersburg that...
+{225810}{225859}Welcome, Your Honor.
+{225861}{225949}- What's the good news in the world?|- I see that you have company.
+{226000}{226055}They are my friends.
+{226057}{226103}It's just as well.
+{226105}{226157}What I have to say|is for their ears also.
+{226187}{226261}How much time do you need|to sell your house and household goods?
+{226316}{226378}Why should I sell my house?
+{226380}{226426}Is it in anybody's way?
+{226428}{226499}I came to tell you|you have to leave Anatevka.
+{226544}{226622}And how did I come|to deserve such an honor?
+{226624}{226687}Not just you.|But all of you.
+{226784}{226842}Stop it!
+{226889}{226991}I thought you might be spared because|of the marriage of your daughter.
+{226993}{227072}My daughter is dead.
+{227074}{227151}I understand.
+{227153}{227260}At any rate, it affects all of you.|You all have to leave.
+{227262}{227365}But this corner of the world...
+{227366}{227433}has always been our home.
+{227458}{227493}Why should we leave?
+{227494}{227589}I don't know why. There's trouble|in the world! Troublemakers!
+{227642}{227709}- Like us?|- You aren't the only ones.
+{227710}{227790}Your people must leave|all the villages: Zolodin, Rabalevka...
+{227792}{227849}The entire district must be emptied!
+{227874}{227919}I have an order here!
+{227993}{228086}You must sell your homes|and be out in three days.
+{228088}{228134}Three days! It's impossible!
+{228136}{228182}The children!
+{228378}{228421}And you!
+{228423}{228500}You who have known us|all your life...
+{228502}{228559}you'd carry out this order?
+{228561}{228624}I've nothing to do with it!|Don't you understand?
+{228626}{228679}I wish you wouldn't say "me"!
+{228721}{228759}I understand.
+{228761}{228819}Suppose we refuse to go?
+{228821}{228860}You will be forced out!
+{228862}{228943}- We will defend ourselves.|- We'll stay in our homes.
+{228945}{228989}- We won't move!|- We'll keep our land!
+{228990}{229064}- Fight!|- Against our militia? Our army?
+{229066}{229179}- I wouldn't advise that!|- I have some advice for you.
+{229210}{229263}Get off my land.
+{229289}{229333}This is still my home...
+{229359}{229405}my land.
+{229406}{229461}Get off my land.
+{229687}{229734}You have three days!
+{230020}{230080}After a lifetime...
+{230082}{230149}a piece of paper,|and get thee out.
+{230151}{230221}Let's get together|with the people of Zolodin.
+{230222}{230294}- Maybe they have a plan.|- We should defend ourselves!
+{230295}{230342}An eye for an eye,|and a tooth for a tooth!
+{230343}{230469}Very good. That way the whole world|will be blind and toothless.
+{230473}{230502}Rabbi...
+{230530}{230623}we've been waiting for the Messiah|all our lives.
+{230625}{230683}Wouldn't this be a good time|for him to come?
+{230781}{230877}We'll have to wait for him|someplace else.
+{231001}{231087}Meanwhile, let's start packing.
+{231544}{231677}Well, Anatevka hasn't exactly been|the Garden of Eden.
+{231679}{231724}That's true.
+{231725}{231806}After all, what have we got here?
+{231808}{231871}A little bit of this
+{231873}{231929}A little bit of that
+{231931}{231989}- A pot|- A pan
+{231990}{232060}- A broom|- A hat
+{232061}{232196}Someone should have set a match|to this place years ago.
+{232198}{232249}- A bench|- A tree
+{232251}{232324}- What's a house|- Or a stove
+{232326}{232441}People who pass through Anatevka|don't even know they've been here.
+{232442}{232504}A stick of wood
+{232506}{232557}A piece of cloth
+{232559}{232616}What do we leave
+{232617}{232676}Nothing much
+{232677}{232751}Only Anatevka
+{232943}{233003}Underfed, overworked
+{233005}{233077}Anatevka
+{233079}{233154}Where else would Sabbath
+{233156}{233217}Be so sweet
+{233435}{233493}Intimate, obstinate
+{233568}{233618}Where I know
+{233620}{233706}Everyone I meet
+{233795}{233885}Soon I'll be a stranger
+{233887}{234002}In a strange, new place
+{234037}{234084}Searching for
+{234085}{234201}An old familiar face
+{234203}{234308}From Anatevka
+{234810}{234925}I belong in Anatevka
+{234926}{234985}Tumbledown, workaday
+{235062}{235141}Dear little village
+{235143}{235228}Little town
+{235230}{235309}Of
+{235310}{235366}Mine
+{235853}{235909}It's just a place.
+{235911}{236051}Our forefathers have been forced out|of many places at a moment's notice.
+{236053}{236101}Maybe that's why...
+{236127}{236187}we always wear our hats.
+{238933}{238974}Golde, darling!
+{238976}{239033}I had to see you before I left.
+{239034}{239083}Because I have such news for you.
+{239085}{239172}You remember I told you|I didn't know where to go...
+{239173}{239219}what do to with these old bones?
+{239221}{239295}Now I know. You wanna hear?|I'll tell you.
+{239297}{239391}All my life I've dreamed|of going to one place.
+{239393}{239464}Guess where.|You'll never guess.
+{239465}{239545}Every year at Passover,|what do we say?
+{239547}{239605}"Next year in Jerusalem."
+{239607}{239668}"Next year in the Holy Land."
+{239670}{239719}You're going to the Holy Land!
+{239721}{239755}You guessed.
+{239757}{239820}Good-bye, Yente.
+{239821}{239877}Be well...
+{239878}{239928}and go in peace.
+{239929}{240069}So good-bye. And sometime maybe|we'll meet on a happier occasion.
+{240071}{240149}Meanwhile we suffer.|Oh, we suffer!
+{240151}{240233}We suffer in silence.|Right? Of course, right.
+{240235}{240286}Where are you going?
+{240288}{240356}You don't know where you're going?
+{240357}{240416}Come, Golde. We have to leave.
+{240417}{240480}Leave. It sounds so easy.
+{240481}{240564}Golde, we'll all be together soon.
+{240566}{240616}Motel, Tzeitel and the baby...|they'll come too.
+{240618}{240697}You'll see. This Motel is a person.
+{240699}{240787}And Hodel and Perchik?|When will we ever see them again?
+{240789}{240873}Do they visit us from Siberia|every Sabbath?
+{240875}{240921}You know what she writes.
+{240923}{240996}He sits in prison. She works.
+{240998}{241070}But soon he'll be set free.
+{241072}{241157}And together they'll turn the world|upside-down.
+{241159}{241212}She couldn't be happier.
+{241213}{241296}And the other children will be with us.
+{241297}{241344}Not all.
+{241377}{241412}AII!
+{241565}{241612}Come, Golde.
+{241613}{241697}I have to clean up.|Sweep the floor.
+{241725}{241785}I don't want to leave a dirty house!
+{242032}{242097}I'm on my way.
+{242099}{242145}Where are you going?
+{242188}{242247}Chicago, in America.
+{242310}{242387}We are going to New York, America.
+{242389}{242427}We'll be neighbors.
+{242429}{242520}My wife, Fruma Sarah, may she|rest in peace, has a brother there.
+{242521}{242581}- That's nice.|- I hate him!
+{242611}{242643}But...
+{242669}{242713}a relative is a relative.
+{242777}{242833}- Good-bye, Tevye.|- Good-bye, Lazar Wolf.
+{244376}{244448}Well, my old friends.|It's time to say good-bye.
+{244631}{244704}The farmer Busenko|will be coming for you later.
+{244730}{244785}He's not a bad sort.
+{244815}{244881}If you are good to him,|he'll be good to you.
+{244976}{245023}Take care of your leg.
+{245315}{245373}Thanks for everything.
+{245939}{245990}- Papa will see you.|- I want him to.
+{245992}{246039}I want to say good-bye to him.
+{246089}{246160}- He won't listen to you.|- But at least he will hear.
+{246162}{246236}Maybe it would be better|if I told Mama.
+{246723}{246758}Papa?
+{247235}{247288}We came to say good-bye.
+{247414}{247483}We're also leaving this place.
+{247519}{247576}We're going to Krakow.
+{247578}{247656}We cannot stay among people|who do such things to others.
+{247763}{247810}We wanted you to know that.
+{248139}{248187}Some are driven away by edicts...
+{248221}{248268}others, by silence.
+{248524}{248578}Good-bye, Papa.
+{248631}{248669}Mama.
+{248755}{248797}Come, Chava.
+{249186}{249243}Good-bye, Chava, Fyedka!
+{249351}{249413}And God be with you.
+{249612}{249654}And God be with you.
+{249656}{249720}We will write to you in America|if you like.
+{249722}{249793}We will be staying with Uncle Avram!
+{249795}{249841}Yes, Mama!
+{250097}{250195}"We'll be staying with Uncle Avram"!
+{250197}{250283}The whole world|has to know our business!
+{250285}{250347}Stop yelling, and finish packing!
+{250349}{250404}We have a long way to go!
+{250406}{250490}Golde, I don't need your advice!
+{250492}{250556}Tzeitel, don't forget the baby!
+{250983}{251030}Good-bye, Papa.
+{251247}{251294}Work hard, Motel.
+{251319}{251384}And come to us soon.
+{251386}{251432}I will, Papa.
+{251471}{251518}I'll work hard.
+{252403}{252449}All right, children.
+{252518}{252564}Let's go.

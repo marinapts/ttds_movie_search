@@ -1,0 +1,5625 @@
+1
+00:01:02,529 --> 00:01:04,520
+- I'm Statler.
+- I'm Waldorf.
+
+2
+00:01:04,597 --> 00:01:06,656
+We're here to heckle
+<i>The Muppet Movie.</i>
+
+3
+00:01:06,733 --> 00:01:09,497
+That's straight ahead,
+private screening room "D."
+
+4
+00:01:09,569 --> 00:01:13,733
+- Private screening?
+- They're afraid to show it in public!
+
+5
+00:01:15,742 --> 00:01:17,710
+Look at this place.
+What a dump!
+
+6
+00:01:17,777 --> 00:01:20,439
+Bunch of weirdos around here.
+Look at 'em.
+
+7
+00:01:20,513 --> 00:01:25,212
+- Yes, I know you all want to...
+- Lady, is this seat taken?
+
+8
+00:01:25,285 --> 00:01:28,652
+What... Hey, you!
+Bring that back!
+
+9
+00:01:28,721 --> 00:01:33,249
+I'm so nervous. If I'm not funny,
+I won't be able to live with myself.
+
+10
+00:01:33,326 --> 00:01:36,318
+Well, then you'll have to get
+another apartment, won't you?
+
+11
+00:01:36,396 --> 00:01:39,832
+I hear this movie is dynamite.
+
+12
+00:01:39,899 --> 00:01:43,528
+Get your fresh organic popcorn,
+only a buck.
+
+13
+00:01:43,603 --> 00:01:46,538
+- Buy me some, please.
+- Sure, Mama.
+
+14
+00:01:46,606 --> 00:01:52,476
+- Nothin's too good for my woman.
+- Woman! Woman! Woman!
+
+15
+00:01:52,545 --> 00:01:55,776
+- I like the movie fine so far.
+- It hasn't started yet.
+
+16
+00:01:55,849 --> 00:01:58,113
+That's what I like about it!
+
+17
+00:02:00,653 --> 00:02:02,143
+Do it!
+
+18
+00:02:04,924 --> 00:02:07,290
+Oh, hey, Mr. Defrog!
+
+19
+00:02:07,360 --> 00:02:11,558
+Is it okay for me and my boomerang fish
+to be in your movie?
+
+20
+00:02:11,631 --> 00:02:12,859
+Hey!
+
+21
+00:02:12,932 --> 00:02:15,730
+I told you, Luke, not in the movie
+or at the screening.
+
+22
+00:02:15,802 --> 00:02:18,134
+Hey, but watch.
+
+23
+00:02:18,204 --> 00:02:22,072
+Kermit, does this film have
+socially redeeming value?
+
+24
+00:02:22,142 --> 00:02:24,372
+I certainly hope so, Sam.
+
+25
+00:02:24,444 --> 00:02:26,275
+Sorry about that.
+
+26
+00:02:26,346 --> 00:02:29,213
+- Kermie!
+- Hi, Piggy.
+
+27
+00:02:29,282 --> 00:02:32,115
+I tried to save you a seat,
+but somebody took it.
+
+28
+00:02:32,185 --> 00:02:36,053
+Hi, everybody, and welcome to
+the first screening of <i>The Muppet Movie.</i>
+
+29
+00:02:39,025 --> 00:02:42,654
+But before we begin, I'd like to thank
+everyone who contributed to this film...
+
+30
+00:02:42,729 --> 00:02:45,254
+starting with the little people,
+from the hairdressers...
+
+31
+00:02:45,331 --> 00:02:47,162
+to special effects...
+
+32
+00:02:48,368 --> 00:02:52,361
+- That's enough of that, Harry!
+- Blow it up! Blow it up!
+
+33
+00:02:53,706 --> 00:02:56,937
+To the costume designers,
+to the prop makers...
+
+34
+00:02:57,010 --> 00:03:01,106
+Speeches are not necessary, dear.
+Roll the film.
+
+35
+00:03:01,181 --> 00:03:02,910
+But I'd like
+to thank everybody...
+
+36
+00:03:02,982 --> 00:03:06,213
+for all of their hard work
+and patience...
+
+37
+00:03:06,286 --> 00:03:08,754
+Roll film! Roll film!
+
+38
+00:03:08,821 --> 00:03:10,721
+Roll film!
+
+39
+00:03:24,370 --> 00:03:26,099
+Excuse me.
+
+40
+00:03:27,173 --> 00:03:31,633
+Uncle Kermit, is this about how
+the Muppets really got started?
+
+41
+00:03:31,711 --> 00:03:35,408
+Well, it's sort of
+approximately how it happened.
+
+42
+00:04:47,253 --> 00:04:50,086
+<i>Why are there so many</i>
+
+43
+00:04:50,156 --> 00:04:53,125
+<i>Songs about rainbows</i>
+
+44
+00:04:53,192 --> 00:04:57,754
+<i>And what's on the other side</i>
+
+45
+00:04:59,565 --> 00:05:02,466
+<i>Rainbows are visions</i>
+
+46
+00:05:02,535 --> 00:05:05,561
+<i>But only illusions</i>
+
+47
+00:05:05,638 --> 00:05:10,337
+<i>And rainbows have nothing to hide</i>
+
+48
+00:05:12,078 --> 00:05:14,171
+<i>So we've been told</i>
+
+49
+00:05:14,247 --> 00:05:18,274
+<i>And some choose to believe it</i>
+
+50
+00:05:18,351 --> 00:05:22,845
+<i>I know they're wrong</i>
+<i>Wait and see</i>
+
+51
+00:05:24,691 --> 00:05:27,626
+<i>Someday we'll find it</i>
+
+52
+00:05:27,694 --> 00:05:30,686
+<i>The rainbow connection</i>
+
+53
+00:05:30,763 --> 00:05:35,359
+<i>The lovers, the dreamers and me</i>
+
+54
+00:05:40,406 --> 00:05:43,170
+<i>Who said that every wish</i>
+
+55
+00:05:43,242 --> 00:05:46,211
+<i>Would be heard and answered</i>
+
+56
+00:05:46,279 --> 00:05:50,978
+<i>When wished on the morning star</i>
+
+57
+00:05:52,719 --> 00:05:55,711
+<i>Somebody thought of that</i>
+
+58
+00:05:55,788 --> 00:05:59,053
+<i>And someone believed it</i>
+
+59
+00:05:59,125 --> 00:06:03,494
+<i>Look what it's done so far</i>
+
+60
+00:06:05,231 --> 00:06:07,825
+<i>What's so amazing</i>
+
+61
+00:06:07,900 --> 00:06:11,336
+<i>That keeps us stargazing</i>
+
+62
+00:06:11,404 --> 00:06:15,932
+<i>And what do we think</i>
+<i>we might see</i>
+
+63
+00:06:17,677 --> 00:06:20,612
+<i>Someday we'll find it</i>
+
+64
+00:06:20,680 --> 00:06:23,808
+<i>The rainbow connection</i>
+
+65
+00:06:23,883 --> 00:06:28,718
+<i>The lovers, the dreamers and me</i>
+
+66
+00:06:28,788 --> 00:06:32,918
+<i>All of us under its spell</i>
+
+67
+00:06:32,992 --> 00:06:36,553
+<i>We know that it's probably</i>
+
+68
+00:06:36,629 --> 00:06:41,328
+<i>Magic</i>
+
+69
+00:06:41,401 --> 00:06:44,268
+<i>Have you been half asleep</i>
+
+70
+00:06:44,337 --> 00:06:46,771
+<i>And have you heard voices</i>
+
+71
+00:06:47,607 --> 00:06:52,010
+<i>I've heard them calling my name</i>
+
+72
+00:06:53,546 --> 00:06:56,606
+<i>Is this the sweet sound</i>
+
+73
+00:06:56,682 --> 00:06:59,810
+<i>That calls the young sailors</i>
+
+74
+00:06:59,886 --> 00:07:04,550
+<i>The voice might be one and the same</i>
+
+75
+00:07:06,325 --> 00:07:09,726
+<i>I've heard it too many times</i>
+
+76
+00:07:09,796 --> 00:07:12,196
+<i>To ignore it</i>
+
+77
+00:07:12,265 --> 00:07:16,964
+<i>It's something</i>
+<i>that I'm supposed to be</i>
+
+78
+00:07:18,638 --> 00:07:21,573
+<i>Someday we'll find it</i>
+
+79
+00:07:21,641 --> 00:07:24,542
+<i>The rainbow connection</i>
+
+80
+00:07:24,610 --> 00:07:29,638
+<i>The lovers, the dreamers and me</i>
+
+81
+00:07:44,630 --> 00:07:48,794
+Help! Hello!
+This is a serious call for help.
+
+82
+00:07:49,669 --> 00:07:52,729
+- Yeah?
+- Someone help!
+
+83
+00:07:56,943 --> 00:08:00,504
+You with the banjo,
+can you help me?
+
+84
+00:08:00,580 --> 00:08:02,707
+I have lost
+my sense of direction.
+
+85
+00:08:02,782 --> 00:08:04,409
+Have you tried Hare Krishna?
+
+86
+00:08:05,718 --> 00:08:08,186
+No, I mean, I'm really lost!
+
+87
+00:08:08,254 --> 00:08:12,122
+One second.
+Darn, I missed.
+
+88
+00:08:12,191 --> 00:08:14,751
+That's the first thing
+to go on a frog, his tongue.
+
+89
+00:08:14,827 --> 00:08:17,091
+The tongue goes and you
+can't catch flies.
+
+90
+00:08:17,163 --> 00:08:20,860
+I'm sorry about your tongue,
+but I have to get out of this swamp.
+
+91
+00:08:20,933 --> 00:08:24,391
+- I have to catch a plane.
+- With that tongue? No way.
+
+92
+00:08:26,405 --> 00:08:29,465
+- There's a boat dock just downstream.
+- Thank you.
+
+93
+00:08:29,542 --> 00:08:33,137
+- Just watch out for the alligators.
+- I will.
+
+94
+00:08:33,212 --> 00:08:35,043
+- Alligators?
+- That's right.
+
+95
+00:08:35,114 --> 00:08:39,608
+- Did you say alligators?
+- Read my lips... alligators.
+
+96
+00:08:39,685 --> 00:08:42,313
+I'm not used to alligators
+where I come from.
+
+97
+00:08:42,388 --> 00:08:46,586
+See, I'm an agent.
+I winged in from Hollywood.
+
+98
+00:08:46,659 --> 00:08:48,422
+- Hollywood?
+- That's right.
+
+99
+00:08:48,494 --> 00:08:52,590
+- Did you say Hollywood?
+- Read my lips... Hollywood.
+
+100
+00:08:52,665 --> 00:08:56,226
+You know... <i>Hollywood</i>
+The dream factory. The magic store.
+
+101
+00:08:56,302 --> 00:08:58,862
+Hey, don't you ever
+go to the movies?
+
+102
+00:08:58,938 --> 00:09:01,805
+Sure, there's a double feature
+in town every Saturday.
+
+103
+00:09:03,142 --> 00:09:06,009
+- Wait a minute.
+- What?
+
+104
+00:09:06,078 --> 00:09:09,912
+There's an ad in here that you
+should be very interested in.
+
+105
+00:09:11,551 --> 00:09:14,213
+Feast your eyes on that.
+
+106
+00:09:14,287 --> 00:09:18,121
+"World Wide Studios announces
+open auditions for frogs...
+
+107
+00:09:18,190 --> 00:09:19,919
+wishing to become rich and famous."
+
+108
+00:09:21,027 --> 00:09:24,258
+Thanks anyway, but I'm really
+pretty happy where I am.
+
+109
+00:09:24,330 --> 00:09:28,562
+If I were you, I would give this
+audition very careful consideration.
+
+110
+00:09:28,634 --> 00:09:31,262
+You've got talent, kid...
+singin', tellin'jokes.
+
+111
+00:09:31,337 --> 00:09:33,805
+I mean, if you get your tongue fixed,
+who knows?
+
+112
+00:09:33,873 --> 00:09:35,807
+You could make
+millions of people happy.
+
+113
+00:09:36,742 --> 00:09:38,710
+Millions of people happy.
+
+114
+00:09:38,778 --> 00:09:41,303
+Millions!
+If you ever come west...
+
+115
+00:09:41,380 --> 00:09:44,577
+to Hollywood, look me up...
+Bernie, the agent.
+
+116
+00:09:44,650 --> 00:09:48,017
+Listen, Bernie the agent, why don't
+you say hello to Arnie the alligator?
+
+117
+00:09:49,255 --> 00:09:50,722
+- What!
+- Arnie!
+
+118
+00:09:53,492 --> 00:09:57,189
+- Arnie, wait a minute. Careful.
+- Stay! Stay!
+
+119
+00:09:57,263 --> 00:10:01,529
+Arnie, leave him alone.
+He's from Hollywood.
+
+120
+00:10:05,972 --> 00:10:08,372
+Hollywood. Gee.
+
+121
+00:10:09,442 --> 00:10:13,708
+Well, I'd miss
+this old swamp, but...
+
+122
+00:10:13,779 --> 00:10:15,679
+millions of people happy.
+
+123
+00:10:44,410 --> 00:10:47,846
+What the...
+
+124
+00:10:47,913 --> 00:10:50,973
+Okay, you guys,
+do what I tell you.
+
+125
+00:10:51,050 --> 00:10:52,915
+I don't know where your...
+
+126
+00:10:52,985 --> 00:10:55,954
+Don't step on that asphalt!
+
+127
+00:10:56,022 --> 00:10:58,252
+We gotta get this...
+Off the asphalt!
+
+128
+00:10:58,324 --> 00:11:01,725
+I told you, stay off the asphalt!
+Hey, look at him.
+
+129
+00:11:05,264 --> 00:11:08,563
+- What are those big legs?
+- Hey, you on the bike!
+
+130
+00:11:08,634 --> 00:11:11,330
+Watch out! Watch out!
+
+131
+00:11:11,404 --> 00:11:13,304
+Oh, my gosh!
+
+132
+00:11:19,445 --> 00:11:22,573
+That's pretty dangerous, building a road
+in the middle of the street.
+
+133
+00:11:22,648 --> 00:11:26,277
+I mean, if frogs couldn't hop,
+I'd be gone with the Schwinn.
+
+134
+00:11:29,355 --> 00:11:31,289
+"The El Sleezo Cafe."
+
+135
+00:11:37,430 --> 00:11:40,194
+Foreign food.
+
+136
+00:11:40,266 --> 00:11:42,530
+Doesn't smell promising,
+but...
+
+137
+00:11:42,601 --> 00:11:44,762
+a frog's gotta eat.
+
+138
+00:11:52,678 --> 00:11:54,441
+Wow.
+
+139
+00:11:58,484 --> 00:11:59,917
+Rough place, huh?
+
+140
+00:12:01,020 --> 00:12:04,979
+That the toughest, meanest, filthiest
+pest hole on the face of the Earth!
+
+141
+00:12:05,057 --> 00:12:08,891
+- Why not complain to the owner?
+- I am the owner.
+
+142
+00:12:31,150 --> 00:12:33,744
+Watch out. Hot plates
+comin' through. Look out.
+
+143
+00:12:33,819 --> 00:12:36,310
+You got your french-fried
+frog legs au gratin...
+
+144
+00:12:36,388 --> 00:12:39,186
+you got your frog legs almandine,
+you got your frog legs stroganoff.
+
+145
+00:12:39,258 --> 00:12:41,351
+Everybody happy?
+All right.
+
+146
+00:12:50,736 --> 00:12:53,899
+Hello, sailor.
+Buy me a drink?
+
+147
+00:12:53,973 --> 00:12:55,873
+I'm not a sailor,
+I'm a frog.
+
+148
+00:12:55,941 --> 00:12:59,775
+- Cut the small talk and buy me a drink.
+- I don't even know you.
+
+149
+00:12:59,845 --> 00:13:03,144
+Hey, you makin'
+a move on my girl?
+
+150
+00:13:03,215 --> 00:13:06,150
+- No, sir.
+- He did too. He touched me.
+
+151
+00:13:06,218 --> 00:13:08,277
+Go wash!
+You'll get warts.
+
+152
+00:13:08,354 --> 00:13:11,551
+- No, that's just a myth.
+- Yeah, but she's my "mith"!
+
+153
+00:13:11,624 --> 00:13:13,216
+No, no, myth, myth!
+
+154
+00:13:13,292 --> 00:13:16,784
+- Yes?
+- What the hey?
+
+155
+00:13:19,165 --> 00:13:23,363
+Show time!
+Show time at the El Sleezo.
+
+156
+00:13:25,504 --> 00:13:30,168
+And now, filling in for the vacationing
+El Sleezo dancing girls...
+
+157
+00:13:30,242 --> 00:13:33,473
+the funny, furry, fabulous...
+
+158
+00:13:33,546 --> 00:13:36,538
+Fozzie Bear!
+
+159
+00:13:43,022 --> 00:13:46,253
+You're a great crowd!
+Thank you, thank you and thank you!
+
+160
+00:13:50,429 --> 00:13:53,762
+Here I am, Fozzie Bear,
+to tell you jokes both old and rare!
+
+161
+00:13:57,703 --> 00:13:59,295
+Get off the stage!
+
+162
+00:13:59,371 --> 00:14:03,102
+Let's start things off
+with a bang!
+
+163
+00:14:03,175 --> 00:14:05,939
+Thank you, sir.
+
+164
+00:14:06,011 --> 00:14:08,741
+This guy's lost.
+
+165
+00:14:08,814 --> 00:14:10,907
+Maybe he should try
+Hare Krishna.
+
+166
+00:14:12,518 --> 00:14:14,452
+Good grief.
+It's a running gag.
+
+167
+00:14:16,922 --> 00:14:19,152
+There was this sailor
+who was so fat...
+
+168
+00:14:19,225 --> 00:14:21,819
+How fat was he?
+
+169
+00:14:21,894 --> 00:14:25,830
+He was so fat
+that everybody liked him...
+
+170
+00:14:25,898 --> 00:14:28,366
+and there was nothing
+funny about him at all.
+
+171
+00:14:29,835 --> 00:14:31,496
+No problem!
+
+172
+00:14:31,570 --> 00:14:34,562
+Please!
+Oh, please!
+
+173
+00:14:34,640 --> 00:14:37,541
+I'm trying so hard.
+Please don't get mad.
+
+174
+00:14:37,610 --> 00:14:41,137
+I'm a professional.
+I've had three performances.
+
+175
+00:14:41,213 --> 00:14:43,204
+- Curtain! Curtain!
+- Do you know any dance routines?
+
+176
+00:14:43,282 --> 00:14:45,842
+What? Not really. Do you?
+
+177
+00:14:45,918 --> 00:14:49,410
+- Play something snappy.
+- You got it.
+
+178
+00:14:52,791 --> 00:14:54,452
+- Now dance!
+- What?
+
+179
+00:14:54,526 --> 00:14:55,959
+Dance!
+
+180
+00:15:07,172 --> 00:15:09,333
+It's too bad the dancing girls
+are on vacation.
+
+181
+00:15:09,408 --> 00:15:12,036
+The crowd is getting ugly.
+
+182
+00:15:12,111 --> 00:15:15,239
+You think this crowd's ugly,
+you should see the dancing girls!
+
+183
+00:15:20,152 --> 00:15:22,677
+Two, three, four.
+
+184
+00:15:27,159 --> 00:15:30,356
+- Two, three, kick!
+- Kick. Yeah, sorry.
+
+185
+00:15:31,163 --> 00:15:32,790
+Comin' home!
+
+186
+00:15:42,675 --> 00:15:44,609
+I just cleaned the fur, please!
+
+187
+00:16:08,834 --> 00:16:12,395
+I hope you appreciate that
+I'm doing all my own stunts.
+
+188
+00:16:19,178 --> 00:16:21,772
+Okay, everybody,
+drinks on the house!
+
+189
+00:16:23,449 --> 00:16:27,647
+- Drinks on the house!
+- Yeah! Go, go! On the house!
+
+190
+00:16:33,692 --> 00:16:35,751
+I don't see no drinks up here.
+What's he talkin' about?
+
+191
+00:16:35,828 --> 00:16:38,092
+The bartender said there
+were drinks on the house.
+
+192
+00:16:41,467 --> 00:16:45,426
+- Works every time.
+- Huh. Wow.
+
+193
+00:16:45,504 --> 00:16:49,031
+My name is Kermit the Frog,
+and I'm on my way to Hollywood.
+
+194
+00:16:49,108 --> 00:16:50,803
+- Hollywood?
+- You want to join me?
+
+195
+00:16:50,876 --> 00:16:54,471
+Big-time show biz!
+That's always been my dream.
+
+196
+00:16:54,546 --> 00:16:57,447
+They're holding auditions
+for frogs next week.
+
+197
+00:16:57,516 --> 00:17:01,145
+And if they need frogs,
+they must need bears too.
+
+198
+00:17:01,220 --> 00:17:03,211
+My car's right outside!
+
+199
+00:17:05,891 --> 00:17:08,359
+Gee, a Studebaker.
+Where'd you get it?
+
+200
+00:17:08,427 --> 00:17:11,021
+- My uncle left it to me.
+- Is he dead?
+
+201
+00:17:11,096 --> 00:17:13,030
+No, he's hibernating.
+
+202
+00:17:29,114 --> 00:17:31,446
+You know, Fozzie, you really
+do have a lot of talent.
+
+203
+00:17:31,517 --> 00:17:35,817
+- Thank you.
+- How about we put together an act?
+
+204
+00:17:35,888 --> 00:17:39,153
+Nope. Sorry.
+I only work as a single.
+
+205
+00:17:39,224 --> 00:17:41,158
+Okay.
+
+206
+00:17:45,497 --> 00:17:48,364
+All right, you talked me into it!
+We'll be a team!
+
+207
+00:17:48,434 --> 00:17:51,062
+- Oh, good.
+- What's this?
+
+208
+00:17:51,136 --> 00:17:53,536
+- You better pull over here.
+- Yes, sir.
+
+209
+00:17:58,744 --> 00:18:00,678
+Hey, what's goin' on?
+
+210
+00:18:02,681 --> 00:18:04,615
+Howdy, Mr. Frog.
+
+211
+00:18:04,683 --> 00:18:07,550
+- I'm a businessman with a proposition.
+- What?
+
+212
+00:18:07,619 --> 00:18:10,986
+Let me show you somethin' that
+might change your whole life.
+
+213
+00:18:14,827 --> 00:18:17,523
+Hop right over here,
+my little green friend.
+
+214
+00:18:17,596 --> 00:18:21,088
+- Listen, mister...
+- That's it.
+
+215
+00:18:21,166 --> 00:18:24,260
+This is the kind of chance
+you can't afford to pass up.
+
+216
+00:18:25,137 --> 00:18:29,073
+Now, now, don't be afraid.
+Watch the window.
+
+217
+00:18:30,742 --> 00:18:32,175
+What's that?
+
+218
+00:18:33,112 --> 00:18:35,706
+<i>Hi, I'm Doc Hopper...</i>
+
+219
+00:18:35,781 --> 00:18:39,945
+<i>invitin'you to hop on down and get</i>
+<i>some Hopper's french-fried frog legs...</i>
+
+220
+00:18:40,018 --> 00:18:43,818
+<i>right here, at the sign</i>
+<i>of the bright green legs!</i>
+
+221
+00:18:43,889 --> 00:18:45,686
+Good grief!
+
+222
+00:18:45,757 --> 00:18:48,385
+<i>Hurry, hurry, hurry.</i>
+
+223
+00:18:48,460 --> 00:18:50,985
+<i>Frog legs, frog legs</i>
+<i>Frog legs so fine</i>
+
+224
+00:18:51,063 --> 00:18:53,827
+<i>Hopper's is the place</i>
+<i>you should dine</i>
+
+225
+00:18:53,899 --> 00:18:56,925
+<i>There's cheese legs</i>
+<i>bacon legs, chili legs too</i>
+
+226
+00:18:57,002 --> 00:19:00,597
+- <i>French-fried frog legs, barbecued</i>
+- Oh, Fozzie.
+
+227
+00:19:00,672 --> 00:19:03,607
+- <i>If you want just a snack</i>
+- Don't worry.
+
+228
+00:19:03,675 --> 00:19:06,644
+<i>Then here is the one</i>
+
+229
+00:19:06,712 --> 00:19:09,875
+<i>A frog-leg burger</i>
+<i>on a bright green bun</i>
+
+230
+00:19:12,951 --> 00:19:17,513
+That is terrible! That's the most
+revolting thing I've ever seen!
+
+231
+00:19:17,589 --> 00:19:19,955
+I know. I'm a great businessman
+and a sweet fella...
+
+232
+00:19:20,025 --> 00:19:21,993
+but I do lack the skills
+of a performer.
+
+233
+00:19:22,060 --> 00:19:24,028
+You also make a lousy frog!
+
+234
+00:19:24,096 --> 00:19:26,929
+You, on the other hand,
+make a terrific frog!
+
+235
+00:19:26,999 --> 00:19:30,025
+- What?
+- He's right. You are very likable.
+
+236
+00:19:30,102 --> 00:19:33,037
+The bear's right.
+You, my little likable friend...
+
+237
+00:19:33,105 --> 00:19:35,437
+are gonna do all our
+television commercials!
+
+238
+00:19:35,507 --> 00:19:38,032
+- No way!
+- Just a minute.
+
+239
+00:19:38,110 --> 00:19:41,341
+There's $500 in it for you,
+up front.
+
+240
+00:19:41,413 --> 00:19:45,110
+$500 is just the beginnin'.
+
+241
+00:19:45,184 --> 00:19:48,278
+You could be earnin'
+this much every year.
+
+242
+00:19:48,353 --> 00:19:52,346
+- Let's go, Fozzie.
+- $500?
+
+243
+00:19:52,424 --> 00:19:54,790
+Would you consider
+a bear in a frog suit?
+
+244
+00:19:54,860 --> 00:19:57,829
+- Fozzie!
+- I just lost my head.
+
+245
+00:19:57,896 --> 00:20:01,354
+Just a minute, Mr. Frog.
+Everything's negotiable.
+
+246
+00:20:02,401 --> 00:20:05,893
+- Okay, here we go. Sorry!
+- Hey, that's my Caddy!
+
+247
+00:20:05,971 --> 00:20:09,270
+- Just get it in gear, Fozzie!
+- Yes, sir. Here we go!
+
+248
+00:20:09,341 --> 00:20:12,504
+This is money we're talkin' about.
+Max!
+
+249
+00:20:14,446 --> 00:20:16,380
+Follow that frog!
+
+250
+00:20:17,549 --> 00:20:18,982
+Max!
+
+251
+00:20:23,989 --> 00:20:26,287
+Follow that frog
+with me in the car!
+
+252
+00:20:26,358 --> 00:20:30,658
+I'm sorry, Doc, I just got excited.
+Isn't the frog terrific?
+
+253
+00:20:30,729 --> 00:20:33,527
+- Terrific. Now go!
+- But you promised me a reward.
+
+254
+00:20:33,599 --> 00:20:36,591
+Later, Max.
+Now follow that frog!
+
+255
+00:20:41,607 --> 00:20:44,576
+- It's a gorgeous day.
+- Yep, certainly is.
+
+256
+00:20:44,643 --> 00:20:48,443
+- Yep, terrific day for a drive.
+- Beautiful country out here.
+
+257
+00:20:48,513 --> 00:20:51,414
+A frog and a bear,
+seeing America!
+
+258
+00:20:55,687 --> 00:20:59,817
+<i>Movin'right along in search</i>
+<i>of good times and good news</i>
+
+259
+00:20:59,891 --> 00:21:02,086
+<i>With good friends you can't lose</i>
+
+260
+00:21:02,160 --> 00:21:04,321
+<i>This could become a habit</i>
+
+261
+00:21:04,396 --> 00:21:08,856
+<i>Opportunity knocks once</i>
+<i>Let's reach out and grab it</i>
+
+262
+00:21:08,934 --> 00:21:10,993
+<i>Together we'll nab it</i>
+
+263
+00:21:11,069 --> 00:21:13,765
+<i>We'll hitchhike</i>
+<i>bus or Yellow Cab it</i>
+
+264
+00:21:13,839 --> 00:21:15,272
+Cab it?
+
+265
+00:21:15,340 --> 00:21:17,240
+<i>Movin'right along</i>
+
+266
+00:21:17,309 --> 00:21:20,369
+<i>Footloose and fancy free</i>
+
+267
+00:21:20,445 --> 00:21:24,211
+<i>Getting there is half the fun</i>
+<i>Come share it with me</i>
+
+268
+00:21:24,283 --> 00:21:26,308
+<i>Movin'right along</i>
+
+269
+00:21:26,385 --> 00:21:29,286
+<i>We'll learn to share the load</i>
+
+270
+00:21:29,354 --> 00:21:33,552
+<i>We don't need a map to keep</i>
+<i>this show on the road</i>
+
+271
+00:21:34,726 --> 00:21:37,456
+Fozzie, turn left if you
+come to a fork in the road.
+
+272
+00:21:37,529 --> 00:21:39,963
+Yes, sir, turn left at
+the fork in the road.
+
+273
+00:21:40,032 --> 00:21:44,196
+- Turn left!
+- I don't believe that.
+
+274
+00:21:45,337 --> 00:21:49,364
+<i>Movin'right along</i>
+<i>we've found a life on the highway</i>
+
+275
+00:21:49,441 --> 00:21:51,534
+<i>And your way is my way</i>
+
+276
+00:21:51,610 --> 00:21:54,135
+<i>So trust my navigation</i>
+
+277
+00:21:54,212 --> 00:21:58,546
+<i>California, here we come</i>
+<i>The pie-in-the-sky land</i>
+
+278
+00:21:58,617 --> 00:22:00,414
+<i>Palm trees and warm sand</i>
+
+279
+00:22:00,485 --> 00:22:03,181
+<i>Though sadly we just</i>
+<i>left Rhode Island</i>
+
+280
+00:22:03,255 --> 00:22:04,813
+- We did what?
+- Just forget it.
+
+281
+00:22:04,890 --> 00:22:09,224
+- <i>Movin'right along</i>
+- <i>Hey, LA, where've you gone</i>
+
+282
+00:22:09,294 --> 00:22:13,822
+<i>Send someone to fetch us</i>
+<i>We're in Saskatchewan</i>
+
+283
+00:22:13,899 --> 00:22:15,833
+<i>Movin'right along</i>
+
+284
+00:22:15,901 --> 00:22:18,768
+<i>You take it</i>
+<i>You know best</i>
+
+285
+00:22:18,837 --> 00:22:23,171
+<i>Hey, I've never seen the sun</i>
+<i>come up in the west</i>
+
+286
+00:22:24,609 --> 00:22:30,104
+Ah, a bear in his natural habitat...
+a Studebaker.
+
+287
+00:22:31,149 --> 00:22:34,607
+- Hey, Fozzie, look up ahead.
+- What is that?
+
+288
+00:22:34,686 --> 00:22:36,449
+Maybe we should give him a ride.
+
+289
+00:22:36,521 --> 00:22:39,422
+I don't know, he's pretty big.
+
+290
+00:22:39,491 --> 00:22:43,052
+- Hey, there, want a lift?
+- No, thanks.
+
+291
+00:22:43,128 --> 00:22:45,119
+I'm on my way
+to New York City...
+
+292
+00:22:45,197 --> 00:22:47,961
+to try to break into
+public television.
+
+293
+00:22:49,868 --> 00:22:51,301
+Good luck.
+
+294
+00:22:54,973 --> 00:22:58,966
+<i>Movin'right along</i>
+<i>We're truly birds of a feather</i>
+
+295
+00:22:59,044 --> 00:23:01,171
+<i>We're in this together</i>
+
+296
+00:23:01,246 --> 00:23:03,680
+<i>And we know where we're goin'</i>
+
+297
+00:23:03,749 --> 00:23:07,810
+<i>Movie stars with flashy cars</i>
+<i>and life with the top down</i>
+
+298
+00:23:07,886 --> 00:23:10,377
+<i>We're stormin'the big town</i>
+
+299
+00:23:10,455 --> 00:23:14,186
+- Stormin's right. Should it be snowing?
+- No, I don't think so.
+
+300
+00:23:14,259 --> 00:23:16,489
+<i>Movin'right along</i>
+
+301
+00:23:16,561 --> 00:23:19,155
+<i>Footloose and fancy free</i>
+
+302
+00:23:19,231 --> 00:23:23,565
+- <i>You're ready for the big time</i>
+- <i>Is it ready for me</i>
+
+303
+00:23:27,472 --> 00:23:31,806
+<i>Movin'right along</i>
+
+304
+00:23:45,757 --> 00:23:49,625
+Hey, Fozzie.
+Look up ahead there.
+
+305
+00:23:49,694 --> 00:23:52,458
+There's one of those
+Doc Hopper billboards.
+
+306
+00:23:52,531 --> 00:23:56,126
+- Maybe you better pull over.
+- Yes, sir.
+
+307
+00:23:56,201 --> 00:23:57,896
+Look at that.
+
+308
+00:23:59,838 --> 00:24:01,100
+Kermit, that's you!
+
+309
+00:24:03,708 --> 00:24:06,176
+You got the picture, boy?
+You see what I mean?
+
+310
+00:24:06,244 --> 00:24:10,510
+Kermit the Frog, symbol of
+Doc Hopper's French-Fried Frog Legs.
+
+311
+00:24:10,582 --> 00:24:14,916
+Isn't that splendid?
+Just take a look at it.
+
+312
+00:24:14,986 --> 00:24:18,387
+All I can see are millions
+of frogs on tiny crutches.
+
+313
+00:24:19,324 --> 00:24:23,420
+Now listen, boy, don't you
+want to be rich and famous?
+
+314
+00:24:23,495 --> 00:24:25,429
+- Not workin' for you, I don't!
+- That's right.
+
+315
+00:24:25,497 --> 00:24:28,898
+- Crutches?
+- Shut up, Max!
+
+316
+00:24:28,967 --> 00:24:30,901
+We're a small-time operation...
+
+317
+00:24:30,969 --> 00:24:34,769
+but we're expandin',
+just like you frogs expand!
+
+318
+00:24:34,840 --> 00:24:38,401
+- Don't you frogs expand?
+- That's a myth!
+
+319
+00:24:38,477 --> 00:24:40,968
+- What?
+- Myth, myth!
+
+320
+00:24:41,046 --> 00:24:42,775
+Yes?
+
+321
+00:24:46,184 --> 00:24:47,811
+- Burn rubber.
+- Yes, sir.
+
+322
+00:24:49,488 --> 00:24:51,718
+Hey, frog!
+
+323
+00:24:53,625 --> 00:24:55,593
+That's the second time!
+
+324
+00:24:55,660 --> 00:24:58,185
+Max, I've done
+my best with that frog.
+
+325
+00:24:58,263 --> 00:25:00,458
+Now's the time to do my worst.
+Open the door.
+
+326
+00:25:00,532 --> 00:25:02,432
+- No, you open the door!
+- What?
+
+327
+00:25:02,501 --> 00:25:04,969
+I'm through, Doc.
+The frog is right.
+
+328
+00:25:05,036 --> 00:25:07,698
+You're asking him to do something
+terrible. I can't be a part of it.
+
+329
+00:25:07,772 --> 00:25:09,899
+It's a moral decision,
+and I'll stand by it!
+
+330
+00:25:09,975 --> 00:25:12,603
+- I'll double your percentage.
+- I'll open the door.
+
+331
+00:25:17,616 --> 00:25:20,710
+- Kermit, where are we?
+- Well, let's see.
+
+332
+00:25:20,785 --> 00:25:23,948
+We were just travelling down
+this little black line here...
+
+333
+00:25:24,022 --> 00:25:27,014
+and we just crossed that
+little red line over there.
+
+334
+00:25:27,092 --> 00:25:29,458
+Let's take the blue line, huh?
+
+335
+00:25:29,528 --> 00:25:33,362
+- We can't take that. That's a river.
+- I knew that.
+
+336
+00:25:33,431 --> 00:25:37,367
+- Yeah, sure.
+- Listen, why don't we just go...
+
+337
+00:25:37,435 --> 00:25:38,868
+- Fozzie?
+- Yeah?
+
+338
+00:25:38,937 --> 00:25:40,370
+Who's driving?
+
+339
+00:25:43,708 --> 00:25:46,973
+- Look out! Stop!
+- No problem!
+
+340
+00:25:48,580 --> 00:25:51,048
+- Okay, back it up.
+- Yes, sir.
+
+341
+00:25:51,116 --> 00:25:52,674
+Fozzie, where did you
+learn to drive?
+
+342
+00:25:52,751 --> 00:25:55,311
+I took a correspondence course.
+
+343
+00:25:57,789 --> 00:26:00,883
+- This looks like a nice, quiet spot.
+- Uh-huh.
+
+344
+00:26:04,296 --> 00:26:06,821
+It feels like we've been
+driving for days.
+
+345
+00:26:06,898 --> 00:26:10,595
+- Funny, I'm still wide awake.
+- Me too.
+
+346
+00:26:14,005 --> 00:26:15,597
+Me too.
+
+347
+00:26:23,415 --> 00:26:25,679
+I'm up! I'm up!
+
+348
+00:26:25,750 --> 00:26:27,012
+What's that?
+
+349
+00:26:34,659 --> 00:26:37,059
+They don't look like
+Presbyterians to me.
+
+350
+00:26:50,342 --> 00:26:52,367
+Hey, cool it, everybody!
+
+351
+00:26:55,313 --> 00:26:59,716
+Our gentle mornin' melodies have
+attracted wanderin' admirers.
+
+352
+00:26:59,784 --> 00:27:03,345
+- Hey, who are you guys?
+- We am, is, are and be...
+
+353
+00:27:03,421 --> 00:27:07,152
+they whom as are known as
+the Electric Mayhem.
+
+354
+00:27:07,225 --> 00:27:08,920
+For sure!
+
+355
+00:27:08,994 --> 00:27:11,326
+He's Dr. Teeth!
+
+356
+00:27:11,396 --> 00:27:15,765
+Golden teeth and golden tones.
+Welcome to my presence.
+
+357
+00:27:15,834 --> 00:27:17,893
+- Thank you.
+- Fozzie...
+
+358
+00:27:17,969 --> 00:27:19,994
+I'm Floyd.
+I blow bass.
+
+359
+00:27:20,071 --> 00:27:22,904
+And I'm...
+
+360
+00:27:22,974 --> 00:27:24,942
+Zoot.
+Sax is your axe.
+
+361
+00:27:25,010 --> 00:27:28,002
+Uh-oh, Zoot skipped a groove again.
+
+362
+00:27:28,079 --> 00:27:31,981
+Wow, like, I'm Janice
+on lead guitar, for sure.
+
+363
+00:27:35,820 --> 00:27:38,618
+That's Animal.
+Show 'em what you do, Animal!
+
+364
+00:27:38,690 --> 00:27:42,490
+I want to eat drums!
+
+365
+00:27:42,560 --> 00:27:45,051
+No, no, beat drums!
+Beat drums!
+
+366
+00:27:46,865 --> 00:27:49,265
+Beat drums! Beat drums!
+
+367
+00:27:50,468 --> 00:27:54,734
+- Down, Animal! Back! Sit!
+- Down, back, sit!
+
+368
+00:27:54,806 --> 00:27:57,673
+Hey, don't forget about me.
+
+369
+00:27:57,742 --> 00:28:00,074
+I'm Scooter,
+the band's road manager.
+
+370
+00:28:00,145 --> 00:28:03,603
+Yeah, we couldn't go
+anywhere without him.
+
+371
+00:28:03,682 --> 00:28:07,015
+- He's the man with the contacts?
+- No, he's the man with the van!
+
+372
+00:28:08,620 --> 00:28:11,783
+We're takin' this old church
+and turnin' it into a coffee house.
+
+373
+00:28:11,856 --> 00:28:16,088
+Yeah, with real good music
+and organic refreshments.
+
+374
+00:28:16,161 --> 00:28:20,598
+Boy, it'll be so fine and laid back
+and mellow and profitable.
+
+375
+00:28:22,333 --> 00:28:24,426
+Yeah, but what
+brings you dudes here?
+
+376
+00:28:24,502 --> 00:28:28,063
+Listen, see, Kermit here
+was living in the swamp.
+
+377
+00:28:28,139 --> 00:28:30,073
+- Fozzie...
+- Then a fisherman came along.
+
+378
+00:28:30,141 --> 00:28:33,406
+You can't tell 'em the whole story.
+You'll bore the audience.
+
+379
+00:28:34,779 --> 00:28:37,714
+Oh, sorry.
+But, Kermit.
+
+380
+00:28:37,782 --> 00:28:41,149
+- The band here wants to know.
+- Let 'em read the screenplay.
+
+381
+00:28:41,219 --> 00:28:43,915
+Yes, sir!
+
+382
+00:28:45,857 --> 00:28:49,657
+See, it starts here on page one.
+
+383
+00:28:49,728 --> 00:28:51,719
+<i>The Muppet Movie,</i> huh?
+
+384
+00:28:52,797 --> 00:28:56,665
+Let's see.
+"Exterior. Swamp. Day.
+
+385
+00:28:56,735 --> 00:29:00,603
+In a long helicopter shot
+we discover Kermit the Frog...
+
+386
+00:29:00,672 --> 00:29:02,640
+playin' his banjo and singin'.
+
+387
+00:29:02,707 --> 00:29:05,699
+A Hollywood agent starts
+the frog traveling west.
+
+388
+00:29:05,777 --> 00:29:09,042
+Doc Hopper comes on strong
+and they get to this church.
+
+389
+00:29:09,114 --> 00:29:11,912
+Interior. Church. Day. Fozzie.
+
+390
+00:29:11,983 --> 00:29:14,952
+They don't look like
+Presbyterians to me.
+
+391
+00:29:16,020 --> 00:29:19,046
+Kermit and Fozzie come walkin'
+down the aisle...
+
+392
+00:29:19,124 --> 00:29:21,592
+to the thunderously loud music...
+
+393
+00:29:21,659 --> 00:29:24,787
+of Dr. Teeth
+and the Electric Mayhem."
+
+394
+00:29:24,863 --> 00:29:27,297
+Which am us!
+Yeah! Yeah!
+
+395
+00:29:28,366 --> 00:29:32,530
+This is a narrative of
+very heavy-duty proportions.
+
+396
+00:29:32,604 --> 00:29:37,667
+Cosmic, man. We gotta keep this little
+froggy away from this Hopper dude.
+
+397
+00:29:37,742 --> 00:29:39,801
+Too true.
+Too true.
+
+398
+00:29:39,878 --> 00:29:43,974
+It is indeed a problem for
+us to "probosculate" upon.
+
+399
+00:29:44,048 --> 00:29:48,747
+But it seems the frog and the bear
+are temporarily out of service.
+
+400
+00:29:49,754 --> 00:29:52,746
+Wow, like, what
+can we do to help them?
+
+401
+00:29:52,824 --> 00:29:55,759
+- Well, if this were the movies...
+- Which it is.
+
+402
+00:29:55,827 --> 00:29:57,920
+We'd think of
+a clever plot device.
+
+403
+00:29:57,996 --> 00:30:02,023
+Like disguising their car
+so they won't be recognized.
+
+404
+00:30:02,100 --> 00:30:03,863
+Right, two, three, four.
+
+405
+00:30:06,638 --> 00:30:09,038
+<i>Oh, yeah</i>
+
+406
+00:30:11,676 --> 00:30:13,507
+<i>All right</i>
+
+407
+00:30:13,578 --> 00:30:15,671
+<i>Anybody's lover</i>
+<i>Everybody's brother</i>
+
+408
+00:30:15,747 --> 00:30:18,045
+<i>I wanna be your lifetime friend</i>
+
+409
+00:30:18,116 --> 00:30:20,346
+<i>Crazy as a rocket</i>
+<i>Nothin'in my pocket</i>
+
+410
+00:30:20,418 --> 00:30:22,682
+<i>I keep it at the rainbow's end</i>
+
+411
+00:30:22,754 --> 00:30:24,949
+<i>I never think of money</i>
+<i>I think of milk and honey</i>
+
+412
+00:30:25,023 --> 00:30:26,957
+<i>Grinnin'like a Cheshire cat</i>
+
+413
+00:30:27,025 --> 00:30:29,687
+<i>I focus on the pleasure</i>
+<i>Somethin'I can treasure</i>
+
+414
+00:30:29,761 --> 00:30:33,356
+<i>Can ya picture that</i>
+<i>Can ya picture that</i>
+
+415
+00:30:36,634 --> 00:30:39,535
+<i>Oh, yeah</i>
+<i>So high</i>
+
+416
+00:30:40,605 --> 00:30:43,768
+Hey Floyd, take a verse!
+
+417
+00:30:43,842 --> 00:30:46,208
+<i>Let me take your picture</i>
+<i>Add it to the mixture</i>
+
+418
+00:30:46,277 --> 00:30:48,245
+<i>There it is</i>
+<i>I gotcha now</i>
+
+419
+00:30:48,313 --> 00:30:50,747
+<i>Really nothin'to it</i>
+<i>Anyone can do it</i>
+
+420
+00:30:50,815 --> 00:30:52,544
+<i>It's easy and we all know how</i>
+
+421
+00:30:52,617 --> 00:30:55,415
+<i>Now begins the changin'</i>
+<i>Mental rearrangin'</i>
+
+422
+00:30:55,486 --> 00:30:57,420
+<i>Nothing's really where it's at</i>
+
+423
+00:30:57,488 --> 00:31:00,082
+<i>Now the Eiffel Tower's</i>
+<i>holding up a flower</i>
+
+424
+00:31:00,158 --> 00:31:01,557
+<i>I gave it to a Texas cat</i>
+
+425
+00:31:03,761 --> 00:31:08,698
+<i>Fact is there's nothing</i>
+<i>out there you can't do</i>
+
+426
+00:31:08,766 --> 00:31:13,362
+<i>Yeah, even Santa Claus</i>
+<i>believes in you</i>
+
+427
+00:31:13,438 --> 00:31:17,033
+<i>Beat down your walls</i>
+<i>Begin, believe, begat</i>
+
+428
+00:31:18,910 --> 00:31:21,140
+<i>Be a better drummer</i>
+<i>Be an up-and-comer</i>
+
+429
+00:31:21,212 --> 00:31:26,240
+- <i>Can you picture that</i>
+- <i>Can you baggy that</i>
+
+430
+00:31:35,260 --> 00:31:37,285
+<i>All of us are winnin'</i>
+<i>Pickin'and a-grinnin'</i>
+
+431
+00:31:37,362 --> 00:31:39,296
+<i>Lordy, but I love to jam</i>
+
+432
+00:31:39,364 --> 00:31:42,060
+<i>jelly-belly gigglin'</i>
+<i>Dancin'and a-wigglin'</i>
+
+433
+00:31:42,133 --> 00:31:43,964
+<i>Honey, that's the way I am</i>
+
+434
+00:31:44,035 --> 00:31:46,765
+<i>I lost my heart in Texas</i>
+<i>Northern Lights affect us</i>
+
+435
+00:31:46,838 --> 00:31:48,806
+<i>I keep it underneath my hat</i>
+
+436
+00:31:48,873 --> 00:31:52,809
+<i>Aurora Borealis shinin'down on Dallas</i>
+<i>Can you picture that</i>
+
+437
+00:31:53,912 --> 00:31:56,073
+<i>Can you picture that</i>
+
+438
+00:31:56,147 --> 00:32:00,880
+- <i>Can you picture</i>
+- <i>You got to see it in your mind</i>
+
+439
+00:32:00,952 --> 00:32:05,218
+- <i>Can you picture</i>
+- <i>Yo, it's quick and easy to find</i>
+
+440
+00:32:05,290 --> 00:32:10,159
+- <i>Can you picture</i>
+- <i>You don't have to buy a frame</i>
+
+441
+00:32:10,228 --> 00:32:14,790
+<i>Can you picture</i>
+<i>Can you picture that</i>
+
+442
+00:32:14,866 --> 00:32:17,232
+<i>Can you picture that</i>
+
+443
+00:32:17,302 --> 00:32:19,600
+- <i>Use it if you need it</i>
+- <i>Don't forget to feed it</i>
+
+444
+00:32:19,671 --> 00:32:21,332
+<i>Can you picture that</i>
+
+445
+00:32:29,681 --> 00:32:32,912
+Doc Hopper will never
+recognize you now.
+
+446
+00:32:32,984 --> 00:32:34,918
+I don't know how
+to thank you guys.
+
+447
+00:32:34,986 --> 00:32:38,353
+- I don't know why to thank you guys.
+- Our pleasure, green stuff.
+
+448
+00:32:38,423 --> 00:32:40,516
+Are you sure you won't come
+with us to Hollywood?
+
+449
+00:32:40,591 --> 00:32:43,560
+Can't, baby.
+But when you get rich and famous...
+
+450
+00:32:43,628 --> 00:32:46,324
+maybe we'll show up
+and exploit your wealth.
+
+451
+00:32:48,700 --> 00:32:51,498
+Movin' right along, Fozzie.
+
+452
+00:32:51,569 --> 00:32:54,697
+Bye-bye! Bye-bye!
+
+453
+00:32:57,508 --> 00:33:00,773
+Hollywood! Hollywood!
+
+454
+00:33:05,616 --> 00:33:07,550
+Remember,
+this frog does everything.
+
+455
+00:33:07,618 --> 00:33:10,109
+He talks, he sings,
+he dances, he tells jokes.
+
+456
+00:33:10,188 --> 00:33:12,486
+He even rides a bicycle.
+
+457
+00:33:12,557 --> 00:33:15,025
+Max, find me a frog and a bear
+in a tan Studebaker.
+
+458
+00:33:15,093 --> 00:33:20,292
+Gee, Doc, all I can see is a frog and
+a bear in a rainbow-colored Studebaker.
+
+459
+00:33:20,365 --> 00:33:23,095
+- What?
+- What?
+
+460
+00:33:23,167 --> 00:33:26,534
+- Fozzie, they're right behind us!
+- I know! I know!
+
+461
+00:33:26,604 --> 00:33:29,164
+- How did they recognize us?
+- They recognized you.
+
+462
+00:33:29,240 --> 00:33:31,174
+- What do you mean?
+- There's a hundred bears around.
+
+463
+00:33:31,242 --> 00:33:33,176
+I'm gaining on 'em, Doc!
+
+464
+00:33:33,244 --> 00:33:35,940
+- Can't you drive any faster?
+- No, sir.
+
+465
+00:33:36,014 --> 00:33:37,504
+Pull in front of that sign.
+
+466
+00:33:37,582 --> 00:33:40,312
+- Now duck.
+- What?
+
+467
+00:33:40,385 --> 00:33:42,478
+- Get down, Fozzie.
+- Yes, sir.
+
+468
+00:33:52,964 --> 00:33:57,560
+Oh, yeah?
+
+469
+00:33:57,635 --> 00:33:59,569
+Uh-huh, yeah.
+
+470
+00:34:02,340 --> 00:34:06,709
+I tell ya, Camilla.
+Great plumbers are born, not made.
+
+471
+00:34:06,778 --> 00:34:09,508
+I'm a prince of the plunger,
+fair maiden.
+
+472
+00:34:11,916 --> 00:34:15,818
+Uh-huh. Yeah, yeah. We'll do that.
+Just wait till we get there.
+
+473
+00:34:15,887 --> 00:34:18,355
+Fozzie, look at that
+funny little truck.
+
+474
+00:34:18,423 --> 00:34:21,153
+- Yeah. Cute, huh?
+- No, it's coming straight at us.
+
+475
+00:34:24,462 --> 00:34:25,895
+We're gonna hit!
+
+476
+00:34:27,732 --> 00:34:32,032
+- We missed it.
+- Oh? You call that a miss?
+
+477
+00:34:34,539 --> 00:34:36,632
+I'm getting in your car.
+
+478
+00:34:40,244 --> 00:34:44,237
+- You guys okay?
+- Why are you hopping up and down?
+
+479
+00:34:44,315 --> 00:34:47,716
+- Because I'm hopping mad.
+- Guy's got a sense of humor.
+
+480
+00:34:48,486 --> 00:34:51,512
+- Hey, why don't you join us?
+- Where are you going?
+
+481
+00:34:51,589 --> 00:34:56,083
+- We're following our dream.
+- Really? I have a dream too.
+
+482
+00:34:56,160 --> 00:34:58,628
+- Oh?
+- But you'll think it's stupid.
+
+483
+00:34:58,696 --> 00:35:00,630
+- No, I won't.
+- Tell us. Tell us.
+
+484
+00:35:00,698 --> 00:35:04,259
+I wanna go to Bombay, India,
+and become a movie star.
+
+485
+00:35:05,336 --> 00:35:07,964
+You don't go to Bombay
+to become a movie star.
+
+486
+00:35:08,039 --> 00:35:10,098
+You go where we're going...
+Hollywood!
+
+487
+00:35:10,174 --> 00:35:14,304
+Sure, if you wanna do it
+the easy way.
+
+488
+00:35:16,481 --> 00:35:18,142
+We picked up a weirdo.
+
+489
+00:35:19,350 --> 00:35:21,443
+Hey, look up ahead.
+There's Mad Man Mooney's.
+
+490
+00:35:21,519 --> 00:35:23,851
+- What's that?
+- That's a used car lot.
+
+491
+00:35:23,921 --> 00:35:26,856
+Maybe we can trade in both
+these old cars and get one big one.
+
+492
+00:35:26,924 --> 00:35:29,916
+- Wait, trade in my uncle's Studebaker?
+- Sure.
+
+493
+00:35:29,994 --> 00:35:33,987
+- When he wakes up, he'll kill me.
+- You're swingin' this turn very wide.
+
+494
+00:35:34,065 --> 00:35:36,226
+Hold it, will ya?
+Here we go. Up the bump.
+
+495
+00:35:36,300 --> 00:35:38,996
+Okay, here we go. Hold on.
+
+496
+00:35:39,070 --> 00:35:42,005
+- Pull it up ahead there.
+- Look at these cars!
+
+497
+00:35:42,073 --> 00:35:45,873
+- Are you gonna sell my plunger too?
+- No, he's not.
+
+498
+00:35:45,943 --> 00:35:48,571
+Look at 'em up there.
+Pull it up a little farther.
+
+499
+00:35:48,646 --> 00:35:51,137
+Where shall I stop?
+How should I stop?
+
+500
+00:35:51,215 --> 00:35:53,274
+- A little bit farther.
+- Okay. Here?
+
+501
+00:35:55,553 --> 00:35:57,680
+- Everybody out of the car.
+- Okay. Chickens first.
+
+502
+00:35:57,755 --> 00:36:02,385
+My dear friends, welcome to
+Mad Man Mooney's hubcap heaven.
+
+503
+00:36:02,460 --> 00:36:04,985
+Today is your lucky day.
+
+504
+00:36:05,062 --> 00:36:07,360
+- It is?
+- Yes, it is. You, for example.
+
+505
+00:36:07,431 --> 00:36:09,865
+- You're drivin' the wrong car.
+- I am?
+
+506
+00:36:09,934 --> 00:36:14,166
+I can put you in this German
+street machine for only $2,000.
+
+507
+00:36:14,238 --> 00:36:17,674
+Less a $12 trade-in
+on your old vehicle.
+
+508
+00:36:17,742 --> 00:36:19,972
+Now, this car is one
+of the greatest...
+
+509
+00:36:23,881 --> 00:36:26,213
+Detachable fenders
+for narrow garages.
+
+510
+00:36:26,284 --> 00:36:27,444
+No, thanks.
+
+511
+00:36:27,518 --> 00:36:30,612
+What is this pile of...
+Jack, get rid of this heap.
+
+512
+00:36:30,688 --> 00:36:32,747
+Come out here!
+
+513
+00:36:32,823 --> 00:36:34,415
+What?
+What, what?
+
+514
+00:36:34,492 --> 00:36:37,518
+What's the matter with you?
+That's myJack.
+
+515
+00:36:37,595 --> 00:36:41,531
+- Hi, Jack.
+- Jack not name. Jack job.
+
+516
+00:36:43,100 --> 00:36:45,830
+How many times have I told you
+not to talk to the customers?
+
+517
+00:36:45,903 --> 00:36:49,236
+- Yeah, I know...
+- Just move this. You understand?
+
+518
+00:36:53,044 --> 00:36:54,477
+Wow!
+
+519
+00:37:02,453 --> 00:37:07,049
+Friends, Mad Man Mooney doesn't believe
+in all that dealing and wheeling.
+
+520
+00:37:07,124 --> 00:37:09,684
+No, the price on the sticker
+is the price you pay.
+
+521
+00:37:09,760 --> 00:37:11,921
+And never more and never less.
+
+522
+00:37:14,265 --> 00:37:16,893
+We'll take that one for $11.95.
+
+523
+00:37:17,735 --> 00:37:20,932
+- What?
+- Less our $12 trade-in.
+
+524
+00:37:21,005 --> 00:37:22,996
+You owe us a nickel.
+
+525
+00:37:27,044 --> 00:37:30,741
+Thank you very much. Hey, we're
+all going to Hollywood. Wanna come?
+
+526
+00:37:30,815 --> 00:37:35,275
+- Hollywood!
+- That's strange. He just ran away.
+
+527
+00:37:35,353 --> 00:37:37,583
+- Moving right along, Fozzie.
+- Yes, sir.
+
+528
+00:37:43,661 --> 00:37:47,893
+- Watch where you're going now, Fozzie.
+- Yes, sir.
+
+529
+00:37:47,965 --> 00:37:51,196
+Hey! Wait!
+Where are ya goin'?
+
+530
+00:37:51,269 --> 00:37:56,138
+Hey! Wait for me!
+I wanna go to Hollywood!
+
+531
+00:37:56,207 --> 00:37:58,141
+Hey! Wait for me!
+
+532
+00:37:58,209 --> 00:38:01,042
+Come on, guys!
+Wait, please!
+
+533
+00:38:01,112 --> 00:38:03,444
+I wanna go to Hollywood!
+
+534
+00:38:40,551 --> 00:38:43,714
+Testing, one, two, three.
+Testing. Can you hear me?
+
+535
+00:38:43,788 --> 00:38:48,418
+It's time to announce the winner of
+this year's Bogen County Beauty Pageant.
+
+536
+00:38:50,494 --> 00:38:54,555
+- <i>We sure grow 'em pretty around here.</i>
+- What's that?
+
+537
+00:38:54,632 --> 00:38:56,566
+<i>All right, here they are.</i>
+
+538
+00:38:56,634 --> 00:38:58,932
+- <i>The first runner-up...</i>
+- What's over there?
+
+539
+00:38:59,003 --> 00:39:02,461
+- <i>is Debbie Sue Anderson.</i>
+- See?
+
+540
+00:39:07,044 --> 00:39:10,275
+Nice-looking girls, huh?
+
+541
+00:39:10,348 --> 00:39:12,714
+- Wow! Nice-looking chickens.
+- What?
+
+542
+00:39:12,783 --> 00:39:16,014
+- No hard feelings, honey.
+- <i>Before announcing the winner...</i>
+
+543
+00:39:16,087 --> 00:39:18,920
+I think we should thank
+the judges of today's contest...
+
+544
+00:39:18,989 --> 00:39:21,480
+Edgar Bergen
+and Charlie McCarthy.
+
+545
+00:39:25,229 --> 00:39:28,289
+You're not gonna believe
+who the winner is, folks.
+
+546
+00:39:28,366 --> 00:39:32,097
+- Come now, Charlie. It's their movie.
+- So 'tis.
+
+547
+00:39:35,706 --> 00:39:40,769
+And here she is, folks,
+this year's Miss Bogen County...
+
+548
+00:39:40,845 --> 00:39:43,313
+Miss Piggy!
+
+549
+00:39:48,018 --> 00:39:49,485
+Thank you.
+
+550
+00:39:50,654 --> 00:39:53,817
+Wow! It's a pig!
+Did you see that?
+
+551
+00:39:53,891 --> 00:39:56,382
+Thank you, everyone.
+Thank you.
+
+552
+00:40:00,331 --> 00:40:02,356
+Oh, Debbie Sue.
+
+553
+00:40:02,433 --> 00:40:06,494
+Oh, Ama Jane.
+Thank you. Thank you.
+
+554
+00:40:07,805 --> 00:40:09,067
+Thank you.
+
+555
+00:40:10,875 --> 00:40:12,900
+Thank you.
+Kissy-kissy.
+
+556
+00:40:12,977 --> 00:40:15,537
+Kissy-kissy.
+Thank you.
+
+557
+00:40:15,613 --> 00:40:18,275
+- Kermit, you know...
+- Not right now, Fozzie.
+
+558
+00:40:18,349 --> 00:40:21,978
+I just want to say one thing.
+
+559
+00:40:22,052 --> 00:40:25,852
+This is the happiest
+moment of my...
+
+560
+00:40:38,235 --> 00:40:41,966
+<i>Never before</i>
+
+561
+00:40:42,039 --> 00:40:45,270
+<i>Have two souls joined so freely</i>
+
+562
+00:40:45,342 --> 00:40:48,778
+<i>And so fast</i>
+
+563
+00:40:48,846 --> 00:40:54,341
+<i>For me this is the first time</i>
+<i>and the last</i>
+
+564
+00:40:54,418 --> 00:40:58,752
+<i>Is this an angel's wish</i>
+
+565
+00:40:58,823 --> 00:41:01,417
+<i>For men</i>
+
+566
+00:41:01,492 --> 00:41:04,586
+<i>Never before</i>
+
+567
+00:41:04,662 --> 00:41:08,792
+<i>And never again</i>
+
+568
+00:41:08,866 --> 00:41:14,031
+<i>And where to find the words</i>
+<i>to sing its won'th</i>
+
+569
+00:41:15,506 --> 00:41:18,703
+<i>This love was bound for Heaven</i>
+
+570
+00:41:18,776 --> 00:41:21,267
+<i>Not for Earth</i>
+
+571
+00:41:21,345 --> 00:41:23,575
+<i>This love was meant</i>
+
+572
+00:41:23,647 --> 00:41:28,346
+<i>To light the stars</i>
+
+573
+00:41:28,419 --> 00:41:30,353
+<i>But when we touched</i>
+
+574
+00:41:30,421 --> 00:41:35,290
+<i>We made it ours</i>
+
+575
+00:41:35,359 --> 00:41:37,520
+<i>And could they take it back</i>
+
+576
+00:41:37,595 --> 00:41:41,156
+<i>Oh, no, they wouldn't dare</i>
+
+577
+00:41:41,232 --> 00:41:44,531
+<i>Why should they take it back</i>
+
+578
+00:41:44,602 --> 00:41:48,003
+<i>When there's enough</i>
+
+579
+00:41:48,072 --> 00:41:51,371
+<i>To share with all the world</i>
+
+580
+00:41:51,442 --> 00:41:56,243
+<i>And fill the heavens above</i>
+
+581
+00:41:56,313 --> 00:41:58,611
+<i>With leftover love</i>
+
+582
+00:41:58,682 --> 00:42:02,209
+<i>Never before</i>
+
+583
+00:42:02,286 --> 00:42:05,346
+<i>A love that keeps on growing</i>
+
+584
+00:42:05,422 --> 00:42:08,755
+<i>On and on</i>
+
+585
+00:42:08,826 --> 00:42:11,420
+<i>To fill each lover's heart</i>
+
+586
+00:42:11,495 --> 00:42:14,623
+<i>And light the dawn</i>
+
+587
+00:42:14,698 --> 00:42:18,657
+<i>Is this an angel's wish</i>
+
+588
+00:42:18,736 --> 00:42:21,637
+<i>For men</i>
+
+589
+00:42:21,705 --> 00:42:24,572
+<i>Never before</i>
+
+590
+00:42:24,642 --> 00:42:29,978
+<i>And never again</i>
+
+591
+00:42:31,682 --> 00:42:37,314
+<i>Never before</i>
+
+592
+00:42:37,388 --> 00:42:43,293
+<i>And never again</i>
+
+593
+00:43:05,416 --> 00:43:07,145
+Excuse me.
+
+594
+00:43:07,217 --> 00:43:09,947
+- Yes. Of course.
+- Listen.
+
+595
+00:43:10,020 --> 00:43:12,784
+Congratulations on winning
+the beauty contest.
+
+596
+00:43:12,856 --> 00:43:17,987
+Thank you. Of course, normally,
+I don't do anything so trivial.
+
+597
+00:43:18,062 --> 00:43:21,623
+- I am an actress/model.
+- Oh, is that right? Well, um...
+
+598
+00:43:21,699 --> 00:43:23,997
+I'm gonna be a performer too.
+
+599
+00:43:25,269 --> 00:43:28,204
+Hey, Kermit,
+who's the cute-lookin' pig?
+
+600
+00:43:28,272 --> 00:43:30,297
+I beg your pardon.
+
+601
+00:43:30,374 --> 00:43:32,740
+If you were a chicken,
+you'd be impeccable.
+
+602
+00:43:33,811 --> 00:43:35,972
+Hey, I thought we were
+gonna go get some ice cream.
+
+603
+00:43:36,046 --> 00:43:38,378
+In a minute.
+I'll join you.
+
+604
+00:43:43,854 --> 00:43:46,846
+Well, what are you doing in town...
+
+605
+00:43:46,924 --> 00:43:50,189
+short, green and handsome?
+
+606
+00:43:50,260 --> 00:43:54,390
+- Well, we're headed west.
+- Really?
+
+607
+00:43:54,465 --> 00:43:57,957
+Yeah, but I should join
+my friends for ice cream.
+
+608
+00:43:59,403 --> 00:44:01,633
+You want to come along?
+
+609
+00:44:01,705 --> 00:44:05,197
+Me? You mean it?
+I'll be right back.
+
+610
+00:44:05,275 --> 00:44:07,607
+Don't move!
+
+611
+00:44:10,347 --> 00:44:10,547
+Hello, I'd like an ice cream.
+
+612
+00:44:10,547 --> 00:44:12,947
+Hello, I'd like an ice cream.
+
+613
+00:44:13,017 --> 00:44:15,952
+What do you want?
+Chocolate, vanilla, coffee, peach fudge?
+
+614
+00:44:16,020 --> 00:44:17,453
+- Rum banana?
+- Honey.
+
+615
+00:44:17,521 --> 00:44:21,958
+Honey? I beg your pardon.
+I hardly know ya.
+
+616
+00:44:22,026 --> 00:44:25,757
+But seriously, I'd like
+a honey ice-cream cone for me...
+
+617
+00:44:25,829 --> 00:44:28,696
+and a dragonfly ripple
+for my friend, the frog.
+
+618
+00:44:28,766 --> 00:44:33,135
+Okay, one honey cone
+for the bear.
+
+619
+00:44:33,203 --> 00:44:35,865
+- One dragonfly ripple for the frog.
+- Yucky.
+
+620
+00:44:35,939 --> 00:44:38,635
+- Don't get 'em mixed up.
+- Gotcha.
+
+621
+00:44:48,619 --> 00:44:50,644
+All right, Camilla,
+I'll get you a balloon.
+
+622
+00:44:50,721 --> 00:44:54,282
+But you have to pick the color.
+Red or green?
+
+623
+00:44:55,325 --> 00:44:57,987
+- Can I give you a word of advice?
+- What?
+
+624
+00:44:59,063 --> 00:45:01,463
+Why not take both?
+
+625
+00:45:04,068 --> 00:45:06,536
+What a wild idea!
+
+626
+00:45:06,603 --> 00:45:09,436
+Yeah, a beautiful chicken
+like that deserves two balloons.
+
+627
+00:45:09,506 --> 00:45:11,838
+You're right.
+I have guys in all the time.
+
+628
+00:45:11,909 --> 00:45:14,002
+Sometimes they get a bunch
+of balloons for their girls.
+
+629
+00:45:14,078 --> 00:45:17,946
+- They go gaga for it.
+- Gaga? I'll take the whole bunch.
+
+630
+00:45:31,161 --> 00:45:33,254
+I wonder where they went?
+
+631
+00:45:37,067 --> 00:45:38,967
+- Where's your pig friend?
+- I'm not really sure.
+
+632
+00:45:39,036 --> 00:45:41,197
+She said she was coming
+for ice cream, but...
+
+633
+00:45:41,271 --> 00:45:43,899
+Yoo-hoo! Yoo-hoo!
+Here I am!
+
+634
+00:45:43,974 --> 00:45:46,534
+Here I am! I'm packed!
+I'm packed!
+
+635
+00:45:46,610 --> 00:45:52,480
+- Yeah, so I see. What for?
+- You said I could come with you.
+
+636
+00:45:52,549 --> 00:45:55,313
+Yeah, but, to buy ice cream,
+not to Hollywood.
+
+637
+00:45:55,385 --> 00:45:59,048
+- We're going to Hollywood!
+- No! I mean, listen.
+
+638
+00:45:59,123 --> 00:46:02,615
+When I said...
+Well, when you heard...
+
+639
+00:46:02,693 --> 00:46:04,126
+Oh, brother.
+
+640
+00:46:05,462 --> 00:46:06,895
+What?
+
+641
+00:46:13,203 --> 00:46:16,798
+- What are you doing?
+- About seven knots.
+
+642
+00:46:19,309 --> 00:46:22,710
+- We'll follow you. To the car!
+- Yes, sir!
+
+643
+00:46:22,780 --> 00:46:25,305
+Gonzo, we're coming!
+
+644
+00:46:25,382 --> 00:46:27,976
+- Step on it, Fozzie.
+- Yes, sir.
+
+645
+00:46:28,051 --> 00:46:31,714
+- Kermit, you're a born leader.
+- Where is he?
+
+646
+00:46:33,223 --> 00:46:36,989
+Isn't this great?
+Here I am, floating in space.
+
+647
+00:46:37,861 --> 00:46:41,957
+This is the place to be.
+Whoopee!
+
+648
+00:46:42,032 --> 00:46:45,195
+- Fozzie, bear left.
+- What?
+
+649
+00:46:45,269 --> 00:46:46,896
+- Bear left.
+- Right, frog.
+
+650
+00:46:46,970 --> 00:46:48,995
+- What? That's cute.
+- Never mind.
+
+651
+00:46:50,407 --> 00:46:53,103
+This is...
+Look at our little car down there.
+
+652
+00:46:53,177 --> 00:46:55,645
+This is like flying.
+
+653
+00:46:56,713 --> 00:46:58,874
+Maybe this is flying.
+
+654
+00:46:58,949 --> 00:47:01,713
+I'm flying! Whoopee!
+
+655
+00:47:01,785 --> 00:47:04,015
+Doc, isn't that a frog up there?
+
+656
+00:47:05,088 --> 00:47:07,318
+No, that's a frog down here.
+
+657
+00:47:07,391 --> 00:47:09,859
+He's caught in a crosswind, Fozzie.
+We're gonna lose him.
+
+658
+00:47:09,927 --> 00:47:11,189
+Oh, no!
+
+659
+00:47:14,231 --> 00:47:17,496
+- What are you doin', Doc?
+- I'm goin' after their tires.
+
+660
+00:47:17,568 --> 00:47:21,664
+We're okay now. The wind shifted.
+Wait a minute.
+
+661
+00:47:21,738 --> 00:47:25,174
+Stay with him, Fozzie.
+He's right above us.
+
+662
+00:47:27,411 --> 00:47:29,345
+- He's okay.
+- Yeah. Hi, Gonzo!
+
+663
+00:47:29,413 --> 00:47:32,871
+- Fozzie, come back in here!
+- What? Yes, sir.
+
+664
+00:47:34,084 --> 00:47:37,247
+- Watch down the road!
+- Kermit!
+
+665
+00:47:39,256 --> 00:47:42,191
+Look out for the billboard!
+
+666
+00:47:47,831 --> 00:47:50,527
+- Take off, Fozzie!
+- Yes, sir!
+
+667
+00:47:50,601 --> 00:47:53,536
+Come back, you!
+
+668
+00:47:53,604 --> 00:47:56,801
+No frog's gonna make
+a monkey outta me!
+
+669
+00:47:59,443 --> 00:48:03,777
+- I'm back.
+- I don't understand any of this.
+
+670
+00:48:10,320 --> 00:48:12,811
+I just gotta
+catch up with those guys!
+
+671
+00:48:15,225 --> 00:48:19,628
+Kermit. You were so courageous,
+so magnificent.
+
+672
+00:48:20,430 --> 00:48:22,455
+Gee, I don't know what to say.
+
+673
+00:48:22,532 --> 00:48:25,797
+Say the bear was magnificent.
+After all, I did the driving.
+
+674
+00:48:25,869 --> 00:48:29,361
+And I took a 100-foot belly flop
+onto a moving car.
+
+675
+00:48:29,439 --> 00:48:33,842
+Yes, but, Kermit assumed
+the awesome responsibility...
+
+676
+00:48:33,911 --> 00:48:35,572
+of command.
+
+677
+00:48:35,646 --> 00:48:38,979
+- Gee.
+- Oh, brother.
+
+678
+00:48:40,717 --> 00:48:43,015
+Why don't we stop
+somewhere for the night...
+
+679
+00:48:43,086 --> 00:48:47,250
+and have a quiet,
+little dinner for two?
+
+680
+00:48:47,324 --> 00:48:50,316
+Terrific!
+I'll eat with you, Miss Piggy.
+
+681
+00:48:50,394 --> 00:48:53,192
+Not you, buzzard beak!
+
+682
+00:48:53,263 --> 00:48:55,197
+Just <i>mon capitaine...</i>
+
+683
+00:48:55,265 --> 00:48:57,290
+and <i>moi.</i>
+
+684
+00:48:58,368 --> 00:49:02,065
+Well,
+that might be nice.
+
+685
+00:49:13,450 --> 00:49:15,475
+Wow.
+
+686
+00:49:16,653 --> 00:49:20,987
+Good evening, Miss Piggy.
+You look lovely tonight.
+
+687
+00:49:21,058 --> 00:49:23,185
+Thank you.
+
+688
+00:49:32,636 --> 00:49:36,163
+I'm so sorry
+if I kept you waiting.
+
+689
+00:49:36,239 --> 00:49:38,264
+It was won'th it.
+
+690
+00:49:38,342 --> 00:49:40,333
+How charming of <i>vous.</i>
+
+691
+00:49:48,585 --> 00:49:53,386
+I took the liberty
+of ordering us some wine.
+
+692
+00:49:55,659 --> 00:49:57,251
+Oh, waiter.
+
+693
+00:49:58,362 --> 00:50:01,820
+Yes?
+May I help you?
+
+694
+00:50:01,898 --> 00:50:04,162
+The wine, please.
+
+695
+00:50:07,204 --> 00:50:11,436
+You mad, impetuous fink.
+It's champagne.
+
+696
+00:50:11,508 --> 00:50:14,238
+Not exactly.
+Sparkling muscatel.
+
+697
+00:50:14,311 --> 00:50:18,407
+One of the finest wines of Idaho.
+
+698
+00:50:18,482 --> 00:50:23,078
+- You may serve us now, please.
+- May I?
+
+699
+00:50:24,154 --> 00:50:29,251
+- Look how he does that.
+- Yeah. Pretty suave.
+
+700
+00:50:39,436 --> 00:50:42,064
+Don't you want to smell
+the bottle cap?
+
+701
+00:50:46,543 --> 00:50:48,033
+- Smells good.
+- Yeah.
+
+702
+00:50:48,111 --> 00:50:49,772
+Would you like
+to taste it first?
+
+703
+00:50:49,846 --> 00:50:52,076
+Well...
+
+704
+00:50:52,149 --> 00:50:56,984
+- I think he's supposed to.
+- Would you taste it for us, please?
+
+705
+00:51:11,068 --> 00:51:12,933
+Excellent choice.
+
+706
+00:51:13,003 --> 00:51:15,096
+Should be for 95 cents.
+
+707
+00:51:19,076 --> 00:51:22,102
+- And may we have straws, please?
+- Yes.
+
+708
+00:51:22,179 --> 00:51:25,171
+I expected that.
+
+709
+00:51:27,350 --> 00:51:29,443
+Thank you.
+That'll be all for now.
+
+710
+00:51:29,519 --> 00:51:33,751
+Thank you.
+Thank you very much.
+
+711
+00:51:33,824 --> 00:51:35,451
+Thank you!
+
+712
+00:51:37,794 --> 00:51:40,092
+Here's to you, Miss Piggy.
+
+713
+00:51:40,163 --> 00:51:41,755
+Drink up.
+
+714
+00:52:00,684 --> 00:52:02,618
+Makes me giggly.
+
+715
+00:52:04,387 --> 00:52:05,820
+The wine?
+
+716
+00:52:07,057 --> 00:52:08,991
+Everything.
+
+717
+00:52:13,096 --> 00:52:15,189
+It's a beautiful evening,
+isn't it?
+
+718
+00:52:16,199 --> 00:52:17,894
+Uh-huh.
+
+719
+00:52:17,968 --> 00:52:21,597
+And the moon
+is just lovely.
+
+720
+00:52:26,910 --> 00:52:28,935
+But you know, Miss Piggy...
+
+721
+00:52:29,012 --> 00:52:31,105
+the moon doesn't look like you.
+
+722
+00:52:39,856 --> 00:52:43,257
+Miss Piggy! Miss Piggy!
+
+723
+00:52:43,326 --> 00:52:46,762
+- Are you Miss Piggy?
+- Yes?
+
+724
+00:52:46,830 --> 00:52:48,388
+Telephone.
+
+725
+00:52:54,437 --> 00:52:57,998
+I did place one phone call
+to my agent.
+
+726
+00:52:59,075 --> 00:53:02,238
+It'll only be
+an eensy-teensy moment.
+
+727
+00:53:06,917 --> 00:53:08,851
+What the hey.
+
+728
+00:53:29,239 --> 00:53:32,106
+Evenin'.
+Rowlf. Rowlf the Dog.
+
+729
+00:53:32,175 --> 00:53:34,405
+Sit yourself down.
+
+730
+00:53:34,477 --> 00:53:37,105
+- Kermit. Kermit the Frog.
+- Pleased to meet ya.
+
+731
+00:53:41,851 --> 00:53:43,978
+I'm no Heifetz,
+but I get by.
+
+732
+00:53:44,054 --> 00:53:46,318
+That was...
+That was very nice.
+
+733
+00:53:47,390 --> 00:53:50,291
+Whoa, hey,
+broken heart, right?
+
+734
+00:53:51,294 --> 00:53:52,488
+Does it show?
+
+735
+00:53:52,562 --> 00:53:56,965
+Listen, when you've been ticklin'
+the ivories as long as I have...
+
+736
+00:53:57,033 --> 00:54:00,059
+you've seen a broken heart
+for every drop of rain.
+
+737
+00:54:00,136 --> 00:54:03,003
+A shattered dream
+for every fallen star.
+
+738
+00:54:04,608 --> 00:54:07,873
+Exactly.
+She just walked out on me.
+
+739
+00:54:07,944 --> 00:54:12,210
+- Typical. That's why I live alone.
+- You do, huh?
+
+740
+00:54:12,282 --> 00:54:14,147
+You bet.
+
+741
+00:54:14,217 --> 00:54:17,084
+I finish work,
+I go home, read a book...
+
+742
+00:54:17,153 --> 00:54:20,748
+have a couple of beers,
+take myself for a walk and go to bed.
+
+743
+00:54:20,824 --> 00:54:22,792
+Nice and simple.
+
+744
+00:54:22,859 --> 00:54:27,193
+- Stay away from women. That's my motto.
+- But I can't.
+
+745
+00:54:27,264 --> 00:54:30,199
+Neither can I.
+That's my trouble.
+
+746
+00:54:32,068 --> 00:54:34,127
+<i>You can't live with 'em</i>
+
+747
+00:54:34,204 --> 00:54:36,468
+<i>You can't live without 'em</i>
+
+748
+00:54:36,539 --> 00:54:40,805
+<i>There's something</i>
+<i>irresistible-ish about 'em</i>
+
+749
+00:54:40,877 --> 00:54:44,404
+<i>We grin and bear it</i>
+<i>'cause the nights are long</i>
+
+750
+00:54:44,481 --> 00:54:47,279
+<i>I hope that somethin'better</i>
+<i>comes along</i>
+
+751
+00:54:48,551 --> 00:54:50,542
+I see what you mean.
+
+752
+00:54:50,620 --> 00:54:54,420
+<i>It's no good complainin'</i>
+<i>and pointless to holler</i>
+
+753
+00:54:55,258 --> 00:54:58,523
+<i>If she's a beauty</i>
+<i>she'll get under your collar</i>
+
+754
+00:54:59,262 --> 00:55:02,288
+<i>She made a monkey</i>
+<i>out of old King Kong</i>
+
+755
+00:55:02,365 --> 00:55:05,630
+<i>I hope that somethin'better</i>
+<i>comes along</i>
+
+756
+00:55:08,338 --> 00:55:10,738
+<i>Still, it's fun</i>
+<i>when you're fetchin'</i>
+
+757
+00:55:10,807 --> 00:55:12,741
+<i>And agree to see an etching</i>
+
+758
+00:55:12,809 --> 00:55:16,438
+<i>That you keep at your lily pad</i>
+
+759
+00:55:16,513 --> 00:55:20,449
+<i>There is no solution</i>
+<i>It's part of evolution</i>
+
+760
+00:55:20,517 --> 00:55:22,451
+<i>The pitter patter of soles</i>
+
+761
+00:55:22,519 --> 00:55:24,612
+<i>The little feet of tadpoles</i>
+
+762
+00:55:24,688 --> 00:55:27,623
+Rowlf, tadpoles don't have feet.
+
+763
+00:55:27,691 --> 00:55:30,683
+Sorry about that.
+Two, three, four.
+
+764
+00:55:30,760 --> 00:55:35,254
+<i>There's no limitation</i>
+<i>to mixin'and matchin'</i>
+
+765
+00:55:35,332 --> 00:55:39,063
+<i>Some get an itchin'for a critter</i>
+<i>they've been scratchin'</i>
+
+766
+00:55:39,135 --> 00:55:42,627
+<i>A skunk was badgered</i>
+<i>The results were strong</i>
+
+767
+00:55:42,706 --> 00:55:44,640
+<i>I hope that something better</i>
+
+768
+00:55:44,708 --> 00:55:46,699
+<i>I hope that something better</i>
+
+769
+00:55:46,776 --> 00:55:52,681
+<i>I hope that something better</i>
+<i>comes along</i>
+
+770
+00:56:01,324 --> 00:56:03,292
+Phone call for Kermit the Frog!
+
+771
+00:56:03,360 --> 00:56:06,227
+- You Kermit the Frog?
+- Yeah.
+
+772
+00:56:06,296 --> 00:56:07,388
+Phone.
+
+773
+00:56:12,869 --> 00:56:17,533
+It's not that often you see a guy
+that green have the blues that bad.
+
+774
+00:56:22,078 --> 00:56:24,012
+Kermie, please!
+
+775
+00:56:25,782 --> 00:56:28,478
+- Piggy, is that you?
+- <i>Yes, that's her.</i>
+
+776
+00:56:28,551 --> 00:56:32,749
+<i>And this is Doc Hopper.</i>
+<i>Now you listen, frog, and listen good.</i>
+
+777
+00:56:32,822 --> 00:56:37,691
+Step outside the motel right now.
+My guys'll meet you there.
+
+778
+00:56:38,862 --> 00:56:41,387
+Well,
+what if I don't?
+
+779
+00:56:41,464 --> 00:56:44,797
+Then your girlfriend
+will be ham hocks by breakfast.
+
+780
+00:56:46,403 --> 00:56:48,337
+Kermie, don't, don't!
+
+781
+00:57:05,355 --> 00:57:07,414
+Are you the guys
+I'm supposed to meet?
+
+782
+00:57:10,293 --> 00:57:13,160
+Good, Glen. That's good.
+Nice and tight.
+
+783
+00:57:15,598 --> 00:57:19,364
+- The professor's here, Doc.
+- Show him in. Show him in.
+
+784
+00:57:20,637 --> 00:57:24,437
+Kermie, I'm not a bit worried.
+
+785
+00:57:24,507 --> 00:57:28,841
+I know you're planning
+something bold and clever.
+
+786
+00:57:28,912 --> 00:57:31,676
+Well, I got us
+this far, didn't I?
+
+787
+00:57:36,453 --> 00:57:38,785
+- How are you?
+- Professor Krassman.
+
+788
+00:57:38,855 --> 00:57:42,086
+It's good to see you, Doc,
+you little rustic devil, you.
+
+789
+00:57:42,158 --> 00:57:45,821
+Where's my victim?
+I mean, patient.
+
+790
+00:57:45,895 --> 00:57:47,829
+- Step this way, Professor.
+- Of course.
+
+791
+00:57:47,897 --> 00:57:50,957
+Let me introduce you
+to your patient.
+
+792
+00:57:51,034 --> 00:57:53,298
+Prof. Krassman is
+the world's leading authority...
+
+793
+00:57:53,369 --> 00:57:55,769
+on mind control in frogs.
+
+794
+00:57:55,839 --> 00:58:00,469
+It's a very rapidly growing field.
+You like garlic, don't you?
+
+795
+00:58:00,543 --> 00:58:03,444
+Tell us what you're gonna do
+to our little Kermit.
+
+796
+00:58:03,513 --> 00:58:08,473
+Well, we're going to perform
+an electronic "cerebrectomy."
+
+797
+00:58:08,551 --> 00:58:11,816
+- A what?
+- An electronic cerebrectomy!
+
+798
+00:58:14,591 --> 00:58:16,058
+What's that?
+
+799
+00:58:16,125 --> 00:58:19,788
+It's something so sensational
+that you'll have to hold on to your hat.
+
+800
+00:58:19,863 --> 00:58:22,024
+- Yes?
+- When a German scientist says...
+
+801
+00:58:22,098 --> 00:58:24,259
+"Hold on to your hat,"
+it's not casual conversation.
+
+802
+00:58:24,334 --> 00:58:26,894
+Hold on to your hat!
+Hat, hold! Good!
+
+803
+00:58:26,970 --> 00:58:30,337
+Now, what we're going to do is bring out
+a machine that's going to wow you.
+
+804
+00:58:30,406 --> 00:58:33,170
+Bertram, Bertram,
+bring out the machine!
+
+805
+00:58:33,243 --> 00:58:35,609
+Wait till you see this. You think
+we're sleeping in Dusseldorf?
+
+806
+00:58:35,678 --> 00:58:38,909
+You think we're taking a nap
+in Cologne? No, we're working at night.
+
+807
+00:58:38,982 --> 00:58:42,349
+Each night, a new dial,
+a new knob, a diode.
+
+808
+00:58:42,418 --> 00:58:45,683
+- Electronic ce...
+- Cerebrectomy.
+
+809
+00:58:45,755 --> 00:58:49,191
+- Electronic cerebrectomy.
+- What does it do?
+
+810
+00:58:49,259 --> 00:58:51,352
+What does it do?
+
+811
+00:58:51,427 --> 00:58:54,191
+It turns the brains into guacamole.
+
+812
+00:58:57,367 --> 00:58:59,835
+First of all,
+I'll pull out of this, okay?
+
+813
+00:58:59,903 --> 00:59:01,837
+Wonderful.
+
+814
+00:59:02,906 --> 00:59:04,999
+Second?
+
+815
+00:59:08,678 --> 00:59:11,044
+Halt!
+
+816
+00:59:11,114 --> 00:59:13,708
+I detest the surfeit
+of provincial laughter.
+
+817
+00:59:13,783 --> 00:59:17,480
+Now, we take your friend,
+the little "F-O-R-G"...
+
+818
+00:59:17,554 --> 00:59:20,318
+put him in the chair,
+clamp on the terminals...
+
+819
+00:59:20,390 --> 00:59:22,585
+drop the electronic yarmulke...
+
+820
+00:59:22,659 --> 00:59:25,594
+and throw, what we call
+in German, the switch.
+
+821
+00:59:28,631 --> 00:59:30,724
+Yes, you little green devil...
+
+822
+00:59:30,800 --> 00:59:34,930
+soon it'll be a hot time
+at the old skull tonight.
+
+823
+00:59:35,004 --> 00:59:38,303
+Thank you, Herr Machine.
+Now, the frog will do your bidding.
+
+824
+00:59:38,374 --> 00:59:42,037
+He will do your every whim, He will do
+your television commercial, yes.
+
+825
+00:59:42,111 --> 00:59:46,207
+He will sell your frogs' legs.
+
+826
+00:59:46,282 --> 00:59:48,614
+- Zaparooni.
+- Head full of jelly.
+
+827
+00:59:48,685 --> 00:59:52,883
+- A noggin full of library paste!
+- Let's fry them brains!
+
+828
+00:59:52,956 --> 00:59:56,050
+- You've got a fun job.
+- I love it, I love it.
+
+829
+00:59:56,125 --> 00:59:59,925
+If I could inflict a little pain during
+the afternoon, I sleep good at night.
+
+830
+00:59:59,996 --> 01:00:02,464
+- We'll let you get on with it, then.
+- My pleasure.
+
+831
+01:00:02,532 --> 01:00:04,762
+Max.
+
+832
+01:00:04,834 --> 01:00:09,100
+I'll be back later
+to pick up what's left of the frog.
+
+833
+01:00:09,172 --> 01:00:12,835
+"What's left of the frog." You can have
+everything, excuse the brain.
+
+834
+01:00:12,909 --> 01:00:15,434
+All right.
+Bring over the frog.
+
+835
+01:00:17,213 --> 01:00:19,875
+Kermie, whatever happens next...
+
+836
+01:00:19,949 --> 01:00:23,646
+I wouldn't give up
+this evening together for anything.
+
+837
+01:00:23,720 --> 01:00:26,655
+- Would you?
+- Make me an offer.
+
+838
+01:00:32,395 --> 01:00:34,920
+Okay, I got him.
+I got him.
+
+839
+01:00:34,998 --> 01:00:37,466
+Good, good.
+
+840
+01:00:37,533 --> 01:00:40,024
+And why don't we take
+a little seat, Kermit?
+
+841
+01:00:40,103 --> 01:00:42,594
+Hold his hands down.
+
+842
+01:00:42,672 --> 01:00:45,664
+Get your feeties in place.
+
+843
+01:00:45,742 --> 01:00:48,040
+Will you
+stop whimpering?
+
+844
+01:00:48,111 --> 01:00:50,739
+Go out like a frog,
+not a little toad.
+
+845
+01:00:50,813 --> 01:00:55,477
+Okay, Herr Machine, this is
+big time here. Ready to go to work?
+
+846
+01:00:55,551 --> 01:00:57,746
+Hand clamps!
+
+847
+01:00:57,820 --> 01:00:59,685
+Foot clamps!
+
+848
+01:01:01,958 --> 01:01:04,620
+You can struggle
+all you want now, frog.
+
+849
+01:01:04,694 --> 01:01:08,061
+It'll do you
+very little good.
+
+850
+01:01:08,131 --> 01:01:11,225
+All right. And now
+it's time to drop...
+
+851
+01:01:11,300 --> 01:01:13,234
+the electronic beanie.
+
+852
+01:01:14,971 --> 01:01:18,429
+Soon there'll be enough voltage coursing
+through your little frog brain...
+
+853
+01:01:18,508 --> 01:01:21,375
+to light up Cincinnati.
+
+854
+01:01:21,444 --> 01:01:25,039
+- Here we go.
+- Oh, please! Not my frog, please!
+
+855
+01:01:25,114 --> 01:01:29,244
+- Say good-bye to the frog, pig.
+- Why should I?
+
+856
+01:01:29,318 --> 01:01:34,381
+Because in ten seconds,
+he won't know you from kosher bacon.
+
+857
+01:01:34,457 --> 01:01:36,391
+That does it!
+
+858
+01:02:01,651 --> 01:02:03,585
+What the heck's goin' on here?
+
+859
+01:02:03,653 --> 01:02:06,713
+A pig that goes bananas?
+What is this, a luau?
+
+860
+01:02:06,789 --> 01:02:08,757
+Where'd she go?
+
+861
+01:02:08,825 --> 01:02:10,850
+Oh, boys.
+
+862
+01:02:10,927 --> 01:02:12,918
+There she is! Get her!
+
+863
+01:02:14,564 --> 01:02:17,533
+I must reach the switch.
+I must!
+
+864
+01:02:17,600 --> 01:02:19,591
+- Switch... I must reach...
+- Oh, no.
+
+865
+01:02:27,210 --> 01:02:29,144
+- Now, Kermie.
+- Thank you.
+
+866
+01:02:40,723 --> 01:02:42,691
+Well...
+
+867
+01:02:42,759 --> 01:02:44,727
+shall we go now, Kermie?
+
+868
+01:02:47,163 --> 01:02:50,792
+Well...
+Just a second.
+
+869
+01:02:56,072 --> 01:02:58,666
+What?
+Piggy, it's your agent.
+
+870
+01:03:00,843 --> 01:03:02,777
+Thank you.
+
+871
+01:03:04,514 --> 01:03:06,607
+Yeah, Morty.
+What have you got?
+
+872
+01:03:06,682 --> 01:03:07,979
+Commercial?
+
+873
+01:03:09,552 --> 01:03:13,488
+How much? When?
+
+874
+01:03:13,556 --> 01:03:15,683
+Take it.
+
+875
+01:03:24,267 --> 01:03:26,201
+Good-bye!
+
+876
+01:03:44,887 --> 01:03:46,377
+What happened?
+
+877
+01:03:48,891 --> 01:03:51,189
+Flip, flip, flip, flip.
+
+878
+01:03:55,164 --> 01:03:57,655
+Don't worry, Animal.
+Your big scene is coming up.
+
+879
+01:03:57,733 --> 01:04:01,328
+Yeah, yeah. Just be cool and
+eat another seat cushion.
+
+880
+01:04:01,404 --> 01:04:03,338
+Seat cushion!
+
+881
+01:04:06,976 --> 01:04:08,944
+Well, how do you
+like the film?
+
+882
+01:04:09,011 --> 01:04:13,107
+I've seen detergents that
+leave a better film than this.
+
+883
+01:04:13,182 --> 01:04:17,380
+I don't care what anybody else says.
+I'm having a great time.
+
+884
+01:04:17,453 --> 01:04:19,284
+Oh, good.
+
+885
+01:04:20,489 --> 01:04:24,186
+- The "flim" is okey-dokey.
+- Good. Roll film.
+
+886
+01:04:24,260 --> 01:04:26,251
+"Flim" is "rooling."
+
+887
+01:04:26,329 --> 01:04:28,297
+Quiet, quiet.
+
+888
+01:04:30,833 --> 01:04:33,165
+This is the patriotic part.
+
+889
+01:04:33,236 --> 01:04:36,069
+- Should we stand up?
+- No.
+
+890
+01:04:37,506 --> 01:04:41,772
+<i>Oh, beautiful</i>
+<i>for spacious skies</i>
+
+891
+01:04:41,844 --> 01:04:45,940
+<i>For amber waves of grain</i>
+
+892
+01:04:46,015 --> 01:04:50,281
+<i>For purple mountains'majesties</i>
+
+893
+01:04:50,353 --> 01:04:54,756
+<i>Above the fruited plain</i>
+
+894
+01:04:54,824 --> 01:04:59,124
+<i>America, America</i>
+
+895
+01:04:59,195 --> 01:05:03,564
+<i>God shed His grace on thee</i>
+
+896
+01:05:03,633 --> 01:05:08,070
+<i>And crown thy good</i>
+<i>with brotherhood</i>
+
+897
+01:05:08,137 --> 01:05:10,537
+<i>From sea to</i>
+
+898
+01:05:10,606 --> 01:05:14,167
+<i>Shining sea</i>
+
+899
+01:05:17,280 --> 01:05:20,943
+Patriotism swells in the heart
+of the American bear.
+
+900
+01:05:35,798 --> 01:05:38,028
+Hold it, boys. Hold it!
+
+901
+01:05:38,100 --> 01:05:40,034
+Hold your fire!
+
+902
+01:05:41,570 --> 01:05:44,937
+Now, boys, no reflection
+on the job you been doin'...
+
+903
+01:05:45,007 --> 01:05:47,441
+but I decided
+to bring in a specialist.
+
+904
+01:05:58,287 --> 01:06:01,222
+Now, boys,
+this is Snake Walker.
+
+905
+01:06:02,291 --> 01:06:04,486
+Tell 'em what you do, Snake.
+
+906
+01:06:06,329 --> 01:06:08,354
+Kill frogs.
+
+907
+01:06:15,271 --> 01:06:18,502
+- How long is it to Hollywood?
+- We gotta be there by tomorrow.
+
+908
+01:06:18,574 --> 01:06:21,509
+Hey, Kermit! Are you going to
+get an agent like that pig had?
+
+909
+01:06:21,577 --> 01:06:24,307
+Gonzo, you know
+he's touchy about that.
+
+910
+01:06:25,982 --> 01:06:28,041
+- Hey, who's that? I don't believe that.
+- Oh, no.
+
+911
+01:06:32,521 --> 01:06:34,887
+- That's Piggy.
+- Yeah, I know.
+
+912
+01:06:35,791 --> 01:06:37,782
+Do you think we should
+help her with her bag?
+
+913
+01:06:43,299 --> 01:06:46,530
+Oh, Kermie!
+What an unbelievable coincidence!
+
+914
+01:06:50,906 --> 01:06:53,170
+Hello again.
+It's me!
+
+915
+01:06:53,242 --> 01:06:55,506
+Would you hold
+my laundry case?
+
+916
+01:06:57,780 --> 01:07:01,045
+- Well.
+- Well what?
+
+917
+01:07:01,117 --> 01:07:03,677
+So much has happened to me
+since I saw you last.
+
+918
+01:07:05,755 --> 01:07:08,349
+Frankly, Miss Piggy,
+I don't give a hoot.
+
+919
+01:07:08,424 --> 01:07:12,793
+My name is Rowlf the Dog, and I was
+playin' the piano in a... Oh, never mind.
+
+920
+01:07:18,601 --> 01:07:20,535
+I missed you.
+
+921
+01:07:22,938 --> 01:07:25,998
+Don't I get
+one kissy-kissy?
+
+922
+01:07:26,075 --> 01:07:29,408
+I don't think so, Miss Piggy.
+
+923
+01:07:29,478 --> 01:07:31,878
+Just one little hug?
+
+924
+01:07:39,088 --> 01:07:41,579
+<i>You've been listening</i>
+<i>to music to hug frogs by...</i>
+
+925
+01:07:41,657 --> 01:07:44,148
+<i>and this is Doc Hopper sayin'</i>
+<i>that if Kermit the Frog...</i>
+
+926
+01:07:44,226 --> 01:07:46,353
+don't stop right now and call me...
+
+927
+01:07:46,429 --> 01:07:50,388
+and agree to be my national spokesman,
+he will soon be a frogburger.
+
+928
+01:07:53,869 --> 01:07:57,566
+- We'll be okay.
+- Oh, <i>mon capitaine.</i>
+
+929
+01:08:01,911 --> 01:08:06,905
+Oh, boy. Yeah.
+What? No problem!
+
+930
+01:08:06,982 --> 01:08:10,748
+It's okay, it's okay.
+No problem. Hey, all right!
+
+931
+01:08:13,456 --> 01:08:16,482
+We're in trouble.
+
+932
+01:08:16,559 --> 01:08:19,119
+I wish I still had
+my Studebaker.
+
+933
+01:08:19,195 --> 01:08:21,663
+There's probably somethin'
+broken about the engine.
+
+934
+01:08:21,730 --> 01:08:24,563
+Hey, don't worry.
+Someone's bound to come along.
+
+935
+01:08:24,633 --> 01:08:26,066
+Yeah?
+
+936
+01:08:44,620 --> 01:08:47,987
+Well, I guess we blew it,
+huh, Gonzo?
+
+937
+01:08:48,057 --> 01:08:49,991
+Yeah.
+
+938
+01:08:51,160 --> 01:08:54,687
+But the sky sure is
+beautiful out here.
+
+939
+01:08:54,763 --> 01:08:56,697
+Look at that.
+
+940
+01:08:59,001 --> 01:09:03,938
+We're gonna miss
+the auditions tomorrow, right?
+
+941
+01:09:14,150 --> 01:09:18,416
+Boy, you could get lost
+in a sky like that.
+
+942
+01:09:20,055 --> 01:09:23,047
+I wish I had
+those balloons again.
+
+943
+01:09:23,125 --> 01:09:26,322
+So much for Hollywood.
+
+944
+01:09:27,163 --> 01:09:30,792
+Listen, gang.
+I never promised we'd make it.
+
+945
+01:09:30,866 --> 01:09:33,767
+I never promised anything.
+
+946
+01:09:42,244 --> 01:09:45,372
+<i>This looks familiar</i>
+
+947
+01:09:46,448 --> 01:09:49,747
+<i>Vaguely familiar</i>
+
+948
+01:09:49,818 --> 01:09:54,380
+<i>Almost unreal, yet</i>
+
+949
+01:09:54,456 --> 01:09:58,825
+<i>It's too soon to feel yet</i>
+
+950
+01:09:58,894 --> 01:10:02,057
+<i>Close to my soul</i>
+
+951
+01:10:02,131 --> 01:10:06,761
+<i>And yet so far away</i>
+
+952
+01:10:06,835 --> 01:10:12,296
+<i>I'm going to go</i>
+<i>back there someday</i>
+
+953
+01:10:15,144 --> 01:10:19,808
+<i>Sun rises, night falls</i>
+
+954
+01:10:19,882 --> 01:10:24,046
+<i>Sometimes the sky calls</i>
+
+955
+01:10:25,120 --> 01:10:27,850
+<i>Is that a song there</i>
+
+956
+01:10:27,923 --> 01:10:31,188
+<i>And do I belong there</i>
+
+957
+01:10:31,260 --> 01:10:35,788
+<i>I've never been there</i>
+
+958
+01:10:35,864 --> 01:10:38,833
+<i>But I know the way</i>
+
+959
+01:10:39,902 --> 01:10:43,668
+<i>I'm going to go back there</i>
+
+960
+01:10:43,739 --> 01:10:45,866
+<i>Someday</i>
+
+961
+01:10:47,643 --> 01:10:51,807
+<i>Come and go with me</i>
+
+962
+01:10:51,880 --> 01:10:54,849
+<i>It's more fun to share</i>
+
+963
+01:10:55,584 --> 01:10:59,577
+<i>We'll both be completely</i>
+
+964
+01:10:59,655 --> 01:11:03,022
+<i>At home in midair</i>
+
+965
+01:11:03,092 --> 01:11:07,358
+<i>We're flyin', not walking</i>
+
+966
+01:11:07,429 --> 01:11:10,830
+<i>On featherless wings</i>
+
+967
+01:11:10,899 --> 01:11:14,801
+<i>We can hold on to young</i>
+
+968
+01:11:14,870 --> 01:11:18,533
+<i>Like invisible string</i>
+
+969
+01:11:23,846 --> 01:11:27,907
+<i>There's not a word yet</i>
+
+970
+01:11:27,983 --> 01:11:32,511
+<i>For old friends who've just met</i>
+
+971
+01:11:32,588 --> 01:11:36,547
+<i>Part heaven, part space</i>
+
+972
+01:11:36,625 --> 01:11:41,187
+<i>Or have I found my place</i>
+
+973
+01:11:41,263 --> 01:11:44,755
+<i>You can just visit</i>
+
+974
+01:11:44,833 --> 01:11:48,701
+<i>But I plan to stay</i>
+
+975
+01:11:49,772 --> 01:11:54,072
+<i>I'm going to go back there</i>
+
+976
+01:11:54,143 --> 01:11:57,078
+<i>Someday</i>
+
+977
+01:11:59,748 --> 01:12:04,583
+<i>I'm going to go back there</i>
+
+978
+01:12:04,653 --> 01:12:07,121
+<i>Someday</i>
+
+979
+01:12:42,124 --> 01:12:44,524
+I didn't promise anybody anything.
+
+980
+01:12:46,028 --> 01:12:48,963
+What do I know
+about Hollywood anyway?
+
+981
+01:12:49,031 --> 01:12:52,899
+Just the dreams I got from sitting
+through too many double features.
+
+982
+01:12:52,968 --> 01:12:55,869
+<i>So why did you leave the swamp</i>
+<i>in the first place?</i>
+
+983
+01:12:55,938 --> 01:12:59,101
+'Cause some agent fella
+said I had talent.
+
+984
+01:12:59,174 --> 01:13:01,165
+He probably says that
+to everybody.
+
+985
+01:13:01,243 --> 01:13:03,768
+<i>On the other hand,</i>
+<i>if you hadn't left the swamp...</i>
+
+986
+01:13:03,846 --> 01:13:06,474
+<i>you'd be feeling</i>
+<i>pretty miserable anyhow.</i>
+
+987
+01:13:06,548 --> 01:13:10,882
+Yeah, but then it would
+just be me feelin' miserable.
+
+988
+01:13:10,953 --> 01:13:14,047
+Now I got a lady pig
+and a bear and a chicken...
+
+989
+01:13:14,123 --> 01:13:17,217
+a dog, a thing...
+whatever Gonzo is.
+
+990
+01:13:17,292 --> 01:13:21,092
+- He's a little like a turkey.
+- Yeah, A little like a turkey.
+
+991
+01:13:21,163 --> 01:13:23,563
+- But not much.
+- No, I guess not.
+
+992
+01:13:23,632 --> 01:13:26,226
+Anyhow, I brought 'em all out here
+into the middle of nowhere.
+
+993
+01:13:26,301 --> 01:13:28,269
+It's all my fault.
+
+994
+01:13:28,337 --> 01:13:30,771
+Still...
+
+995
+01:13:30,839 --> 01:13:32,830
+whether you promised them
+something or not...
+
+996
+01:13:32,908 --> 01:13:36,571
+you gotta remember
+they wanted to come.
+
+997
+01:13:36,645 --> 01:13:39,079
+But that's because
+they believed in me.
+
+998
+01:13:39,148 --> 01:13:41,673
+No, they believed
+in the dream.
+
+999
+01:13:41,750 --> 01:13:44,913
+- Well, so do I, but...
+- You do?
+
+1000
+01:13:44,987 --> 01:13:48,514
+- Yeah. Of course I do.
+- Well, then?
+
+1001
+01:13:48,590 --> 01:13:50,990
+Well, then...
+
+1002
+01:13:51,059 --> 01:13:53,926
+I guess I was wrong
+when I said I never promised anyone.
+
+1003
+01:13:55,097 --> 01:13:57,065
+I promised me.
+
+1004
+01:14:06,842 --> 01:14:08,776
+Hey, now, wait a minute.
+
+1005
+01:14:23,325 --> 01:14:25,259
+Hey, what's happening?
+
+1006
+01:14:25,327 --> 01:14:28,125
+At the moment,
+we're what's happening.
+
+1007
+01:14:29,998 --> 01:14:32,592
+Oh, great!
+Wonderful! Yeah!
+
+1008
+01:14:32,668 --> 01:14:35,102
+Zoot! Hey, Zoot!
+
+1009
+01:14:35,170 --> 01:14:38,503
+Hold it, hold it.
+Animal, cool it back there.
+
+1010
+01:14:38,574 --> 01:14:41,008
+Yeah.
+
+1011
+01:14:41,076 --> 01:14:43,772
+All right, yeah.
+
+1012
+01:14:43,846 --> 01:14:47,179
+Hey, it's wonderful to see you,
+but how did you ever find us?
+
+1013
+01:14:47,249 --> 01:14:50,343
+Oh, easy. We just read
+the screenplay you left us.
+
+1014
+01:14:50,419 --> 01:14:53,855
+"Exterior desert, night."
+We knew right where you were.
+
+1015
+01:14:53,922 --> 01:14:55,947
+Like, can you get behind it?
+
+1016
+01:14:56,024 --> 01:14:58,584
+Hey, when you dudes
+have to be at that audition?
+
+1017
+01:14:58,660 --> 01:15:01,686
+- 2:00 tomorrow afternoon.
+- Well, climb aboard the bus.
+
+1018
+01:15:01,763 --> 01:15:04,197
+We'll have breakfast
+at Hollywood and Vine.
+
+1019
+01:15:11,139 --> 01:15:13,573
+<i>Movin'right along</i>
+
+1020
+01:15:13,642 --> 01:15:15,940
+<i>Oh, yeah</i>
+
+1021
+01:15:16,011 --> 01:15:17,876
+Here we go.
+
+1022
+01:15:20,115 --> 01:15:22,106
+<i>Movin'right along</i>
+
+1023
+01:15:32,361 --> 01:15:36,127
+Kermie, whisper sweet nothings
+into my ear.
+
+1024
+01:15:36,198 --> 01:15:38,632
+Motorcycle cop.
+
+1025
+01:15:38,700 --> 01:15:40,827
+"Motorcycle cop"
+is a sweet nothing?
+
+1026
+01:15:40,903 --> 01:15:43,337
+A motorcycle cop is chasing us.
+
+1027
+01:15:45,207 --> 01:15:47,141
+Hey, Dr. Teeth,
+you better pull over.
+
+1028
+01:15:47,209 --> 01:15:51,043
+Hey, easier done than said.
+
+1029
+01:15:53,649 --> 01:15:56,482
+- Drag city.
+- What do we do now?
+
+1030
+01:15:57,719 --> 01:16:00,085
+Oh, dear.
+
+1031
+01:16:00,155 --> 01:16:03,090
+Hey, hey. The man with the badge.
+The police.
+
+1032
+01:16:03,158 --> 01:16:05,854
+The cops, the fuzz, the P-l...
+
+1033
+01:16:05,928 --> 01:16:09,557
+- Don't you dare.
+- I wouldn't think of it.
+
+1034
+01:16:14,236 --> 01:16:16,568
+Did we do something
+wrong, Officer?
+
+1035
+01:16:18,807 --> 01:16:21,571
+- Kermie, it's him!
+- Okay, gang. Let him explain.
+
+1036
+01:16:21,643 --> 01:16:24,669
+This whole disguise is
+only so I could warn you.
+
+1037
+01:16:24,746 --> 01:16:26,771
+Yeah. Sure, sure.
+
+1038
+01:16:26,848 --> 01:16:31,012
+I never thought Doc would hurt Kermit.
+I thought he was gonna lean on him.
+
+1039
+01:16:31,086 --> 01:16:33,953
+But now he's got this
+frog killer in from the coast...
+
+1040
+01:16:34,022 --> 01:16:35,956
+and the man is deadly!
+
+1041
+01:16:36,024 --> 01:16:38,049
+Oh, no. Kermit,
+what are we gonna do?
+
+1042
+01:16:38,126 --> 01:16:40,924
+It's time to beat feet,
+green stuff.
+
+1043
+01:16:40,996 --> 01:16:43,692
+I love it. Chase music is
+one of our best riffs.
+
+1044
+01:16:43,765 --> 01:16:46,233
+Hold it, Dr. Teeth.
+What's up ahead?
+
+1045
+01:16:46,301 --> 01:16:49,498
+- Only an old ghost town.
+- Fine.
+
+1046
+01:16:49,571 --> 01:16:52,870
+Listen, you go tell Doc Hopper
+I'll be waiting for him there.
+
+1047
+01:16:52,941 --> 01:16:56,104
+- What?
+- Kermit, you'll get killed!
+
+1048
+01:16:56,178 --> 01:16:59,113
+Listen, guys. Listen.
+
+1049
+01:16:59,181 --> 01:17:01,809
+I can't spend my whole life
+running away from a bully.
+
+1050
+01:17:01,883 --> 01:17:04,317
+It's time for a showdown.
+
+1051
+01:17:20,602 --> 01:17:22,695
+Chugga, chugga.
+
+1052
+01:17:33,915 --> 01:17:36,475
+Hey, listen.
+I'm gonna check things out.
+
+1053
+01:17:36,551 --> 01:17:38,985
+Everybody stay
+on the bus, okay?
+
+1054
+01:17:42,691 --> 01:17:44,352
+- Hey, Kermit?
+- Yeah?
+
+1055
+01:17:44,426 --> 01:17:47,827
+Can I take Animal for a walk?
+He needs some exercise.
+
+1056
+01:17:47,896 --> 01:17:49,830
+Yeah, sure.
+
+1057
+01:18:07,249 --> 01:18:09,308
+What is that?
+
+1058
+01:18:09,384 --> 01:18:13,946
+That's one of my latest inventions...
+a musical rotating rain barrel.
+
+1059
+01:18:14,022 --> 01:18:16,490
+- Oh, yeah.
+- You see...
+
+1060
+01:18:16,558 --> 01:18:21,052
+I'm Dr. Bunsen Honeydew,
+and this is my assistant, Beaker.
+
+1061
+01:18:21,129 --> 01:18:23,757
+We live here,
+perfecting useful inventions.
+
+1062
+01:18:23,832 --> 01:18:25,823
+Come in, come in.
+
+1063
+01:18:30,572 --> 01:18:32,540
+Welcome to our laboratory.
+
+1064
+01:18:35,410 --> 01:18:37,435
+Please don't touch anything.
+
+1065
+01:18:41,216 --> 01:18:43,912
+Is this the only street into town?
+
+1066
+01:18:43,985 --> 01:18:45,919
+Yes, yes.
+
+1067
+01:18:46,722 --> 01:18:48,917
+Hey, what are you dudes
+doin' in here?
+
+1068
+01:18:48,990 --> 01:18:51,117
+I'm so glad you asked!
+
+1069
+01:18:51,193 --> 01:18:53,593
+We're perfecting
+our latest invention...
+
+1070
+01:18:53,662 --> 01:18:56,392
+insta-grow pills.
+
+1071
+01:18:56,465 --> 01:19:00,060
+Well, what in the name
+of Fats Waller is that?
+
+1072
+01:19:01,369 --> 01:19:04,133
+A four-foot prune!
+
+1073
+01:19:04,206 --> 01:19:06,504
+A four-foot prune.
+
+1074
+01:19:06,575 --> 01:19:10,238
+Yeah, man. Well, what else
+do these pills make big?
+
+1075
+01:19:10,312 --> 01:19:12,280
+They work on anything.
+
+1076
+01:19:12,347 --> 01:19:14,645
+But the effect is,
+sadly, temporary.
+
+1077
+01:19:14,716 --> 01:19:16,479
+Sadly temporary.
+
+1078
+01:19:26,728 --> 01:19:28,662
+Hey, Kermit!
+Here comes Doc Hopper!
+
+1079
+01:19:28,730 --> 01:19:31,324
+I know.
+I'll be ready for him.
+
+1080
+01:19:36,538 --> 01:19:39,939
+Okay, frog. Where are ya?
+
+1081
+01:19:41,276 --> 01:19:43,335
+I'm here. I'll meet you
+in the middle of the street.
+
+1082
+01:19:43,411 --> 01:19:47,438
+- Oh, yeah?
+- Man to frog.
+
+1083
+01:20:07,035 --> 01:20:10,732
+- All right, Hopper.
+- All right, frog.
+
+1084
+01:20:10,806 --> 01:20:13,934
+One last chance.
+
+1085
+01:20:14,009 --> 01:20:17,467
+You can do my TV commercials
+live or stuffed.
+
+1086
+01:20:20,515 --> 01:20:22,449
+What's the matter with you?
+
+1087
+01:20:22,517 --> 01:20:24,883
+You gotta be crazy chasin' me
+halfway across the country.
+
+1088
+01:20:24,953 --> 01:20:26,887
+Why are you doin' this to me?
+
+1089
+01:20:28,790 --> 01:20:31,987
+'Cause all my life I wanted to own
+a thousand frog-leg restaurants...
+
+1090
+01:20:32,060 --> 01:20:33,994
+and you're the key, greenie.
+
+1091
+01:20:34,062 --> 01:20:36,257
+Yeah, well,
+I've got a dream too.
+
+1092
+01:20:36,331 --> 01:20:39,858
+But it's about singing and
+dancing and making people happy.
+
+1093
+01:20:39,935 --> 01:20:43,530
+The kind of dream that gets better
+the more people you share it with.
+
+1094
+01:20:43,605 --> 01:20:51,205
+And, well, I've found a whole bunch
+of friends who have the same dream.
+
+1095
+01:20:51,279 --> 01:20:54,305
+And it kind of
+makes us like a family.
+
+1096
+01:20:54,382 --> 01:20:56,247
+You have anybody
+like that, Hopper?
+
+1097
+01:20:56,318 --> 01:20:59,515
+Once you get all those restaurants,
+who're you gonna share it with?
+
+1098
+01:20:59,588 --> 01:21:03,922
+Who are your friends, Doc?
+Those guys?
+
+1099
+01:21:08,430 --> 01:21:10,591
+I got lots of friends.
+
+1100
+01:21:12,434 --> 01:21:14,368
+Max, for instance.
+
+1101
+01:21:17,539 --> 01:21:20,440
+- Max.
+- I don't think you're a bad man, Doc.
+
+1102
+01:21:20,508 --> 01:21:22,738
+I think if you look
+in your heart...
+
+1103
+01:21:22,811 --> 01:21:25,541
+you'll find you really want
+to let me and my friends go...
+
+1104
+01:21:25,614 --> 01:21:27,741
+to follow our dream.
+
+1105
+01:21:27,816 --> 01:21:31,377
+But if that's not
+the kind of man you are...
+
+1106
+01:21:31,453 --> 01:21:34,786
+and if what I'm saying
+doesn't make any sense to you...
+
+1107
+01:21:34,856 --> 01:21:38,656
+well, then,
+go ahead and kill me.
+
+1108
+01:21:51,907 --> 01:21:53,841
+All right, boys.
+
+1109
+01:21:53,909 --> 01:21:55,171
+Kill him.
+
+1110
+01:21:57,178 --> 01:21:58,304
+No, wait, please!
+
+1111
+01:22:50,865 --> 01:22:54,858
+- Everybody goin' to Hollywood?
+- Yeah!
+
+1112
+01:23:06,648 --> 01:23:08,843
+Next stop is
+Hollywood and Vine.
+
+1113
+01:23:16,858 --> 01:23:20,259
+Look at the ocean!
+The ocean!
+
+1114
+01:23:23,164 --> 01:23:26,463
+Yes, Mr. Lord. I'll have those
+deal memos for you in a jiffy.
+
+1115
+01:23:32,807 --> 01:23:34,297
+I'm sorry.
+
+1116
+01:23:34,376 --> 01:23:38,107
+Mr. Lord can't be disturbed by anyone.
+He's packaging a blockbuster.
+
+1117
+01:23:42,183 --> 01:23:45,084
+Look! It's wonderful!
+Like a dream come true.
+
+1118
+01:23:45,153 --> 01:23:48,919
+Don't count your tadpoles until they're
+hatched. I still have to audition.
+
+1119
+01:23:48,990 --> 01:23:51,515
+Hey, ain't nothin' to it
+but to do it.
+
+1120
+01:23:54,662 --> 01:23:57,529
+And where do you think
+you're going?
+
+1121
+01:23:57,599 --> 01:24:01,262
+Hi, there!
+I'm going to audition for Lew Lord.
+
+1122
+01:24:01,336 --> 01:24:04,271
+You can't just walk in here
+off the street, you know.
+
+1123
+01:24:04,339 --> 01:24:06,432
+Especially not with
+all these animals.
+
+1124
+01:24:06,508 --> 01:24:08,601
+Animals?
+What's wrong with animals?
+
+1125
+01:24:12,147 --> 01:24:15,310
+This is a movie studio,
+not a zoo!
+
+1126
+01:24:15,383 --> 01:24:17,248
+Besides...
+
+1127
+01:24:19,587 --> 01:24:23,318
+I'm allergic to animal hair.
+Now, get along, all of you.
+
+1128
+01:24:23,391 --> 01:24:25,723
+Now, wait a second.
+See here, miss.
+
+1129
+01:24:25,794 --> 01:24:29,252
+I may not be one of your fancy
+Hollywood frogs, but I deserve a chance.
+
+1130
+01:24:29,330 --> 01:24:32,891
+We're going to stay here until you let
+us in to see Lew Lord, aren't we, gang?
+
+1131
+01:24:32,967 --> 01:24:35,060
+Yes! Yes!
+
+1132
+01:24:35,136 --> 01:24:38,128
+- Yeah, come on!
+- We're gonna sit right down and wait.
+
+1133
+01:24:38,206 --> 01:24:41,972
+Yes, Security? Miss Tracy.
+
+1134
+01:24:42,043 --> 01:24:44,204
+I want to report a...
+
+1135
+01:24:44,279 --> 01:24:46,713
+Shake! Shake, everyone!
+
+1136
+01:24:46,781 --> 01:24:49,375
+- That's it!
+- Look what it's doing!
+
+1137
+01:24:49,451 --> 01:24:51,976
+- Go get 'em, man!
+- Way to go!
+
+1138
+01:24:52,053 --> 01:24:54,487
+Allergies are nothing
+to sneeze at.
+
+1139
+01:24:54,556 --> 01:24:56,717
+I'm allergic to cats, myself.
+
+1140
+01:25:07,135 --> 01:25:09,603
+Okay, way to go, guys!
+
+1141
+01:25:09,671 --> 01:25:11,605
+Thanks, miss.
+
+1142
+01:25:14,509 --> 01:25:16,443
+Well, friends...
+
+1143
+01:25:16,511 --> 01:25:19,036
+this is it.
+
+1144
+01:25:35,430 --> 01:25:39,366
+Mr. Lord? Forgive the interruption,
+but I'm here to audition.
+
+1145
+01:25:39,434 --> 01:25:41,197
+Yes, yes.
+
+1146
+01:25:41,269 --> 01:25:45,035
+We've come over 2,000 miles just...
+
+1147
+01:25:46,508 --> 01:25:47,770
+Oh, boy.
+
+1148
+01:25:51,479 --> 01:25:54,243
+We're all with you.
+
+1149
+01:25:56,718 --> 01:26:00,051
+Please, sir, my name is Kermit the Frog,
+and we read your ad...
+
+1150
+01:26:00,121 --> 01:26:03,284
+and, well, we've come
+to be rich and famous.
+
+1151
+01:26:18,840 --> 01:26:21,604
+Miss Tracy...
+
+1152
+01:26:21,676 --> 01:26:25,043
+prepare the standard
+"Rich and Famous" contract...
+
+1153
+01:26:25,113 --> 01:26:27,741
+for Kermit the Frog and company.
+
+1154
+01:26:45,166 --> 01:26:47,896
+Just look at all this.
+
+1155
+01:26:48,970 --> 01:26:51,029
+How did a frog
+make the big time?
+
+1156
+01:27:01,416 --> 01:27:03,611
+It starts when we're kids.
+
+1157
+01:27:04,686 --> 01:27:07,553
+<i>A show-off at school</i>
+
+1158
+01:27:07,622 --> 01:27:10,523
+<i>Makin'faces at friends</i>
+
+1159
+01:27:10,592 --> 01:27:12,526
+<i>You're a clown and a fool</i>
+
+1160
+01:27:14,128 --> 01:27:17,689
+<i>Doin'pratfalls and birdcalls</i>
+<i>and bad imitations</i>
+
+1161
+01:27:17,765 --> 01:27:20,962
+<i>Ignoring your homework</i>
+<i>There's that dedication</i>
+
+1162
+01:27:21,035 --> 01:27:23,503
+<i>Working the mirror</i>
+
+1163
+01:27:23,571 --> 01:27:26,597
+<i>You're getting standing ovations</i>
+
+1164
+01:27:27,675 --> 01:27:29,768
+<i>You're burning with hope</i>
+
+1165
+01:27:30,845 --> 01:27:33,780
+<i>You're building up steam</i>
+
+1166
+01:27:33,848 --> 01:27:37,306
+<i>What was once "juvenile-ish"</i>
+<i>is grown up and stylish</i>
+
+1167
+01:27:37,385 --> 01:27:40,013
+<i>You're close to your dream</i>
+
+1168
+01:27:40,088 --> 01:27:43,854
+<i>If somebody out there loves you</i>
+
+1169
+01:27:43,925 --> 01:27:47,122
+- <i>Stands up and hollers for more</i>
+- More!
+
+1170
+01:27:47,195 --> 01:27:52,394
+<i>You've found a home</i>
+<i>at the magic store</i>
+
+1171
+01:27:52,467 --> 01:27:55,027
+All right, everybody,
+production number, okay?
+
+1172
+01:27:55,103 --> 01:27:57,901
+Off the trucks
+and on the job!
+
+1173
+01:27:57,972 --> 01:28:00,463
+- On the job!
+- Hey, whoa! Aw, geez...
+
+1174
+01:28:00,541 --> 01:28:03,009
+Wow, let's do it!
+
+1175
+01:28:03,077 --> 01:28:05,102
+- Do what?
+- The movie!
+
+1176
+01:28:05,179 --> 01:28:08,273
+- Yes, sir! A footstomper!
+- Makeup!
+
+1177
+01:28:08,349 --> 01:28:12,342
+- Yes! Let's do it!
+- Fozzie, take those wagons out of there.
+
+1178
+01:28:13,421 --> 01:28:15,582
+Yes, sir. I'm off.
+
+1179
+01:28:21,729 --> 01:28:23,959
+Scenery over there. Great.
+
+1180
+01:28:24,032 --> 01:28:26,091
+Moving right along. Hey!
+
+1181
+01:28:27,835 --> 01:28:30,326
+Hey, those are
+the trees for the swamp.
+
+1182
+01:28:30,405 --> 01:28:32,839
+Mellow and profitable.
+
+1183
+01:28:36,010 --> 01:28:38,911
+- Let's make the scene!
+- Okay, hon.
+
+1184
+01:28:38,980 --> 01:28:42,609
+- Watch the tree, Rowlf.
+- Careful, Scooter.
+
+1185
+01:28:45,687 --> 01:28:47,621
+Watch it!
+
+1186
+01:28:47,689 --> 01:28:50,089
+Miss Piggy,
+you look beautiful.
+
+1187
+01:28:50,158 --> 01:28:52,524
+- Thank you!
+- Hollywood talk.
+
+1188
+01:28:56,064 --> 01:28:57,031
+Good.
+
+1189
+01:28:57,098 --> 01:28:59,396
+The lights... Yeah.
+
+1190
+01:28:59,467 --> 01:29:01,935
+Good. Save those arcs.
+
+1191
+01:29:03,371 --> 01:29:06,238
+Crazy Harry plays
+with electricity!
+
+1192
+01:29:09,677 --> 01:29:12,237
+Sound is ready.
+Give me a level.
+
+1193
+01:29:13,348 --> 01:29:15,282
+Testing!
+
+1194
+01:29:21,389 --> 01:29:22,481
+Rolling.
+
+1195
+01:29:23,925 --> 01:29:26,393
+Okay, everybody.
+Stay in focus, huh?
+
+1196
+01:29:27,528 --> 01:29:30,554
+Okay. <i>Muppet Movie,</i>
+scene 1 -A, take 1.
+
+1197
+01:29:32,967 --> 01:29:35,197
+- Makeup ready!
+- Scenery ready!
+
+1198
+01:29:35,269 --> 01:29:37,203
+- Yeah, good.
+- Film is running!
+
+1199
+01:29:37,271 --> 01:29:39,364
+- Camera rollin'!
+- All ready, Kermie!
+
+1200
+01:29:39,440 --> 01:29:42,000
+Okay, stand by.
+Here we go!
+
+1201
+01:29:53,421 --> 01:29:56,151
+<i>Why are there so many</i>
+
+1202
+01:29:56,224 --> 01:29:59,455
+<i>Songs about rainbows</i>
+
+1203
+01:29:59,527 --> 01:30:04,055
+<i>That's part of what rainbows do</i>
+
+1204
+01:30:05,900 --> 01:30:08,835
+<i>Rainbows are memories</i>
+
+1205
+01:30:08,903 --> 01:30:11,895
+<i>Sweet dream reminders</i>
+
+1206
+01:30:11,973 --> 01:30:16,410
+<i>Of what is it</i>
+<i>you'd like to do</i>
+
+1207
+01:30:18,279 --> 01:30:22,113
+<i>All of us watching and wishing</i>
+
+1208
+01:30:22,183 --> 01:30:24,378
+<i>We'd find it</i>
+
+1209
+01:30:24,452 --> 01:30:28,479
+<i>I've noticed</i>
+<i>you're watching too</i>
+
+1210
+01:30:30,024 --> 01:30:33,585
+<i>Someday you'll find it</i>
+
+1211
+01:30:33,661 --> 01:30:37,097
+<i>The rainbow connection</i>
+
+1212
+01:30:37,165 --> 01:30:40,896
+<i>The lovers, the dreamers and</i>
+
+1213
+01:31:30,952 --> 01:31:35,013
+<i>Life's like a movie</i>
+<i>Write your own ending</i>
+
+1214
+01:31:35,089 --> 01:31:38,855
+<i>Keep believing</i>
+<i>Keep pretending</i>
+
+1215
+01:31:38,926 --> 01:31:43,727
+<i>We've done just what</i>
+<i>we set out to do</i>
+
+1216
+01:31:43,798 --> 01:31:47,700
+<i>Thanks to the lovers</i>
+
+1217
+01:31:47,768 --> 01:31:51,067
+<i>The dreamers</i>
+
+1218
+01:31:51,138 --> 01:31:57,043
+<i>And you</i>
+
+1219
+01:32:09,757 --> 01:32:12,487
+I just knew I'd catch up
+with you guys!
+
+1220
+01:34:53,187 --> 01:34:55,485
+Go home! Go home!
+
+1221
+01:34:56,557 --> 01:34:58,491
+Bye-bye.

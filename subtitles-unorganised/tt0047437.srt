@@ -1,0 +1,1323 @@
+{1}{1}25.000
+{1555}{1597}{y:i}Once upon a time, 
+{1600}{1708}{y:i}on the North Shore of Long Island, |{y:i}some 30 miles from New York, 
+{1711}{1794}{y:i}there lived a small girl|{y:i}on a large estate. 
+{1797}{1911}{y:i}The estate was very large indeed|{y:i}and had many servants. 
+{1914}{1989}{y:i}There were gardeners|{y:i}to take care of the gardens
+{1992}{2056}{y:i}and a tree surgeon on a retainer. 
+{2059}{2176}{y:i}There was a boatman to putthe boats|{y:i}in the water in the spring
+{2179}{2251}{y:i}and scrape their bottoms|{y:i}in the winter. 
+{2254}{2337}{y:i}There were specialists|{y:i}to take care of the grounds, 
+{2340}{2453}{y:i}the outdoor tennis court|{y:i}and the indoor tennis court, 
+{2456}{2571}{y:i}the outdoor swimming pool|{y:i}and the indoor swimming pool. 
+{2597}{2665}{y:i}And a man of no particular title
+{2668}{2809}{y:i}took care of a small pool in the|{y:i}garden for a goldfish named George. 
+{2852}{2988}{y:i}Also on the estate there was|{y:i}a chauffeur by the name of Fairchild, 
+{2991}{3066}{y:i}who had been imported from England|{y:i}years ago, 
+{3069}{3143}{y:i}together with a new Rolls-Royce. 
+{3146}{3254}{y:i}Fairchild was a fine chauffeur|{y:i}of considerable polish, 
+{3257}{3323}{y:i}like the eight cars in his care. 
+{3326}{3419}{y:i}And he had a daughter|{y:i}by the name of... Sabrina. 
+{3456}{3561}{y:i}Itwas the eve of|{y:i}the annual six-metre-yacht races
+{3564}{3662}{y:i}and, as had been traditional|{y:i}for the past 30 years, 
+{3665}{3740}{y:i}the Larrabees were giving a party. 
+{3743}{3822}{y:i}It never rained on the night|{y:i}of the Larrabee party. 
+{3825}{3893}{y:i}The Larrabees|{y:i}wouldn't have stood for it. 
+{3896}{4040}{y:i}There were four Larrabees in all -|{y:i}father, mother and two sons. 
+{4051}{4150}{y:i}Maude and Oliver Larrabee|{y:i}were married in 1906.
+{4153}{4260}{y:i}Among their many wedding presents|{y:i}was a town house in New York
+{4263}{4312}{y:i}and this estate for weekends. 
+{4315}{4440}{y:i}The town house has since been|{y:i}converted into Saks Fifth Avenue. 
+{4443}{4557}{y:i}Linus Larrabee, the elder son, |{y:i}graduated from Yale, 
+{4560}{4610}{y:i}where his classmates voted him
+{4613}{4725}{y:i}the man most likely|{y:i}to leave his alma mater $50 million. 
+{4728}{4859}{y:i}His brother, David, wentthrough|{y:i}several of the best Eastern colleges
+{4862}{4920}{y:i}for shortperiods of time, 
+{4923}{5054}{y:i}and through several marriages|{y:i}for even shorter periods of time. 
+{5057}{5140}{y:i}He is now a successful|{y:i}six-goal polo player
+{5143}{5262}{y:i}and is listed on Linus's tax return|{y:i}as a $600 deduction. 
+{5307}{5362}{y:i}Life was pleasant among|{y:i}the Larrabees, 
+{5365}{5476}{y:i}for this was as close to heaven|{y:i}as one could get on Long Island. 
+{6406}{6480}Come on down from there, Sabrina!|Come on.
+{6533}{6582}You'd better finish your packing.
+{6585}{6677}Who's that girl, Father,|dancing with David?
+{6748}{6859}Her name is Gretchen Van Horn.|Chase National Bank.
+{6862}{6926}I hate girls that giggle|all the time.
+{6929}{6994}You hate every girl David looks at.
+{6997}{7118}You can't go on like this about|David. You've got to get over it.
+{7121}{7159}Yes, Father.
+{7162}{7240}It's good you're going away.|I only hope it's far enough.
+{7259}{7283}Yes, Father.
+{7286}{7335}Come along, Sabrina.
+{7355}{7440}In a minute, Father. You go ahead.|I'll be up soon.
+{8970}{9042}- Oh, it's you, Sabrina.|- Hello, David.
+{9045}{9092}I thought I heard somebody.
+{9158}{9207}No, it's nobody.
+{9668}{9754}Gretchen! Yoo-hoo!|Tennis, anyone?
+{9790}{9828}Gretchen?
+{9928}{9984}What is this, mixed singles?
+{10064}{10166}No! You have to stay on your side|ofthe net.
+{10169}{10224}That'll be a little difficult,|Gretchen.
+{10227}{10337}- You know the rules ofthe game.|- OK, I'll serve.
+{12582}{12626}Sabrina!
+{12844}{12868}Yes, Father?
+{12871}{12976}- Don't leave your passport tomorrow.|- No, Father.
+{12979}{13072}It's not every girl|that's lucky enough to go to Paris.
+{13075}{13152}And it's the best cooking school|in the world.
+{13155}{13249}If your mother were alive,|she'd be happy you were going there.
+{13252}{13324}She was the best cook|on Long Island.
+{13352}{13432}I'm not saying you have to be a cook,|as she was,
+{13435}{13495}or that I want you to marry|a chauffeur.
+{13498}{13542}But you know how I feel.
+{13555}{13618}Your mother and I|had a good life together.
+{13621}{13675}We were respected by everyone.
+{13678}{13735}That's as much as anyone can want.
+{13765}{13818}Don't reach for the moon, child.
+{13907}{13931}No, Father.
+{13934}{14036}Besides, it never hurt a young girl|to learn how to cook, did it?
+{14061}{14176}I'll wake you at seven.|The boat goes at noon. Good night.
+{14179}{14220}Good night.
+{22446}{22480}What's going on?
+{22525}{22574}Fairchild!
+{22610}{22659}Anybody here?
+{23385}{23446}Who's that?
+{23681}{23748}Sabrina, come out ofthere. Come on.
+{23874}{23908}Hello.
+{23911}{23977}What are you doing here?
+{23980}{24033}Just checking the spark plugs.
+{24036}{24075}The what?
+{24078}{24158}Father was worried|because a spark plug was missing.
+{24161}{24213}I wanted to find out|which one it was.
+{24216}{24278}So you started the motors|and closed the doors?
+{24281}{24374}- I didn't want to disturb anyone.|- You might never have done so again.
+{24377}{24483}- Does your father know?|- No! I wanted to surprise him.
+{24504}{24553}We'd better get out.
+{24593}{24659}There now. Breathe deep.
+{24679}{24728}That's right. Now, deep breath.
+{25107}{25172}- What happened?|- You passed out.
+{25270}{25354}I'm alright.|You don't have to carry me.
+{25357}{25418}Of all the idiotic things...
+{25421}{25516}Haven't you ever heard of carbon|monoxide? It kills people.
+{25536}{25560}It does?
+{25563}{25621}What would have happened|ifl hadn't come along?
+{25624}{25653}I'd have died.
+{25656}{25725}And fast. Eight cars!|One would have done it.
+{25728}{25795}Good thing Mrs Van Horn|asked me to drive her home.
+{25798}{25875}Mrs Van Horn? Gretchen's mother?
+{25878}{25957}- Why didn't she drive her home?|- We can't find Gretchen.
+{25960}{26009}- She...|- She what?
+{26027}{26069}Nothing.
+{26072}{26199}The next time you start a car, leave|the garage doors open. Understand?
+{26224}{26292}A chauffeur's daughter|should know better.
+{26314}{26356}Yes, sir.
+{26843}{26900}{y:i}Bonjour, mesdames et messieurs! 
+{26903}{27005}Yesterday we have learnt|the correct way how to boil water.
+{27008}{27120}Today we will learn the correct way|how to crack an egg.
+{27123}{27172}"Voil", an egg!
+{27175}{27290}Now an egg is not a stone.|It is not made of wood.
+{27293}{27360}It is a living thing with a heart.
+{27363}{27446}So when we crack it|we must not torment it.
+{27449}{27559}We must be merciful and execute it|quickly, like with the guillotine.
+{27577}{27670}It is done with one hand.|Kindly watch the wrist.
+{27705}{27770}"Voil." One, two, three, crack!
+{27827}{27901}You see? It is all in the wrist.
+{27909}{27991}And now, everybody, take an egg.
+{27994}{28038}One, two, three, crack!
+{28067}{28101}New egg.
+{28104}{28153}One, two, three, crack!
+{28192}{28270}New egg. One, two, three, crack!
+{28387}{28436}Take an egg. Crack!
+{28561}{28635}The wrist, huh? Like a whip.|You watch.
+{28638}{28713}One, two, three, crack! New egg.
+{28981}{29074}"Dear Father, or "Cher Papa"|as we say over here."
+{29077}{29126}"Isn't my French getting good?"
+{29129}{29231}"We finally finished our four-week|course in sauces, thank goodness!"
+{29234}{29316}"Soups were tough|but sauces just about killed me."
+{29319}{29412}"I almost flunked my hollandaise.|It kept separating on me."
+{29415}{29496}Too much vinegar.|Does she mention David?
+{29499}{29576}Mr Linus is ready to go into town.
+{29579}{29681}- What does she say about David?|- Not a word.
+{29684}{29733}No, wait. Here's something.
+{29736}{29812}- "I don't think of David very much."|- That's good.
+{29815}{29861}- "Except at night."|- That's bad.
+{29864}{29949}"I decided to be sensible|and tore up his picture."
+{29952}{29976}That's good.
+{29979}{30072}- "Please mail me some Scotch tape."|- That's bad.
+{30204}{30305}- Morning, Fairchild.|- Morning, sir. Beautiful day, sir.
+{30308}{30386}Take the Parkway.|Two windows open. 35 miles an hour.
+{30389}{30443}Yes, sir.
+{30687}{30732}Morning. Where are you offto?
+{30735}{30804}- The office, where do you think?|- On Sunday?
+{30807}{30882}- Today is Wednesday.|- Wednesday?
+{31013}{31156}This is KL 75263.|Get me Bowling Green 91099.
+{31203}{31286}Good morning, Miss McCardle.|How did the market open?
+{31289}{31390}Industrials, 247.63.|Up a dollar, ten.
+{31393}{31473}Rails, 94.7. Up 58 cents.
+{31476}{31558}Utilities, 47.23. Off 11 cents.
+{31578}{31653}I'm just leaving.|Put the coffee on in 45 minutes.
+{31808}{31872}Inter-office memo to David Larrabee.
+{31875}{31987}Dear David, you are a junior partner|of Larrabee Industries,
+{31990}{32055}Iocated at 30 Broad Street, New York.
+{32058}{32118}Your office is on the 22nd floor.
+{32121}{32256}Our normal week is Monday to Friday.|Our working day is nine to five.
+{32259}{32341}lfthis is inconvenient|you may retire with your pension.
+{32344}{32376}Having been with us one year,
+{32379}{32478}your entitlement is 65 cents|a month for the rest of your life.
+{32629}{32679}What do you hear from your daughter?
+{32682}{32747}- She still loves him.|- I beg your pardon?
+{32750}{32834}I mean|she loves the cooking school, sir.
+{32881}{32930}But she'll get over it.
+{33090}{33139}And now, "mesdames et messieurs",
+{33142}{33246}soon we will see how you have learnt|the lesson ofthe souffl.
+{33276}{33353}The souffl, it must be gay.
+{33356}{33389}Gay.
+{33392}{33542}Like two butterflies dancing|the waltz in the summer breeze.
+{33586}{33670}Very well. You have five seconds!
+{33700}{33734}Four seconds.
+{33737}{33765}Three seconds.
+{33768}{33795}Two seconds.
+{33798}{33853}One second.
+{33856}{33905}To the ovens!
+{34171}{34205}Too low.
+{34233}{34282}Too pale.
+{34302}{34353}Too heavy.
+{34356}{34396}Too low.
+{34399}{34448}Too high. You are exaggerating.
+{34482}{34524}Fair.
+{34527}{34551}So-so.
+{34578}{34602}Sloppy.
+{34642}{34757}Mmm! Superb! My dear Baron,|you have not lost your touch.
+{34829}{34878}Much too low.
+{34952}{35033}- I don't know what happened.|- I will tell you.
+{35036}{35111}You forgot to turn on the oven.
+{35114}{35175}I have been watching you.
+{35178}{35266}Your mind has not been on the|cooking. It has been elsewhere.
+{35269}{35369}You're in love. And I will venture|to go a step further.
+{35372}{35456}- You are unhappily in love.|- Does it show?
+{35459}{35581}Very clearly. Awoman happily|in love, she burns the souffl.
+{35584}{35716}Awoman unhappily in love,|she forgets to turn on the oven.
+{35719}{35831}- Am I correct?|- Yes. But I'm trying to get over it.
+{35834}{35949}Why try to get over it? You speak|oflove like it was a bad cough.
+{35987}{36044}He doesn't even know I exist.
+{36047}{36108}I might as well be reaching|for the moon.
+{36111}{36174}The moon?
+{36177}{36251}Oh, you young people|are so old-fashioned!
+{36254}{36366}Have you not heard? We are building|rockets to reach the moon.
+{36432}{36527}To begin with, you must stop looking|like a horse.
+{36530}{36564}Horse?
+{36660}{36713}"His name is Baron Saint Fontanel."
+{36732}{36776}Baron!
+{36779}{36870}"He came here for a refresher course|in souffls
+{36873}{36972}and liked me so much he decided|to stay on for the fish."
+{36975}{37074}- What does she say about David?|- David? She's got a baron!
+{37077}{37144}"The Baron is 74 years old,
+{37170}{37223}and very sweet and very wise."
+{37226}{37325}"He has a box at the opera,|a racing stable, wonderful paintings
+{37328}{37364}and his own vineyards."
+{37367}{37481}"Tomorrow night he is taking me|to a very fashionable charity ball
+{37484}{37563}and I have a dress|just for the occasion."
+{37566}{37617}"If David could only see me in it."
+{37620}{37714}"Yards of skirt|and way offthe shoulders."
+{37717}{37746}Good morning, sir.
+{37749}{37832}- Morning. What's going on?|- A letter from Sabrina.
+{37835}{37929}Wouldn't you like to read it?|There's something about you.
+{38214}{38279}- Poor Sabrina.|- What's wrong with him?
+{38282}{38340}He's getting married again.
+{38343}{38401}- He is?|- Number four.
+{38404}{38446}Who says so?
+{38449}{38555}Cholly Knickerbocker. Don't you|people ever read the society columns?
+{39479}{39556}- Is my brother in?|- Yes, Mr David, but he's very busy.
+{39559}{39633}- I want to see him.|- How about 3:30?
+{39636}{39711}- I want to see him now!|- I'm sorry. I have my orders.
+{39714}{39761}He's working on the plastics deal.
+{39764}{39802}Press that button,
+{39805}{39882}or I'll break that door down|using you as a battering ram!
+{39885}{39944}- Mr David!|- Make up your mind!
+{40038}{40093}Linus, I want to talk to you!
+{40177}{40301}- Ask for an appointment.|- Don't give me that! I'm mad!
+{40304}{40369}Alright, gentlemen,|I'll be ten minutes.
+{40432}{40481}Now what's the trouble?
+{40505}{40554}How did this get in the paper?
+{40557}{40606}"David Larrabee is to marry again."
+{40609}{40686}"The girl is Elizabeth Tyson|ofthe Oyster Bay Tysons."
+{40689}{40753}- Congratulations.|- Did you plant this?
+{40777}{40882}It's common knowledge about you and|Elizabeth Tyson. Don't you like her?
+{40885}{40968}I like her a lot.|I like a lot of girls a lot.
+{40971}{41051}- You can say that again.|- What are you doing with that gun?
+{41082}{41147}Put that thing away, Linus!
+{41150}{41248}Look at that. The greatest plastic|ever made. Not a scratch.
+{41251}{41347}I wonder how this'd stand up|against a bazooka.
+{41350}{41458}Miss McCardle, ask General Stanton|if we can borrow a bazooka.
+{41461}{41495}{y:i}Yes, Mr Larrabee. 
+{41498}{41574}- To get back to my problem...|- Lend me your lighter.
+{41577}{41666}Linus, I have no intention|of marrying Elizabeth Tyson!
+{41669}{41786}Doesn't burn, doesn't scorch,|doesn't melt. How about that!
+{41789}{41859}I've been married before.|I've had it three times.
+{41862}{41911}This time the family approves.
+{41914}{41991}You're going to do|something constructive. Taste it.
+{41994}{42050}What's constructive|about marrying her?
+{42053}{42111}- Taste it.|- It's sweet.
+{42114}{42163}It's made of sugar cane.
+{42166}{42229}Sugar cane.
+{42232}{42270}Wait a minute.
+{42273}{42397}The Tysons own the largest holdings|of sugar cane in Puerto Rico!
+{42400}{42474}Second largest.|The largest have no daughter.
+{42527}{42589}It's all beginning to make sense.
+{42592}{42682}Mr Tyson owns the sugar cane,|you own the formula for the plastics
+{42685}{42807}and I'm offered as a sacrifice|on the altar ofindustrial progress!
+{42810}{42897}You make it sound as ifthe son|ofthe hot-dog dynasty
+{42900}{42967}had to marry the daughter|ofthe mustard king.
+{42970}{43080}Surely you don't object to Elizabeth|because her father has $20 million?
+{43083}{43130}That's very narrow-minded of you.
+{43133}{43221}Just one thing. I haven't proposed|and she hasn't accepted.
+{43224}{43316}Oh, don't worry.|I proposed and Mr Tyson accepted.
+{43319}{43420}- Did you kiss him?|- Elizabeth is a lovely girl.
+{43423}{43509}Sooner or later you'll propose.|I'm helping you make up your mind.
+{43512}{43577}- Then you marry her.|- Me?
+{43580}{43629}What's so funny?
+{43632}{43744}Ifl got married, I'd have to take|a Dictaphone, two secretaries
+{43747}{43831}and four corporation counsellors|along on the honeymoon.
+{43834}{43904}I'd be unfaithful to my wife|every night
+{43907}{44007}with vice presidents, boards of|directors, slide-rule accountants...
+{44010}{44112}This... this is my home.|No wife would ever understand it.
+{44115}{44173}Nor me. You've got all the money|in the world.
+{44176}{44322}Making money isn't the main point|ofbusiness. Money is a by-product.
+{44325}{44437}- What's the main objective? Power?|- Ah! That's become a dirty word.
+{44460}{44559}What's the urge? You're going into|plastics. What will that prove?
+{44571}{44632}Prove? Nothing much.
+{44635}{44719}A new product has been found,|something of use to the world.
+{44722}{44791}A new industry moves into|an undeveloped area.
+{44794}{44874}Factories go up, machines go in|and you're in business.
+{44877}{44980}It's coincidental that people who've|never seen a dime now have a dollar
+{44983}{45082}and barefooted kids wear shoes|and have their faces washed.
+{45085}{45115}What's wrong with an urge
+{45118}{45199}that gives people libraries,|hospitals, baseball diamonds
+{45202}{45258}and movies on a Saturday night?
+{45261}{45321}- Send in the secretaries.|{y:i}- Yes, Mr Larrabee. 
+{45324}{45370}You make me feel like a heel.
+{45373}{45475}Ifl don't marry her, some kid|will run around Puerto Rico barefoot!
+{45478}{45582}Look at this stuff.|Planes and suits will be made ofit
+{45585}{45652}and you'll probably be able|to eat it.
+{45655}{45749}We're organising Larrabee Plastics.|Larrabee Construction has the plans.
+{45752}{45845}Larrabee Shipping bought nine more|freighters to handle the traffic.
+{45848}{45935}- The wheels are in motion already?|- That's what I mean.
+{45938}{46039}Would you demonstrate the weight test|to Mr David, please?
+{46042}{46113}- Linus, I believe you.|- Up you go.
+{46116}{46187}I want you to see|how resilient it is.
+{46190}{46239}Bounce, please, ladies.
+{46299}{46348}Some plastic, eh?
+{46351}{46441}We'd like a summer wedding|to get in on this year's sugar crop.
+{46454}{46488}Yeah.
+{46507}{46576}I think|you're going to be very happy.
+{46769}{46816}{y:i}Dearest Father, 
+{46819}{46940}{y:i}we shall be graduating nextweek|{y:i}and I shall be getting my diploma. 
+{46943}{47062}{y:i}I wantto thank you now for the two|{y:i}mostwonderful years of my life. 
+{47065}{47141}{y:i}I shall always love you|{y:i}for sending me here. 
+{47870}{47919}{y:i}It is late at night
+{47922}{48025}{y:i}and someone across the way|{y:i}is playing "La Vie En Rose". 
+{48028}{48079}{y:i}It is the French way of saying, 
+{48082}{48188}{y:i}I am looking atthe world|{y:i}through rose-coloured glasses. 
+{48191}{48260}{y:i}It says everything I feel. 
+{48294}{48374}{y:i}I have learnt so many things, |{y:i}Father. 
+{48377}{48516}{y:i}Not just how to make vichyssoise or|{y:i}calf's head with sauce vinaigrette, 
+{48519}{48584}{y:i}but a much more important recipe. 
+{48629}{48710}{y:i}I have learnt how to live, 
+{48713}{48810}{y:i}how to be in the world|{y:i}and of the world... 
+{48833}{48907}{y:i}... and not justto stand aside|{y:i}and watch. 
+{48942}{49057}{y:i}And I will never, never again|{y:i}run away from life, 
+{49060}{49109}{y:i}or from love, either. 
+{49160}{49251}{y:i}I am taking the plane home|{y:i}on Friday, Father. 
+{49254}{49317}{y:i}You needn'tpick me up|{y:i}atthe airport. 
+{49320}{49385}{y:i}I'll justtake|{y:i}the Long Island Rail Road
+{49388}{49481}{y:i}and you can meet me atthe train -|{y:i}the 4:15.
+{49534}{49630}{y:i}If you should have any difficulty|{y:i}recognising your daughter, 
+{49633}{49745}{y:i}I shall be the most sophisticated|{y:i}woman atthe Glen Cove station. 
+{50962}{51015}Taxi, miss?|Cheapest rates in Glen Cove.
+{51040}{51083}Hello! How are you?
+{51101}{51185}Well, I'm fine. How are you?|And I might add, who are you?
+{51209}{51276}- Who am I?|- Am I supposed to know?
+{51321}{51370}No, you're not supposed to know.
+{51373}{51472}- Are you stranded?|- My father was meant to pick me up.
+{51475}{51549}Whoever your father is,|I'll be eternally grateful.
+{51552}{51649}- That is ifl can give you a lift.|- You can drive me home.
+{51652}{51701}Good! I'll get your bags.
+{51748}{51822}- Where do you live?|- Dosoris Lane.
+{51825}{51905}Dosoris Lane?|Say, that's where I live!
+{51908}{51976}- Really?|- Sure. We must be neighbours.
+{51979}{52049}And I believe in|loving thy neighbour.
+{52052}{52113}Oh, so do I.
+{52116}{52165}Come on, David.
+{52168}{52258}- David? Is his name David?|- Yes, it is.
+{52261}{52316}That's funny. My name's David, too.
+{52342}{52391}That is funny, isn't it?
+{52511}{52572}Sure you don't want|to tell me your name?
+{52575}{52653}Positive.|I'm having much too much fun.
+{52656}{52712}Alright, if you want to play games...
+{52715}{52810}- Have you always lived here?|- Most of my life.
+{52813}{52882}I'd swear I know every pretty girl|on the North Shore.
+{52885}{52950}You take in more territory than that.
+{52980}{53052}This is maddening.|I've seen that face before.
+{53055}{53110}Let me see your profile again.
+{53127}{53175}I know I know you.
+{53178}{53277}I have a feeling I've seen you...|with your father.
+{53280}{53338}Wait!|Is your father Admiral Starratt?
+{53341}{53392}Hardly.
+{53395}{53465}Funny.|I keep seeing him in a uniform.
+{53468}{53550}Give us a hint.|What does your father do?
+{53553}{53638}- He's in transportation.|- Transportation?
+{53641}{53693}- Railroads. New York Central.|- No.
+{53696}{53745}- Planes. TWA.|- No.
+{53748}{53827}- Boats. United States Lines.|- No.
+{53830}{53882}- I pass.|- Automobiles.
+{53907}{53955}Oh? Chrysler?
+{53976}{54094}Yes, Chrysler and Ford|and General Motors and Rolls-Royce.
+{54097}{54160}Is he on the board|of all those companies?
+{54170}{54222}You might say he runs things.
+{54255}{54350}- I bet my brother Linus knows him.|- He certainly does.
+{54353}{54424}They often drive into town together.
+{54427}{54462}They do?
+{54465}{54533}Straight through to the garage,|please.
+{54536}{54603}I feel so stupid I could kill myself.
+{54606}{54661}You'll be alright in a minute.
+{54915}{54946}Here we are.
+{54949}{55068}I'm not just pretending we've met|somewhere before. We have met some...
+{55101}{55182}You don't live here. I live here.
+{55185}{55234}Hi, neighbour!
+{55321}{55370}Sabrina!
+{55471}{55555}Hello, Margaret!|It's so good to be home!
+{55558}{55649}Look at you! You've come home|such a beautiful lady!
+{55677}{55727}Oh, welcome home, Sabrina!
+{55730}{55788}Ernest! Jenny! How are you?
+{55813}{55889}Don't cry, Margaret.|It's nothing to cry about.
+{55892}{56014}I bought you a hat, a Paris hat|for you to wear to church on Sundays.
+{56017}{56093}Jenny, I have something for you...
+{56197}{56246}Father!
+{56341}{56427}I'm sorry. I had to take Mrs Larrabee|to the hairdresser.
+{56430}{56485}It doesn't matter.
+{56506}{56585}I wouldn't have recognised you|anyway.
+{56588}{56648}David had a little trouble,|didn't you?
+{56692}{56742}Yes, I did.
+{56745}{56804}I'll make coffee.|Will you come to the kitchen?
+{56807}{56926}- As soon as I've opened my bags.|- I'll take them upstairs.
+{56929}{57028}As old neighbours|the two of us should have a reunion.
+{57031}{57077}- It's only fair.|- Tonight?
+{57080}{57133}- Do you really want to see me?|- Very much.
+{57136}{57190}- Sure?|- Yes, I'm sure.
+{57193}{57242}- Alright.|- We'll go out on the town.
+{57245}{57340}We'll drive to New York, have|a quick drink, then go for dinner.
+{57343}{57422}I know a wonderful French restaurant|on First Avenue.
+{57425}{57509}I guess you wouldn't think|so much ofit after Paris.
+{57512}{57536}I'll love it!
+{57539}{57578}We'll go dancing.
+{57581}{57670}When they throw us out ofEl Morocco,|we'll go to the Village.
+{57673}{57756}You like Dixieland bands?|I know the greatest. It's...
+{57784}{57877}Wait, I forgot.|We're having a party here tonight.
+{57880}{57959}With an orchestra and dancing?|That'll be even more fun.
+{57978}{58055}I don't know.|A lot of dull people. Family stuff.
+{58058}{58103}I don't mind if you're there.
+{58126}{58187}- Sabrina?|- In a minute, Father.
+{58190}{58258}I have a lovely evening dress|with yards of skirt.
+{58261}{58321}- Shall I wear it?|- Why, yes, of course.
+{58324}{58375}This couldn't be nicer.|A homecoming party!
+{58378}{58460}I'll get the dress out|and press it.
+{58479}{58528}See you tonight.
+{58694}{58736}Hello, Linus. I'm back!
+{58951}{59026}It's Sabrina.|Would you have recognised her?
+{59029}{59108}That scrawny kid who'd run away|when she saw us,
+{59111}{59176}her knees painted with Mercurochrome.
+{59179}{59267}How do you like those legs now?|Aren't they something?
+{59270}{59350}David, the last pair oflegs|that were something
+{59353}{59412}cost the family $25,000.
+{59433}{59474}Look what I brought you from Paris.
+{59476}{59553}Sabrina, I should have mentioned it|in a letter...
+{59556}{59649}- Here. Do you like it?|- But I didn't want to upset you.
+{59652}{59710}Aren't they gaudy?
+{59713}{59797}Sabrina, David is engaged.|He's getting married again.
+{59800}{59843}I know. Margaret wrote me.
+{59846}{59935}Brandy. And this is for you to wear|on your day off.
+{59938}{60044}- Then you don't care?|- Not too much. He's not married yet.
+{60047}{60112}I don't like that.|I don't like the sound ofit.
+{60115}{60164}Father, everything has changed.
+{60167}{60238}Nothing's changed.|He's still David Larrabee.
+{60241}{60296}And you're still|the chauffeur's daughter.
+{60299}{60369}And you're still reaching for|the moon.
+{60372}{60457}No, Father.|The moon's reaching for me.
+{61205}{61278}I wish the wedding were tomorrow,|David.
+{61281}{61336}- Don't you?|- Yes, dear.
+{61364}{61464}Ten more days.|It'll seem more like ten years.
+{61467}{61512}Yes, dear.
+{61515}{61617}Father had planned for us to fly|to Honolulu afterwards. I said not.
+{61620}{61727}I don't want to spend the first|18 hours of my honeymoon in a plane.
+{61730}{61776}- Do you?|- Yes, dear.
+{61779}{61859}- David!|- What? I mean, no. What did you say?
+{61862}{61945}- Aren't you interested?|- Of course, dear.
+{62065}{62156}- Aren't they a sweet couple!|- Charming. Elizabeth is lovely.
+{62159}{62233}Why do young men wear white jackets|in the evening?
+{62236}{62285}They look like barbers!
+{62303}{62359}- Now, Oliver...|- My throat's dry.
+{62362}{62443}- Have you been smoking?|- I've stopped smoking.
+{62446}{62508}It's sad|that after 48 years of marriage
+{62511}{62573}distrust should creep|into our relationship.
+{62576}{62641}I'll join the men in the library.
+{62973}{63087}David? I think I ought to have|a talk with your chauffeur.
+{63090}{63126}What for?
+{63129}{63241}Father wants to give me a car|and your chauffeur could tell me...
+{63244}{63293}Sure, sure. Of course.
+{63296}{63367}- What's his name?|- Sabrina.
+{63370}{63456}I mean Fairchild.|I'll talk to him. Don't bother.
+{63459}{63542}Alright, darling. I know|you'll take care of everything.
+{64277}{64326}What is it, David?
+{64329}{64419}- Would you like to get some food?|- No, thank you.
+{64422}{64471}- A drink?|- No.
+{64668}{64780}- I'm terribly sorry!|- It's my fault. I didn't see you.
+{64783}{64834}- Will it wash out?|- Yes.
+{64837}{64933}- You'd better do it now.|- Come on, Elizabeth. I'll help you.
+{65112}{65156}Sabrina!
+{65159}{65195}David!
+{65303}{65354}- Hello.|- You look wonderful.
+{65357}{65419}- Thank you. I'm a bit late.|- I worried.
+{65422}{65480}Were you afraid I'd forgotten|the address?
+{65483}{65526}It crossed my mind.
+{65529}{65594}- Shall we dance?|- Right here?
+{66253}{66318}- Who is that girl?|- I don't know.
+{66321}{66388}I wonder what happened to Elizabeth.
+{66496}{66576}- What a lovely party.|- It is now.
+{66579}{66679}The nicest one you've ever had.|And I've been to all your parties.
+{66682}{66765}- You have?|- Standing up there in that tree.
+{66797}{66852}Sabrina, ifl'd only known.
+{67286}{67384}Sabrina,|where have you been all my life?
+{67387}{67480}- Right over the garage.|- Right over my car.
+{67483}{67576}Right up in that tree.|What a fool I was.
+{67609}{67663}And what a crush I had on you.
+{67686}{67741}It's not too late, is it?
+{67744}{67799}I don't know, David. Is it?
+{68183}{68254}You should see her!|You should see Sabrina!
+{68257}{68324}The prettiest girl.|The prettiest dress. The best dancer.
+{68327}{68364}The belle ofthe ball.
+{68367}{68450}- It's as if she belonged up there.|- I don't like it.
+{68453}{68493}- Is she dancing with David?|- That's right.
+{68496}{68602}He's holding her so close|I don't see how she can breathe.
+{68605}{68675}And the way they look|into each other's eyes...
+{68678}{68758}- I don't like it.|- Tom, be happy for her.
+{68761}{68832}This is what she wanted.|It's where she belongs.
+{68835}{68887}It's not.|And it's not where I belong.
+{68890}{68949}Remember the chauffeur|on the Harrington estate?
+{68952}{69003}His daughter fell in love|with the son.
+{69006}{69094}Next he was driving the family|to the church, changing his uniform
+{69097}{69135}and then giving the bride away.
+{69138}{69240}- That's not for me. I don't like it.|- That was 25 years ago.
+{69243}{69292}Come on. Let's sneak up and see her.
+{69875}{69899}David?
+{70011}{70081}- Hello, Mother.|- I don't know this lady.
+{70084}{70151}- You do.|- Good evening, Mrs Larrabee.
+{70154}{70225}- Mother, this is Miss Fairchild.|- Sabrina?
+{70228}{70263}Yes, of course.
+{70266}{70311}Yes, of course.
+{70341}{70378}Of course. Sabrina.
+{70381}{70466}You didn't recognise me, did you?|Have I changed?
+{70469}{70550}You certainly have.|You look lovely, Sabrina.
+{70553}{70673}I thought it'd be fun to ask her|to the party as a welcome home.
+{70676}{70746}David's been wonderful.|He met me at the station.
+{70749}{70811}Did he? How nice of him.
+{70814}{70889}- She's been to Paris.|- Yes, I know.
+{70892}{70975}Come and cook something|very special for us, Sabrina.
+{70978}{71061}- I want to see what you've learnt.|- I've learnt a lot.
+{71137}{71161}Bye.
+{73362}{73483}This is such fun. So much more fun|than just watching from that tree.
+{73486}{73570}I'm glad you came home.|I'll never let you go away again.
+{73573}{73615}- Never?|- Never.
+{73618}{73656}Would you like to kiss me?
+{73691}{73798}- Would I?|- Yes. A nice, steady kiss.
+{73801}{73882}- Not on roller skates this time.|- Roller skates?
+{73885}{73959}- You don't remember?|- I remember I had a pair.
+{73962}{74029}I was nine|and you had your arms around me
+{74032}{74107}because you were teaching me|to skate backwards.
+{74110}{74195}Suddenly, you kissed me.|I've never forgotten.
+{74242}{74317}- Sabrina, let's get out of here.|- Yes, let's.
+{74320}{74404}I tell you what. You slip away first.|I'll meet you at...
+{74407}{74440}The indoor tennis court.
+{74443}{74514}- And you'll bring champagne.|- Of course.
+{74606}{74655}You saw a lot from that tree!
+{74685}{74772}Will you have the orchestra play|{y:i}Isn't It Romantic? 
+{74775}{74822}Naturally.
+{75541}{75604}- Where's David?|- He's being a good host.
+{75607}{75692}I'll get him out of circulation.|Thank you.
+{75965}{76017}Got a minute, David?
+{76020}{76077}- Not now.|- The old man wants to see you.
+{76080}{76145}- I'm busy.|- He's frothing at the mouth.
+{76148}{76201}- What about?|- You guess.
+{76204}{76278}- Animal, vegetable or mineral?|- Definitely animal.
+{76571}{76662}Linus, this boy should be drummed out|ofthe family!
+{76665}{76703}What have I done now?
+{76706}{76771}I'm not saying|all Larrabees have been saints.
+{76774}{76873}Thomas Larrabee was hung for piracy.|Benjamin Larrabee was a slave trader.
+{76876}{76981}And Joshua Larrabee was shot|while attempting to rob a train.
+{76984}{77071}But no Larrabee has behaved|as you have behaved tonight!
+{77074}{77141}- Exactly what have I done?|- Done?
+{77144}{77192}Father,|remember your basal metabolism.
+{77195}{77250}Making love to a servant|in your mother's house!
+{77253}{77319}- She is not a servant.|- She's a servant's daughter.
+{77322}{77403}You have embarrassed|your mother and our chauffeur.
+{77406}{77494}I've too much respect for Fairchild|to intrude on his personal life.
+{77497}{77545}You should have that respect for her.
+{77548}{77615}I have so much respect for her|I invited her.
+{77618}{77671}- That's overdoing it.|- I love her!
+{77687}{77723}He loves her!
+{77726}{77830}Next thing he'll elope with the girl|in the middle ofthe night!
+{77833}{77864}Maybe!
+{77867}{77920}I'll overlook you're an engaged man
+{77923}{77998}and remind you of your marital record|to date.
+{78001}{78066}I know, Father.|I made three mistakes.
+{78069}{78175}First, that Hungarian countess, who|married you to bring her family over.
+{78178}{78302}Her parents and five brothers, all of|them needing costly dental repairs!
+{78305}{78387}- Do we have to go through it again?|- Then that Twyman girl.
+{78390}{78450}Her family 50 years|on the social register.
+{78453}{78562}She wore on her wedding dress not|a corsage but a Stevenson button!
+{78565}{78606}You promised not to swear.
+{78609}{78654}Then that great actress!
+{78657}{78760}All she does is commercials on|television for an underarm deodorant.
+{78816}{78858}And now our chauffeur's daughter!
+{78861}{78929}- Father, are you through?|- I am not through!
+{78932}{78995}I'm sure Linus|has a few words to say.
+{78998}{79057}I do.|But you won't like them, Father.
+{79060}{79122}- You're being unfair to David.|- I'm what?
+{79125}{79174}David's old enough to live his life.
+{79177}{79235}- If she's the girl for him...|- Nonsense!
+{79238}{79322}You really mean that?|It would knock your plans.
+{79325}{79422}The plastics merger? Forget it.|If you love her, take her.
+{79425}{79486}- This is the 20th century.|- The 20th century?
+{79489}{79574}I could pick a century out of a hat|and get a better one!
+{79577}{79672}You will get rid ofthat girl|and apologise to your fiance!
+{79675}{79793}Now, Father, don't push him. Let's|discuss this like civilised people.
+{79796}{79870}- Sit down, David.|- Thank you, Linus.
+{79906}{79957}I have to go. You two work it out.
+{79960}{80021}- Do you want me to help you?|- Of course.
+{80024}{80068}Then sit down.
+{80071}{80119}You're the only one who understands.
+{80234}{80316}- What is it? What happened?|- Champagne glasses. I sat on them.
+{80319}{80360}- On the chair?|- No. In my pocket!
+{81562}{81586}Sabrina?
+{81700}{81723}Hello.
+{81785}{81837}You did order champagne, didn't you?
+{81840}{81889}- What are you doing here?|- David sent me.
+{81892}{81969}- Isn't he coming?|- I don't think he can make it.
+{81972}{82037}- What happened?|- He got stuck.
+{82065}{82097}Stuck?
+{82100}{82158}Nothing serious.|One ofthose things.
+{82176}{82249}Shall I serve it up there|or will you come down?
+{82252}{82332}- Up there? Alright.|- No, I'll come down.
+{82335}{82405}We meet under the most peculiar|circumstances.
+{82408}{82485}Either you're under eight cars|looking for a spark plug
+{82488}{82615}or you're up here umpiring a tennis|match between two imaginary players.
+{82618}{82701}Oh, you look lovely, Sabrina.|And very grown up.
+{82704}{82785}- I'll get back to the party.|- And leave me here?
+{82788}{82819}What did David say?
+{82822}{82874}I haven't seen him in such a state
+{82877}{82959}since he was kicked in the head|by a polo pony.
+{82962}{83040}- That's nice.|- Amnesia has definitely set in.
+{83043}{83129}He's completely forgotten|he's engaged. He wants you.
+{83132}{83242}And I want him. I've been in love|with him all my life.
+{83245}{83310}- There goes the engagement!|- You don't object?
+{83313}{83420}Object? To you? It's as though|a window had been thrown open
+{83423}{83499}and a lovely breeze swept through|this stuffy house.
+{83502}{83538}How could I object?
+{83541}{83626}Even though the breeze|comes from the garage?
+{83629}{83684}This is the 20th century, Sabrina.
+{83687}{83742}Thank you. Let's drink to that.
+{83767}{83870}Sorry it isn't David here instead|of me. But it's all in the family.
+{83941}{83988}When you walked in,
+{83991}{84080}I was sure you'd been sent|by the family to deal with me.
+{84083}{84166}- To deal with you?|- Like in a Viennese operetta.
+{84169}{84243}The young prince falls in love|with a waitress
+{84246}{84304}and the prime minister is sent|to buy her off.
+{84307}{84358}- Buy her off?|- Yes.
+{84361}{84442}He offers her 5,000 kronen.|"No", she says.
+{84445}{84500}"10,000?" "No."
+{84503}{84552}- 15,000 kronen?|- No.
+{84555}{84604}- 25,000 kronen?|- No.
+{84608}{84710}- 25,000 dollars?|- No. How did dollars get into this?
+{84713}{84791}25,000 dollars after taxes,|that's a lot of money.
+{84794}{84828}What are you saying?
+{84831}{84906}I'm making it worthwhile.|What's a krone these days?
+{84909}{84985}No self-respecting prime minister|would offer kronen.
+{85006}{85079}No self-respecting waitress|would take dollars.
+{85082}{85111}Good girl.
+{85114}{85246}Say, how does this operetta end?|What's the last act?
+{85249}{85333}I don't know. I guess they run away|to America on a zeppelin
+{85336}{85392}with everybody singing like mad.
+{85395}{85463}- They open a brewery in Milwaukee?|- Yes.
+{85466}{85536}- A love that made Milwaukee famous.|- "Prosit."
+{85652}{85693}There it is.
+{85835}{85933}The song they were playing|the night before I went away.
+{85975}{86053}David was right here,|dancing it with somebody else.
+{86078}{86137}Tonight, I wanted it to be me.
+{86380}{86427}It's all in the family.
+{87013}{87087}How can we make sure that|all the fragments have been removed?
+{87093}{87173}Simple. We will reconstruct|the two champagne glasses.
+{87176}{87286}I cannot possibly be hurting you.|The area has been anaesthetised.
+{87289}{87346}It's not you. It's that song.
+{87755}{87813}Sabrina?
+{87816}{87913}lfDavid were here now, you'd expect|him to kiss you, wouldn't you?
+{88062}{88112}Here's a kiss from David.
+{88340}{88389}It's all in the family.
+{89316}{89373}- Come in.|- Hi.
+{89428}{89465}How do you feel?
+{89468}{89527}I never felt better in my life.
+{89530}{89595}You look fine.|Has the anaesthetic worn off?
+{89614}{89698}I guess it has.|I brought you a present.
+{89701}{89793}What happened last night? Was Sabrina|mad because I didn't show up?
+{89796}{89841}Not mad, just disappointed.
+{89844}{89916}- Poor kid. What did you tell her?|- The truth.
+{89919}{90004}That the family objected to her,|but you stood up like a man,
+{90007}{90056}and sat down like a jerk.
+{90125}{90174}23 stitches.
+{90223}{90288}This ought to make you feel better.
+{90320}{90371}A plastic hammock?
+{90374}{90474}With a trap door. I designed it|and ran it offthis morning.
+{90477}{90501}On Sunday?
+{90504}{90591}Why not? You were in pain,|so I had 'em open up the plant.
+{90594}{90621}What a brother!
+{90624}{90729}Let's try it on for size.|Come on. On your feet.
+{90815}{90868}I'll never drink champagne again.
+{90887}{90952}- What do you think of Sabrina?|- Wonderful girl.
+{90955}{91022}- Were you nice to her?|- As nice as I could be.
+{91025}{91150}What a brother. I'm still trying|to finish my poem to her.
+{91153}{91203}What rhymes with glass?
+{91206}{91255}Glass...
+{91333}{91393}- Alas.|- Of course.
+{91541}{91598}- Right on the nose.|- Linus!
+{91601}{91645}Sorry, David.
+{91703}{91757}If Sabrina were only here.
+{91776}{91832}Hey, how about smuggling her up here?
+{91835}{91883}What ifFather sees her?
+{91900}{91973}Yeah, we wouldn't want to spoil it.
+{91976}{92058}- No, we sure wouldn't.|- Linus, do me a favour.
+{92061}{92085}Any time.
+{92088}{92169}It's a bore for you,|but could you keep an eye on Sabrina?
+{92172}{92266}I already am. We're going sailing|this afternoon.
+{92269}{92326}- Sailing?|- In your boat.
+{92329}{92458}Honest? Oh, Sabrina... Tell her|we'll be off, just the two of us,
+{92461}{92510}the moment the stitches are out.
+{92513}{92608}- You've already made up your mind?|- Absolutely. This is it.
+{92611}{92716}I wanted to make sure.|It's been it three times before.
+{92719}{92795}I was blind. It's been Sabrina|since we were kids.
+{92798}{92833}I just couldn't see it.
+{92836}{92891}What about Elizabeth,|Father and Mother?
+{92894}{92983}Elizabeth will be so broken up|she'll buy three new hats.
+{92986}{93073}Mother will go to bed|with a severe headache.
+{93076}{93119}Father will take to the bottle
+{93122}{93214}then threaten to exile me|to Larrabee Copper in Butte, Montana.
+{93217}{93291}- That's where you come in.|- How?
+{93294}{93386}I don't want to go to Montana.|You are going to help me?
+{93389}{93507}Oh, yes, I'm going to help you,|aren't I...?
+{93510}{93564}What a brother...
+{93623}{93670}How's my poor darling?
+{93700}{93760}I brought you six books and Scrabble.
+{93763}{93814}I'm in no condition to play|Scrabble!
+{93817}{93872}That's all you are|in a condition to do.
+{93875}{93935}Why were those glasses|in your pocket?
+{93938}{94024}I was taking them to the tennis|court. Somebody was waiting.
+{94027}{94073}Er, there was a game going on.
+{94076}{94124}In the middle ofthe night?
+{94127}{94178}That's why he needed the glasses.
+{94281}{94338}Yes, that's why I needed the glasses.
+{94520}{94603}- Shall we play three-handed?|- No, I've got to go sailing.
+{94606}{94702}- Yes, he's got to go sailing.|- No more false moves now.
+{94705}{94792}- Yes, Linus.|- We don't want any complications.
+{94808}{94894}So long, Elizabeth.|So long, Scarface.
+{95400}{95499}- Good afternoon, Father.|- I thought it was your mother.
+{95502}{95581}I don't mind your smoking in my room,|but not in my closet.
+{95584}{95671}It's good for the moths.|Now, that girl over the garage...
+{95674}{95757}- David wants to run off with her.|- With the chauffeur's daughter?
+{95760}{95874}I don't care who he runs off with so|long as it's not the plastics merger.
+{95877}{96007}- It's simple. We'll fire Fairchild.|- Not after 25 years.
+{96010}{96083}Then a nice cheque|will make her forget David.
+{96086}{96155}She doesn't want money,|she wants love.
+{96158}{96209}Didn't they discontinue that model?
+{96212}{96287}The last ofthe romantics.|{y:i}L'amour, toujours I'amour. 
+{96290}{96376}Why pick on David?|Why not someone else?
+{96394}{96443}We will do our best.
+{96446}{96528}Is that the idea?|Have you got someone in mind for her?
+{96531}{96567}- Yep.|- Who?
+{96681}{96746}- Oh, no!|- What's the matter?
+{96776}{96848}- Not you, Linus?|- It's no fun for me.
+{96904}{97016}I've got a whole deskful of work.|There's the sulphur deal.
+{97019}{97103}The Puerto Rican operation|has to be set in motion.
+{97106}{97222}And I'm about to make|an ass of myself with a girl of 22.
+{97225}{97309}Look at me! Joe College,|with a touch of arthritis.
+{97352}{97420}Could you use this,|sailing into the sunset?
+{97423}{97513}- I wish I were dead.|- Just a thought.
+{97531}{97653}Music might help. I had a portable|phonograph in my freshman days.
+{97702}{97773}I only hope you remember|what to do with a girl.
+{97776}{97860}It'll come back to me.|It's like riding a bicycle.
+{98319}{98389}This is a very unusual song.|Is it popular?
+{98392}{98468}- Yes.|- Why haven't I heard it?
+{98471}{98529}You've been in Paris for two years.
+{98721}{98810}- How did they think ofthose words?|- They are clever, aren't they?
+{98813}{98859}- May I play another?|- Of course.
+{98862}{98935}- You need dusting.|- I beg your pardon?
+{98938}{98994}- I didn't mean you, Linus!|- Thank you.
+{98997}{99118}- How's David?|- Better, now he's flat on his back.
+{99121}{99212}I miss him.|Not that I'm not having a good time.
+{99326}{99439}Sabrina, would you mind if we...|turned this off?
+{99442}{99493}- Why?|- Because.
+{99501}{99571}- Don't you like it?|- I used to like it.
+{99764}{99830}Certain songs|bring back memories to me, too.
+{99871}{99899}Did you love her?
+{99940}{100011}- I'd rather not talk about it.|- I'm sorry.
+{100014}{100046}That's alright.
+{100062}{100150}So strange to think of you|being touched by a woman.
+{100164}{100213}I always thought you walked alone.
+{100225}{100279}No man walks alone from choice.
+{100332}{100431}As a child, I used to watch you|from the window over the garage.
+{100434}{100514}Coming and going,|always wearing your black homburg,
+{100517}{100570}carrying a briefcase and an umbrella.
+{100582}{100705}I thought you could never belong|to anyone, never care for anyone.
+{100715}{100830}Oh, yes, the cold businessman,|way up in his executive suite.
+{100833}{100939}Just ice water in his veins,|ticker tape coming from his heart.
+{100988}{101073}And yet one day,|that same cold businessman,
+{101076}{101122}high up in a skyscraper,
+{101125}{101184}opens the window,|steps out on a ledge,
+{101207}{101319}stands there for three hours,|wondering... if he should jump.
+{101322}{101406}- Because of her?|- No, that was another woman.
+{101409}{101481}Sabrina, do you find it|hard to believe
+{101484}{101573}someone might want to blot out|everything, for sentimental reasons?
+{101583}{101688}I believe it! It was|for sentimental reasons that I...
+{101732}{101781}I went to Paris to blot it out.
+{101804}{101859}Maybe you should go to Paris.
+{101862}{101909}It helped me.|Have you ever been there?
+{101912}{102007}Oh, yes. Once.|I was there for 35 minutes.
+{102010}{102038}35 minutes?
+{102041}{102107}Changing planes|on my way to Iraq on an oil deal.
+{102131}{102237}But Paris isn't for changing planes.|It's for changing your outlook.
+{102240}{102338}For throwing open the windows|and letting in...
+{102341}{102392}letting in|{y:i}la vie en rose. 
+{102395}{102532}Paris is for lovers. Maybe|that's why I stayed only 35 minutes.
+{103540}{103599}Hi, David. Hello, Father.
+{103646}{103725}Margaret has some dinner for you|in the kitchen.
+{103728}{103786}Funny. I used to be so afraid of him.
+{103801}{103855}Aren't you hungry?
+{103866}{103961}Father, you've driven Linus|for so many years.
+{103981}{104023}What do you know about him?
+{104026}{104091}A chauffeur|keeps his eyes on the road.
+{104094}{104183}Only once in a while does he glimpse|in the rear-view mirror.
+{104186}{104293}If you looked a little longer,|Father, you'd find him nice.
+{104296}{104338}And quite human.
+{104824}{104887}Good morning, Miss McCardle. First,|a wire to Hannegang, Fort Worth.
+{104889}{105001}Unable to attend Larrabee Sulphur|board meeting.
+{105004}{105096}Slight hitch plastics merger.|Got that?
+{105099}{105195}Next. Here's the itinerary|for tonight.
+{105198}{105246}I want two tickets to|{y:i}The Seven Year Itch. 
+{105249}{105315}Table for two at The Colony|before the show,
+{105318}{105450}table for two at The Persian Room|after the show. A corner table, dark.
+{105483}{105585}I'm just passing La Guardia field.|Put the coffee on in ten minutes.
+{105617}{105683}- Fairchild, I need you tonight.|- Yes, sir.
+{105686}{105761}- I'm taking Sabrina out again.|- Yes, sir.
+{105764}{105814}Would you have her at my office|at seven?
+{105817}{105866}Yes, sir.
+{105889}{105939}Anything wrong, Fairchild?
+{105942}{106057}I would prefer not to be involved|in these dates with my daughter.
+{106060}{106127}It makes for|a rather awkward situation.
+{106130}{106233}- That never occurred to me. Sorry.|- It's just not right, sir.
+{106236}{106300}I like to think oflife|as a limousine.
+{106303}{106415}We're all driving together, but|there's a front seat, a back seat
+{106418}{106458}and a window in between.
+{106461}{106553}Fairchild, I never realised it,|but you're a terrible snob.
+{106556}{106583}Yes, sir.
+{106586}{106702}Alright, have her drive|in herself, in David's car.
+{106705}{106776}Thank you, sir.|It's all so distressing.
+{106779}{106892}First Mr David, now you. I wish|Sabrina had stayed in Paris.
+{106895}{106930}So do I.
+{106933}{107036}May I ask, sir,|what exactly are your intentions?
+{107039}{107134}My intentions? Unethical,|reprehensible but very practical.
+{107137}{107161}I beg your pardon?
+{107164}{107248}With your permission, I'm shipping|your daughter back to Paris.
+{107251}{107314}- You are, sir?|- I'm going to try to.
+{107317}{107356}May I ask how, sir?
+{107359}{107450}First class, of course.|Don't worry about money.
+{107453}{107536}It's not money I'm worried about.|It's Sabrina.
+{107539}{107632}- I don't want her to get hurt.|- I'll be as gentle as I can.
+{107635}{107725}I hope so.|She's just a displaced person.
+{107728}{107779}She doesn't belong in a mansion
+{107782}{107853}but then she doesn't belong|above a garage either.
+{108017}{108053}Alright!
+{108081}{108199}The meeting ofthe board of directors|will now come to order.
+{108210}{108279}As chairman, I would like to say|at the outset...
+{108318}{108389}The chairman is so dizzy.
+{108449}{108519}Meeting adjourned.|Have a frozen daiquiri.
+{108542}{108665}I once saw an office like this in|"Fortune" magazine at my dentist's.
+{108668}{108717}Has David got an office like this?
+{108720}{108785}- Something like this, only larger.|- Larger?
+{108788}{108849}Instead of a desk,|he has a putting green.
+{108852}{108926}Please,|before my fingers get frostbitten.
+{109102}{109168}- Is this the ledge?|- What ledge?
+{109189}{109290}You know, the ledge. That woman.|When you almost...
+{109334}{109493}Oh, the ledge.|Yes, that's the ledge alright.
+{109496}{109554}What made you not do it?
+{109557}{109632}There were some children playing|hopscotch on the sidewalk.
+{109635}{109697}I'm very fond ofthose children.
+{109700}{109834}Look at all these gadgets. You press|a button and factories go up.
+{109837}{109951}Or you pick up a telephone|and 100 tankers set out for Persia.
+{109954}{109997}Or through a Dictaphone you say,
+{110000}{110083}"Buy all of Cleveland|and move it to Pittsburgh."
+{110086}{110116}You must be clever.
+{110119}{110211}It's just a knack,|like juggling three oranges.
+{110214}{110305}It isn't oranges, it's millions.|Suppose you dropped one?
+{110308}{110437}Suppose I did? What's at the end|of a million? Nothing. A circle.
+{110489}{110539}- Sabrina...|- Yes, Linus?
+{110542}{110636}Can you keep a secret?|Yes, of course you can.
+{110655}{110741}I want you to look out there. Uptown.
+{110780}{110854}- You see the French Line pier?|- Yes.
+{110857}{110917}- You see the boat?|- Yes.
+{110935}{111068}That's the "Libert". It sails on|Thursday. I'm going to be on it.
+{111091}{111145}- You are?|- Yes, I am.
+{111148}{111246}I'm sick of pushing buttons in this|office. I'm breaking out, Sabrina.
+{111249}{111303}- I'm running away.|- Good for you!
+{111306}{111390}I've been thinking about Paris|ever since you mentioned it.
+{111393}{111498}It'll make a new person out of you.|You'll double your money back.
+{111501}{111542}I'm so glad you're going.
+{111581}{111640}Or am I?
+{111786}{111873}It's 7:35, Mr Larrabee. You have|a reservation at The Colony.
+{111876}{111925}Thank you.
+{111992}{112021}Ready, Sabrina?
+{112024}{112073}{y:i}Tout de suite, |as they say in Paris.
+{112076}{112168}Curtain is at 8:40. I used your|brother's name at The Colony
+{112171}{112248}to get the darkest corner!
+{112251}{112309}I'm sorry, Mr Larrabee.
+{112567}{112648}This is what you do|on your very first day in Paris.
+{112651}{112752}You get yourself, not a drizzle,|but some honest-to-goodness rain,
+{112755}{112825}and you find yourself|someone really nice
+{112828}{112915}and drive her through|the Bois de Boulogne in a taxi.
+{112918}{112978}The rain's very important.
+{112981}{113050}That's when Paris smells|its sweetest.
+{113053}{113137}- It's the damp chestnut trees.|- I see.
+{113140}{113205}You're very clever, Linus,|and very rich.
+{113208}{113262}You can order yourself some rain.
+{113265}{113398}Sure. I can order myself some rain,|I can get myself a taxi.
+{113401}{113444}That's easy.
+{113447}{113540}But can I find myself|someone really nice?
+{113543}{113592}That's not so easy, Sabrina.
+{114301}{114409}How do you say in French,|my sister has a yellow pencil?
+{114429}{114478}{y:i}Ma soeur a un crayon jaune. 
+{114508}{114598}How do you say,|my brother has a lovely girl?
+{114616}{114706}{y:i}Mon frre a une gentille petite amie. 
+{114709}{114793}And how do you say,|I wish I were my brother?
+{115666}{115717}Why are you looking at me that way?
+{115720}{115802}All night I've had a terrible impulse|to do something.
+{115805}{115909}Never resist an impulse, Sabrina,|especially ifit's terrible.
+{115912}{115961}I'm going to do it.
+{115984}{116028}- There.|- What's that for?
+{116031}{116093}You can't go walking up|the Champs Elyses
+{116096}{116150}Iooking like a tourist undertaker!
+{116153}{116218}And another thing,|never a briefcase in Paris
+{116221}{116274}and never an umbrella. There's a law.
+{116295}{116405}How will I get along in Paris|without someone like you?
+{116408}{116465}Who'll be there|to help me with my French,
+{116468}{116527}to turn down the brim of my hat?
+{116559}{116666}Suppose you meet someone on the boat,|the first day? A perfect stranger.
+{116683}{116739}I have a better suppose, Sabrina.
+{116745}{116896}Suppose I were ten years younger|and you weren't in love with David.
+{116899}{116971}Suppose I asked you to...
+{117025}{117081}I suppose I'm just talking nonsense.
+{117178}{117216}I suppose so.
+{117280}{117377}Suppose you sing that song again.|Slowly.
+{118597}{118688}Hi! I thought you two had eloped.|I wouldn't mind, but not in my car.
+{118691}{118731}- Hello, David.|- Did you have a good time?
+{118734}{118770}- So-so.|- Where did you go?
+{118773}{118840}We saw "The Seven Year Itch"|and went on to The Persian Room.
+{118843}{118908}- Lousy dancer, isn't he?|- So-so.
+{118911}{118983}I bet he slept through the show|then bent your ears
+{118986}{119062}about Dow Jones averages|and profits taxes.
+{119065}{119114}We talked about a lot ofthings.
+{119135}{119181}How's your little, er, mishap?
+{119184}{119319}Shaping up beautifully. Dr Calaway|wants to show it to his class.
+{119346}{119405}- I'm sorry, Sabrina.|- It's very funny.
+{119408}{119504}Say, Linus, while I was lying|in that hammock I got a great idea.
+{119507}{119579}He thinks I'm an idiot.|How does this strike you?
+{119582}{119634}Plastic champagne glasses,|just in case.
+{119637}{119714}Brilliant.|What else did Dr Calaway say?
+{119717}{119781}- Stitches come out Thursday.|- Thursday?
+{119784}{119834}- I'm a fast healer.|- You sure are.
+{119837}{119884}So if you two|have long-range plans...
+{119887}{120020}I thought she'd like to see the|Stock Exchange and our Jersey plant.
+{120023}{120065}Oh, I don't think so.
+{120068}{120129}Then we'll just have dinner|and go to a show.
+{120132}{120216}But that's all. Come Thursday,|the first team takes over.
+{120219}{120261}What's with the homburg?
+{120352}{120444}I guess the undertaker|had better turn in.
+{120447}{120544}You'd better crawl back|into that hole in your hammock.
+{120547}{120625}- "Au revoir", Sabrina.|- Good night, Linus.
+{120875}{120975}He's a little on the dull side,|but you can't help liking him.
+{121012}{121091}- Kiss me, David.|- I'd love to, Sabrina.
+{121183}{121219}Again.
+{121331}{121355}That's better.
+{121358}{121450}What's the matter?|You're not worried about us? I'm not.
+{121453}{121505}There'll be a big stink. Who cares?
+{121508}{121601}David, I don't think|I'm going to have dinner with Linus.
+{121604}{121668}- I don't want to go out with him.|- Why not?
+{121671}{121704}I want to be near you.
+{121707}{121773}I know how you feel.|It must be an awful bore.
+{121776}{121846}But if Linus wants to take you out,|be nice about it.
+{121850}{121905}It's important. He's our only ally.
+{121908}{121965}Father will try|to cut off my allowance
+{121968}{122031}and send me to Larrabee Copper|in Butte, Montana.
+{122034}{122101}We don't want to go|to Butte, Montana, do we?
+{122104}{122153}Hold me close, David.
+{122192}{122256}We'll have a wonderful time, darling.
+{122259}{122364}We'll build a raft and drift|across the Pacific like Kon-Tiki.
+{122367}{122441}Or climb the highest mountain,|like Annapurna,
+{122444}{122484}just the two of us.
+{122487}{122563}Keep talking, David.
+{122710}{122806}We thought pink roses for the cherubs|and white gardenias for the names.
+{122809}{122897}It'll take 2,000 gardenias.|We'll float it in our pool.
+{122900}{122951}- Indoor or outdoor?|- Outdoor.
+{122954}{123019}We drained the indoor|to make room for presents.
+{123022}{123066}Where's the provision determining
+{123069}{123141}the ratio ofinvestment|to controlling interest?
+{123144}{123212}Page 62, paragraph six,|subdivision B.
+{123215}{123289}- Father, where's the list?|- Here you are, darling.
+{123292}{123352}Would you like to see|the invitation list?
+{124079}{124159}"..."740 under trust oflllinois, 550...
+{124440}{124493}The way this merger's worked out,
+{124496}{124570}I have all the titles|and you have all the controls.
+{124573}{124632}I always make it a point|to have controls.
+{124635}{124706}It's your good luck|the kids are fond of each other.
+{124709}{124756}I make it a point to be lucky, too.
+{124759}{124850}Come along, Father. Linus,|you won't forget the gardenias?
+{124853}{124887}Tony has a sweet idea.
+{124890}{124966}He'll fly over the chapel|and throw rice from his plane.
+{124969}{125067}With David the bridegroom,|maybe he'd better use wild rice.
+{125486}{125575}All I can say is|David better show up at this wedding.
+{125597}{125673}I have a horrible vision|ofElizabeth waiting at the altar,
+{125676}{125774}and 2,000 gardenias floating|in the pool spelling "disaster".
+{125777}{125881}Memo to Miss McCardle. First,|call Brunson in Larrabee Shipping.
+{125884}{125924}We need 2,000 gardenias.
+{125927}{125993}Tell him to start|cornering the market.
+{125996}{126045}We're not having trouble with...
+{126048}{126102}I can't remember|that garage girl's name.
+{126105}{126131}Sabrina.
+{126134}{126200}What right has a chauffeur got|to call her that?
+{126203}{126245}What would you suggest? Ethel?
+{126248}{126341}You've taken her out three nights in|a row. Is that situation in hand?
+{126344}{126433}I think so. It's resolving itself|into a straight export deal.
+{126436}{126500}I want two accommodations|on the "Libert".
+{126503}{126588}One in the name of Sabrina Fairchild.|One in my name.
+{126591}{126667}What? You and that girl|going off on a boat together?
+{126670}{126732}Have I spawned two idiot sons?
+{126735}{126837}Who said I was going? She is going.|She'll think I am, but I'm not.
+{126840}{126894}- Is that clear?|- It is not!
+{126897}{126963}I'll tell Sabrina|that I'll meet her on the boat.
+{126966}{127060}When the boat is ten miles out,|she'll find out I'm not on the boat.
+{127063}{127123}My cabin will be empty.|Just a note of apology
+{127126}{127178}and a few presents|to soften the blow.
+{127181}{127251}- Excellent.|- Yes, I thought you'd like it.
+{127254}{127344}Miss McCardle, I want flowers|in Miss Fairchild's cabin.
+{127347}{127409}Candy, fruit|and the usual what-have-yous.
+{127412}{127503}Cable Michot to get her|a car in Paris. Also an apartment.
+{127506}{127566}A letter of credit on our Paris bank.
+{127569}{127628}- She can draw up to 50,000.|- Easy, now.
+{127631}{127739}Transfer to Thomas Fairchild|1,000 shares, Larrabee Common.
+{127742}{127780}1,000 shares?
+{127783}{127848}Make it 1,500 shares,|Larrabee Preferred.
+{127851}{127903}There must be a less extravagant way
+{127906}{127979}of getting a chauffeur's daughter|out of one's hair.
+{127982}{128072}How would you do it? You can't even|get a little olive out of a jar.
+{128111}{128142}Eat it.
+{129151}{129190}Going up?
+{129218}{129254}No, thank you.
+{129772}{129827}- Yes?|{y:i}- Miss Fairchild for you. 
+{129830}{129912}- Send her in.|{y:i}- She's on the phone. It's on five. 
+{129993}{130074}Sabrina? What happened to you?|It's twenty past eight.
+{130077}{130140}Good evening, Linus. I know I'm late.
+{130143}{130211}I guess I should have|called you earlier.
+{130214}{130254}I can't see you tonight.
+{130257}{130370}I'm sorry. I just can't make it.|I tried but I'm all tied up.
+{130373}{130446}No, I'm not in Long Island.|I'm in New York.
+{130471}{130561}Downtown in a phone booth.|In a building.
+{130583}{130662}What difference does it make|what building?
+{130665}{130709}I can't see you tonight.
+{130739}{130824}Alright, it's the Larrabee Building,|but I'm not coming up.
+{130827}{130900}Look, Sabrina, suppose you tell me
+{130903}{130987}exactly what's on your mind,|slowly and clearly?
+{130990}{131040}You talk and I'll listen.
+{131098}{131167}{y:i}Itwas really David's idea|{y:i}I go outwith you. 
+{131170}{131221}{y:i}He wants you to help him. 
+{131224}{131304}{y:i}But it's not helping me. |{y:i}I shouldn't have been seeing you. 
+{131307}{131363}{y:i}I shouldn't be talking to you|{y:i}on the phone. 
+{131366}{131446}In fact, I'm really only calling|to say goodbye.
+{131449}{131521}Tomorrow,|you'll be on the boat to Paris.
+{131524}{131594}In a way, I'm glad you're going.
+{131597}{131656}You do know what I mean,|don't you?
+{131659}{131724}Linus? Hello, Linus?
+{131747}{131785}Where are you?
+{131837}{131912}- Your three minutes are up.|- Hello.
+{131940}{132017}It's silly. I was talking to myself.
+{132020}{132079}You've wasted a dime, too. Come on.
+{132147}{132248}You're not angry? I have a perfectly|good reason why I shouldn't see you.
+{132251}{132300}Not here, Sabrina.
+{132660}{132719}Alright, Sabrina,
+{132722}{132829}what is that perfectly good reason|why you shouldn't see me?
+{133034}{133105}What is it? What's bothering you?
+{133139}{133192}It's me that's bothering me.
+{133304}{133345}Please don't.
+{133378}{133420}I'm sorry.
+{133489}{133557}I know I'm not making much sense,|Linus.
+{133560}{133656}- Would you like a drink?|- I don't think I want a drink.
+{133669}{133718}I think I do.
+{133816}{133904}- Why don't you sit down?|- I can only stay a minute.
+{133907}{133982}- Mind ifl turn on this little one?|- If you want.
+{134096}{134170}I'd hate to fix myself a martini|with crme de menthe.
+{134310}{134334}Yes?
+{134337}{134428}{y:i}I cancelled your dinner reservation. |{y:i}What aboutthe theatre tickets? 
+{134445}{134513}I couldn't possibly go anywhere.
+{134542}{134623}They're all yours, Miss McCardle.|Good night.
+{134736}{134787}You're sure you won't have even one?
+{134790}{134861}- No, thanks.|- You must be hungry.
+{134886}{134976}- I hadn't thought about it.|- Well, I'm starved.
+{134979}{135064}I was sort of saving myself|for 21 tonight.
+{135067}{135117}I've spoiled your evening.
+{135120}{135190}No, you haven't.|We can have dinner right here.
+{135193}{135256}Let's see what Miss McCardle is|hoarding.
+{135259}{135348}Probably maraschino cherries|and stale crackers.
+{135366}{135451}Tomato juice, puffed rice, sardines,
+{135454}{135503}tomato juice.
+{135506}{135561}That's an awful lot|oftomato juice.
+{135564}{135615}Could you fix something|out ofthis?
+{135618}{135707}I suppose so. I'm a graduate cook.|I have a diploma.
+{135710}{135759}It'll take a diploma.
+{136020}{136107}I wanted to be so sure|I couldn't go out with you tonight.
+{136133}{136202}And here I am cooking for you.
+{136205}{136272}I guess|maybe I should have worn an apron.
+{136275}{136328}One apron, coming up.
+{136362}{136461}Pots. Pans. Can opener. Stove.
+{136464}{136523}All the comforts of home.
+{136526}{136612}Miss McCardle cooked dinner here|for the board of directors.
+{136615}{136683}After the first course,|there was a move to adjourn.
+{136686}{136745}It was passed unanimously.
+{136884}{136926}What do we start with?
+{136953}{137017}I haven't decided yet.
+{137075}{137158}Now, Sabrina,|let's have none ofthose.
+{137263}{137353}- I'm so ashamed, Linus.|- You have no reason to be.
+{137386}{137477}I've known you|just a few days, really.
+{137480}{137557}And I've been in love with David|all my life.
+{137589}{137668}I can't understand|what's the matter with me.
+{137696}{137781}I went away to grow up|and I thought I had grown up.
+{137784}{137838}I guess I haven't, really.
+{137841}{137919}I just got myself a new hairdo,|that's all.
+{137996}{138072}- Please say something.|- Like what?
+{138075}{138179}I don't know.|Tell me I'm imagining things.
+{138198}{138319}Tell me you never thought oftaking|me on the boat to Paris with you.
+{138322}{138374}Tell me to put on my coat|and go home
+{138377}{138438}before I make a complete fool|of myself.
+{138498}{138612}Don't let me go home.|I couldn't bear it.
+{138615}{138682}This is the last time|we'll see each other.
+{138746}{138875}- I'll behave. I'm alright now.|- That's good. How about dinner?
+{138878}{138992}I just remembered I didn't have|any lunch today. Or any breakfast.
+{138995}{139057}That may account for a lot ofthings.
+{139072}{139129}Would you like a souffl for dessert?
+{139132}{139170}Out oftomato juice?
+{139173}{139268}- Out of crackers, of course.|- Not too soggy.
+{139271}{139333}You'd better get out ofthe kitchen.
+{139989}{140038}Which one is the "Libert?"
+{140064}{140142}- The one on the right.|- Are you sure?
+{140145}{140225}- You mustn't take the wrong boat.|- I'll try not to.
+{140228}{140314}You haven't forgotten|my instructions, have you?
+{140317}{140368}Never an umbrella in Paris,
+{140371}{140454}and under all circumstances|rain the very first day.
+{140457}{140521}I haven't forgotten a word, Sabrina.
+{140524}{140575}My sister has a yellow pencil.
+{140578}{140648}{y:i}Ma soeur a un crayon jaune. 
+{140651}{140700}Very good "Trs bien".
+{140721}{140807}Watch. One, two, three, crack.
+{140851}{140905}New egg. It's all in the wrist.
+{141124}{141192}There must be an egg beater|somewhere.
+{141703}{141737}Linus!
+{142092}{142203}Why didn't you tell me? You do want|to take me with you, don't you?
+{142360}{142413}These don't mean|what you think they mean.
+{142416}{142489}I know why you didn't tell me.|You think it's wrong.
+{142492}{142558}They'll say I'm too young,|there'll be a scandal,
+{142561}{142609}and the market will go down.
+{142612}{142712}Linus Larrabee Esquire|is taking me to Paris.
+{142752}{142879}Sabrina, I... wasn't going|to take you to Paris.
+{142901}{142941}I was going to send you.
+{143020}{143094}- Alone?|- Yes, all alone.
+{143190}{143231}But there's a ticket for you.
+{143234}{143283}For an empty cabin.
+{143301}{143385}- You were joining me in Paris?|- I'm afraid not.
+{143572}{143640}- I think I understand.|- I'm sorry.
+{143696}{143770}But why? Why did you do it, Linus?
+{143773}{143853}High finance. Expansion.|Marriage. A merger.
+{143856}{143945}A new plaque on the Larrabee|Building. You got in the way.
+{143948}{143988}- David?|- That's right.
+{144087}{144136}How inconsiderate of me.
+{144169}{144230}And how inconvenient for you,
+{144233}{144330}such a busy man, having to waste|so much time to get me on a boat.
+{144355}{144422}I'm ashamed to say|I enjoyed every minute ofit.
+{144471}{144525}And I suppose, in your empty cabin,
+{144528}{144585}there would have been|a farewell note,
+{144588}{144675}dictated to and typed by|Miss McCardle?
+{144697}{144792}- And perhaps a few flowers.|- A little more than that.
+{145031}{145119}A letter of credit.|An apartment in Paris. A car.
+{145122}{145222}1,500 shares of Larrabee Preferred|for your father.
+{145225}{145264}You're very generous.
+{145269}{145352}We regard it|as a necessary business expense.
+{145386}{145445}I'll just take one ofthose tickets.
+{145550}{145599}I was happy in Paris.
+{145646}{145701}I think you would have been, too.
+{145916}{145965}Good night, Mr Larrabee.
+{145997}{146071}I'm sorry I can't stay|to do the dishes.
+{146594}{146662}Good morning.
+{147091}{147170}- Mr Larrabee?|- Come in, Miss McCardle.
+{147195}{147246}- Good morning.|- You're late.
+{147249}{147309}I had to make my own coffee.|Worst ever.
+{147312}{147418}- Sorry. I had a very bad night.|- I know exactly how you feel.
+{147421}{147504}You better get that pad.|We have things to do.
+{147507}{147560}I used your theatre tickets|and took my mother.
+{147563}{147629}Are you ready?|Call Larrabee Shipping.
+{147632}{147716}Tell them to radio our tankers|bound for Puerto Rico to turn back.
+{147720}{147801}Tell Larrabee Construction|to stop work on the plant.
+{147804}{147891}- We're cancelling the merger.|- We are?
+{147894}{147942}I want Mr Larrabee Senior,
+{147945}{148031}Mr Tyson and Miss Elizabeth Tyson|here in this office.
+{148034}{148089}Get a large bottle|of smelling salts.
+{148092}{148149}- We're calling offthe wedding.|- We are?
+{148152}{148253}When's your mother's birthday?|I'm sending her 2,000 gardenias.
+{148256}{148301}Here's a ticket for the "Libert".
+{148304}{148358}Transfer it to the name|ofDavid Larrabee.
+{148361}{148423}Get his passport out.|Make sure it's in order.
+{148426}{148499}Locate David. The boat sails at noon.
+{148502}{148562}I've called the house|and he isn't there.
+{148565}{148638}Try Dr Calaway.|Try everywhere, but get him.
+{148641}{148718}Do you want me to send those presents|to Miss Fairchild's cabin?
+{148721}{148810}- No. We're sending David instead.|- Good morning.
+{148860}{148933}The stitches are out.|It's as good as new.
+{148936}{148995}Congratulations.|I've been looking for you.
+{148998}{149040}I've been looking for you.
+{149043}{149122}- You're leaving for Paris today.|- No kidding?
+{149125}{149195}With Sabrina.|She's going to be on the boat.
+{149216}{149296}Uh-huh?|Does she have to be in here?
+{149299}{149385}Alright, Miss McCardle.|You've got a lot of work to do.
+{149388}{149449}Aren't you pleased?|What's the matter?
+{149452}{149554}I saw Sabrina when she came home|last night. Found her packing.
+{149557}{149585}What did she say?
+{149588}{149652}- Nothing. She just kissed me.|- What's wrong with that?
+{149655}{149737}I may know nothing about Dow Jones|but I know about kisses.
+{149740}{149808}You could lecture on that at Vassar.
+{149811}{149873}This one tasted like a goodbye kiss.
+{149876}{149981}- You're just imagining things.|- No, it had a few tears in it.
+{150030}{150106}It took me until this morning|to add two and two together,
+{150109}{150205}like two champagne glasses|and the plastics deal and Sabrina.
+{150208}{150247}- You know what I got?|- What?
+{150308}{150369}Sorry to do it|to a tired businessman.
+{150372}{150469}That's alright.|Well, now we're even.
+{150518}{150596}Go home and start packing.|I'll take care ofElizabeth.
+{150599}{150635}I'm calling offthe merger.
+{150638}{150701}Miss McCardle has your passport|and ticket.
+{150704}{150739}Let her know if you need money.
+{150742}{150851}I want you and Sabrina to have|a good time in Paris. Goodbye.
+{150854}{150919}What makes you so sure|Sabrina still wants me?
+{150922}{150975}She's wanted you all her life.
+{150978}{151033}Until you came along|in that silly homburg.
+{151036}{151118}Straighten that silly hat and go.|You'll miss the boat.
+{151141}{151219}Don't worry, I won't miss the boat.|I'm going.
+{151265}{151301}Funniest thing.
+{151304}{151387}Linus Larrabee, the man|who doesn't burn, scorch or melt,
+{151390}{151473}throws a $20-million deal|out the window.
+{151519}{151570}Are you sure|you don't want to go with her?
+{151573}{151616}Why should I want to go with her?
+{151630}{151674}You're in love with her.
+{151895}{151981}You won't be annoyed ifl cry|at the boat, will you, Sabrina?
+{151984}{152049}I'll be disappointed|if you don't, Father.
+{152052}{152149}I'd feel better if you'd be angry|with me for allowing this to happen.
+{152152}{152226}It wasn't your fault, Father.|It was mine.
+{152295}{152339}I should have believed you.
+{152342}{152404}There's a front seat|and a back seat
+{152407}{152459}and a window in between.
+{152492}{152576}lfit's any consolation,|one good thing's come out ofit.
+{152579}{152643}You did get over David, didn't you?
+{152646}{152769}Dear David.|Yes, I did get over that. I'm cured.
+{152808}{152857}Now, how to get over the cure!
+{152903}{152957}It wouldn't have worked out really.
+{152960}{153030}The papers would have said|how fine and democratic
+{153033}{153103}for a Larrabee|to marry the chauffeur's daughter.
+{153106}{153184}But would they praise|the chauffeur's daughter? No.
+{153187}{153287}Democracy can be|a wickedly unfair thing.
+{153290}{153368}Nobody poor|was ever called democratic
+{153371}{153420}for marrying somebody rich.
+{153993}{154068}Why don't we start this meeting|and sign the papers?
+{154071}{154123}We're waiting for David, of course.
+{154126}{154192}That boy has no sense oftime,|of direction.
+{154195}{154273}As a matter of fact,|he has no sense. Where is he?
+{154276}{154325}We'll get to that in a minute.
+{154339}{154436}Here are the smelling salts.|I got you the largest size.
+{154542}{154603}Look what I bought him|for Waikiki Beach.
+{154606}{154648}I hope they're loud enough.
+{154673}{154730}I hope they're returnable.
+{154946}{155045}I see no need for any further delay.|Suppose we get down to business?
+{155048}{155096}What about David?
+{155099}{155160}That's a very good question. Not yet.
+{155186}{155292}Mr Tyson, members ofthe board...|Are you with us, Father?
+{155316}{155350}Present.
+{155387}{155500}We are here to put our signatures|to the Larrabee-Tyson merger.
+{155503}{155582}Much effort has gone into making|this union possible.
+{155585}{155671}Long hours.|Many obstacles to overcome.
+{155674}{155732}Nobody knows better than I.
+{155735}{155789}However... Not yet.
+{155818}{155908}However, sometimes even the most|conscientious ofbusinessmen
+{155911}{155992}can botch up a deal|for one reason or another.
+{155995}{156111}Understand, I don't mean to say|that our merger has hit a snag,
+{156114}{156154}or failed to gel,
+{156157}{156240}or gone up in smoke,|or fallen through.
+{156243}{156340}Let me put it this way, gentlemen.|It has sailed away.
+{156430}{156532}I seem to have missed something.|Would you mind starting again?
+{156535}{156631}Now, Miss McCardle.|Elizabeth, I hate to break the news,
+{156634}{156714}but at this very moment,|your fianc, David Larrabee...
+{156717}{156766}Is late, as usual.
+{156867}{156967}Hello, everybody. Hello, darling.|Hello, Linus. How are you?
+{156970}{157018}What are you doing here?
+{157021}{157118}I heard there was a board meeting.|Where are the contracts?
+{157121}{157200}- Where's Sabrina?|- Sabrina? Who's Sabrina?
+{157203}{157273}- That name!|- She's on the boat, I guess.
+{157276}{157338}But the boat has sailed.
+{157341}{157385}- And there she goes.|- Who goes?
+{157388}{157439}- Sabrina.|- Who is Sabrina?
+{157442}{157508}- Why did you do it?|- Do what?
+{157511}{157555}She's all alone out there.
+{157558}{157621}Not according|to the afternoon papers.
+{157624}{157688}It says here that Linus Larrabee,|that's you,
+{157691}{157742}and Sabrina Fairchild, that's she,
+{157745}{157836}have reserved adjacent deck chairs|on the "Libert", sailing today.
+{157839}{157930}All columnists should be beaten|to a pulp and converted into paper.
+{157933}{157969}Did you plant this?
+{157972}{158062}Me? I thought it was common knowledge|about you and Sabrina.
+{158065}{158107}Who is Sabrina?
+{158125}{158230}Our chauffeur's daughter,|that's who. How about that?
+{158233}{158336}Linus Larrabee, wizard of finance,|chairman ofthe board,
+{158339}{158408}getting mixed up|with his chauffeur's daughter.
+{158411}{158447}That's enough, David.
+{158450}{158520}She went after me,|but she switched to Linus.
+{158523}{158588}I guess it's because|he's got more money.
+{158591}{158636}We know about those kind of girls.
+{158639}{158725}Believe me, this one is no different,|just seems to be.
+{158728}{158769}I said that's enough.
+{158772}{158848}Maybe you got smart.|Or maybe you just got lucky,
+{158851}{158933}because you're here|and she's out there.
+{158936}{158994}She would have taken you for plenty.
+{159111}{159179}I was just helping you|make up your mind.
+{159182}{159231}You are in love with her!
+{159298}{159351}What are you waiting for?
+{159406}{159476}There's an elevator outside,|a police escort downstairs
+{159479}{159521}and a tugboat standing by.
+{159565}{159609}Get moving!
+{159612}{159732}If you'll excuse me, it appears|I have a previous engagement.
+{159735}{159832}That's the 20th century for you.|Automobiles. Garages.
+{159835}{159898}Chauffeurs. Chauffeurs' daughters!
+{159983}{160083}Inasmuch as I seem to be the only|member ofthe Larrabee family
+{160086}{160125}who is not out of his mind,
+{160128}{160220}I will take it upon myself|to call this meeting back to order
+{160223}{160325}as soon as David Larrabee|removes his carcass from this table.
+{160328}{160375}Sit down, Father.
+{160438}{160472}The olives!
+{161667}{161732}Miss Fairchild?|{y:i}i y a un monsieur sur le bateau
+{161735}{161823}{y:i}qui voudrait bien que vous lui|{y:i}arrangiez son chapeau. 
+{162086}{162137}- "Voil".|- "Merci beaucoup".

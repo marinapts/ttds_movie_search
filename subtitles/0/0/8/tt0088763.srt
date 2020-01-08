@@ -1,0 +1,6894 @@
+1
+00:00:19,447 --> 00:00:22,678
+[Clocks ticking]
+
+2
+00:01:26,527 --> 00:01:28,483
+ANNOUNCER: <i>October is inventory time</i>.
+
+3
+00:01:28,567 --> 00:01:32,003
+<i>So right now, Statler Toyota is making</i>
+<i>the best deals of the year...</i>
+
+4
+00:01:32,087 --> 00:01:34,123
+<i>... on all 1985-model Toyotas.</i>
+
+5
+00:01:34,207 --> 00:01:35,879
+<i>You won't find a better car...</i>
+
+6
+00:01:35,967 --> 00:01:39,596
+<i>... at a better price with better service</i>
+<i>anywhere in Hill Valley.</i>
+
+7
+00:01:45,047 --> 00:01:47,766
+NEWSCASTER: <i>The Senate is expected</i>
+<i>to vote on this today.</i>
+
+8
+00:01:47,847 --> 00:01:51,999
+<i>In other news, officials at</i>
+<i>the Pacific Nuclear research facility...</i>
+
+9
+00:01:52,087 --> 00:01:54,965
+<i>... have denied the rumor</i>
+<i>that a case of missing plutonium...</i>
+
+10
+00:01:55,047 --> 00:01:57,800
+<i>... was in fact stolen</i>
+<i>from their vault two weeks ago.</i>
+
+11
+00:01:57,887 --> 00:02:01,516
+<i>A Libyan terrorist group had claimed</i>
+<i>responsibility for the alleged theft.</i>
+
+12
+00:02:01,607 --> 00:02:06,397
+<i>However, officials now attribute</i>
+<i>the discrepancy to a simple clerical error.</i>
+
+13
+00:02:06,487 --> 00:02:10,002
+<i>The FBI, which is investigating the matter,</i>
+<i>had no comment.</i>
+
+14
+00:02:16,727 --> 00:02:17,716
+[Buzzer blares]
+
+15
+00:02:50,127 --> 00:02:51,276
+MARTY: Doc?
+
+16
+00:02:53,887 --> 00:02:54,956
+<i>Doc?</i>
+
+17
+00:02:56,087 --> 00:02:58,078
+<i>Hello! Anybody home?</i>
+
+18
+00:02:58,167 --> 00:02:59,441
+<i>Einstein, come here, boy.</i>
+
+19
+00:02:59,527 --> 00:03:00,642
+[Marty whistles]
+
+20
+00:03:00,727 --> 00:03:02,558
+MARTY: What's going on? God.
+
+21
+00:03:04,127 --> 00:03:05,242
+<i>Jesus!</i>
+
+22
+00:03:05,807 --> 00:03:07,638
+<i>That is disgusting.</i>
+
+23
+00:03:07,847 --> 00:03:09,360
+[Marty muttering]
+
+24
+00:03:12,407 --> 00:03:13,999
+[Clocks ticking]
+
+25
+00:03:15,127 --> 00:03:16,640
+[Machine humming]
+
+26
+00:03:26,927 --> 00:03:28,599
+[Humming grows louder]
+
+27
+00:03:31,407 --> 00:03:32,920
+[Humming grows very loud]
+
+28
+00:03:33,087 --> 00:03:34,725
+[Dial clicking]
+
+29
+00:04:03,967 --> 00:04:05,605
+[Electric guitar note plays]
+
+30
+00:04:06,487 --> 00:04:07,761
+[Marty grunts]
+
+31
+00:04:14,967 --> 00:04:16,844
+[Marty groaning]
+
+32
+00:04:29,807 --> 00:04:31,240
+Rock 'n' roll.
+
+33
+00:04:31,367 --> 00:04:33,085
+[Alarm bell ringing]
+
+34
+00:04:39,047 --> 00:04:40,878
+MARTY: Yo.
+DOC: <i>Marty, is that you?</i>
+
+35
+00:04:41,087 --> 00:04:42,884
+Doc. Where are you?
+
+36
+00:04:42,967 --> 00:04:46,277
+DOC: <i>Thank God I've found you. Meet me</i>
+<i>at Twin Pines Mall tonight at 1:15.</i>
+
+37
+00:04:46,367 --> 00:04:48,756
+<i>I made a breakthrough.</i>
+<i>I'll need your assistance.</i>
+
+38
+00:04:48,847 --> 00:04:51,964
+1:15 in the morning?
+Doc, what's going on?
+
+39
+00:04:52,047 --> 00:04:53,958
+MARTY: Where you been all week?
+DOC: <i>Working.</i>
+
+40
+00:04:54,047 --> 00:04:57,005
+MARTY: Is Einstein with you?
+DOC: <i>Yeah, he's right here.</i>
+
+41
+00:04:57,087 --> 00:04:59,476
+You left your equipment on all week.
+
+42
+00:04:59,567 --> 00:05:02,035
+DOC: <i>My equipment. That reminds me, Marty.</i>
+
+43
+00:05:02,127 --> 00:05:05,881
+<i>Do not hook up to the amplifier.</i>
+<i>There's a slight possibility of overload.</i>
+
+44
+00:05:05,967 --> 00:05:08,162
+Yeah. I'll keep that in mind.
+
+45
+00:05:08,247 --> 00:05:10,522
+DOC: <i>Good. I'll see you tonight. Don't forget.</i>
+
+46
+00:05:10,607 --> 00:05:13,405
+DOC: <i>1:15 a.m., Twin Pines Mall.</i>
+MARTY: Right.
+
+47
+00:05:13,527 --> 00:05:16,121
+[Clocks all ringing, chiming, cuckooing]
+
+48
+00:05:19,807 --> 00:05:24,244
+DOC: <i>Are those my clocks I hear?</i>
+MARTY: Yeah, it's 8:00.
+
+49
+00:05:24,727 --> 00:05:26,718
+DOC: <i>Perfect! My experiment worked!</i>
+
+50
+00:05:26,807 --> 00:05:29,844
+<i>They're all exactly 25 minutes slow!</i>
+
+51
+00:05:30,207 --> 00:05:32,562
+Wait a minute, Doc.
+
+52
+00:05:32,647 --> 00:05:34,842
+Are you telling me that it's 8:25?
+
+53
+00:05:34,927 --> 00:05:37,077
+DOC: <i>Precisely.</i>
+MARTY: Damn!
+
+54
+00:05:37,967 --> 00:05:39,798
+I'm late for school.
+
+55
+00:05:39,887 --> 00:05:42,321
+[<i>The Power of Love</i> playing]
+
+56
+00:06:36,807 --> 00:06:39,526
+MARTY: Jennifer.
+JENNIFER: Strickland's looking for you.
+
+57
+00:06:39,607 --> 00:06:42,167
+If you get caught,
+it'll be four tardies in a row.
+
+58
+00:06:43,767 --> 00:06:45,962
+All right, come on. I think we're safe.
+
+59
+00:06:46,047 --> 00:06:50,404
+This time it wasn't my fault.
+The doc set all his clocks 25 minutes slow.
+
+60
+00:06:50,487 --> 00:06:51,681
+The doc?
+
+61
+00:06:51,767 --> 00:06:55,806
+Am I to understand you're still hanging
+around with Dr. Emmett Brown, McFly?
+
+62
+00:06:56,567 --> 00:06:58,558
+Tardy slip for you, Miss Parker.
+
+63
+00:06:59,167 --> 00:07:02,204
+And one for you, McFly.
+I believe that's four in a row.
+
+64
+00:07:02,727 --> 00:07:05,560
+Let me give you a nickel's worth
+of free advice, young man.
+
+65
+00:07:05,647 --> 00:07:08,684
+This so-called Dr. Brown is dangerous.
+He's a real nutcase.
+
+66
+00:07:08,767 --> 00:07:11,281
+Hang around with him,
+you'll end up in big trouble.
+
+67
+00:07:11,367 --> 00:07:12,880
+Yes, sir.
+
+68
+00:07:13,087 --> 00:07:16,159
+You got a real attitude problem.
+You're a slacker.
+
+69
+00:07:16,767 --> 00:07:20,555
+You remind me of your father
+when he went here. He was a slacker, too.
+
+70
+00:07:20,807 --> 00:07:22,798
+Can I go now, Mr. Strickland?
+
+71
+00:07:22,887 --> 00:07:26,357
+Your band is on the roster for
+the dance auditions after school today.
+
+72
+00:07:26,447 --> 00:07:28,756
+Why even bother?
+You don't have a chance.
+
+73
+00:07:28,847 --> 00:07:30,678
+You're too much like your old man.
+
+74
+00:07:30,767 --> 00:07:34,555
+No McFly ever amounted to anything
+in the history of Hill Valley.
+
+75
+00:07:36,367 --> 00:07:38,597
+Yeah, well, history is going to change.
+
+76
+00:07:40,647 --> 00:07:42,000
+<i>Next, please.</i>
+
+77
+00:07:43,087 --> 00:07:44,725
+[Synthesizer playing]
+
+78
+00:07:50,927 --> 00:07:52,406
+<i>All right.</i>
+
+79
+00:07:53,007 --> 00:07:55,919
+<i>We're the Pinheads.</i>
+
+80
+00:07:57,167 --> 00:07:58,600
+MARTY: <i>One, two, three.</i>
+
+81
+00:07:58,727 --> 00:08:00,718
+[Playing <i>Power of Love</i>]
+
+82
+00:08:17,407 --> 00:08:20,319
+<i>Okay, that's enough. Thank you, fellas.</i>
+
+83
+00:08:20,407 --> 00:08:22,443
+<i>Hold it, fellas.</i>
+
+84
+00:08:22,887 --> 00:08:25,117
+<i>I'm afraid you're just too darn loud.</i>
+
+85
+00:08:25,847 --> 00:08:27,326
+<i>Next, please.</i>
+
+86
+00:08:29,407 --> 00:08:31,238
+<i>Next group, please.</i>
+
+87
+00:08:33,687 --> 00:08:36,326
+ANNOUNCER: <i>Re-elect Mayor Goldie Wilson.</i>
+
+88
+00:08:36,407 --> 00:08:38,398
+<i>Progress is his middle name.</i>
+
+89
+00:08:38,487 --> 00:08:40,284
+MARTY: <i>"</i>Too loud.<i>"</i> I can't believe it.
+
+90
+00:08:40,367 --> 00:08:43,006
+We'll never get a chance
+to play in front of anybody.
+
+91
+00:08:43,087 --> 00:08:45,442
+Marty, one rejection
+isn't the end of the world.
+
+92
+00:08:45,527 --> 00:08:47,757
+I just don't think I'm cut out for music.
+
+93
+00:08:47,847 --> 00:08:51,317
+But you're really good,
+and your audition tape is great.
+
+94
+00:08:51,407 --> 00:08:53,602
+You've got to send it in
+to the record company.
+
+95
+00:08:53,687 --> 00:08:55,405
+- It's like Doc's always saying.
+- I know.
+
+96
+00:08:55,487 --> 00:08:58,559
+If you put your mind to it,
+you can accomplish anything.
+
+97
+00:08:59,007 --> 00:09:00,759
+That's good advice.
+
+98
+00:09:00,847 --> 00:09:04,362
+All right. What if I send in the tape
+and they don't like it?
+
+99
+00:09:04,447 --> 00:09:06,278
+What if they say I'm no good?
+
+100
+00:09:06,367 --> 00:09:08,358
+What if they say, <i>"</i>You got no future<i>"</i>?
+
+101
+00:09:08,447 --> 00:09:10,722
+I can't take that kind of rejection.
+
+102
+00:09:11,887 --> 00:09:13,718
+I'm starting to sound like my old man.
+
+103
+00:09:13,807 --> 00:09:15,718
+- He's not that bad.
+- Save the clock tower.
+
+104
+00:09:15,807 --> 00:09:18,446
+He's letting you borrow the car
+tomorrow night.
+
+105
+00:09:19,607 --> 00:09:21,438
+Check out that 4x4.
+
+106
+00:09:21,927 --> 00:09:24,487
+MARTY: That is hot.
+ATTENDANT: Back her up.
+
+107
+00:09:24,567 --> 00:09:27,798
+Someday, Jennifer. Someday.
+
+108
+00:09:28,287 --> 00:09:31,324
+Wouldn't it be great
+to take that truck up to the lake?
+
+109
+00:09:32,607 --> 00:09:35,280
+Throw a couple of sleeping bags
+in the back.
+
+110
+00:09:36,767 --> 00:09:38,644
+Lie out underneath the stars.
+
+111
+00:09:38,727 --> 00:09:40,479
+- Stop it.
+- What?
+
+112
+00:09:41,287 --> 00:09:43,721
+Does your mom know?
+About tomorrow night?
+
+113
+00:09:43,807 --> 00:09:47,686
+No, get out of town. My mom thinks
+I'm going camping with the guys.
+
+114
+00:09:47,767 --> 00:09:50,645
+My mother would freak out
+if she knew I was going with you.
+
+115
+00:09:50,727 --> 00:09:52,604
+I'd get the standard lecture about...
+
+116
+00:09:52,687 --> 00:09:55,155
+...how she never did that stuff
+when she was a kid.
+
+117
+00:09:55,247 --> 00:09:57,886
+Look, I think the woman was born a nun.
+
+118
+00:09:57,967 --> 00:10:00,561
+She's just trying to keep you respectable.
+
+119
+00:10:00,647 --> 00:10:02,717
+She's not doing a very good job.
+
+120
+00:10:02,807 --> 00:10:04,001
+Terrible.
+
+121
+00:10:04,087 --> 00:10:07,557
+WOMAN: Save the clock tower.
+Save the clock tower.
+
+122
+00:10:07,647 --> 00:10:11,526
+Mayor Wilson is sponsoring
+an initiative to replace that clock.
+
+123
+00:10:11,607 --> 00:10:15,839
+<i>Thirty years ago, lightning struck that</i>
+<i>clock tower and the clock hasn't run since.</i>
+
+124
+00:10:15,927 --> 00:10:20,523
+We at the Hill Valley Preservation Society
+think it should be preserved the way it is...
+
+125
+00:10:20,607 --> 00:10:22,643
+<i>... as part of our history and heritage.</i>
+
+126
+00:10:22,727 --> 00:10:24,479
+MARTY: There's a quarter.
+WOMAN: Thanks.
+
+127
+00:10:24,567 --> 00:10:26,398
+WOMAN: Don't forget to take a flyer.
+
+128
+00:10:26,487 --> 00:10:28,318
+<i>Save the clock tower!</i>
+
+129
+00:10:30,087 --> 00:10:31,076
+Where were we?
+
+130
+00:10:31,207 --> 00:10:32,196
+[Car horn honks]
+
+131
+00:10:32,287 --> 00:10:34,437
+JENNIFER: Right about here.
+MAN: Jennifer!
+
+132
+00:10:37,207 --> 00:10:39,482
+It's my dad. I've got to go.
+
+133
+00:10:39,567 --> 00:10:40,795
+MARTY: I'll call you tonight.
+
+134
+00:10:40,887 --> 00:10:42,115
+I'll be at my grandma's.
+
+135
+00:10:42,207 --> 00:10:44,516
+Here, let me give you the number.
+
+136
+00:10:49,327 --> 00:10:50,282
+'Bye.
+
+137
+00:10:50,367 --> 00:10:52,597
+[<i>Power of Love</i> music playing]
+
+138
+00:11:22,247 --> 00:11:23,600
+[Dog barking]
+
+139
+00:11:31,767 --> 00:11:34,645
+RADIO DISPATCHER:
+<i>Bravo, Tango, Delta 6-2-9.</i>
+
+140
+00:11:34,727 --> 00:11:37,366
+<i>Tow for impoundment.</i>
+<i>Any unit, please respond.</i>
+
+141
+00:11:40,007 --> 00:11:42,396
+MARTY: Perfect. Just perfect.
+
+142
+00:11:46,447 --> 00:11:48,199
+[Biff speaking muffled]
+
+143
+00:11:48,687 --> 00:11:50,723
+BIFF: I can't believe you'd loan me your car...
+
+144
+00:11:50,807 --> 00:11:52,877
+...without telling me it had a blind spot.
+
+145
+00:11:52,967 --> 00:11:54,480
+I could've been killed.
+
+146
+00:11:54,567 --> 00:11:56,956
+Now, Biff, I never noticed...
+
+147
+00:11:57,047 --> 00:12:00,722
+...that the car had any blind spot before
+when I would drive it.
+
+148
+00:12:00,807 --> 00:12:02,160
+Hi, son.
+
+149
+00:12:02,247 --> 00:12:03,965
+BIFF: Are you blind, McFly?
+
+150
+00:12:04,047 --> 00:12:06,242
+<i>How else do you explain</i>
+<i>that wreck out there?</i>
+
+151
+00:12:06,327 --> 00:12:09,444
+MR. MCFLY: Biff, can I assume...
+
+152
+00:12:09,607 --> 00:12:12,485
+...that your insurance
+is going to pay for the damage?
+
+153
+00:12:12,567 --> 00:12:14,797
+My insurance? It's your car.
+
+154
+00:12:14,887 --> 00:12:17,685
+Your insurance should pay.
+Who's going to pay for this?
+
+155
+00:12:17,767 --> 00:12:21,646
+I spilled beer when the car smashed
+into me. Who'll pay my cleaning bill?
+
+156
+00:12:21,727 --> 00:12:23,558
+<i>And where's my reports?</i>
+
+157
+00:12:23,647 --> 00:12:27,765
+I haven't finished those up yet,
+but I figured since they weren't due 'til...
+
+158
+00:12:27,847 --> 00:12:30,645
+Hello? Hello? Anybody home?
+
+159
+00:12:31,327 --> 00:12:33,682
+Think, McFly. Think!
+
+160
+00:12:33,767 --> 00:12:35,598
+I got to have time to get them retyped.
+
+161
+00:12:35,687 --> 00:12:39,726
+Do you realize what would happen
+if I hand in my reports in your handwriting?
+
+162
+00:12:39,807 --> 00:12:41,320
+I'll get fired.
+
+163
+00:12:41,407 --> 00:12:43,967
+You wouldn't want that to happen,
+would you?
+
+164
+00:12:44,047 --> 00:12:45,924
+- Would you?
+- Of course not.
+
+165
+00:12:46,007 --> 00:12:48,396
+I wouldn't want that to happen.
+
+166
+00:12:48,487 --> 00:12:50,842
+<i>Now, look.</i>
+<i>I'll finish those reports tonight...</i>
+
+167
+00:12:50,927 --> 00:12:54,044
+...and I'll run them on over
+first thing tomorrow.
+
+168
+00:12:54,127 --> 00:12:56,083
+Not too early. I sleep in Saturday.
+
+169
+00:12:56,167 --> 00:12:57,998
+Your shoe's untied.
+
+170
+00:12:58,287 --> 00:13:00,596
+Don't be so gullible, McFly.
+
+171
+00:13:00,687 --> 00:13:02,518
+<i>Got the place fixed up nice.</i>
+
+172
+00:13:04,527 --> 00:13:06,563
+I have your car towed to your house...
+
+173
+00:13:06,647 --> 00:13:08,956
+...and all you got for me is lite beer?
+
+174
+00:13:15,807 --> 00:13:17,877
+What are you looking at, butthead?
+
+175
+00:13:20,087 --> 00:13:21,918
+Say hi to your mom for me.
+
+176
+00:13:24,727 --> 00:13:26,718
+I know what you're going to say, son...
+
+177
+00:13:26,807 --> 00:13:28,399
+...and you're right.
+
+178
+00:13:28,487 --> 00:13:29,806
+You're right.
+
+179
+00:13:30,367 --> 00:13:31,356
+But...
+
+180
+00:13:32,087 --> 00:13:34,043
+Biff just happens to be my supervisor...
+
+181
+00:13:34,127 --> 00:13:38,757
+...and I'm afraid I'm just not
+very good at confrontations.
+
+182
+00:13:39,687 --> 00:13:41,405
+But the car, Dad.
+
+183
+00:13:41,487 --> 00:13:42,920
+[Car driving away]
+
+184
+00:13:43,127 --> 00:13:45,402
+MARTY: I mean, he wrecked it.
+He totaled it.
+
+185
+00:13:46,567 --> 00:13:48,558
+I needed that car tomorrow night, Dad.
+
+186
+00:13:48,647 --> 00:13:51,798
+Do you have any idea
+how important this was to me?
+
+187
+00:13:51,887 --> 00:13:54,321
+MR. MCFLY: I know, and all I can say is, I'm...
+
+188
+00:13:54,967 --> 00:13:56,366
+I'm sorry.
+
+189
+00:13:56,647 --> 00:13:58,717
+MR. MCFLY: Believe me, Marty, you're better off...
+
+190
+00:13:58,807 --> 00:14:01,799
+...without having to worry
+about all the aggravation...
+
+191
+00:14:01,887 --> 00:14:05,004
+...and headaches of playing at that dance.
+
+192
+00:14:05,087 --> 00:14:08,841
+DAVID: He's absolutely right.
+The last thing you need is headaches.
+
+193
+00:14:09,927 --> 00:14:11,645
+[Mr. McFly laughing]
+
+194
+00:14:11,767 --> 00:14:13,405
+[David laughing]
+
+195
+00:14:15,127 --> 00:14:16,606
+[TV audience applauding]
+
+196
+00:14:16,687 --> 00:14:20,157
+Kids, we're going to have to
+eat this cake by ourselves.
+
+197
+00:14:20,727 --> 00:14:23,002
+Your Uncle Joey didn't make parole again.
+
+198
+00:14:23,967 --> 00:14:25,195
+[Mrs. McFly sighs]
+
+199
+00:14:25,287 --> 00:14:28,404
+It would be nice
+if you all dropped him a line.
+
+200
+00:14:28,567 --> 00:14:30,159
+MARTY: Uncle <i>"</i>Jailbird<i>"</i> Joey?
+
+201
+00:14:30,247 --> 00:14:31,726
+He's your brother, Mom.
+
+202
+00:14:31,807 --> 00:14:35,402
+Yeah. It's a major embarrassment,
+having an uncle in prison.
+
+203
+00:14:35,647 --> 00:14:37,683
+We all make mistakes in life, children.
+
+204
+00:14:37,767 --> 00:14:39,405
+DAVID: Goddamn it. I'm late.
+
+205
+00:14:39,487 --> 00:14:41,079
+MRS. MCFLY: David, watch your mouth!
+
+206
+00:14:41,167 --> 00:14:43,635
+You come here and kiss your mother
+before you go.
+
+207
+00:14:43,727 --> 00:14:46,685
+Come on, Mom.
+Make it fast. I'll miss my bus.
+
+208
+00:14:47,127 --> 00:14:48,242
+DAVID: See you later, Pop.
+
+209
+00:14:48,367 --> 00:14:49,356
+[David exclaims]
+
+210
+00:14:49,447 --> 00:14:51,244
+Time to change that oil.
+
+211
+00:14:51,447 --> 00:14:52,641
+[Laughing]
+
+212
+00:14:54,287 --> 00:14:55,242
+LINDA: Marty.
+
+213
+00:14:55,967 --> 00:14:57,685
+I'm not your answering service.
+
+214
+00:14:57,767 --> 00:15:00,076
+While you were outside
+pouting over the car...
+
+215
+00:15:00,167 --> 00:15:02,044
+...Jennifer Parker called you twice.
+
+216
+00:15:02,127 --> 00:15:03,606
+MRS. MCFLY: I don't like her.
+
+217
+00:15:03,687 --> 00:15:06,838
+Any girl who calls up a boy
+is just asking for trouble.
+
+218
+00:15:06,927 --> 00:15:09,680
+LINDA: Mom. There's nothing wrong
+with calling a boy.
+
+219
+00:15:09,767 --> 00:15:13,442
+I think it's terrible. Girls chasing boys.
+
+220
+00:15:13,527 --> 00:15:16,724
+When I was your age,
+I never chased a boy or called a boy or...
+
+221
+00:15:16,807 --> 00:15:19,241
+...sat in a parked car with a boy.
+
+222
+00:15:19,887 --> 00:15:22,401
+LINDA: Then how am I ever
+supposed to meet anybody?
+
+223
+00:15:23,287 --> 00:15:25,482
+Well, it'll just happen.
+
+224
+00:15:25,687 --> 00:15:27,917
+Like the way I met your father.
+
+225
+00:15:28,007 --> 00:15:30,999
+That was so stupid.
+Grandpa hit him with the car.
+
+226
+00:15:31,287 --> 00:15:32,686
+It was meant to be.
+
+227
+00:15:32,807 --> 00:15:33,796
+[Linda sighs]
+
+228
+00:15:33,887 --> 00:15:35,161
+Anyway...
+
+229
+00:15:35,567 --> 00:15:38,843
+...if Grandpa hadn't hit him,
+then none of you would have been born.
+
+230
+00:15:38,927 --> 00:15:40,440
+Yeah, well.
+
+231
+00:15:40,527 --> 00:15:43,837
+I don't understand what Dad was doing
+in the middle of the street.
+
+232
+00:15:43,927 --> 00:15:46,282
+MRS. MCFLY:
+What was it, George? Bird-watching?
+
+233
+00:15:46,367 --> 00:15:48,801
+What, Lorraine? What?
+
+234
+00:15:48,887 --> 00:15:51,685
+Anyway, your Grandpa
+hit him with the car...
+
+235
+00:15:51,767 --> 00:15:53,837
+...and brought him into the house.
+
+236
+00:15:54,727 --> 00:15:56,558
+He seemed so helpless.
+
+237
+00:15:59,207 --> 00:16:02,085
+Like a little lost puppy,
+and my heart just went out to him.
+
+238
+00:16:02,167 --> 00:16:05,204
+LINDA: Yeah, we know.
+You've told us this story a million times.
+
+239
+00:16:05,287 --> 00:16:06,640
+<i>You felt sorry for him.</i>
+
+240
+00:16:06,727 --> 00:16:09,685
+You decided to go with him
+to the Fish Under the Sea dance.
+
+241
+00:16:09,767 --> 00:16:12,679
+No. It was
+the Enchantment Under the Sea dance.
+
+242
+00:16:13,527 --> 00:16:16,519
+Our first date. I'll never forget it.
+
+243
+00:16:16,967 --> 00:16:20,482
+It was the night of that terrible
+thunderstorm, remember, George?
+
+244
+00:16:20,567 --> 00:16:22,364
+[Lndistinct chatter on TV]
+
+245
+00:16:23,047 --> 00:16:26,517
+Your father kissed me
+for the first time on that dance floor.
+
+246
+00:16:28,647 --> 00:16:30,683
+It was then that I realized...
+
+247
+00:16:30,807 --> 00:16:33,844
+...that I was going to spend
+the rest of my life with him.
+
+248
+00:16:33,967 --> 00:16:35,798
+[Mr. McFly laughing]
+
+249
+00:16:37,367 --> 00:16:38,686
+Oh, no.
+
+250
+00:16:44,007 --> 00:16:45,565
+[Music playing on radio]
+
+251
+00:16:55,167 --> 00:16:56,646
+[Telephone ringing]
+
+252
+00:17:00,087 --> 00:17:01,236
+[Sighing]
+
+253
+00:17:01,407 --> 00:17:02,476
+Hello.
+
+254
+00:17:02,567 --> 00:17:05,161
+DOC: <i>Marty, you didn't fall asleep, did you?</i>
+MARTY: Doc.
+
+255
+00:17:06,367 --> 00:17:08,961
+No. No, don't be silly.
+
+256
+00:17:09,127 --> 00:17:11,880
+DOC: <i>Listen, this is very important.</i>
+<i>I forgot my video camera.</i>
+
+257
+00:17:11,967 --> 00:17:14,686
+<i>Can you pick it up at my place</i>
+<i>on your way to the mall?</i>
+
+258
+00:17:14,767 --> 00:17:17,327
+Yeah. I'm on my way.
+
+259
+00:17:40,607 --> 00:17:43,519
+Einstein! Where's the doc, boy?
+
+260
+00:17:43,607 --> 00:17:44,926
+[Einstein whining]
+
+261
+00:17:45,007 --> 00:17:46,440
+[Machine humming]
+
+262
+00:17:49,327 --> 00:17:50,680
+[Gate unlocking]
+
+263
+00:17:56,487 --> 00:17:58,284
+[Mysterious instrumental music]
+
+264
+00:18:08,207 --> 00:18:09,322
+[Engine revving]
+
+265
+00:18:09,407 --> 00:18:11,204
+[Dramatic instrumental music]
+
+266
+00:18:31,407 --> 00:18:32,886
+[Steam rushing]
+
+267
+00:18:35,607 --> 00:18:36,676
+Doc!
+
+268
+00:18:37,927 --> 00:18:40,077
+- Marty! You made it!
+- Yeah.
+
+269
+00:18:40,367 --> 00:18:44,565
+Welcome to my latest experiment. This is
+the one I've been waiting for all my life.
+
+270
+00:18:44,647 --> 00:18:46,160
+Well, it's a DeLorean...
+
+271
+00:18:46,247 --> 00:18:50,001
+All your questions will be answered.
+Roll tape and we'll proceed.
+
+272
+00:18:50,087 --> 00:18:52,362
+- Is that a Devo suit?
+- Never mind that now.
+
+273
+00:18:52,447 --> 00:18:54,563
+DOC: Not now.
+MARTY: I'm ready.
+
+274
+00:18:55,167 --> 00:18:58,955
+Good evening. I'm Dr. Emmett Brown.
+I'm in the Twin Pines Mall parking lot.
+
+275
+00:18:59,047 --> 00:19:02,483
+It's Saturday morning,
+October 26, 1985, 1:18 a.m.
+
+276
+00:19:02,567 --> 00:19:04,717
+<i>This is temporal experiment number one.</i>
+
+277
+00:19:04,807 --> 00:19:07,640
+DOC: Come on, Einie. Get in there.
+
+278
+00:19:07,807 --> 00:19:09,684
+In you go. Sit down.
+
+279
+00:19:09,967 --> 00:19:11,958
+Put your seat belt on.
+
+280
+00:19:13,407 --> 00:19:15,079
+[Einstein grunting]
+
+281
+00:19:17,407 --> 00:19:18,726
+MARTY: Okay.
+
+282
+00:19:20,007 --> 00:19:22,521
+Please note that Einstein's clock...
+
+283
+00:19:22,607 --> 00:19:25,440
+...is in precise synchronization
+with my control watch.
+
+284
+00:19:25,527 --> 00:19:27,643
+DOC: Got it?
+MARTY: Right. Check, Doc.
+
+285
+00:19:30,127 --> 00:19:33,085
+DOC: Have a good trip, Einstein.
+Watch your head.
+
+286
+00:19:38,407 --> 00:19:40,967
+MARTY:
+You got that thing hooked up to the car?
+
+287
+00:19:41,047 --> 00:19:42,958
+DOC: Watch this.
+MARTY: Yeah. Okay.
+
+288
+00:19:43,047 --> 00:19:44,400
+MARTY: Got it.
+
+289
+00:19:48,087 --> 00:19:49,156
+Jesus!
+
+290
+00:19:53,887 --> 00:19:55,445
+Not me! The car!
+
+291
+00:19:57,327 --> 00:19:58,965
+[Tires squealing]
+
+292
+00:20:05,407 --> 00:20:06,886
+[Engine revving]
+
+293
+00:20:12,127 --> 00:20:14,482
+If my calculations are correct...
+
+294
+00:20:14,847 --> 00:20:17,361
+...when this baby hits 88 miles per hour...
+
+295
+00:20:17,807 --> 00:20:20,082
+...you're going to see some serious shit.
+
+296
+00:20:22,207 --> 00:20:23,196
+[Remote control beeping]
+
+297
+00:20:23,487 --> 00:20:25,045
+[Tires squealing]
+
+298
+00:20:25,527 --> 00:20:26,880
+[Remote control beeping]
+
+299
+00:20:26,967 --> 00:20:28,161
+[Tires squealing]
+
+300
+00:20:28,407 --> 00:20:29,362
+[Remote control beeping]
+
+301
+00:20:29,447 --> 00:20:31,199
+[Tires squealing]
+
+302
+00:20:54,287 --> 00:20:55,925
+Watch this!
+
+303
+00:20:58,007 --> 00:20:58,996
+[Beeping growing faster]
+
+304
+00:21:09,327 --> 00:21:11,522
+[Dramatic instrumental music]
+
+305
+00:21:12,207 --> 00:21:13,196
+[Doc laughs]
+
+306
+00:21:13,287 --> 00:21:15,517
+What did I tell you?
+
+307
+00:21:15,607 --> 00:21:18,917
+88 miles per hour!
+
+308
+00:21:21,887 --> 00:21:26,597
+The temporal displacement occurred
+exactly 1:20 a.m. And zero seconds!
+
+309
+00:21:28,287 --> 00:21:30,039
+Jesus Christ!
+
+310
+00:21:30,127 --> 00:21:32,482
+Jesus Christ, Doc!
+You disintegrated Einstein!
+
+311
+00:21:32,567 --> 00:21:35,035
+Calm down. I didn't disintegrate anything.
+
+312
+00:21:35,167 --> 00:21:39,206
+The molecular structure of both Einstein
+and the car are completely intact.
+
+313
+00:21:39,767 --> 00:21:41,086
+Then where the hell are they?
+
+314
+00:21:41,167 --> 00:21:44,159
+The appropriate question is,
+<i>"</i>When the hell are they?<i>"</i>
+
+315
+00:21:44,247 --> 00:21:48,525
+Einstein has just become
+the world's first time traveler.
+
+316
+00:21:49,007 --> 00:21:51,521
+DOC: I sent him into the future.
+
+317
+00:21:52,527 --> 00:21:54,802
+One minute into the future, to be exact.
+
+318
+00:21:54,887 --> 00:21:57,959
+At precisely 1:21 a.m. And zero seconds...
+
+319
+00:21:58,047 --> 00:22:00,925
+...we shall catch up with him
+and the time machine.
+
+320
+00:22:02,607 --> 00:22:03,722
+[Dramatic instrumental music ends]
+
+321
+00:22:04,207 --> 00:22:06,118
+Wait a minute, Doc.
+
+322
+00:22:07,727 --> 00:22:10,605
+Are you telling me that
+you built a time machine...
+
+323
+00:22:11,647 --> 00:22:13,797
+...out of a DeLorean?
+- The way I see it...
+
+324
+00:22:13,887 --> 00:22:17,766
+...if you're going to build a time machine
+into a car, why not do it with style?
+
+325
+00:22:17,847 --> 00:22:20,998
+Besides, the stainless-steel construction
+made the flux dispersal...
+
+326
+00:22:21,127 --> 00:22:22,116
+[Watch beeping]
+
+327
+00:22:22,207 --> 00:22:23,560
+Look out!
+
+328
+00:22:25,087 --> 00:22:26,725
+[Tires squealing]
+
+329
+00:22:28,647 --> 00:22:30,205
+[Remote control beeps]
+
+330
+00:23:02,567 --> 00:23:04,444
+[Time machine steaming and creaking]
+
+331
+00:23:05,167 --> 00:23:06,361
+[Doc gasps]
+
+332
+00:23:06,607 --> 00:23:09,405
+MARTY: What? Is it hot?
+DOC: It's cold. Damn cold.
+
+333
+00:23:11,687 --> 00:23:12,836
+[Doc laughing]
+
+334
+00:23:12,967 --> 00:23:15,117
+Einstein, you little devil!
+
+335
+00:23:17,207 --> 00:23:20,916
+<i>Einstein's clock is exactly one minute</i>
+<i>behind mine and still ticking!</i>
+
+336
+00:23:24,287 --> 00:23:25,800
+MARTY: He's okay.
+DOC: He's fine.
+
+337
+00:23:25,887 --> 00:23:28,082
+He's completely unaware
+that anything happened.
+
+338
+00:23:28,167 --> 00:23:30,727
+As far as he's concerned,
+the trip was instantaneous.
+
+339
+00:23:30,807 --> 00:23:33,321
+That's why his watch is exactly
+one minute behind mine.
+
+340
+00:23:33,407 --> 00:23:37,036
+He skipped over that minute to
+instantly arrive at this moment in time.
+
+341
+00:23:37,127 --> 00:23:39,402
+I'll show you how it works.
+
+342
+00:23:40,887 --> 00:23:43,799
+First, you turn the time circuits on.
+
+343
+00:23:43,887 --> 00:23:45,036
+[Machine powering up]
+
+344
+00:23:45,927 --> 00:23:47,246
+[Machine whirs]
+
+345
+00:23:47,407 --> 00:23:51,286
+DOC: This tells you where you're going,
+this where you are and this where you were.
+
+346
+00:23:51,367 --> 00:23:53,756
+Input your destination time on this keypad.
+
+347
+00:23:53,847 --> 00:23:57,317
+Say you want to see the signing
+of the Declaration of Independence.
+
+348
+00:23:57,687 --> 00:23:58,836
+[Machine bleeps]
+
+349
+00:23:59,287 --> 00:24:01,243
+DOC: Or witness the birth of Christ.
+
+350
+00:24:04,127 --> 00:24:06,721
+Here's a red-letter date
+in the history of science.
+
+351
+00:24:06,807 --> 00:24:09,446
+November 5, 1955.
+
+352
+00:24:13,047 --> 00:24:14,480
+Yes, of course.
+
+353
+00:24:14,567 --> 00:24:17,400
+November 5, 1955.
+
+354
+00:24:18,047 --> 00:24:19,765
+What happened?
+
+355
+00:24:20,807 --> 00:24:23,116
+That was the day I invented time travel.
+
+356
+00:24:23,487 --> 00:24:24,966
+<i>I remember it vividly.</i>
+
+357
+00:24:25,047 --> 00:24:27,003
+I was standing on my toilet
+hanging a clock.
+
+358
+00:24:27,087 --> 00:24:29,806
+The porcelain was wet.
+I slipped, hit my head on the sink.
+
+359
+00:24:29,887 --> 00:24:31,718
+When I came to, I had a revelation.
+
+360
+00:24:31,807 --> 00:24:35,356
+A vision. A picture in my head.
+A picture of this.
+
+361
+00:24:35,807 --> 00:24:38,367
+<i>This is what makes time travel possible.</i>
+
+362
+00:24:38,887 --> 00:24:40,605
+The flux capacitor.
+
+363
+00:24:40,887 --> 00:24:42,036
+Flux capacitor?
+
+364
+00:24:42,127 --> 00:24:46,564
+It's taken almost 30 years and my family
+fortune to realize the vision of that day.
+
+365
+00:24:46,967 --> 00:24:49,117
+My God, has it been that long?
+
+366
+00:24:49,767 --> 00:24:52,201
+Things have certainly changed around here.
+
+367
+00:24:53,407 --> 00:24:57,082
+I remember when this was all farmland
+as far as the eye could see.
+
+368
+00:24:58,527 --> 00:25:00,882
+Old man Peabody owned all of this.
+
+369
+00:25:02,087 --> 00:25:05,841
+He had this crazy idea
+about breeding pine trees.
+
+370
+00:25:09,487 --> 00:25:12,797
+This is...
+This is heavy-duty, Doc. This is great.
+
+371
+00:25:13,247 --> 00:25:15,715
+Does it run on regular unleaded gasoline?
+
+372
+00:25:15,807 --> 00:25:19,482
+Unfortunately, no. It requires something
+with a little more kick. Plutonium.
+
+373
+00:25:19,567 --> 00:25:21,717
+Plutonium. Wait a minute.
+
+374
+00:25:21,807 --> 00:25:24,446
+Are you telling me
+that this sucker is nuclear?
+
+375
+00:25:24,647 --> 00:25:26,000
+Keep rolling there.
+
+376
+00:25:26,087 --> 00:25:27,839
+No, this sucker's electrical...
+
+377
+00:25:27,927 --> 00:25:31,966
+...but I need a nuclear reaction to generate
+the 1.21 gigawatts of electricity I need.
+
+378
+00:25:32,047 --> 00:25:35,198
+You don't just walk into a store
+and buy plutonium.
+
+379
+00:25:35,607 --> 00:25:37,518
+<i>Did you rip that off?</i>
+
+380
+00:25:39,247 --> 00:25:43,001
+Of course. From a group of Libyans.
+They wanted me to build them a bomb.
+
+381
+00:25:43,087 --> 00:25:47,319
+I took the plutonium and gave them a
+bomb casing full of pinball machine parts.
+
+382
+00:25:47,407 --> 00:25:50,205
+DOC: Come on. Let's get you a radiation suit.
+MARTY: Jesus!
+
+383
+00:25:57,127 --> 00:25:59,118
+[Breathing distorted by suit]
+
+384
+00:26:12,567 --> 00:26:13,920
+[Sucking]
+
+385
+00:26:18,647 --> 00:26:21,036
+It's safe now. Everything's lead-lined.
+
+386
+00:26:21,127 --> 00:26:22,685
+[Suspenseful instrumental music]
+
+387
+00:26:22,767 --> 00:26:24,644
+DOC: Don't lose those tapes now.
+
+388
+00:26:24,727 --> 00:26:26,604
+I need that as a record.
+
+389
+00:26:26,687 --> 00:26:28,917
+Let's put this back here. There we go.
+
+390
+00:26:31,247 --> 00:26:32,919
+Almost forgot my luggage.
+
+391
+00:26:33,047 --> 00:26:35,686
+Who knows if they got
+cotton underwear in the future.
+
+392
+00:26:35,767 --> 00:26:38,645
+- I'm allergic to all synthetics.
+- The future.
+
+393
+00:26:38,887 --> 00:26:40,639
+- That's where you're going.
+- Right.
+
+394
+00:26:40,727 --> 00:26:44,925
+25 years. I've always dreamed of seeing
+the future, looking beyond my years...
+
+395
+00:26:45,007 --> 00:26:47,077
+...seeing the progress of mankind.
+
+396
+00:26:47,167 --> 00:26:48,282
+MARTY: Why not?
+
+397
+00:26:48,367 --> 00:26:51,643
+I'll also be able to see
+who wins the next 25 World Series.
+
+398
+00:26:52,367 --> 00:26:53,322
+MARTY: Doc.
+
+399
+00:26:54,687 --> 00:26:56,996
+Look me up when you get there.
+
+400
+00:26:57,687 --> 00:27:00,121
+Indeed I will. Roll 'em.
+
+401
+00:27:03,007 --> 00:27:04,326
+[Doc clearing throat]
+
+402
+00:27:06,207 --> 00:27:08,926
+I, Dr. Emmett Brown...
+
+403
+00:27:10,087 --> 00:27:12,647
+...am about to embark
+on an historic journey.
+
+404
+00:27:14,687 --> 00:27:16,484
+What am I thinking of?
+
+405
+00:27:16,567 --> 00:27:18,637
+I almost forgot to bring extra plutonium.
+
+406
+00:27:18,727 --> 00:27:21,161
+How do I expect to get back?
+One pellet, one trip.
+
+407
+00:27:21,247 --> 00:27:23,238
+I must be out of my mind.
+
+408
+00:27:23,327 --> 00:27:24,840
+[Einstein barking]
+
+409
+00:27:25,647 --> 00:27:27,205
+What is it?
+
+410
+00:27:31,407 --> 00:27:33,363
+[Ominous instrumental music]
+
+411
+00:27:35,367 --> 00:27:36,436
+My God.
+
+412
+00:27:36,927 --> 00:27:39,600
+They found me.
+I don't know how, but they found me.
+
+413
+00:27:39,687 --> 00:27:41,803
+DOC: Run for it, Marty!
+MARTY: Who?
+
+414
+00:27:42,247 --> 00:27:44,397
+Who do you think? The Libyans!
+
+415
+00:27:46,127 --> 00:27:47,640
+[Man shouting in Arabic]
+
+416
+00:27:47,727 --> 00:27:49,206
+Holy shit!
+
+417
+00:27:49,447 --> 00:27:50,766
+[Gunshots firing]
+
+418
+00:27:53,047 --> 00:27:54,639
+I'll draw their fire!
+
+419
+00:28:02,447 --> 00:28:03,766
+Doc, wait!
+
+420
+00:28:14,767 --> 00:28:16,439
+[Doc screaming]
+
+421
+00:28:17,447 --> 00:28:18,675
+No!
+
+422
+00:28:19,527 --> 00:28:21,279
+Bastards!
+
+423
+00:28:25,807 --> 00:28:27,286
+[Shouting in Arabic]
+
+424
+00:28:31,327 --> 00:28:32,555
+[Grunting]
+
+425
+00:28:32,647 --> 00:28:33,762
+[Gun clicking]
+
+426
+00:28:33,927 --> 00:28:35,519
+[Swearing in Arabic]
+
+427
+00:28:37,207 --> 00:28:38,322
+[Grunting]
+
+428
+00:28:39,247 --> 00:28:40,396
+Go!
+
+429
+00:28:40,487 --> 00:28:41,966
+[Engine stalling]
+
+430
+00:28:46,247 --> 00:28:47,521
+Go!
+
+431
+00:28:47,647 --> 00:28:49,000
+[Tires squealing]
+
+432
+00:28:50,007 --> 00:28:51,440
+[Engine starting]
+
+433
+00:28:52,647 --> 00:28:54,080
+[Tires squealing]
+
+434
+00:28:59,967 --> 00:29:01,320
+[Machine beeping]
+
+435
+00:29:07,247 --> 00:29:08,760
+[Gunshots firing and ricocheting]
+
+436
+00:29:20,407 --> 00:29:21,556
+[Shouting]
+
+437
+00:29:26,287 --> 00:29:28,517
+Come on! Move! Goddamn it!
+
+438
+00:29:30,047 --> 00:29:31,321
+MARTY: Jesus!
+
+439
+00:29:39,727 --> 00:29:41,604
+[Dramatic instrumental music]
+
+440
+00:29:50,647 --> 00:29:52,046
+Holy shit!
+
+441
+00:29:52,767 --> 00:29:55,486
+Let's see if you bastards can do 90.
+
+442
+00:29:55,647 --> 00:29:56,921
+[Tires squealing]
+
+443
+00:30:12,727 --> 00:30:14,080
+[Rumbling over ground]
+
+444
+00:30:15,207 --> 00:30:16,435
+[Screaming]
+
+445
+00:30:21,127 --> 00:30:22,560
+[Crashing]
+
+446
+00:30:25,087 --> 00:30:26,566
+[Chickens clucking]
+
+447
+00:30:27,167 --> 00:30:28,520
+[Crickets chirping]
+
+448
+00:30:28,847 --> 00:30:30,166
+[Dog barking distantly]
+
+449
+00:30:30,967 --> 00:30:32,195
+[Door creaks open]
+
+450
+00:30:38,767 --> 00:30:40,200
+[Car blinker clicking]
+
+451
+00:30:45,047 --> 00:30:46,366
+WOMAN: Pa, what is it?
+
+452
+00:30:46,527 --> 00:30:47,926
+What is it, Pa?
+
+453
+00:30:48,007 --> 00:30:51,158
+Looks like an airplane without wings.
+
+454
+00:30:51,687 --> 00:30:54,679
+That ain't no airplane. Look.
+
+455
+00:30:59,447 --> 00:31:00,880
+[Hydraulics hissing]
+
+456
+00:31:08,567 --> 00:31:10,319
+[Muffled breathing]
+
+457
+00:31:11,327 --> 00:31:12,680
+[Screaming]
+
+458
+00:31:14,607 --> 00:31:15,926
+Don't look!
+
+459
+00:31:16,007 --> 00:31:17,599
+MARTY: Listen...
+
+460
+00:31:20,407 --> 00:31:22,045
+[Cows mooing]
+
+461
+00:31:29,327 --> 00:31:30,476
+Hello.
+
+462
+00:31:33,487 --> 00:31:34,715
+Excuse me.
+
+463
+00:31:38,087 --> 00:31:39,679
+Sorry about your barn.
+
+464
+00:31:39,767 --> 00:31:40,995
+[Gunshot fires]
+
+465
+00:31:42,887 --> 00:31:46,038
+It's already mutated into human form!
+Shoot it!
+
+466
+00:31:47,887 --> 00:31:50,162
+Take that, you mutated son of a bitch!
+
+467
+00:31:51,647 --> 00:31:52,875
+[Screaming]
+
+468
+00:31:54,367 --> 00:31:55,720
+BOY: Wait!
+
+469
+00:31:57,887 --> 00:31:59,400
+BOY: Shoot it, Pa!
+
+470
+00:32:01,727 --> 00:32:04,639
+MAN: My pine! Why you...
+
+471
+00:32:04,727 --> 00:32:05,921
+[Gunshot fires]
+
+472
+00:32:06,607 --> 00:32:09,883
+MAN: You space bastard! You killed my pine!
+
+473
+00:32:10,287 --> 00:32:12,278
+[Dramatic instrumental music]
+
+474
+00:32:13,007 --> 00:32:13,996
+[Tires squealing]
+
+475
+00:32:14,087 --> 00:32:15,884
+MARTY: Okay, McFly.
+
+476
+00:32:15,967 --> 00:32:18,083
+Get a grip on yourself. It's all a dream.
+
+477
+00:32:18,167 --> 00:32:20,886
+Just a very intense dream.
+
+478
+00:32:23,607 --> 00:32:25,245
+[Brakes squealing]
+
+479
+00:32:33,647 --> 00:32:35,638
+[Mysterious instrumental music]
+
+480
+00:32:43,847 --> 00:32:45,758
+[Somber instrumental music]
+
+481
+00:33:02,127 --> 00:33:05,199
+MARTY: Listen, you got to help me.
+WOMAN: Don't stop, Wilbur!
+
+482
+00:33:07,767 --> 00:33:09,086
+It can't be.
+
+483
+00:33:11,567 --> 00:33:12,886
+[Machine beeps]
+
+484
+00:33:14,887 --> 00:33:16,445
+This is nuts.
+
+485
+00:33:17,247 --> 00:33:18,566
+[Engine stalling]
+
+486
+00:33:19,207 --> 00:33:20,276
+[Engine stalling]
+
+487
+00:33:20,407 --> 00:33:21,920
+Come on.
+
+488
+00:33:22,607 --> 00:33:24,086
+Perfect.
+
+489
+00:33:24,167 --> 00:33:26,601
+[Machine beeping insistently]
+
+490
+00:33:53,087 --> 00:33:55,078
+[<i>Mr. Sandman</i> playing]
+
+491
+00:34:13,687 --> 00:34:15,120
+[Car honking]
+
+492
+00:34:24,767 --> 00:34:25,756
+[Bell dings]
+
+493
+00:34:26,727 --> 00:34:28,285
+[Gas attendants speaking]
+
+494
+00:34:33,127 --> 00:34:34,480
+[<i>Mr. Sandman</i> continuing]
+
+495
+00:34:43,047 --> 00:34:44,799
+[Boy counting]
+
+496
+00:34:57,287 --> 00:34:58,959
+[Bell chiming]
+
+497
+00:35:14,167 --> 00:35:17,921
+ANNOUNCER: <i>Remember,</i>
+<i>fellow citizens, the future is in your hands.</i>
+
+498
+00:35:18,007 --> 00:35:21,522
+<i>If you believe in progress,</i>
+<i>re-elect Mayor Red Thomas.</i>
+
+499
+00:35:21,727 --> 00:35:23,718
+<i>Progress is his middle name.</i>
+
+500
+00:35:23,807 --> 00:35:26,275
+<i>Mayor Red Thomas' progress platform...</i>
+
+501
+00:35:26,367 --> 00:35:28,756
+<i>... means more jobs, better education...</i>
+
+502
+00:35:28,847 --> 00:35:31,805
+<i>... bigger civic improvements</i>
+<i>and lower taxes.</i>
+
+503
+00:35:31,887 --> 00:35:35,436
+<i>On election day,</i>
+<i>cast your vote for a proven leader.</i>
+
+504
+00:35:35,527 --> 00:35:37,722
+<i>Re-elect Mayor Red Thomas.</i>
+
+505
+00:35:40,927 --> 00:35:42,804
+MARTY: This has got to be a dream.
+
+506
+00:35:51,767 --> 00:35:53,723
+[<i>Davy Crockett</i> playing on jukebox]
+
+507
+00:35:59,127 --> 00:36:01,163
+MAN: Hey, kid. You jump ship?
+
+508
+00:36:02,047 --> 00:36:04,402
+- What?
+- What's with the life preserver?
+
+509
+00:36:09,447 --> 00:36:11,005
+I want to use the phone.
+
+510
+00:36:11,687 --> 00:36:13,120
+It's in the back.
+
+511
+00:36:15,687 --> 00:36:16,961
+MARTY: Brown.
+
+512
+00:36:18,927 --> 00:36:20,360
+Great. You're alive.
+
+513
+00:36:23,927 --> 00:36:25,440
+[Watch beeping]
+
+514
+00:36:26,007 --> 00:36:27,122
+[Marty sighs]
+
+515
+00:36:28,087 --> 00:36:29,520
+[Phone ringing]
+
+516
+00:36:32,087 --> 00:36:33,440
+Come on.
+
+517
+00:36:40,487 --> 00:36:44,366
+MARTY: Do you know where 1640 Riverside...
+MAN: Are you going to order, kid?
+
+518
+00:36:46,247 --> 00:36:47,396
+Yeah.
+
+519
+00:36:47,687 --> 00:36:49,279
+<i>Give me a Tab.</i>
+
+520
+00:36:49,527 --> 00:36:51,916
+I can't give you a tab
+unless you order something.
+
+521
+00:36:52,007 --> 00:36:53,918
+Right. Give me a Pepsi Free.
+
+522
+00:36:54,007 --> 00:36:56,601
+MAN: You want a Pepsi, pal,
+you're going to pay for it.
+
+523
+00:36:56,727 --> 00:36:59,685
+Just give me something
+without any sugar in it, okay?
+
+524
+00:36:59,887 --> 00:37:01,639
+Something without sugar.
+
+525
+00:37:07,727 --> 00:37:09,126
+[Door opens]
+
+526
+00:37:09,207 --> 00:37:10,322
+BIFF: McFly.
+
+527
+00:37:12,607 --> 00:37:14,199
+What are you doing?
+
+528
+00:37:15,087 --> 00:37:16,122
+Biff.
+
+529
+00:37:16,367 --> 00:37:18,756
+I'm talking to you, McFly, you Irish bug!
+
+530
+00:37:18,847 --> 00:37:22,601
+GEORGE: Biff. Guys. How are you doing?
+BIFF: You got my homework finished?
+
+531
+00:37:23,287 --> 00:37:25,881
+Actually, I figured
+since it wasn't due 'til Monday...
+
+532
+00:37:25,967 --> 00:37:28,686
+Hello? Hello? Anybody home?
+
+533
+00:37:29,207 --> 00:37:31,004
+Think, McFly. Think!
+
+534
+00:37:31,087 --> 00:37:32,884
+I got to have time to recopy it.
+
+535
+00:37:32,967 --> 00:37:36,562
+You realize what would happen if I hand in
+my homework in your handwriting?
+
+536
+00:37:36,647 --> 00:37:38,319
+I'll get kicked out of school.
+
+537
+00:37:38,407 --> 00:37:40,875
+You wouldn't want that to happen,
+would you?
+
+538
+00:37:42,927 --> 00:37:44,599
+- Would you?
+- Of course not.
+
+539
+00:37:44,687 --> 00:37:46,518
+- No.
+- I wouldn't want that to happen.
+
+540
+00:37:46,607 --> 00:37:50,395
+- What are you looking at, butthead?
+- Get a load of his life preserver.
+
+541
+00:37:50,487 --> 00:37:52,125
+Dork thinks he's going to drown.
+
+542
+00:37:52,207 --> 00:37:54,038
+BIFF: How about my homework, McFly?
+
+543
+00:37:55,087 --> 00:37:56,679
+Okay, Biff.
+
+544
+00:37:56,807 --> 00:38:01,323
+I'll finish that up tonight and then I'll
+bring it over first thing tomorrow morning.
+
+545
+00:38:01,567 --> 00:38:04,957
+Not too early. I sleep in Sundays.
+Your shoe's untied!
+
+546
+00:38:05,527 --> 00:38:07,483
+Don't be so gullible, McFly.
+
+547
+00:38:07,567 --> 00:38:11,162
+- I don't want to see you in here again.
+- Okay. All right. Bye-bye.
+
+548
+00:38:32,207 --> 00:38:34,641
+- What?
+- You're George McFly!
+
+549
+00:38:35,007 --> 00:38:36,838
+Yeah. Who are you?
+
+550
+00:38:36,927 --> 00:38:39,487
+Why do you let those boys
+push you around like that for?
+
+551
+00:38:39,567 --> 00:38:40,886
+They're bigger than me.
+
+552
+00:38:40,967 --> 00:38:43,197
+Stand tall. Have some respect for yourself.
+
+553
+00:38:43,327 --> 00:38:47,684
+If you let people walk over you now,
+they'll walk over you the rest of your life.
+
+554
+00:38:47,767 --> 00:38:50,804
+Look at me. You think
+I'll spend my life in this slop house?
+
+555
+00:38:50,887 --> 00:38:52,605
+MAN: Watch it, Goldie.
+GOLDIE: No, sir!
+
+556
+00:38:52,687 --> 00:38:55,076
+GOLDIE: I'll do something.
+I'll go to night school.
+
+557
+00:38:55,167 --> 00:38:57,283
+One day, I'm going to be somebody.
+
+558
+00:38:57,367 --> 00:38:59,164
+That's right. He's going to be mayor.
+
+559
+00:38:59,247 --> 00:39:00,566
+Yeah, I'm...
+
+560
+00:39:01,207 --> 00:39:02,526
+Mayor!
+
+561
+00:39:03,247 --> 00:39:07,001
+Now that's a good idea!
+I could run for mayor.
+
+562
+00:39:07,087 --> 00:39:10,716
+- A colored mayor. That'll be the day.
+- Wait and see. I will be mayor.
+
+563
+00:39:10,807 --> 00:39:13,082
+I'll be the most powerful man
+in Hill Valley...
+
+564
+00:39:13,167 --> 00:39:14,919
+...and I'm going to clean up this town.
+
+565
+00:39:15,007 --> 00:39:17,521
+Good. You can start by sweeping the floor.
+
+566
+00:39:20,287 --> 00:39:22,323
+Mayor Goldie Wilson.
+
+567
+00:39:22,407 --> 00:39:24,238
+I like the sound of that.
+
+568
+00:39:27,727 --> 00:39:29,240
+[Bicycle bell rings]
+
+569
+00:39:36,247 --> 00:39:39,523
+Hey, Dad! George! Hey, you on the bike!
+
+570
+00:40:09,527 --> 00:40:11,483
+He's a peeping Tom!
+
+571
+00:40:16,927 --> 00:40:18,155
+Dad!
+
+572
+00:40:18,287 --> 00:40:19,766
+[Horn honking]
+
+573
+00:40:24,407 --> 00:40:26,125
+[Dogs barking]
+
+574
+00:40:30,247 --> 00:40:32,363
+Wait a minute. Who are you?
+
+575
+00:40:34,087 --> 00:40:38,205
+Stella! Another one of these damn kids
+jumped in front of my car!
+
+576
+00:40:39,167 --> 00:40:41,727
+<i>Come out here!</i>
+<i>Help me take him in the house!</i>
+
+577
+00:40:44,167 --> 00:40:46,158
+[Thunder rumbling]
+
+578
+00:40:47,047 --> 00:40:48,446
+Mom?
+
+579
+00:40:48,607 --> 00:40:50,086
+<i>That you?</i>
+
+580
+00:40:50,407 --> 00:40:51,840
+LORRAINE: There, there, now.
+
+581
+00:40:52,087 --> 00:40:53,440
+<i>Just relax.</i>
+
+582
+00:40:55,847 --> 00:40:58,407
+<i>You've been asleep</i>
+<i>for almost nine hours now.</i>
+
+583
+00:41:00,527 --> 00:41:02,882
+I had a horrible nightmare.
+
+584
+00:41:03,887 --> 00:41:06,879
+I dreamed that I went back in time.
+
+585
+00:41:07,287 --> 00:41:08,561
+<i>It was terrible.</i>
+
+586
+00:41:09,287 --> 00:41:10,561
+LORRAINE: Well...
+
+587
+00:41:10,967 --> 00:41:14,323
+...you're safe and sound now
+back in good old 1955.
+
+588
+00:41:15,487 --> 00:41:16,840
+1955?
+
+589
+00:41:20,367 --> 00:41:21,356
+[Marty gasping]
+
+590
+00:41:21,447 --> 00:41:23,961
+You're my...
+
+591
+00:41:24,167 --> 00:41:25,998
+My name is Lorraine.
+
+592
+00:41:26,247 --> 00:41:29,045
+LORRAINE: Lorraine Baines?
+MARTY: Yeah.
+
+593
+00:41:30,047 --> 00:41:31,526
+But you're...
+
+594
+00:41:31,607 --> 00:41:33,040
+You're so...
+
+595
+00:41:33,127 --> 00:41:36,324
+You're so thin!
+
+596
+00:41:36,407 --> 00:41:39,399
+Just relax, Calvin.
+You got a big bruise on your head.
+
+597
+00:41:40,047 --> 00:41:41,639
+[Panting]
+
+598
+00:41:42,127 --> 00:41:43,355
+[Marty exclaiming]
+
+599
+00:41:43,647 --> 00:41:45,285
+Where are my pants?
+
+600
+00:41:45,527 --> 00:41:46,960
+Over there...
+
+601
+00:41:47,487 --> 00:41:49,045
+...on my hope chest.
+
+602
+00:41:50,407 --> 00:41:53,126
+I've never seen
+purple underwear before, Calvin.
+
+603
+00:41:53,487 --> 00:41:56,365
+Calvin?
+Why do you keep calling me Calvin?
+
+604
+00:41:56,447 --> 00:41:59,086
+That is your name, isn't it? Calvin Klein.
+
+605
+00:41:59,567 --> 00:42:01,797
+It's written all over your underwear.
+
+606
+00:42:02,687 --> 00:42:04,996
+I guess they call you Cal, huh?
+
+607
+00:42:05,327 --> 00:42:07,045
+No, actually, people...
+
+608
+00:42:07,727 --> 00:42:09,240
+...call me Marty.
+
+609
+00:42:09,367 --> 00:42:10,516
+[Sighing]
+
+610
+00:42:10,887 --> 00:42:12,764
+Pleased to meet you, Calvin...
+
+611
+00:42:14,087 --> 00:42:15,406
+Marty...
+
+612
+00:42:16,767 --> 00:42:17,961
+...Klein.
+
+613
+00:42:24,447 --> 00:42:27,598
+- Do you mind if I sit here?
+- No. Fine.
+
+614
+00:42:27,727 --> 00:42:30,161
+No. Good. Fine. Good.
+
+615
+00:42:31,927 --> 00:42:34,441
+That's a big bruise you have there.
+
+616
+00:42:34,607 --> 00:42:35,596
+[Marty shouts]
+
+617
+00:42:35,687 --> 00:42:37,917
+STELLA: Lorraine, are you up there?
+
+618
+00:42:38,007 --> 00:42:39,838
+Oh, my God! It's my mother!
+
+619
+00:42:39,967 --> 00:42:42,845
+LORRAINE:
+Quick! Put your pants back on!
+
+620
+00:42:50,767 --> 00:42:52,997
+STELLA:
+Marty, how long have you been in port?
+
+621
+00:42:53,087 --> 00:42:55,442
+MARTY: Excuse me?
+STELLA: I guessed you're a sailor.
+
+622
+00:42:55,527 --> 00:42:57,882
+That's why you wear that life preserver.
+
+623
+00:42:58,007 --> 00:42:59,326
+Coast guard.
+
+624
+00:42:59,407 --> 00:43:03,605
+Sam, here's the young man you hit
+with your car. He's all right. Thank God.
+
+625
+00:43:03,687 --> 00:43:05,882
+What were you doing
+in the middle of the street?
+
+626
+00:43:05,967 --> 00:43:08,561
+Don't pay attention to him.
+He's in one of his moods.
+
+627
+00:43:08,647 --> 00:43:11,366
+Quit fiddling with that thing.
+Come in here to dinner.
+
+628
+00:43:11,447 --> 00:43:13,278
+STELLA: You already know Lorraine.
+
+629
+00:43:13,367 --> 00:43:15,323
+This is Milton, this is Sally...
+
+630
+00:43:15,407 --> 00:43:19,446
+...that's Toby, and over there
+in the playpen is little baby Joey.
+
+631
+00:43:21,367 --> 00:43:23,278
+MARTY: So, you're my uncle Joey.
+
+632
+00:43:24,127 --> 00:43:26,436
+Better get used to these bars, kid.
+
+633
+00:43:26,527 --> 00:43:30,566
+STELLA:
+Yes. Joey just loves being in his playpen.
+
+634
+00:43:30,687 --> 00:43:34,157
+He cries whenever we take him out,
+so we leave him in there all the time.
+
+635
+00:43:34,247 --> 00:43:36,556
+Well, Marty, I hope you like meat loaf.
+
+636
+00:43:36,807 --> 00:43:39,605
+- Well, listen, I really ought to...
+- Sit here, Marty.
+
+637
+00:43:40,367 --> 00:43:44,599
+Sam, stop fiddling with that thing
+and come in here and eat your dinner.
+
+638
+00:43:44,807 --> 00:43:46,206
+[Sam chortling]
+
+639
+00:43:46,327 --> 00:43:47,999
+Look at it roll.
+
+640
+00:43:48,087 --> 00:43:50,999
+Now we can watch
+Jackie Gleason while we eat.
+
+641
+00:43:56,327 --> 00:43:58,443
+[Muffled voices on TV]
+
+642
+00:43:58,727 --> 00:44:02,083
+Our first television set.
+Dad just picked it up today.
+
+643
+00:44:02,847 --> 00:44:04,485
+Do you have a television?
+
+644
+00:44:04,927 --> 00:44:07,680
+Well, yeah.
+You know, we have two of them.
+
+645
+00:44:07,807 --> 00:44:10,446
+Wow! You must be rich.
+
+646
+00:44:10,527 --> 00:44:14,839
+Honey, he's teasing you.
+Nobody has two television sets.
+
+647
+00:44:19,167 --> 00:44:20,156
+[Marty exclaiming]
+
+648
+00:44:20,247 --> 00:44:23,045
+I've seen this one. This is a classic.
+
+649
+00:44:23,127 --> 00:44:26,005
+This is where Ralph dresses up
+as a man from space.
+
+650
+00:44:26,247 --> 00:44:29,319
+What do you mean, you've seen this?
+It's brand-new.
+
+651
+00:44:29,607 --> 00:44:32,121
+Yeah, well, I saw it on a rerun.
+
+652
+00:44:32,567 --> 00:44:34,125
+What's a rerun?
+
+653
+00:44:34,407 --> 00:44:35,840
+You'll find out.
+
+654
+00:44:35,927 --> 00:44:38,157
+You know, Marty,
+you look so familiar to me.
+
+655
+00:44:38,247 --> 00:44:40,124
+Do I know your mother?
+
+656
+00:44:41,287 --> 00:44:43,198
+Yeah, I think maybe you do.
+
+657
+00:44:43,327 --> 00:44:46,524
+STELLA: Then I'll call her.
+I don't want her to worry about you.
+
+658
+00:44:46,607 --> 00:44:47,756
+You can't.
+
+659
+00:44:47,887 --> 00:44:52,005
+[Stuttering]
+That is, nobody's home.
+
+660
+00:44:54,407 --> 00:44:55,760
+Yet.
+
+661
+00:44:57,807 --> 00:44:58,956
+Listen.
+
+662
+00:44:59,047 --> 00:45:01,515
+Do you know where Riverside Drive is?
+
+663
+00:45:01,607 --> 00:45:05,395
+It's on the other end of town.
+A block past Maple. East end of town.
+
+664
+00:45:05,647 --> 00:45:08,844
+A block past Maple.
+That's John F. Kennedy Drive.
+
+665
+00:45:10,287 --> 00:45:12,198
+Who the hell is John F. Kennedy?
+
+666
+00:45:12,287 --> 00:45:13,686
+LORRAINE: Mother?
+
+667
+00:45:14,127 --> 00:45:16,641
+<i>With Marty's parents out of town...</i>
+
+668
+00:45:17,167 --> 00:45:19,476
+...don't you think
+he ought to spend the night?
+
+669
+00:45:19,567 --> 00:45:21,876
+After all,
+Dad almost killed him with the car.
+
+670
+00:45:21,967 --> 00:45:23,878
+That's true, Marty.
+
+671
+00:45:24,047 --> 00:45:27,596
+I think you should spend the night.
+I think you're our responsibility.
+
+672
+00:45:27,687 --> 00:45:30,997
+- Well, gee, I don't know.
+- He can sleep in my room.
+
+673
+00:45:31,287 --> 00:45:32,845
+MARTY: I got to go!
+
+674
+00:45:33,127 --> 00:45:35,243
+Thanks very much. You were all great.
+
+675
+00:45:35,327 --> 00:45:36,726
+See you all later.
+
+676
+00:45:37,847 --> 00:45:39,280
+Much later.
+
+677
+00:45:39,967 --> 00:45:41,320
+[Door closes]
+
+678
+00:45:43,087 --> 00:45:45,601
+He's a very strange young man.
+
+679
+00:45:45,767 --> 00:45:47,086
+He's an idiot.
+
+680
+00:45:47,247 --> 00:45:50,478
+<i>Comes from upbringing.</i>
+<i>His parents are probably idiots, too.</i>
+
+681
+00:45:51,167 --> 00:45:54,682
+<i>Lorraine, you ever have a kid</i>
+<i>who acts that way, I'll disown you.</i>
+
+682
+00:46:16,327 --> 00:46:17,760
+[Knocking on door]
+
+683
+00:46:24,927 --> 00:46:26,519
+[Electronic warbling]
+
+684
+00:46:31,127 --> 00:46:32,480
+MARTY: Doc?
+
+685
+00:46:33,047 --> 00:46:34,560
+Don't say a word.
+
+686
+00:46:35,767 --> 00:46:38,201
+DOC: No names. I want
+to know nothing about you.
+
+687
+00:46:38,287 --> 00:46:39,800
+MARTY: Listen, Doc...
+DOC: Quiet!
+
+688
+00:46:39,887 --> 00:46:41,479
+DOC: Don't tell me anything.
+
+689
+00:46:41,567 --> 00:46:43,603
+MARTY: You got to help...
+DOC: Quiet.
+
+690
+00:46:43,727 --> 00:46:45,763
+[Electronic warbling]
+
+691
+00:46:46,127 --> 00:46:48,004
+I'm going to read your thoughts.
+
+692
+00:46:48,127 --> 00:46:51,563
+Let's see now.
+You come here from a great distance?
+
+693
+00:46:51,647 --> 00:46:54,002
+- Yeah. Exactly.
+- Don't tell me!
+
+694
+00:46:54,527 --> 00:46:57,246
+DOC: You want me to subscribe
+to the <i>Saturday Evening Post</i>.
+
+695
+00:46:57,327 --> 00:46:59,795
+- No.
+- Not a word now!
+
+696
+00:46:59,887 --> 00:47:01,002
+Quiet.
+
+697
+00:47:03,087 --> 00:47:04,361
+Donations.
+
+698
+00:47:04,447 --> 00:47:06,403
+You want me to make a donation...
+
+699
+00:47:06,487 --> 00:47:08,762
+...to the Coast Guard Youth Auxiliary.
+
+700
+00:47:09,327 --> 00:47:10,646
+Doc...
+
+701
+00:47:10,767 --> 00:47:12,041
+[Electronics grow silent]
+
+702
+00:47:12,127 --> 00:47:14,163
+...l'm from the future.
+
+703
+00:47:14,247 --> 00:47:17,125
+I came here in a time machine
+that you invented.
+
+704
+00:47:17,607 --> 00:47:22,158
+Now, I need your help
+to get back to the year 1985.
+
+705
+00:47:23,527 --> 00:47:24,846
+My God!
+
+706
+00:47:29,287 --> 00:47:31,403
+Do you know what this means?
+
+707
+00:47:33,007 --> 00:47:37,125
+It means that
+this damn thing doesn't work at all!
+
+708
+00:47:37,207 --> 00:47:41,405
+MARTY: You got to help me. You are the only
+one who knows how your time machine works.
+
+709
+00:47:41,487 --> 00:47:42,886
+[Whispering] Time machine?
+
+710
+00:47:43,407 --> 00:47:45,523
+I haven't invented any time machine.
+
+711
+00:47:46,967 --> 00:47:48,923
+Okay. I'll prove it to you.
+
+712
+00:47:49,367 --> 00:47:52,439
+Look at my driver's license. Expires 1987.
+
+713
+00:47:52,527 --> 00:47:55,963
+Look at my birthday.
+I haven't even been born yet.
+
+714
+00:47:56,047 --> 00:47:58,003
+And look at this picture.
+
+715
+00:47:58,207 --> 00:48:00,277
+It's my brother, my sister and me.
+
+716
+00:48:00,367 --> 00:48:03,518
+Look at her sweatshirt, Doc.
+<i>"</i>Class of 1984<i>"</i>?
+
+717
+00:48:04,407 --> 00:48:08,286
+DOC: Pretty mediocre photographic fakery.
+They cut off your brother's hair.
+
+718
+00:48:09,127 --> 00:48:11,402
+I'm telling the truth.
+You got to believe me.
+
+719
+00:48:11,487 --> 00:48:14,206
+Then tell me, future boy...
+
+720
+00:48:14,607 --> 00:48:18,520
+...who's president of the United States
+in 1985?
+
+721
+00:48:18,607 --> 00:48:21,963
+- Ronald Reagan.
+- Ronald Reagan? The actor?
+
+722
+00:48:22,087 --> 00:48:23,361
+[Doc exclaims]
+
+723
+00:48:23,487 --> 00:48:25,921
+Then who's vice president? Jerry Lewis?
+
+724
+00:48:27,047 --> 00:48:30,403
+DOC: I suppose Jane Wyman is the First Lady.
+MARTY: Wait, Doc!
+
+725
+00:48:30,487 --> 00:48:32,603
+DOC: And Jack Benny is treasury secretary.
+
+726
+00:48:32,687 --> 00:48:33,961
+MARTY: Listen to me.
+
+727
+00:48:34,087 --> 00:48:37,363
+I've had enough jokes for one evening.
+Good night, future boy!
+
+728
+00:48:37,447 --> 00:48:38,721
+MARTY: No, wait, Doc.
+
+729
+00:48:38,807 --> 00:48:42,959
+MARTY: The bruise on your head.
+I know how that happened. You told me.
+
+730
+00:48:43,047 --> 00:48:45,515
+You were standing on your toilet
+hanging a clock...
+
+731
+00:48:45,607 --> 00:48:47,723
+...and you fell
+and hit your head on the sink.
+
+732
+00:48:47,807 --> 00:48:51,402
+That's when you got the idea
+for the flux capacitor which...
+
+733
+00:48:51,487 --> 00:48:54,559
+...is what makes time travel possible.
+
+734
+00:48:59,047 --> 00:49:01,038
+[Mysterious instrumental music]
+
+735
+00:49:07,087 --> 00:49:11,080
+MARTY: There's something wrong with
+the starter, so I hid it here.
+
+736
+00:49:21,167 --> 00:49:23,044
+DOC: After I fell off my toilet...
+
+737
+00:49:24,047 --> 00:49:25,366
+<i>... I drew this.</i>
+
+738
+00:49:29,167 --> 00:49:30,600
+MARTY: The flux capacitor.
+
+739
+00:49:39,687 --> 00:49:41,166
+[Electric crackling]
+
+740
+00:49:48,007 --> 00:49:49,406
+It works!
+
+741
+00:49:49,767 --> 00:49:51,485
+[Doc laughing]
+
+742
+00:49:51,687 --> 00:49:53,166
+It works!
+
+743
+00:49:54,407 --> 00:49:56,682
+I finally invent something that works!
+
+744
+00:49:57,727 --> 00:49:59,558
+You bet your ass it works.
+
+745
+00:50:00,767 --> 00:50:03,327
+We've got to sneak this back
+to my laboratory.
+
+746
+00:50:03,647 --> 00:50:05,478
+We've got to get you home!
+
+747
+00:50:06,127 --> 00:50:07,560
+This is it.
+
+748
+00:50:09,607 --> 00:50:11,563
+DOC ON TV:
+<i>Never mind that now.</i>
+
+749
+00:50:11,647 --> 00:50:13,956
+DOC: Why, that's me! Look at me!
+
+750
+00:50:14,127 --> 00:50:16,163
+- I'm an old man!
+<i>- I'm Dr. Emmett Brown.</i>
+
+751
+00:50:16,247 --> 00:50:18,203
+<i>I'm in the Twin Pines Mall parking lot.</i>
+
+752
+00:50:18,287 --> 00:50:20,278
+Thank God, I've still got my hair.
+
+753
+00:50:20,367 --> 00:50:22,278
+What's this thing I'm wearing?
+
+754
+00:50:22,367 --> 00:50:24,437
+This is a radiation suit.
+
+755
+00:50:24,527 --> 00:50:26,199
+Radiation suit?
+
+756
+00:50:26,287 --> 00:50:29,484
+Of course. 'Cause of all the fallout
+from the atomic wars.
+
+757
+00:50:30,447 --> 00:50:33,325
+This is truly amazing.
+
+758
+00:50:33,487 --> 00:50:35,955
+A portable television studio.
+
+759
+00:50:36,247 --> 00:50:39,922
+No wonder your president has to be
+an actor. He has to look good on TV.
+
+760
+00:50:40,007 --> 00:50:41,838
+MARTY: This is the part coming up.
+
+761
+00:50:43,007 --> 00:50:47,159
+<i>This sucker's electrical but I need a nuclear</i>
+<i>reaction to generate the 1.21 gigawatts...</i>
+
+762
+00:50:47,247 --> 00:50:49,124
+What did I just say?
+
+763
+00:50:52,367 --> 00:50:55,359
+<i>... this sucker's electrical,</i>
+<i>but I need a nuclear reaction...</i>
+
+764
+00:50:55,447 --> 00:50:59,201
+<i>...to generate the 1.21 gigawatts of...</i>
+- 1.21 gigawatts!
+
+765
+00:51:00,567 --> 00:51:02,603
+1.21 gigawatts.
+
+766
+00:51:04,647 --> 00:51:06,160
+DOC: Great Scott!
+
+767
+00:51:08,287 --> 00:51:10,721
+What the hell is a gigawatt?
+
+768
+00:51:11,367 --> 00:51:13,403
+How could I have been so careless?
+
+769
+00:51:13,487 --> 00:51:15,284
+1.21 gigawatts!
+
+770
+00:51:15,367 --> 00:51:17,927
+Tom, how am I going to generate
+that kind of power?
+
+771
+00:51:18,007 --> 00:51:19,486
+It can't be done, can it?
+
+772
+00:51:19,567 --> 00:51:22,877
+MARTY: Doc, look.
+All we need is a little plutonium.
+
+773
+00:51:23,447 --> 00:51:27,326
+DOC: I'm sure that in 1985 plutonium is
+available in every corner drugstore...
+
+774
+00:51:27,407 --> 00:51:30,046
+...but in 1955, it's a little hard to come by.
+
+775
+00:51:30,127 --> 00:51:33,005
+Marty, I'm sorry,
+but I'm afraid you're stuck here.
+
+776
+00:51:34,607 --> 00:51:36,598
+Doc, stuck here? I can't be stuck here.
+
+777
+00:51:36,687 --> 00:51:38,837
+I got a life in 1985.
+
+778
+00:51:38,927 --> 00:51:40,918
+- I got a girl.
+- Is she pretty?
+
+779
+00:51:41,527 --> 00:51:43,040
+Doc, she's beautiful.
+
+780
+00:51:43,887 --> 00:51:45,957
+She's crazy about me. Look at this.
+
+781
+00:51:46,287 --> 00:51:48,118
+<i>Look what she wrote here.</i>
+
+782
+00:51:48,367 --> 00:51:50,005
+<i>That says it all.</i>
+
+783
+00:51:50,767 --> 00:51:53,327
+Doc, you're my only hope.
+
+784
+00:51:53,847 --> 00:51:57,078
+Marty, I'm sorry, but the only power source
+capable of generating...
+
+785
+00:51:57,167 --> 00:52:00,239
+...1.21 gigawatts of electricity
+is a bolt of lightning.
+
+786
+00:52:01,607 --> 00:52:03,837
+MARTY: What did you say?
+DOC: A bolt of lightning.
+
+787
+00:52:03,927 --> 00:52:07,556
+Unfortunately, you never know
+when or where it's ever going to strike.
+
+788
+00:52:09,447 --> 00:52:10,562
+We do now.
+
+789
+00:52:15,647 --> 00:52:16,762
+This is it!
+
+790
+00:52:17,447 --> 00:52:19,597
+This is the answer.
+
+791
+00:52:19,807 --> 00:52:22,082
+It says here that a bolt of lightning...
+
+792
+00:52:22,167 --> 00:52:26,319
+...is going to strike the clock tower
+at 10:04 p.m. Next Saturday night!
+
+793
+00:52:29,767 --> 00:52:33,077
+If we could somehow harness
+this lightning...
+
+794
+00:52:34,207 --> 00:52:37,404
+...channel it into the flux capacitor...
+
+795
+00:52:38,647 --> 00:52:40,080
+<i>... it just might work.</i>
+
+796
+00:52:40,647 --> 00:52:44,606
+Next Saturday night
+we're sending you back to the future!
+
+797
+00:52:45,527 --> 00:52:47,324
+All right. Saturday's good.
+
+798
+00:52:47,407 --> 00:52:51,082
+I can spend a week in 1955.
+I can hang out. You can show me around.
+
+799
+00:52:51,407 --> 00:52:54,126
+That is out of the question.
+You must not leave this house.
+
+800
+00:52:54,207 --> 00:52:56,118
+You must not see or talk to anybody.
+
+801
+00:52:56,207 --> 00:53:00,359
+Anything you do can have repercussions
+on future events. Do you understand?
+
+802
+00:53:01,287 --> 00:53:03,118
+Yeah. Sure. Okay.
+
+803
+00:53:03,767 --> 00:53:05,120
+Marty...
+
+804
+00:53:05,327 --> 00:53:08,364
+...have you interacted with anybody else
+today besides me?
+
+805
+00:53:10,327 --> 00:53:13,364
+Yeah, well, I might've sort of
+bumped into my parents.
+
+806
+00:53:13,447 --> 00:53:16,803
+Great Scott! Let me see that photograph
+again of your brother.
+
+807
+00:53:20,447 --> 00:53:23,917
+Just as I thought. This proves my theory.
+Look at your brother.
+
+808
+00:53:24,927 --> 00:53:27,999
+MARTY:
+His head's gone. It's like it's been erased.
+
+809
+00:53:29,607 --> 00:53:31,563
+Erased from existence.
+
+810
+00:53:37,007 --> 00:53:39,601
+They really cleaned this place up.
+Looks brand-new.
+
+811
+00:53:39,687 --> 00:53:42,997
+DOC: According to my theory, you interfered
+with your parents' first meeting.
+
+812
+00:53:43,087 --> 00:53:46,238
+If they don't meet, they won't fall in love,
+get married or have kids.
+
+813
+00:53:46,327 --> 00:53:48,557
+That's why your brother's disappearing.
+
+814
+00:53:48,647 --> 00:53:52,003
+Your sister will follow, and unless
+you repair the damage, you're next.
+
+815
+00:53:52,087 --> 00:53:54,920
+MARTY: Sounds heavy.
+DOC: Weight has nothing to do with it.
+
+816
+00:53:55,007 --> 00:53:56,486
+Which one's your pop?
+
+817
+00:53:56,567 --> 00:53:57,841
+[Bell ringing]
+
+818
+00:53:57,927 --> 00:53:59,042
+That's him.
+
+819
+00:53:59,647 --> 00:54:01,797
+Okay. Okay, you guys.
+
+820
+00:54:01,927 --> 00:54:03,485
+[George pretending to laugh]
+
+821
+00:54:03,567 --> 00:54:06,639
+Very funny.
+You guys are being real mature.
+
+822
+00:54:06,767 --> 00:54:08,519
+Maybe you were adopted.
+
+823
+00:54:08,607 --> 00:54:11,041
+GEORGE: Okay, real mature, guys.
+
+824
+00:54:11,927 --> 00:54:14,361
+GEORGE: Okay, pick up my books.
+STRICKLAND: McFly.
+
+825
+00:54:14,447 --> 00:54:15,846
+That's Strickland.
+
+826
+00:54:16,527 --> 00:54:18,518
+Jesus, didn't that guy ever have hair?
+
+827
+00:54:18,607 --> 00:54:21,041
+Shape up, man. You're a slacker.
+
+828
+00:54:21,287 --> 00:54:24,199
+Do you want to be a slacker
+for the rest of your life?
+
+829
+00:54:24,327 --> 00:54:25,237
+No.
+
+830
+00:54:25,687 --> 00:54:28,406
+- What did your mother see in him?
+- I don't know.
+
+831
+00:54:28,567 --> 00:54:32,196
+I guess she felt sorry for him
+'cause her dad hit him with the car.
+
+832
+00:54:32,807 --> 00:54:34,957
+He hit me with the car.
+
+833
+00:54:35,047 --> 00:54:36,958
+That's the Florence Nightingale effect.
+
+834
+00:54:37,047 --> 00:54:40,437
+It happens in hospitals when
+nurses fall in love with their patients.
+
+835
+00:54:40,527 --> 00:54:41,721
+Go to it, kid.
+
+836
+00:54:43,167 --> 00:54:45,237
+George, buddy.
+
+837
+00:54:45,607 --> 00:54:47,882
+I have been looking all over for you.
+
+838
+00:54:47,967 --> 00:54:51,198
+You remember me,
+the guy who saved your life the other day?
+
+839
+00:54:52,007 --> 00:54:54,965
+- Yeah.
+- There's somebody I'd like you to meet.
+
+840
+00:54:59,247 --> 00:55:00,362
+Lorraine?
+
+841
+00:55:01,127 --> 00:55:02,321
+Calvin!
+
+842
+00:55:03,287 --> 00:55:05,926
+I'd like you to meet
+my good friend George McFly.
+
+843
+00:55:06,007 --> 00:55:09,158
+Hi. It's really a pleasure to meet you.
+
+844
+00:55:10,287 --> 00:55:12,755
+- How's your head?
+- Good. Fine.
+
+845
+00:55:13,087 --> 00:55:16,363
+I've been worried about you
+ever since you ran off the other night.
+
+846
+00:55:16,447 --> 00:55:17,721
+Are you okay?
+
+847
+00:55:17,807 --> 00:55:19,001
+[Bell ringing]
+
+848
+00:55:19,087 --> 00:55:21,442
+- I'm sorry. I have to go.
+- Come on!
+
+849
+00:55:22,327 --> 00:55:24,045
+Isn't he a dreamboat?
+
+850
+00:55:28,047 --> 00:55:31,198
+- She didn't even look at him.
+- This is more serious than I thought.
+
+851
+00:55:31,287 --> 00:55:34,279
+Your mother is infatuated with you
+instead of your father.
+
+852
+00:55:35,327 --> 00:55:36,442
+Wait a minute, Doc.
+
+853
+00:55:36,527 --> 00:55:39,997
+Are you trying to tell me
+that my mother has got the hots for me?
+
+854
+00:55:40,087 --> 00:55:42,601
+- Precisely.
+- This is heavy.
+
+855
+00:55:42,807 --> 00:55:44,798
+There's that word again. <i>"</i>Heavy.<i>"</i>
+
+856
+00:55:44,887 --> 00:55:48,926
+Why are things so heavy in the future?
+Is there a problem with the Earth's gravity?
+
+857
+00:55:49,007 --> 00:55:52,204
+The only way we're going to
+get them to mate is if they're alone.
+
+858
+00:55:52,287 --> 00:55:54,596
+You've got to get them to interact...
+
+859
+00:55:54,887 --> 00:55:56,878
+...in some sort of social...
+
+860
+00:55:58,167 --> 00:56:00,362
+- You mean like a date?
+- Right!
+
+861
+00:56:00,927 --> 00:56:03,521
+What kind of date?
+What do kids do in the '50s?
+
+862
+00:56:04,127 --> 00:56:06,197
+They're your parents.
+You must know them.
+
+863
+00:56:06,287 --> 00:56:09,882
+What are their common interests?
+What do they like to do together?
+
+864
+00:56:10,247 --> 00:56:11,282
+Nothing.
+
+865
+00:56:11,367 --> 00:56:14,359
+DOC: Look! There's a rhythmic
+ceremonial ritual coming up.
+
+866
+00:56:14,527 --> 00:56:17,803
+The Enchantment Under the Sea dance!
+They're supposed to go to this.
+
+867
+00:56:17,887 --> 00:56:20,799
+- That's where they kiss for the first time.
+- All right, kid.
+
+868
+00:56:20,887 --> 00:56:24,482
+You stick to your father like glue
+and make sure he takes her to that dance.
+
+869
+00:56:24,847 --> 00:56:26,644
+MARTY: George, buddy...
+
+870
+00:56:27,047 --> 00:56:30,164
+...remember that girl
+I introduced you to, Lorraine?
+
+871
+00:56:35,967 --> 00:56:37,605
+What are you writing?
+
+872
+00:56:38,727 --> 00:56:39,921
+Stories.
+
+873
+00:56:40,367 --> 00:56:43,916
+MR. MCFLY: Science fiction stories
+about visitors...
+
+874
+00:56:44,207 --> 00:56:47,279
+...coming down to Earth
+from other planets.
+
+875
+00:56:49,247 --> 00:56:52,762
+Get out of town!
+I didn't know you did anything creative.
+
+876
+00:56:53,247 --> 00:56:55,920
+- Let me read some.
+- No, no.
+
+877
+00:56:56,007 --> 00:56:58,805
+I never let anybody read my stories.
+
+878
+00:56:59,447 --> 00:57:00,766
+MARTY: Why not?
+
+879
+00:57:01,887 --> 00:57:05,482
+What if they didn't like them?
+What if they told me I was no good?
+
+880
+00:57:07,327 --> 00:57:10,683
+I guess that would be pretty hard
+for somebody to understand.
+
+881
+00:57:11,367 --> 00:57:13,835
+No. No, not hard at all.
+
+882
+00:57:15,007 --> 00:57:17,475
+So anyway, George. About Lorraine.
+
+883
+00:57:18,567 --> 00:57:20,080
+She really likes you.
+
+884
+00:57:21,247 --> 00:57:23,886
+She told me to tell you
+that she wants you to ask her...
+
+885
+00:57:23,967 --> 00:57:25,844
+...to the Enchantment
+Under the Sea dance.
+
+886
+00:57:25,927 --> 00:57:26,882
+- Really?
+- Yeah.
+
+887
+00:57:27,127 --> 00:57:29,846
+All you got to do is go over there
+and ask her.
+
+888
+00:57:30,967 --> 00:57:33,083
+Right here, right now, in the cafeteria?
+
+889
+00:57:33,167 --> 00:57:36,682
+What if she said no? I don't know
+if I could take that kind of rejection.
+
+890
+00:57:38,327 --> 00:57:42,115
+Besides, I think she'd rather go
+with somebody else.
+
+891
+00:57:43,367 --> 00:57:44,482
+MARTY: Who?
+
+892
+00:57:46,327 --> 00:57:47,282
+Biff.
+
+893
+00:57:48,767 --> 00:57:51,156
+- Don't kid around. Come on.
+- Come on. Leave.
+
+894
+00:57:51,247 --> 00:57:53,124
+BIFF: You know you want it.
+
+895
+00:57:53,207 --> 00:57:55,118
+You know you want me to give it to you.
+
+896
+00:57:55,207 --> 00:57:58,005
+Shut your filthy mouth.
+I'm not that kind of girl.
+
+897
+00:57:58,887 --> 00:58:01,447
+Maybe you are
+and you just don't know it yet.
+
+898
+00:58:01,687 --> 00:58:03,359
+Get your meat hooks off of me.
+
+899
+00:58:03,447 --> 00:58:06,245
+MARTY: You heard her.
+She said, get your meat hooks...
+
+900
+00:58:06,927 --> 00:58:07,882
+...off.
+
+901
+00:58:09,167 --> 00:58:10,282
+MARTY: Please.
+
+902
+00:58:11,127 --> 00:58:12,879
+What's it to you, butthead?
+
+903
+00:58:14,207 --> 00:58:16,198
+BIFF: You been looking for a fight.
+
+904
+00:58:16,367 --> 00:58:17,800
+[People exclaiming]
+
+905
+00:58:25,887 --> 00:58:28,879
+Since you're new here,
+I'm going to cut you a break...
+
+906
+00:58:29,327 --> 00:58:30,362
+...today.
+
+907
+00:58:31,527 --> 00:58:33,882
+So why don't you make like a tree...
+
+908
+00:58:34,087 --> 00:58:35,645
+...and get out of here.
+
+909
+00:58:43,207 --> 00:58:44,640
+[Boy laughing]
+
+910
+00:58:47,287 --> 00:58:47,878
+MARTY: George!
+
+911
+00:58:49,847 --> 00:58:51,724
+GEORGE: Why do you keep following me?
+
+912
+00:58:51,807 --> 00:58:56,403
+George, I'm telling you,
+if you do not ask Lorraine to that dance...
+
+913
+00:58:56,487 --> 00:58:59,399
+...l'll regret it for the rest of my life.
+- I can't go.
+
+914
+00:58:59,487 --> 00:59:02,524
+I'll miss my favorite TV program,
+<i>Science Fiction Theatre</i>.
+
+915
+00:59:02,607 --> 00:59:05,804
+Yeah, but Lorraine wants to go with you.
+
+916
+00:59:06,007 --> 00:59:07,486
+Give her a break.
+
+917
+00:59:07,807 --> 00:59:11,197
+I'm just not ready
+to ask Lorraine out to the dance...
+
+918
+00:59:11,807 --> 00:59:14,719
+...and not you
+or anybody else on this planet...
+
+919
+00:59:14,967 --> 00:59:17,083
+...is going to make me change my mind.
+
+920
+00:59:23,967 --> 00:59:25,798
+MARTY: <i>Science Fiction Theatre</i>.
+
+921
+00:59:39,727 --> 00:59:41,046
+[Muffled breathing]
+
+922
+00:59:48,287 --> 00:59:49,800
+[Loud rock music plays]
+
+923
+00:59:53,567 --> 00:59:55,125
+[Stops music]
+
+924
+00:59:56,207 --> 00:59:57,356
+Who are you?
+
+925
+00:59:57,447 --> 00:59:58,926
+[Plays music]
+
+926
+01:00:01,447 --> 01:00:02,436
+[Stops music]
+
+927
+01:00:02,527 --> 01:00:04,518
+MARTY: [Muffled] <i>Silence, Earthling.</i>
+
+928
+01:00:05,887 --> 01:00:08,242
+<i>My name is Darth Vader.</i>
+
+929
+01:00:13,087 --> 01:00:16,397
+<i>I am an extraterrestrial</i>
+<i>from the planet Vulcan.</i>
+
+930
+01:00:18,447 --> 01:00:19,402
+Marty!
+
+931
+01:00:19,527 --> 01:00:21,085
+[Car honks]
+
+932
+01:00:22,567 --> 01:00:24,683
+- Marty! Marty!
+- George, buddy.
+
+933
+01:00:24,767 --> 01:00:27,076
+You weren't at school.
+What have you been doing?
+
+934
+01:00:27,167 --> 01:00:29,965
+I overslept. I need your help.
+
+935
+01:00:30,047 --> 01:00:32,925
+I have to ask Lorraine out,
+but I don't know how to do it.
+
+936
+01:00:33,007 --> 01:00:35,362
+Keep your pants on. She's over in the cafe.
+
+937
+01:00:35,447 --> 01:00:37,403
+God! How do you...?
+
+938
+01:00:40,127 --> 01:00:41,765
+MARTY: What made you change your mind?
+
+939
+01:00:41,847 --> 01:00:44,645
+Last night, Darth Vader came down
+from planet Vulcan...
+
+940
+01:00:44,727 --> 01:00:48,481
+...and told me that if I didn't
+take Lorraine out, he'd melt my brain.
+
+941
+01:00:48,567 --> 01:00:51,525
+Let's just keep this brain-melting stuff
+to ourselves, okay?
+
+942
+01:00:51,607 --> 01:00:54,758
+- Yeah. Yeah.
+- All right. There she is.
+
+943
+01:00:55,047 --> 01:00:56,765
+Just go in there and invite her.
+
+944
+01:00:56,847 --> 01:00:59,441
+GEORGE: But I don't know what to say.
+MARTY: Say anything.
+
+945
+01:00:59,527 --> 01:01:02,917
+Say whatever's natural,
+the first thing that comes into your mind.
+
+946
+01:01:04,007 --> 01:01:05,838
+Nothing's coming to my mind.
+
+947
+01:01:05,927 --> 01:01:07,997
+Jesus. It's a wonder I was even born.
+
+948
+01:01:08,087 --> 01:01:10,555
+- What? What?
+- Nothing.
+
+949
+01:01:11,967 --> 01:01:14,561
+Tell her destiny brought you together.
+
+950
+01:01:14,647 --> 01:01:18,356
+Tell her she is the most beautiful girl
+you have ever seen in the world.
+
+951
+01:01:18,447 --> 01:01:20,005
+Girls like that stuff.
+
+952
+01:01:20,647 --> 01:01:23,719
+- What are you doing?
+- I'm writing this down. This is good stuff.
+
+953
+01:01:23,807 --> 01:01:26,765
+- Yeah. Okay. Can you take care of that?
+- Right.
+
+954
+01:01:27,127 --> 01:01:28,879
+[<i>The Wallflower</i> playing]
+
+955
+01:01:29,007 --> 01:01:30,725
+[People chattering]
+
+956
+01:01:44,167 --> 01:01:46,806
+Lou, give me a milk.
+
+957
+01:01:48,287 --> 01:01:49,356
+Chocolate.
+
+958
+01:02:05,127 --> 01:02:06,321
+GEORGE: Lorraine.
+
+959
+01:02:06,887 --> 01:02:08,161
+My density...
+
+960
+01:02:08,807 --> 01:02:10,638
+...has popped me to you.
+
+961
+01:02:11,327 --> 01:02:12,476
+What?
+
+962
+01:02:12,647 --> 01:02:14,000
+[Mumbling]
+
+963
+01:02:14,487 --> 01:02:17,047
+What I meant to say was...
+
+964
+01:02:17,167 --> 01:02:19,806
+Wait a minute.
+Don't I know you from somewhere?
+
+965
+01:02:20,487 --> 01:02:21,556
+GEORGE: Yes.
+
+966
+01:02:21,847 --> 01:02:25,601
+Yes. I'm George. George McFly.
+
+967
+01:02:26,207 --> 01:02:27,799
+I'm your density.
+
+968
+01:02:28,767 --> 01:02:29,961
+I mean...
+
+969
+01:02:31,367 --> 01:02:32,595
+...your destiny.
+
+970
+01:02:33,807 --> 01:02:35,126
+[Sighing]
+
+971
+01:02:35,927 --> 01:02:36,803
+BIFF: McFly.
+
+972
+01:02:38,647 --> 01:02:40,399
+[Music stops]
+
+973
+01:02:41,207 --> 01:02:43,721
+I thought I told you never to come in here.
+
+974
+01:02:46,447 --> 01:02:48,165
+Well, it's going to cost you.
+
+975
+01:02:48,887 --> 01:02:50,798
+How much money you got on you?
+
+976
+01:02:51,367 --> 01:02:53,119
+GEORGE: How much do you want, Biff?
+
+977
+01:02:53,207 --> 01:02:54,401
+[Biff grunts]
+
+978
+01:02:54,487 --> 01:02:56,478
+[All gasping]
+
+979
+01:03:01,327 --> 01:03:02,680
+BIFF: All right, punk.
+
+980
+01:03:02,887 --> 01:03:05,196
+- Now I'm going to...
+- Biff. What's that?
+
+981
+01:03:06,687 --> 01:03:07,676
+[Biff grunts]
+
+982
+01:03:07,967 --> 01:03:09,525
+[All gasping]
+
+983
+01:03:11,967 --> 01:03:14,925
+That's Calvin Klein. My God, he's a dream.
+
+984
+01:03:15,767 --> 01:03:18,406
+Kid! Kid, stop! Stop!
+
+985
+01:03:18,487 --> 01:03:19,442
+[Boy protesting]
+
+986
+01:03:19,527 --> 01:03:21,040
+[Dramatic instrumental music]
+
+987
+01:03:21,127 --> 01:03:22,765
+MARTY: I'll get it back to you.
+
+988
+01:03:23,167 --> 01:03:24,839
+BOY: You broke it!
+
+989
+01:03:25,127 --> 01:03:26,958
+Come back here!
+
+990
+01:03:27,087 --> 01:03:28,440
+[Cars honking]
+
+991
+01:03:28,527 --> 01:03:30,245
+Look at him go!
+
+992
+01:03:31,767 --> 01:03:32,756
+Get him!
+
+993
+01:03:33,847 --> 01:03:35,838
+[Dramatic instrumental music]
+
+994
+01:03:45,807 --> 01:03:47,877
+BIFF: To the car! Go!
+
+995
+01:03:53,887 --> 01:03:56,606
+GIRL: What's that thing he's on?
+BOY: A board with wheels.
+
+996
+01:03:56,687 --> 01:03:58,166
+He's an absolute dream.
+
+997
+01:03:58,247 --> 01:04:00,966
+THUG 1: Come on, come on!
+THUG 2: Look out for the car!
+
+998
+01:04:03,407 --> 01:04:04,726
+[Shouting]
+
+999
+01:04:06,807 --> 01:04:08,001
+[Tires squealing]
+
+1000
+01:04:14,647 --> 01:04:15,636
+[Screaming]
+
+1001
+01:04:17,727 --> 01:04:18,921
+[Brakes squealing]
+
+1002
+01:04:19,247 --> 01:04:20,236
+[Woman grunts]
+
+1003
+01:04:22,087 --> 01:04:23,361
+[Tires squealing]
+
+1004
+01:04:32,927 --> 01:04:34,326
+BIFF: I'm going to ram him.
+
+1005
+01:04:41,847 --> 01:04:42,836
+ALL: Shit!
+
+1006
+01:04:43,487 --> 01:04:44,715
+[Brakes squealing]
+
+1007
+01:04:50,407 --> 01:04:52,204
+[Crowd murmuring]
+
+1008
+01:04:54,087 --> 01:04:55,361
+[Exclaiming]
+
+1009
+01:05:07,087 --> 01:05:08,440
+Thanks a lot, kid.
+
+1010
+01:05:09,807 --> 01:05:11,877
+I'm going to get that son of a bitch.
+
+1011
+01:05:12,207 --> 01:05:15,165
+- Where does he come from?
+- Yeah, where does he live?
+
+1012
+01:05:15,767 --> 01:05:17,086
+I don't know...
+
+1013
+01:05:17,607 --> 01:05:19,518
+...but I'm going to find out.
+
+1014
+01:05:21,167 --> 01:05:22,805
+[Audio rewinding]
+
+1015
+01:05:24,807 --> 01:05:25,796
+DOC ON TV: <i>My God.</i>
+
+1016
+01:05:26,487 --> 01:05:29,320
+<i>They found me.</i>
+<i>I don't know how, but they found me.</i>
+
+1017
+01:05:29,527 --> 01:05:31,006
+<i>Run for it, Marty!</i>
+
+1018
+01:05:31,287 --> 01:05:33,005
+[Audio rewinding]
+
+1019
+01:05:35,647 --> 01:05:36,602
+<i>My God.</i>
+
+1020
+01:05:37,727 --> 01:05:40,446
+<i>They found me.</i>
+<i>I don't know how, but they found me.</i>
+
+1021
+01:05:40,607 --> 01:05:41,926
+<i>Run for it, Marty!</i>
+
+1022
+01:05:43,167 --> 01:05:44,043
+Doc?
+
+1023
+01:05:44,927 --> 01:05:47,760
+Hi, Marty. I didn't hear you come in.
+
+1024
+01:05:48,687 --> 01:05:51,121
+Fascinating device, this video unit.
+
+1025
+01:05:52,087 --> 01:05:53,679
+Listen, Doc.
+
+1026
+01:05:53,767 --> 01:05:58,363
+MARTY: I haven't told you about...
+DOC: One shouldn't know about his own destiny.
+
+1027
+01:05:58,447 --> 01:05:59,960
+- You don't understand.
+- I do.
+
+1028
+01:06:00,047 --> 01:06:02,481
+If I know too much
+I endanger my own existence...
+
+1029
+01:06:02,567 --> 01:06:04,876
+...just as you've endangered yours.
+
+1030
+01:06:06,847 --> 01:06:08,678
+You're right.
+
+1031
+01:06:08,767 --> 01:06:11,520
+Let me show you my plan
+for sending you home.
+
+1032
+01:06:11,607 --> 01:06:13,438
+Please excuse the crudity of this model.
+
+1033
+01:06:13,527 --> 01:06:15,961
+I didn't have time to build it to scale
+or paint it.
+
+1034
+01:06:16,047 --> 01:06:18,117
+- It's good.
+- Thank you.
+
+1035
+01:06:19,847 --> 01:06:23,965
+We run industrial-strength electrical cable
+from the top of the clock tower...
+
+1036
+01:06:24,047 --> 01:06:27,403
+<i>... down, suspending it over the street</i>
+<i>between these two lampposts.</i>
+
+1037
+01:06:27,807 --> 01:06:31,641
+Meanwhile, we've outfitted the time
+vehicle with this big pole and hook...
+
+1038
+01:06:31,727 --> 01:06:34,685
+...which runs directly
+into the flux capacitor.
+
+1039
+01:06:35,567 --> 01:06:37,319
+At the calculated moment...
+
+1040
+01:06:37,887 --> 01:06:39,957
+...you start off from down the street...
+
+1041
+01:06:40,047 --> 01:06:43,926
+<i>... driving directly toward the cable,</i>
+<i>accelerating to 88 miles per hour.</i>
+
+1042
+01:06:44,167 --> 01:06:47,637
+According to the flyer, at precisely
+10:04 p.m. This Saturday night...
+
+1043
+01:06:47,727 --> 01:06:51,197
+...lightning will strike the clock tower,
+electrifying the cable...
+
+1044
+01:06:51,287 --> 01:06:53,437
+<i>... as the connecting hook makes contact...</i>
+
+1045
+01:06:53,527 --> 01:06:56,997
+<i>... thereby sending 1.21 gigawatts</i>
+<i>into the flux capacitor...</i>
+
+1046
+01:06:57,367 --> 01:06:59,323
+...and sending you back to 1985.
+
+1047
+01:06:59,527 --> 01:07:02,997
+DOC: All right, now. Watch this.
+You wind up the car and release it.
+
+1048
+01:07:05,127 --> 01:07:07,004
+I'll simulate the lightning.
+
+1049
+01:07:07,167 --> 01:07:08,919
+[Wind-up mechanism twisting]
+
+1050
+01:07:10,447 --> 01:07:12,244
+[Electrical humming]
+
+1051
+01:07:15,207 --> 01:07:16,117
+Ready.
+
+1052
+01:07:25,687 --> 01:07:26,756
+Set.
+
+1053
+01:07:31,607 --> 01:07:32,596
+Release.
+
+1054
+01:07:32,807 --> 01:07:34,559
+[Car whirring]
+
+1055
+01:07:36,527 --> 01:07:37,676
+[Marty exclaims]
+
+1056
+01:07:44,407 --> 01:07:45,601
+[Gasps]
+
+1057
+01:07:50,327 --> 01:07:52,602
+MARTY: You're instilling me
+with a lot of confidence.
+
+1058
+01:07:52,687 --> 01:07:56,202
+Don't worry. I'll take care of ideas.
+You take care of your pop.
+
+1059
+01:07:57,367 --> 01:07:58,356
+By the way...
+
+1060
+01:07:58,447 --> 01:08:00,563
+...what happened today? Did he ask her out?
+
+1061
+01:08:00,647 --> 01:08:02,603
+- I think so.
+- What did she say?
+
+1062
+01:08:03,007 --> 01:08:04,360
+[Knocking at door]
+
+1063
+01:08:10,887 --> 01:08:15,005
+It's your mom! She's tracked you down!
+Quick! Let's cover the time machine.
+
+1064
+01:08:27,767 --> 01:08:30,122
+Hi, Cal... Marty.
+
+1065
+01:08:31,207 --> 01:08:32,242
+MARTY: Lorraine.
+
+1066
+01:08:33,447 --> 01:08:35,278
+How did you know I was here?
+
+1067
+01:08:36,447 --> 01:08:37,675
+I followed you.
+
+1068
+01:08:39,327 --> 01:08:41,397
+This is my doc... My uncle...
+
+1069
+01:08:42,167 --> 01:08:44,044
+...Doc Brown.
+
+1070
+01:08:44,967 --> 01:08:46,161
+- Hi.
+- Hi.
+
+1071
+01:08:49,127 --> 01:08:52,324
+LORRAINE:
+Marty, this may seem a little forward...
+
+1072
+01:08:52,527 --> 01:08:54,677
+...but I was kind of wondering...
+
+1073
+01:08:55,327 --> 01:08:57,397
+...if you'd ask me to the...
+
+1074
+01:08:58,127 --> 01:09:01,005
+...Enchantment Under the Sea dance
+on Saturday?
+
+1075
+01:09:02,887 --> 01:09:04,036
+You mean...
+
+1076
+01:09:04,407 --> 01:09:06,238
+You mean nobody's asked you?
+
+1077
+01:09:06,607 --> 01:09:07,517
+LORRAINE: No.
+
+1078
+01:09:08,607 --> 01:09:09,881
+Not yet.
+
+1079
+01:09:11,207 --> 01:09:14,404
+- What about George?
+- George McFly?
+
+1080
+01:09:16,927 --> 01:09:20,761
+He's kind of cute and all, but not...
+
+1081
+01:09:21,607 --> 01:09:22,596
+Well...
+
+1082
+01:09:23,407 --> 01:09:25,557
+I think a man should be strong...
+
+1083
+01:09:27,407 --> 01:09:29,557
+...so he can stand up for himself...
+
+1084
+01:09:30,567 --> 01:09:32,842
+...and protect the woman he loves.
+
+1085
+01:09:37,247 --> 01:09:38,316
+Don't you?
+
+1086
+01:09:40,007 --> 01:09:40,837
+Yeah.
+
+1087
+01:09:41,847 --> 01:09:43,644
+I still don't understand.
+
+1088
+01:09:43,847 --> 01:09:46,441
+How am I supposed to
+go to the dance with her...
+
+1089
+01:09:46,527 --> 01:09:49,166
+...if she's already going
+to the dance with you?
+
+1090
+01:09:49,247 --> 01:09:51,807
+Well, because, George,
+she wants to go with you.
+
+1091
+01:09:51,887 --> 01:09:53,718
+She just doesn't know it yet.
+
+1092
+01:09:53,807 --> 01:09:56,719
+That's why we got to show her
+that you, George, are a fighter.
+
+1093
+01:09:56,807 --> 01:10:00,117
+You're somebody who stands up
+for yourself and will protect her.
+
+1094
+01:10:00,207 --> 01:10:03,199
+Yeah, but I've never picked a fight
+in my entire life.
+
+1095
+01:10:03,367 --> 01:10:06,006
+Look, you're not going
+to be picking a fight, Dad...
+
+1096
+01:10:06,087 --> 01:10:07,725
+Dad-dad-daddy-o.
+
+1097
+01:10:08,287 --> 01:10:10,403
+You're coming to her rescue, right?
+
+1098
+01:10:10,567 --> 01:10:13,445
+Let's go over the plan again.
+8:55, where are you going to be?
+
+1099
+01:10:13,527 --> 01:10:15,040
+I'm going to be at the dance.
+
+1100
+01:10:15,127 --> 01:10:18,119
+- And where am I going to be?
+- You'll be in the car, with her.
+
+1101
+01:10:18,207 --> 01:10:21,040
+Right around 9:00,
+she's going to get very angry with me.
+
+1102
+01:10:21,127 --> 01:10:23,436
+Why is she going to get angry with you?
+
+1103
+01:10:23,527 --> 01:10:27,918
+Well, because, George, nice girls get angry
+when guys take advantage of them.
+
+1104
+01:10:28,727 --> 01:10:29,716
+[George exclaims]
+
+1105
+01:10:30,167 --> 01:10:34,524
+- You're going to go touch her on her...
+- No. No, George, look.
+
+1106
+01:10:35,327 --> 01:10:37,204
+It's just an act, right?
+
+1107
+01:10:37,487 --> 01:10:41,082
+So, 9:00, you're strolling
+through the parking lot.
+
+1108
+01:10:41,247 --> 01:10:44,557
+You see us struggling in the car.
+
+1109
+01:10:44,727 --> 01:10:47,764
+You walk up, you open the door,
+and you say...
+
+1110
+01:10:49,327 --> 01:10:50,840
+Your line, George.
+
+1111
+01:10:52,167 --> 01:10:53,441
+[Exclaiming]
+
+1112
+01:10:54,007 --> 01:10:56,726
+Hey, you, get your damn hands off her!
+
+1113
+01:10:58,967 --> 01:11:01,276
+- You really think I ought to swear?
+- Definitely.
+
+1114
+01:11:01,367 --> 01:11:02,925
+Goddamn it, George, swear.
+
+1115
+01:11:03,007 --> 01:11:05,805
+Okay. So now you come up.
+You punch me in the stomach.
+
+1116
+01:11:05,887 --> 01:11:07,718
+I'm out for the count, right?
+
+1117
+01:11:07,967 --> 01:11:10,925
+And you and Lorraine
+live happily ever after.
+
+1118
+01:11:11,127 --> 01:11:13,197
+You make it sound so easy.
+
+1119
+01:11:13,287 --> 01:11:15,960
+I just... I wish I wasn't so scared.
+
+1120
+01:11:16,047 --> 01:11:19,483
+There's nothing to be scared of.
+All it takes is self-confidence.
+
+1121
+01:11:19,567 --> 01:11:21,876
+You know, if you put your mind to it...
+
+1122
+01:11:22,207 --> 01:11:24,163
+...you can accomplish anything.
+
+1123
+01:11:25,807 --> 01:11:28,275
+ANNOUNCER:
+<i>Hill Valley weather this Saturday night.</i>
+
+1124
+01:11:28,367 --> 01:11:31,086
+<i>Mostly clear, with some scattered clouds.</i>
+
+1125
+01:11:31,167 --> 01:11:32,964
+<i>Lows tonight, in the upper forties.</i>
+
+1126
+01:11:33,047 --> 01:11:35,607
+Are you sure about this storm?
+
+1127
+01:11:35,687 --> 01:11:39,805
+Since when can weathermen predict
+the weather, let alone the future?
+
+1128
+01:11:39,887 --> 01:11:42,481
+You know, Marty,
+I'm going to be very sad to see you go.
+
+1129
+01:11:42,567 --> 01:11:46,082
+You've made a difference in my life,
+given me something to shoot for.
+
+1130
+01:11:46,167 --> 01:11:50,160
+Just knowing
+that I'm going to be around to see 1985.
+
+1131
+01:11:50,247 --> 01:11:52,078
+That I'm going to succeed in this!
+
+1132
+01:11:52,167 --> 01:11:55,079
+That I'm going to have a chance
+to travel through time!
+
+1133
+01:11:55,487 --> 01:11:57,557
+[Emotional instrumental music]
+
+1134
+01:12:00,807 --> 01:12:03,367
+It's going to be hard
+waiting 30 years to talk to you...
+
+1135
+01:12:03,447 --> 01:12:06,280
+...about everything that's happened
+in the past few days.
+
+1136
+01:12:06,367 --> 01:12:08,676
+I'm really going to miss you, Marty.
+
+1137
+01:12:10,127 --> 01:12:11,560
+I'm going to miss you.
+
+1138
+01:12:16,087 --> 01:12:18,885
+- Doc, about the future...
+- No!
+
+1139
+01:12:18,967 --> 01:12:23,995
+We've agreed that information about
+the future can be extremely dangerous.
+
+1140
+01:12:24,087 --> 01:12:27,875
+Even if your intentions are good,
+it can backfire drastically.
+
+1141
+01:12:28,687 --> 01:12:32,885
+Whatever you've got to tell me I'll find out
+through the natural course of time.
+
+1142
+01:12:33,887 --> 01:12:35,764
+<i>"</i>Dear Dr. Brown:
+
+1143
+01:12:36,487 --> 01:12:39,206
+<i>"</i>On the night that I go back in time...
+
+1144
+01:12:39,287 --> 01:12:41,437
+<i>"</i>... you will be...
+
+1145
+01:12:41,527 --> 01:12:44,724
+<i>"</i>... shot by terrorists.
+
+1146
+01:12:44,807 --> 01:12:49,164
+<i>"</i>Please take whatever precautions are
+necessary to prevent this terrible disaster.
+
+1147
+01:12:50,967 --> 01:12:52,605
+<i>"</i>Your friend...
+
+1148
+01:12:53,407 --> 01:12:54,840
+<i>"</i>... Marty.<i>"</i>
+
+1149
+01:13:03,847 --> 01:13:06,645
+'Evening, Dr. Brown. What's with the wire?
+
+1150
+01:13:06,767 --> 01:13:09,565
+Just a little weather experiment.
+
+1151
+01:13:11,007 --> 01:13:13,316
+- What you got under here?
+- No! Don't touch that!
+
+1152
+01:13:13,407 --> 01:13:16,080
+Some new, specialized
+weather-sensing equipment.
+
+1153
+01:13:16,167 --> 01:13:18,317
+Got a permit for that?
+
+1154
+01:13:18,647 --> 01:13:20,239
+Of course I do.
+
+1155
+01:13:26,767 --> 01:13:29,486
+DOC: Just a second.
+Let me see if I can find it here.
+
+1156
+01:13:31,247 --> 01:13:32,965
+[Playing rock 'n' roll music]
+
+1157
+01:14:05,527 --> 01:14:07,518
+[Music continues faintly]
+
+1158
+01:14:17,007 --> 01:14:18,440
+[Marty sighs]
+
+1159
+01:14:19,767 --> 01:14:21,883
+Do you mind if we...
+
+1160
+01:14:21,967 --> 01:14:24,435
+...park for a while?
+
+1161
+01:14:25,327 --> 01:14:28,285
+That's a great idea. I'd love to park.
+
+1162
+01:14:28,367 --> 01:14:32,883
+I'm almost 18 years old.
+It's not like I've never parked before.
+
+1163
+01:14:33,647 --> 01:14:35,080
+What?
+
+1164
+01:14:35,407 --> 01:14:38,240
+Marty, you seem so nervous.
+Is something wrong?
+
+1165
+01:14:38,367 --> 01:14:39,436
+No.
+
+1166
+01:14:40,447 --> 01:14:41,516
+No.
+
+1167
+01:14:42,007 --> 01:14:43,679
+[Opening bottle]
+
+1168
+01:14:45,967 --> 01:14:48,276
+Lorraine, what are you doing?
+
+1169
+01:14:48,847 --> 01:14:51,077
+I swiped it from
+the old lady's liquor cabinet.
+
+1170
+01:14:51,167 --> 01:14:53,840
+Yeah, well, you shouldn't drink.
+
+1171
+01:14:54,047 --> 01:14:55,878
+- Why not?
+- Because you...
+
+1172
+01:14:56,567 --> 01:15:00,003
+You might regret it later in life.
+
+1173
+01:15:00,087 --> 01:15:02,078
+Marty, don't be such a square.
+
+1174
+01:15:02,167 --> 01:15:04,806
+<i>Everybody who's anybody drinks.</i>
+
+1175
+01:15:09,127 --> 01:15:10,879
+Jeez, you smoke too?
+
+1176
+01:15:12,207 --> 01:15:15,005
+You're beginning to sound
+just like my mother.
+
+1177
+01:15:15,727 --> 01:15:17,240
+[Jazz song ending]
+
+1178
+01:15:20,887 --> 01:15:22,798
+[Crowd applauding]
+
+1179
+01:15:25,847 --> 01:15:29,283
+<i>We're going to take a little break,</i>
+<i>but we'll be back in a while...</i>
+
+1180
+01:15:29,367 --> 01:15:31,927
+<i>... so don't nobody go nowhere.</i>
+
+1181
+01:15:46,967 --> 01:15:50,118
+Marty? Why are you so nervous?
+
+1182
+01:15:51,327 --> 01:15:52,521
+Lorraine...
+
+1183
+01:15:53,527 --> 01:15:55,358
+...have you ever...
+
+1184
+01:15:56,367 --> 01:16:00,121
+...been in a situation where you knew
+you had to act a certain way, but when...
+
+1185
+01:16:00,207 --> 01:16:03,244
+...you got there, you didn't know
+if you could go through with it?
+
+1186
+01:16:03,327 --> 01:16:06,285
+You mean like how
+you're supposed to act on a first date?
+
+1187
+01:16:06,727 --> 01:16:08,240
+Sort of.
+
+1188
+01:16:08,327 --> 01:16:11,478
+I think I know exactly what you mean.
+
+1189
+01:16:12,047 --> 01:16:13,275
+You do?
+
+1190
+01:16:13,767 --> 01:16:16,281
+You know what I do in those situations?
+
+1191
+01:16:16,367 --> 01:16:18,562
+- What?
+- I don't worry.
+
+1192
+01:16:19,407 --> 01:16:21,045
+[Marty protesting muffled]
+
+1193
+01:16:35,647 --> 01:16:37,478
+LORRAINE: This is all wrong.
+
+1194
+01:16:37,567 --> 01:16:39,797
+I don't know what it is...
+
+1195
+01:16:40,887 --> 01:16:44,436
+...but when I kiss you, it's like I'm kissing...
+
+1196
+01:16:45,927 --> 01:16:47,246
+...my brother.
+
+1197
+01:16:47,527 --> 01:16:50,121
+<i>I guess that doesn't make any sense,</i>
+<i>does it?</i>
+
+1198
+01:16:50,207 --> 01:16:51,799
+Believe me...
+
+1199
+01:16:52,567 --> 01:16:54,239
+...it makes perfect sense.
+
+1200
+01:16:54,447 --> 01:16:55,436
+[Footsteps approaching]
+
+1201
+01:16:55,527 --> 01:16:56,437
+Somebody's coming.
+
+1202
+01:16:58,087 --> 01:16:59,315
+[Marty grunts]
+
+1203
+01:17:01,127 --> 01:17:05,086
+You caused $300 damage to my car,
+you son of a bitch...
+
+1204
+01:17:05,327 --> 01:17:07,557
+...and I'm going to take it out of your ass.
+
+1205
+01:17:07,647 --> 01:17:09,126
+Hold him.
+
+1206
+01:17:09,207 --> 01:17:11,846
+Let him go, Biff. You're drunk.
+
+1207
+01:17:12,487 --> 01:17:14,603
+Well, lookee what we have here.
+
+1208
+01:17:17,527 --> 01:17:20,997
+No! Stay right here with me.
+Come on, Lorraine.
+
+1209
+01:17:21,087 --> 01:17:23,203
+LORRAINE: Let me go!
+MARTY: Leave her alone!
+
+1210
+01:17:23,287 --> 01:17:25,198
+Take him in back. I'll be right there.
+
+1211
+01:17:25,287 --> 01:17:28,199
+<i>Just admit that you want it. Come on.</i>
+
+1212
+01:17:28,327 --> 01:17:30,795
+Well, go on. This ain't no peep show.
+
+1213
+01:17:31,007 --> 01:17:32,326
+[Marty grunts]
+
+1214
+01:17:32,767 --> 01:17:34,485
+[Lorraine and Biff struggling]
+
+1215
+01:17:34,927 --> 01:17:36,679
+[Suspenseful instrumental music]
+
+1216
+01:17:37,007 --> 01:17:39,237
+THUG 1: Hey, let's put him in there.
+THUG 2: Yeah!
+
+1217
+01:17:40,847 --> 01:17:43,077
+That's for messing up my hair.
+
+1218
+01:17:43,167 --> 01:17:45,158
+What the hell are you doing to my car?
+
+1219
+01:17:45,247 --> 01:17:48,045
+Hey, beat it, spook.
+This don't concern you.
+
+1220
+01:17:50,087 --> 01:17:52,965
+Who you calling spook, peckerwood?
+
+1221
+01:17:53,967 --> 01:17:55,480
+THUG 2: Listen, guys...
+
+1222
+01:17:55,567 --> 01:17:58,127
+...I don't want to mess
+with no reefer addicts, okay?
+
+1223
+01:17:58,207 --> 01:17:59,959
+MARVIN: Get home to your mama, boy.
+
+1224
+01:18:00,047 --> 01:18:02,197
+THUG 1: Biff!
+THUG 2: Hurry, Biff!
+
+1225
+01:18:02,727 --> 01:18:04,638
+MARTY: [Muffled] Let me out of here!
+
+1226
+01:18:04,727 --> 01:18:06,126
+[Pounding and shouting]
+
+1227
+01:18:06,207 --> 01:18:07,765
+Reginald, where are your keys?
+
+1228
+01:18:07,847 --> 01:18:09,963
+MARTY: [Muffled] The keys are in the trunk.
+
+1229
+01:18:10,247 --> 01:18:13,159
+MARVIN: Say that again?
+MARTY: I said, the keys are in here.
+
+1230
+01:18:17,767 --> 01:18:19,359
+LORRAINE: [Muffled] Let me go!
+
+1231
+01:18:26,327 --> 01:18:27,362
+BIFF: [Muffled] Come on!
+
+1232
+01:18:29,567 --> 01:18:32,957
+Hey you, get your damn hands off...
+
+1233
+01:18:33,327 --> 01:18:34,726
+[Sighing]
+
+1234
+01:18:35,287 --> 01:18:37,437
+I think you got the wrong car, McFly.
+
+1235
+01:18:39,047 --> 01:18:41,003
+George, help me! Please!
+
+1236
+01:18:41,087 --> 01:18:44,557
+Just turn around, McFly, and walk away.
+
+1237
+01:18:44,847 --> 01:18:46,917
+LORRAINE: Please, George.
+BIFF: Are you deaf?
+
+1238
+01:18:47,007 --> 01:18:48,998
+BIFF: Close the door and beat it.
+
+1239
+01:18:49,167 --> 01:18:50,520
+[Lorraine whimpering]
+
+1240
+01:18:51,487 --> 01:18:55,002
+No, Biff. You leave her alone.
+
+1241
+01:18:55,647 --> 01:18:57,365
+All right, McFly.
+
+1242
+01:19:00,487 --> 01:19:02,398
+You're asking for it...
+
+1243
+01:19:02,567 --> 01:19:04,523
+...and now you're going to get it.
+
+1244
+01:19:04,647 --> 01:19:05,636
+[George groaning]
+
+1245
+01:19:05,727 --> 01:19:06,921
+Stop it!
+
+1246
+01:19:07,727 --> 01:19:09,558
+Biff, you'll break his arm!
+
+1247
+01:19:09,687 --> 01:19:11,040
+[Gasping]
+
+1248
+01:19:11,327 --> 01:19:13,158
+LORRAINE: Biff, no!
+
+1249
+01:19:13,327 --> 01:19:15,158
+MARVIN: Give me a hand here, Reginald.
+
+1250
+01:19:15,727 --> 01:19:16,716
+[Exclaiming]
+
+1251
+01:19:16,807 --> 01:19:18,923
+Damn it, man! I sliced my hand!
+
+1252
+01:19:19,007 --> 01:19:20,486
+- Whose are these?
+- Mine.
+
+1253
+01:19:20,567 --> 01:19:22,398
+Thanks. Thanks a lot.
+
+1254
+01:19:23,687 --> 01:19:25,917
+You're going to break his arm!
+
+1255
+01:19:26,127 --> 01:19:29,244
+Biff! Biff, leave him alone!
+
+1256
+01:19:29,327 --> 01:19:31,682
+Let him go! Let him go!
+
+1257
+01:19:33,647 --> 01:19:35,205
+[Biff laughing]
+
+1258
+01:19:36,367 --> 01:19:38,562
+[Suspenseful instrumental music]
+
+1259
+01:19:45,607 --> 01:19:46,596
+[Biff grunts]
+
+1260
+01:19:53,967 --> 01:19:55,446
+[George panting]
+
+1261
+01:20:03,287 --> 01:20:05,118
+Are you okay?
+
+1262
+01:20:08,807 --> 01:20:11,082
+[Tender instrumental music]
+
+1263
+01:20:24,127 --> 01:20:26,038
+Who is that guy?
+
+1264
+01:20:26,327 --> 01:20:28,158
+That's George McFly.
+
+1265
+01:20:31,287 --> 01:20:33,039
+That's George McFly?
+
+1266
+01:20:33,127 --> 01:20:34,526
+Excuse me.
+
+1267
+01:20:36,807 --> 01:20:38,525
+[Thunder rumbling]
+
+1268
+01:20:45,367 --> 01:20:46,800
+The storm.
+
+1269
+01:20:48,687 --> 01:20:51,281
+Guys, you got to get back in there
+and finish the dance.
+
+1270
+01:20:51,367 --> 01:20:52,720
+Look at Marvin's hand.
+
+1271
+01:20:52,807 --> 01:20:55,958
+He can't play with this hand,
+and we can't play without him.
+
+1272
+01:20:56,047 --> 01:20:57,480
+Marvin, you got to play.
+
+1273
+01:20:57,567 --> 01:21:01,321
+They kiss for the first time at the dance.
+If there's no music, they can't dance.
+
+1274
+01:21:01,407 --> 01:21:05,036
+If they can't dance and kiss,
+then they can't fall in love and I'm history.
+
+1275
+01:21:05,127 --> 01:21:08,881
+The dance is over unless you know
+somebody that can play the guitar.
+
+1276
+01:21:09,007 --> 01:21:10,963
+[Playing <i>Earth Angel</i>]
+
+1277
+01:21:15,847 --> 01:21:18,156
+<i>This is for all you lovers out there.</i>
+
+1278
+01:21:20,527 --> 01:21:23,997
+MARVIN: [Singing]
+<i>"Earth Angel, Earth Angel</i>
+
+1279
+01:21:25,007 --> 01:21:27,157
+<i>"Will you be mine</i>
+
+1280
+01:21:28,247 --> 01:21:30,522
+<i>"My darling dear"</i>
+
+1281
+01:21:31,647 --> 01:21:33,683
+LORRAINE:
+George, aren't you going to kiss me?
+
+1282
+01:21:33,767 --> 01:21:35,644
+I don't know.
+
+1283
+01:21:36,647 --> 01:21:39,002
+Scram, McFly. I'm cutting in.
+
+1284
+01:21:39,167 --> 01:21:40,839
+[Lorraine protesting]
+
+1285
+01:21:43,247 --> 01:21:45,283
+[Playing dissonant notes]
+
+1286
+01:21:45,407 --> 01:21:48,399
+<i>"Earth Angel, Earth Angel</i>
+
+1287
+01:21:49,447 --> 01:21:51,597
+<i>"The one I adore"</i>
+
+1288
+01:21:51,687 --> 01:21:53,405
+Hey, boy, you all right?
+
+1289
+01:21:54,687 --> 01:21:56,086
+I can't play.
+
+1290
+01:21:56,207 --> 01:21:57,435
+George!
+
+1291
+01:21:57,767 --> 01:21:59,519
+[Boy laughing]
+
+1292
+01:21:59,887 --> 01:22:02,196
+[Oppressive instrumental music]
+
+1293
+01:22:06,247 --> 01:22:08,283
+[Ominous instrumental music]
+
+1294
+01:22:13,167 --> 01:22:14,156
+[Boy laughing]
+
+1295
+01:22:14,247 --> 01:22:15,236
+George!
+
+1296
+01:22:16,367 --> 01:22:17,561
+George.
+
+1297
+01:22:20,567 --> 01:22:22,125
+Excuse me.
+
+1298
+01:22:22,287 --> 01:22:23,481
+[Boy grunts]
+
+1299
+01:22:24,327 --> 01:22:26,363
+[Uplifting instrumental music]
+
+1300
+01:22:30,407 --> 01:22:33,205
+MARVIN: [Singing]
+<i>"The vision of your happiness</i>
+
+1301
+01:22:35,687 --> 01:22:38,565
+<i>"Earth Angel, Earth Angel</i>
+
+1302
+01:22:39,327 --> 01:22:41,602
+<i>"Please be mine</i>
+
+1303
+01:22:42,847 --> 01:22:44,803
+<i>"My darling dear</i>
+
+1304
+01:22:45,127 --> 01:22:47,118
+<i>"Love you for all time</i>
+
+1305
+01:22:48,807 --> 01:22:51,116
+<i>"I'm just a fool</i>
+
+1306
+01:22:53,047 --> 01:22:55,322
+<i>"A fool in love</i>
+
+1307
+01:22:57,287 --> 01:23:00,279
+<i>"with you"</i>
+
+1308
+01:23:04,767 --> 01:23:06,405
+[Crowd applauding]
+
+1309
+01:23:07,087 --> 01:23:10,796
+MARVIN: Yeah, man, that was good.
+Let's do another one.
+
+1310
+01:23:10,887 --> 01:23:12,764
+No. I got to go.
+
+1311
+01:23:12,847 --> 01:23:15,839
+Come on, man.
+Let's do something that really cooks.
+
+1312
+01:23:16,287 --> 01:23:19,245
+Something that cooks.
+
+1313
+01:23:19,527 --> 01:23:21,119
+[Cheering]
+
+1314
+01:23:24,127 --> 01:23:26,163
+MARTY: All right.
+MARVIN: <i>All right!</i>
+
+1315
+01:23:30,007 --> 01:23:31,326
+<i>All right.</i>
+
+1316
+01:23:32,207 --> 01:23:35,483
+<i>All right, this is an oldie, but...</i>
+
+1317
+01:23:37,407 --> 01:23:41,002
+<i>Well, it's an oldie where I come from.</i>
+
+1318
+01:23:42,567 --> 01:23:44,762
+All right, listen, this is a blues riff in B.
+
+1319
+01:23:44,847 --> 01:23:47,725
+Watch me for the changes,
+and try and keep up, okay?
+
+1320
+01:23:48,087 --> 01:23:49,839
+[Playing <i>Johnny B. Goode</i>]
+
+1321
+01:24:04,007 --> 01:24:06,885
+<i>"Way down in Louisiana</i>
+<i>Down in New Orleans</i>
+
+1322
+01:24:06,967 --> 01:24:09,879
+<i>"Way back up in the woods</i>
+<i>among the evergreens</i>
+
+1323
+01:24:09,967 --> 01:24:12,527
+<i>"There stood a log cabin</i>
+<i>made of earth and wood</i>
+
+1324
+01:24:12,607 --> 01:24:15,121
+<i>"Where lived a country boy</i>
+<i>name of Johnny B. Goode</i>
+
+1325
+01:24:15,207 --> 01:24:17,482
+<i>"He never ever learned</i>
+<i>to read or write so well</i>
+
+1326
+01:24:17,567 --> 01:24:20,206
+<i>"He could play the guitar</i>
+<i>just like he's ringin' a bell</i>
+
+1327
+01:24:20,287 --> 01:24:24,121
+<i>"Go go</i>
+<i>Go Johnny go, go</i>
+
+1328
+01:24:24,567 --> 01:24:27,081
+<i>"Go Johnny, go, go, go</i>
+
+1329
+01:24:27,367 --> 01:24:29,005
+<i>"Go Johnny go, go"</i>
+
+1330
+01:24:29,087 --> 01:24:31,362
+George, I heard you laid out Biff.
+Nice going.
+
+1331
+01:24:31,447 --> 01:24:33,642
+You ever think of
+running for class president?
+
+1332
+01:24:33,727 --> 01:24:36,036
+MARTY: [Singing] <i>"Johnny B. Goode</i>
+
+1333
+01:24:38,287 --> 01:24:40,562
+<i>"Go Johnny go, go</i>
+
+1334
+01:24:40,927 --> 01:24:43,487
+<i>"Go Johnny go, go, go</i>
+
+1335
+01:24:43,567 --> 01:24:46,161
+<i>"Go Johnny go, go</i>
+
+1336
+01:24:46,247 --> 01:24:49,000
+<i>"Go Johnny go, go, go</i>
+
+1337
+01:24:49,647 --> 01:24:51,524
+<i>"Johnny B. Goode"</i>
+
+1338
+01:24:53,887 --> 01:24:56,560
+Chuck! Chuck, it's Marvin.
+
+1339
+01:24:56,647 --> 01:24:59,115
+Your cousin, Marvin Berry?
+
+1340
+01:24:59,207 --> 01:25:01,846
+You know that new sound
+you're looking for?
+
+1341
+01:25:01,927 --> 01:25:03,963
+Well, listen to this.
+
+1342
+01:25:25,207 --> 01:25:27,004
+[Music growing wilder]
+
+1343
+01:25:33,247 --> 01:25:35,477
+[Marty playing heavy metal riffs]
+
+1344
+01:25:48,407 --> 01:25:49,522
+[Feedback]
+
+1345
+01:25:53,127 --> 01:25:55,083
+[Playing sustained high-pitch note]
+
+1346
+01:25:55,607 --> 01:25:57,404
+[Amplifiers humming]
+
+1347
+01:26:10,407 --> 01:26:12,875
+<i>I guess you guys aren't ready for that yet...</i>
+
+1348
+01:26:14,247 --> 01:26:16,124
+<i>... but your kids are going to love it.</i>
+
+1349
+01:26:16,567 --> 01:26:18,523
+[Jazz playing faintly]
+
+1350
+01:26:20,167 --> 01:26:21,361
+Lorraine.
+
+1351
+01:26:21,527 --> 01:26:24,087
+Marty, that was very interesting music.
+
+1352
+01:26:24,807 --> 01:26:26,035
+Yeah.
+
+1353
+01:26:26,127 --> 01:26:29,563
+I hope you don't mind, but George
+asked if he could take me home.
+
+1354
+01:26:29,647 --> 01:26:34,118
+Great! Good. Good, Lorraine.
+I had a feeling about you two.
+
+1355
+01:26:34,487 --> 01:26:36,000
+I have a feeling, too.
+
+1356
+01:26:36,727 --> 01:26:38,558
+Listen, I got to go, but...
+
+1357
+01:26:38,647 --> 01:26:42,686
+...I wanted to tell you that
+it's been educational.
+
+1358
+01:26:43,687 --> 01:26:45,803
+LORRAINE: Marty, will we ever see you again?
+
+1359
+01:26:47,207 --> 01:26:48,356
+I guarantee it.
+
+1360
+01:26:48,447 --> 01:26:51,678
+Well, Marty, I want to thank you
+for all your good advice.
+
+1361
+01:26:51,767 --> 01:26:54,156
+I'll never forget it.
+
+1362
+01:26:54,727 --> 01:26:56,206
+Right, George.
+
+1363
+01:26:57,567 --> 01:27:00,923
+Well, good luck, you guys.
+
+1364
+01:27:02,327 --> 01:27:03,601
+[Marty exclaims]
+
+1365
+01:27:04,727 --> 01:27:06,479
+One other thing.
+
+1366
+01:27:06,567 --> 01:27:08,478
+<i>If you guys ever have kids...</i>
+
+1367
+01:27:08,567 --> 01:27:10,876
+<i>... and one of them,</i>
+<i>when he's eight years old...</i>
+
+1368
+01:27:10,967 --> 01:27:13,879
+...accidentally sets fire
+to the living room rug...
+
+1369
+01:27:15,167 --> 01:27:16,680
+...go easy on him.
+
+1370
+01:27:17,647 --> 01:27:18,875
+Okay.
+
+1371
+01:27:23,567 --> 01:27:26,684
+Marty. Such a nice name.
+
+1372
+01:27:32,007 --> 01:27:33,804
+Damn! Where is that kid?
+
+1373
+01:27:34,767 --> 01:27:37,042
+[Suspenseful instrumental music]
+
+1374
+01:27:37,127 --> 01:27:38,321
+Damn!
+
+1375
+01:27:40,687 --> 01:27:42,040
+Damn! Damn!
+
+1376
+01:27:44,967 --> 01:27:46,480
+[Brakes squealing]
+
+1377
+01:27:49,527 --> 01:27:52,280
+DOC: You're late!
+Do you have no concept of time?
+
+1378
+01:27:52,367 --> 01:27:54,642
+Hey, come on. I had to change.
+
+1379
+01:27:54,727 --> 01:27:57,480
+Do you think I'm going back
+in that zoot suit?
+
+1380
+01:27:57,607 --> 01:28:00,121
+The old man really came through.
+It worked.
+
+1381
+01:28:00,247 --> 01:28:02,238
+He laid out Biff in one punch.
+
+1382
+01:28:02,327 --> 01:28:06,206
+I didn't know he had it in him.
+He's never stood up to Biff in his life.
+
+1383
+01:28:07,847 --> 01:28:11,157
+- Never?
+- No. Why? What's the matter?
+
+1384
+01:28:11,767 --> 01:28:12,995
+All right!
+
+1385
+01:28:13,247 --> 01:28:15,317
+Let's set your destination time.
+
+1386
+01:28:18,127 --> 01:28:19,560
+[Machine beeping]
+
+1387
+01:28:19,887 --> 01:28:22,117
+DOC: This is the exact time you left.
+
+1388
+01:28:22,527 --> 01:28:25,803
+<i>Let's send you back at exactly</i>
+<i>the same time.</i>
+
+1389
+01:28:28,607 --> 01:28:30,563
+It'll be like you never left.
+
+1390
+01:28:32,367 --> 01:28:36,485
+Now, I painted a white line
+on the street way over there.
+
+1391
+01:28:36,687 --> 01:28:38,484
+That's where you'll start from.
+
+1392
+01:28:38,567 --> 01:28:40,762
+I've calculated the precise distance...
+
+1393
+01:28:40,847 --> 01:28:43,441
+...taking into account
+the acceleration speed...
+
+1394
+01:28:43,527 --> 01:28:47,600
+...and wind resistance retroactive
+from the moment the lightning strikes...
+
+1395
+01:28:47,887 --> 01:28:52,358
+...which will be in exactly
+7 minutes and 22 seconds.
+
+1396
+01:28:52,567 --> 01:28:54,876
+When this alarm goes off, you hit the gas.
+
+1397
+01:28:54,967 --> 01:28:56,195
+Right.
+
+1398
+01:28:56,607 --> 01:28:58,837
+[Dramatic instrumental music]
+
+1399
+01:29:02,487 --> 01:29:05,559
+Well, I guess that's everything.
+
+1400
+01:29:09,447 --> 01:29:11,756
+- Thanks.
+- Thank you.
+
+1401
+01:29:16,927 --> 01:29:18,804
+DOC: See you in about 30 years.
+
+1402
+01:29:20,567 --> 01:29:22,205
+I hope so.
+
+1403
+01:29:23,447 --> 01:29:25,005
+Don't worry!
+
+1404
+01:29:25,607 --> 01:29:27,245
+<i>As long as you hit that wire...</i>
+
+1405
+01:29:27,327 --> 01:29:30,285
+...with the connecting hook
+at precisely 88 miles an hour...
+
+1406
+01:29:30,367 --> 01:29:33,200
+...the instant the lightning
+strikes the tower...
+
+1407
+01:29:35,567 --> 01:29:37,683
+DOC: Everything will be fine.
+MARTY: Right.
+
+1408
+01:29:44,727 --> 01:29:46,285
+[Thunder rumbling]
+
+1409
+01:29:46,407 --> 01:29:49,922
+- What's the meaning of this?
+- You'll find out in 30 years.
+
+1410
+01:29:50,007 --> 01:29:51,998
+It's about the future, isn't it?
+
+1411
+01:29:52,087 --> 01:29:54,681
+DOC: Information about the future.
+MARTY: Wait a minute.
+
+1412
+01:29:54,767 --> 01:29:56,644
+I warned you about this, kid.
+
+1413
+01:29:56,727 --> 01:29:59,400
+The consequences could be disastrous!
+
+1414
+01:29:59,527 --> 01:30:01,836
+Doc, that's a risk
+you're going to have to take.
+
+1415
+01:30:01,927 --> 01:30:04,999
+- Your life depends on it!
+- No!
+
+1416
+01:30:05,087 --> 01:30:08,284
+I refuse to accept the responsibility.
+
+1417
+01:30:08,567 --> 01:30:11,127
+In that case, I'll tell you straight out.
+
+1418
+01:30:12,207 --> 01:30:14,243
+[Thunder crashing]
+
+1419
+01:30:15,047 --> 01:30:16,366
+Great Scott!
+
+1420
+01:30:19,167 --> 01:30:20,839
+[Thunder clapping]
+
+1421
+01:30:24,007 --> 01:30:26,919
+You get the cable,
+I'll throw the rope down to you.
+
+1422
+01:30:27,007 --> 01:30:29,077
+MARTY: Right! I got it!
+
+1423
+01:30:56,007 --> 01:30:57,645
+[Wind howling]
+
+1424
+01:30:59,007 --> 01:31:00,281
+[Gasping]
+
+1425
+01:31:01,487 --> 01:31:02,715
+Doc!
+
+1426
+01:31:10,047 --> 01:31:13,960
+DOC: Come on, come on. Let's go!
+MARTY: All right! Take it up!
+
+1427
+01:31:17,287 --> 01:31:18,322
+Go!
+
+1428
+01:31:25,127 --> 01:31:26,116
+Doc!
+
+1429
+01:31:26,207 --> 01:31:27,196
+[Shouting indistinctly]
+
+1430
+01:31:27,287 --> 01:31:30,643
+I have to tell you about the future.
+
+1431
+01:31:30,727 --> 01:31:34,845
+DOC: What?
+MARTY: I have to tell you about the future!
+
+1432
+01:31:35,007 --> 01:31:36,281
+What?
+
+1433
+01:31:36,367 --> 01:31:40,883
+On the night I go back in time you get...
+
+1434
+01:31:41,167 --> 01:31:42,646
+[Clock bells ringing]
+
+1435
+01:31:44,367 --> 01:31:45,641
+Doc!
+
+1436
+01:31:51,007 --> 01:31:52,520
+[Doc screaming]
+
+1437
+01:31:54,527 --> 01:31:55,403
+Go!
+
+1438
+01:31:56,407 --> 01:31:58,557
+- No, Doc!
+- Look at the time!
+
+1439
+01:31:58,847 --> 01:32:00,917
+You've got less than four minutes.
+
+1440
+01:32:01,007 --> 01:32:02,645
+<i>Please, hurry!</i>
+
+1441
+01:32:02,727 --> 01:32:04,240
+[Dramatic instrumental music]
+
+1442
+01:32:04,327 --> 01:32:05,840
+[Bell ringing]
+
+1443
+01:32:13,807 --> 01:32:15,081
+DOC: Yeah!
+
+1444
+01:33:06,127 --> 01:33:09,278
+Damn it, Doc!
+Why did you have to tear up that letter?
+
+1445
+01:33:09,367 --> 01:33:11,244
+If I only had more time.
+
+1446
+01:33:14,127 --> 01:33:16,402
+Wait a minute. I got all the time I want.
+
+1447
+01:33:16,487 --> 01:33:19,923
+I got a time machine.
+I can just go back early and warn him.
+
+1448
+01:33:20,007 --> 01:33:22,077
+Okay. Ten minutes ought to do it.
+
+1449
+01:33:23,927 --> 01:33:26,122
+<i>Okay. Time circuit's on.</i>
+
+1450
+01:33:26,447 --> 01:33:29,007
+Flux capacitor, fluxing.
+
+1451
+01:33:29,447 --> 01:33:31,438
+Engine running. All right.
+
+1452
+01:33:31,567 --> 01:33:33,444
+[Engine stops suddenly]
+
+1453
+01:33:34,167 --> 01:33:36,476
+No. No, no.
+
+1454
+01:33:36,567 --> 01:33:39,798
+Come on. Come on. Not this time.
+
+1455
+01:33:58,927 --> 01:34:00,360
+[Doc screaming]
+
+1456
+01:34:05,887 --> 01:34:07,684
+[Engine clicking]
+
+1457
+01:34:12,687 --> 01:34:13,676
+[Grunts]
+
+1458
+01:34:47,287 --> 01:34:48,515
+MARTY: Come on.
+
+1459
+01:34:48,607 --> 01:34:50,165
+[Alarm ringing]
+
+1460
+01:34:50,527 --> 01:34:53,166
+Here we go. Here we go.
+This time. Come on.
+
+1461
+01:34:54,767 --> 01:34:57,520
+Please. Please. Come on!
+
+1462
+01:34:57,927 --> 01:34:58,882
+[Shouts]
+
+1463
+01:34:58,967 --> 01:34:59,956
+[Engine starts]
+
+1464
+01:35:02,967 --> 01:35:04,195
+[Tires squealing]
+
+1465
+01:35:17,647 --> 01:35:18,636
+[Grunts]
+
+1466
+01:35:38,727 --> 01:35:40,285
+[Screaming]
+
+1467
+01:35:51,487 --> 01:35:53,682
+[Dramatic instrumental music]
+
+1468
+01:36:19,847 --> 01:36:21,360
+[Screaming]
+
+1469
+01:36:31,847 --> 01:36:33,166
+Doc.
+
+1470
+01:36:50,807 --> 01:36:53,002
+[Wind blowing]
+
+1471
+01:37:19,487 --> 01:37:21,443
+[Doc shouting gleefully]
+
+1472
+01:37:31,327 --> 01:37:32,885
+[Helicopter whirring]
+
+1473
+01:37:45,927 --> 01:37:47,679
+[Music playing on radio]
+
+1474
+01:37:50,647 --> 01:37:52,000
+[Explosive crashing]
+
+1475
+01:37:54,087 --> 01:37:55,679
+[Tires squealing]
+
+1476
+01:38:05,407 --> 01:38:07,398
+Crazy drunk driver.
+
+1477
+01:38:17,447 --> 01:38:18,721
+[Marty exclaims]
+
+1478
+01:38:21,767 --> 01:38:23,758
+All right. Fred.
+
+1479
+01:38:25,527 --> 01:38:28,121
+You look great. Everything looks great.
+
+1480
+01:38:28,207 --> 01:38:29,356
+[Marty panting]
+
+1481
+01:38:29,447 --> 01:38:30,436
+<i>1:24.</i>
+
+1482
+01:38:30,527 --> 01:38:33,280
+I still got time. I'm coming, Doc!
+
+1483
+01:38:34,967 --> 01:38:36,241
+[Engine dies]
+
+1484
+01:38:36,767 --> 01:38:39,042
+No! No, not again!
+
+1485
+01:38:39,127 --> 01:38:41,516
+Come on! Come on!
+
+1486
+01:38:41,607 --> 01:38:43,325
+[Tires squealing]
+
+1487
+01:38:46,767 --> 01:38:48,325
+[Terrorists shouting indistinctly]
+
+1488
+01:38:54,567 --> 01:38:55,886
+Libyans.
+
+1489
+01:38:59,607 --> 01:39:01,518
+[Suspenseful instrumental music]
+
+1490
+01:39:17,527 --> 01:39:18,562
+MARTY: <i>No!</i>
+
+1491
+01:39:19,847 --> 01:39:21,121
+<i>Bastards!</i>
+
+1492
+01:39:34,047 --> 01:39:35,321
+TERRORIST: Go!
+
+1493
+01:39:36,287 --> 01:39:37,800
+[Tires squealing]
+
+1494
+01:39:39,647 --> 01:39:41,080
+[Gunshots firing]
+
+1495
+01:40:08,327 --> 01:40:10,397
+MARTY: Doc! Doc!
+
+1496
+01:40:10,807 --> 01:40:12,399
+[Marty sobbing]
+
+1497
+01:40:12,487 --> 01:40:14,637
+[Tender instrumental music]
+
+1498
+01:40:17,087 --> 01:40:17,963
+MARTY: No!
+
+1499
+01:40:32,007 --> 01:40:33,406
+You're alive.
+
+1500
+01:40:42,287 --> 01:40:43,766
+Bulletproof vest?
+
+1501
+01:40:45,087 --> 01:40:46,964
+How did you know?
+
+1502
+01:40:47,447 --> 01:40:50,007
+<i>I never got a chance to tell you.</i>
+
+1503
+01:41:02,807 --> 01:41:06,641
+What about all that talk
+about screwing up future events?
+
+1504
+01:41:06,767 --> 01:41:08,644
+The space-time continuum?
+
+1505
+01:41:09,207 --> 01:41:11,960
+Well, I figured, what the hell.
+
+1506
+01:41:12,207 --> 01:41:14,402
+[Uplifting instrumental music]
+
+1507
+01:41:21,807 --> 01:41:23,604
+MARTY: So how far ahead are you going?
+
+1508
+01:41:23,687 --> 01:41:26,645
+About 30 years. It's a nice round number.
+
+1509
+01:41:26,727 --> 01:41:28,763
+Look me up when you get there, all right?
+
+1510
+01:41:28,847 --> 01:41:30,838
+Guess I'll be about 47.
+
+1511
+01:41:31,087 --> 01:41:32,156
+I will.
+
+1512
+01:41:32,687 --> 01:41:33,722
+MARTY: Take care.
+
+1513
+01:41:34,807 --> 01:41:35,796
+You, too.
+
+1514
+01:41:36,007 --> 01:41:38,237
+Right. Bye-bye, Einie.
+
+1515
+01:41:38,687 --> 01:41:41,440
+MARTY: And watch that re-entry.
+It's a little bumpy.
+
+1516
+01:41:42,287 --> 01:41:43,242
+You bet.
+
+1517
+01:42:03,167 --> 01:42:04,646
+[Explosive crashing]
+
+1518
+01:42:06,887 --> 01:42:08,639
+[Dog barking]
+
+1519
+01:42:20,247 --> 01:42:21,999
+[Radio plays <i>Back In Time</i>]
+
+1520
+01:42:45,887 --> 01:42:47,240
+What a nightmare.
+
+1521
+01:42:57,967 --> 01:43:01,164
+LINDA: If Paul calls, tell him I'm working
+at the boutique late.
+
+1522
+01:43:01,247 --> 01:43:03,238
+DAVID:
+Linda, I'm not your answering service...
+
+1523
+01:43:03,327 --> 01:43:06,683
+...and somebody named Greg or Craig
+<i>called you just a little while ago.</i>
+
+1524
+01:43:06,767 --> 01:43:10,646
+LINDA: Which one was it?
+DAVID: I can't keep up with your boyfriends.
+
+1525
+01:43:11,047 --> 01:43:12,036
+[Marty calls]
+
+1526
+01:43:13,127 --> 01:43:14,640
+MARTY: What the hell is this?
+
+1527
+01:43:15,407 --> 01:43:16,476
+Breakfast.
+
+1528
+01:43:17,007 --> 01:43:19,157
+DAVID: Did you sleep in your clothes again?
+
+1529
+01:43:19,407 --> 01:43:20,601
+Yeah. L...
+
+1530
+01:43:21,727 --> 01:43:23,957
+What are you wearing, Dave?
+
+1531
+01:43:24,327 --> 01:43:25,396
+Marty...
+
+1532
+01:43:25,927 --> 01:43:28,043
+...I always wear a suit to the office.
+
+1533
+01:43:28,727 --> 01:43:30,399
+DAVID: You all right?
+MARTY: Yeah.
+
+1534
+01:43:31,247 --> 01:43:33,363
+MRS. MCFLY: We need a rematch.
+MR. MCFLY: A rematch?
+
+1535
+01:43:33,447 --> 01:43:35,517
+- Why? Were you cheating?
+- No.
+
+1536
+01:43:35,607 --> 01:43:37,279
+- Hello.
+- Good morning.
+
+1537
+01:43:39,367 --> 01:43:40,800
+Mom! Dad!
+
+1538
+01:43:41,167 --> 01:43:43,601
+MR. MCFLY: Hit your head?
+MRS. MCFLY: Are you okay?
+
+1539
+01:43:43,687 --> 01:43:46,679
+You guys look great.
+Mom, you look so thin.
+
+1540
+01:43:46,967 --> 01:43:49,356
+Why, thank you, Marty. George!
+
+1541
+01:43:50,807 --> 01:43:52,479
+Good morning, sleepyhead.
+
+1542
+01:43:53,687 --> 01:43:56,326
+MRS. MCFLY: Good morning, kids.
+DAVID AND LINDA: 'Morning.
+
+1543
+01:43:56,447 --> 01:43:58,881
+LINDA: Marty, I almost forgot.
+Jennifer Parker called.
+
+1544
+01:43:58,967 --> 01:44:02,403
+I sure like her. She is such a sweet girl.
+
+1545
+01:44:02,927 --> 01:44:04,963
+Isn't tonight the night of the big date?
+
+1546
+01:44:05,047 --> 01:44:06,799
+What? What, Ma?
+
+1547
+01:44:06,887 --> 01:44:10,721
+Aren't you going up to the lake?
+You've been planning it for two weeks.
+
+1548
+01:44:10,927 --> 01:44:13,361
+We talked about this.
+How can I go to the lake?
+
+1549
+01:44:13,567 --> 01:44:14,636
+The car's wrecked.
+
+1550
+01:44:14,727 --> 01:44:16,160
+MR. MCFLY: Wrecked?
+DAVID: Wrecked?
+
+1551
+01:44:16,327 --> 01:44:18,443
+When did this happen? Why wasn't I told?
+
+1552
+01:44:18,527 --> 01:44:21,963
+MR. MCFLY: I'm sure the car is fine.
+DAVID: Why am I the last to know?
+
+1553
+01:44:22,287 --> 01:44:25,006
+MR. MCFLY: See? There's Biff out there
+waxing it now.
+
+1554
+01:44:25,647 --> 01:44:29,799
+Now, Biff, I want to make sure we get
+two coats of wax, not just one.
+
+1555
+01:44:29,887 --> 01:44:33,846
+- I'm just finishing up the second coat now.
+- Now, Biff, don't con me.
+
+1556
+01:44:35,447 --> 01:44:37,278
+I'm sorry, Mr. McFly.
+
+1557
+01:44:37,447 --> 01:44:40,200
+I meant I was just starting
+on the second coat.
+
+1558
+01:44:40,927 --> 01:44:43,043
+Biff. What a character.
+
+1559
+01:44:43,207 --> 01:44:45,516
+<i>Always trying to get away with something.</i>
+
+1560
+01:44:45,607 --> 01:44:48,485
+<i>I've had to stay on top of Biff</i>
+<i>ever since high school.</i>
+
+1561
+01:44:48,567 --> 01:44:52,480
+MR. MCFLY: But, if it wasn't for him...
+MRS. MCFLY: We'd never have fallen in love.
+
+1562
+01:44:54,167 --> 01:44:56,635
+Mr. McFly! Mr. McFly, this just arrived.
+
+1563
+01:44:56,807 --> 01:44:59,367
+Hi, Marty. I think it's your new book.
+
+1564
+01:45:02,007 --> 01:45:04,282
+Honey! Your first novel.
+
+1565
+01:45:05,727 --> 01:45:10,596
+MR. MCFLY: I've always told you, if you put your
+mind to it, you can accomplish anything.
+
+1566
+01:45:10,767 --> 01:45:14,237
+Marty, here's your keys.
+You're all waxed up, ready for tonight.
+
+1567
+01:45:14,487 --> 01:45:15,397
+Keys?
+
+1568
+01:45:26,847 --> 01:45:28,883
+[Tender instrumental music]
+
+1569
+01:45:31,247 --> 01:45:33,602
+- How about a ride, mister?
+- Jennifer!
+
+1570
+01:45:35,207 --> 01:45:37,084
+Are you a sight for sore eyes.
+
+1571
+01:45:37,447 --> 01:45:39,085
+MARTY: Let me look at you.
+
+1572
+01:45:39,567 --> 01:45:42,320
+Marty, you're acting like
+you haven't seen me in a week.
+
+1573
+01:45:42,407 --> 01:45:43,476
+I haven't.
+
+1574
+01:45:44,327 --> 01:45:45,396
+You okay?
+
+1575
+01:45:46,247 --> 01:45:47,999
+Is everything all right?
+
+1576
+01:45:50,607 --> 01:45:51,642
+MARTY: Yeah.
+
+1577
+01:45:53,807 --> 01:45:55,399
+Everything is great.
+
+1578
+01:45:58,247 --> 01:45:59,919
+[Explosive crashing]
+
+1579
+01:46:01,087 --> 01:46:02,520
+[Brakes screeching]
+
+1580
+01:46:09,207 --> 01:46:10,117
+Marty!
+
+1581
+01:46:11,447 --> 01:46:13,438
+You've got to come back with me!
+
+1582
+01:46:14,047 --> 01:46:16,197
+- Where?
+- Back to the future.
+
+1583
+01:46:20,807 --> 01:46:22,559
+What are you doing, Doc?
+
+1584
+01:46:23,847 --> 01:46:24,996
+I need fuel.
+
+1585
+01:46:28,167 --> 01:46:30,237
+Go ahead. Quick! Get in the car.
+
+1586
+01:46:30,567 --> 01:46:34,845
+No, no. I just got here. Jennifer's here.
+We're taking the new truck for a spin.
+
+1587
+01:46:34,927 --> 01:46:37,680
+DOC: Bring her along. This concerns her, too.
+
+1588
+01:46:37,807 --> 01:46:41,163
+What are you talking about?
+What happens to us in the future?
+
+1589
+01:46:41,447 --> 01:46:44,280
+- Do we become assholes or something?
+- No, Marty.
+
+1590
+01:46:44,367 --> 01:46:47,564
+Both you and Jennifer turn out fine.
+It's your kids, Marty.
+
+1591
+01:46:47,647 --> 01:46:49,797
+Something has got to be done
+about your kids.
+
+1592
+01:46:55,927 --> 01:46:58,839
+We better back up.
+We don't have enough road to get up to 88.
+
+1593
+01:46:58,927 --> 01:47:02,397
+Roads? Where we're going,
+we don't need roads.
+
+1594
+01:47:04,127 --> 01:47:05,560
+[Jets firing]
+
+1595
+01:47:14,367 --> 01:47:16,756
+[<i>Back In Time</i> playing]

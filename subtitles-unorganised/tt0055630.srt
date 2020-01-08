@@ -1,0 +1,3730 @@
+1
+00:00:23,990 --> 00:00:30,486
+TOHO CO., LTD.
+
+2
+00:00:36,236 --> 00:00:42,175
+A TOHO-KUROSAWA PRODUCTION
+
+3
+00:00:45,011 --> 00:00:50,506
+YOJIMBO
+
+4
+00:00:57,991 --> 00:01:03,657
+Produced by TOMO YUKI TANAKA
+and RYUZO KIKUSHIMA
+
+5
+00:01:04,631 --> 00:01:09,000
+Screenplay by RYUZO KIKUSHIMA
+and AKIRA KUROSAWA
+
+6
+00:01:09,769 --> 00:01:12,397
+Cinematography by
+KAZUO MIYAGAWA
+
+7
+00:01:12,605 --> 00:01:15,073
+Production Design by
+YOSHIRO MURAKI
+
+8
+00:01:15,275 --> 00:01:17,641
+Music by
+MASARU SATO
+
+9
+00:01:18,845 --> 00:01:24,750
+Assistant Director SHIRO MORITANI
+Production Manager HIROSHI NEZU
+
+10
+00:01:26,052 --> 00:01:28,282
+Starring
+
+11
+00:01:29,255 --> 00:01:34,955
+TOSHIRO MIFUNE
+
+12
+00:01:36,162 --> 00:01:42,101
+TATSUYA NAKADAI
+YOKO TSUKASA, ISUZU YAMADA
+
+13
+00:01:43,303 --> 00:01:48,070
+DAISUKE KATO, SEIZABURO KAWAZU
+TAKASHI SHIMURA
+
+14
+00:01:48,274 --> 00:01:51,243
+HIROSHI TACHIKAWA
+YOSUKE NATSUKI
+
+15
+00:01:52,045 --> 00:01:55,776
+EIJIRO TONO, KAMATARI FUJIWARA
+IKIO SAWAMURA
+
+16
+00:01:55,982 --> 00:01:59,679
+ATSUSHI WATANABE
+SUSUMU FUJITA, KYU SAZANKA
+
+17
+00:02:00,954 --> 00:02:04,890
+KO NISHIMURA
+TAKESHI KATO, AKIRA TANI
+
+18
+00:02:05,091 --> 00:02:08,390
+TSUNAGORO RASHOMON
+YOSHIO TSUCHIYA
+
+19
+00:02:39,926 --> 00:02:45,922
+Directed by
+AKIRA KUROSAWA
+
+20
+00:03:57,270 --> 00:03:58,669
+Stop, you brat!
+
+21
+00:03:58,871 --> 00:04:00,270
+Let me go, Father!
+
+22
+00:04:00,473 --> 00:04:02,839
+This battle
+is the chance of a lifetime!
+
+23
+00:04:03,042 --> 00:04:05,943
+Crazy fool!
+The chance to get killed!
+
+24
+00:04:06,145 --> 00:04:07,806
+Why do you want
+to be a gambler?
+
+25
+00:04:08,014 --> 00:04:11,074
+A farmer's place
+is in the fields.
+
+26
+00:04:11,284 --> 00:04:14,811
+A long life eating gruel -
+to hell with that!
+
+27
+00:04:15,355 --> 00:04:17,482
+I want good food
+and nice clothes.
+
+28
+00:04:17,690 --> 00:04:19,885
+I'm gonna live it up
+and die young!
+
+29
+00:04:28,601 --> 00:04:30,068
+Old man.
+
+30
+00:04:30,303 --> 00:04:32,328
+I'd like some water.
+
+31
+00:04:34,841 --> 00:04:36,866
+Why the hell didn't you stop him?
+
+32
+00:04:37,076 --> 00:04:39,874
+How could I?
+
+33
+00:04:41,214 --> 00:04:47,153
+Kids these days are all mad.
+
+34
+00:04:49,856 --> 00:04:52,051
+It's not just the kids.
+
+35
+00:04:52,258 --> 00:04:55,523
+Everyone wants easy money.
+
+36
+00:04:55,828 --> 00:04:57,420
+It's all thanks to gambling.
+
+37
+00:04:57,630 --> 00:04:59,996
+A roll of the dice and you're rich.
+
+38
+00:05:00,199 --> 00:05:03,362
+Can't tell whose money
+is whose anymore.
+
+39
+00:05:07,407 --> 00:05:10,308
+Have you heard
+the sake brewer's trading silk now?
+
+40
+00:05:11,344 --> 00:05:14,177
+Says he'll pay more
+than the silk merchant.
+
+41
+00:05:14,747 --> 00:05:16,840
+Yes, but...
+
+42
+00:05:17,116 --> 00:05:19,983
+what difference does it make...
+
+43
+00:05:21,154 --> 00:05:24,089
+with the town the way it is?
+
+44
+00:05:24,457 --> 00:05:30,362
+We don't even know
+when the next silk fair will open.
+
+45
+00:05:34,834 --> 00:05:38,395
+Hungry dogs come running
+when they smell blood.
+
+46
+00:05:40,106 --> 00:05:43,974
+Let 'em rip each other apart
+and dye the silk in their blood.
+
+47
+00:05:44,243 --> 00:05:46,609
+Then they can have
+their stinkin' fair!
+
+48
+00:07:23,810 --> 00:07:26,244
+SILK MERCHANT
+
+49
+00:07:58,778 --> 00:08:02,976
+Samurai, wanna make
+some dough as a bodyguard?
+
+50
+00:08:03,182 --> 00:08:05,480
+The going rate has hit the roof.
+
+51
+00:08:06,052 --> 00:08:07,519
+My commission's one ryo.
+
+52
+00:08:07,720 --> 00:08:10,416
+Which side will you take?
+
+53
+00:08:11,090 --> 00:08:14,992
+Seibei Manome runs a brothel.
+All the women you want.
+
+54
+00:08:15,194 --> 00:08:16,855
+But he's going downhill.
+
+55
+00:08:17,230 --> 00:08:20,222
+I'd bet on Ushitora Shinden.
+
+56
+00:08:20,433 --> 00:08:21,923
+Look.
+
+57
+00:08:22,168 --> 00:08:25,763
+The inn at the corner.
+That's his place.
+
+58
+00:08:26,572 --> 00:08:29,803
+Tell him Constable Hansuke
+sent you.
+
+59
+00:08:30,243 --> 00:08:35,203
+I'd take you myself,
+but I'm the law around here.
+
+60
+00:08:37,750 --> 00:08:41,379
+Don't forget, now.
+I get one ryo.
+
+61
+00:09:38,110 --> 00:09:39,372
+Go ahead.
+
+62
+00:09:39,579 --> 00:09:43,413
+It's a public road.
+Even dogs pass freely!
+
+63
+00:10:03,002 --> 00:10:05,027
+You won't get hired like that.
+
+64
+00:10:05,237 --> 00:10:08,798
+You gotta act big,
+show 'em who's boss.
+
+65
+00:10:09,275 --> 00:10:11,835
+They only look tough.
+
+66
+00:10:12,211 --> 00:10:16,272
+Chop off one of their arms
+and they'll behave.
+
+67
+00:10:17,350 --> 00:10:18,817
+Then you'll get hired.
+
+68
+00:10:19,051 --> 00:10:21,042
+Mind your own business,
+you bastard!
+
+69
+00:10:23,055 --> 00:10:24,454
+Come in.
+
+70
+00:10:25,358 --> 00:10:26,916
+RESTAURANT
+
+71
+00:10:37,436 --> 00:10:40,997
+- Sake?
+- Food.
+
+72
+00:10:41,207 --> 00:10:44,335
+There's no business these days,
+so I don't have anything.
+
+73
+00:10:44,543 --> 00:10:46,135
+Even the rice is cold.
+
+74
+00:10:46,479 --> 00:10:47,878
+I don't mind.
+
+75
+00:10:56,155 --> 00:10:58,146
+Actually, old man -
+
+76
+00:10:58,591 --> 00:11:01,287
+I know.
+You can't pay.
+
+77
+00:11:03,729 --> 00:11:05,594
+I'll bust some heads first.
+
+78
+00:11:06,365 --> 00:11:07,263
+No!
+
+79
+00:11:08,567 --> 00:11:10,660
+I've seen enough fighting!
+
+80
+00:11:10,970 --> 00:11:14,997
+The food's on me,
+but then get the hell out of town!
+
+81
+00:11:16,742 --> 00:11:18,141
+Thanks.
+
+82
+00:11:22,648 --> 00:11:24,309
+There he goes again!
+
+83
+00:11:26,652 --> 00:11:28,142
+The casket maker.
+
+84
+00:11:28,354 --> 00:11:31,482
+Only guy in town
+making any money.
+
+85
+00:11:31,691 --> 00:11:34,319
+Can't make coffins fast enough.
+
+86
+00:11:35,528 --> 00:11:38,497
+It's best not to have
+any gamblers at all.
+
+87
+00:11:38,764 --> 00:11:42,256
+One boss to a town
+we can tolerate,
+
+88
+00:11:42,468 --> 00:11:45,232
+but two is a disaster.
+
+89
+00:11:45,438 --> 00:11:47,406
+Only the casket maker
+profits from that.
+
+90
+00:11:47,606 --> 00:11:49,574
+Knock it off, you bastard!
+
+91
+00:11:54,447 --> 00:11:58,508
+Gamblers are
+so cold-blooded and greedy,
+
+92
+00:11:58,984 --> 00:12:02,181
+you wouldn't think
+they'd have paternal feelings.
+
+93
+00:12:02,755 --> 00:12:06,088
+But all this trouble started
+when Seibei decided
+
+94
+00:12:06,292 --> 00:12:09,591
+to give all his territory
+to his son.
+
+95
+00:12:09,829 --> 00:12:13,663
+His right-hand man
+wouldn't stand for it.
+
+96
+00:12:13,866 --> 00:12:17,097
+Ushitora's his name, a real -
+
+97
+00:12:17,303 --> 00:12:18,736
+Strange name.
+
+98
+00:12:18,938 --> 00:12:21,736
+His ma began labor
+in the year of the cow, Ushi,
+
+99
+00:12:21,941 --> 00:12:25,399
+but he bounced out
+in the new year of the tiger, Tora.
+
+100
+00:12:25,611 --> 00:12:28,239
+Talk about ringing in
+the New Year with a plague.
+
+101
+00:12:28,447 --> 00:12:34,044
+He left Seibei to start a rival gang,
+taking half of Seibei's men with him.
+
+102
+00:12:34,253 --> 00:12:37,279
+Only swords can settle things now.
+
+103
+00:12:37,490 --> 00:12:42,951
+They're both fuming, rounding up
+drifters and criminals for their gangs.
+
+104
+00:12:44,563 --> 00:12:49,330
+Instead of buying silk,
+they're buying thugs.
+
+105
+00:12:59,044 --> 00:13:01,911
+How's business, casket man?
+
+106
+00:13:03,082 --> 00:13:06,313
+How many coffins did you sell
+while I was away last night?
+
+107
+00:13:06,585 --> 00:13:07,950
+Two to your side.
+
+108
+00:13:08,154 --> 00:13:09,143
+What?
+
+109
+00:13:09,955 --> 00:13:11,889
+And four to the other side.
+
+110
+00:13:18,731 --> 00:13:20,722
+Not too bad.
+
+111
+00:13:33,646 --> 00:13:37,514
+Ushitora's brother, Inokichi.
+A wild boar, befitting his name.
+
+112
+00:13:37,716 --> 00:13:40,685
+He's a half-wit,
+but dangerous when mad.
+
+113
+00:13:40,886 --> 00:13:44,014
+He's returned
+with three new recruits.
+
+114
+00:14:01,307 --> 00:14:05,368
+What a disgrace!
+That's our constable.
+
+115
+00:14:05,578 --> 00:14:08,843
+He's supposed to arrest the riffraff,
+but just look at him.
+
+116
+00:14:09,048 --> 00:14:11,539
+He's not the only one, though.
+
+117
+00:14:14,453 --> 00:14:15,977
+Have a look.
+
+118
+00:14:16,188 --> 00:14:19,817
+An imposing facade, but the owner
+Tazaemon is worthless.
+
+119
+00:14:20,192 --> 00:14:24,959
+He's our cowardly mayor,
+a silk merchant by trade.
+
+120
+00:14:25,264 --> 00:14:28,131
+He'd managed to survive
+by siding with Seibei,
+
+121
+00:14:28,334 --> 00:14:31,030
+but when Ushitora rebelled...
+
+122
+00:14:34,340 --> 00:14:38,140
+Tokuemon, the sake brewer,
+sided with Ushitora.
+
+123
+00:14:38,344 --> 00:14:40,972
+Tokuemon says
+he's the new mayor,
+
+124
+00:14:41,180 --> 00:14:45,742
+and he even started selling silk.
+Tazaemon is finished.
+
+125
+00:14:45,951 --> 00:14:50,285
+He bangs his prayer drum all day,
+hoping for Seibei's victory.
+
+126
+00:14:51,991 --> 00:14:53,891
+Hear that?
+
+127
+00:15:07,873 --> 00:15:09,431
+Damn them all!
+
+128
+00:15:10,175 --> 00:15:12,541
+This town is doomed.
+
+129
+00:15:14,013 --> 00:15:15,776
+Now do you see?
+
+130
+00:15:16,682 --> 00:15:20,140
+You'll gain nothing
+by getting sucked into this evil.
+
+131
+00:15:20,686 --> 00:15:23,883
+Eat quickly and leave.
+
+132
+00:15:25,324 --> 00:15:28,225
+I've had enough rice.
+Give me some sake.
+
+133
+00:15:30,529 --> 00:15:33,464
+I like it here.
+I'll stay awhile.
+
+134
+00:15:33,933 --> 00:15:35,332
+Why?
+
+135
+00:15:35,534 --> 00:15:37,798
+Don't you get it yet?
+
+136
+00:15:38,003 --> 00:15:39,698
+Yes, I do.
+
+137
+00:15:40,039 --> 00:15:42,007
+That's why I'm staying.
+
+138
+00:15:42,942 --> 00:15:44,569
+Listen, old man.
+
+139
+00:15:45,311 --> 00:15:47,973
+I'll get paid for killing.
+
+140
+00:15:48,681 --> 00:15:52,082
+And this town is full of men
+who deserve to die.
+
+141
+00:15:52,618 --> 00:15:54,210
+Think about it.
+
+142
+00:15:55,254 --> 00:15:58,155
+Seibei, Ushitora,
+the gamblers and drifters -
+
+143
+00:15:58,357 --> 00:16:01,724
+with them gone,
+the town could have a fresh start.
+
+144
+00:16:01,927 --> 00:16:04,953
+You're nuts!
+Not if you had nine lives!
+
+145
+00:16:07,399 --> 00:16:09,458
+I won't do it alone.
+
+146
+00:16:09,935 --> 00:16:11,334
+How then?
+
+147
+00:16:11,971 --> 00:16:15,372
+Sake.
+I'll think while I drink.
+
+148
+00:16:23,549 --> 00:16:25,710
+Everyone in this town is crazy!
+
+149
+00:16:25,985 --> 00:16:28,715
+But you're even crazier!
+
+150
+00:16:50,843 --> 00:16:52,868
+I want to talk to Seibei.
+
+151
+00:16:54,246 --> 00:16:56,043
+<i>Who the hell are you?</i>
+
+152
+00:17:09,061 --> 00:17:10,790
+Wanna hire me?
+
+153
+00:17:15,034 --> 00:17:16,934
+I'll be your bodyguard.
+
+154
+00:17:19,004 --> 00:17:20,995
+I'll show you what I'm worth.
+
+155
+00:18:13,158 --> 00:18:15,456
+The two-bit samurai again?
+
+156
+00:18:20,466 --> 00:18:22,297
+What do you want this time?
+
+157
+00:18:35,147 --> 00:18:38,583
+- You guys have such cute faces.
+- What?
+
+158
+00:18:40,953 --> 00:18:46,016
+You talk tough but couldn't hurt a fly.
+Adorable.
+
+159
+00:18:47,259 --> 00:18:50,456
+Don't take us for fools.
+See this tattoo?
+
+160
+00:18:50,662 --> 00:18:53,028
+I wasn't in prison for nothing!
+
+161
+00:18:56,235 --> 00:19:01,263
+I'm a wanted fugitive.
+They'll crucify me if I'm caught.
+
+162
+00:19:02,774 --> 00:19:04,264
+Same here.
+
+163
+00:19:05,177 --> 00:19:07,042
+They'll stick my head on a pike.
+
+164
+00:19:07,246 --> 00:19:11,012
+Not to brag, but I've committed
+every crime in the book.
+
+165
+00:19:11,216 --> 00:19:13,184
+So you won't mind
+if I kill you?
+
+166
+00:19:13,385 --> 00:19:16,513
+- What?
+- Kill us if you can!
+
+167
+00:19:17,689 --> 00:19:18,917
+It'll hurt.
+
+168
+00:19:19,124 --> 00:19:21,285
+We're gamblers.
+We ain't afraid of the sword.
+
+169
+00:19:24,963 --> 00:19:27,227
+There's no cure for fools.
+
+170
+00:19:27,432 --> 00:19:28,456
+What?
+
+171
+00:19:45,884 --> 00:19:48,478
+Casket maker. Two coffins.
+
+172
+00:19:49,121 --> 00:19:51,749
+No, better make that three.
+
+173
+00:20:05,404 --> 00:20:07,872
+All right, make me an offer.
+
+174
+00:20:08,473 --> 00:20:11,237
+What'll you pay me
+to finish them off?
+
+175
+00:20:11,443 --> 00:20:16,346
+How about three <i>ryo?</i>
+
+176
+00:20:17,482 --> 00:20:20,747
+I'm going to Ushitora.
+I bet he'll pay more.
+
+177
+00:20:22,321 --> 00:20:23,754
+Four then!
+
+178
+00:20:23,956 --> 00:20:24,923
+Five!
+
+179
+00:20:26,191 --> 00:20:27,658
+Six!
+
+180
+00:20:27,859 --> 00:20:29,258
+Add a zero to the end.
+
+181
+00:20:29,461 --> 00:20:31,759
+Ten! I'll pay you ten!
+
+182
+00:20:36,435 --> 00:20:38,403
+Twenty!
+
+183
+00:20:40,239 --> 00:20:41,797
+Twenty-five!
+
+184
+00:20:47,346 --> 00:20:48,779
+Thirty!
+
+185
+00:20:50,682 --> 00:20:51,649
+All right!
+
+186
+00:20:52,084 --> 00:20:53,642
+Fifty!
+
+187
+00:21:00,525 --> 00:21:02,288
+Very well.
+
+188
+00:21:03,895 --> 00:21:07,592
+Twenty-five in advance,
+with room and board.
+
+189
+00:21:15,274 --> 00:21:18,243
+My men wish
+to welcome you.
+
+190
+00:21:18,443 --> 00:21:20,274
+But first, a drink.
+
+191
+00:21:25,917 --> 00:21:27,441
+We gotta talk.
+
+192
+00:21:30,088 --> 00:21:33,114
+Stupid wench has no manners.
+
+193
+00:22:06,124 --> 00:22:11,118
+<i>You're mad to pay 25 in advance</i>
+<i>to a complete stranger.</i>
+
+194
+00:22:11,630 --> 00:22:13,097
+<i>What if he runs off in the night?</i>
+
+195
+00:22:13,298 --> 00:22:16,358
+Leave it to me.
+He won't have time.
+
+196
+00:22:16,601 --> 00:22:18,694
+I plan to attack today.
+
+197
+00:22:18,904 --> 00:22:23,398
+Ushitora's men must be terrified
+after he killed three of their gang.
+
+198
+00:22:23,608 --> 00:22:27,100
+We'll win for sure
+with him leading us.
+
+199
+00:22:27,312 --> 00:22:28,711
+I see.
+
+200
+00:22:29,047 --> 00:22:32,016
+But then we'll have
+to pay him 25 more.
+
+201
+00:22:33,018 --> 00:22:38,183
+What if we kill him afterwards?
+We'd get the whole 50 back.
+
+202
+00:22:38,390 --> 00:22:40,824
+- That's going too far!
+- Quiet!
+
+203
+00:22:41,026 --> 00:22:43,927
+If you can't even do that,
+forget about being the heir.
+
+204
+00:22:44,129 --> 00:22:45,824
+Honor means nothing
+to gamblers.
+
+205
+00:22:46,031 --> 00:22:47,828
+Your mother's right.
+
+206
+00:22:48,033 --> 00:22:51,901
+You can't build a fortune unless
+you're known as a killer and a thief.
+
+207
+00:22:52,170 --> 00:22:54,263
+You kill that two-bit samurai.
+
+208
+00:22:58,577 --> 00:23:03,412
+Treat him nice and he'll let down
+his guard. It'll be easy.
+
+209
+00:23:04,116 --> 00:23:07,779
+The men won't respect you
+unless you show you can kill.
+
+210
+00:23:07,986 --> 00:23:11,581
+But I killed
+one of Ushitora's men!
+
+211
+00:23:11,790 --> 00:23:13,815
+One man!
+Don't flatter yourself!
+
+212
+00:23:14,025 --> 00:23:17,927
+Some son you are.
+What are you so afraid of?
+
+213
+00:23:18,697 --> 00:23:22,827
+Whether you kill one or one hundred,
+you only hang once!
+
+214
+00:23:35,647 --> 00:23:38,639
+Twenty-five ryo exactly.
+
+215
+00:23:48,860 --> 00:23:53,092
+Master, let's drink
+and get acquainted.
+
+216
+00:23:53,432 --> 00:23:55,195
+My son, Yoichiro.
+
+217
+00:23:55,400 --> 00:23:56,560
+My wife, Orin.
+
+218
+00:23:56,768 --> 00:24:00,636
+My four strongest men:
+Magotaro, Yahachi,
+
+219
+00:24:00,906 --> 00:24:03,500
+Matsukichi and Sukeju.
+
+220
+00:24:03,942 --> 00:24:06,240
+Where's Master Homma?
+
+221
+00:24:09,614 --> 00:24:12,777
+By the way,
+may I ask your name?
+
+222
+00:24:15,020 --> 00:24:16,851
+Me?
+
+223
+00:24:23,195 --> 00:24:28,098
+Sanjuro Kuwabatake...
+(30-year-old Mulberry Field)
+
+224
+00:24:28,300 --> 00:24:30,268
+But I'm almost 40.
+
+225
+00:24:30,469 --> 00:24:31,959
+You must be joking!
+
+226
+00:24:32,337 --> 00:24:34,965
+As names go,
+it's good enough.
+
+227
+00:24:35,173 --> 00:24:37,733
+I'm a complete stranger, anyway.
+
+228
+00:24:50,222 --> 00:24:54,386
+Master, why sit over there?
+Come sit here.
+
+229
+00:24:54,593 --> 00:24:56,060
+Here will do.
+
+230
+00:24:56,261 --> 00:25:00,721
+He gets 50 ryo, and I only get two.
+He's in a different class.
+
+231
+00:25:02,167 --> 00:25:05,796
+Someday I'll show you
+my true worth.
+
+232
+00:25:06,004 --> 00:25:09,098
+Maybe sooner than you think.
+How about today?
+
+233
+00:25:11,076 --> 00:25:14,773
+We raid today at noon!
+
+234
+00:25:14,980 --> 00:25:17,972
+In plain daylight, boss?
+
+235
+00:25:18,183 --> 00:25:22,916
+We haven't won until we kill
+Ushitora and Inokichi.
+
+236
+00:25:23,321 --> 00:25:26,154
+They could run away at night.
+
+237
+00:25:28,326 --> 00:25:30,089
+Don't be afraid!
+
+238
+00:25:30,362 --> 00:25:35,322
+With Homma and this master leading us,
+we're stronger than ever.
+
+239
+00:26:03,395 --> 00:26:08,492
+Twelve o'clock noon!
+
+240
+00:26:25,951 --> 00:26:29,011
+Hurry up!
+What are you doing?
+
+241
+00:26:33,158 --> 00:26:36,958
+You're not gonna sneak away
+that easily! Get in there!
+
+242
+00:26:39,397 --> 00:26:41,763
+We paid a lot for you!
+
+243
+00:26:42,834 --> 00:26:44,267
+Get in!
+
+244
+00:26:56,648 --> 00:26:58,616
+Master, please come!
+
+245
+00:27:45,964 --> 00:27:49,832
+Master, please hurry!
+Ushitora's men have come out!
+
+246
+00:28:24,369 --> 00:28:26,894
+All right, follow the master!
+
+247
+00:28:33,778 --> 00:28:35,837
+You wanna fight?
+Do it yourself.
+
+248
+00:28:36,047 --> 00:28:37,810
+I'm not interested.
+
+249
+00:28:38,583 --> 00:28:39,948
+Sorry, missus,
+
+250
+00:28:40,151 --> 00:28:43,018
+but I don't intend
+to be killed after your victory.
+
+251
+00:28:43,221 --> 00:28:44,984
+Here's your 25 ryo.
+
+252
+00:28:45,423 --> 00:28:48,290
+Son of a bitch!
+Chickening out at the last minute!
+
+253
+00:28:48,493 --> 00:28:49,960
+Where's Homma?
+
+254
+00:28:50,161 --> 00:28:53,358
+Find him!
+- He ran away in broad daylight.
+
+255
+00:28:59,504 --> 00:29:02,337
+Which one of you is Ushitora?
+
+256
+00:29:06,377 --> 00:29:07,776
+I am.
+
+257
+00:29:08,012 --> 00:29:09,411
+What do you want?
+
+258
+00:29:10,515 --> 00:29:13,382
+Seibei has offended me.
+I've cut my ties with him.
+
+259
+00:29:22,260 --> 00:29:23,124
+That's all.
+
+260
+00:29:23,328 --> 00:29:25,387
+Why, you -
+
+261
+00:29:44,949 --> 00:29:48,441
+Watch out!
+This fight's gonna be bad!
+
+262
+00:29:49,154 --> 00:29:50,746
+It's gonna be bad!
+
+263
+00:30:00,665 --> 00:30:03,828
+What're you waiting for?
+You can't back down now!
+
+264
+00:30:04,035 --> 00:30:05,229
+All right!
+
+265
+00:31:46,104 --> 00:31:50,200
+An inspector from Edo is coming!
+
+266
+00:32:03,354 --> 00:32:05,151
+You got lucky this time,
+you swine.
+
+267
+00:32:05,423 --> 00:32:10,224
+You're the lucky one!
+Your head is mine when he leaves!
+
+268
+00:32:10,428 --> 00:32:12,988
+All you fugitives hurry up and hide!
+
+269
+00:32:13,898 --> 00:32:15,957
+The same goes for all of you!
+
+270
+00:32:16,167 --> 00:32:18,829
+Tell everyone
+to open their doors!
+
+271
+00:32:19,437 --> 00:32:23,601
+All's quiet around here, got it?
+Not even the dogs are fighting.
+
+272
+00:32:28,179 --> 00:32:29,407
+Open up!
+
+273
+00:32:29,647 --> 00:32:32,377
+Open shop!
+Act as if everything's normal!
+
+274
+00:32:33,217 --> 00:32:34,115
+Got that?
+
+275
+00:33:08,720 --> 00:33:10,415
+Old man...
+
+276
+00:33:10,621 --> 00:33:15,149
+that inspector's a nobody,
+but he sure has a swank palanquin.
+
+277
+00:33:28,272 --> 00:33:29,899
+What's so funny?
+
+278
+00:33:30,508 --> 00:33:32,908
+His men are drinking tea.
+
+279
+00:33:33,111 --> 00:33:34,510
+So?
+
+280
+00:33:35,980 --> 00:33:37,504
+Take a look.
+
+281
+00:33:47,892 --> 00:33:49,519
+Spiked tea.
+
+282
+00:33:55,566 --> 00:33:57,693
+Don't be so angry.
+
+283
+00:34:00,938 --> 00:34:05,898
+If I could've had them
+massacre each other,
+
+284
+00:34:06,110 --> 00:34:09,045
+it would've spared me
+a big housecleaning.
+
+285
+00:34:09,814 --> 00:34:12,248
+Too bad they were interrupted.
+- Get out!
+
+286
+00:34:12,550 --> 00:34:14,142
+You're out of your mind!
+
+287
+00:34:14,352 --> 00:34:15,478
+You think so?
+
+288
+00:34:15,686 --> 00:34:20,089
+It's obvious. You think they'll
+just overlook what you did?
+
+289
+00:34:20,291 --> 00:34:22,555
+Ushitora and Seibei
+won't stand quietly by.
+
+290
+00:34:22,827 --> 00:34:26,160
+Sure, they'll come
+talk to me eventually.
+
+291
+00:34:27,031 --> 00:34:30,990
+Question is, who'll show up
+with a pile of money first?
+
+292
+00:34:32,103 --> 00:34:37,405
+All they care about is winning,
+so they both want me.
+
+293
+00:34:39,844 --> 00:34:41,778
+Just wait and see.
+
+294
+00:34:47,685 --> 00:34:52,384
+Hey, is that your nitwit mayor?
+
+295
+00:36:23,814 --> 00:36:25,839
+Is that Tokuemon?
+
+296
+00:37:01,152 --> 00:37:03,382
+Now it makes sense.
+
+297
+00:37:03,588 --> 00:37:06,955
+No wonder the inspector
+has such a nice palanquin.
+
+298
+00:37:11,762 --> 00:37:14,754
+By the way,
+I'd like a drink too.
+
+299
+00:37:14,966 --> 00:37:17,764
+You've got nerve!
+You're stone broke!
+
+300
+00:37:51,636 --> 00:37:53,228
+You want something?
+
+301
+00:37:54,372 --> 00:37:57,034
+You're tough.
+
+302
+00:37:57,241 --> 00:37:58,936
+I like you.
+
+303
+00:38:00,544 --> 00:38:03,240
+Aren't you angry
+I killed three of your men?
+
+304
+00:38:03,447 --> 00:38:05,574
+They were worthless.
+
+305
+00:38:06,450 --> 00:38:08,213
+I'm Ushitora's brother -
+
+306
+00:38:08,419 --> 00:38:11,320
+- Inokichi.
+- You know me?
+
+307
+00:38:12,123 --> 00:38:14,091
+I hear you're strong.
+
+308
+00:38:14,592 --> 00:38:16,287
+Not that strong.
+
+309
+00:38:16,494 --> 00:38:18,359
+Master!
+
+310
+00:38:20,731 --> 00:38:24,030
+Don't be a stranger.
+Have a drink with us.
+
+311
+00:38:24,235 --> 00:38:26,100
+Or are you still angry?
+
+312
+00:38:26,304 --> 00:38:28,568
+- I should ask that of you.
+- Don't be mean.
+
+313
+00:38:28,773 --> 00:38:31,401
+You took my joking
+too seriously, silly man.
+
+314
+00:38:31,609 --> 00:38:33,076
+Come on, let's go.
+
+315
+00:38:33,277 --> 00:38:36,440
+No, you don't.
+We were gonna have a drink.
+
+316
+00:38:37,315 --> 00:38:39,613
+Right? Start the sake flowing!
+
+317
+00:38:39,817 --> 00:38:41,808
+Make it your best.
+It's on me.
+
+318
+00:38:42,019 --> 00:38:45,386
+Never!
+My brother'd beat me to a pulp!
+
+319
+00:38:45,589 --> 00:38:48,319
+And I'd be kicked out of the house!
+
+320
+00:38:48,859 --> 00:38:51,327
+- Bitch!
+- Yeah, what?
+
+321
+00:39:15,686 --> 00:39:17,415
+Hey, casket maker.
+
+322
+00:39:18,289 --> 00:39:20,189
+Drowning your sorrows?
+
+323
+00:39:25,363 --> 00:39:29,299
+The inspector's long visit
+must have killed your business.
+
+324
+00:39:29,734 --> 00:39:32,168
+You've stayed ten days
+already yourself.
+
+325
+00:39:32,370 --> 00:39:33,962
+Don't be like that.
+
+326
+00:39:34,672 --> 00:39:36,867
+Your shop has flourished
+because of me.
+
+327
+00:39:37,074 --> 00:39:39,872
+Shut up!
+This isn't a brothel.
+
+328
+00:39:40,077 --> 00:39:42,568
+If you want a place to stay,
+go to Seibei's.
+
+329
+00:39:42,780 --> 00:39:48,047
+Bad idea.
+Both sides are fighting for me.
+
+330
+00:39:49,520 --> 00:39:52,751
+I'll stay here
+and let them keep hoping.
+
+331
+00:40:11,842 --> 00:40:13,935
+Everyone but him out.
+
+332
+00:40:39,370 --> 00:40:41,702
+Come to my place. Now.
+
+333
+00:40:42,873 --> 00:40:44,670
+What's the rush?
+
+334
+00:40:45,943 --> 00:40:48,468
+The inspector's leaving tomorrow.
+
+335
+00:40:50,581 --> 00:40:54,608
+A magistrate was killed
+in a town 24 miles from here.
+
+336
+00:40:58,122 --> 00:41:00,818
+He doesn't seem too concerned.
+
+337
+00:41:01,091 --> 00:41:03,958
+He won't learn of it until tonight.
+
+338
+00:41:04,795 --> 00:41:07,195
+You seem to know everything.
+
+339
+00:41:09,133 --> 00:41:12,500
+Was the magistrate's murder
+your doing?
+
+340
+00:41:13,437 --> 00:41:15,405
+Possibly.
+
+341
+00:41:16,841 --> 00:41:19,503
+The inspector's presence
+is costing me a lot.
+
+342
+00:41:19,710 --> 00:41:22,338
+So are my hired men.
+
+343
+00:41:23,314 --> 00:41:24,747
+I see.
+
+344
+00:41:25,316 --> 00:41:29,047
+Speaking of which,
+here's 30 in advance.
+
+345
+00:41:29,887 --> 00:41:33,050
+Thirty more if we win.
+Come right away.
+
+346
+00:41:33,257 --> 00:41:37,421
+I'd feel bad not giving Seibei
+a chance to better your offer.
+
+347
+00:41:37,628 --> 00:41:40,825
+Ready to exploit any weakness,
+aren't you?
+
+348
+00:41:41,031 --> 00:41:42,589
+Tough luck.
+
+349
+00:41:43,133 --> 00:41:46,398
+I'll decide my price
+after the inspector leaves.
+
+350
+00:42:01,952 --> 00:42:05,285
+Cheer up.
+The inspector's leaving.
+
+351
+00:42:05,489 --> 00:42:07,116
+Really?
+
+352
+00:42:07,525 --> 00:42:09,015
+Fantastic!
+
+353
+00:42:21,505 --> 00:42:23,803
+What did Ushitora want?
+
+354
+00:42:27,211 --> 00:42:31,045
+Son of a bitch!
+The slaughter's gonna start again?
+
+355
+00:42:31,849 --> 00:42:33,407
+Looks like it.
+
+356
+00:42:52,136 --> 00:42:53,933
+What's taking them so long?
+
+357
+00:42:54,672 --> 00:42:57,937
+It's about time one of them
+made me an offer.
+
+358
+00:42:58,742 --> 00:43:01,643
+Some samurai.
+All you talk about is money.
+
+359
+00:43:03,080 --> 00:43:05,310
+This is dangerous and dirty work.
+
+360
+00:43:05,516 --> 00:43:07,643
+It's only worth it
+if the price is right.
+
+361
+00:43:07,851 --> 00:43:10,411
+You'd only be a bodyguard.
+
+362
+00:43:11,555 --> 00:43:13,819
+With some bodyguards,
+
+363
+00:43:14,024 --> 00:43:17,983
+the employers
+have to watch their backs.
+
+364
+00:43:43,988 --> 00:43:49,016
+What's that fool up to?
+He's been running back and forth all day.
+
+365
+00:44:00,471 --> 00:44:02,803
+Gonji, a bottle of sake.
+
+366
+00:44:03,007 --> 00:44:05,942
+Forget it. I'm not gonna
+let you celebrate the butchery!
+
+367
+00:44:06,143 --> 00:44:08,737
+I'm not! I'm miserable!
+
+368
+00:44:09,713 --> 00:44:12,204
+They're making peace.
+
+369
+00:44:12,416 --> 00:44:13,940
+They are?
+
+370
+00:44:14,652 --> 00:44:17,314
+And I bought
+a lot of lumber for coffins.
+
+371
+00:44:17,521 --> 00:44:19,489
+What do I do now?
+
+372
+00:44:20,290 --> 00:44:24,158
+I'm sorry for you guys,
+but now the town will quiet down.
+
+373
+00:44:24,361 --> 00:44:25,589
+You idiot!
+
+374
+00:44:25,796 --> 00:44:29,698
+Gamblers only make peace
+to prepare for a bigger fight.
+
+375
+00:44:30,668 --> 00:44:32,829
+They can't have the silk fair
+if they're fighting.
+
+376
+00:44:33,037 --> 00:44:35,369
+No silk fair means
+no gambling rooms
+
+377
+00:44:35,572 --> 00:44:39,099
+and no income from their territory,
+so they make up for a while.
+
+378
+00:44:39,309 --> 00:44:42,870
+A truce is merely the seed
+for an even bloodier battle.
+
+379
+00:44:43,080 --> 00:44:44,570
+You got that?
+
+380
+00:44:45,349 --> 00:44:48,045
+There's nothing more dangerous.
+
+381
+00:44:51,622 --> 00:44:56,116
+Still, they were so determined
+to destroy each other.
+
+382
+00:44:57,227 --> 00:44:59,491
+How'd they manage
+to calm down?
+
+383
+00:44:59,697 --> 00:45:02,291
+I think Unosuke suggested it.
+
+384
+00:45:02,499 --> 00:45:03,466
+Unosuke?
+
+385
+00:45:03,667 --> 00:45:08,195
+Ushitora's youngest brother.
+He returned last night from his travels.
+
+386
+00:45:09,339 --> 00:45:11,739
+Evil bastard came back, did he?
+
+387
+00:45:12,176 --> 00:45:15,168
+He looks as gentle
+as the zodiac Rabbit he's named after,
+
+388
+00:45:15,379 --> 00:45:18,109
+but he's a wolf inside.
+
+389
+00:45:22,486 --> 00:45:26,217
+<i>A whole year you've been gone.</i>
+<i>Even the winds welcome you!</i>
+
+390
+00:46:02,359 --> 00:46:05,351
+Want to see
+something interesting?
+
+391
+00:46:32,089 --> 00:46:33,249
+What's going on?
+
+392
+00:46:35,259 --> 00:46:36,817
+Same thing at your place?
+
+393
+00:46:37,494 --> 00:46:39,121
+Makin' fools of us!
+
+394
+00:46:39,329 --> 00:46:43,197
+They end their feud, then send us away
+with crumbs in our pockets!
+
+395
+00:46:44,301 --> 00:46:46,360
+Sons of bitches!
+
+396
+00:46:47,671 --> 00:46:49,571
+We'll show 'em!
+
+397
+00:46:49,773 --> 00:46:51,707
+Bastards!
+
+398
+00:47:06,089 --> 00:47:08,683
+What are they moaning about?
+
+399
+00:47:09,827 --> 00:47:13,319
+Ushitora made us
+risk our lives,
+
+400
+00:47:13,564 --> 00:47:17,330
+and that was just yesterday!
+
+401
+00:47:17,534 --> 00:47:19,024
+Hachi, quiet!
+
+402
+00:47:24,174 --> 00:47:26,233
+I'll tell ya, Kuma,
+
+403
+00:47:27,211 --> 00:47:29,907
+I can't take it anymore!
+
+404
+00:47:30,514 --> 00:47:35,451
+Let's go report it to the law.
+
+405
+00:47:35,786 --> 00:47:37,879
+Then that Ushitora's gonna -
+
+406
+00:47:40,891 --> 00:47:43,655
+That hurt!
+
+407
+00:47:43,861 --> 00:47:45,260
+Get up!
+
+408
+00:47:45,796 --> 00:47:47,195
+Let's go!
+
+409
+00:47:49,366 --> 00:47:51,766
+Why'd you do that?
+
+410
+00:48:05,983 --> 00:48:08,383
+- Come on!
+- No!
+
+411
+00:48:25,535 --> 00:48:27,901
+Ushitora's a real bastard.
+
+412
+00:48:28,205 --> 00:48:30,173
+Where the hell
+did you come from?
+
+413
+00:48:30,374 --> 00:48:34,743
+What'd he pay you to kill
+that magistrate? One <i>ryo?</i>
+
+414
+00:48:34,945 --> 00:48:38,847
+Don't we wish!
+Just two silver pieces.
+
+415
+00:48:42,719 --> 00:48:44,448
+That's a raw deal.
+
+416
+00:48:45,956 --> 00:48:48,117
+But the information
+will come in handy.
+
+417
+00:48:49,693 --> 00:48:51,593
+You're a gold mine.
+
+418
+00:48:52,229 --> 00:48:56,461
+Now I can blackmail Ushitora,
+or even sell you to Seibei.
+
+419
+00:49:10,747 --> 00:49:12,146
+Get up.
+
+420
+00:49:14,618 --> 00:49:16,017
+Get up!
+
+421
+00:49:40,344 --> 00:49:42,471
+It's a bargain.
+
+422
+00:49:45,082 --> 00:49:47,915
+If you take them and report it,
+
+423
+00:49:48,452 --> 00:49:50,784
+Ushitora's done for.
+
+424
+00:49:55,058 --> 00:49:57,720
+But boss,
+what about our truce?
+
+425
+00:49:57,928 --> 00:50:01,295
+Your son and Unosuke are negotiating
+at the mayor's place now.
+
+426
+00:50:01,498 --> 00:50:03,125
+So what?
+
+427
+00:50:03,467 --> 00:50:07,335
+It'd be perfect if Ushitora
+got arrested during the talks.
+
+428
+00:50:19,282 --> 00:50:21,807
+Ready, ladies?
+
+429
+00:50:53,350 --> 00:50:55,409
+Haven't had a woman in a while,
+have you?
+
+430
+00:50:55,652 --> 00:50:58,246
+Take your pick and have fun.
+
+431
+00:50:59,222 --> 00:51:01,349
+It's dangerous around here.
+
+432
+00:51:04,895 --> 00:51:06,192
+Wait!
+
+433
+00:51:06,396 --> 00:51:09,058
+Take care of your purchase.
+
+434
+00:51:09,266 --> 00:51:11,894
+It would be a total loss
+if Ushitora got them back.
+
+435
+00:51:12,102 --> 00:51:14,593
+Lock them up
+in the storehouse.
+
+436
+00:51:31,855 --> 00:51:33,584
+Get me Ushitora.
+
+437
+00:51:35,459 --> 00:51:36,949
+Who the hell -
+
+438
+00:51:41,898 --> 00:51:43,525
+Get me Ushitora!
+
+439
+00:51:48,371 --> 00:51:50,498
+Boss!
+
+440
+00:51:50,707 --> 00:51:52,197
+<i>What is it?</i>
+
+441
+00:51:59,950 --> 00:52:02,077
+So it's you, is it?
+
+442
+00:52:02,586 --> 00:52:04,747
+I don't need a bodyguard
+at the moment.
+
+443
+00:52:04,988 --> 00:52:07,786
+Too bad you turned down
+my earlier offer.
+
+444
+00:52:08,258 --> 00:52:10,658
+Hachi talks too much.
+
+445
+00:52:12,429 --> 00:52:16,627
+If you're too cheap,
+you pay more in the long run.
+
+446
+00:52:18,502 --> 00:52:20,868
+Two silver pieces -
+what an insult.
+
+447
+00:52:21,371 --> 00:52:25,501
+He and Kuma got drunk
+and blurted out everything.
+
+448
+00:52:25,709 --> 00:52:28,803
+Those bastards!
+Where the hell are they?
+
+449
+00:52:29,746 --> 00:52:33,182
+One of Seibei's men overheard them
+and captured them.
+
+450
+00:52:33,617 --> 00:52:37,178
+I followed. They're locked up
+in Seibei's storehouse.
+
+451
+00:52:38,522 --> 00:52:39,955
+Sons of bitches!
+
+452
+00:52:40,690 --> 00:52:43,659
+You don't get
+information like this for free.
+
+453
+00:52:48,532 --> 00:52:51,296
+Take as much as you want.
+
+454
+00:52:51,801 --> 00:52:53,860
+You're my bodyguard
+from now on.
+
+455
+00:52:59,943 --> 00:53:03,071
+This is enough for now.
+I'll consider the bodyguard part.
+
+456
+00:53:09,719 --> 00:53:13,815
+Uno, you don't know him, do you?
+This guy's tough as hell.
+
+457
+00:53:22,299 --> 00:53:25,826
+<i>Ino! Uno! What are you doing?</i>
+<i>Get in here now!</i>
+
+458
+00:53:54,264 --> 00:53:55,561
+What is it?
+
+459
+00:53:55,765 --> 00:53:57,562
+Don't kill Yoichiro!
+
+460
+00:54:02,372 --> 00:54:05,899
+Get his sword
+and take him to Brother!
+
+461
+00:54:06,443 --> 00:54:08,911
+Get going!
+
+462
+00:54:32,035 --> 00:54:34,265
+Seibei!
+
+463
+00:54:35,338 --> 00:54:37,738
+We have Yoichiro!
+
+464
+00:54:37,941 --> 00:54:39,340
+Did you hear me?
+
+465
+00:54:39,542 --> 00:54:42,443
+Listen carefully,
+and don't try anything funny.
+
+466
+00:54:42,912 --> 00:54:46,871
+If you want him back,
+bring us Kuma and Hachi!
+
+467
+00:54:47,083 --> 00:54:49,017
+We'll trade!
+
+468
+00:54:49,219 --> 00:54:51,210
+Each side will send
+three unarmed men
+
+469
+00:54:51,421 --> 00:54:54,390
+to the guard tower at 2:00 a.m.!
+
+470
+00:54:54,591 --> 00:54:56,218
+Got that?
+
+471
+00:55:06,670 --> 00:55:10,333
+- Pretty good.
+- It'll get better. Just watch.
+
+472
+00:55:15,945 --> 00:55:18,140
+Don't forget
+to call the hour at 2:00!
+
+473
+00:55:24,621 --> 00:55:27,089
+Old man,
+give me something to eat.
+
+474
+00:55:28,358 --> 00:55:30,417
+Take what you want
+from the pot.
+
+475
+00:55:31,227 --> 00:55:35,288
+I won't get any business
+with all this trouble brewing.
+
+476
+00:55:40,136 --> 00:55:41,603
+You know, old man,
+
+477
+00:55:42,038 --> 00:55:46,168
+this town is starting to boil again,
+just like this pot.
+
+478
+00:55:48,278 --> 00:55:50,143
+What have you done?
+
+479
+00:55:51,281 --> 00:55:53,806
+Did you write
+this new little drama?
+
+480
+00:55:54,017 --> 00:55:55,507
+Half of it.
+
+481
+00:55:55,719 --> 00:55:58,483
+Unosuke just rewrote
+the other half.
+
+482
+00:56:12,335 --> 00:56:15,600
+It's 2:00 a.m.!
+
+483
+00:56:35,325 --> 00:56:37,316
+Ready, Ushitora?
+
+484
+00:56:37,994 --> 00:56:40,155
+We're coming, Seibei!
+
+485
+00:57:43,359 --> 00:57:46,328
+I'll push them forward,
+
+486
+00:57:46,930 --> 00:57:49,057
+and you let go of your rope.
+
+487
+00:57:58,141 --> 00:57:59,768
+Seibei!
+
+488
+00:58:00,944 --> 00:58:02,844
+That was a dirty trick.
+
+489
+00:58:03,546 --> 00:58:05,241
+We're even now.
+
+490
+00:58:05,748 --> 00:58:07,579
+If you love Yoichiro,
+
+491
+00:58:07,851 --> 00:58:12,015
+shave your head and ask
+my brother to take over as heir.
+
+492
+00:58:12,222 --> 00:58:14,315
+Just as I thought!
+
+493
+00:58:14,591 --> 00:58:17,651
+Uno, look here!
+
+494
+00:58:36,479 --> 00:58:39,346
+Hey, Ushitora,
+you see this?
+
+495
+00:58:39,549 --> 00:58:41,847
+I'll be keeping her!
+
+496
+00:58:42,151 --> 00:58:45,245
+Ask the horny old sake brewer
+what he says to that!
+
+497
+00:59:04,307 --> 00:59:05,797
+That was amusing.
+
+498
+01:00:02,832 --> 01:00:04,231
+<i>Mommy!</i>
+
+499
+01:00:12,742 --> 01:00:14,004
+Where's my mommy?
+
+500
+01:00:20,249 --> 01:00:22,683
+I'll show you.
+
+501
+01:00:47,110 --> 01:00:48,839
+Don't you want to look?
+
+502
+01:01:30,019 --> 01:01:31,611
+I can't see her!
+
+503
+01:01:32,321 --> 01:01:34,221
+You will soon.
+
+504
+01:01:40,496 --> 01:01:41,929
+Mommy!
+
+505
+01:01:57,346 --> 01:01:58,836
+Kenbo!
+
+506
+01:02:00,883 --> 01:02:02,282
+Nui!
+
+507
+01:02:14,363 --> 01:02:15,660
+Hansuke, hurry up!
+
+508
+01:02:22,772 --> 01:02:24,262
+Mommy!
+
+509
+01:02:24,707 --> 01:02:27,642
+Coward! Why didn't you
+bite your tongue off and die?
+
+510
+01:02:27,844 --> 01:02:30,745
+You caused us so much trouble!
+Ungrateful bastard!
+
+511
+01:02:31,547 --> 01:02:33,481
+Hurry up!
+
+512
+01:02:35,551 --> 01:02:37,246
+Come on!
+
+513
+01:02:55,571 --> 01:02:56,868
+Seibei!
+
+514
+01:02:59,075 --> 01:03:00,872
+You'll be hearing from me!
+
+515
+01:03:02,111 --> 01:03:05,808
+I can't wait!
+I've got a few things planned myself!
+
+516
+01:03:12,321 --> 01:03:14,186
+Don't come any closer.
+
+517
+01:03:28,971 --> 01:03:31,201
+He cried himself to sleep.
+
+518
+01:03:39,816 --> 01:03:44,753
+Poor fellow.
+His wife was too beautiful.
+
+519
+01:03:45,721 --> 01:03:49,680
+It all started when he lost
+to Ushitora at gambling.
+
+520
+01:03:50,126 --> 01:03:54,495
+If she were ugly,
+he'd only have lost his house.
+
+521
+01:03:54,697 --> 01:03:59,327
+But old Tokuemon
+was drooling all over her.
+
+522
+01:03:59,535 --> 01:04:03,062
+Ushitora saw a chance
+to draw Tokuemon to his side.
+
+523
+01:04:03,339 --> 01:04:09,209
+He took the wife and house
+and dangled them in front of Tokuemon.
+
+524
+01:04:09,879 --> 01:04:13,747
+This poor fool built a hut
+right next to his former house
+
+525
+01:04:14,016 --> 01:04:19,477
+just so he could watch helplessly
+as Tokuemon ravishes his wife every day.
+
+526
+01:04:19,989 --> 01:04:23,447
+I don't want her anymore!
+I gave her up for good!
+
+527
+01:04:24,193 --> 01:04:26,923
+Then why the heartbroken look?
+
+528
+01:04:35,104 --> 01:04:36,662
+Going home?
+
+529
+01:04:37,707 --> 01:04:43,339
+Won't you get beaten up?
+Weren't you told not to see her?
+
+530
+01:04:43,546 --> 01:04:45,514
+I'm used to it.
+
+531
+01:04:46,048 --> 01:04:47,811
+I don't mind.
+
+532
+01:04:58,561 --> 01:05:02,361
+Ushitora has his men
+watching over her.
+
+533
+01:05:02,565 --> 01:05:04,624
+She can't even see her son.
+
+534
+01:05:07,803 --> 01:05:09,532
+Good-bye.
+
+535
+01:05:13,442 --> 01:05:16,639
+Guys like that make me sick!
+
+536
+01:05:58,521 --> 01:06:01,854
+I've decided
+to be your bodyguard.
+
+537
+01:06:02,058 --> 01:06:03,719
+You have my gratitude.
+
+538
+01:06:05,861 --> 01:06:07,852
+I want 30 in advance.
+
+539
+01:06:08,798 --> 01:06:12,564
+That's a steep price.
+I'd refuse if I were you.
+
+540
+01:06:12,768 --> 01:06:15,498
+But he's so tough!
+
+541
+01:06:19,008 --> 01:06:20,373
+Tougher than this?
+
+542
+01:06:20,576 --> 01:06:24,910
+Don't say that, Uno.
+If I refuse, he'll go to Seibei.
+
+543
+01:06:25,114 --> 01:06:26,741
+That would be bad!
+
+544
+01:06:29,051 --> 01:06:30,712
+Buy him then.
+
+545
+01:06:34,657 --> 01:06:36,625
+Here. Thirty ryo.
+
+546
+01:06:40,329 --> 01:06:42,854
+Thirty more when we win.
+
+547
+01:06:43,065 --> 01:06:44,965
+Of course.
+You have my word.
+
+548
+01:06:45,167 --> 01:06:49,297
+If that's settled, let's drink to it.
+To our partnership!
+
+549
+01:06:49,605 --> 01:06:52,972
+Fine, but is the woman safe?
+
+550
+01:06:53,242 --> 01:06:54,539
+What woman?
+
+551
+01:06:54,744 --> 01:06:56,644
+Tokuemon's woman.
+
+552
+01:06:56,846 --> 01:06:59,974
+If they get her again,
+you'll lose for sure.
+
+553
+01:07:00,182 --> 01:07:03,242
+Don't worry.
+I've got six roughnecks on watch.
+
+554
+01:07:03,452 --> 01:07:05,545
+That's not enough.
+
+555
+01:07:05,755 --> 01:07:08,315
+You need at least one
+as tough as this guy.
+
+556
+01:07:10,359 --> 01:07:12,224
+Brother, should I go?
+
+557
+01:07:13,929 --> 01:07:17,330
+I'll go along
+and see how they're doing.
+
+558
+01:07:17,533 --> 01:07:18,795
+Thanks.
+
+559
+01:07:21,404 --> 01:07:23,269
+It ain't a fun job.
+
+560
+01:07:24,206 --> 01:07:28,165
+You gotta stand in the cold
+when Tokuemon comes around.
+
+561
+01:07:31,647 --> 01:07:33,547
+He doesn't seem
+to be here now.
+
+562
+01:07:37,453 --> 01:07:39,683
+Is that where the jackass
+who lost his wife lives?
+
+563
+01:07:39,889 --> 01:07:42,949
+I almost forgot!
+I gotta beat him up!
+
+564
+01:07:47,063 --> 01:07:48,530
+Hey, you!
+
+565
+01:07:48,731 --> 01:07:51,996
+Hanging around
+Tokuemon's woman, huh?
+
+566
+01:07:52,268 --> 01:07:55,795
+How many times
+we gotta tell you not to see her?
+
+567
+01:07:57,306 --> 01:08:00,241
+Ino, there's trouble!
+Everyone's dead!
+
+568
+01:08:01,210 --> 01:08:05,044
+All six men have been killed!
+Tell Ushitora, quick!
+
+569
+01:08:12,154 --> 01:08:13,052
+Who's there?
+
+570
+01:08:28,237 --> 01:08:29,966
+Get your husband and run!
+
+571
+01:08:36,679 --> 01:08:38,078
+Idiot!
+
+572
+01:08:43,252 --> 01:08:44,651
+Mommy!
+
+573
+01:08:48,457 --> 01:08:50,254
+Nui!
+
+574
+01:08:51,026 --> 01:08:52,755
+Run for it!
+
+575
+01:08:53,028 --> 01:08:55,394
+Here's 30 ryo.
+I stole it from Ushitora.
+
+576
+01:08:55,598 --> 01:08:57,259
+Take it.
+
+577
+01:10:24,520 --> 01:10:25,987
+You idiots!
+
+578
+01:10:26,188 --> 01:10:27,587
+What are you waiting for?
+
+579
+01:10:33,295 --> 01:10:34,660
+Stop that!
+
+580
+01:10:35,164 --> 01:10:38,759
+I hate pathetic weaklings!
+Start crying and I'll kill you!
+
+581
+01:10:42,204 --> 01:10:43,762
+Ushitora's coming!
+
+582
+01:10:47,142 --> 01:10:48,109
+Get lost!
+
+583
+01:10:48,611 --> 01:10:49,942
+We'll thank you later.
+
+584
+01:10:50,145 --> 01:10:52,409
+Idiot! Don't ever come back here!
+
+585
+01:10:53,115 --> 01:10:54,776
+Thank you.
+
+586
+01:10:55,618 --> 01:10:57,176
+Thank you.
+
+587
+01:11:08,497 --> 01:11:11,159
+- What happened?
+- Take a look.
+
+588
+01:11:20,776 --> 01:11:22,403
+What a mess.
+
+589
+01:11:26,348 --> 01:11:27,940
+Didn't I tell you?
+
+590
+01:11:29,418 --> 01:11:31,648
+Six men weren't enough.
+
+591
+01:11:36,792 --> 01:11:40,489
+Must have been
+15 or 16 men.
+
+592
+01:11:46,201 --> 01:11:47,532
+Where's the wench?
+
+593
+01:11:47,736 --> 01:11:49,135
+Gone, of course.
+
+594
+01:11:50,372 --> 01:11:52,340
+Seibei's pretty clever.
+
+595
+01:11:56,612 --> 01:11:58,136
+Brother!
+
+596
+01:12:00,049 --> 01:12:03,041
+Son of a bitch!
+
+597
+01:12:08,724 --> 01:12:12,421
+My silk's burning!
+Please put out the fire!
+
+598
+01:12:12,628 --> 01:12:14,687
+I'll give you anything!
+
+599
+01:12:16,065 --> 01:12:17,965
+Don't move!
+
+600
+01:12:23,806 --> 01:12:25,671
+Hand over the wench
+and we'll save the shop!
+
+601
+01:12:26,275 --> 01:12:28,038
+What wench?
+
+602
+01:12:28,544 --> 01:12:30,876
+Don't play dumb!
+Give her back or else!
+
+603
+01:12:31,647 --> 01:12:33,615
+- What are you talking about?
+- Shut up!
+
+604
+01:12:59,108 --> 01:13:04,102
+My sake's pouring out!
+
+605
+01:13:04,313 --> 01:13:06,941
+Do something!
+
+606
+01:13:14,390 --> 01:13:16,881
+Stop up the holes!
+
+607
+01:13:19,561 --> 01:13:21,529
+I'll give you anything!
+
+608
+01:13:30,539 --> 01:13:32,973
+Help!
+
+609
+01:13:38,814 --> 01:13:41,112
+This is Seibei's doing!
+
+610
+01:13:44,253 --> 01:13:46,244
+Come with me, men!
+
+611
+01:14:39,241 --> 01:14:43,234
+What happened?
+Why so glum?
+
+612
+01:14:45,547 --> 01:14:47,447
+Your business should be booming.
+
+613
+01:14:47,649 --> 01:14:48,843
+No.
+
+614
+01:14:49,051 --> 01:14:53,351
+When the fighting gets this bad,
+they don't bother with coffins.
+
+615
+01:15:10,839 --> 01:15:12,136
+Another bottle.
+
+616
+01:15:12,341 --> 01:15:13,740
+Comin' right up.
+
+617
+01:15:14,476 --> 01:15:16,910
+You're unusually friendly today.
+What's going on?
+
+618
+01:15:20,015 --> 01:15:21,846
+Gives me the creeps.
+
+619
+01:15:23,352 --> 01:15:26,583
+Aren't you angry that I became
+Ushitora's bodyguard?
+
+620
+01:15:26,788 --> 01:15:28,449
+Not at all.
+
+621
+01:15:33,495 --> 01:15:35,690
+You're not a bad guy
+after all.
+
+622
+01:15:36,398 --> 01:15:37,831
+What?
+
+623
+01:15:38,700 --> 01:15:43,694
+You're not really bad.
+You just pretend to be.
+
+624
+01:15:43,939 --> 01:15:46,407
+He came by last night.
+
+625
+01:15:46,608 --> 01:15:47,632
+Who?
+
+626
+01:15:47,843 --> 01:15:50,869
+The man who makes you sick.
+
+627
+01:15:51,980 --> 01:15:55,381
+He told me everything.
+Oh, and another thing.
+
+628
+01:15:56,818 --> 01:16:00,584
+He said to give you this.
+
+629
+01:16:04,626 --> 01:16:06,526
+Aren't you going to read it?
+
+630
+01:16:06,828 --> 01:16:11,094
+Sure, it's just a long,
+tedious thank-you note.
+
+631
+01:16:11,300 --> 01:16:14,463
+But read it.
+He risked his life to bring it.
+
+632
+01:16:14,670 --> 01:16:17,571
+Shut up!
+I'm busy drinking!
+
+633
+01:16:30,852 --> 01:16:32,717
+We need to talk.
+
+634
+01:16:33,555 --> 01:16:34,954
+About what?
+
+635
+01:16:39,461 --> 01:16:43,921
+Ino just got back
+from a recruiting expedition.
+
+636
+01:16:45,434 --> 01:16:48,494
+- Get any men?
+- No.
+
+637
+01:16:48,737 --> 01:16:50,329
+No wonder.
+
+638
+01:16:50,639 --> 01:16:54,268
+None of your former hires
+are exactly singing your praises.
+
+639
+01:16:54,476 --> 01:16:59,846
+But Ino heard an interesting story
+from one man.
+
+640
+01:17:00,415 --> 01:17:06,285
+He saw Tokuemon's woman crossing
+the ridge with her husband and little brat.
+
+641
+01:17:07,689 --> 01:17:11,216
+That was the morning
+after our six men were killed.
+
+642
+01:17:14,396 --> 01:17:18,492
+Which means that
+Seibei didn't kidnap her.
+
+643
+01:17:20,102 --> 01:17:21,865
+It would seem that way.
+
+644
+01:17:23,038 --> 01:17:25,529
+Then who killed our men?
+
+645
+01:17:28,076 --> 01:17:32,536
+Ino, before you came running
+to tell Brother,
+
+646
+01:17:33,215 --> 01:17:35,945
+did you see those men dead
+with your own eyes?
+
+647
+01:17:36,151 --> 01:17:38,779
+No. He told me -
+
+648
+01:17:51,133 --> 01:17:56,696
+By the way, those six
+were sliced up real good.
+
+649
+01:17:57,806 --> 01:18:02,038
+You're the only one around here
+that skilled with a sword.
+
+650
+01:18:03,845 --> 01:18:05,369
+So?
+
+651
+01:18:06,448 --> 01:18:08,439
+It occurred to me...
+
+652
+01:18:09,284 --> 01:18:12,811
+that maybe you killed them.
+
+653
+01:18:13,021 --> 01:18:17,253
+But Uno, he's our bodyguard.
+
+654
+01:18:17,626 --> 01:18:19,560
+Why would he do that?
+
+655
+01:18:22,130 --> 01:18:26,499
+That's what I don't get either.
+
+656
+01:18:28,236 --> 01:18:29,726
+Hold it.
+
+657
+01:18:31,139 --> 01:18:32,663
+What's this?
+
+658
+01:18:35,277 --> 01:18:37,142
+"To the honorable samurai
+
+659
+01:18:37,713 --> 01:18:41,171
+from Kohei and Nui."
+
+660
+01:19:32,601 --> 01:19:35,832
+You sure it's okay
+to leave him untied?
+
+661
+01:19:36,571 --> 01:19:39,768
+Sure. He's nothing
+without his sword.
+
+662
+01:19:43,078 --> 01:19:45,638
+Where am I?
+
+663
+01:19:46,114 --> 01:19:48,014
+This is the brewery.
+
+664
+01:19:48,316 --> 01:19:50,546
+This is the gate to hell.
+
+665
+01:19:50,986 --> 01:19:52,419
+Watch it!
+
+666
+01:19:52,621 --> 01:19:56,352
+A pat from you is like
+a beating from a normal man.
+
+667
+01:20:14,876 --> 01:20:17,572
+You want another thrashing?
+
+668
+01:20:38,333 --> 01:20:39,891
+Where are you going?
+
+669
+01:20:40,101 --> 01:20:42,535
+That's the shortcut to hell.
+
+670
+01:20:49,211 --> 01:20:50,906
+You're not supposed to kill him.
+
+671
+01:20:51,112 --> 01:20:53,774
+Don't worry.
+He's still groaning.
+
+672
+01:21:21,309 --> 01:21:23,243
+Do you know who I am?
+
+673
+01:21:25,547 --> 01:21:27,447
+Then listen.
+
+674
+01:21:27,649 --> 01:21:30,743
+Master Tokuemon
+wants to talk to you personally.
+
+675
+01:21:35,924 --> 01:21:41,658
+You must know
+where the woman is.
+
+676
+01:21:46,568 --> 01:21:50,527
+You can't trust him.
+He's out to save his own skin.
+
+677
+01:21:50,739 --> 01:21:53,572
+The master's talking.
+You keep quiet.
+
+678
+01:21:59,114 --> 01:22:03,141
+I dislike long-winded talk.
+
+679
+01:22:03,518 --> 01:22:07,420
+The quicker we settle this,
+the better.
+
+680
+01:22:09,291 --> 01:22:12,454
+Tell me where the woman is.
+
+681
+01:22:13,728 --> 01:22:17,824
+In return, I'll let you live.
+
+682
+01:22:20,969 --> 01:22:24,666
+What's the matter?
+It's a generous offer.
+
+683
+01:22:25,407 --> 01:22:27,807
+You're not going to refuse,
+are you?
+
+684
+01:22:29,010 --> 01:22:30,307
+I won't talk!
+
+685
+01:22:31,179 --> 01:22:32,908
+What?
+
+686
+01:22:36,584 --> 01:22:39,781
+- Wait! Don't kill him!
+- Don't worry.
+
+687
+01:22:39,988 --> 01:22:42,821
+Kannuki, teach him a lesson.
+
+688
+01:22:53,935 --> 01:22:56,426
+How about it?
+You gonna talk?
+
+689
+01:22:56,638 --> 01:22:59,072
+Hell no, you half-wit!
+
+690
+01:23:13,121 --> 01:23:14,986
+Don't kill him.
+
+691
+01:23:17,826 --> 01:23:21,159
+Don't get blood
+on that storage chest.
+
+692
+01:25:50,145 --> 01:25:53,137
+Thanks to him,
+we have to sleep here now.
+
+693
+01:25:53,348 --> 01:25:56,317
+I'm gonna beat him up again.
+He's getting on my nerves.
+
+694
+01:26:02,957 --> 01:26:06,358
+Huh? I could've sworn
+I locked this door.
+
+695
+01:26:07,262 --> 01:26:08,991
+The bastard's gone.
+
+696
+01:26:09,197 --> 01:26:11,324
+What?
+Don't scare me like that!
+
+697
+01:26:18,706 --> 01:26:21,334
+Brother, this isn't funny!
+
+698
+01:28:07,882 --> 01:28:08,849
+Morons!
+
+699
+01:28:09,050 --> 01:28:12,451
+No point looking where it's light!
+Search where it's dark!
+
+700
+01:29:42,210 --> 01:29:45,839
+Old man, open up!
+
+701
+01:29:46,280 --> 01:29:47,804
+It's me.
+
+702
+01:30:01,396 --> 01:30:05,924
+I know I'm quite a sight,
+but could you do your staring later?
+
+703
+01:30:29,590 --> 01:30:33,117
+Didn't I warn you?
+You're too damn reckless.
+
+704
+01:30:33,394 --> 01:30:36,557
+Save your lecture!
+They'll be here soon!
+
+705
+01:30:40,468 --> 01:30:43,266
+Tell them I went to Seibei's place.
+Got that?
+
+706
+01:30:59,987 --> 01:31:03,445
+Did that two-bit samurai come here?
+Lie and you'll be sorry!
+
+707
+01:31:03,658 --> 01:31:06,684
+Yes, but he went
+to Seibei's place.
+
+708
+01:31:07,261 --> 01:31:11,698
+Don't believe the old fool.
+He and Two-Bit are in cahoots.
+
+709
+01:31:11,899 --> 01:31:15,494
+But Seibei would gladly hide him
+to find out where the slut is.
+
+710
+01:31:15,803 --> 01:31:17,395
+That guy's really something.
+
+711
+01:31:17,605 --> 01:31:20,005
+He wouldn't stay put
+with his head cut off.
+
+712
+01:31:20,208 --> 01:31:23,234
+Fine. We'll kill
+Seibei's entire gang.
+
+713
+01:31:23,444 --> 01:31:25,969
+I only held back
+because of the woman.
+
+714
+01:31:26,180 --> 01:31:29,479
+Gather some straw
+and smoke them out.
+
+715
+01:31:30,184 --> 01:31:33,585
+Smoke 'em out like raccoons
+and kill 'em? Fun!
+
+716
+01:32:04,118 --> 01:32:06,382
+Pull yourself together.
+
+717
+01:32:07,722 --> 01:32:10,520
+But what'll you do now?
+
+718
+01:32:11,158 --> 01:32:13,626
+Go next door
+and buy a coffin.
+
+719
+01:32:14,729 --> 01:32:17,562
+How can you give up like that?
+
+720
+01:32:17,999 --> 01:32:19,398
+You idiot!
+
+721
+01:32:20,735 --> 01:32:22,566
+I'm not dying yet.
+
+722
+01:32:22,803 --> 01:32:25,203
+There's a bunch of guys
+I have to kill first.
+
+723
+01:32:53,668 --> 01:32:57,195
+Is this safe?
+What if Ushitora's men check?
+
+724
+01:32:57,405 --> 01:33:00,306
+They don't have time.
+Take a look.
+
+725
+01:33:00,675 --> 01:33:02,165
+<i>What's Ushitora doing?</i>
+
+726
+01:33:02,376 --> 01:33:06,210
+Smoking out Seibei
+and his men.
+
+727
+01:33:06,414 --> 01:33:10,111
+<i>Sounds interesting.</i>
+<i>Set me down. I wanna watch.</i>
+
+728
+01:33:10,384 --> 01:33:11,510
+That's crazy!
+
+729
+01:33:11,719 --> 01:33:13,277
+<i>Set me down!</i>
+
+730
+01:33:20,962 --> 01:33:23,863
+<i>I can't see from here.</i>
+<i>Move further out.</i>
+
+731
+01:34:36,470 --> 01:34:38,335
+<i>Uno, it's me! Don't shoot!</i>
+
+732
+01:34:41,676 --> 01:34:43,473
+Idiot!
+Don't leave your post!
+
+733
+01:34:43,678 --> 01:34:45,612
+Kannuki's guarding the back.
+
+734
+01:34:45,813 --> 01:34:51,547
+Listen, I killed those two guys
+who killed three of ours.
+
+735
+01:34:51,752 --> 01:34:54,550
+You came out to tell me that?
+Get back in there!
+
+736
+01:35:09,036 --> 01:35:10,697
+You won't get away,
+you wench!
+
+737
+01:35:10,905 --> 01:35:13,738
+Come here, you greedy bitch!
+
+738
+01:35:13,974 --> 01:35:15,407
+Where are Seibei and Yoichiro?
+
+739
+01:35:15,609 --> 01:35:18,009
+- I don't know!
+- Tell us or we'll kill you!
+
+740
+01:35:24,351 --> 01:35:26,319
+Mommy!
+
+741
+01:35:32,359 --> 01:35:36,261
+Seibei, come out!
+Yoichiro's begging for mercy!
+
+742
+01:35:38,199 --> 01:35:39,496
+Seibei!
+
+743
+01:35:39,700 --> 01:35:44,330
+<i>You win! I'm coming out!</i>
+<i>Don't kill me</i> or <i>my son!</i>
+
+744
+01:35:44,538 --> 01:35:45,903
+All right!
+
+745
+01:35:51,178 --> 01:35:55,137
+All my territory is yours!
+
+746
+01:35:55,349 --> 01:35:57,317
+You can take over!
+
+747
+01:36:04,391 --> 01:36:06,086
+You filthy scum!
+
+748
+01:36:23,043 --> 01:36:24,977
+Only the samurai is left.
+
+749
+01:36:25,379 --> 01:36:26,471
+Where is he?
+
+750
+01:36:26,680 --> 01:36:29,740
+- There's nobody in there.
+- That can't be.
+
+751
+01:36:31,185 --> 01:36:34,643
+- See for yourself.
+- He can't just vanish.
+
+752
+01:36:34,855 --> 01:36:38,188
+He's all beaten up.
+He can't go far.
+
+753
+01:36:41,862 --> 01:36:45,320
+Old man, let's get going.
+
+754
+01:36:49,270 --> 01:36:50,601
+Son of a bitch!
+
+755
+01:36:51,005 --> 01:36:52,836
+The casket maker ran away!
+
+756
+01:36:53,240 --> 01:36:56,334
+That's not good.
+Anyone else around?
+
+757
+01:36:58,345 --> 01:37:00,006
+It gets worse.
+
+758
+01:37:01,015 --> 01:37:03,415
+Inokichi's coming this way!
+
+759
+01:37:03,684 --> 01:37:06,585
+We have no choice.
+Talk him into helping you.
+
+760
+01:37:06,787 --> 01:37:09,950
+- But -
+- Just try it!
+
+761
+01:37:14,061 --> 01:37:16,529
+- Just in case.
+- Thanks.
+
+762
+01:37:31,378 --> 01:37:33,243
+Hey, whaddaya doin'?
+
+763
+01:37:33,547 --> 01:37:36,072
+The casket maker and I
+were gonna bury this body,
+
+764
+01:37:36,283 --> 01:37:38,774
+but the bastard got scared
+and ran off.
+
+765
+01:37:38,986 --> 01:37:40,817
+Would you give me a hand?
+
+766
+01:37:41,021 --> 01:37:43,387
+Are you kidding?
+Hell, no!
+
+767
+01:37:44,725 --> 01:37:48,252
+- Afraid of a dead man?
+- What did you say?
+
+768
+01:37:48,462 --> 01:37:50,521
+You talk big, but fear's
+written all over your face.
+
+769
+01:37:50,731 --> 01:37:53,529
+What?
+I'm not afraid of nothin'!
+
+770
+01:37:53,734 --> 01:37:55,565
+Then hurry up and help.
+
+771
+01:37:55,769 --> 01:37:57,464
+Couldn't be easier.
+
+772
+01:37:57,671 --> 01:38:02,233
+You sure? We're going to the cemetery.
+I saw ghosts there a while back.
+
+773
+01:38:02,443 --> 01:38:03,910
+Ghosts?
+
+774
+01:38:04,478 --> 01:38:06,412
+Hell, I see ghosts
+and I feel relieved!
+
+775
+01:38:06,614 --> 01:38:08,980
+Good. Let's go then.
+
+776
+01:38:25,966 --> 01:38:29,060
+- Is this far enough?
+- Yes, thanks.
+
+777
+01:38:34,475 --> 01:38:36,238
+Where are the ghosts?
+
+778
+01:38:37,011 --> 01:38:40,174
+They only appear
+to scaredy-cats like me,
+
+779
+01:38:40,381 --> 01:38:42,246
+not to brave guys like you.
+
+780
+01:38:44,184 --> 01:38:48,678
+I'd feel bad leaving you here alone.
+I'll help you bury him.
+
+781
+01:38:49,189 --> 01:38:52,818
+That's all right.
+Weren't you looking for someone?
+
+782
+01:38:53,160 --> 01:38:55,628
+You're right!
+Brother's gonna beat me!
+
+783
+01:39:14,448 --> 01:39:16,075
+Are you all right?
+
+784
+01:39:17,217 --> 01:39:19,014
+That was all very amusing.
+
+785
+01:39:19,219 --> 01:39:23,918
+Can you walk?
+There's a small temple nearby.
+
+786
+01:39:24,692 --> 01:39:26,091
+I can walk.
+
+787
+01:39:36,136 --> 01:39:38,969
+You don't look like
+one of the living.
+
+788
+01:39:42,376 --> 01:39:45,277
+I'll come back to life
+with a few days' sleep.
+
+789
+01:39:48,115 --> 01:39:50,515
+It's even worse
+when you smile.
+
+790
+01:40:36,797 --> 01:40:38,731
+You're late, old man.
+
+791
+01:40:39,033 --> 01:40:40,830
+I'm hungry.
+
+792
+01:40:41,769 --> 01:40:44,829
+It's me!
+Gonji's in trouble!
+
+793
+01:40:47,441 --> 01:40:48,408
+What happened?
+
+794
+01:40:48,609 --> 01:40:50,440
+He got caught
+on the way here.
+
+795
+01:40:50,644 --> 01:40:54,045
+The rice and ointment for you
+gave him away.
+
+796
+01:40:56,116 --> 01:40:57,879
+Where'd they take him?
+
+797
+01:40:58,085 --> 01:41:01,612
+Seibei's place.
+Ushitora has moved in there.
+
+798
+01:41:03,891 --> 01:41:06,416
+You plan to fight with that?
+
+799
+01:41:06,693 --> 01:41:08,923
+- I'll make sashimi outta them!
+- Wait.
+
+800
+01:41:10,664 --> 01:41:14,532
+Use this. Being a coffin maker
+has its advantages.
+
+801
+01:41:14,735 --> 01:41:19,172
+It's wrong to use a dead man's sword,
+but it's the best I had.
+
+802
+01:43:02,943 --> 01:43:08,074
+Get away while he's fighting
+Ushitora and his men.
+
+803
+01:43:09,449 --> 01:43:13,385
+You told him I got caught?
+You stupid meddler!
+
+804
+01:43:13,587 --> 01:43:14,986
+Hurry!
+
+805
+01:44:08,208 --> 01:44:10,108
+Don't come any closer!
+
+806
+01:44:38,071 --> 01:44:39,800
+Mommy!
+
+807
+01:44:40,007 --> 01:44:42,237
+Children shouldn't play
+with swords.
+
+808
+01:44:43,477 --> 01:44:47,208
+Go home to your mother
+and live a long life eating gruel.
+
+809
+01:44:55,689 --> 01:44:58,658
+You're a nice guy.
+
+810
+01:45:03,230 --> 01:45:06,791
+I've got a favor to ask.
+
+811
+01:45:07,801 --> 01:45:09,200
+What?
+
+812
+01:45:19,479 --> 01:45:23,210
+Without my pistol...
+
+813
+01:45:26,553 --> 01:45:28,487
+I feel sort of naked.
+
+814
+01:45:29,956 --> 01:45:35,394
+I can't go
+to the other world without it.
+
+815
+01:45:38,565 --> 01:45:40,032
+Please...
+
+816
+01:45:41,001 --> 01:45:43,526
+let me hold it.
+
+817
+01:46:11,098 --> 01:46:12,588
+Don't worry.
+
+818
+01:46:13,633 --> 01:46:15,965
+I fired it twice.
+
+819
+01:46:16,470 --> 01:46:18,938
+There's no more bullets.
+
+820
+01:46:25,011 --> 01:46:26,638
+Thanks.
+
+821
+01:46:50,704 --> 01:46:52,262
+I can't.
+
+822
+01:46:52,873 --> 01:46:55,034
+Everything's going dark.
+
+823
+01:46:56,743 --> 01:46:58,142
+Damn it!
+
+824
+01:47:56,436 --> 01:48:01,305
+Who's banging
+the prayer drum?
+
+825
+01:48:04,077 --> 01:48:08,673
+I don't need any prayers.
+
+826
+01:49:09,943 --> 01:49:11,604
+Hey!
+
+827
+01:49:12,746 --> 01:49:15,715
+Two-Bit! Are you there?
+
+828
+01:49:17,384 --> 01:49:18,783
+I'm here.
+
+829
+01:49:24,291 --> 01:49:28,591
+I'll be waiting for you...
+
+830
+01:49:32,599 --> 01:49:34,829
+at the gates of hell.
+
+831
+01:49:38,572 --> 01:49:40,199
+Look at him.
+
+832
+01:49:42,008 --> 01:49:45,705
+He died as recklessly
+as he lived.
+
+833
+01:49:52,752 --> 01:49:54,379
+Hansuke!
+
+834
+01:49:56,957 --> 01:49:58,219
+What is it?
+
+835
+01:49:58,425 --> 01:49:59,983
+Go hang yourself.
+
+836
+01:50:11,571 --> 01:50:15,735
+It'll be quiet in this town now.
+
+837
+01:50:18,378 --> 01:50:19,777
+Old man.
+
+838
+01:50:31,257 --> 01:50:32,656
+See ya around.
+
+839
+01:50:41,167 --> 01:50:47,037
+THE END

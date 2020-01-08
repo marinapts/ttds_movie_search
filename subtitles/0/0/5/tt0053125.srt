@@ -1,0 +1,1606 @@
+{1}{1}23.976
+{1412}{1524}NORTH BY NORTHWEST
+{3533}{3626}"Even if you accept the belief that a high|Trendex means a rising sales curve...."
+{3627}{3663}-Mr. Thornhill?|-Good night, Eddie.
+{3664}{3723}-Say hello to the missus.|-We're not talking.
+{3724}{3771}"My recommendation is still the same.
+{3773}{3846}"Spread the good word in as many|small time segments as we can.
+{3848}{3939}"Let the opposition have their high ratings|while we cry all the way to the bank.
+{3941}{4008}"Let's colonize at the Colony|one day next week for lunch.
+{4010}{4072}"Let me hear from you, Sam.|Happy thoughts, etc...."
+{4074}{4112}You better walk me to the Plaza.
+{4114}{4191}-I didn't put a coat on.|-Use your blood sugar, child. Come on.
+{4193}{4229}-Next?|-Gretchen Sabinson.
+{4231}{4248}Oh, yes.
+{4250}{4320}Send her a box of candy from Blum's.|$10. You know the kind.
+{4322}{4407}Each piece wrapped in gold paper.|She'll think she's eating money.
+{4409}{4475}Just tell her:|"Darling, I count the days, the hours--"
+{4476}{4526}-You sent that one last time.|-I did?
+{4527}{4626}Put: "Something for your sweet tooth,|baby, and all your other sweet parts! "
+{4631}{4651}I know.
+{4653}{4683}Could we take a cab?
+{4685}{4737}-For two blocks?|-You're late and I'm tired.
+{4739}{4803}That's your trouble, Maggie,|you don't eat properly.
+{4805}{4830}Here. Taxi.
+{4856}{4921}I have a very sick woman here.|You don't mind, do you?
+{4923}{4952}Thank you very much.
+{4954}{4990}Perfectly all right.
+{5000}{5055}First stop, the Plaza. Don't throw the flag.
+{5056}{5080}Poor man.
+{5108}{5185}I made him a happy man.|I made him feel like a good Samaritan.
+{5187}{5227}He knew you were lying.
+{5257}{5326}In the world of advertising,|there's no such thing as a lie.
+{5327}{5410}There's only "the expedient exaggeration."|You ought to know that.
+{5420}{5467}Do I look heavyish to you?
+{5469}{5491}What?
+{5492}{5525}I feel heavyish.
+{5528}{5592}Put a note on my desk in the morning:|"Think thin."
+{5594}{5625}"Think thin."
+{5640}{5695}Better make it the 59th Street entrance.
+{5696}{5715}Okay.
+{5740}{5787}Soon as you get back, call my mother.
+{5788}{5846}Remind her we have theatre tickets|for tonight.
+{5847}{5891}Dinner at 21, 7:00.
+{5894}{5993}I'll have had two martini's at the Oak Bar|so she needn't bother to sniff my breath.
+{5995}{6062}-She doesn't do that.|-Sure she does. Like a bloodhound.
+{6063}{6154}Bigelow at 10:30 is your first for tomorrow.|The Skin Glow rehearsal's at noon.
+{6156}{6202}Then lunch with Falcon and his wife.
+{6204}{6266}-Where was that?|-Larry and Arnold's, 1 :00.
+{6276}{6336}-Will you check in later?|-Absolutely not.
+{6370}{6435}Here, Driver. Take this lady|back where she belongs.
+{6437}{6485}-Right.|-That ought to cover it.
+{6505}{6564}-Don't forget, call my mother right away.|-I won't.
+{6566}{6631}-Good night, Mr. Thornhill.|-Good night.
+{6700}{6772}Wait, Maggie! You can't call her.|She's at Mrs.--
+{7307}{7341}Good evening, Mr. Thornhill.
+{7343}{7401}I'm looking for Mr. Weltner|and two other gentlemen.
+{7403}{7444}Yes, sir. Right this way.
+{7470}{7488}Herman.
+{7490}{7531}-Hello, Roger.|-I'm a little late.
+{7533}{7575}Roger Thornhill. Fanning Nelson.
+{7625}{7703}-We've gotten a head start here.|-That won't last long.
+{7705}{7811}I was saying that you may be slow|in starting, but there's nobody faster.
+{7813}{7865}What's the matter? You've got the fidgets.
+{7867}{7983}I told my secretary to call Mother and|I realized she won't be able to reach her.
+{7989}{8007}Why not?
+{8009}{8063}She's playing bridge at one of her cronies'.
+{8064}{8105}-Your secretary?|-No. My mother.
+{8107}{8129}Mr. Kaplan?
+{8131}{8206}It's one of those new apartments,|wet paint and no telephone yet.
+{8211}{8259}Perhaps if I send her a telegram.
+{8260}{8293}Mr. George Kaplan?
+{8295}{8315}Boy!
+{8454}{8472}Kaplan.
+{8474}{8510}I have to send a wire.
+{8512}{8571}Could you send it for me|if I write it out for you?
+{8573}{8647}I'm not permitted to do that, sir,|but if you'll follow me....
+{8651}{8703}-Will you excuse me?|-Go right ahead.
+{8790}{8834}-Right through there, sir.|-Thanks.
+{8835}{8867}Thank you, sir.
+{8923}{8964}What's that supposed to be?
+{8966}{9050}The car is waiting outside.|You'll walk between us saying nothing.
+{9051}{9107}-What are you talking about?|-Let's go.
+{9114}{9147}Go where? Who....
+{9163}{9185}Who are you?
+{9187}{9240}Mere errand boys,|carrying concealed weapons.
+{9242}{9336}His is pointed at your heart, so, please,|no errors of judgment, I beg of you.
+{9338}{9382}What is this? A joke or something?
+{9383}{9442}Yes, a joke. We'll laugh in the car.
+{9447}{9467}Come.
+{9469}{9504}This is ridiculous.
+{10009}{10082}Don't tell me where we're going.|Surprise me.
+{10128}{10194}I left some friends|back there in the Oak Bar.
+{10195}{10243}They'll think I'm awfully rude.
+{10245}{10315}Could we stop off|at a drugstore for a moment...
+{10317}{10394}...so that I could explain|I'm being kidnapped?
+{10423}{10483}Well, that is what's happening, isn't it?
+{10707}{10732}Locked.
+{10836}{10880}TOWNSEND
+{11046}{11078}Who's Townsend?
+{11136}{11160}Really?
+{11179}{11207}Interesting.
+{12275}{12323}-Where is he?|-Upstairs, dressing.
+{12325}{12386}-Tell him I'm here.|-The dinner guests are expected.
+{12387}{12437}Never mind that. Say to him: "Kaplan."
+{12439}{12495}By the way,|what are we having for dessert?
+{12496}{12537}-Is anyone in the library?|-No.
+{12539}{12563}This way.
+{12843}{12871}You will wait here.
+{12873}{12944}Don't hurry. I'll catch up on my reading.
+{13410}{13467}MR. LESTER TOWNSEND|169 BAYWOOD, GLEN COVE, N.Y.
+{13971}{14004}Good evening.
+{14558}{14616}Not what I expected. A little taller...
+{14642}{14702}...a little more polished than the others.
+{14725}{14794}I'm so glad you're pleased, Mr. Townsend.
+{14795}{14853}But, I'm afraid, just as obvious.
+{14889}{14958}What the devil is all this about?|Why was I brought here?
+{15010}{15058}Games? Must we?
+{15101}{15209}Not that I mind a slight case of abduction,|but I have tickets for the theatre tonight.
+{15211}{15255}To a show I was looking forward to.
+{15256}{15316}I get unreasonable about things like that.
+{15327}{15417}With such expert play-acting,|you make this very room a theatre.
+{15449}{15526}Leonard, have you met|our distinguished guest?
+{15572}{15616}He's a well-tailored one, isn't he?
+{15626}{15705}My secretary is a great admirer|of your methods, Mr. Kaplan.
+{15715}{15759}Elusiveness, however misguided--
+{15761}{15795}Wait a minute.
+{15813}{15847}Did you call me "Kaplan"?
+{15849}{15954}I know you're a man of many names,|but I'll accept your current choice.
+{15957}{15987}Current choice?
+{15991}{16076}My name is Roger Thornhill.|It's never been anything else.
+{16078}{16107}Of course.
+{16126}{16220}Your friends picked up the wrong package|when they bundled me out here in the car.
+{16222}{16265}Sit down, Mr. Kaplan.
+{16275}{16344}I told you, I'm not Kaplan, whoever he is.
+{16361}{16391}-Excuse me.|-Yes?
+{16392}{16426}The guests are here, dear.
+{16427}{16494}Look after them.|I'll be with you in a few minutes.
+{16549}{16600}Now, shall we get down to business?
+{16602}{16628}I'm all for that.
+{16630}{16713}Simply, I'd like you to tell me|how much you know of our arrangements...
+{16715}{16766}...and how you've come by|this information.
+{16768}{16831}-I don't expect to get this for nothing.|-Of course not.
+{16833}{16860}Don't misunderstand.
+{16862}{16924}I don't expect you to fall in|with the suggestion...
+{16926}{17031}...but the least I can do is afford you|the opportunity of surviving the evening.
+{17111}{17158}What is that supposed to mean?
+{17159}{17225}Why don't you surprise me,|Mr. Kaplan, and say yes?
+{17227}{17254}I've told you--
+{17255}{17296}We know where you're headed for.
+{17298}{17379}I know where I'm headed.|The Winter Garden Theatre in New York.
+{17380}{17433}And I think I'd better get going.
+{17638}{17689}Townsend,|you're making a serious mistake.
+{17701}{17786}This is not going to lead|to a very happy conclusion, Mr. Kaplan.
+{17792}{17827}I'm not Kaplan!
+{17828}{17868}I do wish you would reconsider.
+{17870}{17966}We also know your contact in Pittsburgh|since Jason committed suicide.
+{17983}{18056}What contact?|I've never been in Pittsburgh.
+{18078}{18161}On June 16, you checked|into the Sherwyn Hotel in Pittsburgh...
+{18163}{18222}...as Mr. George Kaplan|of Berkeley, California.
+{18224}{18295}A week later, you registered|at the Benjamin Franklin Hotel...
+{18296}{18356}...in Philadelphia|as Mr. George Kaplan of Pittsburgh.
+{18358}{18411}On August 11,|you stayed at the Statler in Boston.
+{18413}{18510}On August 29, George Kaplan of Boston|registered at the Whittier in Detroit.
+{18511}{18567}At present, you are registered|in Room 796...
+{18569}{18655}...at the Plaza Hotel in New York|as Mr. George Kaplan of Detroit.
+{18659}{18748}In two days, you are due|at the Ambassador East in Chicago.
+{18758}{18844}And then at the Sheraton-Johnson Hotel|in Rapid City, South Dakota.
+{18846}{18864}Not me!
+{18866}{18940}There's no sense in maintaining|that you are deceiving us...
+{18942}{18992}...any more than we are deceiving you.
+{18994}{19069}I suppose it wouldn't do any good|to show you ID cards...
+{19071}{19116}...a driver's license, things like that?
+{19118}{19164}They provide you with such good ones.
+{19190}{19241}It's getting late. I have guests.
+{19255}{19339}Do you intend to cooperate with us?|I'd like a simple yes or no.
+{19342}{19371}A simple no.
+{19375}{19471}For the simple reason that I simply|don't know what you're talking about.
+{19565}{19615}Give Mr. Kaplan a drink, Leonard.
+{19620}{19661}A pleasant journey, sir.
+{19928}{19970}Scotch? Rye?
+{19974}{20015}Bourbon? Vodka?
+{20029}{20085}Nothing. I'll take a quick ride|back to town.
+{20087}{20127}That has been arranged.
+{20129}{20187}But first, a libation.
+{20218}{20242}Bourbon!
+{20258}{20328}You drink it.|I've had enough stimulation for one day.
+{20330}{20436}It'll be easier if you take this yourself.|Otherwise, we'll have to insist.
+{20779}{20804}Cheers!
+{21973}{22024}Don't worry about me. I'll take the bus.
+{26145}{26181}Thanks for the lift.
+{26183}{26251}I want this man examined for driving|while intoxicated.
+{26252}{26278}Really?
+{26284}{26334}You see, they tried to kill me.
+{26344}{26379}He won't listen to me.
+{26380}{26436}In a big house. They tried to kill me.
+{26438}{26513}-All right. Let's just go inside.|-I don't want to go inside.
+{26515}{26549}Somebody call the police.
+{26551}{26589}Come on. Come on now.
+{26608}{26634}Okay.
+{26843}{26871}Sit down.
+{26895}{26931}I don't want to sit.
+{26943}{26985}Perfectly all right. See?
+{26994}{27090}We'll get 'em. We'll throw the book|at them. Assault and kidnapping.
+{27096}{27156}Assault with a gun and a bourbon|and a sports car.
+{27158}{27182}We'll get 'em.
+{27183}{27272}You'll be fine after a good night's sleep.|We got a nice cell all made up.
+{27275}{27326}I don't want a cell. I want a policeman.
+{27328}{27379}The car was just reported stolen.
+{27409}{27460}A Mrs. Babson up on Twining Road.
+{27478}{27530}I got to call someone. Where's the phone?
+{27531}{27571}You're allowed one call.
+{27583}{27610}Over here.
+{27613}{27638}Thanks.
+{27650}{27707}You better make it your lawyer.
+{27720}{27772}Butterfield 8-1-0-9-8.
+{27777}{27826}What am l, a telephone operator?
+{27828}{27870}Butterfield 8-1-0-9-8.
+{28193}{28228}Just a minute, please.
+{28230}{28268}-Here.|-Thank you.
+{28327}{28357}Hello, Mother?
+{28381}{28447}Mother, this is your son, Roger Thornhill.
+{28508}{28554}Wait a minute, I'll find out.
+{28572}{28602}Where am l?
+{28603}{28652}Glen Cove Police Station.
+{28667}{28719}Glen Cove Police Station.
+{28765}{28824}No, Mother, I have not been drinking.
+{28830}{28938}No, these two men, they poured|a whole bottle of bourbon into me.
+{28974}{29024}No, they didn't give me a chaser.
+{29063}{29103}Come on, let's go.
+{29139}{29211}-Wait, I'm not finished yet.|-Yes, you are. Come on.
+{29222}{29288}Mother, I got to go now.
+{29299}{29363}Get my lawyer right away|and come and bail me out.
+{29365}{29411}Tomorrow morning, tell her.
+{29418}{29459}Tomorrow morning, he says.
+{29491}{29522}I don't know. I'll ask him.
+{29523}{29566}She wants to know who says.
+{29567}{29612}Sergeant Emil Klinger.
+{29620}{29656}Sergeant Emil....
+{29670}{29694}Emil?
+{29732}{29777}Sergeant Emil Klinger.
+{29818}{29866}No. I didn't believe it either.
+{29903}{29971}I'm all right, Mother. Good night.
+{30091}{30124}That was Mother.
+{30142}{30168}Let's go.
+{30330}{30370}Here's your man, Doctor.
+{30449}{30474}What's your name?
+{30480}{30517}Roger Thornhill.
+{30523}{30573}Stick out your tongue and say: "ah."
+{30575}{30612}You better move back.
+{30659}{30696}Have you been drinking?
+{30698}{30747}Doctor, I am gassed.
+{30762}{30794}What were you drinking?
+{30795}{30848}Well, bourbon. See, these two fellas--
+{30850}{30914}-How much would you say you drank?|-What?
+{30915}{30993}-How much would you say you drank?|-About this much.
+{31008}{31097}Mr. Thornhill, my opinion|is that you are definitely intoxicated.
+{31099}{31128}No question about it.
+{31130}{31182}I won't ask your permission to draw blood.
+{31183}{31208}How disgusting!
+{31210}{31270}"You may refuse to permit a blood test|to be made...
+{31272}{31332}"...but if you do,|your license will be revoked."
+{31388}{31467}It was at this point|that Mr. Thornhill succeeded in escaping...
+{31468}{31542}...from his would-be assassins,|and when they gave chase...
+{31544}{31642}...he, naturally, had to drive|as best he could under the circumstances.
+{31672}{31711}How long have you known your client?
+{31716}{31750}Seven years, Your Honor.
+{31751}{31803}Do you know him to be a reasonable man?
+{31809}{31840}Absolutely.
+{31887}{31911}Mother!
+{31917}{31987}Do you believe there is some credence|to this story?
+{31999}{32020}Credence!
+{32022}{32096}Yes, Your Honor. If my client says|this is what happened...
+{32099}{32143}...I'm certain it must've happened.
+{32144}{32166}Damn right.
+{32192}{32273}I want this turned over|to the County Detectives for investigation.
+{32275}{32329}Call them and have them|come here immediately.
+{32331}{32357}Right, Your Honor.
+{32359}{32473}Counselor, I'm going to set this over|for final disposition tomorrow at 7:30 p.m.
+{32491}{32578}I expect you and the defendant to be here,|ready to go to trial.
+{32579}{32679}In the meantime, the County Detectives'll|determine if his story has any basis in fact.
+{32701}{32791}"Basis in fact"? lf I were brought in dead,|you still wouldn't believe--
+{32792}{32816}Wait a minute.
+{32818}{32887}After all, Your Honor,|would I make up such a story?
+{32893}{32980}That is precisely what were intending|to find out, Mr. Thornhill.
+{33444}{33472}Remember me?
+{33475}{33508}-Yes, sir.|-Good.
+{33510}{33594}-Is Mr. Townsend at home?|-No, I'm sorry he's left for the day.
+{33595}{33625}Mrs. Townsend?
+{33643}{33714}-Who shall I say is calling?|-County Detectives.
+{33715}{33751}Come in, please.
+{33991}{34028}This way, please.
+{34278}{34311}This is the room.
+{34313}{34342}I'll call Madam.
+{34343}{34367}You do that.
+{34368}{34418}Here's the sofa where they held me down.
+{34419}{34498}They spilled bourbon all over it.|I'll show you the stains.
+{34563}{34614}Somebody must've cleaned them off.
+{34623}{34681}This is the cabinet|where they keep the liquor.
+{34683}{34722}Scotch, gin, vodka....
+{34769}{34800}And bourbon.
+{34860}{34920}I remember when it used to come|in bottles.
+{35022}{35103}Dear, we were so worried about you!
+{35123}{35163}Did you get home all right?
+{35165}{35191}Of course you did.
+{35193}{35277}Let me look at you.|A little pink-eyed, but aren't we all?
+{35279}{35343}It was a dull party.|You didn't miss a thing.
+{35353}{35446}I want you all to know,|I never saw this woman before last night.
+{35449}{35523}Mrs. Townsend, I'm Capt. Junket|of the Nassau County Detectives.
+{35525}{35554}This is Lt. Harding.
+{35592}{35649}You haven't gotten into trouble, Roger?
+{35651}{35711}-Stop calling me Roger.|-Has he gotten into trouble?
+{35713}{35819}Mr. Thornhill was picked up last night|driving under the influence of alcohol...
+{35820}{35865}...incidentally, in a stolen car...
+{35867}{35890}Stolen car!
+{35891}{35951}...belonging to Mrs. Babson|of Twining Road.
+{35953}{36011}Roger, you said you were going|to call a cab.
+{36012}{36070}You didn't borrow Laura's Mercedes?
+{36075}{36131}No, I didn't borrow Laura's Mercedes!
+{36135}{36240}Mr. Thornhill has told us that he was|brought here against his will last night...
+{36242}{36358}...and forcibly intoxicated by some friends|of your husband and set out on the road.
+{36359}{36408}Do you know anything about this?
+{36423}{36503}Roger was a bit tipsy|when he arrived here by cab for dinner.
+{36505}{36527}She's lying.
+{36528}{36610}And I'm afraid he became even worse|as the evening wore on.
+{36611}{36689}Finally, he told us he had to go home|to sleep it off.
+{36692}{36751}I knew I should've served dinner earlier.
+{36753}{36788}What a performance!
+{36795}{36879}Mrs. Townsend, does the name|George Kaplan mean anything to you?
+{36883}{36912}George Kaplan?
+{36937}{36975}-No.|-I didn't think so.
+{36997}{37066}Where's her husband?|He's the one you should be questioning.
+{37067}{37110}Is there any place he can be reached?
+{37111}{37155}Yes. The United Nations.
+{37206}{37275}He's addressing the General Assembly|this afternoon.
+{37325}{37386}All right. So he's addressing|the General Assembly.
+{37387}{37455}-Sorry we had to bother you.|-No bother at all.
+{37531}{37572}Now, wait a minute.
+{37712}{37779}Do you want to get in touch|with my husband, Captain?
+{37780}{37836}No, Mrs. Townsend,|that won't be necessary.
+{37838}{37911}Do you mean you're not going|to do any more about this?
+{37935}{37979}Pay the two dollars.
+{38358}{38381}Goodbye.
+{39033}{39123}-I don't see why you want me along.|-You lend a certain air of respectability.
+{39125}{39167}Don't be sarcastic, Roger.
+{39440}{39500}There you are, dear. Park yourself there.
+{39510}{39543}Well, here it goes.
+{39569}{39595}Hello, Operator.
+{39597}{39659}Have you got a George Kaplan|staying here?
+{39695}{39725}That's right.
+{39742}{39766}You have?
+{39769}{39800}Room 796.
+{39826}{39867}Ring it, will you please?
+{39875}{39918}-You see?|-I see.
+{39920}{40011}I hope he clears up this silly business.|You're ruining my whole day.
+{40063}{40116}Did he leave word when he'd be back?
+{40144}{40171}Really?
+{40179}{40206}Thank you.
+{40232}{40306}That's odd. He hasn't answered|his telephone in two days.
+{40308}{40355}Maybe he got locked in the bathroom.
+{40356}{40404}Mother, do me a favor, will you?
+{40407}{40514}Put on that innocent look you do so well|and go to the desk and get the key to 796.
+{40516}{40559}I wouldn't do such a thing!
+{40561}{40616}-$10?|-Not for all the money in the world.
+{40619}{40677}-$50?|-Roger, you are disgraceful.
+{40791}{40890}Car theft, drunk driving,|assaulting an officer, lying to a judge...
+{40900}{40937}...and now, house-breaking.
+{40939}{41018}-No, hotel-breaking. There's a difference.|-Of five to ten years.
+{41019}{41052}Just a minute, please.
+{41115}{41178}Will you be wanting me|to change your bedding, sir?
+{41179}{41227}Yes. Well, but not right now.
+{41229}{41308}I mention it, because the bed|doesn't seem like it's been slept in...
+{41310}{41383}...and I was wondering|if I ought to change the linens.
+{41386}{41430}Thank you for your interest.
+{41467}{41491}Come on.
+{41579}{41630}She seemed to think I'm Kaplan.
+{41651}{41698}I wonder if I look like Kaplan.
+{41960}{42007}-Look who's here.|-Who? Where?
+{42015}{42100}Our friend who's assembling|the General Assembly this afternoon.
+{42111}{42155}Roger, I think we should go.
+{42163}{42188}Don't be nervous.
+{42190}{42287}-I'm not. I'll be late for the bridge club.|-Good. You'll lose less than usual.
+{42648}{42713}Bulletin, Kaplan has dandruff.
+{42715}{42762}In that case, I think we should leave.
+{42763}{42791}Too late.
+{42923}{42995}-You rang for me, sir?|-Yes. Come in for a moment.
+{43020}{43074}-What's your name?|-Elsie, sir.
+{43136}{43200}-Do you know who I am?|-You're Mr. Kaplan.
+{43220}{43280}When did you first see me?
+{43289}{43315}Outside the door.
+{43331}{43406}Out in the hall a couple of minutes ago.|Don't you remember?
+{43407}{43460}Is that the first time you laid eyes on me?
+{43462}{43520}Can I help it if you're never around,|Mr. Kaplan?
+{43522}{43570}Then how do you know I'm Mr. Kaplan?
+{43572}{43624}-What?|-How do you know I'm Mr. Kaplan?
+{43626}{43660}Of course you are.
+{43662}{43704}This is Room 796, isn't it?
+{43711}{43779}So, you're the gentleman in Room 796,|aren't you?
+{43805}{43839}All right, Elsie, thanks.
+{43841}{43908}-Will that be all, sir?|-For the time being, yes.
+{44050}{44074}Valet.
+{44077}{44106}Yes, come in.
+{44135}{44210}-Should I hang it in the closet, Mr. Kaplan?|-Yes, please.
+{44361}{44388}Tell me....
+{44395}{44452}What time did I give you that suit?
+{44479}{44527}Last night. Around 6:00.
+{44552}{44615}-Did I give it to you personally?|-Personally?
+{44617}{44702}No. You called down on the phone|and described the suit to me.
+{44704}{44783}Said it would be hanging in your closet.|Like you always do.
+{44792}{44850}-Anything wrong?|-No, I'm just curious.
+{44861}{44903}-Here. Thanks.|-Thank you.
+{44913}{44959}Nice to meet you, Mr. Kaplan.
+{45065}{45109}Isn't that the damnedest thing?
+{45111}{45195}I'm beginning to think that no one|in the hotel has actually seen Kaplan.
+{45197}{45269}Maybe he has his suits mended|by invisible weavers.
+{45417}{45454}Let me see something.
+{45608}{45667}I don't think that one does|anything for you.
+{45794}{45828}Now, that's much better.
+{45848}{45927}Obviously they've mistaken me|for a much shorter man.
+{46031}{46077}-Should l?|-Certainly not.
+{46122}{46154}Hold that.
+{46268}{46328}It's good to find you in, Mr. Kaplan.
+{46337}{46366}Who is this?
+{46367}{46444}We met only last night and still|you do not recognize my voice.
+{46446}{46492}I should feel offended.
+{46498}{46575}Yes, I know who you are|and I'm not Mr. Kaplan.
+{46583}{46670}Of course not. You answer his telephone,|you live in his hotel room...
+{46672}{46724}...and yet you are not Mr. Kaplan.
+{46726}{46791}Nevertheless,|we are pleased to find you in.
+{46815}{46844}Now wait....
+{46880}{46911}Operator?
+{46929}{47007}Operator, this is Mr. Thorn....|Kaplan in 796.
+{47015}{47102}Where did that call come from?|From the outside or from the lobby?
+{47103}{47163}-Just a minute. I'll see.|-Hurry, please.
+{47164}{47188}Who was it?
+{47191}{47247}One of the men|who tried to kill me last night.
+{47248}{47288}We're back to that one, are we?
+{47340}{47421}-That call was made from the lobby, sir.|-It was?
+{47438}{47490}They're probably on their way up here.
+{47492}{47577}-Let's get out of here.|-I think I'd like to meet these killers.
+{48633}{48711}You gentlemen aren't really trying|to kill my son, are you?
+{49268}{49317}Lobby, please. Watch your step.
+{49339}{49420}Gentlemen, please. Ladies first.|Come along, ladies.
+{49422}{49469}That's right. Come along. Good.
+{49505}{49552}Roger, will you be home for dinner?
+{49647}{49709}-Where to?|-I don't know. Just keep going.
+{50091}{50154}-Take me to the United Nations.|-Right.
+{50156}{50197}General Assembly Building.
+{50199}{50223}Right.
+{50225}{50295}-I'm being followed. Can you do anything?|-Yes, I can.
+{50296}{50309}Do it.
+{51107}{51146}-May I help you?|-Yes, please.
+{51148}{51199}Where will I find Mr. Lester Townsend?
+{51201}{51255}Mr. Lester Townsend of UNIPO?
+{51264}{51319}Did you have an appointment, sir?
+{51332}{51378}Well, yes. He expects me.
+{51379}{51417}Your name, please?
+{51419}{51458}-My name?|-Yes, please.
+{51475}{51513}Kaplan. George Kaplan.
+{51570}{51610}One moment, please.
+{51753}{51803}Wait for me at the corner of 47th.
+{51979}{52078}If you'd give this to one of the attendants|in the public lounge, she'll page him.
+{52080}{52148}-Thank you very much.|-You're welcome, Mr. Kaplan.
+{52687}{52738}Page Mr. Lester Townsend, please?
+{52740}{52785}Certainly, Mr. Kaplan.
+{52791}{52830}Mr. Townsend of UNIPO.
+{52832}{52877}Mr. Townsend of UNIPO.
+{52880}{52968}Please call at the communications desk|of the Public Lounge.
+{53183}{53212}You paged me?
+{53218}{53251}-Mr. Kaplan?|-Yes.
+{53252}{53329}You wanted to see Mr. Townsend.|This is Mr. Townsend.
+{53331}{53375}How do you do, Mr. Kaplan?
+{53386}{53429}This isn't Mr. Townsend.
+{53432}{53463}Yes, it is.
+{53487}{53548}There must be some mistake.|Mr. Lester Townsend?
+{53550}{53610}That's me. What can I do for you?
+{53703}{53755}Are you the Townsend|who lives in Glen Cove?
+{53757}{53811}That's right. Are we neighbors?
+{53834}{53906}A large, red-brick house|with a curved, tree-lined driveway?
+{53907}{53943}That's the one.
+{53967}{54012}Were you at home last night?
+{54014}{54057}-You mean in Glen Cove?|-Yes.
+{54059}{54127}I've been staying in my apartment|in town for the last month.
+{54128}{54185}I always do when we're in session here.
+{54187}{54221}What about Mrs. Townsend?
+{54233}{54292}My wife has been dead for many years.
+{54295}{54346}Mr. Kaplan, what's this all about?
+{54358}{54411}Who are those people living in your house?
+{54413}{54472}What people?|The house is completely closed up.
+{54483}{54554}There's just a gardener and his wife|living on the grounds.
+{54555}{54619}Now, Mr. Kaplan, tell me who you are|and what you want.
+{54743}{54782}Do you know this man?
+{54981}{55005}Look!
+{55118}{55154}He's got a knife! Look out!
+{55156}{55217}Listen to me.|I had nothing to do with this.
+{55224}{55282}-Call the police.|-Don't come any nearer!
+{55286}{55310}Get back!
+{55693}{55766}UNITED STATES INTELLIGENCE AGENCY
+{55776}{55856}"The photograph has been identified|as that of Roger Thornhill...
+{55859}{55972}"...a Manhattan advertising executive,|indicating that the name George Kaplan...
+{55975}{56054}"...which he gave to an attendant|in the General Assembly Building...
+{56056}{56085}"...was false.
+{56104}{56191}"A possible motive for the slaying|was suggested by the discovery...
+{56198}{56291}"...that earlier today, Thornhill appeared|in a Glen Cove police court...
+{56291}{56366}"...charged with drunk driving|with a stolen car...
+{56392}{56476}"...and in his defense he charged|that the murder victim, Mr. Townsend...
+{56478}{56540}"...had tried to kill him the night before."
+{56544}{56567}Brother!
+{56574}{56608}What about that?
+{56628}{56684}Does anyone know this Thornhill?
+{56697}{56723}No, not me.
+{56725}{56755}Never heard of him.
+{56767}{56793}Professor?
+{56797}{56883}Apparently, the poor sucker got mistaken|for George Kaplan.
+{56893}{56974}How could he be mistaken for|George Kaplan when he doesn't even exist?
+{56976}{57055}Don't ask me how it happened,|but obviously it happened.
+{57056}{57148}Vandamm's men must have grabbed him|and tried to put him away...
+{57152}{57198}...using Lester Townsend's house.
+{57200}{57280}And the unsuspecting Townsend winds up|with a stray knife in his back.
+{57308}{57345}C'est la guerre.
+{57352}{57415}It's so horribly sad.|Why is it I feel like laughing?
+{57417}{57458}What are we going to do?
+{57460}{57481}Do?
+{57488}{57531}About Mr. Thornhill?
+{57547}{57607}We...do nothing!
+{57634}{57651}Nothing?
+{57660}{57698}That's right. Nothing.
+{57713}{57811}We could congratulate ourselves|on a marvelous stroke of good fortune.
+{57840}{57939}Our non-existent decoy, George Kaplan,|created to divert suspicion...
+{57940}{58035}...from our actual agent,|has fortuitously become a live decoy.
+{58037}{58072}Yes, Professor.
+{58074}{58131}How long do you think he'll stay alive?
+{58154}{58193}That's his problem.
+{58196}{58236}What Mrs. Finley means--
+{58241}{58272}I know what she means.
+{58274}{58351}We can't sit back calmly and wait to see|who kills him first!
+{58352}{58400}Vandamm and company or the police?
+{58432}{58515}What can we do to save him|without endangering our own agent?
+{58523}{58583}Aren't we being just a wee bit callous?
+{58589}{58651}No, my dear woman,|we're not being callous.
+{58661}{58761}We didn't invent our non-existent man|and give him the name of George Kaplan...
+{58763}{58835}...establish elaborate behavior patterns|for him...
+{58837}{58947}...move his prop belongings in and out|of hotel rooms, for our private amusement.
+{58968}{59011}We created George Kaplan...
+{59014}{59074}...and labored successfully|to convince Vandamm...
+{59076}{59171}...that this was our agent hot on his trail|for a desperately important reason.
+{59189}{59227}Nobody's denying that!
+{59232}{59260}Very well, then.
+{59262}{59370}If we make the slightest move to suggest|there's no such agent as George Kaplan...
+{59372}{59479}...give any hint to Vandamm he's pursuing|a decoy instead of our own agent...
+{59480}{59561}...then our agent, working right under|Vandamm's very nose...
+{59575}{59639}...will immediately face suspicion,|exposure...
+{59655}{59694}...and assassination.
+{59725}{59770}Like the two others who went before.
+{59777}{59852}Goodbye, Mr. Thornhill, wherever you are.
+{60058}{60113}Train number 25...
+{60127}{60202}...the 20th Century Limited...
+{60223}{60327}...due to leave in 6:00 p.m. for Chicago....
+{60448}{60484}Yes, dear. I know.
+{60495}{60570}Now, listen to me, Mother,|I called the Plaza.
+{60580}{60658}Kaplan checked out and went|to the Ambassador East in Chicago.
+{60660}{60694}That's why I'm--
+{60712}{60775}I can't go to the police. At least not yet.
+{60778}{60845}You saw the newspapers.|My fingerprints are on the knife.
+{60847}{60921}I'm a car thief, a drunk driver,|and a murderer.
+{60925}{60961}I wouldn't have a chance.
+{60963}{61075}I won't have, until I find George Kaplan|who obviously knows what this is about.
+{61079}{61127}No, the train. It's safer.
+{61143}{61238}Because there's no place to hide on a plane|if anyone should recognize me.
+{61258}{61316}You want me to jump off a moving plane?
+{61347}{61411}Well, thank you so much, Mother.|Goodbye.
+{61744}{61787}MANHUNT ON FOR U. N. KILLER
+{62348}{62409}Give me a bedroom|on the 20th Century, please.
+{62411}{62448}It's leaving in five minutes.
+{62450}{62492}I know. Will you make it snappy?
+{62494}{62540}I think they're all sold out.
+{62544}{62566}Sold out?
+{62568}{62608}You can always go coach.
+{62612}{62676}No, I can't do that.|What time is the next train?
+{62678}{62749}Nothing till 10:00. You're in a hurry, huh?
+{62766}{62827}Could you call them|and see what they have?
+{62828}{62868}Something wrong with your eyes?
+{62870}{62945}Yes, they're sensitive to questions.|Will you call them?
+{62949}{62981}Sure. Sure.
+{63057}{63081}Don't go away!
+{63309}{63374}He's at Window 15, upper level. Hurry.
+{63421}{63463}You're in luck, mister.
+{63639}{63699}-Ticket?|-I'm just seeing some friends off.
+{63742}{63779}I have to know their names.
+{63805}{63833}Come here!
+{64615}{64635}I'm sorry.
+{64636}{64679}-I'm sorry.|-My fault.
+{64704}{64728}Sorry.
+{64958}{65008}He went that way. I think he got off.
+{65026}{65062}All aboard!
+{65153}{65208}-Thank you.|-Quite all right.
+{65209}{65254}Seven parking tickets.
+{67167}{67220}-Good evening, sir. One?|-Please.
+{67559}{67593}A cocktail before dinner?
+{67595}{67648}-Yes, please. A Gibson.|-Right away.
+{67887}{67915}Here we are again.
+{67935}{67957}Yes.
+{68005}{68037}You recommend anything?
+{68039}{68127}The brook trout.|A little "trouty" but quite good.
+{68148}{68171}Sold.
+{68224}{68255}"Brook...
+{68261}{68286}"...trout."
+{68300}{68341}-There you are.|-Yes, sir.
+{68636}{68681}I know. I look vaguely familiar.
+{68683}{68705}Yes.
+{68716}{68773}You feel you've seen me|somewhere before.
+{68818}{68886}I have that effect on people.|It's something about my face.
+{68918}{68956}It's a nice face.
+{68979}{69050}-You think so?|-I wouldn't say it if I didn't.
+{69071}{69114}Oh, you're that type.
+{69116}{69142}What type?
+{69151}{69176}Honest.
+{69192}{69216}Not really.
+{69234}{69291}Good. Because honest women|frighten me.
+{69293}{69316}Why?
+{69333}{69396}Somehow they seem to put me|at a disadvantage.
+{69403}{69477}-Because you're not honest with them?|-Exactly.
+{69483}{69559}Like that business about|the seven parking tickets?
+{69561}{69639}What I mean is,|the moment I meet an attractive woman...
+{69672}{69757}...l have to start pretending I've no desire|to make love to her.
+{69765}{69817}What makes you think|you have to conceal it?
+{69833}{69880}She might find the idea objectionable.
+{69897}{69942}Then again, she might not.
+{70022}{70080}Think how lucky I am|to have been seated here.
+{70082}{70132}Luck had nothing to do with it.
+{70146}{70162}Fate?
+{70217}{70303}I tipped the steward $5 to seat you here|if you should come in.
+{70411}{70442}Is that a proposition?
+{70483}{70537}I never discuss love on an empty stomach.
+{70560}{70590}You've already eaten.
+{70608}{70634}But you haven't.
+{70818}{70871}Don't you think it's time|we were introduced?
+{70882}{70959}I'm Eve Kendall. I'm 26 and unmarried.
+{70988}{71029}Now you know everything.
+{71047}{71135}What do you do besides lure men|to their doom on the 20th Century Limited?
+{71141}{71184}I'm an industrial designer.
+{71230}{71257}Jack Phillips.
+{71259}{71328}Western sales manager|for Kingby Electronics.
+{71332}{71389}No, you're not. You're Roger Thornhill...
+{71399}{71432}...of Madison Avenue...
+{71433}{71507}...and you're wanted for murder|on every front page in America.
+{71517}{71558}Don't be so modest.
+{71632}{71654}Don't worry.
+{71667}{71717}-I won't say a word.|-How come?
+{71749}{71782}I told you.
+{71796}{71821}It's a nice face.
+{71834}{71868}Is that the only reason?
+{71881}{71919}It's going to be a long night.
+{71958}{71980}True.
+{71987}{72046}I don't particularly like the book|I've started.
+{72092}{72121}You know what I mean?
+{72157}{72191}Let me think.
+{72288}{72327}I know exactly what you mean.
+{72564}{72599}R.O.T.
+{72635}{72675}That's my trademark. R.O.T.
+{72696}{72753}Roger O. Thornhill.|What does the "O" stand for?
+{72780}{72807}Nothing.
+{73367}{73435}I'd invite you to my bedroom|if I had a bedroom.
+{73449}{73470}A roomette?
+{73472}{73508}Nothing, not even a ticket.
+{73512}{73601}I've been playing hide-and-seek|ever since the train left New York.
+{73626}{73656}How awkward for you.
+{73660}{73684}Yes, isn't it?
+{73688}{73715}No place to sleep.
+{73752}{73804}I have a large drawing-room all to myself.
+{73824}{73863}That doesn't seem quite fair.
+{73892}{73924}Drawing-room E.
+{73944}{73986}Car 3901 .
+{74009}{74042}Such a nice number.
+{74080}{74124}It's easy to remember.
+{74127}{74162}3901 .
+{74194}{74214}See?
+{74252}{74275}No luggage.
+{74363}{74383}So?
+{74388}{74463}You wouldn't happen to have|an extra pair of pajamas, would you?
+{74469}{74496}Wouldn't l?
+{74546}{74600}I wouldn't order any dessert if I were you.
+{74625}{74653}I get the message.
+{74675}{74715}That isn't exactly what I meant.
+{74732}{74792}The train seems to be making|an unscheduled stop.
+{74794}{74879}I saw two men get out of a police car|as we pulled into the station.
+{74896}{74926}They weren't smiling.
+{75462}{75528}You better go out|and tell those police to hurry.
+{75530}{75568}Patience is a virtue.
+{75571}{75607}So is breathing.
+{75610}{75646}Just lie still.
+{75686}{75729}Have you got any olive oil?
+{75731}{75760}Olive oil?
+{75765}{75837}I want to be packed in olive oil|if I'm going to be a sardine.
+{75879}{75898}Come in.
+{75942}{75995}-Who are you?|-State Police.
+{76024}{76060}Your name please?
+{76061}{76119}Eve Kendall. Is anything wrong?
+{76123}{76185}There was a man at your table tonight|in the dining car.
+{76204}{76227}Yes.
+{76231}{76267}Friend of yours?
+{76280}{76313}I never saw him before.
+{76346}{76379}Is this the man?
+{76415}{76486}Yes, I think so.|It's not a very clear picture.
+{76496}{76569}It's a wire-photo.|We just got it from the New York police.
+{76571}{76592}Police?
+{76594}{76626}He's wanted for murder.
+{76657}{76696}Good heavens, no!
+{76708}{76767}The steward said|you left the dining car together.
+{76782}{76868}We might have happened to leave|at the same time but not together.
+{76888}{76924}What did you two talk about?
+{76949}{76972}Talk about?
+{76973}{77047}The waiter said you were getting along fine|with this Thornhill.
+{77050}{77089}Is that his name? Thornhill?
+{77122}{77154}He didn't tell you?
+{77180}{77231}He didn't tell me anything.
+{77236}{77315}All we did was chat about|different kinds of food...
+{77316}{77391}...train travel versus plane travel,|that sort of thing.
+{77404}{77499}Rather innocuous, I must say,|considering he was a fugitive from justice.
+{77512}{77538}Who did he kill?
+{77541}{77584}He didn't say where he was going?
+{77608}{77632}No.
+{77635}{77674}I assumed Chicago.
+{77684}{77733}Perhaps he got off when you got on?
+{77764}{77816}If you happen to see him again, Miss...
+{77826}{77850}Kendall.
+{77854}{77895}...will you let us know?
+{77910}{78019}I'm going to bed and I'll lock my door.|I doubt if I'll see anybody else tonight.
+{78024}{78108}In case you do, we'll be in|the observation car at the rear of the train.
+{78131}{78168}It's comforting to know that.
+{78205}{78231}Good night.
+{78280}{78314}Still breathing?
+{78316}{78371}Either hurry up or get me a snorkel.
+{78396}{78479}I'm looking for the can opener|I stole from the porter.
+{78605}{78639}Hello, there.
+{78646}{78671}Hello.
+{78971}{79024}Tell me, why are you so good to me?
+{79056}{79104}Shall I climb up and tell you why?
+{79444}{79479}I've been thinking...
+{79495}{79591}...it's not safe for you to roam Chicago|looking for this George Kaplan...
+{79593}{79642}...you've been telling me about.
+{79653}{79739}You'll be picked up by the police|the moment you show your face.
+{79750}{79790}It's such a nice face, too.
+{79857}{79974}Don't you think it'd be a better idea|if you stayed in my hotel room...
+{79986}{80072}...while I located him for you|and brought him to you?
+{80092}{80156}I can't let you get involved.|It's too dangerous.
+{80183}{80216}I'm a big girl.
+{80249}{80309}Yeah, and in all the right places, too.
+{80432}{80501}You know, this is ridiculous.|You know that, don't you?
+{80503}{80525}Yes.
+{80533}{80582}I mean, we've hardly met.
+{80587}{80616}That's right.
+{80634}{80687}How do I know you aren't a murderer?
+{80700}{80730}You don't.
+{80744}{80828}Maybe you're planning to murder me,|right here, tonight.
+{80850}{80877}Shall l?
+{80908}{80938}Please do.
+{81438}{81479}Beats flying, doesn't it?
+{81538}{81574}We should stop.
+{81582}{81614}Immediately.
+{81628}{81676}I ought to know more about you.
+{81694}{81732}What more could you know?
+{81801}{81855}You're an advertising man,|that's all I know.
+{81869}{81899}That's right.
+{81961}{82015}The train's a little unsteady.
+{82016}{82046}Who isn't?
+{82068}{82112}What else do you know?
+{82145}{82223}You've got taste in clothes, taste in food....
+{82292}{82361}And taste in women. I like your flavor.
+{82565}{82616}You're very clever with words.
+{82624}{82688}You can probably make them|do anything for you.
+{82716}{82770}Sell people things they don't need...
+{82774}{82847}...make women who don't know you|fall in love with you.
+{82907}{82971}I'm beginning to think I'm underpaid.
+{83299}{83328}Look out.
+{83607}{83674}-Don't bother with the washroom.|-Yes, ma'am.
+{83676}{83746}By the way, I found this on the floor.|Does it belong to you?
+{83748}{83799}Yes, ma'am. I've been looking for it.
+{83800}{83852}-I'll wait outside.|-Thank you.
+{84261}{84287}Thank you, Porter.
+{84296}{84340}Thank you, ma'am. Good night now.
+{84342}{84372}Good night.
+{84477}{84532}Come out, come out, wherever you are.
+{84653}{84680}The porter.
+{84734}{84764}So I see.
+{84967}{85001}Where were we?
+{85004}{85031}Here.
+{85162}{85210}Nice of him to have opened the bed.
+{85261}{85292}Only one bed.
+{85349}{85405}That's a good omen, don't you think?
+{85407}{85436}Wonderful.
+{85471}{85515}Do you know what that means?
+{85535}{85566}What? Tell me.
+{85592}{85658}It means you'll sleep on the floor.
+{86180}{86228}A message from the lady in 3901 .
+{86355}{86451}What do I do with him|in the morning? Eve.
+{87285}{87345}-You keep walking. I'll catch up.|-Yes, ma'am.
+{87384}{87416}Anything to report?
+{87440}{87485}Yes. I had a fine night's sleep.
+{87504}{87562}I mean, have you seen the man|we're looking for?
+{87579}{87607}Mr. Thornycroft?
+{87630}{87652}Thornhill.
+{87693}{87740}No, no. I'm awfully sorry.
+{87753}{87796}But good luck to you both.
+{87906}{87984}-How are we doing?|-I may collapse at any moment.
+{87995}{88063}Not yet. First we have to run the gauntlet.|Look.
+{88204}{88298}I'm accustomed to having a load on,|but what have you got in these bags?
+{88300}{88361}-Bowling balls, naturally.|-Oh, naturally.
+{88369}{88418}Which one of these has my suit in it?
+{88420}{88477}The small one underneath your right arm.
+{88479}{88537}Thanks. That ought to do the suit|a lot of good.
+{88540}{88596}I'm sure Mr. Kaplan won't mind|a few wrinkles.
+{88601}{88663}Yeah, if he's still there. What time is it?
+{88673}{88699}9:10.
+{88701}{88773}9:10! He may have left|his hotel room by now.
+{88775}{88843}I'll call him for you as soon|as we get inside the station.
+{88844}{88879}Thank you. I can do it.
+{88880}{88952}A redcap in a phone booth?|Slightly suspicious.
+{88986}{89052}All right. Do you know|what you'll tell him?
+{89060}{89147}You want to see him right away.|Terribly urgent. Matter of life and death.
+{89149}{89191}-No explanations.|-Right.
+{89204}{89263}While I'm calling,|you can change your clothes.
+{89265}{89348}Where do you propose I do that?|In Marshall Field's window?
+{89350}{89405}I sort of had the men's room in mind.
+{89412}{89443}Did you, now?
+{89467}{89551}You're the smartest girl|I ever spent the night with on a train.
+{89831}{89866}I think we made it.
+{89959}{89987}Where did he go?
+{89989}{90042}-Which way did he go?|-Where did he go?
+{90044}{90117}I don't know. He took my clothes.|He went up that way.
+{93371}{93402}What took you so long?
+{93404}{93484}I have a big face. Small razor.|Tell me, did you get Kaplan?
+{93486}{93508}Yes.
+{93513}{93547}Fine. What did he say?
+{93548}{93622}He'll see you but not at the hotel|under any circumstances.
+{93624}{93680}-He'll see you on the outside.|-Where? When?
+{93682}{93742}-I've got it all written down for you.|-Thanks.
+{93744}{93803}Take the Greyhound Bus|that leaves Chicago...
+{93804}{93924}...for Indianapolis at 2:00 and ask the driver|to let you off at Prairie Stop, Highway 41 .
+{93950}{93998}Prairie Stop, Highway 41 . Good.
+{94000}{94059}It's about an hour-and-a-half's drive|from Chicago.
+{94060}{94092}Fine. I'll rent a car.
+{94094}{94192}No car. Mr. Kaplan said bus.|He wants to be sure you're alone.
+{94204}{94267}All right. What'll I do when I get there?
+{94269}{94328}Just wait beside the road.|He'll be there at 3:30.
+{94330}{94379}-How will I know him?|-He'll know you.
+{94381}{94431}You made the Chicago papers, too.
+{94476}{94527}Have you set your watch for Central time?
+{94531}{94575}Yes, I did that. Thanks.
+{94596}{94632}What's the matter?
+{94633}{94652}Matter?
+{94664}{94722}Yes, you seem.... I don't know.|You seem tense.
+{94724}{94784}You better go before the police|run out of red caps.
+{94797}{94844}We'll see each other again, won't we?
+{94864}{94905}Sometime, I'm sure.
+{94932}{94992}I never had a moment|to thank you properly.
+{94993}{95049}-Please go.|-But where will I find you?
+{95073}{95114}I've got to pick up my bags now.
+{95128}{95198}Yes. These are the checks|for the large cases.
+{95200}{95230}Wait a minute.
+{95247}{95272}Please.
+{95316}{95340}They're coming.
+{101758}{101803}-Hot day.|-I've seen worse.
+{101881}{101936}Are you supposed|to be meeting someone here?
+{101938}{102003}I'm waiting for the bus.|It's due any minute.
+{102040}{102121}Some of them crop-duster pilots get rich|if they live long enough.
+{102228}{102275}Then your name isn't Kaplan?
+{102292}{102341}Can't say it is, 'cause it ain't.
+{102364}{102414}Here she comes. Right on time.
+{102505}{102543}-That's funny.|-What?
+{102559}{102622}That plane's dusting crops|where there ain't no crops.
+{108225}{108285}Get out of here! The other tank may blow!
+{108556}{108588}What happened?
+{109221}{109247}Come back!
+{109266}{109311}Come back! Come back!
+{110560}{110639}Could you let me have|Mr. George Kaplan's room number, please?
+{110641}{110669}Kaplan?
+{110676}{110719}I think he checked out.
+{110748}{110773}Checked out?
+{110775}{110843}That's right.|He checked out at 7:10 this morning.
+{110845}{110881}7:10? Are you sure?
+{110886}{110935}Yes. He left a forwarding address.
+{110936}{111009}Hotel Sheraton-Johnson,|Rapid City, South Dakota.
+{111014}{111040}7:10?
+{111062}{111124}Then how come I got a message|from him at 9:00....
+{111126}{111153}What's that?
+{111238}{111267}Nothing.
+{111940}{111989}Sorry to bother you again.
+{111993}{112067}Miss Eve Kendall is expecting me.|She's in room four-something.
+{112068}{112128}I've forgotten the number.|Would you mind?
+{112355}{112415}-She's in 463.|-Yes, that's right. Thanks.
+{113052}{113077}Hello.
+{113233}{113257}Surprised?
+{113284}{113307}Yes.
+{113336}{113380}No getting rid of me, is there?
+{113666}{113708}I could use a drink.
+{113751}{113784}I have some scotch.
+{113785}{113827}With water. No ice.
+{113944}{114031}Two Die As Crop-Duster Plane Crashes|Craft Hits Oil Tanker, Drivers Escape
+{114040}{114083}How did it go today?
+{114162}{114209}The meeting with Kaplan?
+{114259}{114299}He didn't show up.
+{114360}{114397}It's funny, isn't it?
+{114420}{114440}Why funny?
+{114456}{114559}After all those explicit directions|he gave you on the phone.
+{114597}{114639}Maybe I copied them down wrong.
+{114653}{114748}I don't think you got them wrong.|I think you sent me to the right place.
+{114821}{114894}Why don't you call him back again|and see what happened?
+{114896}{114969}I did. He checked out.|Went to South Dakota.
+{114997}{115027}South Dakota?
+{115041}{115072}Rapid City.
+{115120}{115160}What are you going to do next?
+{115184}{115222}I haven't made my mind up yet.
+{115232}{115275}It may depend on you.
+{115314}{115339}On me?
+{115347}{115373}Sure.
+{115401}{115454}You're my little helper, aren't you?
+{115461}{115487}Thank you.
+{115489}{115571}To us. To a long and lasting friendship.
+{115587}{115693}Meaning, from now on, I'm not going|to let you out of my sight, sweetheart.
+{115704}{115771}-I'm afraid you'll have to.|-Oh, no.
+{115778}{115875}I do have plans of my own, you know.|And you do have problems.
+{115893}{116005}Wouldn't it be nice if my problems|and your plans were somehow connected?
+{116015}{116074}Then we could always stay close|to each other...
+{116076}{116181}...and not have to go in separate directions.|Togetherness. You know what I mean?
+{116280}{116325}Go ahead, it can't be for me.
+{116606}{116649}No, not yet. I'm not ready.
+{116673}{116700}What time?
+{116716}{116771}I'll meet you. What's the address?
+{116854}{116888}Yes. Goodbye.
+{116968}{116996}Business?
+{117008}{117025}Yes.
+{117027}{117082}Industrial designing business?
+{117168}{117211}All work and no play.
+{117226}{117340}You should be enjoying yourself tonight|instead of taking phone calls from clients.
+{117388}{117443}What about having dinner with me?
+{117447}{117501}You can't afford to be seen anyplace.
+{117503}{117562}Let's have it up here. Nice and cozy.
+{117564}{117591}No, l....
+{117624}{117647}I can't.
+{117687}{117715}I insist.
+{117764}{117822}I want you to do a favor for me.
+{117835}{117885}-A big, big favor.|-Name it.
+{117916}{117959}I want you to leave right now.
+{117978}{118039}Stay far away from me|and don't come near me again.
+{118124}{118164}We're not going to get involved.
+{118180}{118242}Last night was last night|and that's all there was.
+{118259}{118336}That's all there is. There won't be|anything more between us.
+{118352}{118382}So, please....
+{118399}{118422}Goodbye.
+{118435}{118497}Good luck. No conversation. Just leave.
+{118511}{118534}Right away?
+{118549}{118569}Yes.
+{118586}{118619}No questions asked?
+{118633}{118653}Yes.
+{118695}{118723}I can't do that.
+{118728}{118752}Please.
+{118765}{118788}After dinner.
+{118792}{118815}Now.
+{118822}{118858}After dinner. Fair is fair.
+{118923}{118950}All right.
+{118968}{119001}On one condition.
+{119030}{119120}That you let the hotel valet|do something with this suit first.
+{119122}{119180}You belong in the stockyards|looking like that.
+{119182}{119205}Okay.
+{119248}{119283}There's the phone.
+{119416}{119457}Valet service, please.
+{119643}{119693}-Where are we?|-463.
+{119708}{119740}Room 463.
+{119756}{119818}How quickly can you get a suit|sponged and pressed?
+{119820}{119846}Yes, fast.
+{119864}{119911}20 minutes? Fine.
+{119920}{119953}Okay. 463.
+{120035}{120070}He'll be right up.
+{120073}{120126}Better take your things off.
+{120197}{120278}Now, what could a man do|with his clothes off for 20 minutes?
+{120280}{120319}Couldn't he have taken an hour?
+{120321}{120374}You could always take a cold shower.
+{120376}{120405}That's right.
+{120435}{120520}When I was a little boy,|I wouldn't even let my mother undress me.
+{120522}{120554}You're a big boy now.
+{120665}{120757}Tell me, how does a girl like you|get to be a girl like you?
+{120792}{120820}Lucky, I guess.
+{120832}{120903}Not lucky. Naughty. Wicked.|Up to no good.
+{120913}{120939}Ever kill anyone?
+{120978}{121060}Because I bet you could tease a man|to death without half trying.
+{121062}{121097}So, stop trying.
+{121355}{121395}Be with you in a minute.
+{121523}{121552}Trousers, please.
+{121737}{121767}Thank you.
+{121800}{121860}Think I'll take that cold shower after all.
+{121863}{121890}Good.
+{123124}{123143}1212 N. MICHIGAN
+{123593}{123657}This magnificent pair|of Louis Seize Fauteuils.
+{123659}{123745}Original gilt finish.|Upholstered in pure silk damask.
+{123748}{123823}How much may I say to start?|What am I bid?
+{123824}{123887}-$100.|-$100 is bid. Thank you.
+{123897}{123948}$150 is bid here. Say to $200?
+{123958}{123992}Thank you. $200 is bid.
+{123993}{124050}Say to $300? I have $300.
+{124067}{124113}$400 by the little lady.
+{124118}{124144}Thank you, sir.
+{124146}{124207}$450 is bid for the pair. Can I hear $500?
+{124209}{124243}Will you say $500?
+{124248}{124288}Can I say the $500?
+{124301}{124345}Fair warning and last call.
+{124349}{124432}Sold to Mr. Stone, second row. $450.
+{124558}{124595}Lot number 103.
+{124631}{124675}This lovely Aubusson settee.
+{124688}{124764}In excellent condition.|Please start the bidding.
+{124784}{124808}How much?
+{124828}{124914}$800 is offered, thank you.|$800 is bid. Say the nine? Go $900.
+{124922}{124944}$900 is bid.
+{124946}{124987}Now who'll say $1,000?
+{124998}{125024}$1,000, thank you.
+{125026}{125074}$1,000 at $1,000. Say $1,100.
+{125082}{125140}Can I hear $1,100? Selling at $1,000.
+{125144}{125187}The three of you together.
+{125194}{125264}Now, that's a picture|only Charles Addams could draw.
+{125266}{125303}Good evening, Mr. Kaplan.
+{125305}{125385}Before we start calling each other names,|you'd better tell me yours.
+{125387}{125451}-I haven't had the pleasure.|-You disappoint me, sir.
+{125473}{125520}I was just going to say that to her.
+{125521}{125593}I've always understood you were|a shrewd fellow at your job.
+{125595}{125664}What possessed you to come|blundering in here like this?
+{125665}{125717}Could it be an overpowering|interest in art?
+{125729}{125771}Yes. The art of survival.
+{125822}{125847}Have you poured any good drunks lately?
+{125904}{125948}He followed me here from the hotel.
+{125973}{126009}He was in your room?
+{126019}{126051}Sure, isn't everybody?
+{126068}{126124}$150. Thank you. Now, say the two.
+{126128}{126154}Do I hear two?
+{126156}{126185}$200, thank you.
+{126187}{126255}Now the three. Do I hear three?|$300, anyone?
+{126256}{126283}$300. Thank you.
+{126284}{126342}Now, the four. Do I hear four?|$400, anyone?
+{126360}{126384}$400 is bid.
+{126386}{126436}Say the five. I have $400.
+{126457}{126549}I didn't realize you were an art collector.|I thought you just collected corpses.
+{126581}{126604}$500.
+{126616}{126647}$500. Thank you.
+{126648}{126727}I'll bet you paid plenty|for this little piece of sculpture.
+{126764}{126787}$700.
+{126790}{126848}She's worth every dollar of it,|take it from me.
+{126875}{126927}She puts her heart into her work.
+{126929}{126972}In fact her whole body.
+{126991}{127038}Sold to Mr. Vandamm at $700.
+{127101}{127150}Oh, Mr. Vandamm.
+{127181}{127301}Has anyone told you that you overplay|your various roles rather severely?
+{127311}{127371}First, you're the outraged|Madison Avenue man...
+{127372}{127432}...who claims he's been mistaken|for someone else.
+{127433}{127472}Then, you play the fugitive...
+{127474}{127539}...trying to clear his name of a crime|he didn't commit.
+{127561}{127619}Now you play the peevish lover...
+{127621}{127667}...stung by jealousy and betrayal.
+{127694}{127766}It seems you fellows could stand|less training from the FBI...
+{127768}{127814}...and more from the Actors' Studio.
+{127842}{127931}Apparently, the only performance|that will satisfy you is when I play dead.
+{127942}{128024}Your very next role.|You'll be quite convincing, I assure you.
+{128054}{128101}Thank you. $375 is bid.
+{128103}{128147}I have $375, go to $400.
+{128148}{128179}$375, go four?
+{128194}{128216}$400 is bid.
+{128218}{128313}I wonder what subtle form of manslaughter|is next on the program.
+{128324}{128386}Am I to be dropped|into a vat of molten steel...
+{128388}{128444}...and become part of a new skyscraper?
+{128456}{128558}Or are you going to ask this female|to kiss me again and poison me to death?
+{128633}{128714}Who are you kidding?|You have no feelings to hurt.
+{128916}{128963}We've had just about enough of you.
+{128965}{129015}Then, why don't you send for the police?
+{129064}{129148}That's the last thing you'd want, isn't it?|Me in the hands of the police.
+{129150}{129195}There's something I might tell them.
+{129196}{129263}That's why you had her hustle me|on the train last night.
+{129271}{129362}Something tells me I've got a better|chance of survival if I go to the police.
+{129400}{129468}Good night, sweetheart.|Don't think it wasn't nice.
+{129487}{129570}$1,200 there. $1,200 is bid. Say $1,300?
+{129576}{129619}May I hear $1,300?
+{129630}{129691}They're selling at $1,200.|Do I hear $1,300, please?
+{129720}{129746}Last call.
+{129763}{129832}Sold. $1,200. Thank you.
+{130005}{130043}Catalogue number 109.
+{130072}{130153}This superb example|of this early 17th century master.
+{130167}{130223}It will enhance any collection of fine art.
+{130241}{130298}What is your pleasure?|How much to start?
+{130321}{130356}$1,000.
+{130364}{130396}$1,000 is bid.
+{130412}{130460}$1,250 I have. Now $1,500.
+{130502}{130543}$1,500 is bid. Thank you.
+{130545}{130571}$1,750?
+{130616}{130649}I have $1,750.
+{130652}{130675}$2,000.
+{130677}{130759}$2,000 is bid. I have $2,000.|Do I hear $2,500?
+{130789}{130821}$2,500, anyone?
+{130844}{130870}$2,250 once.
+{130909}{130940}$2,250 twice.
+{130956}{130983}Last call.
+{130988}{131012}$1,500.
+{131050}{131107}But the bid is already up to $2,250, sir.
+{131108}{131144}I still say $1,500.
+{131207}{131247}I have $2,250.
+{131260}{131295}Do I hear $2,500?
+{131310}{131363}$2,250 once, $2,250 twice.
+{131371}{131395}$1,200.
+{131400}{131449}Sold for $2,250. And now--
+{131453}{131500}$2,250, for that chromo?
+{131619}{131671}Number 1 10 in the catalogue.
+{131686}{131751}A Louis Quinze carved|and gilded lit de repos.
+{131764}{131831}Would somebody start the bidding|at $750, please?
+{131839}{131910}How do we know it's not a fake?|It looks like a fake.
+{131986}{132083}One thing we know. You're no fake.|You're a genuine idiot.
+{132095}{132116}Thank you.
+{132136}{132171}I wonder if I could...
+{132173}{132251}...ask the gentleman to get into the spirit|of the proceedings.
+{132252}{132295}All right. I'll start it at $800.
+{132318}{132351}$800. Thank you.
+{132369}{132385}$900?
+{132402}{132449}$1,000 is bid. Go $1,200.
+{132460}{132479}$1,100.
+{132488}{132544}$1,100 is bid. Thank you. Go $1,200.
+{132563}{132590}I have $1,100.
+{132592}{132635}Go $1,200. Who'll say $1,200?
+{132651}{132699}$1,100 once. Who'll say $1,200?
+{132708}{132732}$1,100 twice.
+{132734}{132768}$1,200. Thank you.
+{132770}{132822}$1,200 is bid. I have $1,200. Go $1,300.
+{132824}{132855}Who'll say $1,300?
+{132856}{132880}$13.
+{132948}{132978}You mean $1,300, sir.
+{133016}{133073}No, I mean $13.|That's more than it's worth.
+{133173}{133204}I have $1,200.
+{133209}{133256}Go $1,300. Who'll say $1,300?
+{133282}{133320}Who'll say $1,250?
+{133384}{133414}$1,200 once.
+{133416}{133441}$1,200 twice.
+{133456}{133494}Last call. $1,200.
+{133496}{133520}$2,000.
+{133598}{133621}$2,000?
+{133676}{133695}$2,100.
+{133728}{133766}I'm sorry, but we can't--
+{133768}{133802}Make it $2,500.
+{133938}{133994}Would the gentleman please cooperate?
+{133996}{134031}The last bid was $1,200.
+{134045}{134096}$2,500. My money is as good|as anybody's.
+{134154}{134179}I have--
+{134195}{134236}-What was it?|-$1,200.
+{134258}{134327}I have $1,200 once, $1,200 twice--
+{134336}{134360}$3,000.
+{134361}{134387}Sold for $1,200.
+{134474}{134552}-I won't let you get away with that.|-You'd better leave, sir.
+{134554}{134605}Take your hands off me or I'll sue you.
+{134962}{135021}-What took you so long?|-Let's take a little walk.
+{135023}{135044}Get moving.
+{135046}{135116}I haven't finished bidding yet.|$3,000. I bid $3,000.
+{135139}{135199}I'm sorry, old man. Too bad. Keep trying.
+{135237}{135270}Not so rough!
+{135475}{135527}-Handle with care, fellas.|-In there.
+{135528}{135571}-I'm valuable property.|-In.
+{135676}{135771}I want to thank you for saving my life.|Thank you, my friend. Thank you.
+{135774}{135820}Save it for the stationhouse.
+{135933}{135995}Let's have some smiles and good cheer.
+{136000}{136066}You're about to become heroes.|Don't you know who I am?
+{136099}{136189}We'll find out as soon as we book you|for being drunk and disorderly.
+{136198}{136274}That's chicken feed. You've hit the jackpot.
+{136280}{136361}"Chicago police capture|United Nations killer."
+{136394}{136437}My name is Roger Thornhill.
+{136450}{136473}Here.
+{136563}{136628}-It's him.|-That's right. Congratulations.
+{136684}{136737}This is 1055. Sergeant Flamm.
+{136755}{136840}We've got a man here who answers|to the description of Thornhill, Roger.
+{136853}{136887}Code 76.
+{136896}{136966}Wanted by NYPD. Positive ID.
+{137005}{137043}Absolutely. No question.
+{137086}{137160}Michigan Avenue. Proceeding north|to 42nd precinct.
+{137242}{137266}What?
+{137315}{137336}Come again!
+{137398}{137427}Are you sure?
+{137460}{137496}Okay. Right.
+{137508}{137539}Yeah, I got it.
+{137546}{137586}1055, off and clear.
+{137650}{137700}-Where are we going?|-The airport.
+{137720}{137759}-For what?|-Orders.
+{137779}{137882}Airport? I'm not going to any airport.|I want to be taken to police headquarters.
+{137888}{137915}You do, huh?
+{137931}{137974}Why do you think I sent for you?
+{137976}{138038}How about this guy? He sent for us!
+{138046}{138068}Sit back!
+{138069}{138138}Didn't you hear? I want to be taken|to police headquarters.
+{138140}{138212}I'm a dangerous assassin.|I'm a mad killer on the loose!
+{138214}{138267}You ought to be ashamed of yourself.
+{138542}{138654}NORTHWEST
+{138901}{138932}They said right here.
+{138934}{139011}Does anyone mind if I sit down?|I've been running all day.
+{139281}{139356}Thought I'd never make it.|Getting too old for this kind of work.
+{139370}{139406}All right, men. Thank you.
+{139420}{139490}This way, Mr. Thornhill.|We haven't got much time.
+{139500}{139543}This way is more private.
+{139637}{139679}I don't think I caught your name.
+{139684}{139727}I don't think I pitched it.
+{139745}{139802}You're police, aren't you? Or is it FBI?
+{139812}{139901}FBI, CIA, ONI.|We're all in the same alphabet soup.
+{139919}{140019}You can stick this in your alphabet soup.|I had nothing to do with that killing.
+{140020}{140067}-We know that.|-You know it?
+{140070}{140138}Then why did you let the police|chase me all over the map?
+{140140}{140230}We never interfere with the police|unless absolutely necessary.
+{140244}{140284}It has become necessary.
+{140304}{140355}Then, I take it I'm to be cleared.
+{140359}{140431}I wish you'd walk faster, Mr. Thornhill.|We'll miss the plane.
+{140432}{140487}Where are we going?|New York or Washington?
+{140488}{140537}Rapid City, South Dakota.
+{140546}{140591}Rapid City? What for?
+{140596}{140632}It's near Mt. Rushmore.
+{140634}{140683}No, thank you. I've seen Mt. Rushmore.
+{140684}{140732}So has your friend Mr. Vandamm.
+{140756}{140783}Vandamm?
+{140800}{140843}A rather formidable gentleman.
+{140869}{140928}What about that treacherous|little tramp with him?
+{140930}{140959}Miss Kendall?
+{140964}{141018}His mistress. We know all about her.
+{141054}{141105}Tell me, what's Vandamm up to?
+{141107}{141175}You could say he's a sort|of importer-exporter.
+{141181}{141206}Of what?
+{141249}{141285}Government secrets, perhaps.
+{141299}{141339}Then why don't you grab him?
+{141342}{141412}There's still too much we don't know|about his organization.
+{141414}{141502}I see. What's all this got to do|with Mt. Rushmore?
+{141517}{141565}Vandamm has a place near there.
+{141568}{141650}We think it's his jumping-off point|to leave the country tomorrow night.
+{141652}{141710}-Are you going to stop him?|-No.
+{141712}{141747}Then why are we going there?
+{141760}{141811}To set his mind at ease|about George Kaplan.
+{141851}{141879}Oh, you, huh?
+{141880}{141925}You're George Kaplan, aren't you?
+{141927}{141993}There is no such person as George Kaplan.
+{141995}{142051}What do you mean? I've been in his room.
+{142052}{142124}I've tried on his clothes.|He's got short sleeves and dandruff!
+{142125}{142174}Believe me, he doesn't exist.
+{142196}{142307}Which is why I'm going to have to ask you|to go on being him for the next 24 hours.
+{142342}{142400}Come on! We'll discuss it on the plane.
+{142929}{143015}You started the decoy business|without me, you finish it without me!
+{143017}{143071}We might have|if you hadn't stumbled into it.
+{143072}{143164}You should give me a medal and a vacation|instead of asking me to be a target...
+{143166}{143233}...just so your special agent|doesn't get shot at!
+{143240}{143296}Not shot at, Mr. Thornhill. Found out.
+{143303}{143359}Once found out they're as good as dead.
+{143365}{143444}Thanks to you,|clouds of suspicion are already forming.
+{143460}{143491}Thanks to me?
+{143523}{143559}You listen to me.
+{143564}{143620}I'm an advertising man, not a red herring!
+{143622}{143674}I've got a job, a secretary, a mother...
+{143676}{143746}...two ex-wives and several bartenders|dependent upon me...
+{143748}{143823}...and I don't intend to disappoint them|by getting myself killed!
+{143836}{143869}The answer is no.
+{143891}{143927}-Is that final?|-Yes.
+{143949}{143989}-Goodbye, then.|-Goodbye.
+{144001}{144086}If there was a chance of changing|your mind I'd talk about Miss Kendall...
+{144108}{144156}...of whom you so obviously disapprove.
+{144158}{144244}Yes, for using sex|like some people use a fly-swatter.
+{144256}{144302}I suppose it doesn't matter to you...
+{144304}{144401}...that she was probably forced to do|whatever she did to protect herself.
+{144408}{144461}To protect herself from what?
+{144463}{144515}Exposure, assassination.
+{144555}{144608}You see, Mr. Thornhill, she's....
+{144624}{144670}She's one of our agents.
+{144695}{144718}Oh, no!
+{144720}{144759}I know you didn't mean it...
+{144761}{144856}...but I'm afraid you have put her|in an extremely dangerous situation.
+{144900}{144958}And much more than her life is at stake.
+{145308}{145342}Suppose they don't come?
+{145353}{145387}They'll come.
+{145426}{145503}I don't like the way Teddy Roosevelt|is looking at me.
+{145510}{145604}Perhaps he's trying to give you|one last word of caution, Mr. Kaplan.
+{145605}{145654}"Speak softly, and carry a big stick."
+{145665}{145752}He's trying to tell me not to go through|with this harebrained scheme.
+{145754}{145838}He doesn't know to what extent|you are the cause of our present trouble.
+{145840}{145902}I don't know that I care|to accept that charge.
+{145909}{146025}If you hadn't made yourself so attractive|to Miss Kendall that she fell for you...
+{146027}{146055}And vice versa.
+{146056}{146135}...our friend Vandamm wouldn't be|losing faith in her loyalty now.
+{146146}{146241}It was quite obvious to him last night|that she had become emotionally involved.
+{146243}{146331}Worst of all, with a man he thinks|is a government agent.
+{146354}{146411}Are you trying to tell me|that I'm irresistible?
+{146412}{146475}I'm trying to remind you|that it's your responsibility...
+{146477}{146541}...to help us restore her|to Vandamm's good graces...
+{146543}{146593}...until he leaves the country tonight.
+{146613}{146644}All right, all right.
+{146658}{146696}But, after tonight....
+{146720}{146768}My blessings on you both!
+{147119}{147142}Here they are!
+{148439}{148474}Good afternoon, Mr. Kaplan.
+{148476}{148500}Not her!
+{148730}{148797}Did I misunderstand you|about bringing her here?
+{148799}{148852}We'll get to that later.
+{148871}{148924}I suppose you were surprised|to get my call.
+{148926}{149016}Not at all. I knew the police|would release you, Mr. Kaplan.
+{149022}{149095}By the way, I want to compliment you|on your colorful exit...
+{149097}{149144}...from the auction gallery.
+{149153}{149181}Thank you.
+{149183}{149256}And now what little drama|are we here for today?
+{149258}{149351}I don't for a moment believe that|you invited me to these gay surroundings...
+{149352}{149407}...to come to a business arrangement.
+{149444}{149548}Suppose I tell you that I not only know|when you're leaving the country tonight...
+{149550}{149611}...but the latitude and longitude|of your rendezvous...
+{149613}{149663}...and your ultimate destination.
+{149674}{149737}You wouldn't care to carry my bags,|would you?
+{149743}{149818}Perhaps you'd be interested in the price,|just the same.
+{149823}{149849}The price?
+{149851}{149899}For doing nothing to stop you.
+{149938}{149993}How much did you have in mind?
+{150008}{150035}I want the girl.
+{150106}{150155}I want her to get what's coming to her.
+{150180}{150266}Turn her over to me. I'll see there's|enough pinned on her to keep her...
+{150268}{150319}...uncomfortable for the rest of her life.
+{150349}{150418}You do that,|and I'll look the other way tonight.
+{150431}{150478}She really did get under your skin.
+{150487}{150556}We're not talking about my skin.|We're talking about yours.
+{150557}{150637}-I'm offering you a chance to save it.|-To exchange it!
+{150668}{150701}Put it any way you like.
+{150713}{150762}I'm curious, Mr. Kaplan.
+{150775}{150878}What made you think that my feelings|for her may have deteriorated...
+{150880}{150960}...to the point where I would trade her in|for a little peace of mind?
+{150992}{151027}I don't deduce.
+{151032}{151059}I observe.
+{151124}{151203}Phillip, if you don't mind,|I'm going back to the house now.
+{151502}{151531}Just a second, you.
+{151532}{151602}Stay away from me! Let go!|Let go of me!
+{151628}{151676}Stay away from me! Let go!
+{151680}{151710}Let go of me!
+{151724}{151759}Save the phony tears.
+{151760}{151796}You just get back.
+{151850}{151876}You little fool!
+{151878}{151921}You just stay away from me.
+{152056}{152109}No good. You can't get involved in this.
+{152218}{152269}-Don't touch anything.|-Stand back.
+{152277}{152299}Stand back.
+{153768}{153799}Don't be long.
+{153893}{153918}Hello.
+{153950}{153975}Hello.
+{153995}{154028}Are you all right?
+{154058}{154095}Yes, I think so.
+{154109}{154174}I asked the Professor|if I could see you again.
+{154233}{154278}There's not much time.
+{154313}{154345}Isn't there?
+{154366}{154412}I wanted to tell you....
+{154421}{154456}I mean, apologize.
+{154492}{154518}No need.
+{154552}{154584}I understand.
+{154643}{154683}All in the line of duty.
+{154721}{154771}I did treat you miserably.
+{154824}{154865}I hated you for it.
+{154883}{154932}I didn't want you to go on thinking....
+{155000}{155059}I used some pretty harsh words, I'm sorry.
+{155069}{155134}-They hurt deeply.|-Naturally, if I'd known....
+{155144}{155183}I couldn't tell you.
+{155204}{155237}-Of course not.|-Could l?
+{155282}{155315}No, I guess not.
+{155364}{155419}You didn't get hurt. I'm so relieved.
+{155421}{155468}Of course I was. How would you have felt?
+{155469}{155552}I mean in the cafeteria, when you fell.|When I shot you with the blanks.
+{155554}{155590}Oh, that. No.
+{155612}{155659}You did it rather well, I thought.
+{155660}{155715}Yes, I thought I was quite graceful.
+{155729}{155791}Considering it's not really|your kind of work.
+{155824}{155905}No, I got into it by accident.|What's your excuse?
+{155959}{156051}I met Phillip Vandamm at a party one night|and saw only his charm.
+{156134}{156204}I guess I had nothing to do that weekend...
+{156205}{156260}...so I decided to fall in love.
+{156275}{156307}That's nice.
+{156350}{156446}Eventually, the Professor and his|Washington colleagues approached me...
+{156482}{156571}...with a few sordid details about Phillip|and he told me that...
+{156595}{156690}...my relationship with him|made me "uniquely valuable" to them.
+{156731}{156779}So you became a Girl Scout?
+{156809}{156888}It was the first time anyone ever asked me|to do anything worthwhile.
+{156945}{156979}Has life been like that?
+{157057}{157077}How come?
+{157144}{157173}Men like you.
+{157213}{157268}What's wrong with men like me?
+{157275}{157330}They don't believe in marriage.
+{157332}{157375}I've been married twice.
+{157376}{157408}See what I mean?
+{157462}{157527}I may go back to hating you.|It was more fun.
+{157691}{157729}Goodbye, darling.
+{157762}{157790}Wait. Not so soon.
+{157799}{157843}I must get back and convince them...
+{157845}{157917}...that I took the long way|so nobody would follow me.
+{157966}{158023}Couldn't we stand like this|for just a few hours?
+{158024}{158086}Just this time you're supposed|to be critically wounded!
+{158088}{158128}I never felt more alive.
+{158137}{158168}Whose side are you on?
+{158198}{158230}Yours, always, darling.
+{158257}{158342}Please don't undermine my resolve,|just when I need it most.
+{158548}{158640}I guess it's off to the hospital for me|and back to danger for you.
+{158644}{158686}I don't like it a bit.
+{158692}{158776}It's much safer now, thanks to you,|my darling decoy.
+{158790}{158843}Don't thank me. I couldn't stand it.
+{158844}{158885}All right. I won't.
+{158887}{158964}After your malevolent friend Vandamm|takes off tonight...
+{158968}{159067}...we'll get together and do a lot of|apologizing to each other, in private.
+{159070}{159107}You know that can't be.
+{159108}{159151}Of course it can be!
+{159229}{159279}He has told you, hasn't he?
+{159292}{159321}Told me what?
+{159336}{159371}You've got to get moving.
+{159394}{159447}-What didn't you tell me?|-Why didn't you?
+{159472}{159540}She's going off with Vandamm tonight|on the plane.
+{159589}{159627}She's going off with Vandamm?
+{159628}{159710}That's why we went to such lengths|to make her a fugitive from justice.
+{159712}{159780}So that Vandamm couldn't decline|to take her along.
+{159784}{159854}I needn't tell you how valuable|she can be to us over there.
+{159872}{159926}You lied to me!|You said that after tonight--
+{159931}{159960}I needed your help.
+{159962}{159993}You got it, all right.
+{159995}{160024}Don't be angry.
+{160026}{160096}-You think I'll let you go through with this?|-She has to.
+{160104}{160148}Nobody has to do anything!
+{160152}{160200}I don't like the games you play!
+{160224}{160293}War is hell, Mr. Thornhill,|even when it's a cold one.
+{160317}{160373}If you can't lick the Vandamms|of this world...
+{160384}{160454}...without asking girls to bed down|and fly away with them...
+{160459}{160499}...and probably never come back...
+{160501}{160567}...perhaps you should learn|how to lose a few cold wars.
+{160582}{160617}We're already doing that.
+{160801}{160890}-I won't let you do this. Get out.|-Please don't spoil everything.
+{161022}{161124}...shot Mr. Kaplan twice in full view|of horrified men, women and children...
+{161126}{161207}...who had come to the park|to see the famed Mt. Rushmore monument.
+{161208}{161343}Witnesses described the assailant as|an attractive blonde in her late twenties.
+{161348}{161440}Kaplan, who was taken to the hospital|in critical condition...
+{161442}{161540}...has been tentatively identified|as an employee of the federal government.
+{161542}{161604}The tragedy developed|with startling suddenness.
+{161606}{161682}Chris Swenson,|a busboy in the Mt. Rushmore cafeteria...
+{161684}{161755}...stated that he heard voices raised in--
+{161901}{161929}Here we are.
+{161955}{162011}Slacks, a shirt and these.
+{162024}{162053}Thanks.
+{162055}{162133}That'll do for you around here|for the next couple of days.
+{162157}{162204}The next couple of days?
+{162233}{162268}Hey, what's this?
+{162285}{162363}That's where I hit the chair|doing that phony fall in the cafeteria.
+{162364}{162422}You and your dopey schemes. Shooting.
+{162424}{162495}-Otherwise, feeling all right?|-Oh, yes. Fine.
+{162516}{162593}Considering your driver has|a sledgehammer for a hand.
+{162597}{162641}Yeah, I'm sorry about that.
+{162645}{162706}That's all right. I guess I deserved it.
+{162724}{162780}I guess I deserve that locked door, too.
+{162782}{162874}If you were seen wandering about healthy,|it could prove fatal to Miss Kendall.
+{162898}{162963}-I've begun to forget her already.|-Good.
+{162976}{163028}-Better that way.|-Yeah, much.
+{163039}{163091}Inside of an hour, she'll be gone.
+{163164}{163209}How's everything out in Rapid City?
+{163211}{163251}Everything's fine.
+{163260}{163352}Mr. Kaplan's untimely shooting has|acquired the authority of the printed word.
+{163364}{163422}Everyone's been cooperating beautifully.
+{163424}{163457}Now you can include me.
+{163474}{163526}-I'm a cooperator.|-I'm most grateful.
+{163545}{163617}-Care to do me a favor in return?|-Anything.
+{163619}{163684}I'd like a drink.|Will you get me some bourbon?
+{163693}{163727}A pint will do.
+{163747}{163775}Can I join you?
+{163776}{163855}If you're gonna join me,|you better make it a quart.
+{163856}{163898}See you in a few minutes.
+{165465}{165505}-Stop!|-Excuse me.
+{165536}{165560}Stop.
+{166140}{166238}-Don't you want me to take you up there?|-No, thanks. Never mind. This is fine.
+{170200}{170273}-There's nothing to worry about.|-I just lost my head.
+{170287}{170354}I'm not just saying this|to make you feel better.
+{170358}{170387}I mean it.
+{170398}{170448}I just didn't know what I was doing.
+{170450}{170513}He wants to destroy you.|You had to protect yourself.
+{170515}{170551}But not endanger you!
+{170553}{170576}Rubbish.
+{170590}{170686}Soon we'll be off together and I shall|dedicate myself to your happiness.
+{170725}{170771}What's the situation, Leonard?
+{170777}{170831}-About the plane, you mean?|-Of course.
+{170833}{170871}What was the last report?
+{170875}{170948}Over Whitestone on the hour.|6,000. Descending.
+{170954}{171004}-About ten minutes?|-At the most.
+{171030}{171056}And now....
+{171074}{171146}I wonder if I might have a few words|of parting with you, sir?
+{171148}{171177}Certainly.
+{171197}{171228}In private?
+{171264}{171293}I'll get my things.
+{171357}{171399}How does one say goodbye...
+{171407}{171444}...to one's right arm?
+{171605}{171666}In your case,|you'll wish you had cut it off sooner.
+{171780}{171834}I know you're terribly fond|of Miss Kendall....
+{172923}{172971}It couldn't have been anything.
+{173052}{173116}You must've had some doubts|about her yourself.
+{173153}{173177}And still do.
+{173185}{173212}Rubbish.
+{173227}{173288}Why else would you've decided|not to tell her that...
+{173295}{173360}...our little treasure here|has a bellyful of microfilm?
+{173362}{173425}You seem to be trying to fill mine|with rotten apples.
+{173427}{173492}Sometimes the truth does taste|like worms.
+{173493}{173539}I've heard nothing but innuendoes.
+{173541}{173630}Call it my "woman's intuition" if you will,|but I've never trusted neatness.
+{173632}{173693}Neatness is always the result|of deliberate planning.
+{173695}{173754}She shot him in a moment|of fear and anger.
+{173758}{173803}You were there, you saw it yourself.
+{173809}{173831}Yes.
+{173887}{173985}And thereby wrapped everything up|into one very neat and tidy bundle.
+{174039}{174107}A: She removed any doubts|you may have had about her.
+{174109}{174172}What did you call it? Her "devotion"?
+{174178}{174277}B: She gave herself an urgent reason|to be taken to the other side with you...
+{174279}{174331}...in case you decided to change your mind.
+{174392}{174431}I think you're jealous.
+{174437}{174488}No, I mean it. I'm very touched.
+{174580}{174607}Leonard!
+{174786}{174824}The gun she shot Kaplan with.
+{174841}{174875}I found it in her luggage.
+{174908}{175003}It's an old trick. Shoot one of your own|to show that you're not one of them.
+{175016}{175083}They've just freshened it up a bit|with blank cartridges.
+{175424}{175452}What was that noise?
+{175521}{175593}Yes, we wondered what it was, too.|Didn't we, Leonard?
+{175625}{175676}Hurry down, darling. It's time to leave.
+{175687}{175711}In a moment.
+{175934}{175993}You're not taking her on that plane|with you?
+{175994}{176022}Of course I am.
+{176050}{176123}Like our friends,|l, too, believe in neatness, Leonard.
+{176142}{176220}This matter is best disposed of|from a great height...
+{176243}{176272}...over water.
+{177400}{177452}How about a little champagne|before we go?
+{177454}{177486}I'd love it.
+{177489}{177527}It may not be cold enough.
+{177529}{177571}On the rocks it'll be all right.
+{177573}{177600}Are you sure?
+{177865}{177892}R.O.T.
+{178276}{178326}They're on to you.
+{178449}{178512}I'm in your room.
+{179446}{179472}To you, my dear...
+{179474}{179532}...and all the lovely moments|we've had together.
+{179559}{179579}Thank you.
+{179605}{179626}There he is.
+{179816}{179873}Jump in, Leonard. The champagne's fine.
+{179882}{179919}There isn't time.
+{179921}{179981}You always were a spoilsport, weren't you?
+{179991}{180037}One of my most valuable attributes...
+{180041}{180073}...as it now turns out.
+{180133}{180228}It would please me if you'd think of me|as being along on this journey...
+{180245}{180282}...if only in spirit.
+{180286}{180310}I shall.
+{180502}{180575}He's heading pretty far out|on the north flag and awfully high.
+{180601}{180680}I guess he's going to play it safe|with a long, slow descent.
+{180705}{180761}You couldn't ask|for a better night than this.
+{180763}{180817}Ceiling and possibilities unlimited.
+{180868}{180921}There he goes, starting his turn.
+{180953}{180992}We'd better get moving.
+{181038}{181119}He should have his wheels on the ground|inside of three minutes.
+{181215}{181259}-Come along, Eve.|-All right.
+{181318}{181399}I think I left my earrings upstairs.|I'll be right down.
+{181714}{181778}We can go through the window.|There's a car downstairs!
+{181780}{181834}What are you doing?|You'll ruin everything!
+{181836}{181897}They know about the fake shooting!|They'll kill you!
+{181899}{181925}What?
+{181928}{181980}Leonard found the gun in your luggage!
+{181983}{182060}The figure they got at the auction|is filled with microfilm!
+{182062}{182120}That's how he's been getting it.
+{182140}{182191}Whatever you do, don't get on that plane!
+{182372}{182445}Don't worry, Anna.|Arrangements have been made.
+{182451}{182516}You and your husband will be|in Canada by morning.
+{182517}{182564}-Thank you very much, sir.|-Be careful.
+{182565}{182584}We will.
+{182594}{182618}God bless you!
+{184189}{184217}Stay where you are!
+{184496}{184519}Sit down.
+{184636}{184716}As soon as the plane leaves,|my husband and Mr. Leonard will be back.
+{185390}{185421}What is it?
+{185453}{185496}I was wondering about my earrings.
+{185498}{185531}They'll turn up.
+{185639}{185711}When you return to New York,|say goodbye to my sister.
+{185719}{185775}Thank her for her performance|as Mrs. Townsend.
+{185800}{185882}Tell your knife-throwing chum|that I've reassured his wife.
+{185896}{185926}That's all, Leonard.
+{186307}{186336}Get that figure back!
+{186510}{186568}The housekeeper had me pinned down|for five minutes...
+{186570}{186627}...before I realized|it was that silly gun of yours.
+{186629}{186672}-I see you've got the pumpkin.|-Yes.
+{187619}{187684}This is no good.|We're on top of the monument.
+{188120}{188162}-What'll we do?|-Climb down.
+{188164}{188187}We can't.
+{188190}{188242}Here they come. We have no choice.
+{189436}{189482}If we ever get out of this alive...
+{189484}{189543}...let's go back to New York|on the train together.
+{189545}{189572}All right?
+{189584}{189622}Is that a proposition?
+{189653}{189696}It's a proposal, sweetie.
+{189725}{189784}What happened to the first two marriages?
+{189806}{189849}My wives divorced me.
+{189862}{189882}Why?
+{189884}{189945}I think they said I led too dull a life.
+{189972}{189992}Come on.
+{190241}{190267}Are you all right?
+{190521}{190544}Come on.
+{194641}{194659}Help!
+{194671}{194698}Help me!
+{195461}{195489}Thank you, Sergeant.
+{195491}{195557}That wasn't very sporting,|using real bullets?
+{195564}{195599}Here, reach. Now.
+{195629}{195656}I'm trying.
+{195661}{195692}Come on, I've got you.
+{195695}{195744}-Up!|-I can't make it!
+{195753}{195776}Yes, you can.
+{195777}{195796}Come on.
+{195797}{195819}Pull harder!
+{195829}{195868}Come along, Mrs. Thornhill.
+{195973}{196012}Roger, this is silly.
+{196020}{196069}I know, but I'm sentimental.
+{196243}{196339}THE END|NORTH BY NORTHWEST

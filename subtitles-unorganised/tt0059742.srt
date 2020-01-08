@@ -1,0 +1,1939 @@
+{100}{300}Ripped with SubRip 1.17 and Verified by CdinT|cdint@hotmail.com
+{301}{420}I deliver perfection...|and don't brag about it! :D
+{3911}{3977}{y:i}The hills are alive
+{3983}{4089}{y:i}With the sound of music
+{4095}{4154}{y:i}With songs they have sung
+{4160}{4277}{y:i}For a thousand years
+{4283}{4358}{y:i}The hills fill my heart
+{4364}{4474}{y:i}With the sound of music
+{4480}{4658}{y:i}My heart wants to sing|{y:i}Every song it hears
+{4664}{4780}{y:i}My heart wants to beat like the wings|{y:i}Of the birds that rise
+{4786}{4860}{y:i}From the lake to the trees
+{4866}{4969}{y:i}My heart wants to sigh|{y:i}Like a chime that flies
+{4975}{5070}{y:i}From a church on a breeze
+{5076}{5160}{y:i}To laugh like a brook|{y:i}When it trips and falls
+{5166}{5250}{y:i}Over stones on its way
+{5256}{5349}{y:i}To sing through the night
+{5355}{5448}{y:i}Like a lark who is learning to pray
+{5454}{5588}{y:i}I go to the hills
+{5594}{5742}{y:i}When my heart is lonely
+{5748}{5840}{y:i}I know I will hear
+{5846}{5954}{y:i}What I've heard before
+{5960}{6073}{y:i}My heart will be blessed
+{6079}{6285}{y:i}With the sound of music
+{6291}{6414}{y:i}And I'll sing...
+{6420}{6672}{y:i}... once more
+{13398}{13517}{y:i}Hallelujah, hallelujah
+{13523}{13671}{y:i}Hallelujah, hallelujah
+{13691}{13739}- Reverend Mother.|- Sister Bernice.
+{13745}{13828}- I simply cannot find her.|- Maria?
+{13834}{13880}She's missing again.
+{13886}{13944}We should've put a cowbell|around her neck.
+{13950}{14023}Have you tried the barn? You know|how much she adores the animals.
+{14029}{14094}I have looked everywhere.|In all of the usual places.
+{14100}{14154}Sister, considering it's Maria...
+{14160}{14260}...I suggest you look in someplace|unusual.
+{14350}{14380}Well, Reverend Mother...
+{14386}{14449}...I hope this new infraction ends|whatever doubts...
+{14455}{14532}...you may still have|about Maria's future here.
+{14538}{14635}I always try to keep faith|in my doubts, Sister Berthe.
+{14641}{14710}After all, the wool of a black sheep|is just as warm.
+{14716}{14819}We are not talking about sheep,|black or white, Sister Margaretta.
+{14825}{14907}Of all the candidates for|the novitiate, Maria is the least...
+{14913}{14979}Children, children.
+{14985}{15089}We were speculating about|the qualifications of our postulants.
+{15095}{15167}The Mistress of Novices|and the Mistress of Postulants...
+{15173}{15300}...were trying to help me|by expressing opposite points of view.
+{15306}{15378}Tell me, Sister Catherine,|what do you think of Maria?
+{15384}{15475}She's a wonderful girl,|some of the time.
+{15481}{15555}- Sister Agatha?|- It's very easy to like Maria...
+{15561}{15622}...except when it's difficult.
+{15628}{15713}- And you, Sister Sophia?|- Oh, I love her very dearly.
+{15719}{15789}But she always seems to be|in trouble, doesn't she?
+{15795}{15839}Exactly what I say.
+{15845}{15903}{y:i}She climbs a tree and scrapes her knee
+{15909}{15959}{y:i}Her dress has got a tear
+{15965}{16075}{y:i}She waltzes on her way to Mass|{y:i}And whistles on the stair
+{16081}{16189}{y:i}And underneath her wimple|{y:i}She has curlers in her hair
+{16195}{16305}{y:i}I've even heard her singing|{y:i}In the abbey
+{16311}{16358}{y:i}She's always late for chapel
+{16364}{16420}{y:i}But her penitence is real
+{16426}{16481}{y:i}She's always late for everything
+{16487}{16539}{y:i}Except for every meal
+{16545}{16657}{y:i}I hate to have to say it|{y:i}But I very firmly feel
+{16663}{16775}{y:i}Maria's not an asset to the abbey
+{16781}{16842}{y:i}I'd like to say a word in her behalf
+{16848}{16895}Say it, Sister Margaretta.
+{16901}{17033}{y:i}Maria makes me laugh
+{17066}{17159}{y:i}How do you solve a problem like Maria?
+{17165}{17257}{y:i}How do you catch a cloud|{y:i}And pin it down?
+{17263}{17350}{y:i}How do you find a word|{y:i}That means Maria?
+{17356}{17382}{y:i}A flibbertigibbet
+{17388}{17458}{y:i}- A will-o'-the-wisp|{y:i}- A clown
+{17460}{17550}{y:i}Many a thing you know|{y:i}You'd like to tell her
+{17556}{17643}{y:i}Many a thing she ought to understand
+{17649}{17745}{y:i}But how do you make her stay|{y:i}And listen to all you say?
+{17751}{17835}{y:i}How do you keep a wave upon the sand?
+{17841}{17945}{y:i}How do you solve a problem like Maria?
+{17951}{18083}{y:i}How do you hold a moonbeam...
+{18089}{18240}{y:i}... in your hand?
+{18246}{18330}{y:i}When I'm with her I'm confused|{y:i}Out of focus and bemused
+{18336}{18418}{y:i}And I never know exactly where I am
+{18424}{18506}{y:i}- Unpredictable as weather|{y:i}- She's as flighty as a feather
+{18512}{18555}{y:i}- She's a darling|{y:i}- She's a demon
+{18561}{18597}{y:i}She's a lamb
+{18603}{18690}{y:i}She'll out pester any pest|{y:i}Drive a hornet from its nest
+{18696}{18782}{y:i}She can throw a whirling dervish|{y:i}Out of whirl
+{18788}{18881}{y:i}- She is gentle, she is wild|{y:i}- She's a riddle, she's a child
+{18887}{18948}{y:i}- She's a headache|{y:i}- She's an angel
+{18954}{19060}{y:i}She's a girl
+{19066}{19158}{y:i}How do you solve a problem like Maria?
+{19164}{19254}{y:i}How do you catch a cloud|{y:i}And pin it down?
+{19260}{19345}{y:i}How do you find a word|{y:i}That means Maria?
+{19351}{19398}{y:i}- A flibbertigibbet|{y:i}- A will-o'-the-wisp
+{19404}{19449}{y:i}A clown
+{19455}{19545}{y:i}Many a thing you know|{y:i}You'd like to tell her
+{19551}{19633}{y:i}Many a thing she ought to understand
+{19639}{19744}{y:i}- But how do you make her stay|{y:i}- And listen to all you say?
+{19750}{19847}{y:i}How do you keep a wave upon the sand?
+{19853}{19992}{y:i}How do you solve a problem like Maria?
+{20375}{20552}{y:i}How do you hold a moonbeam...
+{20558}{20750}{y:i}... in your hand?
+{20996}{21081}You may go in now, Maria.
+{21346}{21422}Come here, my child.
+{21541}{21590}Now sit down.
+{21596}{21682}Reverend Mother, I'm sorry.|I couldn't help myself.
+{21688}{21763}- The hills were beckoning and before...|- Dear.
+{21769}{21816}I haven't summoned you for apologies.
+{21822}{21885}Please let me ask for forgiveness.
+{21891}{21937}If you'll feel better.
+{21943}{22000}Yes, you see,|the sky was so blue today...
+{22006}{22097}...and everything was so green and|fragrant, I had to be a part of it.
+{22103}{22209}The Untersberg led me higher like|it wanted me to go through the clouds.
+{22215}{22265}Suppose darkness had come|and you were lost?
+{22271}{22325}Mother, I could never be lost|up there.
+{22331}{22398}That's my mountain.|I was brought up on it.
+{22404}{22445}It was the mountain that led me|to you.
+{22451}{22472}Oh?
+{22478}{22549}When I was a child,|I would come down and climb a tree...
+{22555}{22597}...and look in your garden.
+{22603}{22700}I'd see the sisters at work|and hear them sing.
+{22706}{22792}Which brings me to another|transgression, Reverend Mother.
+{22798}{22859}I was singing out there today.
+{22865}{22961}Only in the abbey do we have rules|about postulants singing.
+{22967}{23015}I can't stop wherever I am.
+{23021}{23077}Worse, I can't seem to stop|saying things.
+{23083}{23137}Everything I think and feel.
+{23143}{23177}Some call that "honesty".
+{23183}{23240}Oh, but it's terrible,|Reverend Mother!
+{23246}{23342}You know how Sister Berthe makes me|kiss the floor after a disagreement?
+{23348}{23469}Lately, I kiss the floor|when I see her coming to save time.
+{23496}{23542}Maria...
+{23548}{23620}...when you saw us over the wall|and longed to be with us...
+{23626}{23765}...that didn't mean you were prepared|for the way we live here, did it?
+{23771}{23828}No, Mother, but I pray and I try.
+{23834}{23875}And I am learning. I really am.
+{23881}{23955}What is the most important lesson|you have learned here?
+{23961}{24089}To find out what is the will of God|and do it wholeheartedly.
+{24120}{24177}Maria...
+{24183}{24250}...it seems to be God's will|that you leave us.
+{24256}{24298}- Leave?|- Only for a while.
+{24304}{24360}No, Mother!|Please don't send me away!
+{24366}{24478}This is where I belong. It's my home,|my family. It's my life.
+{24484}{24555}- Are you truly ready for it?|- Yes, I am.
+{24561}{24679}If you go out into the world for a|time, knowing what we expect of you...
+{24685}{24750}...you will find out|if you can expect it of yourself.
+{24756}{24896}I know what you expect, Mother,|and I can do it! I promise I can!
+{24944}{25011}Yes, Mother.
+{25024}{25101}If it is God's will.
+{25118}{25240}There is a family near Salzburg that|needs a governess until September.
+{25246}{25308}- September?|- For seven children.
+{25314}{25339}Seven children?!
+{25345}{25388}Do you like children?
+{25394}{25459}Well, yes, but seven!
+{25465}{25548}I will tell Captain von Trapp|to expect you tomorrow.
+{25554}{25598}Captain?
+{25604}{25720}A retired officer of the lmperial|Navy. A fine man and a brave one.
+{25726}{25790}His wife died,|and he is alone with the children.
+{25796}{25912}I understand he has had a difficult|time keeping a governess there.
+{25918}{26000}Why difficult, Reverend Mother?
+{26006}{26113}The Lord will show you|in His own good time.
+{26959}{27018}When the Lord closes a door...
+{27024}{27121}...somewhere He opens a window.
+{27141}{27260}{y:i}What will this day be like?
+{27266}{27356}{y:i}I wonder
+{27475}{27588}{y:i}What will my future be?
+{27594}{27685}{y:i}I wonder
+{27686}{27758}{y:i}It could be so exciting
+{27764}{27838}{y:i}To be out in the world|{y:i}To be free
+{27844}{27940}{y:i}My heart should be wildly rejoicing
+{27946}{28076}{y:i}Oh, what's the matter with me?
+{28082}{28155}{y:i}I've always longed for adventure
+{28161}{28247}{y:i}To do the things I've never dared
+{28253}{28330}{y:i}Now here I'm facing adventure
+{28336}{28520}{y:i}Then why am I so scared?
+{28566}{28635}{y:i}A captain with seven children
+{28641}{28746}{y:i}What's so fearsome about that?
+{28770}{28832}{y:i}I must stop these doubts and worries
+{28838}{28907}{y:i}If I don't I just know I'll turn back
+{28913}{29008}{y:i}I must dream of the things|{y:i}I am seeking
+{29014}{29151}{y:i}I am seeking the courage I lack
+{29157}{29249}{y:i}The courage to serve them|{y:i}With reliance
+{29255}{29325}{y:i}Face my mistakes without defiance
+{29331}{29372}{y:i}Show them I'm worthy
+{29378}{29442}{y:i}And while I show them
+{29448}{29538}{y:i}I'll show me
+{29544}{29673}{y:i}So let them bring on|{y:i}All their problems
+{29679}{29757}{y:i}I'll do better than my best
+{29763}{29837}{y:i}I have confidence|{y:i}They'll put me to the test
+{29843}{29925}{y:i}But I'll make them see|{y:i}I have confidence in me
+{29931}{30010}{y:i}Somehow I will impress them
+{30016}{30094}{y:i}I will be firm but kind
+{30100}{30179}{y:i}And all those children|{y:i}Heaven bless them
+{30185}{30264}{y:i}They will look up to me|{y:i}And mind me
+{30270}{30345}{y:i}With each step I am more certain
+{30351}{30428}{y:i}Everything will turn out fine
+{30434}{30508}{y:i}I have confidence|{y:i}The world can all be mine
+{30514}{30683}{y:i}They'll have to agree|{y:i}I have confidence in me
+{30683}{30749}{y:i}I have confidence in sunshine
+{30755}{30828}{y:i}I have confidence in rain
+{30834}{30904}{y:i}I have confidence|{y:i}That spring will come again
+{30910}{30984}{y:i}Besides which you see|{y:i}I have confidence in me
+{30990}{31065}{y:i}Strength doesn't lie in numbers
+{31071}{31144}{y:i}Strength doesn't lie in wealth
+{31150}{31229}{y:i}Strength lies in nights|{y:i}Of peaceful slumbers
+{31235}{31305}{y:i}When you wake up, wake up|{y:i}It's healthy
+{31311}{31383}{y:i}All I trust I leave my heart to
+{31389}{31458}{y:i}All I trust becomes my own
+{31464}{31616}{y:i}I have confidence in confidence alone
+{31930}{32006}Oh, help.
+{32261}{32433}{y:i}I have confidence in confidence alone
+{32439}{32555}{y:i}Besides which you see|{y:i}I have confidence...
+{32561}{32735}{y:i}... in me
+{32796}{32872}Oh. Whoo.
+{32882}{32976}Hello. Here I am.
+{33006}{33088}I'm from the convent.|I'm the new governess, captain.
+{33091}{33174}And I'm the old butler, frulein.
+{33180}{33209}Oh.
+{33215}{33296}Well, how do you do?
+{33511}{33646}You'll wait here, please.
+{35679}{35799}In future, remember certain rooms|in this house are not to be disturbed.
+{35805}{35878}Yes, captain, sir.
+{36030}{36180}- Why do you stare at me that way?|- You don't look like a sea captain.
+{36186}{36270}I'm afraid you don't look|very much like a governess.
+{36276}{36304}- Turn around.|- What?
+{36310}{36376}Turn.
+{36416}{36481}Hat off.
+{36521}{36584}Put on another dress|before meeting the children.
+{36590}{36629}But I don't have another.
+{36635}{36704}When we enter the abbey,|our worldly clothes go to the poor.
+{36710}{36739}What about this one?
+{36745}{36784}The poor didn't want it.
+{36790}{36815}Hm.
+{36821}{36929}There wasn't time to make a new dress.|I can make clothes.
+{36935}{37000}I'll see that you get some material.
+{37006}{37062}Today, if possible.
+{37068}{37110}- Now, frulein...|- Maria.
+{37116}{37180}- I don't know how much they told you.|- Not much.
+{37186}{37248}You are the twelfth governess...
+{37254}{37312}...to look after my children|since their mother died.
+{37318}{37371}I trust you will be an improvement|on the last one.
+{37377}{37458}She stayed only two hours.
+{37462}{37553}What's wrong with the children, sir?
+{37559}{37665}Nothing is wrong with the children,|only the governesses.
+{37671}{37805}They could not maintain discipline,|without which the house cannot be run.
+{37811}{37855}Drill them in their studies.
+{37861}{37945}I will not permit them to dream|away their summer holidays.
+{37951}{38015}Each afternoon,|they march, breathing deeply.
+{38021}{38060}Bedtime is to be strictly observed.
+{38066}{38088}When do they play?
+{38094}{38191}You will see to it that they conduct|themselves with the utmost decorum.
+{38197}{38305}- I am placing you in command.|- Yes, sir.
+{40201}{40237}Now...
+{40243}{40351}...this is your new governess,|Frulein Maria.
+{40354}{40403}Give your name at your signal.
+{40409}{40501}Frulein, listen carefully. Learn|their signals so you can call them.
+{40540}{40574}Liesl.
+{40580}{40622}Friedrich.
+{40628}{40665}Louisa.
+{40671}{40701}Kurt.
+{40707}{40732}Brigitta.
+{40738}{40769}Marta.
+{40922}{40991}Gretl.
+{41065}{41147}Now, let's see how well you listened.
+{41153}{41210}I won't need to whistle for them,|Reverend Captain.
+{41216}{41298}I mean, I'll use their names.|Such lovely names.
+{41304}{41380}Frulein, this is a large house.|The grounds are extensive.
+{41386}{41452}And I will not have anyone shouting.
+{41458}{41498}You will take this, please.|Learn to use it.
+{41504}{41581}The children will help you.
+{41593}{41703}Now, when I want you,|this is what you will hear.
+{41709}{41768}Oh, no, sir. I'm sorry, sir!
+{41774}{41810}I could never answer to a whistle.
+{41816}{41879}Whistles are for animals,|not for children.
+{41885}{41934}And definitely not for me.
+{41940}{42017}It would be too humiliating.
+{42023}{42149}Frulein, were you this much trouble|at the abbey?
+{42155}{42219}Oh, much more, sir.
+{42448}{42515}I don't know your signal.
+{42521}{42621}You may call me "captain".
+{42894}{42966}At ease.
+{42996}{43033}Now that there's just us...
+{43039}{43145}...would you please tell me all your|names again and how old you are.
+{43151}{43259}I'm Liesl. I'm 16 years old,|and I don't need a governess.
+{43265}{43376}I'm glad you told me, Liesl.|We'll just be good friends.
+{43390}{43482}I'm Friedrich. I'm 14.|I'm impossible.
+{43488}{43528}Really? Who told you that, Friedrich?
+{43534}{43623}Frulein Josephine.|Four governesses ago.
+{43629}{43701}I'm Brigitta.
+{43708}{43815}You didn't tell me how old you are,|Louisa.
+{43821}{43875}I'm Brigitta. She's Louisa.
+{43881}{43947}She's 13 years old, and you're smart.
+{43953}{44045}I'm 10, and I think your dress|is the ugliest one I ever saw.
+{44051}{44113}- Brigitta, you shouldn't say that.|- Why not?
+{44119}{44174}- Don't you think it's ugly?|- Of course.
+{44180}{44245}But Frulein Helga's was ugliest.
+{44251}{44314}I'm Kurt. I'm 11.|I'm incorrigible.
+{44320}{44395}- Congratulations.|- What's "incorrigible"?
+{44401}{44531}I think it means you want|to be treated like a boy.
+{44546}{44625}I'm Marta, and I'm going to be|seven on Tuesday.
+{44631}{44687}I'd like a pink parasol.
+{44693}{44767}Pink's my favorite color too.
+{44786}{44830}Yes, you're Gretl.
+{44836}{44882}And you're five years old?
+{44888}{44973}My, you're practically a lady.
+{44996}{45097}I have to tell you a secret.|I've never been a governess.
+{45103}{45170}You don't know anything|about being a governess?
+{45176}{45225}Nothing. I'll need lots of advice.
+{45231}{45340}The best way to start is to tell|Father to mind his own business.
+{45346}{45388}Never come to dinner on time.
+{45394}{45460}Never eat your soup quietly.
+{45466}{45515}During dessert, always blow your nose.
+{45521}{45587}Don't you believe a word they say,|Frulein Maria.
+{45593}{45687}- Oh, why not?|- Because I like you.
+{45693}{45740}Children, outside for your walk.
+{45746}{45790}Father's orders. Hurry up.
+{45796}{45827}Quick, quick, quick.
+{45833}{45910}Frulein Maria, I'm Frau Schmidt,|the housekeeper.
+{45916}{45940}How do you do.
+{45946}{46051}I'll show you to your room.|Follow me.
+{46281}{46360}Poor little dears.
+{46628}{46769}You're very lucky. With|Frulein Helga it was a snake.
+{47066}{47125}Good evening.
+{47131}{47216}- Good evening, children.|- Good evening, Frulein Maria.
+{47389}{47428}Enchanting little ritual.
+{47434}{47522}Something you learned at the abbey?
+{47528}{47620}No.
+{47623}{47691}Rheumatism.
+{47888}{48001}Excuse me, captain. Haven't we|forgotten to thank the Lord?
+{48161}{48240}For what we receive,|may the Lord make us truly thankful.
+{48246}{48329}- Amen.|Amen.
+{48401}{48446}I'd like to thank you all...
+{48452}{48561}...for the precious gift|you left in my pocket today.
+{48607}{48688}What gift?
+{48726}{48777}It's a secret between|the children and me.
+{48783}{48874}Then I suggest you keep it,|and let us eat.
+{48880}{48927}Knowing how nervous|I must have been...
+{48933}{48990}...a stranger in a new household...
+{48996}{49070}...knowing how important it was|for me to feel accepted...
+{49076}{49176}...it was so kind and thoughtful of|you to make my first moments here...
+{49182}{49235}...so warm and happy...
+{49241}{49320}...and pleasant.
+{49505}{49591}- What is the matter, Marta?|- Nothing.
+{49851}{49876}Frulein...
+{49882}{49973}...is it to be at every meal|or merely at dinnertime...
+{49979}{50088}...that you intend leading us through|this rare and wonderful new world...
+{50094}{50171}...of indigestion?
+{50171}{50276}They're all right, captain.|They're just happy.
+{50689}{50754}- Rolf, good evening.|- Good evening, Franz.
+{50760}{50825}- I trust everything is under control?|- Yes, yes.
+{50831}{50858}Good.
+{50864}{50922}- Are there any developments?|- Perhaps.
+{50928}{50980}- Is the captain home?|- He's at dinner.
+{50986}{51042}- With the family?|- Yes.
+{51048}{51103}Give him this telegram at once.
+{51109}{51171}Certainly.
+{51414}{51493}A telegram for you, sir.
+{51524}{51569}Franz? Who delivered it?
+{51575}{51661}That young lad Rolf, of course.
+{51680}{51739}- Father, may I be excused?|Hm.
+{51745}{51853}Children, in the morning I shall|be going to Vienna.
+{51859}{51955}Not again, Father!
+{52011}{52070}How long will you be gone this time?
+{52076}{52110}I'm not sure, Gretl.
+{52116}{52219}- To visit Baroness Schraeder again?|- Mind your own business!
+{52225}{52308}As a matter of fact, yes, Louisa.
+{52314}{52406}- Why can't we ever see the baroness?|Why would she want to see you?
+{52412}{52529}You are going to see the baroness.|I'm bringing her back with me to visit.
+{52535}{52560}Good.
+{52566}{52608}And Uncle Max.
+{52614}{52710}Uncle Max!
+{53058}{53126}Rolf!
+{53163}{53225}Oh, Rolf!
+{53250}{53320}- No, Liesl. We mustn't!|- Why not, silly?
+{53326}{53389}- I don't know...|- Isn't this why you're waiting?
+{53395}{53439}Yes, of course.
+{53445}{53512}- I've missed you, Liesl.|- You have? How much?
+{53518}{53610}I even thought of sending a telegram,|so I'd be able to deliver it here.
+{53616}{53709}Oh, that's a lovely thought!|Why don't you, right now?
+{53715}{53815}- But I'm here!|- Please, Rolf. Send me a telegram.
+{53821}{53914}I'll start it for you.|"Dear Liesl..."
+{53920}{54006}"Dear Liesl: I'd like to be able|to tell you...
+{54012}{54065}...how I feel about you. Stop."
+{54071}{54179}"Unfortunately, this wire|is already too expensive."
+{54185}{54218}"Sincerely, Rolf."
+{54224}{54289}- "Sincerely"?|- Cordially.
+{54295}{54374}- "Cordially"?|- Affectionately?
+{54380}{54409}Mmm.
+{54415}{54489}Will there be any reply?
+{54495}{54565}"Dear Rolf: Stop."
+{54571}{54683}"Don't stop! Your Liesl."
+{54686}{54779}If only we didn't have to wait|for someone to send Father a telegram.
+{54785}{54858}How do I know when I'll see you again?
+{54864}{54931}Well, let's see...
+{54966}{55030}I could come here by mistake.
+{55036}{55164}With a telegram for Colonel Schneider!|He's here from Berlin staying with...
+{55170}{55249}No one knows he's here.|Don't tell your father.
+{55255}{55330}- Why not?|- Your father's so Austrian.
+{55336}{55366}We're all Austrian.
+{55372}{55477}Some think we ought to be German, and|they're very mad at those who don't.
+{55483}{55563}They're getting ready to...
+{55566}{55624}Let's hope your father|doesn't get into trouble.
+{55630}{55748}Don't worry. He's a big naval hero.|He was even decorated by the emperor.
+{55754}{55839}I don't worry about him.|I worry about his daughter.
+{55845}{55880}Me? Why?
+{55886}{55928}- Well, you're so...|- What?
+{55934}{55975}You're such a baby!
+{55981}{56088}I'm 16.|What's such a baby about that?
+{56105}{56189}{y:i}You wait, little girl|{y:i}On an empty stage
+{56195}{56285}{y:i}For fate to turn the light on
+{56291}{56369}{y:i}Your life, little girl|{y:i}Is an empty page
+{56375}{56484}{y:i}That men will want to write on
+{56490}{56638}{y:i}To write on
+{56644}{56737}{y:i}You are 16 going on 17
+{56743}{56833}{y:i}Baby, it's time to think
+{56839}{56927}{y:i}Better beware|{y:i}Be canny and careful
+{56933}{57022}{y:i}Baby, you're on the brink
+{57028}{57119}{y:i}You are 16 going on 17
+{57125}{57214}{y:i}Fellows will fall in line
+{57220}{57299}{y:i}Eager young lads|{y:i}And rous and cads
+{57305}{57399}{y:i}Will offer you food and wine
+{57405}{57500}{y:i}Totally unprepared are you
+{57506}{57599}{y:i}To face a world of men
+{57605}{57705}{y:i}Timid and shy and scared are you
+{57711}{57795}{y:i}Of things beyond your ken
+{57801}{57893}{y:i}You need someone older and wiser
+{57899}{57992}{y:i}Telling you what to do
+{57998}{58080}{y:i}I am 17 going on 18
+{58086}{58266}{y:i}I'll take care of you
+{59008}{59088}{y:i}I am 16 going on 17
+{59094}{59175}{y:i}I know that I'm naive
+{59181}{59258}{y:i}Fellows I meet|{y:i}May tell me I'm sweet
+{59264}{59358}{y:i}And willingly I believe
+{59364}{59440}{y:i}I am 16 going on 17
+{59446}{59535}{y:i}Innocent as a rose
+{59541}{59624}{y:i}Bachelor dandies|{y:i}Drinkers of brandies
+{59630}{59710}{y:i}What do I know of those?
+{59716}{59800}{y:i}Totally unprepared am I
+{59806}{59895}{y:i}To face a world of men
+{59901}{59980}{y:i}Timid and shy and scared am I
+{59986}{60080}{y:i}Of things beyond my ken
+{60086}{60172}{y:i}I need someone older and wiser
+{60178}{60260}{y:i}Telling me what to do
+{60266}{60353}{y:i}You are 17 going on 18
+{60359}{60532}{y:i}I'll depend on you
+{62936}{63022}Whee!
+{63206}{63258}Come in.
+{63264}{63341}Frau Schmidt.
+{63359}{63402}For your new dresses.
+{63408}{63505}- The captain had these sent from town.|- Oh, how lovely!
+{63511}{63594}These will make the prettiest|clothes I've ever had.
+{63600}{63684}Do you think he would|get me more material if I asked?
+{63690}{63777}- How many dresses do you need?|- Not for me, for the children.
+{63783}{63832}I want to make them some play clothes.
+{63838}{63929}The von Trapp children don't play.|They march.
+{63935}{64012}Surely you don't approve of that.
+{64018}{64075}Ever since the captain|lost his poor wife...
+{64081}{64160}...he runs this house as if on|one of his ships.
+{64166}{64199}Whistles, orders.
+{64205}{64250}No more music, no more laughing.
+{64256}{64347}Nothing that reminds him of her.|Even the children.
+{64353}{64393}But that's so wrong.
+{64399}{64435}Oh, well.
+{64441}{64529}How do you like your room?|There'll be new drapes at the windows.
+{64535}{64565}Bu these are fine.
+{64571}{64609}New ones have been ordered.
+{64615}{64695}- But I really don't need them.|- Good night, now.
+{64701}{64798}Frau Schmidt, if I asked|the captain about the material...?
+{64804}{64919}- He's leaving in the morning.|- Of course. How long will he be gone?
+{64925}{65057}It depends. The last time he visited|the baroness, he stayed for a month.
+{65063}{65173}I shouldn't be saying this to you.|I don't know you that well.
+{65179}{65248}But if you ask me,|the captain's thinking seriously...
+{65254}{65307}...of marrying her before|summer's over.
+{65313}{65420}Wonderful! The children will|have a mother again.
+{65426}{65457}Yes.
+{65463}{65504}Well, good night.
+{65510}{65581}Good night.
+{65985}{66053}Dear Father, now I know|why You sent me here.
+{66059}{66128}To help these children|prepare for a new mother.
+{66134}{66212}And I pray this will become|a happy family in Thy sight.
+{66218}{66292}God bless the captain.|God bless Liesl and Friedrich.
+{66298}{66399}God bless Louisa, Brigitta,|Marta and little Gretl.
+{66405}{66510}And I forgot the other boy.|What's his name?
+{66514}{66557}Well, God bless what's-his-name.
+{66563}{66660}God bless the Reverend Mother|and Sister Margaretta...
+{66666}{66707}...and everybody at the abbey.
+{66713}{66779}And now, dear God, about Liesl.
+{66785}{66829}Help her know that I'm her friend...
+{66835}{66908}...and help her tell me|what she's been up to.
+{66914}{66943}- Are you going to tell on me?|- Shh.
+{66949}{67031}Help me to be understanding|so I may guide her footsteps.
+{67037}{67100}In the name of the Father,|the Son and the Holy Ghost.
+{67106}{67178}I was out walking|and somebody locked the doors early.
+{67184}{67309}I didn't want to wake everybody,|so when I saw your window open...
+{67310}{67397}You're not going to tell Father,|are you?
+{67403}{67471}Hm.
+{67530}{67567}How did you climb up?
+{67573}{67647}It's how we always got in|to play tricks on the governess.
+{67653}{67743}Louisa can make it with|a whole jar of spiders in her hand.
+{67749}{67807}Spiders?
+{67813}{67872}Oh. Liesl.
+{67878}{67978}Were you out walking all by yourself?
+{68120}{68219}If we wash that dress tonight,|nobody would notice it tomorrow.
+{68225}{68305}You could put this on.
+{68309}{68373}Take your dress and put it|to soak in the bathtub.
+{68379}{68489}Come back here and sit on the bed,|and we'll have a talk.
+{68495}{68567}I told you today|I didn't need a governess.
+{68573}{68660}Well, maybe I do.
+{69354}{69413}Gretl, are you scared?
+{69499}{69553}You're not frightened|of a storm, are you?
+{69559}{69636}You just stay right here with me.
+{69642}{69780}- Where are the others?|- They're asleep. They're not scared.
+{69849}{69930}Oh, no? Look.
+{69930}{69977}All right, up here on the bed.
+{69983}{70069}- Really?|- Well, just this once. Come on.
+{70075}{70216}- Now we'll wait for the boys.|- You won't see them. Boys are brave.
+{70325}{70374}You weren't scared, were you?
+{70380}{70478}Oh, no. We just wanted|to be sure that you weren't.
+{70484}{70557}- That's very thoughtful of you.|It wasn't my idea.
+{70563}{70607}It was Kurt's!
+{70613}{70713}Kurt! That's the one I left out!|God bless Kurt.
+{70743}{70785}Why does it do that?
+{70791}{70883}The lightning talks to the thunder,|and the thunder answers.
+{70889}{70949}- But lightning must be nasty.|- Not really.
+{70955}{71009}Why does the thunder get so angry?
+{71015}{71105}It makes me want to cry.
+{71112}{71212}Whenever I'm feeling unhappy,|I just try to think of nice things.
+{71218}{71274}What kind of things?
+{71280}{71327}Well, let me see. Nice things...
+{71333}{71383}Daffodils.
+{71389}{71427}Green meadows.
+{71433}{71486}Skies full of stars.
+{71492}{71568}{y:i}Raindrops on roses|{y:i}and whiskers on kittens
+{71574}{71648}{y:i}Bright copper kettles|{y:i}And warm woolen mittens
+{71654}{71730}{y:i}Brown paper packages|{y:i}Tied up with strings
+{71736}{71869}{y:i}These are a few of my favorite things
+{71894}{71961}{y:i}Cream-colored ponies|{y:i}And crisp apple strudels
+{71967}{72044}{y:i}Doorbells and sleigh bells|{y:i}And schnitzel with noodles
+{72050}{72120}{y:i}Wild geese that fly|{y:i}With the moon on their wings
+{72126}{72242}{y:i}These are a few of my favorite things
+{72248}{72314}{y:i}Girls in white dresses|{y:i}With blue satin sashes
+{72320}{72397}{y:i}Snowflakes that stay|{y:i}On my nose and eyelashes
+{72403}{72477}{y:i}Silver white winters|{y:i}That melt into springs
+{72483}{72563}{y:i}These are a few of my favorite things
+{72569}{72608}{y:i}When the dog bites
+{72614}{72655}{y:i}When the bee stings
+{72661}{72715}{y:i}When I'm feeling sad
+{72721}{72802}{y:i}I simply remember my favorite things
+{72808}{72983}{y:i}And then I don't feel so bad
+{72989}{73030}- Does it work?|- Of course.
+{73036}{73094}- What do you like?|- Pussy willow!
+{73100}{73153}- Christmas!|- Bunny rabbits!
+{73159}{73200}Snakes!
+{73206}{73257}- Chocolate icing!|- No school!
+{73263}{73292}Pillow fights!
+{73298}{73349}- Telegrams!|- Birthday presents!
+{73355}{73448}- Any presents!|Ladybugs!
+{73448}{73480}A good sneeze!
+{73486}{73529}Gesundheit!
+{73535}{73565}See what fun it is?
+{73571}{73642}{y:i}Raindrops on roses|{y:i}And whiskers on kittens
+{73648}{73717}{y:i}Bright copper kettles|{y:i}And warm woolen mittens
+{73723}{73795}{y:i}Brown paper packages|{y:i}Tied up with strings
+{73801}{73906}{y:i}These are a few of my favorite things
+{73951}{74019}{y:i}Cream-colored ponies|{y:i}And crisp apple strudels
+{74025}{74093}{y:i}Doorbells and sleigh bells|{y:i}And schnitzel with noodles
+{74099}{74170}{y:i}Wild geese that fly|{y:i}With the moon on their wings
+{74176}{74277}{y:i}These are a few of my favorite things
+{74283}{74320}Together.
+{74326}{74392}{y:i}Girls in white dresses|{y:i}With blue satin sashes
+{74398}{74467}{y:i}Snowflakes that stay|{y:i}On my nose and eyelashes
+{74473}{74545}{y:i}Silver white winters|{y:i}That melt into springs
+{74551}{74630}{y:i}These are a few of my favorite things
+{74636}{74687}{y:i}When the dog bi...
+{74693}{74776}Dog bites.
+{74899}{74928}Hello.
+{74934}{75034}Frulein, did I not tell you that|bedtime is to be strictly observed?
+{75040}{75132}The children were upset|by the storm, so I...
+{75138}{75162}You did, sir.
+{75168}{75294}Do you, or do you not, have difficulty|remembering such simple instructions?
+{75300}{75340}Only during thunderstorms.
+{75399}{75434}- Liesl?|- Yes?
+{75440}{75502}I don't recall seeing you|after dinner.
+{75508}{75550}Really? As a matter of fact...
+{75556}{75599}Yes?
+{75605}{75632}Well, I was...
+{75638}{75688}What she would like to say...
+{75694}{75762}...is that she and I have|been getting acquainted tonight.
+{75768}{75921}It's too late to go into that. You|heard your father. Go back to bed.
+{75996}{76030}Frulein...
+{76036}{76153}...you have managed to remember|I'm leaving in the morning?
+{76159}{76306}Is it also possible you remember the|first rule in this house is discipline?
+{76309}{76374}Then I trust that before I return...
+{76380}{76450}...you'll have acquired some?
+{76456}{76505}Captain?
+{76511}{76605}Could I talk to you about clothes|for the children for when they play?
+{76611}{76677}- If I could have some material.|- You are many things.
+{76683}{76733}Not the least of which is repetitious.
+{76739}{76792}- But they're children!|- Yes.
+{76798}{76848}And I'm their father.
+{76854}{76920}Good night.
+{76951}{77026}Oh.
+{77466}{77642}{y:i}Girls in white dresses|{y:i}With blue satin sashes
+{77881}{77965}{y:i}When the dog bites|{y:i}When the bee stings
+{77971}{78030}{y:i}When I'm feeling sad
+{78036}{78115}{y:i}I simply remember my favorite things
+{78121}{78172}{y:i}And then I don't feel...
+{78178}{78381}{y:i}... so bad
+{78919}{79021}Children, over here. See!
+{79071}{79141}Come on.
+{79789}{79856}Ho.
+{81095}{81125}Frulein Maria?
+{81131}{81177}Can we do this every day?
+{81183}{81263}- Don't you think you'd get tired of it?|- I suppose so.
+{81269}{81298}Every other day?
+{81304}{81414}I haven't had so much fun since we put|glue on Frulein Josephine's toothbrush.
+{81420}{81514}I can't understand how children|as nice as you can play such tricks.
+{81520}{81563}- It's easy.|- But why do it?
+{81569}{81640}How else can we get|Father's attention?
+{81646}{81710}Oh, I see.
+{81716}{81806}We'll have to think about that one.
+{81821}{81860}All right, over here.
+{81866}{81899}What are we going to do?
+{81905}{81952}Think of a song for the baroness.
+{81958}{82005}Father doesn't like us to sing.
+{82011}{82097}Perhaps we can change his mind.|Now, what songs do you know?
+{82103}{82154}We don't know any songs.
+{82160}{82262}- Not any?|- We don't even know how to sing.
+{82266}{82317}Let's not lose time. You must learn.
+{82323}{82401}But how?
+{82468}{82562}{y:i}Let's start at the very beginning
+{82568}{82648}{y:i}A very good place to start
+{82654}{82700}{y:i}When you read you begin with
+{82706}{82733}{y:i}A, B, C
+{82739}{82844}{y:i}When you sing, you begin with|{y:i}Do-Re-Mi
+{82850}{82889}{y:i}Do-re-mi
+{82895}{82927}{y:i}Do-re-mi
+{82933}{83025}{y:i}The first three notes|{y:i}Just happen to be
+{83031}{83073}{y:i}Do-re-mi
+{83079}{83110}{y:i}Do-re-mi
+{83116}{83220}{y:i}Do-re-mi-fa-so-la-ti
+{83226}{83321}Let's see if I can make it easier.
+{83365}{83453}{y:i}"Doe", a deer|{y:i}A female deer
+{83459}{83545}{y:i}"Ray", a drop of golden sun
+{83551}{83642}{y:i}"Me", a name I call myself
+{83648}{83737}{y:i}"Far", a long long way to run
+{83743}{83834}{y:i}"Sew", a needle pulling thread
+{83840}{83932}{y:i}"La", a note to follow sew
+{83938}{84015}{y:i}"Tea", a drink with jam and bread
+{84021}{84125}{y:i}That will bring us back to doe
+{84131}{84217}{y:i}- Doe|{y:i}- A deer, a female deer
+{84223}{84300}{y:i}- Ray|{y:i}- A drop of golden sun
+{84306}{84384}{y:i}- Me|{y:i}- A name I call myself
+{84390}{84472}{y:i}- Far|{y:i}- A long long way to run
+{84478}{84560}{y:i}Sew, a needle pulling thread
+{84566}{84650}{y:i}- La|{y:i}- A note to follow sew
+{84656}{84725}{y:i}- Tea|{y:i}- A drink with jam and bread
+{84731}{84785}{y:i}That will bring us back to
+{84791}{84874}{y:i}- Doe|{y:i}- A deer, a female deer
+{84880}{84958}{y:i}Ray, a drop of golden sun
+{84964}{85042}{y:i}Me, a name I call myself
+{85048}{85122}{y:i}Far, a long long way to run
+{85128}{85206}{y:i}Sew, a needle pulling thread
+{85212}{85294}{y:i}La, a note to follow sew
+{85300}{85362}{y:i}Tea, a drink with jam and bread
+{85368}{85469}{y:i}That will bring us back to doe
+{85475}{85554}{y:i}Do-re-mi-fa-so-la-ti-do, so-do
+{85560}{85670}Do-re-mi-fa-so and so on are only|the tools we use to build a song.
+{85676}{85753}Once you have them in your head|you can sing different tunes...
+{85759}{85834}...by mixing them up. Like this:
+{85840}{85972}{y:i}So-do-la-fa-mi-do-re
+{85978}{86003}Can you do that?
+{86009}{86140}{y:i}So-do-la-fa-mi-do-re
+{86146}{86282}{y:i}So-do-la-ti-do-re-do
+{86288}{86415}{y:i}So-do-la-ti-do-re-do
+{86421}{86462}Now, put it all together.
+{86468}{86627}{y:i}So-do-la-fa-mi-do-re
+{86633}{86783}{y:i}So-do-la-ti-do-re-do
+{86789}{86852}- Good.|- But it doesn't mean anything.
+{86858}{86929}So we put in words.|One word for every note.
+{86935}{86965}Like this:
+{86971}{87128}{y:i}When you know the notes to sing
+{87134}{87270}{y:i}You can sing most anything
+{87276}{87298}Together!
+{87304}{87465}{y:i}When you know the notes to sing
+{87471}{87635}{y:i}You can sing most anything
+{87641}{87722}{y:i}- Doe|{y:i}- A deer, a female deer
+{87728}{87804}{y:i}- Ray|{y:i}- A drop of golden sun
+{87810}{87888}{y:i}- Me|{y:i}- A name I call myself
+{87894}{87967}{y:i}- Far|{y:i}- A long long way to run
+{87973}{88054}{y:i}- Sew|{y:i}- A needle pulling thread
+{88060}{88138}{y:i}- La|{y:i}- A note to follow sew
+{88144}{88215}{y:i}- Tea|{y:i}- A drink with jam and bread
+{88221}{88318}{y:i}That will bring us back to doe
+{88324}{88390}{y:i}Do. Re. Mi. Fa. So. La. Ti.
+{88396}{88447}{y:i}- Do-do.|{y:i}- Ti. La. So.
+{88453}{88478}{y:i}Fa. Mi. Re.
+{88484}{88528}{y:i}Do|{y:i}- Mi-mi
+{88534}{88559}{y:i}So-so
+{88565}{88600}{y:i}- Re|{y:i}- Fa-fa
+{88606}{88644}{y:i}- La|{y:i}- Ti-ti
+{88650}{88685}{y:i}Do-mi-mi-mi-so-so
+{88691}{88728}{y:i}Re-fa-fa-la-ti-ti
+{88734}{88893}{y:i}When you know the notes to sing
+{88899}{89063}{y:i}You can sing most anything
+{89069}{89145}{y:i}Doe|{y:i}A deer, a female deer
+{89151}{89235}{y:i}Ray|{y:i}A drop of golden sun
+{89241}{89324}{y:i}Me|{y:i}A name I call myself
+{89330}{89405}{y:i}Far|{y:i}A long long way to run
+{89411}{89487}{y:i}Sew|{y:i}A needle pulling thread
+{89493}{89577}{y:i}La|{y:i}A note to follow sew
+{89583}{89647}{y:i}Tea|{y:i}A drink with jam and bread
+{89653}{89747}{y:i}That will bring us back to
+{89753}{89917}{y:i}So-do-la-fa-mi-do-re
+{89923}{90030}{y:i}So-do-la-fa-ti
+{90036}{90113}{y:i}La-so
+{90160}{90299}{y:i}Ti-do
+{90305}{90377}{y:i}So-do
+{90663}{90737}The mountains are magnificent,|really magnificent.
+{90743}{90807}- I had them put up just for you.|- Oh?
+{90813}{90866}Even if it's to a height|of 10,000 feet...
+{90872}{90956}...Georg always believes in|"rising to the occasion".
+{90962}{91026}Improve the jokes|or I'll disinvite you.
+{91032}{91094}You didn't invite me.|I invited myself.
+{91100}{91161}- Naturally.|- You needed a chaperone...
+{91167}{91232}...and I needed a place|where the cuisine is superb...
+{91238}{91302}...the wine cellar unexcelled...
+{91308}{91374}...and the price perfect.
+{91380}{91424}Max, you are outrageous.
+{91430}{91525}Not at all.|I'm a very charming sponge.
+{91588}{91653}Listen.
+{91672}{91763}That's the Klopmann Monastery Choir.
+{91798}{91856}They're good.
+{91862}{91914}Very good.
+{91920}{91982}I must explore this area|in the next few days.
+{91988}{92072}Somewhere, a hungry singing group|is waiting for Max Detweiler...
+{92078}{92180}...to pluck it out and make it famous|at the Salzburg Folk Festival.
+{92186}{92265}- They get fame, you get money.|- It's unfair, I admit it.
+{92271}{92379}But someday that'll be changed.|I shall get the fame too.
+{92545}{92625}Good heavens, what's this?
+{92631}{92723}It's nothing.|Just some local urchins.
+{93052}{93159}This really is exciting for me, Georg.|Being here with you.
+{93165}{93227}Trees, lakes,|you've seen them before.
+{93233}{93296}That is not what I mean,|and you know it.
+{93302}{93397}- You mean me? I'm exciting?|- Is that so impossible?
+{93403}{93476}No, just highly improbable.
+{93482}{93618}- There you go, running yourself down.|- Well, I'm a dangerous driver.
+{93672}{93760}You're much less of a riddle|when I see you here, Georg.
+{93766}{93834}- In my natural habitat?|- Yes, exactly.
+{93840}{93892}Are you saying that I'm more|at home...
+{93898}{93994}...among the birds and the flowers|and the wind that moves...
+{94000}{94052}...through the trees|like a restless sea?
+{94058}{94095}How poetic.
+{94101}{94167}Yes, it was rather, wasn't it?
+{94173}{94295}More at home here than in Vienna|in all your glittering salons...
+{94301}{94406}...gossiping gaily with bores I|detest, soaking myself in champagne...
+{94412}{94502}...stumbling about to waltzes|by Strausses I can't even remember?
+{94508}{94559}- Is that what you're saying?|- Yes.
+{94565}{94658}Now whatever gave you that idea?
+{94702}{94797}Oh, I do like it here, Georg.|It's so lovely and peaceful.
+{94803}{94850}How can you leave it so often?
+{94856}{94924}Oh, pretending to be madly active,|I suppose.
+{94930}{95020}Activity suggests a life|filled with purpose.
+{95026}{95107}Could it be running away|from memories?
+{95113}{95151}Mm-hm.
+{95157}{95261}Or perhaps just searching|for a reason to stay.
+{95267}{95361}I hope that's why you've been|coming to Vienna so often.
+{95367}{95471}- Were there other distractions?|- I'd hardly call you a distraction.
+{95477}{95578}Well, what would you call me, Georg?
+{95595}{95644}Lovely...
+{95650}{95712}...charming, witty, graceful,|the perfect hostess...
+{95718}{95790}...and, you're going to hate me|for this...
+{95796}{95846}...in a way, my savior.
+{95852}{95895}Oh, how unromantic.
+{95901}{95957}I'd be an ungrateful wretch|if I didn't say...
+{95963}{96078}...that you brought some meaning back|into my life.
+{96085}{96150}I am amusing, I suppose.
+{96156}{96270}I have the finest couturier in Vienna|and a glittering circle of friends.
+{96276}{96351}- I do give some rather gay parties.|- Oh, yes.
+{96357}{96400}But take all that away...
+{96406}{96522}...and you have just wealthy,|unattached little me...
+{96528}{96596}...searching, just like you.
+{96708}{96749}More strudel, Herr Detweiler?
+{96755}{96792}- How many have I had?|- Two.
+{96798}{96881}Make it an uneven three.
+{96923}{96995}Still eating, Max?|Must be unhappy.
+{97001}{97096}That mixed quartet I've been trying|to steal away from Sol Hurok...
+{97102}{97165}- What happened?|...Sascha Petrie stole them first.
+{97171}{97202}I hate thieves.
+{97208}{97287}Max, you really must try|and learn to love yourself.
+{97293}{97349}I had to call Paris, Rome|and Stockholm.
+{97355}{97446}- On Georg's telephone, of course.|- How else could I afford it?
+{97452}{97576}I like rich people, the way they live|and how I live when I'm with them.
+{97582}{97634}I wonder where the children are.
+{97640}{97701}They must have heard|I was coming and hid.
+{97707}{97767}I was hoping they'd be here|to welcome you.
+{97773}{97918}Max, do step out of character for|a moment and try and be charming.
+{98098}{98147}Well?
+{98153}{98181}Well what?
+{98187}{98257}Have you made up his mind?|Do I hear wedding bells?
+{98263}{98311}- Pealing madly.|- Marvelous.
+{98317}{98381}- Not necessarily for me.|- What kind of talk's that?
+{98387}{98426}None-of-your-business talk.
+{98432}{98492}I'm terribly fond of him,|so don't toy with us.
+{98498}{98584}But I'm a child. I like toys.|So tell me everything.
+{98590}{98742}Come on. Tell me every teensy-weensy,|intimate, disgusting detail.
+{98748}{98847}Well, let's just say I have a feeling|I may be here on approval.
+{98853}{98926}- I approve of that. How can you miss?|- Far too easily.
+{98932}{99009}If I know you, darling,|and I do, you will find a way.
+{99015}{99076}- He's no ordinary man.|- No, he's rich.
+{99082}{99135}His wife's death gave him|a great heartache.
+{99141}{99215}And your husband's death|gave you a great fortune.
+{99221}{99267}Oh, Max, you really are a beast.
+{99273}{99369}You and Georg are like family.|That's why I want to see you married.
+{99375}{99498}We must keep all that lovely money|in the family.
+{99851}{99922}- What are you doing there?|- Oh, Captain von Trapp.
+{99928}{99992}I was just looking for...
+{99998}{100074}I didn't see, I mean,|I didn't know you were...
+{100080}{100132}Heil Hitler!
+{100138}{100174}Who are you?
+{100180}{100233}I have a telegram for Herr Detweiler.
+{100239}{100343}- I am Herr Detweiler.|- Yes, sir.
+{100427}{100528}You've delivered your telegram.|Now get out.
+{100652}{100732}- Georg, he's just a boy.|- Yes, and I'm just an Austrian.
+{100738}{100806}Things will happen.|Make sure they don't happen to you.
+{100812}{100877}Max! Don't you ever say that again.
+{100883}{100936}I have no political convictions.
+{100942}{101032}- Can I help it if other people do?|- You can help it.
+{101038}{101128}You must help it.
+{101338}{101413}Hello?
+{101438}{101507}You're far away. Where are you?
+{101513}{101592}In a world that's disappearing,|I'm afraid.
+{101626}{101748}Is there any way I could bring you|back to the world I'm in?
+{102121}{102212}{y:i}And that will bring us back to doe
+{102218}{102280}{y:i}A deer, a female deer
+{102333}{102406}- Father! Father!|- There's your father!
+{102412}{102513}Oh, captain, you're home!
+{102677}{102778}Come out of that water at once!
+{102958}{103048}Oh, you must be Baroness Schraeder.
+{103138}{103248}I'm soaked to the skin!
+{103498}{103568}Straight line!
+{103883}{103978}This is Baroness Schraeder.
+{104003}{104045}And these...
+{104051}{104109}...are my children.
+{104115}{104172}How do you do?
+{104178}{104328}Go inside, dry off, clean up, change|your clothes and report back here!
+{104411}{104498}Frulein, you will stay here, please!
+{104503}{104625}I think I'd better go see|what Max is up to.
+{104833}{104913}Now, frulein...
+{104922}{104975}...I want a truthful answer.
+{104981}{105017}Yes, captain.
+{105023}{105151}Is it possible,|or could I have just imagined it?
+{105157}{105270}Have my children, by any chance,|been climbing trees today?
+{105276}{105324}Yes, captain.
+{105330}{105369}I see.
+{105375}{105483}And where, may I ask,|did they get these...
+{105489}{105538}- Play clothes.|- Is that what they are?
+{105544}{105639}I made them from the drapes|that used to hang in my bedroom.
+{105645}{105695}- Drapes?|- They have plenty of wear left.
+{105701}{105747}We've been everywhere in them.
+{105753}{105860}Are you telling me that my children|have been roaming about Salzburg...
+{105866}{105945}...dressed up in nothing|but some old drapes?
+{105951}{105990}And having a marvelous time!
+{105996}{106073}- They have uniforms.|- Forgive me, straitjackets.
+{106079}{106146}They can't be children|if they worry about clothes...
+{106152}{106179}They don't complain.
+{106185}{106249}They don't dare.|They love you too much and fear...
+{106255}{106292}Don't discuss my children.
+{106298}{106343}You've got to hear, you're|never home...
+{106349}{106384}I don't want to hear more!
+{106390}{106464}I know you don't, but you've got to!
+{106470}{106522}- Liesl's not a child.|- Not one word...
+{106528}{106597}Soon she'll be a woman|and you won't even know her.
+{106603}{106677}Friedrich wants to be a man|but you're not here to show...
+{106683}{106715}Don't you dare tell me...
+{106721}{106799}Brigitta could tell you about him.|She notices everything.
+{106805}{106879}Kurt acts tough to hide the pain|when you ignore him...
+{106885}{106922}...the way you do all of them.
+{106928}{106986}Louisa, I don't know about yet.
+{106992}{107069}The little ones just want love.|Please, love them all.
+{107075}{107112}I don't care to hear more.
+{107118}{107253}- I am not finished yet, captain!|- Oh, yes, you are, captain!
+{107253}{107305}Frulein.
+{107311}{107410}Now, you will pack|your things this minute...
+{107416}{107475}...and return to the abbey.
+{107538}{107608}What's that?
+{107612}{107647}It's singing.
+{107653}{107737}Yes, I realize it's singing.|But who is singing?
+{107743}{107818}The children.
+{107850}{107889}The children?
+{107895}{107998}I taught them something to sing|for the baroness.
+{108096}{108241}{y:i}My heart wants to sing|{y:i}Every song it hears
+{108247}{108309}{y:i}Every song that it hears
+{108315}{108446}{y:i}My heart wants to beat like the wings|{y:i}Of the birds that rise
+{108452}{108527}{y:i}From the lake to the trees
+{108533}{108567}{y:i}To the trees
+{108573}{108690}{y:i}My heart wants to sigh|{y:i}Like a chime that flies
+{108696}{108807}{y:i}From a church on a breeze
+{108813}{108907}{y:i}To laugh like a brook|{y:i}When it trips and falls
+{108913}{108984}{y:i}Over stones on its way
+{108990}{109024}{y:i}On its way
+{109030}{109135}{y:i}To sing through the night
+{109141}{109277}{y:i}Like a lark who is learning to pray
+{109283}{109390}{y:i}I go to the hills
+{109396}{109546}{y:i}When my heart is lonely
+{109552}{109641}{y:i}I know I will hear
+{109647}{109799}{y:i}What I've heard before
+{109805}{109907}{y:i}My heart will be blessed
+{109913}{110095}{y:i}With the sound of music
+{110101}{110225}{y:i}And I'll sing...
+{110231}{110463}{y:i}... once more
+{111223}{111303}Edelweiss!
+{111360}{111473}You never told me how enchanting|your children are.
+{111643}{111718}Don't go away.
+{111803}{111873}Frulein.
+{111917}{111974}I...
+{111980}{112085}...behaved badly. I apologize.
+{112091}{112180}I'm far too outspoken.|It's one of my worst faults.
+{112186}{112258}You were right.
+{112280}{112351}I don't know my children.
+{112357}{112457}There's still time, captain.|They want so much to be close to you.
+{112463}{112582}And you brought music back|into the house.
+{112588}{112660}I'd forgotten.
+{112688}{112758}Frulein.
+{112780}{112848}I want you to stay.
+{112907}{113010}I ask you to stay.
+{113017}{113109}- If I could be of any help.|- You have already.
+{113115}{113177}More than you know.
+{113613}{113656}Marta.
+{113662}{113730}Curtain!
+{113756}{113873}{y:i}High on a hill was a lonely goatherd
+{113873}{113980}{y:i}Loud was the voice|{y:i}Of the lonely goatherd
+{113986}{114103}{y:i}Folks in a town|{y:i}That was quite remote heard
+{114103}{114218}{y:i}Lusty and clear|{y:i}From the goatherd's throat heard
+{114457}{114563}Marta. Marta!
+{114583}{114668}Gretl, the prince!
+{114673}{114784}{y:i}A prince on the bridge|{y:i}Of a castle moat heard
+{114790}{114884}{y:i}Men on a road|{y:i}With a load to tote heard
+{114907}{115012}{y:i}Men in the midst|{y:i}Of a table d'hte heard
+{115018}{115102}{y:i}Men drinking beer|{y:i}With the foam afloat heard
+{115361}{115473}{y:i}One little girl|{y:i}In a pale pink coat heard
+{115476}{115577}{y:i}She yodeled back|{y:i}To the lonely goatherd
+{115583}{115696}{y:i}Soon her mama|{y:i}With a gleaming gloat heard
+{115702}{115818}{y:i}What a duet for a girl and goatherd
+{116898}{117006}{y:i}One little girl|{y:i}In a pale pink coat heard
+{117012}{117117}{y:i}She yodeled back|{y:i}To the lonely goatherd
+{117123}{117234}{y:i}Soon her mama|{y:i}With a gleaming gloat heard
+{117240}{117353}{y:i}What a duet for a girl and goatherd
+{117356}{117395}{y:i}Happy are they
+{117468}{117572}{y:i}Soon the duet will become a trio
+{118133}{118170}- Bravo!|- Bravo!
+{118176}{118214}Very good!
+{118220}{118249}- Bravo!|- Bravo!
+{118255}{118309}Wonderful!
+{118315}{118390}- Can we keep the puppets, Uncle Max?|Yes, can we?
+{118396}{118444}Of course you may, my darlings.
+{118450}{118588}Why else did I tell Professor Kohner|to send the bill to your father?
+{118640}{118718}Well done, frulein.
+{118741}{118787}I really am very much impressed.
+{118793}{118878}They're your children, captain.
+{119013}{119069}My dear, is there anything|you can't do?
+{119075}{119130}Well, I'm not sure|I'll make a good nun.
+{119136}{119248}If you have any problems,|I'd be happy to help you.
+{119286}{119319}Attention, everyone!
+{119325}{119407}I have an announcement to make.|Surprise! Surprise!
+{119413}{119469}Today, after a long|and desperate search...
+{119475}{119594}...I have found a most exciting|entry for the Salzburg Folk Festival.
+{119600}{119644}Congratulations, Max.
+{119650}{119758}And who will you|be exploiting this time?
+{119763}{119852}- The Saint Ignatius Choir?|- Guess again.
+{119858}{119952}Well, let me see now.|The Klopmann Choir?
+{119958}{120014}- No, no, no, no.|- No, no?
+{120020}{120048}Tell us.
+{120054}{120137}A singing group all in one family.|You'll never guess, Georg.
+{120143}{120212}What a charming idea!
+{120218}{120276}Whose family?
+{120282}{120320}Yours.
+{120326}{120418}They'll be the talk of the festival.
+{120450}{120522}- Well, now, what's so funny?|- You are, Max.
+{120528}{120615}You're expensive, but very funny.
+{120621}{120677}- They'll be a sensation!|- No, Max.
+{120683}{120734}It's a wonderful idea.|Fresh, original.
+{120740}{120866}Max! My children|do not sing in public.
+{120872}{120918}You can't blame me for trying.
+{120924}{121033}Children, who shall we hear|from next?
+{121063}{121090}Who?
+{121096}{121158}Yes.
+{121238}{121305}Yes.
+{121337}{121397}The vote is unanimous.
+{121403}{121441}You, captain.
+{121447}{121490}Me?
+{121496}{121588}- I don't understand.|- Please.
+{121700}{121751}No, no, no, no.
+{121757}{121805}I'm told that you were quite good.
+{121811}{121891}- That was a very, very long time ago.|- I remember, Father.
+{121897}{122003}- Play us something we know.|- Oh, please, Father.
+{122035}{122098}Well...
+{122307}{122359}- Why didn't you tell me?|- What?
+{122365}{122458}To bring along my harmonica.
+{122477}{122565}{y:i}Edelweiss
+{122566}{122641}{y:i}Edelweiss
+{122647}{122796}{y:i}Every morning you greet me
+{122802}{122889}{y:i}Small and white
+{122895}{122975}{y:i}Clean and bright
+{122981}{123048}{y:i}You look happy...
+{123054}{123146}{y:i}... to meet me
+{123152}{123207}{y:i}Blossom of snow
+{123213}{123312}{y:i}May you bloom and grow
+{123318}{123487}{y:i}Bloom and grow forever
+{123493}{123580}{y:i}Edelweiss
+{123586}{123659}{y:i}Edelweiss
+{123665}{123876}{y:i}Bless my homeland forever
+{123945}{124022}{y:i}- Edelweiss|{y:i}- Edelweiss
+{124028}{124112}{y:i}- Edelweiss|{y:i}- Edelweiss
+{124118}{124271}{y:i}Every morning you greet me
+{124277}{124362}{y:i}- Small and white|{y:i}- Small and white
+{124368}{124450}{y:i}- Clean and bright|{y:i}- Clean and bright
+{124456}{124516}{y:i}You look happy...
+{124522}{124614}{y:i}... to meet me
+{124620}{124670}{y:i}Blossom of snow
+{124676}{124775}{y:i}May you bloom and grow
+{124781}{124950}{y:i}Bloom and grow forever
+{124956}{125044}{y:i}Edelweiss
+{125050}{125122}{y:i}Edelweiss
+{125128}{125403}{y:i}Bless my homeland forever
+{125587}{125675}Anytime you say the word, Georg,|you can be part of my new act:
+{125681}{125761}The von Trapp Family Singers.
+{125767}{125827}I have a wonderful idea, Georg.
+{125833}{125892}Let's really fill this house|with music.
+{125898}{125969}You must give a grand|and glorious party for me.
+{125975}{126039}- A party?|- Yes, Father, please!
+{126045}{126102}It's high time|I met all your friends...
+{126108}{126169}...and they met me.|Don't you agree?
+{126175}{126229}- I see what you mean.|- Oh, please!
+{126235}{126327}Children, it's bedtime.|Come now, say good night.
+{126333}{126364}Good night, Father.
+{126370}{126437}- Good night.|- Good night, Baroness Schraeder.
+{126443}{126509}Good night, Father.
+{126515}{126546}Good night.
+{126552}{126633}Good night, Uncle Max.
+{126642}{126755}It'll be my first party, Father!
+{127498}{127560}- Captain.|- Herr Zeller. Baroness Schraeder.
+{127566}{127666}- Good evening, Herr Zeller.|- Baroness.
+{127672}{127768}How do you do? Good evening.
+{128226}{128345}Did you notice the obvious|display of the Austrian flag?
+{128478}{128521}The women look so beautiful.
+{128527}{128560}I think they look ugly.
+{128566}{128608}You're just scared of them.
+{128614}{128677}Silly, only grown-up men fear women.
+{128683}{128806}- I think the men look beautiful.|- How would you know?
+{129182}{129230}Liesl, who are you dancing with?
+{129236}{129289}Nobody.
+{129295}{129378}Oh, yes, you are.
+{129400}{129435}May I have this dance?
+{129441}{129538}I'd be delighted, young man.
+{129662}{129727}Why didn't you tell me|you could dance?
+{129733}{129888}We feared you'd make us all dance.|The von Trapp Family Dancers.
+{129957}{129997}What are they playing?
+{130003}{130064}It's the Laendler.|An Austrian folk dance.
+{130070}{130146}- Show me.|- I haven't danced since I was little.
+{130152}{130199}You remember. Please?
+{130205}{130252}- Well...|- Please.
+{130258}{130317}All right. Come on over here.
+{130323}{130407}Now you bow and I curtsy.
+{130413}{130484}- Like this?|- Fine. Now we go for a little walk.
+{130490}{130554}One, two, three. One, two, three.
+{130560}{130671}One, two, three, step together.|Now, step hop, step hop.
+{130677}{130740}Now turn under. Not quite.
+{130746}{130851}This way. Hop step, hop.|And under.
+{130857}{130897}Kurt, we'll have to practice.
+{130903}{130976}Do allow me, will you?
+{133056}{133138}I don't remember anymore.
+{133153}{133231}- Your face is all red.|- Is it?
+{133237}{133287}I don't suppose I'm used to dancing.
+{133353}{133400}Why, that was beautifully done.
+{133406}{133452}What a lovely couple you make.
+{133458}{133509}It's time the children|said good night.
+{133515}{133547}We'll be in the hall.
+{133553}{133622}- We have something special prepared.|- Right!
+{133628}{133694}Yes, come on!
+{133821}{133877}All that needless worrying, Georg.
+{133883}{133993}You thought you wouldn't find|a friend at the party.
+{134026}{134111}- A bit chilly out tonight, isn't it?|- Oh, I don't know.
+{134117}{134202}It seemed rather warm to me.
+{134267}{134307}Ladies and gentlemen.
+{134313}{134448}The children of Captain von Trapp|wish to say good night to you.
+{134750}{134842}{y:i}There's a sad sort of clanging|{y:i}From the clock in the hall
+{134848}{134938}{y:i}And the bells in the steeple too
+{134944}{135040}{y:i}And up in the nursery|{y:i}An absurd little bird
+{135046}{135104}{y:i}Is popping up to say "coo-coo"
+{135110}{135150}{y:i}Coo-coo
+{135156}{135185}{y:i}Coo-coo
+{135191}{135242}{y:i}- Regretfully they tell us|{y:i}- Coo-coo
+{135248}{135281}{y:i}- But firmly they compel us|{y:i}- Coo-coo
+{135287}{135360}{y:i}- To say goodbye|{y:i}- Coo-coo
+{135366}{135530}{y:i}To you
+{135570}{135662}{y:i}So long, farewell|{y:i}Auf Wiedersehen, good night
+{135668}{135797}{y:i}I hate to go|{y:i}And leave this pretty sight
+{135934}{136024}{y:i}So long, farewell,|{y:i}Auf Wiedersehen, adieu
+{136030}{136152}{y:i}Adieu, adieu|{y:i}To you and you and you
+{136292}{136383}{y:i}So long, farewell|{y:i}Au revoir, auf Wiedersehen
+{136389}{136484}{y:i}I'd like to stay|{y:i}And taste my first champagne
+{136490}{136585}- Yes?|- No.
+{136652}{136742}{y:i}So long, farewell|{y:i}Auf Wiedersehen, goodbye
+{136748}{136842}{y:i}I leave and heave a sigh|{y:i}And say goodbye
+{136848}{136981}{y:i}Goodbye
+{137017}{137091}{y:i}I'm glad to go
+{137097}{137168}{y:i}I cannot tell a lie
+{137174}{137246}{y:i}I flit, I float
+{137252}{137372}{y:i}I fleetly flee, I fly
+{137576}{137713}{y:i}The sun has gone to bed
+{137719}{137807}{y:i}And so must I
+{137813}{137871}{y:i}So long
+{137877}{137937}{y:i}Farewell
+{137943}{138073}{y:i}Auf Wiedersehen, goodbye
+{138079}{138218}{y:i}Goodbye
+{138224}{138357}{y:i}Goodbye
+{138363}{138527}{y:i}Goodbye
+{138533}{138773}{y:i}Goodbye
+{138857}{138923}Extraordinary!|What they'd do at the festival.
+{138929}{139006}Young lady,|I must have a word with you.
+{139012}{139109}Georg, you won't let this girl|get away. She must join the party.
+{139115}{139173}- No, really I...|- Stop. Stop it now.
+{139179}{139249}- Georg, please.|- You can if you want to, frulein.
+{139255}{139314}I insist.|You will be my dinner partner.
+{139320}{139366}This is business.|Franz...
+{139372}{139485}...set another place next to mine|for Frulein Maria.
+{139500}{139578}- Whatever you say.|- It appears to be all arranged.
+{139584}{139649}- It does.|- I'm not suitably dressed.
+{139655}{139729}You can change. We'll wait.
+{139732}{139772}All right.
+{139778}{139847}Captain, you must be very proud|of your youngsters.
+{139853}{139874}I am, thank you.
+{139880}{139989}Is there a more beautiful expression|of what is good in our country...
+{139995}{140081}...than the innocent voices|of our children?
+{140087}{140120}Oh, come now, baron.
+{140126}{140231}Would you have us believe that Austria|holds a monopoly on virtue?
+{140237}{140336}Herr Zeller, some of us prefer|Austrian voices raised in song...
+{140342}{140419}...to ugly German threats.
+{140425}{140511}The ostrich buries his head|in the sand...
+{140517}{140594}...and sometimes in the flag.
+{140600}{140701}Perhaps those who would warn you that|the Anschluss is coming, and it is...
+{140707}{140795}...would get further with you by setting|their words to music.
+{140801}{140914}If the Nazis take over Austria, you|will be the entire trumpet section.
+{140920}{140964}You flatter me.
+{140970}{141100}Oh, how clumsy of me.|I meant to accuse you.
+{141257}{141308}It's very kind of you|to offer to help me, baroness.
+{141314}{141357}I'm delighted, Maria.
+{141363}{141458}I really don't think I have anything|that would be appropriate.
+{141464}{141563}Now where is that lovely little thing|you were wearing the other evening?
+{141569}{141685}When the captain couldn't keep|his eyes off you.
+{141729}{141798}Couldn't keep his eyes off me?
+{141804}{141848}Come, my dear, we are women.
+{141854}{141934}Let's not pretend we don't know|when a man notices us.
+{141940}{142030}- Here we are.|- The captain notices everybody.
+{142036}{142095}There's no need to feel|so defensive, Maria.
+{142101}{142159}You are quite attractive, you know.
+{142165}{142290}The captain would hardly be a man|if he didn't notice you.
+{142290}{142353}Baroness, I hope you're joking.
+{142359}{142389}Not at all.
+{142395}{142433}I've never done a thing to...
+{142439}{142487}You don't have to, my dear.
+{142493}{142632}Nothing's more irresistible to a man|than a woman who's in love with him.
+{142638}{142714}- In love with him?|- Of course.
+{142720}{142839}What makes it so nice is|he thinks he's in love with you.
+{142867}{142908}But that's not true.
+{142914}{142999}Surely you've noticed the way|he looks into your eyes.
+{143005}{143147}And you know, you blushed in his arms|when you were dancing just now.
+{143153}{143194}Don't take it to heart.
+{143200}{143255}He'll get over it soon enough,|I think.
+{143261}{143327}Men do, you know.
+{143333}{143384}Then I should go.
+{143390}{143463}I mustn't stay here.
+{143677}{143795}- Is there something I can do to help?|- No, nothing.
+{143802}{143849}Yes.
+{143855}{143941}Don't say a word to the captain.
+{143943}{144065}No, I wouldn't dream of it.
+{144190}{144242}Goodbye, Maria.
+{144248}{144352}I'm sure you'll make a very fine nun.
+{145035}{145087}Champagne, darling.
+{145093}{145225}I feel like celebrating. Cheers.
+{145320}{145389}- You know something.|- Perhaps.
+{145395}{145504}If you're so clever, tell me how to|get frulein to influence Georg.
+{145510}{145577}I want those children in the festival.
+{145583}{145638}Elsa, this is important to Austria.
+{145644}{145685}Wouldn't do you any harm either.
+{145691}{145728}I thought of that.
+{145734}{145792}Well, if it's a matter of influence...
+{145798}{145905}...maybe the one you have|to be talking to is me.
+{150820}{150874}Two.|Three.
+{150880}{150940}Four.|Five.
+{150946}{150995}- Six.|- Seven.
+{151001}{151040}Eight.
+{151046}{151110}- Four.|- Two.
+{151116}{151159}Seven.|Five.
+{151165}{151255}- Two.|- Six.
+{151330}{151405}Isn't this fun?
+{151411}{151469}- Four.|- I'm number five.
+{151475}{151527}- Oh, yes.|Eight.
+{151533}{151594}Two.|Four.
+{151600}{151665}Six.
+{151689}{151740}Two.
+{151746}{151817}Baroness Schraeder, do you mind|if we stop now? We're tired.
+{151823}{151870}Whatever you want, dear.
+{151876}{151960}We'll do it again tomorrow.
+{152168}{152239}The country's so restful, isn't it?
+{152245}{152308}Have some lemonade.
+{152314}{152375}There must be an easier way.
+{152381}{152477}I get a fiendish delight thinking|of you as the mother of seven.
+{152483}{152527}How do you plan to do it?
+{152533}{152582}Darling, haven't you ever heard...
+{152588}{152683}...of a delightful little thing|called boarding school?
+{152689}{152770}Baroness Machiavelli.
+{152776}{152824}Uncle Max, where's Father?
+{152830}{152873}I think he's in the house.
+{152879}{152940}What's the matter|with all you gloomy pussies?
+{152946}{153012}- Nothing.|- I know. Let's have a rehearsal.
+{153018}{153038}What for?
+{153044}{153103}Let's make believe we're on-stage|at the festival.
+{153109}{153202}- I don't feel like singing.|- Not without Frulein Maria.
+{153208}{153265}Liesl, get the guitar.|Come on, Marta.
+{153271}{153342}Everybody into the group.|Get in your places.
+{153348}{153451}Now be cheerful, right?|Give us the key, Liesl.
+{153460}{153523}Now, impress me.
+{153620}{153653}Gretl, why don't you sing?
+{153659}{153737}I can't. I've got a sore finger.
+{153743}{153815}But you sang so beautifully|the night of the party.
+{153821}{153877}Come on, all of you.|Try something you know.
+{153883}{153919}Enjoy it. Be cheerful.
+{153925}{154001}All right, Liesl.
+{154011}{154140}{y:i}The hills are alive
+{154146}{154353}{y:i}With the sound of music
+{154359}{154480}{y:i}With songs they have sung
+{154486}{154684}{y:i}For a thousand years
+{154690}{154820}{y:i}The hills fill my heart
+{154826}{155013}{y:i}With the sound of music
+{155019}{155082}They wanted to sing for me,|bless their hearts.
+{155088}{155170}That's lovely, lovely.|Don't stop.
+{155230}{155328}- Something long and cool, Georg?|- No, thank you, darling.
+{155334}{155397}- Father?|- Yes, Brigitta?
+{155403}{155458}Is it true Frulein Maria|isn't coming back?
+{155464}{155540}Yes, I suppose it's true.|What have we got here?
+{155546}{155670}Pink lemonade.|Laced with lemonade.
+{155676}{155713}I don't believe it, Father.
+{155719}{155740}Hm?
+{155746}{155798}- What?|- About Frulein Maria.
+{155804}{155834}Oh, Frulein Maria!
+{155840}{155935}Didn't I tell you what her note said?|I'm sure I did.
+{155941}{156002}She said she missed her life|at the abbey.
+{156008}{156059}She had to leave us.
+{156065}{156141}And that's all there is to it.
+{156145}{156208}I think I'm brave enough to try|some of that.
+{156214}{156280}- She didn't even say goodbye.|- She did in her note.
+{156286}{156330}That isn't the same thing.
+{156336}{156388}Not too sweet, not too sour.
+{156394}{156470}Just too pink.
+{156476}{156587}Father, who is our new governess|going to be?
+{156710}{156771}Well...
+{156791}{156920}...you're not going to have|a governess anymore.
+{156926}{157025}- We're not?|- No.
+{157043}{157114}You're going to have a new mother.
+{157120}{157182}A new mother?
+{157188}{157263}We talked about it last night.|It's all settled.
+{157269}{157370}And we're all going to be very happy.
+{158125}{158220}Well, all right, all right.|Run off and play.
+{158951}{158973}Yes, my children?
+{158979}{159042}- My name is Liesl.|- Yes, Liesl?
+{159048}{159165}We, my brothers and sisters,|want to see Frulein Maria.
+{159171}{159230}Frulein Maria?
+{159236}{159320}Oh, Maria.
+{159330}{159410}Come in, please.
+{159468}{159540}Wait here.
+{159766}{159843}I'm Sister Margaretta. I understand|you inquired about Maria.
+{159849}{159909}We have to see her.|Will you tell her we're here?
+{159915}{159977}- I'm afraid I can't do that.|- But you've got to!
+{159983}{160032}- She's our governess.|- We want her back.
+{160038}{160084}She didn't even say goodbye.
+{160090}{160145}All we want to do is talk to her.
+{160151}{160220}I'm very sorry,|but Maria is in seclusion.
+{160226}{160300}- She hasn't been seeing anyone.|- She'll see us.
+{160306}{160365}I want to show her my finger.
+{160371}{160417}Some other time, dear.
+{160423}{160454}I'll tell her you were here.
+{160460}{160543}- It was sweet of you to call.|- We have to speak to her!
+{160549}{160623}Run along, children.|Run along home.
+{160629}{160669}I'm sure she'd like to see us.
+{160675}{160728}Sister Margaretta, please.
+{160734}{160860}- Goodbye, children.|Sister Margaretta, please?
+{160891}{160932}What was that about, Sister?
+{160938}{160990}The von Trapp children,|Reverend Mother.
+{160996}{161055}They want to see Maria.
+{161061}{161117}Has she spoken yet?|Has she told you anything?
+{161123}{161219}She doesn't say a word,|Reverend Mother, except in prayer.
+{161225}{161248}Poor child.
+{161254}{161325}It's strange.|She seems happy to be back here...
+{161331}{161433}...and yet she's unhappy too.
+{161439}{161514}Perhaps I have been wrong|in leaving her alone so long.
+{161520}{161583}Bring her to me,|even if she's not yet ready.
+{161589}{161665}Yes, Reverend Mother.
+{161761}{161864}Sister Augusta, take our new postulant|to the robing room.
+{161870}{161923}God bless you, my daughter.
+{162073}{162151}Yes, bring her in.
+{162331}{162420}You've been unhappy. I'm sorry.
+{162433}{162465}Reverend Mother.
+{162471}{162548}Why did they send you back to us?
+{162554}{162637}They didn't send me back.|I left.
+{162661}{162705}Sit down, Maria.
+{162711}{162791}Tell me what happened.
+{162879}{162910}I was frightened.
+{162916}{163024}- Frightened? Were they unkind to you.|- Oh, no!
+{163030}{163148}No, I was confused. I felt...
+{163154}{163204}I've never felt that way before.
+{163210}{163300}I couldn't stay. I knew that here|I'd be away from it. I'd be safe.
+{163306}{163419}Maria, our abbey is not to be used|as an escape.
+{163425}{163515}What is it you can't face?
+{163526}{163574}I can't face him again.
+{163580}{163652}Him?
+{163655}{163740}Thank you, Sister Margaretta.
+{163934}{164010}Captain von Trapp?
+{164104}{164169}- Are you in love with him?|- I don't know!
+{164175}{164217}I don't know. I...
+{164223}{164315}The baroness said I was.|She said that he was in love with me.
+{164321}{164405}But I didn't want to believe it.
+{164411}{164465}There were times we looked|at each other.
+{164471}{164510}I could hardly breathe.
+{164516}{164590}- Did you let him see your feelings?|- I don't know.
+{164596}{164659}That's what's torturing me.|I was on God's errand.
+{164665}{164820}To have asked for his love would have|been wrong. I just couldn't stay.
+{164836}{164919}I'm ready at this moment|to take my vows.
+{164925}{165036}- Please help me.|- Maria.
+{165036}{165149}The love of a man and a woman is holy.|You have a great capacity to love.
+{165155}{165225}You must find out how God|wants you to spend your love.
+{165231}{165323}But I pledged my life to God.|I pledged my life to his service.
+{165329}{165471}My daughter, if you love this man,|it doesn't mean you love God less.
+{165474}{165518}No.
+{165524}{165605}You must find out.
+{165611}{165671}You must go back.
+{165677}{165723}You can't ask me to do that.
+{165729}{165788}- Please let me stay. I beg...|- Maria.
+{165794}{165888}These walls were not built|to shut out problems.
+{165894}{165940}You have to face them.
+{165946}{166061}You have to live the life|you were born to live.
+{166164}{166268}{y:i}Climb every mountain
+{166274}{166364}{y:i}Search high and low
+{166370}{166484}{y:i}Follow every byway
+{166490}{166597}{y:i}Every path you know
+{166603}{166710}{y:i}Climb every mountain
+{166716}{166820}{y:i}Ford every stream
+{166826}{166931}{y:i}Follow every rainbow
+{166937}{167040}{y:i}Till you find your dream
+{167046}{167120}{y:i}A dream that will need
+{167126}{167254}{y:i}All the love you can give
+{167260}{167342}{y:i}Every day of your life
+{167348}{167503}{y:i}For as long as you live
+{167509}{167612}{y:i}Climb every mountain
+{167618}{167722}{y:i}Ford every stream
+{167728}{167837}{y:i}Follow every rainbow
+{167843}{168065}{y:i}Till you find your dream
+{168071}{168155}{y:i}A dream that will need
+{168161}{168295}{y:i}All the love you can give
+{168301}{168384}{y:i}Every day of your life
+{168390}{168545}{y:i}For as long as you live
+{168551}{168657}{y:i}Climb every mountain
+{168663}{168767}{y:i}Ford every stream
+{168773}{168888}{y:i}Follow every rainbow
+{168894}{168992}{y:i}Till you find...
+{168998}{169273}{y:i}... your dream
+{169299}{169383}Now, it's not like my children|to be secretive.
+{169389}{169475}We're not being secretive, Father.
+{169480}{169560}And it's not like my children|to be late for dinner.
+{169566}{169662}- We lost track of the time.|- I see.
+{169668}{169750}Who's going to be the first one|to tell me the truth? Friedrich.
+{169756}{169832}Brigitta. Liesl.
+{169838}{169910}Where do you think we were, Father?
+{169916}{169980}No?
+{170050}{170181}If you don't believe us, you must have|some idea of where you think we were.
+{170231}{170273}- Marta.|- Yes, Father.
+{170279}{170334}You tell me.
+{170340}{170442}Friedrich told you, Father.|We were berry picking.
+{170448}{170559}- I forgot! You were berry picking.|- Yes, we love berry picking.
+{170565}{170592}All afternoon?
+{170598}{170638}- We picked thousands.|- Thousands?
+{170644}{170714}- They were all over the place.|- What kind of berries?
+{170720}{170835}- Blueberries, sir.|- Blueberries.
+{170845}{170955}It's too early for blueberries.
+{170961}{171023}- They were strawberries.|- Strawberries?
+{171029}{171130}It's been so cold lately,|they turned blue.
+{171159}{171227}Aw.
+{171233}{171309}Very well. Show me the berries.
+{171315}{171345}- We...|- Well...
+{171351}{171417}- Show me the berries you picked.|- We don't have them.
+{171423}{171477}You don't have them?|What happened to them?
+{171483}{171549}- We...|- We ate them.
+{171555}{171616}- You ate them?|- Yes!
+{171622}{171659}- They were so good.|- Delicious.
+{171665}{171695}Very well.
+{171701}{171824}Since you've obviously stuffed|yourselves on thousands of berries...
+{171830}{171924}...you can't be hungry anymore,|so I'll have to tell Frau Schmidt...
+{171930}{172035}...to skip your dinner.
+{172219}{172285}It's your fault.|We should have told him the truth.
+{172291}{172338}And made him boiling mad at us?
+{172344}{172390}It's better than starving to death.
+{172396}{172490}We didn't do anything wrong.|We just wanted to see her.
+{172496}{172575}My stomach's making noises.
+{172581}{172670}The least they could have done|was to let us say hello.
+{172676}{172774}- I wonder what grass tastes like.|- I feel awful.
+{172780}{172891}When Frulein Maria wanted to feel|better she used to sing that song.
+{172897}{172932}Let's try it.
+{172938}{173002}{y:i}Raindrops on roses
+{173008}{173120}{y:i}And whiskers on kittens
+{173126}{173187}{y:i}Bright copper kettles
+{173193}{173293}{y:i}And warm woolen mittens
+{173299}{173442}{y:i}Brown paper packages|{y:i}Tied up with strings
+{173448}{173592}{y:i}These are a few of my favorite things
+{173598}{173669}Why don't I feel better?
+{173675}{173730}{y:i}Girls in white dresses
+{173736}{173810}{y:i}With blue satin sashes
+{173816}{173955}{y:i}Snowflakes that stay|{y:i}On my nose and eyelashes
+{173961}{174035}{y:i}- Silver white winters...|Frulein Maria's back!
+{174041}{174077}{y:i}... that melt into springs
+{174083}{174160}{y:i}These are a few of my favorite things
+{174166}{174240}{y:i}When the dog bites|{y:i}When the bee stings
+{174246}{174303}{y:i}When I'm feeling sad
+{174309}{174380}{y:i}I simply remember my favorite things
+{174386}{174440}{y:i}And then I don't feel
+{174446}{174607}{y:i}So bad
+{174613}{174685}- Children, I'm so glad to see you.|- We missed you.
+{174691}{174717}I missed you.
+{174723}{174810}- Kurt, how are you?|- Hungry.
+{174811}{174874}- What happened to your finger?|- It got caught.
+{174880}{174955}- Caught in what?|- Friedrich's teeth.
+{174961}{175013}- Liesl, you all right?|- Just fair.
+{175019}{175090}- Any telegrams been delivered lately?|- None at all.
+{175096}{175179}But I'm learning to accept it.|I'll be glad when school begins.
+{175185}{175298}Liesl, you can't use school to escape|your problems. You have to face them.
+{175304}{175339}I have so much to tell you.
+{175345}{175395}We have things to tell you too.
+{175401}{175489}The most important thing is|that Father is going to be married.
+{175495}{175522}Married?
+{175528}{175613}Yes, to Baroness Schraeder.
+{175766}{175840}Oh, I see.
+{175848}{175928}Father, look!|Frulein Maria's back!
+{175934}{176019}Frulein Maria's back from the abbey.
+{176036}{176098}Good evening, captain.
+{176098}{176165}Good evening.
+{176189}{176234}Everyone inside for dinner.
+{176240}{176316}Dinner!
+{176503}{176633}You left without saying goodbye.|Even to the children.
+{176639}{176713}It was wrong of me. Forgive me.
+{176726}{176753}Why did you?
+{176759}{176849}Please don't ask me.|The reason no longer exists.
+{176855}{176952}Frulein Maria, you've returned.
+{176958}{177038}Isn't it wonderful, Georg?
+{177081}{177133}I wish you every happiness,|baroness.
+{177139}{177205}You too, captain.|The children say you're to marry.
+{177211}{177273}Thank you, my dear.
+{177299}{177420}You are back to stay?
+{177434}{177551}Only until arrangements can be made|for another governess.
+{178849}{178925}There you are.
+{179232}{179293}I must speak to cook|about the schnitzel.
+{179299}{179382}It is entirely too delicious|for my figure.
+{179388}{179459}And it makes you much too quiet|at the dinner table.
+{179465}{179513}Or was it the wine?
+{179519}{179599}Undoubtedly the wine.
+{179624}{179679}You have no idea|the trouble I'm having...
+{179685}{179751}...trying to decide on|a wedding present for you.
+{179757}{179809}Oh, I know. I'm enough.
+{179815}{179902}But I do want you to have|some little trifle for the occasion.
+{179908}{179964}At first I thought|of a fountain pen...
+{179970}{180024}...but you've already got one.
+{180030}{180101}Then I thought perhaps a villa|in the south of France...
+{180107}{180171}...but they are so difficult|to gift-wrap.
+{180177}{180235}Oh, Georg, how do you|feel about yachts?
+{180241}{180296}A long, sleek one|for the Mediterranean...
+{180302}{180405}...or a tiny one|for your bathtub, huh?
+{180420}{180469}- Elsa.|- Where to go on our honeymoon?
+{180475}{180512}Now, that's a real problem.
+{180518}{180599}A trip around the world|would be lovely. And then I said:
+{180605}{180674}"Oh, Elsa, there must be|someplace better to go".
+{180680}{180749}- But don't worry, darling, I'll...|- Elsa.
+{180755}{180803}Yes, Georg.
+{180809}{180864}It's no use...
+{180870}{180940}...you and I.
+{180940}{181044}I'm being dishonest to both of us...
+{181050}{181126}...and utterly unfair to you.
+{181215}{181297}- When two people talk of marriage...|- No, don't.
+{181303}{181389}Don't say another word, please.
+{181432}{181569}You see, there are other things|I've been thinking of.
+{181575}{181724}Fond as I am of you, I really don't|think you're the right man for me.
+{181749}{181809}You're much too independent.
+{181815}{181929}And I need someone|who needs me desperately...
+{181935}{182044}...or at least needs|my money desperately.
+{182060}{182214}I've enjoyed every moment we've had|together and I do thank you for that.
+{182244}{182289}Now, if you'll forgive me...
+{182295}{182344}...I'll go inside,|pack my little bags...
+{182350}{182446}...and return to Vienna|where I belong.
+{182539}{182583}And somewhere out there...
+{182589}{182695}...is a young lady who, I think...
+{182701}{182767}...will never be a nun.
+{183022}{183114}Auf Wiedersehen, darling.
+{183695}{183759}Hello.
+{183862}{183984}I thought I just might find you here.
+{184048}{184106}Was there something you wanted?
+{184112}{184204}No, no, no. Sit down, please.
+{184210}{184280}Please.
+{184365}{184435}May I?
+{184695}{184829}You know, I was thinking|and I was wondering two things:
+{184835}{184951}Why did you run away to the abbey?
+{184957}{185106}And what was it|that made you come back?
+{185110}{185216}Well, I had an obligation|to fulfill...
+{185222}{185282}...and I came back to fulfill it.
+{185288}{185349}Is that all?
+{185355}{185408}And I missed the children.
+{185414}{185467}Yes.
+{185473}{185542}- Only the children?|- No. Yes.
+{185548}{185639}- Isn't it right that I missed them?|- Oh, yes. Yes, of course.
+{185645}{185729}I was only hoping that perhaps you...
+{185735}{185813}Perhaps you might...
+{185819}{185884}Yes?
+{185890}{186029}Well, nothing was the same|when you were away...
+{186035}{186113}...and it'll be all wrong again|after you leave...
+{186119}{186267}...and I just thought perhaps|you might change your mind.
+{186328}{186429}Well, I'm sure the baroness will be|able to make things fine for you.
+{186435}{186505}Maria...
+{186519}{186639}- There isn't going to be any baroness.|- There isn't?
+{186660}{186694}No.
+{186700}{186780}I don't understand.
+{186800}{186899}Well, we've called off our engagement,|you see, and...
+{186905}{187009}- Oh, I'm sorry.|- Yes. You are?
+{187015}{187088}- You did?|- Yes.
+{187094}{187239}Well, you can't marry someone|when you're...
+{187263}{187349}...in love with someone else...
+{187395}{187465}...can you?
+{188265}{188320}The Reverend Mother always says:
+{188326}{188444}"When the Lord closes a door,|somewhere He opens a window".
+{188609}{188699}What else does|the Reverend Mother say?
+{188705}{188799}That you have to look for your life.
+{188803}{188899}Is that why you came back?
+{188960}{189014}And have you found it...
+{189020}{189084}...Maria?
+{189090}{189174}I think I have.
+{189204}{189274}I know I have.
+{189298}{189374}I love you.
+{189433}{189529}Oh, can this be happening to me?
+{189559}{189724}{y:i}Perhaps I had a wicked childhood
+{189724}{189886}{y:i}Perhaps I had a miserable youth
+{189895}{190043}{y:i}But somewhere|{y:i}In my wicked, miserable past
+{190049}{190204}{y:i}There must have been a moment of truth
+{190210}{190384}{y:i}For here you are|{y:i}Standing there loving me
+{190390}{190544}{y:i}Whether or not you should
+{190550}{190727}{y:i}So somewhere in my youth or childhood
+{190733}{190941}{y:i}I must have done something good
+{190947}{191039}{y:i}Nothing comes from nothing
+{191045}{191152}{y:i}Nothing ever could
+{191158}{191407}{y:i}So somewhere in my youth or childhood
+{191407}{191651}{y:i}I must have done something good
+{191657}{191777}Do you know when I first|started loving you?
+{191783}{191876}That night at dinner, when you sat|on that ridiculous pine cone.
+{191882}{191939}What?
+{191945}{192044}I knew the first time you blew|that silly whistle.
+{192050}{192134}Oh, my love.
+{192188}{192414}{y:i}For here you are|{y:i}Standing there loving me
+{192425}{192592}{y:i}Whether or not you should
+{192598}{192779}{y:i}So somewhere in my youth or childhood
+{192785}{192993}{y:i}I must have done something good
+{192999}{193094}{y:i}Nothing comes from nothing
+{193100}{193173}{y:i}Nothing ever could
+{193179}{193318}{y:i}So somewhere in my youth...
+{193324}{193414}{y:i}... or childhood
+{193452}{193645}{y:i}I must have done something
+{193658}{193997}{y:i}Something good
+{194122}{194194}Maria.
+{194203}{194349}Is there anyone I should go to,|to ask permission to marry you?
+{194407}{194490}- Why don't we ask...|- The children?
+{197070}{197179}{y:i}How do you solve a problem like Maria?
+{197185}{197292}{y:i}How do you catch a cloud|{y:i}And pin it down?
+{197298}{197401}{y:i}How do you find a word|{y:i}That means Maria?
+{197407}{197431}{y:i}A flibbertigibbet
+{197437}{197515}{y:i}A will-o'-the-wisp|{y:i}A clown
+{197521}{197634}{y:i}Many a thing you know|{y:i}You'd like to tell her
+{197640}{197749}{y:i}Many a thing she ought to understand
+{197755}{197862}{y:i}But how do you make her stay|{y:i}And listen to all you say?
+{197868}{197963}{y:i}How do you keep a wave upon the sand?
+{197969}{198092}{y:i}Oh, how do you solve|{y:i}A problem like Maria?
+{198098}{198293}{y:i}How do you hold a moonbeam|{y:i}In your hand?
+{201280}{201354}Herr Detweiler!
+{201380}{201444}- Heil Hitler.|- Oh, good afternoon, Herr Zeller.
+{201450}{201529}Perhaps you've not heard.|I am now the Gauleiter.
+{201535}{201589}Heil Hitler.
+{201595}{201623}Heil Hitler.
+{201629}{201689}I've come from|Captain von Trapp's house.
+{201695}{201781}The only one in the area|not flying the Third Reich flag...
+{201787}{201816}...since the Anschluss.
+{201822}{201874}- But we have dealt with that.|- I don't...
+{201880}{201951}The housekeeper told me|that I would find you here.
+{201957}{202004}The only thing she'd tell me.
+{202010}{202071}What kind of information|are you looking for?
+{202077}{202129}When will the captain return?
+{202135}{202229}Well, he's on his honeymoon trip.|He's not been in touch with us.
+{202235}{202351}Am I to believe he hasn't communicated|with his children in over a month?
+{202357}{202403}How many men do you know...
+{202409}{202503}...who communicate with their children|while honeymooning?
+{202509}{202599}Upon his return, he'll fill|his proper position in the new order.
+{202605}{202663}Naturally.|And may I congratulate you...
+{202669}{202787}...and your people in allowing the|festival to go on tonight as planned.
+{202793}{202876}Why should it not go on?|Nothing in Austria has changed.
+{202882}{202962}Singing and music will|show this to the world.
+{202968}{203024}Austria is the same.
+{203030}{203100}Heil Hitler.
+{203115}{203189}Heil Hitler.
+{203193}{203222}Come, let's go home.
+{203228}{203311}- Why was he so cross?|- Everybody's cross these days.
+{203317}{203397}Maybe the flag with the black spider|makes people nervous.
+{203403}{203473}- Will Father be in trouble?|- He doesn't have to be.
+{203479}{203544}The thing to do|is to get along with everybody.
+{203550}{203602}Remember that tonight at the concert.
+{203608}{203677}Are we really going to sing|before a lot of people?
+{203683}{203732}Look. The von Trapp Family Singers:
+{203738}{203847}Liesl, Friedrich, Louisa, Brigitta,|Kurt, Marta and Gretl.
+{203853}{203969}- Why am I always last?|- Because you are the most important.
+{203975}{204049}There we go.
+{204155}{204237}Are you sure Father will approve|of our singing in public?
+{204243}{204303}He'll be pleased and proud.
+{204309}{204367}- Liesl, do you think so?|- Don't you trust me?
+{204373}{204397}No.
+{204403}{204459}You're a very intelligent girl.
+{204465}{204534}Liesl. Liesl!
+{204540}{204587}Rolf!
+{204593}{204641}I'm so glad to see you.|It's been su...
+{204647}{204677}Good afternoon.
+{204683}{204763}Give this to your father|as soon as he's home.
+{204769}{204813}- He's on his honeymoon.|- I know.
+{204819}{204909}- You do?|- We make it our business to know all.
+{204915}{204977}- Who's "we"?|- See that he gets it.
+{204983}{205053}- What is it?|- It's a telegram from Berlin.
+{205059}{205124}Don't you want to deliver it yourself?
+{205130}{205192}I'm occupied|with more important matters.
+{205198}{205257}And your father had better be too.
+{205263}{205337}But, Rolf!
+{205678}{205769}Father! Father!
+{205854}{205894}Father!
+{205900}{205964}- We didn't expect you so soon.|- Hello, hello!
+{205970}{206036}We didn't expect you home|until next week!
+{206042}{206193}- Did you bring souvenirs from Paris?|- Hello! How are you?
+{206199}{206229}Why didn't you call us?
+{206235}{206281}We couldn't get through.
+{206287}{206334}I had nothing to do with that.
+{206340}{206391}We came back as fast as we could.
+{206397}{206449}Well, well, well! We missed you!
+{206455}{206512}- We missed you!|- We missed kissing you.
+{206518}{206586}We missed all the noise|in the morning.
+{206592}{206692}- Mostly, we missed hearing you sing.|- Oh, you came back just in time.
+{206698}{206739}Look, Frulein Maria...
+{206745}{206788}I mean Mother.
+{206794}{206853}We're going to sing|in the festival tonight.
+{206859}{206909}We've been having a lovely time!
+{206915}{207001}We've been rehearsing all...
+{207002}{207068}Surprise! Surprise!
+{207074}{207169}Surprises for you on the terrace.
+{207207}{207239}We'll talk about this.
+{207245}{207349}I would've told you but you were away.|I had to make a last-minute decision.
+{207355}{207414}I was fortunate to enter them at all.
+{207420}{207532}They'll be the talk of the festival.|Imagine, seven children in one family!
+{207538}{207586}Max!
+{207592}{207660}Somehow I recall having made it|quite clear to you...
+{207666}{207731}...how I feel about my family|singing in public!
+{207737}{207777}The committee was enchanted.
+{207783}{207859}- What did they say?|- I have never heard such enthusiasm.
+{207865}{207968}- Don't you think just this once...?|- Absolutely out of the question.
+{207974}{208076}- Georg, this is for Austria.|- For Austria?
+{208082}{208159}- There is no Austria!|- But the Anschluss was peaceful.
+{208165}{208285}- Let's at least be grateful for that.|- Grateful?
+{208294}{208349}You know, Max...
+{208355}{208468}...sometimes I don't believe|I know you.
+{208497}{208544}Father, I forgot.
+{208550}{208624}This is for you.
+{208823}{208919}Maria, he has got to at least pretend|to work with these people.
+{208925}{208961}You must convince him.
+{208967}{209032}Max, I can't ask him|to be less than he is.
+{209038}{209118}Then I'll talk to him.|If the children don't sing, well...
+{209124}{209191}...it will be a reflection|on Austria.
+{209197}{209314}Oh, I know.|It wouldn't do me any good either.
+{209402}{209466}Mother? That sounds so nice.
+{209472}{209537}- I like calling you "Mother".|- I like hearing it.
+{209543}{209629}You love Father very much.|I can tell you do.
+{209635}{209656}Very much.
+{209662}{209752}Mother, what do you do when you|think you love someone?
+{209758}{209921}I mean, when you stop loving someone|or he stops loving you?
+{209948}{210002}Well, you cry a little.
+{210008}{210059}Then you wait for the sun to come out.
+{210065}{210098}It always does.
+{210104}{210189}There are so many things I think|I should know but I don't.
+{210195}{210242}- I really don't.|- How can you?
+{210248}{210301}Sometimes I feel the world is ending.
+{210307}{210382}- Then you feel it's just beginning?|- Yes!
+{210388}{210501}It was that way with me. And for you|it will be just as wonderful.
+{210507}{210568}Do you really think so?
+{210574}{210669}{y:i}When you're 16 going on 17
+{210675}{210771}{y:i}Waiting for life to start
+{210777}{210869}{y:i}Somebody kind|{y:i}Who touches your mind
+{210875}{210982}{y:i}Will suddenly touch your heart
+{210988}{211033}{y:i}When that happens
+{211039}{211086}{y:i}After it happens
+{211092}{211184}{y:i}Nothing is quite the same
+{211190}{211228}{y:i}Somehow I know
+{211234}{211286}{y:i}I'll jump up and go
+{211292}{211394}{y:i}If ever he calls my name
+{211400}{211494}{y:i}Gone are your old ideas of life
+{211500}{211601}{y:i}The old ideas grow dim
+{211607}{211729}{y:i}Lo and behold|{y:i}You're someone's wife
+{211735}{211879}{y:i}And you belong to him
+{211885}{211988}{y:i}You may think this kind of adventure
+{211994}{212106}{y:i}Never may come to you
+{212112}{212256}{y:i}Darling, 16 going on 17
+{212262}{212374}{y:i}Wait a year...
+{212380}{212509}{y:i}- I'll wait a year|{y:i}...or two
+{212515}{212707}{y:i}Just wait a year...
+{212713}{212956}{y:i}... or two
+{212978}{213052}Liesl.
+{213410}{213459}What is it?
+{213465}{213503}Berlin.
+{213509}{213554}They've offered me a commission.
+{213560}{213621}I've been requested|to accept immediately...
+{213627}{213731}...and report to their naval base|at Bremerhaven tomorrow.
+{213737}{213832}I knew this would happen.|I didn't think it would be so soon.
+{213838}{213946}To refuse them would be fatal|for all of us.
+{213952}{214079}And joining them would be unthinkable.
+{214190}{214234}Get the children all together.
+{214240}{214334}Don't say anything to worry them.|Just get them ready.
+{214340}{214434}We've got to get out of Austria...
+{214437}{214515}...and this house...
+{214534}{214604}...tonight.
+{215621}{215679}This strains my back|and breaks my heart...
+{215685}{215753}...when I think of the children|missing the festival.
+{215759}{215824}By your announcement|we'll be over the border.
+{215830}{215887}Do you appreciate|the sacrifice I'm making?
+{215893}{215924}You have no choice.
+{215930}{216008}I know. That's why I'm making it.
+{216014}{216065}Why doesn't Father turn the motor on?
+{216071}{216189}Because he doesn't want anyone|to hear us.
+{216239}{216299}What will Frau Schmidt and Franz say?
+{216305}{216389}They'll be able to answer honestly|they didn't know anything.
+{216395}{216496}- Will we be coming back here?|- Someday, Liesl. I do hope someday.
+{216502}{216656}Are Father and Uncle Max going to push|the car all the way to Switzerland?
+{217262}{217322}Something wrong|with your car, captain?
+{217328}{217419}Yes, we couldn't get it started.
+{217473}{217539}Karl.
+{217550}{217669}Fix Captain von Trapp's car|so that it will start.
+{218189}{218269}Excellent, Karl.
+{218314}{218396}I've not asked you where you|and your family are going.
+{218402}{218452}Nor have you asked me why I'm here.
+{218458}{218563}Apparently we both suffer|from a deplorable lack of curiosity.
+{218569}{218628}You never answered the telegram...
+{218634}{218713}...from the Admiral of the Navy|of the Third Reich.
+{218719}{218777}I was under the impression,|Herr Zeller...
+{218783}{218879}...that the contents of telegrams|in Austria are private!
+{218885}{218991}At least, the Austria I know.
+{218997}{219036}I have my orders...
+{219042}{219094}...to take you|to Bremerhaven tonight...
+{219100}{219174}...where you will accept|your commission.
+{219180}{219319}I'm afraid that's going to be|quite impossible.
+{219325}{219374}You see, we...
+{219380}{219468}...all of us, the entire family,|will be...
+{219474}{219524}...singing in the festival tonight.
+{219530}{219598}As a matter of fact, we're going now.
+{219604}{219672}We couldn't possibly|let them down now.
+{219678}{219749}- I just hope we're not too late.|- Yes.
+{219755}{219824}You ask me to believe that you,|Captain von Trapp...
+{219830}{219869}...are singing in a concert?
+{219875}{219976}Believe me, it will be a performance|beyond anything even I've dreamt of.
+{219982}{220104}Like you, Herr Zeller,|I, too, am a man of hidden talents.
+{220110}{220143}Yes.
+{220149}{220244}Here, program.
+{220329}{220384}It says only the names|of the children.
+{220390}{220469}It says|the von Trapp Family Singers...
+{220475}{220584}...and I am the head of|the von Trapp family, am I not?
+{220603}{220708}And these travel clothes|that you're all wearing?
+{220714}{220751}Our costumes, naturally.
+{220757}{220874}This night air is not good|for the children's voices.
+{220988}{221096}Well, a slight delay in my orders|will not be serious.
+{221102}{221153}Therefore...
+{221159}{221214}...you will sing.
+{221220}{221271}You will all sing.
+{221277}{221353}But only because that's what I want.
+{221359}{221454}It will demonstrate that nothing|in Austria has changed.
+{221460}{221514}And when you have finished singing...
+{221520}{221621}...you, Captain von Trapp, will be|taken to Bremerhaven.
+{221627}{221692}Now, if you will all get|into your car...
+{221698}{221804}...we will escort the von Trapp Family|Singers to the festival.
+{221810}{221863}No escort will be necessary.
+{221869}{221944}Necessary? A pleasure, captain.
+{221950}{222066}After all, we would not want you|to get lost in the crowds.
+{222072}{222118}Would we?
+{222124}{222188}No.
+{222539}{222616}{y:i}Sew, a needle pulling thread
+{222622}{222699}{y:i}La, a note to follow sew
+{222705}{222787}{y:i}Tea, a drink with jam and bread
+{222793}{222884}{y:i}A drink with jam and bread
+{222890}{222956}{y:i}Tea with jam, jam and bread
+{222962}{223006}{y:i}Tea with jam and bread
+{223012}{223108}{y:i}Jam and bread|{y:i}Tea with jam, jam and bread
+{223114}{223201}{y:i}Tea with jam|{y:i}Jam and bread
+{223307}{223386}{y:i}With jam|{y:i}A, B, C
+{223392}{223469}{y:i}With jam|{y:i}Do-re-mi
+{223475}{223561}{y:i}Tea with jam and bread
+{223567}{223599}{y:i}With jam and bread
+{223605}{223641}{y:i}With jam|{y:i}With jam...
+{223647}{223859}{y:i}... and bread
+{224384}{224486}My fellow Austrians...
+{224492}{224628}...I shall not be seeing you again,|perhaps for a very long time.
+{224634}{224706}I would like to sing for you now...
+{224712}{224786}...a love song.
+{224797}{224875}I know you share this love.
+{224881}{225006}I pray that you will never let it die.
+{225276}{225359}{y:i}Edelweiss
+{225365}{225443}{y:i}Edelweiss
+{225449}{225590}{y:i}Every morning you greet me
+{225596}{225670}{y:i}Small and white
+{225676}{225750}{y:i}Clean and bright
+{225756}{225891}{y:i}You look happy to meet me
+{225897}{225946}{y:i}Blossom of snow
+{225952}{226038}{y:i}May you bloom and grow
+{226044}{226209}{y:i}Bloom and grow forever
+{226215}{226276}{y:i}Edelweiss
+{226282}{226344}{y:i}Edelweiss
+{226350}{226531}{y:i}Bless my homeland forever
+{226602}{226676}{y:i}Edelweiss
+{226682}{226750}{y:i}Edel...
+{226891}{226964}{y:i}Small and white
+{226970}{227038}{y:i}Clean and bright
+{227044}{227186}{y:i}You look happy to meet me
+{227192}{227238}{y:i}Blossom of snow
+{227244}{227336}{y:i}May you bloom and grow
+{227342}{227491}{y:i}Bloom and grow forever
+{227497}{227568}{y:i}Edelweiss
+{227574}{227649}{y:i}Edelweiss
+{227655}{227888}{y:i}Bless my homeland forever
+{228277}{228326}I think it'll work.
+{228332}{228380}I shall miss all of you.
+{228386}{228481}I shall miss the money|I could have made with you.
+{228527}{228576}Thank you, ladies and gentlemen.
+{228582}{228646}The competition has come|to its conclusion...
+{228652}{228744}...except, we don't know|yet what that conclusion will be.
+{228750}{228811}And while the judges|arrive at their decision...
+{228817}{228890}...I have been given permission|to offer you an encore.
+{228896}{228973}This will be the last opportunity|the von Trapps will have...
+{228979}{229056}...of singing together|for a long, long time.
+{229062}{229158}Even now, officials are waiting|in this auditorium...
+{229164}{229228}...to escort Captain von Trapp|to his new command...
+{229234}{229319}...in the naval forces|of the Third Reich.
+{229432}{229550}And so, ladies and gentlemen,|the family von Trapp again...
+{229556}{229647}...to bid you farewell.
+{229784}{229871}{y:i}There's a sad sort of clanging|{y:i}From the clock in the hall
+{229877}{229963}{y:i}And the bells in the steeple too
+{229969}{230061}{y:i}And up in the nursery|{y:i}An absurd little bird
+{230067}{230124}{y:i}Is popping out to say "coo-coo"
+{230130}{230170}{y:i}Coo-coo
+{230176}{230200}{y:i}Coo-coo
+{230206}{230244}{y:i}Regretfully they tell us
+{230250}{230293}{y:i}But firmly they compel us
+{230299}{230364}{y:i}To say goodbye
+{230370}{230530}{y:i}To you
+{230564}{230650}{y:i}So long, farewell|{y:i}Auf Wiedersehen, good night
+{230656}{230782}{y:i}We hate to go|{y:i}And miss this pretty sight
+{230894}{230979}{y:i}So long, farewell|{y:i}Auf Wiedersehen, adieu
+{230985}{231109}{y:i}Adieu, adieu|{y:i}To you and you and you
+{231224}{231309}{y:i}So long, farewell|{y:i}Auf Wiedersehen, goodbye
+{231315}{231354}{y:i}We flit, we float
+{231360}{231438}{y:i}We fleetly flee, we fly
+{231554}{231644}{y:i}So long, farewell|{y:i}Auf Wiedersehen, goodbye
+{231650}{231731}{y:i}The sun has gone to bed|{y:i}And so must I
+{231737}{231828}{y:i}Goodbye
+{231834}{231970}{y:i}Goodbye
+{231976}{232101}{y:i}Goodbye
+{232107}{232315}{y:i}Goodbye
+{233040}{233139}Ladies and gentlemen, I have here the|decision of our distinguished judges.
+{233145}{233216}We will start with the award|for third prize.
+{233222}{233278}For this honor,|the judges have named...
+{233284}{233395}...the first soloist of the choir|of St. Agatha's Church in Murback.
+{233401}{233491}Frulein Schweiger.
+{234339}{234470}Second prize|to The Toby Reiser Quintet.
+{235105}{235205}And the first prize,|the highest honor in all Austria...
+{235211}{235322}...the von Trapp Family Singers.
+{235581}{235659}The family von Trapp.
+{235972}{236034}They're gone!
+{236446}{236479}Come with me.
+{236572}{236636}Quickly, quickly.
+{236642}{236706}I have a place you can hide.
+{236712}{236827}Slowly, slowly.
+{237054}{237116}Open this gate.
+{237122}{237196}Good evening.
+{237220}{237292}Hurry up, woman.
+{237731}{237759}Two men in there.
+{237765}{237809}Six of you cover the yard.
+{237815}{237906}You two, cover the corridor.
+{238217}{238303}Reverend Mother, we didn't realize|we put the abbey in this danger.
+{238309}{238369}No, Maria, it was right for you|to come here.
+{238375}{238419}We thought we might borrow|your car.
+{238425}{238479}I'm afraid our car will do you|no good now.
+{238485}{238524}I've been listening to the wires.
+{238530}{238626}The borders have just been closed.
+{238731}{238810}All right,|if the borders are closed...
+{238816}{238904}...then we'll drive up into the hills|and go over the mountains on foot.
+{238910}{238958}- The children...|- We'll help them.
+{238964}{239036}We can do it without help, Father.
+{239042}{239085}Maria.
+{239091}{239154}You will not be alone.|Remember:
+{239160}{239252}"I will lift up mine eyes unto|the hills from whence cometh my help".
+{239258}{239311}Yes, Mother.
+{239317}{239405}- I'm scared.|- Me too.
+{239659}{239723}God be with you.
+{239853}{239890}- Mother.|- Yes?
+{239896}{239973}Would it help if we sang|about our favorite things?
+{239979}{240051}No, darling.|This is one time it would not help.
+{240057}{240170}You must be very quiet.|Hold tight to me.
+{243362}{243427}Let's try the roof.
+{244740}{244831}Rolf, please.
+{244916}{244990}No, wait.
+{245187}{245240}Maria.
+{245246}{245316}Children.
+{245377}{245453}It's you we want, not them.
+{245459}{245520}Put that down.
+{245526}{245641}Not another move,|or I'll shoot.
+{245646}{245731}You're only a boy.
+{245767}{245891}- You don't really belong to them.|- Stay where you are.
+{245897}{245969}Come away with us.
+{245975}{246011}Before it's too late.
+{246017}{246109}Not another step.|I'll kill you.
+{246128}{246226}- You give that to me, Rolf.|- Did you hear me?
+{246232}{246306}I'll kill you.
+{246315}{246387}Rolf.
+{246790}{246860}You'll never be one of them.
+{246889}{246930}Lieutenant!
+{246936}{246962}They're here!
+{246968}{247004}They're here, lieutenant!
+{247996}{248061}Reverend Mother.
+{248067}{248133}I have sinned.
+{248139}{248226}I too, Reverend Mother.
+{248230}{248321}What is this sin, my children?
+{250210}{250233}Subtitles by|Gelula/SDI

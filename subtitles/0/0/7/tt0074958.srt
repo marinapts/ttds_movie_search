@@ -1,0 +1,1726 @@
+{1}{1}23.976
+{368}{493}This story is about Howard Beale,|the "Network News" anchorman on UBS TV.
+{495}{564}In his time, Howard Beale had been|a mandarin of television...
+{566}{612}the grand old man of news...
+{614}{699}with a HUT rating of 16|and a 28 audience share.
+{701}{790}In 1969, however, his fortunes|began to decline.
+{792}{839}He fell to a 22 share.
+{841}{919}The following year, his wife died,|and he was left a childless widower...
+{921}{983}with an 8 rating|and a 12 share.
+{984}{1074}He became morose and isolated,|began to drink heavily.
+{1076}{1160}On September 22, 1975,|he was fired...
+{1162}{1208}effective in two weeks.
+{1210}{1270}The news was broken to him|by Max Schumacher...
+{1272}{1343}who was the president|of the News Division at UBS.
+{1344}{1411}The two old friends|got properly pissed.
+{1412}{1531}I was at CBS|with Ed Murrow in 1951.
+{1532}{1582}Must've been 1950.
+{1609}{1676}I was at NBC.|Associate producer.
+{1678}{1782}Morning news.|I was just a kid... 26 years old.
+{1851}{1972}Anyway, they were building the lower|level of the George Washington Bridge.
+{1974}{2042}We were doing a remote from there.
+{2136}{2192}And nobody told me.
+{2248}{2294}7:00 a. m., I get a call.
+{2296}{2382}"Where are you? You're supposed to be|on the George Washington Bridge?"
+{2420}{2514}I jump out of bed,|throw my raincoat over my pajamas.
+{2516}{2578}I run downstairs|and out into the street...
+{2580}{2645}hail a cab and say to the cabbie...
+{2647}{2720}"Take me to the middle|of the George Washington Bridge. "
+{2783}{2845}The cabbie turns around and says...
+{2879}{2934}He says, "Don't do it, buddy.
+{2960}{3072}You're a young man. You've got|your whole life ahead of you. "
+{3204}{3251}Didn't I tell you that before?
+{3396}{3447}I'm gonna kill myself.
+{3464}{3501}Shit, Howard.
+{3543}{3606}I'm gonna blow my brains out|right on the air...
+{3636}{3691}right in the middle|of the seven o'clock news.
+{3728}{3805}You'll get a hell of a rating,|I'll guarantee that.
+{3807}{3847}Fifty share easy.
+{3848}{3920}- You think so?|- Sure.
+{3922}{4009}We could make a series out of it.|"Suicide of the Week. "
+{4068}{4164}Why limit ourselves?|"Execution of the Week. "
+{4197}{4236}"Terrorist of the Week. "
+{4238}{4285}They'll love it.
+{4315}{4390}Suicides. Assassinations.
+{4426}{4474}Mad bombers.
+{4476}{4534}Mafia hit men.
+{4536}{4582}Automobile smashups.
+{4584}{4634}"The Death Hour. "
+{4686}{4779}"A great Sunday night show|for the whole family. "
+{4811}{4894}Lt'd put fucking Disney|right off the air.
+{5732}{5798}Let's do the Lenin deportation|at the end of three.
+{5800}{5847}- Strong enough to bump?|- At one, then.
+{5849}{5931}I'll do a lead on Sarah Jane Moore|to May Berry in San Francisco.
+{5932}{5978}The film I saw|was of the chief of detectives.
+{5980}{6099}I think we've got ten seconds|on the shooting itself.
+{6101}{6165}The whole thing is 1:25.
+{6167}{6245}- What does that come out?|- About 4:50.
+{6276}{6348}- Can we use Squeaky Fromme?|- Let's do that at two.
+{6350}{6456}Squeaky boarded the airport bus.
+{6457}{6511}You using a map on him|for San Francisco?
+{6512}{6589}I'd prefer newspapers.
+{6591}{6650}What've we got left?
+{6652}{6726}Gun control.|Patty Hearst affidavit.
+{6728}{6799}Guerillas in Chad.|OPEC in Guiana.
+{7425}{7473}Hello, Howard.|How are you?
+{7735}{7786}Don't forget, Howard,|we're not using the 16.
+{7904}{7989}The first attempt on President Ford's|life was 18 days ago...
+{7991}{8055}and again yesterday in San Francisco.
+{8056}{8111}In spite of the two attempts,|Mr. Ford says...
+{8112}{8177}he will not become a prisoner|of the Oval Office...
+{8179}{8255}a hostage|of would-be assassins.
+{8256}{8351}The American people|are good people.
+{8352}{8440}Democrats, Independents,|Republicans and others.
+{8442}{8518}- How do you get mixed up that type?|- I don't know.
+{8554}{8659}If you're so hot, why go to strangers?|What's wrong with me?
+{8764}{8799}Ready two.
+{8842}{8885}Two. Cue Howard.
+{8887}{8944}Ladies and gentlemen,|I would like at this moment...
+{8946}{9047}to announce that I will be retiring|from this program in two weeks' time...
+{9048}{9092}because of poor ratings.
+{9094}{9211}Since this show is the only thing|I had going for me in my life...
+{9212}{9277}I have decided to kill myself.
+{9279}{9411}I'm going to blow my brains out|on this program a week from today.
+{9412}{9455}Ten seconds to commercial.
+{9456}{9496}Tune in next Tuesday.
+{9498}{9588}That should give the public relations|people a week to promote the show.
+{9590}{9636}We oughta get a hell of a rating|out of that.
+{9660}{9709}Fifty share easy.
+{9764}{9861}- Listen. Did you hear that?|- What was that about?
+{9863}{9942}Howard said he was going|to blow his brains out next Tuesday.
+{9944}{10035}- What are you talking about?|- Didn't you hear him?
+{10060}{10125}Howard said he was going|to kill himself next Tuesday.
+{10161}{10244}What do you mean Howard said he|was going to kill himself next Tuesday?
+{10245}{10294}He was supposed to do a tag.
+{10296}{10386}He said, "Tune in next Tuesday.|I'm going to shoot myself. "
+{10388}{10422}What's going on?
+{10424}{10489}He just said he was going|to blow his brains out.
+{10491}{10538}What the fuck's going on?
+{10540}{10611}- They wanna know what's going on.|- I can't hear you.
+{10612}{10684}- Turn the studio mike on.|- We're on in 11 seconds.
+{10686}{10761}- Ten seconds.|- What are you doing? Have you flipped?
+{10763}{10827}- We better get him off.|- Get him off.
+{10828}{10895}- Get your fucking hands off me!|- Turn the sound off!
+{10896}{10945}He's going on live!
+{10947}{11001}- Key two.|- We're in trouble down here.
+{11072}{11127}Go to standby!
+{11191}{11274}Lou, can't we clear out the lobby?|There must be 100 people there.
+{11276}{11335}- How am I gonna clear 'em out?|- Every TV station and wire service!
+{11336}{11393}I could barely get in.
+{11395}{11486}- Arthur, anything?|- Not so far.
+{11488}{11561}Frank Hackett just walked in.|We had to abort the show.
+{11563}{11616}So far over 900|fucking phone calls...
+{11618}{11682}complaining about the foul language.
+{11684}{11755}- What page are you putting it on?|- Hackett just walked in.
+{11756}{11823}- ABC again.|- Tell 'em to go fuck themselves.
+{11824}{11865}That goes for you, too, Marty.
+{11867}{11907}You're off the air.
+{11908}{11988}- He wants to talk to you.|- Who's replacing Beale?
+{11990}{12059}- We're flying Snowden up.|- Everybody hold it.
+{12060}{12116}Let's see how the other networks|handle this.
+{12118}{12212}- The ten o'clock news opened with it.|- Good evening. Howard Beale...
+{12213}{12262}They'll all make it|their lead story.
+{12264}{12343}Howard Beale interrupted|his "Network News" program tonight...
+{12345}{12398}to announce he was going|to kill himself.
+{12400}{12455}An unusual thing happened|at a sister network...
+{12456}{12510}UBS, this evening.
+{12512}{12596}- How are we handling it?|- Halloway will make a statement...
+{12598}{12703}at the end of the show that Howard's|been under great personal stress.
+{12743}{12800}We've got a stockholders' meeting|tomorrow...
+{12802}{12881}at which we will announce|the restructuring of management plan.
+{12883}{12959}I don't want this grotesque incident|to interfere with that.
+{12961}{13056}I'll suggest Mr. Ruddy open with a short|statement washing this whole thing off.
+{13057}{13171}You, Max, better have answers for those|nuts that always come to the meetings.
+{13172}{13231}Mr. Beale has been under great|professional and personal strain.
+{13232}{13280}I've got surprises for you, too!
+{13282}{13338}I've had it up to here|with your division...
+{13340}{13404}and it's annual|$33 million deficit!
+{13406}{13469}Keep your hands off|my News Division, Frank.
+{13471}{13536}We're responsible to corporate level,|not you.
+{13538}{13592}We'll goddamn well see about that.
+{13594}{13677}All right, take it easy.|How do we get Beale out of here?
+{13679}{13777}I understand there are reporters|and camera crews in the lobby.
+{13779}{13825}We've got a limo at the freight exit.
+{13827}{13930}Howard, you'll spend the night at my|place. There'll be press around yours.
+{14147}{14215}I want Snowden here by noon...
+{14216}{14267}have Lester|cover the CIA hearings...
+{14269}{14323}and give the White House|to Doris.
+{14324}{14380}You're late for your screening, Max.
+{14402}{14437}Right. Okay.
+{14515}{14588}If John Wheeler calls,|switch him to projection room 7.
+{14660}{14726}- I'm sorry, Bill. This Beale business.|- It's all right. Sit down.
+{14728}{14782}Diana asked if she could sit in on this.
+{14784}{14845}Fine. How's it going?
+{14847}{14935}You'll like this footage better than|the stuff I showed you last time.
+{14991}{15025}Max Schumacher.
+{15062}{15113}Goddamn it! When?
+{15174}{15223}Did he say anything?
+{15264}{15311}All right, thank you.
+{15356}{15455}The Communist Party believes the most|pressing political necessity today...
+{15457}{15535}is the consolidation|of the revolutionary...
+{15537}{15587}radical and democratic movements...
+{15619}{15700}Harry, Howard Beale left my house|20 minutes ago.
+{15702}{15749}Has he come in yet?
+{15751}{15797}Let me know when he arrives.
+{15849}{15904}- That's Laureen Hobbs, isn't it?|- Yeah.
+{15906}{15961}This is from a David Susskind thing|a while back.
+{15963}{16026}I think we can use some of this stuff.
+{16084}{16162}What we're going to see now|is something really sensational.
+{16164}{16247}The Flagstaff Independent Bank|of Arizona was ripped off last week...
+{16249}{16326}by a terrorist group called|the Ecumenical Liberation Army.
+{16328}{16431}They themselves took movies of the|rip-off while they were ripping it off.
+{16432}{16525}The Ecumenical Liberation Army is not|the one that kidnapped Patty Hearst?
+{16527}{16586}No, that's the Symbionese|Liberation Army.
+{16588}{16643}This is the Ecumenical|Liberation Army.
+{16644}{16722}They're the ones who kidnapped|Mary Ann Gifford three weeks ago.
+{16724}{16800}There's a lot of liberation armies|in the revolutionary underground...
+{16802}{16848}and a lot of kidnapped heiresses.
+{16850}{16896}This is Mary Ann Gifford.
+{16984}{17041}That's the Great Ahmed Khan.|He's their leader.
+{17078}{17173}They actually shot this film|while they were ripping off the bank?
+{17175}{17224}Wait till you see it.
+{17226}{17295}I don't know whether to edit|or leave it raw like this.
+{17331}{17416}This is terrific stuff!|Where did you get it?
+{17418}{17462}I got everything|through Laureen Hobbs.
+{17464}{17531}She's my contact|for all this stuff.
+{17657}{17767}- I've got Howard on the other line.|- Put him on.
+{17768}{17834}I've got Max on four. Pick up.
+{17874}{17922}I'd like another shot.
+{17924}{18013}- Come on, Howard.|- I don't mean the whole show.
+{18015}{18106}I'd like to come on,|make some brief farewell statement...
+{18108}{18181}and then turn the show over|to Jack Snowden.
+{18183}{18278}I have 11 years at this network.|I have some standing in the industry.
+{18280}{18342}I just don't want to go out|like a clown.
+{18344}{18443}It'll be simple, dignified.|You and Harry can check the copy.
+{18444}{18502}I think it'll take the strain|off the show.
+{18552}{18642}- What do you think?|- Well, okay.
+{18644}{18723}And no booze today, Howard!
+{18724}{18759}No booze.
+{18909}{18985}George, can you come into my office|for a minute?
+{19124}{19230}Barbara, is Tommy around?|I'd like to see the two of you.
+{19419}{19511}This is Bill Herron from our West Coast|Special Programs Department.
+{19512}{19586}George Bosch. Barbara Schlesinger.|Tommy Pellegrino.
+{19588}{19683}I just saw footage of a special Bill's|doing on the revolutionary underground.
+{19685}{19748}Most of it's tedious stuff of|Laureen Hobbs and two fatigue jackets...
+{19750}{19807}muttering mutilated Marxism...
+{19809}{19908}but he's got eight minutes|of a bank robbery...
+{19910}{19958}that is sensational!
+{19960}{20059}Authentic stuff shot|while the robbery was going on.
+{20060}{20116}Remember the Mary Ann Gifford|kidnapping?
+{20118}{20210}It's that bunch of nuts. She's in|the movie shooting off machine guns.
+{20212}{20267}This is really terrific footage.
+{20268}{20353}We can get a movie of the week|out of it, maybe even a series.
+{20391}{20437}A series?|What are we talking about?
+{20439}{20547}We've got a bunch of hobgoblin radicals,|the Ecumenical Liberation Army...
+{20549}{20625}who go around taking home movies|of themselves robbing banks.
+{20627}{20710}Maybe they'll take movies of themselves|kidnapping heiresses...
+{20712}{20759}hijacking 747 s...
+{20760}{20812}bombing bridges,|assassinating ambassadors.
+{20864}{20935}We'd open each week's segment|with their authentic footage...
+{20936}{21023}hire writers to write a story behind|that footage, and we've got a series.
+{21046}{21142}A series about a bunch|of bank-robbing guerrillas?
+{21172}{21241}What will we call it,|the "Mao Tse-Tung Hour"?
+{21243}{21280}Why not?
+{21282}{21336}They've got "Strike Force,"|"Task Force," "SWAT."
+{21338}{21413}Why not Che Guevara|and his own little "Mod Squad"?
+{21415}{21524}I sent you all a concept analysis report|yesterday. Did any of you read it?
+{21547}{21623}Well, in a nutshell it said...
+{21625}{21674}"The American people|are turning sullen. "
+{21676}{21766}They've been clobbered on all sides|by Vietnam, Watergate, inflation.
+{21768}{21845}They've turned off, shot up, fucked|themselves limp, and nothing helps.
+{21847}{21932}So this concept analysis report|concludes...
+{21934}{22047}the American people want somebody|to articulate their rage for them.
+{22049}{22179}I've told you since I took this job|six months ago that I want angry shows.
+{22180}{22232}I don't want conventional programming.
+{22234}{22298}I want counterculture.|I want antiestablishment.
+{22372}{22467}I don't want to play butch boss|with you people...
+{22468}{22518}but when I took over|this department...
+{22520}{22582}it had the worst programming record|in television history.
+{22584}{22651}This network hasn't one show|in the top 20.
+{22652}{22702}This network is an industry joke.
+{22704}{22783}We better start putting together|one winner for next September.
+{22784}{22831}I want a show developed...
+{22832}{22919}based on the activities|of a terrorist group.
+{22920}{22978}"Joseph Stalin and His Merry Band|of Bolsheviks. "
+{22980}{23060}I want ideas from you.|That is what you're paid for.
+{23062}{23152}By the way, the next time I send|an audience research report around...
+{23154}{23212}you'd better read it,|or I'll sack the lot of you.
+{23214}{23253}Is that clear?
+{23255}{23391}I'll be on the coast in four weeks. Can|you set up a meeting with Laureen Hobbs?
+{23392}{23479}The business of management|is management.
+{23480}{23561}At the time CCA took control,|the UBS TV network was foundering...
+{23563}{23647}with less than seven percent|of national television revenues...
+{23649}{23718}most network programs being sold|at station rates.
+{23720}{23806}I am pleased to announce I am submitting|to the board of directors a plan...
+{23808}{23873}for the coordination|of the main profit centers...
+{23875}{23946}and with the specific intention|of making each division...
+{23948}{24015}more responsive to management.
+{24016}{24051}Point one.
+{24084}{24168}"The division producing the lowest rate|of return has been the News Division...
+{24170}{24303}with its $98 million budget and its|average annual deficit of $32 million. "
+{24332}{24411}I know, historically, news divisions|are expected to lose money.
+{24413}{24481}To our minds, this philosophy|is a wanton fiscal affront...
+{24483}{24571}to be resolutely resisted.
+{24573}{24704}The new plan calls for local news to be|transferred to Owned Stations Divisions.
+{24706}{24790}News Radio would be transferred to|the UBS Radio Division...
+{24792}{24890}and the News Division would be reduced|from an independent division...
+{24892}{25000}to a department accountable|to network.
+{25118}{25201}- What was that all about, Ed?|- This is not the time.
+{25203}{25249}Why wasn't I told about this?
+{25251}{25354}Why was I led up onto that podium and|humiliated in front of the stockholders?
+{25356}{25414}Goddamn it! I spoke to John Wheeler|this morning...
+{25416}{25479}and he assured me|that the News Division was safe.
+{25480}{25534}If you want me to resign,|that's a bad way to do it.
+{25536}{25605}We'll talk about this tomorrow|at our regular morning meeting.
+{25896}{25943}Roll VTA.
+{25944}{25998}Bring it up on one.|Ready now.
+{26019}{26114}In five, four, three, two...
+{26116}{26168}- One.|- One TVA.
+{26203}{26237}And...
+{26281}{26315}cue announcer.
+{26317}{26364}The "UBS Evening News"...
+{26393}{26442}with Howard Beale.
+{26444}{26489}Ready two.
+{26491}{26527}Two. Cue power.
+{26529}{26626}Good evening.|Today is Wednesday, September 24...
+{26628}{26674}and this is my last broadcast.
+{26708}{26755}Yesterday I announced|on this program...
+{26756}{26828}that I was going to commit|public suicide...
+{26829}{26890}admittedly an act of madness.
+{26892}{26967}I'll tell you what happened.|I just ran out of bullshit.
+{26968}{27023}- Cut him off.|- Leave him on.
+{27058}{27092}Am I still on?
+{27094}{27168}If this is how he wants to go out,|this is how he goes out.
+{27170}{27224}I just ran out of bullshit.
+{27226}{27285}Mr. Schumacher's here.|Do you want to talk to him?
+{27287}{27333}Bullshit is all the reasons|we give for living.
+{27335}{27438}If we can't think up reasons of our own,|we always have the God bullshit.
+{27440}{27484}- We don't know why we go through...|- What is it?
+{27486}{27545}Pointless pain,|humiliation and decay.
+{27547}{27641}There better be someone, somewhere|who does know. That's the God bullshit.
+{27643}{27725}He's saying that life is bullshit.|It is. What are you screaming about?
+{27727}{27809}Man is a noble creature who can order|his own world. Who needs God?
+{27838}{27931}If there's anybody who can look around|this demented world we live in...
+{27932}{28005}and tell me man|is a noble creature...
+{28007}{28062}believe me,|that man is full of bullshit.
+{28088}{28175}- What's so goddamn funny?|- I can't help it. It's funny.
+{28217}{28288}This is going out live|to 67 affiliates.
+{28290}{28324}Leave him on.
+{28326}{28434}And I was married for 33 years|of shrill, shrieking fraud.
+{28436}{28522}- Mr. Hackett's trying to reach you.|- Tell Mr. Hackett to go fuck himself.
+{28524}{28595}So I don't have any bullshit left.
+{28623}{28694}I just ran out of it, you see.
+{28832}{28891}Mr. Ruddy, could we have|one statement, please?
+{28892}{28943}Sorry, I don't have|all the information yet.
+{29026}{29120}If we could just have one statement|about Mr. Beale.
+{29360}{29395}Max?
+{29606}{29652}I'll want to see Mr. Beale|after this.
+{29713}{29775}The way I hear it,|you were primarily responsible...
+{29777}{29833}for this colossally|stupid prank.
+{29851}{29906}- Is that the fact?|- That's the fact.
+{29908}{29969}It was unconscionable.
+{30050}{30132}- There is nothing more to say.|- I have something to say.
+{30160}{30228}I want to know why that debasement|of the News Division...
+{30230}{30317}announced at the meeting this afternoon|was kept secret from me?
+{30347}{30403}You and I go back 20 years.
+{30404}{30465}I took this job|with your personal assurance...
+{30467}{30557}that you'd back my autonomy|against any encroachment.
+{30559}{30672}But ever since CCA acquired control|of UBS Systems ten months ago...
+{30674}{30730}Hackett's been taking over everything.
+{30732}{30832}Who is running this network?|You or some conglomerate called CCA?
+{30834}{30901}You're president|of the Systems Group.
+{30903}{30988}Hackett's nothing|but a hatchet man for CCA.
+{30990}{31054}Nelson here,|president of the network...
+{31056}{31122}and he hasn't a damned thing to say|about anything anymore.
+{31124}{31186}I told you|at the stockholders' meeting...
+{31188}{31279}that we would discuss all that|at our regular meeting tomorrow morning.
+{31281}{31337}If you had been patient,|I would have explained...
+{31339}{31400}that I, too, thought|Frank Hackett precipitate...
+{31402}{31471}and that the reorganization of the|News Division would not be executed...
+{31473}{31534}until everyone,|specifically you, Max...
+{31536}{31606}had been consulted and satisfied.
+{31629}{31675}Instead, you sulked off|like a child...
+{31677}{31750}and engaged this network|in a shocking and disgraceful episode.
+{31752}{31799}Your position|is no longer tenable...
+{31801}{31857}regardless of how management|is restructured.
+{31907}{31960}I will expect your resignation|at 10:00 tomorrow morning.
+{31962}{32051}We will coordinate our statements|to the least detriment of everyone.
+{32103}{32186}Bob McDonough will take over the News|Division until we sort all this out.
+{32236}{32303}I'd like to see Mr. Beale now.
+{32304}{32371}They're looking for him.|They don't know where he is.
+{32403}{32491}Well, every day, five days a week|for 15 years...
+{32493}{32578}I've been sitting behind that desk,|the dispassionate pundit...
+{32580}{32652}reporting with seemly detachment...
+{32654}{32740}the daily parade of lunacies|that constitute the news.
+{32742}{32776}Just once...
+{32778}{32826}I wanted to say|what I really felt.
+{32828}{32867}Knock it off.
+{32868}{32913}It was, after all, my last one.
+{33322}{33386}- Have the overnight ratings come in?|- They're on your desk.
+{33388}{33434}Have you got|yesterday's overnights?
+{33436}{33489}- Shall I bring them in?|- Yeah.
+{33626}{33700}These are the outlines submitted|by Universal for an hour series.
+{33702}{33775}You needn't bother to read them.|I'll tell them to you.
+{33777}{33887}The first one is set in an eastern|law school, presumably Harvard.
+{33889}{33964}The series is irresistibly entitled|"The New Lawyers. "
+{33966}{34047}The running characters are: A crusty|but benign ex-Supreme Court justice...
+{34048}{34131}presumably Oliver Wendell Holmes|by way of Dr. Zorba...
+{34132}{34215}a beautiful girl graduate student,|and the local district attorney...
+{34216}{34263}who is brilliant|and sometimes cuts corners.
+{34264}{34310}Next one.
+{34312}{34359}The second one's called|"The Amazon Squad. "
+{34361}{34398}Lady cops.
+{34400}{34468}Running characters include a crusty|but benign police lieutenant...
+{34470}{34525}who's always getting heat|from the commissioner...
+{34527}{34616}a tough, hard-drinking detective who|thinks women belong in the kitchen...
+{34618}{34707}and a brilliant, beautiful young cop|who's fighting the feminist battle.
+{34708}{34758}We're up to our ears in lady cops.
+{34760}{34834}Next is another one of those|investigative reporter shows.
+{34836}{34899}A crusty but benign managing editor|who's always getting...
+{34900}{34951}You know, Barbara...
+{34952}{35055}the Arabs have decided to jack up|the price of oil another 20 percent.
+{35079}{35170}The CIA has been caught opening|Senator Humphrey's mail.
+{35172}{35266}There's a civil war in Angola.|Another one in Beirut.
+{35297}{35358}New York City's still facing default.
+{35360}{35428}They finally caught up|with Patricia Hearst.
+{35430}{35519}And the whole front page|of the Daily News is Howard Beale.
+{35546}{35641}There's also a two-column story|on page one of the Times.
+{35708}{35764}Helen?|Call Mr. Hackett's office.
+{35766}{35824}See if he can give me|a few minutes this morning.
+{35983}{36087}KTNS Kansas City refuses to carry|our "Network News Show" anymore...
+{36089}{36136}unless Beale is taken off the air.
+{36137}{36188}Did you see the overnights|on the "Network News"?
+{36190}{36255}It has an 8 in New York,|a 9 in L. A...
+{36257}{36315}and a 27 share in both cities.
+{36317}{36394}Last night, Howard Beale went on the air|and yelled "bullshit" for two minutes.
+{36396}{36497}I can tell you tonight's show|will get a 30 share at least.
+{36499}{36576}- I think we've lucked into something.|- For God sakes, Diana!
+{36578}{36655}Are you suggesting we put that lunatic|back on the air yelling "bullshit"?
+{36656}{36740}Yes, I think we should put Beale back|on the air tonight and keep him on.
+{36742}{36809}Did you see the news this morning?|Did you see the Times?
+{36811}{36874}We got press coverage on this|you couldn't buy for a million dollars.
+{36876}{37018}That show jumped 5 points in one night.|Tonight's show will be at least 15.
+{37020}{37129}We've just increased our audience by|20 or 30 million people in one night!
+{37131}{37197}You won't get something like this dumped|into your lap the rest of your days.
+{37199}{37298}You can't piss it away. Howard said|last night what every American feels.
+{37300}{37421}He's tired of all the bullshit!|He's articulating the popular rage!
+{37423}{37471}I want that show, Frank.
+{37473}{37526}I can turn that show|into the biggest smash on TV.
+{37528}{37599}It's a news show.|It's not your department.
+{37601}{37667}I see Howard Beale|as a latter-day prophet...
+{37668}{37767}a messianic figure inveighing|against the hypocrisies of our times!
+{37768}{37830}A strip Savonarola|Monday through Friday...
+{37832}{37888}that will just go through the roof!
+{37890}{37985}And I'm talking about|a six-dollar cost per thousand show.
+{37987}{38060}I'm talking about|130,000 dollar minutes.
+{38062}{38152}Figure out the revenues of a strip show|that sells for $100,000 a minute!
+{38154}{38244}One show like that could pull|this network out of the hole!
+{38246}{38323}It's being handed to us on a plate.|Let's not blow it.
+{38356}{38402}Yes.
+{38404}{38456}Tell him I'll be a few minutes.
+{38518}{38595}- Let me think it over.|- Let's not go to committee on this.
+{38596}{38688}It's 10:20. We want Beale in the studio|by 6:30. We don't want to lose momentum.
+{38690}{38788}For God sakes, we're talking about|putting an irresponsible man...
+{38790}{38850}on national television.
+{39084}{39150}I'd like to talk to Legal Affairs,|Herb Thackery...
+{39152}{39214}and Joe Donnelly|in Standards and Practices.
+{39254}{39331}You know I'll be eyeball to eyeball|with Mr. Ruddy on this.
+{39332}{39409}If I'm going to the mat with Ruddy,|I want to be sure of my ground.
+{39411}{39464}My ass is going on the line.
+{39546}{39592}I'll get back to you.
+{39682}{39730}I don't believe the top brass...
+{39732}{39829}of a national television network|is sitting around their Caesar salads...
+{39831}{39887}Top brass of a bankrupt|national television network...
+{39888}{39952}with projected losses|of $150 million.
+{39954}{39988}I don't care!
+{40023}{40117}You can't be seriously proposing,|and the rest of us considering...
+{40119}{40179}putting on a pornographic|network news show.
+{40181}{40235}- The FCC would kill us.|- Sit down, Nelson.
+{40236}{40307}The FCC can't do anything|except rap our knuckles.
+{40309}{40385}I don't even want to think about|the litigious possibilities.
+{40387}{40466}- We could be up to our ears in lawsuits.|- The affiliates won't carry it.
+{40468}{40540}The affiliates will kiss your ass|if you can hand them a hit show.
+{40542}{40596}- But popular reaction...|- We don't know the popular reaction.
+{40598}{40675}- That's what we have to find out.|- The New York Times...
+{40676}{40759}The New York Times doesn't advertise|on our network.
+{40805}{40909}All I know is, this violates|every canon of respectable broadcasting.
+{40911}{40988}We're not a respectable network.|We're a whorehouse network.
+{40990}{41042}We have to take whatever we can get.
+{41076}{41123}I don't want any part of it.
+{41125}{41184}I don't fancy myself|the president of a whorehouse.
+{41186}{41253}That's commendable of you, Nelson.|Now sit down.
+{41280}{41327}Your indignation|has been duly recorded.
+{41328}{41375}You can always resign tomorrow.
+{41429}{41523}What in substance are we proposing?
+{41524}{41619}Merely to add editorial comment|to our network news show.
+{41621}{41711}Brinkley, Sevareid, Reasoner|all have their comments.
+{41713}{41763}Now Howard Beale will have his.
+{41765}{41862}I think we ought to give it a shot,|see what happens tonight. Telephone.
+{41864}{41947}I don't want to be the messenger|who has to tell Schumacher about this.
+{41949}{42039}He doesn't work at this network anymore.|Mr. Ruddy fired him last night.
+{42041}{42112}Bob McDonough is running|the News Division now.
+{42146}{42194}Bob McDonough in News, please.
+{42230}{42281}I don't know.
+{42283}{42342}I may teach or write a book...
+{42344}{42442}whatever the hell one does when one|approaches the autumn of one's years.
+{42509}{42555}My God! Is that me?
+{42574}{42634}Was I ever that young?
+{42636}{42694}No, Howard brought in a picture|of Ed Murrow...
+{42696}{42755}and the CBS gang|when we were there.
+{42757}{42794}You wouldn't believe it!
+{42796}{42847}Walter Cronkite, Harry Reasoner...
+{42848}{42897}Hollenbeck, Bob Trout.
+{42899}{42945}Is that you?
+{42973}{43063}Yeah. Okay, Dick,|we'll be in touch.
+{43065}{43171}Remember this kid you sent to interview|Cleveland Amory on vivisection?
+{43260}{43314}What's so funny?
+{43376}{43461}I jump out of bed in my pajamas,|I grab my raincoat, I run downstairs.
+{43463}{43526}I run out to the street|and hail a cab.
+{43528}{43648}I yell at the driver, "Take me to the|middle of the George Washington Bridge. "
+{43699}{43787}And the driver says,|"Don't do it, buddy. Don't do it!
+{43789}{43849}You're young. You've got|your whole life ahead of you. "
+{43872}{43928}Wait a minute.
+{43930}{44038}If you think that's funny,|wait till you hear this.
+{44040}{44087}I've come from Hackett's office.
+{44088}{44155}He wants to put Howard|back on the air tonight.
+{44156}{44230}Apparently the ratings went up|five points last night...
+{44232}{44311}and he wants Howard to go back on|and do his "angry man" thing.
+{44312}{44363}What are you talking about?
+{44364}{44438}They want Howard to go back on|and yell "bullshit. "
+{44500}{44547}They want Howard to go on...
+{44548}{44596}spontaneously letting out|his anger.
+{44598}{44669}A latter-day prophet|denouncing the hypocrisies of our times.
+{44671}{44724}That sounds pretty good!
+{44746}{44780}Who's "they"?
+{44782}{44846}Hackett. Chaney was there.
+{44848}{44923}The Legal Affairs guy.|Oh, and that girl from programming.
+{44924}{44983}Christensen?|What's she got to do with this?
+{44984}{45051}- Are you kidding?|- I'm not kidding.
+{45052}{45142}I said, "We're running|a news department here, not a circus.
+{45144}{45205}And Howard Beale's|not a bearded lady.
+{45207}{45270}If you think I'll go along with|this bastardization of the news...
+{45272}{45354}you can have my resignation|along with Max Schumacher's.
+{45356}{45495}- I'm speaking for Howard Beale and... "|- That's my job you're turning down.
+{45497}{45565}I'd go nuts|without some kind of work.
+{45567}{45663}What's wrong with being an angry prophet|denouncing the hypocrisies of our times?
+{45665}{45706}What do you think, Max?
+{45708}{45809}Do you want to be an angry prophet|denouncing the hypocrisies of our times?
+{45811}{45918}Yeah, I'd like to be an angry prophet|denouncing the hypocrisies of our times.
+{45949}{45997}Then grab it!
+{46152}{46199}- Afternoon, Mr. Ruddy.|- Afternoon.
+{46200}{46247}Good afternoon, Mr. Ruddy.
+{46322}{46378}- He's waiting for you.|- Thank you.
+{46529}{46610}Nelson Chaney tells me Beale|may actually go on the air this evening.
+{46653}{46709}As far as I know,|Howard's going to do it.
+{46772}{46837}- Are you gonna sit still for this?|- Yes.
+{46839}{46904}I think Hackett's overstepped himself.
+{46906}{46967}There's some kind of|corporate maneuvering going on.
+{46969}{47030}Hackett is clearly forcing|a confrontation.
+{47032}{47084}That would account for his behavior|at the stockholders' meeting.
+{47086}{47196}However, I think he's making a serious|mistake with this Beale business.
+{47198}{47273}I suspect CCA will be upset...
+{47275}{47322}at Hackett's presumptuousness.
+{47324}{47375}Certainly Mr. Jensen will.
+{47377}{47462}So I'm going to let Hackett|have his head for a while.
+{47464}{47528}He just might lose it|over this Beale business.
+{47629}{47696}I'd like you to reconsider|your resignation.
+{47698}{47758}I assume Hackett|wouldn't take such steps...
+{47760}{47815}without some support|on the CCA board.
+{47816}{47885}I'll have to go directly to Mr. Jensen.
+{47887}{47964}When that happens, I'm going to need|every friend I've got...
+{47966}{48055}and I don't want Hackett's people|in all the divisional positions.
+{48056}{48109}So I'd like you to stay on.
+{48218}{48252}Of course.
+{48293}{48359}Thank you, Max.
+{48360}{48419}This has been|the "UBS Evening News"...
+{48421}{48479}with Howard Beale.
+{48481}{48544}The initial response to the new|"Howard Beale Show"...
+{48546}{48595}was not auspicatory.
+{48597}{48646}The press was,|without exception, hostile...
+{48648}{48700}and industry reaction negative.
+{48702}{48758}The ratings for the Thursday|and Friday shows...
+{48760}{48820}were both 14,|but Monday's rating dropped a point...
+{48822}{48900}clearly suggesting the novelty|was wearing off.
+{48944}{48996}Did you know there are|a number of psychics...
+{48998}{49068}working as licensed brokers|on Wall Street?
+{49070}{49128}Some counsel their clients|by use of tarot cards.
+{49130}{49219}They're all pretty successful,|even in a bear market and selling short.
+{49221}{49307}I met one of them last week|and thought of doing a show around her.
+{49309}{49372}"The Wayward Witch of Wall Street. "|Something like that.
+{49374}{49434}But if her tips were any good,|she could wreck the market.
+{49436}{49569}I called her this morning and asked her|how she was on predicting the future.
+{49571}{49635}She said she was|occasionally prescient.
+{49637}{49748}"For example," she said,|"I just had a vision of you...
+{49750}{49822}sitting in an office|with a craggy, middle-aged man...
+{49824}{49906}with whom you are|or will be emotionally involved. "
+{49908}{49946}And here I am.
+{50005}{50066}She does all this with tarot cards?
+{50068}{50137}This one operates|on parapsychology.
+{50139}{50242}She has trance-like episodes|and feels things in her energy field.
+{50265}{50354}- This lady could be very useful to you.|- In what way?
+{50355}{50418}You put on a news show.
+{50420}{50497}And here's somebody who can predict|tomorrow's news for you.
+{50499}{50555}Her name, aptly enough, is Sibyl.
+{50556}{50603}Sibyl the Soothsayer.
+{50604}{50666}You could give her|two minutes of trance...
+{50668}{50731}at the end of the "Howard Beale Show,"|say once a week, Friday...
+{50732}{50791}which is suggestively occult,|and she could oraculate.
+{50820}{50891}Then next week everyone tunes in to see|how good her predictions were.
+{50918}{50966}Maybe she could do the weather.
+{51022}{51093}Your "Network News Show" will need help|if it's going to hold.
+{51095}{51154}Beale doesn't do the "angry man" thing|well at all.
+{51156}{51205}He's too kvetchy.|He's being irascible.
+{51207}{51283}We want a prophet, not a curmudgeon.|He should do more apocalyptic doom.
+{51284}{51376}I think you should have some writers|write some jeremiads for him.
+{51409}{51463}I see you don't fancy my suggestions.
+{51516}{51560}You're not serious?
+{51562}{51603}I'm serious.
+{51640}{51700}The fact is, I could make|your Beale show...
+{51702}{51797}the highest-rated news show in TV|if you'd let me have a crack at it.
+{51820}{51874}What do you mean,|"have a crack at it"?
+{51876}{51920}I'd like to program it for you.
+{51922}{51960}Develop it.
+{51962}{52075}I wouldn't interfere with|the news itself, but TV is show biz...
+{52076}{52171}and even the news has to have|a little showmanship.
+{52172}{52227}My God, you are serious.
+{52228}{52328}I watched your six o'clock news today.|It's straight tabloid.
+{52330}{52414}You had a minute and a half of that lady|riding naked in Central Park...
+{52416}{52490}but you had less than a minute|of hard national and international news.
+{52492}{52557}It was all sex, scandal,|brutal crime, sports...
+{52559}{52639}children with incurable diseases|and lost puppies.
+{52640}{52722}So I won't listen to protestations|of high standards of journalism...
+{52724}{52792}when you're on the streets, soliciting|audiences like the rest of us.
+{52794}{52890}All I'm saying is, if you're going|to hustle, at least do it right.
+{52892}{52966}I'm going to bring this up at tomorrow's|meeting, but I don't like hassles.
+{52968}{53049}I was hoping we could work this out|between us. That's why I'm here.
+{53086}{53167}And I was hoping you were looking for|an emotional involvement...
+{53168}{53221}with a craggy, middle-aged man.
+{53258}{53306}I wouldn't rule that out entirely.
+{53388}{53444}All right, Diana...
+{53446}{53535}bring up all your ideas at the meeting,|because if you don't, I will.
+{53571}{53631}I think Howard's making|a goddamn fool of himself...
+{53632}{53731}and so does everybody that Howard|and I know in this industry.
+{53733}{53790}It was a fluke.|Didn't work.
+{53820}{53894}So tomorrow, Howard goes back|to the old format...
+{53896}{53989}and all of this gutter depravity|comes to an end.
+{54269}{54314}I don't get it.
+{54349}{54421}You hung around until 7:30|and then came down here...
+{54423}{54493}just to pitch a couple|of loony show-biz ideas...
+{54495}{54588}when you knew goddamn well|I'd laugh you right out of the office.
+{54590}{54647}I don't get it.
+{54649}{54717}What's your scam in this?
+{54719}{54848}My visit here tonight was a gesture made|out of your stature in the industry...
+{54880}{54944}and because I personally admired you|since I was a kid...
+{54946}{55006}majoring in speech|at the University of Missouri.
+{55037}{55127}Sooner or later, with or without you,|I'm going to take over your news show.
+{55129}{55190}I figured I might as well start tonight.
+{55220}{55285}I think I once gave a lecture...
+{55287}{55365}at the University of Missouri.
+{55367}{55479}I was in the audience. I had|a schoolgirl crush on you for months.
+{55518}{55599}If we could get back for a moment|to that gypsy who predicted...
+{55600}{55702}all that about emotional involvements|and middle-aged men...
+{55731}{55789}what are you doing|for dinner tonight?
+{56012}{56077}I can't make it tonight.|Call me tomorrow.
+{56137}{56213}- Do you have a favorite restaurant?|- I eat anything.
+{56246}{56299}I get a feeling I'm being made.
+{56300}{56335}You are.
+{56363}{56439}I've got to warn you.|I don't do anything on my first date.
+{56440}{56475}We'll see.
+{56619}{56673}Schmuck, what are you getting into?
+{57188}{57285}I was married for four years|and pretended to be happy.
+{57287}{57350}I had six years of analysis|and pretended to be sane.
+{57393}{57457}My husband ran off|with his boyfriend...
+{57459}{57569}and I had an affair with my analyst who|told me I was the worst lay he ever had.
+{57600}{57669}I can't tell you how many men|have told me what a lousy lay I am.
+{57690}{57748}I apparently have|a masculine temperament.
+{57750}{57843}I arouse quickly,|consummate prematurely...
+{57844}{57918}and I can't wait to get my clothes|back on and get out of that bedroom.
+{57947}{58042}I seem to be inept at everything|except my work.
+{58063}{58117}I'm good at my work.
+{58119}{58180}So I confine myself to that.
+{58182}{58265}All I want out of life|is a 30 share and a 20 rating.
+{58303}{58354}You're married, surely?
+{58392}{58426}Twenty-five years.
+{58451}{58530}I have a married daughter in Seattle|who's six months pregnant...
+{58532}{58655}and a younger girl who's starting|at Northwestern in January.
+{58724}{58770}Well, Max, here we are.
+{58820}{58886}Middle-aged man reaffirming|his middle-aged manhood...
+{58888}{58959}and a terrified young woman|with a father complex.
+{58961}{59021}What sort of script|can we make out of this?
+{59071}{59176}Corridor gossip says that you're|Frank Hackett's backstage girl.
+{59201}{59235}I'm not.
+{59276}{59356}Frank's a corporation man,|body and soul.
+{59358}{59406}He has no loves, lusts|or allegiances...
+{59407}{59490}that are not consummately directed|toward becoming a CCA board member.
+{59492}{59560}Why should he bother with me?|I'm not even a stockholder.
+{59605}{59707}What about your loves,|lusts and allegiances?
+{59709}{59761}Is your wife in town?
+{59763}{59797}Yes.
+{59828}{59887}Then we better go to my place.
+{59920}{59991}I can't hear you.|You'll have to talk a little louder.
+{60152}{60225}Yes, I hear you.
+{60311}{60345}Yes.
+{60412}{60447}Yes.
+{60589}{60624}Why me?
+{60671}{60724}I said, "Why me?"
+{61212}{61259}Howard in his office?
+{61287}{61408}I'm killing this whole screwball|"angry prophet" thing.
+{61410}{61463}Tonight we go back to straight news.
+{61628}{61714}Yeah? Max, I'm telling you he's fine.
+{61715}{61789}He's been sharp all day.|He's been as funny as hell.
+{61791}{61844}Had everybody cracking up|at the rundown meeting.
+{61846}{61894}I told him!
+{61913}{61947}Cue VTA.
+{61966}{62000}Ready two.
+{62055}{62134}- Cue announcer.|- The "UBS Evening News"...
+{62136}{62184}with Howard Beale.
+{62208}{62300}Last night I was awakened|from a fitful sleep...
+{62302}{62366}shortly after 2:00 in the morning...
+{62367}{62441}by a shrill, sibilant,|faceless voice.
+{62443}{62530}I couldn't make it out at first|in the dark bedroom.
+{62567}{62630}I said, "I'm sorry.|You'll have to talk a little louder. "
+{62631}{62720}- What do you want me to do?|- Nothing.
+{62722}{62801}The voice said to me,|"I want you to tell the truth.
+{62803}{62871}Not easy to do, because the people|don't want to know the truth. "
+{62873}{62939}I said, "You're kidding?
+{62940}{62987}What should I know about the truth?"
+{62988}{63098}But the voice said to me,|"Don't worry about the truth. "
+{63099}{63147}I will put the words in your mouth. "
+{63172}{63219}I said,|"Is this the burning bush?
+{63220}{63255}I'm not Moses. "
+{63256}{63335}The voice said, "I'm not God.|What has that got to do with it?"
+{63336}{63441}The voice said, "We're not talking|about eternal, absolute truth.
+{63443}{63508}We're talking about impermanent,|transient, human truth!
+{63510}{63579}I don't expect people|to be capable of truth...
+{63581}{63642}but at least you're capable|of self-preservation. "
+{63668}{63758}I said, "Why me?"
+{63759}{63825}The voice said, "Because you're|on television, dummy. "
+{63827}{63880}Beautiful.
+{63882}{63957}"Forty million Americans listen to you,|and after the show, maybe 50 million.
+{63959}{64060}I'm not asking you to walk the land|in sackcloth preaching the Armageddon.
+{64062}{64096}You're on TV."
+{64114}{64168}I thought about it for a moment.
+{64203}{64263}Then I said, "Okay. "
+{64758}{64804}Close the door, Harry.
+{64887}{64956}Howard, I'm taking you off the air.
+{64986}{65063}I think you're having a breakdown,|require treatment.
+{65121}{65199}This is not a psychotic episode.
+{65200}{65264}This is a cleansing moment of clarity.
+{65369}{65404}I'm imbued.
+{65435}{65533}I'm imbued with some special spirit.|It's not a religious feeling at all.
+{65535}{65622}It's a shocking eruption|of great electrical energy.
+{65623}{65682}I feel vivid and flashing...
+{65683}{65807}as if suddenly I'd been plugged|into a great electromagnetic field.
+{65852}{65917}I feel connected to all living things.
+{65919}{65994}To flowers, birds...
+{66021}{66069}all the animals of the world...
+{66112}{66243}and even to some great,|unseen living force...
+{66245}{66311}what I think the Hindus|call "prana. "
+{66341}{66394}But it's not a breakdown.
+{66395}{66461}I've never felt more orderly|in my life.
+{66463}{66564}It is a shattering|and beautiful sensation.
+{66585}{66675}It is the exalted flow|of the space-time continuum...
+{66677}{66755}save that it is spaceless|and timeless...
+{66789}{66835}and such loveliness.
+{66871}{67002}I feel on the verge|of some great ultimate truth.
+{67119}{67247}And you will not take me off the air|for now or any other spaceless time!
+{67420}{67472}- Is he okay?|- He's just fainted.
+{67474}{67546}I better get him back to my house|again tonight.
+{67548}{67598}Help me get him up.
+{68095}{68142}This is crazy.
+{68176}{68258}The whole place has gone crazy.|They just seem to hassle me.
+{70185}{70256}Wake up, Max,|because Howard's gone.
+{70284}{70358}I'll make you some coffee.
+{70359}{70410}You don't know where he is?|The son of a bitch is a hit!
+{70412}{70475}Goddamn it!|Over 2,000 phone calls!
+{70477}{70583}In the mail room, over 14,000 telegrams!|The response is sensational!
+{70584}{70638}Tell him.|Herb's phone hasn't stopped ringing.
+{70639}{70767}Every affiliate from Albuquerque|to Sandusky! Response is sensational!
+{70768}{70825}Yes. All right.
+{70827}{70882}For you, Herb.|Go to your office.
+{70883}{70966}Moldanian called me. Joe Donnelly|called me. We've got a goddamn hit!
+{70968}{71067}Show him the Times. We even got|an editorial in the New York Times.
+{71069}{71123}- "A Call to Morality. "|- I don't know where he is.
+{71124}{71197}That crazy Beale has caught on. Don't|tell me you don't know where he is.
+{71199}{71261}He could be jumping off a roof|for all I know!
+{71263}{71345}The man is insane!|He's not responsible for himself!
+{71347}{71394}He needs care and treatment.
+{71396}{71497}All you grave robbers think about|is that he's a hit.
+{71499}{71560}It's just possible|that he isn't insane...
+{71562}{71638}that he is, in fact,|imbued with some special spirit.
+{71639}{71725}I'm supposed to be the romantic!|You're the hard-bitten realist!
+{71727}{71800}All right. Howard Beale|obviously fills a void.
+{71802}{71849}The audience|obviously wants a prophet...
+{71851}{71919}even a manufactured one...|even if he's as mad as Moses.
+{71920}{71984}By tomorrow he'll have a 50 share,|maybe a 60.
+{71986}{72033}Howard Beale|is processed instant God.
+{72035}{72102}It looks like he may go over bigger|than Mary Tyler Moore.
+{72103}{72170}I am not putting Howard|back on the air!
+{72171}{72219}It's not your show anymore.|It's mine.
+{72292}{72330}I gave her the show.
+{72331}{72408}I'm putting the "Network News Show"|under programming.
+{72410}{72485}Mr. Ruddy had a heart attack|and is not taking calls.
+{72487}{72558}In his absence,|I'm making all network decisions...
+{72559}{72646}including one I've been wanting to make|a long time: You're fired.
+{72665}{72711}I want you out of this building|by noon.
+{72713}{72792}I'll call security and have you|thrown out if you're still here.
+{72876}{72918}Well, let's say|fuck you, Hackett.
+{72919}{72969}You want me out of here...
+{72971}{73064}you'll have to drag me and the whole|News Division out kicking and screaming.
+{73066}{73130}You think they'll quit their jobs|for you? Not in this recession.
+{73131}{73178}Ruddy will have your ass.
+{73179}{73263}I got a hit!|Ruddy doesn't count anymore!
+{73265}{73334}He was hoping I'd fall on my face|with this Beale show, but I didn't.
+{73335}{73407}It's a big, fat, big-titted hit...
+{73409}{73461}and I don't have to waffle around|with Ruddy anymore.
+{73463}{73518}If he wants to take me before|the CCA board, let him.
+{73519}{73589}Do you think Ruddy is stupid enough|to go to the CCA board and say...
+{73591}{73646}"I'm taking our one hit show|off the air. "
+{73647}{73762}Come November 14, I'll be at the annual|CCA Management Review Meeting...
+{73763}{73823}and I'll announce projected earnings|for this network...
+{73825}{73877}for the first time in five years!
+{73879}{73976}Believe me, Mr. Jensen will be|sitting there, rocking back and forth...
+{73978}{74085}and he'll say, "That's very good, Frank.|Keep it up. "
+{74087}{74170}So don't have illusions about who's|running this network. You're fired.
+{74172}{74261}I want you out of your office before|noon, or I'll have you thrown out.
+{74363}{74401}You go along with this?
+{74434}{74493}I told you I didn't want|a network hassle.
+{74495}{74581}I told you I'd much rather|work the Beale show out between us.
+{74627}{74683}Well, let's just say|fuck you, too, honey.
+{74727}{74783}Howard Beale may be my best friend.|I'll go to court.
+{74785}{74860}I'll put him in a hospital before I let|you exploit him like a carnival freak.
+{74862}{74906}You get your psychiatrist.|I'll get mine.
+{74907}{74990}I'm gonna spread this reeking business|in every newspaper...
+{74991}{75060}on every network, group and affiliate|in this country!
+{75062}{75114}I'm gonna make|a lot of noise about this!
+{75115}{75171}We need all the press we can get!
+{75240}{75290}Something going on|between you and Schumacher?
+{75327}{75366}Not anymore.
+{75809}{75863}- How do you do, Mr. Beale?|- I must make my witness.
+{75865}{75915}Sure thing, Mr. Beale.
+{76000}{76065}Oil ministers of the OPEC nations|meeting in Vienna...
+{76067}{76172}still haven't decided how much|to increase the price of oil.
+{76174}{76249}Yeah? He came in the building|five minutes ago.
+{76251}{76317}Tell Snowden when he comes in|to let him go on.
+{76319}{76365}Did you get that, Paul?
+{76395}{76496}More on that story|from Edward Fletcher in Vienna.
+{76498}{76590}This has been the most divisive meeting|the oil states have ever had.
+{76659}{76720}The 13 nations of OPEC|have still not...
+{76722}{76797}been able to decide by how much|to increase the price of oil.
+{76837}{76884}How much time we got?
+{76915}{76962}We've got five seconds.|Hurry up.
+{77070}{77115}Take two. Cue Howard.
+{77117}{77202}I don't have to tell you things are bad.|Everybody knows things are bad.
+{77203}{77250}It's a depression.
+{77251}{77355}Everybody's out of work|or scared of losing their job.
+{77356}{77428}The dollar buys a nickel's worth.|Banks are going bust.
+{77430}{77528}Shopkeepers keep guns under the counter.|Punks are running wild in the street.
+{77530}{77597}Nobody anywhere seems to know|what to do, and there's no end to it.
+{77631}{77744}We know the air is unfit to breathe|and our food is unfit to eat.
+{77746}{77823}We sit watching our TVs|while some newscaster tells us...
+{77825}{77911}that today we had 15 homicides|and 63 violent crimes...
+{77913}{77959}as if that's the way|it's supposed to be!
+{77961}{78042}We know things are bad.|Worse than bad. They're crazy.
+{78043}{78123}Everything everywhere is going crazy,|so we don't go out anymore.
+{78125}{78207}We sit in the house. Slowly the world|we're living in is getting smaller.
+{78208}{78291}All we say is, "Please. At least|leave us alone in our living rooms.
+{78292}{78375}Let me have my toaster, my TV|my steel-belted radials.
+{78377}{78426}I won't say anything|Just leave us alone. "
+{78428}{78512}I'm not gonna leave you alone.|I want you to get mad!
+{78538}{78598}I don't want you to protest or riot.
+{78600}{78662}Don't write to your congressman.|I don't know what to tell you to write.
+{78664}{78725}I don't know what to do|about depression, inflation...
+{78727}{78774}the Russians,|the crime in the streets.
+{78776}{78847}All I know is that first|you've got to get mad!
+{78849}{78922}You've got to say,|"I'm a human being, goddamn it!
+{78923}{78972}My life has value!"
+{79035}{79142}So, I want you to get up now.
+{79144}{79225}I want all of you to get up|out of your chairs.
+{79227}{79307}I want you to get up now|and go to the window...
+{79308}{79387}open it,|stick your head out and yell...
+{79388}{79497}"I'm as mad as hell, and I'm|not gonna take this anymore!"
+{79499}{79545}I want you to get up right now.
+{79547}{79610}- Stay with him.|- Sit up! Go to your windows.
+{79611}{79666}Open them,|stick your head out and yell...
+{79667}{79742}"I'm as mad as hell, and I'm|not gonna take this anymore!"
+{79767}{79825}- How many stations does it go out live?|- Sixty-seven.
+{79880}{79927}"I'm not gonna take this anymore. "
+{79928}{80019}Then we'll figure out what to do|about the depression and the oil crisis.
+{80020}{80065}First, get out of your chairs...
+{80067}{80152}open the window,|stick your head out and yell...
+{80154}{80205}"I'm as mad as hell...
+{80207}{80263}and I'm not gonna|take this anymore!"
+{80264}{80317}- Who are you talking to?|- Atlanta.
+{80319}{80385}Are they yelling in Atlanta?
+{80387}{80434}But first you've gotta get mad.
+{80435}{80545}You've gotta say, "I'm as mad as hell,|and I'm not gonna take this anymore!"
+{80547}{80593}They're yelling in Baton Rouge.
+{80623}{80657}Get up!
+{80659}{80746}Son of a bitch!|We've struck the mother lode!
+{80748}{80843}Stick your head out of the window|and keep yelling.
+{80845}{80907}Yell, "I'm as mad as hell.
+{80909}{80951}I'm not gonna take this anymore. "
+{80953}{81014}Just get up from your chairs.
+{81015}{81069}- Where you going?|- I want to see if anybody's yelling.
+{81071}{81118}Open it and stick your head out.
+{81120}{81167}Yell and keep yelling...
+{81199}{81254}I'm mad as hell!
+{81255}{81305}I'm not gonna take this anymore!
+{81424}{81493}I'm mad as hell, and I'm|not gonna take it anymore!
+{81970}{82083}I'm mad as hell, and I'm not|going to take this anymore!
+{82921}{83014}By mid-October, the "Howard Beale Show"|had settled in at a 42 share...
+{83016}{83112}more than equaling all the other|network news shows combined.
+{83114}{83173}In the Nielsen ratings,|the "Howard Beale Show"...
+{83175}{83231}was the fourth-highest-rated show|of the month...
+{83233}{83316}surpassed only by "The Six Million|Dollar Man," "All in the Family"...
+{83318}{83348}and "Phyllis"...
+{83350}{83416}a phenomenal state of affairs|for a news show.
+{83417}{83500}On October 15, Diana Christensen|flew to Los Angeles...
+{83502}{83559}for what the trade calls|powwows and confabs...
+{83561}{83618}with her West Coast|programming execs...
+{83620}{83697}and to get production rolling|on the shows for the coming season.
+{83699}{83820}Christ! You brought half the William|Morris West Coast Office along with you.
+{83822}{83937}I'm Diana Christensen, a racist lackey|of the imperialist ruling circles.
+{83939}{84004}I'm Laureen Hobbs,|a bad-ass commie nigger.
+{84006}{84069}Sounds like the basis|of a firm friendship.
+{84071}{84127}- We'll need more chairs.|- Anybody want coffee?
+{84129}{84184}I'd love some.
+{84320}{84405}This is my lawyer, Sam Haywood,|and his associate, Merrill Grant.
+{84461}{84572}Miss Christensen, just what the hell's|this all about?
+{84574}{84653}Because, when a national|television network...
+{84655}{84761}in the person of booby here|comes to me and says...
+{84762}{84838}they want to put the ongoing struggle|of the oppressed masses...
+{84840}{84887}on prime-time television...
+{84889}{84935}I have to regard this askance!
+{84937}{85055}Mr. Haywood was saying|that our client, Miss Hobbs...
+{85057}{85154}wants it up front that|the political content of the show...
+{85156}{85210}has to be in her control.
+{85212}{85297}She can have it. I don't give a damn|about the political content.
+{85320}{85359}What kind of show?
+{85361}{85433}I'm interested in doing|a weekly dramatic series...
+{85435}{85494}based on the|Ecumenical Liberation Army...
+{85496}{85587}and the first show has to be|a two-hour special on Mary Ann Gifford.
+{85589}{85720}I want a lot more film like the bank|rip-off the Ecumenical sent in.
+{85721}{85784}The way I see the series is...
+{85786}{85903}each week we open with an authentic act|of political terrorism...
+{85905}{85960}taken on the spot|and in the actual moment.
+{85961}{86031}Then we go to the drama behind|the opening film footage.
+{86033}{86084}That's your job, Miss Hobbs.
+{86086}{86181}You've got to get the Ecumenicals|to bring in that film footage for us.
+{86183}{86277}The network can't deal with them.|They are wanted criminals.
+{86301}{86372}The Ecumenical Liberation Army|is an ultra-left sect...
+{86374}{86411}creating political confusion...
+{86413}{86489}with wildcat violence|and pseudo-insurrectionary acts...
+{86491}{86543}which the Communist Party|does not endorse.
+{86545}{86622}The American masses are not yet ready|for open revolt.
+{86624}{86693}We would not want to produce|a television show...
+{86695}{86777}celebrating historically|deviational terrorism.
+{86778}{86848}I'm offering you an hour|of prime-time television every week...
+{86849}{86897}into which you can stick|whatever propaganda you want.
+{86899}{86980}The Ecumenicals are an undisciplined|ultra-left gang...
+{86981}{87042}whose leader is an eccentric,|to say the least.
+{87044}{87159}He calls himself the Great Ahmed Khan|and wears a hussar's shako.
+{87161}{87236}We're talking about|30 to 50 million people a shot.
+{87237}{87285}It's better than handing out...
+{87287}{87350}mimeographed pamphlets|on ghetto street corners.
+{87499}{87572}I'll have to take this matter|to the Central Committee.
+{87600}{87664}And I'd better check it out|with the Great Ahmed Khan.
+{87704}{87804}I'll be in L.A. Until Saturday,|and I'd like to get it rolling.
+{88628}{88713}Well, Ahmed,|you ain't gonna believe this...
+{88745}{88818}but I'm gonna make|a TV star outta you.
+{88820}{88900}Just like Archie Bunker.
+{88901}{88966}You gonna be a household word.
+{89006}{89065}What the fuck are you talking about?
+{89067}{89135}- Thirty seconds.|- Ready VTA.
+{89137}{89189}One, you have the audience to pan.
+{89191}{89255}Two, you have the window to pull.
+{89257}{89308}Three, you're on the announcer.
+{89310}{89345}Twenty.
+{89396}{89427}Stand by VTA.
+{89429}{89509}Fifteen, 14, 13, 12...
+{89510}{89573}- Ready A.|- Roll VTA.
+{89575}{89637}Nine, 8, 7...
+{89639}{89712}6, 5, 4...
+{89713}{89761}3, 2, 1.
+{89763}{89801}Three, cue announcer!
+{89803}{89885}Ladies and gentlemen, let's hear it!|How do you feel?
+{89886}{89929}We're mad as hell...
+{89931}{90001}and we're not gonna take this anymore!
+{90002}{90049}Ladies and gentlemen,|the "Network News Hour"...
+{90050}{90095}with Sybil the Soothsayer...
+{90196}{90282}Jim Webbing and his|It's-The-Emmes-Truth Department...
+{90370}{90431}Miss Mata Hari|and her skeletons in the closet.
+{90536}{90593}Plus tonight, another segment|of "Vox Populi. "
+{90693}{90792}And starring the Mad Prophet|of the Airways, Howard Beale!
+{91155}{91213}Edward George Ruddy died today!
+{91215}{91277}Edward George Ruddy|was the chairman of the board...
+{91279}{91343}of the Union Broadcasting Systems...
+{91345}{91428}and he died at 11:00 this morning|of a heart condition.
+{91429}{91509}Woe is us!|We're in a lot of trouble!
+{91592}{91710}So, a rich little man|with white hair died.
+{91729}{91796}What does that got to do|with the price of rice, right?
+{91797}{91846}And why is that woe to us?
+{91893}{91943}Because you people...
+{91945}{92040}and 62 million other Americans|are listening to me right now.
+{92042}{92133}Because less than three percent|of you people read books.
+{92167}{92255}Because less than 15 percent of you|read newspapers.
+{92257}{92347}Because the only truth you know|is what you get over this tube.
+{92349}{92433}Right now, there is a whole|and entire generation...
+{92435}{92512}that never knew anything|that didn't come out of this tube!
+{92541}{92643}This tube is the Gospel.|The ultimate revelation.
+{92645}{92697}This tube can make or break...
+{92699}{92764}presidents, popes, prime ministers.
+{92766}{92890}This tube is the most awesome goddamn|force in the whole godless world...
+{92892}{92961}and woe is us if it ever falls|into the hands of the wrong people!
+{92962}{93041}And that's why woe is us|that Edward George Ruddy died.
+{93063}{93136}Because this company is now|in the hands of CCA...
+{93138}{93201}the Communication Corporation|of America.
+{93203}{93284}There's a new chairman of the board,|a man called Frank Hackett...
+{93285}{93333}sitting in Mr. Ruddy's office|on the 20th floor.
+{93335}{93437}And when the 12th largest company|in the world...
+{93439}{93521}controls the most awesome,|goddamn propaganda force...
+{93523}{93569}in the whole godless world...
+{93571}{93668}who knows what shit will be peddled|for truth on this network!
+{93670}{93742}So you listen to me.|Listen to me!
+{93744}{93810}Television is not the truth.
+{93812}{93872}Television's|a goddamned amusement park!
+{93873}{93975}Television is a circus, a carnival,|a traveling troupe of acrobats...
+{93977}{94063}storytellers, dancers, singers,|jugglers, sideshow freaks...
+{94065}{94133}lion tamers and football players.
+{94134}{94193}We're in the boredom-killing business.
+{94242}{94338}So if you want the truth,|go to God.
+{94340}{94397}Go to your gurus.
+{94399}{94448}Go to yourselves!
+{94449}{94548}Because that's the only place|you're ever gonna find any real truth.
+{94581}{94680}But, man, you're never gonna get|any truth from us.
+{94682}{94752}We'll tell you anything you wanna hear.|We lie like hell.
+{94753}{94826}We'll tell you that Kojak|always gets the killer...
+{94828}{94905}and that nobody ever gets cancer|in Archie Bunker's house.
+{94907}{94963}And no matter how much trouble|the hero is in, don't worry.
+{94965}{95030}Look at your watch.|At the end of the hour he'll win!
+{95032}{95115}We'll tell you any shit|you want to hear!
+{95117}{95207}We deal in illusions.|None of it is true!
+{95209}{95304}But you people sit there,|day after day, night after night.
+{95306}{95406}You're all ages, colors, creeds.|We're all you know.
+{95408}{95478}You're beginning to believe|the illusions we're spinning here.
+{95480}{95571}You're beginning to think the tube is|reality and your own lives are unreal.
+{95573}{95623}You do whatever the tube tells you!
+{95625}{95676}You dress like the tube,|eat like the tube...
+{95678}{95753}raise your children like the tube,|even think like the tube.
+{95755}{95840}This is mass madness, you maniacs!
+{95841}{95907}In God's name, you people|are the real thing!
+{95909}{95961}We are the illusion!
+{95963}{96078}So turn off your television sets.|Turn them off right now.
+{96080}{96128}Turn them off and leave them off.
+{96129}{96206}Turn them off in the middle|of this sentence.
+{96208}{96256}Turn them off!
+{96602}{96671}UBS was running at a cash flow|of break-even point...
+{96673}{96781}after taking into account $110 million|of negative cash flow from the network.
+{96783}{96868}It was clear the fat on the network|had to be flitched off.
+{96870}{96948}Please note an increase in projected|initial programming revenues...
+{96950}{97000}in the amount of $21 million...
+{97001}{97089}due to the phenomenal success|of the "Howard Beale Show. "
+{97126}{97239}I expect a positive cash flow|for the entire complex of 45 million...
+{97241}{97295}achievable in this fiscal year...
+{97297}{97359}a year, in short,|ahead of schedule.
+{97378}{97427}Beyond that...
+{97429}{97497}this network may be|the most significant profit center...
+{97498}{97556}of the communications complex...
+{97557}{97656}and based upon the projected rate|of return on invested capital...
+{97658}{97750}and if merger is accomplished,|the communications complex...
+{97752}{97856}may well become the towering|and most profitable center...
+{97857}{97921}in the entire CCA empire.
+{97969}{98049}I await your questions and comments.
+{98051}{98087}Mr. Jensen?
+{98106}{98180}Very good, Frank. Exemplary.|Keep it up.
+{98796}{98856}Buy you a cup of coffee?
+{98896}{98933}Hell, yes.
+{98958}{99016}Do you have to get back|to the office?
+{99017}{99073}Nothing that can't wait.
+{99372}{99458}I drop down to the news studios|now and then...
+{99460}{99510}and ask Howard Beale about you.
+{99512}{99588}He says you're doing fine.|Are you?
+{99606}{99656}Are you keeping busy?
+{99657}{99700}In a fashion.
+{99702}{99804}This is the third funeral|I've been to in two weeks.
+{99805}{99921}I have two other friends in the hospital|whom I visit regularly.
+{99922}{99999}I've been to a couple of christenings.
+{100001}{100091}All my friends seem to be dying|or having grandchildren.
+{100116}{100172}You should be a grandfather yourself|about now.
+{100173}{100240}You have a pregnant daughter|in Seattle, don't you?
+{100242}{100291}Any day now.
+{100293}{100353}My wife's out there|for the occasion.
+{100459}{100544}I've thought many times of calling you.
+{100588}{100645}I wish you had.
+{100713}{100814}I bumped into Sybil the Soothsayer|in the elevator last week.
+{100816}{100887}I said, "You know, Sybil,|about four months ago...
+{100889}{100993}you predicted I would get involved|with a craggy, middle-aged man.
+{100994}{101082}So far, all that's happened|has been one many-splendored night.
+{101084}{101164}I don't call that|getting involved. "
+{101165}{101248}She said,|"Don't worry. You will. "
+{101317}{101403}It was a many-splendored night,|wasn't it, Max?
+{101452}{101495}Yes, it was.
+{101559}{101614}Are we going to get involved?
+{101677}{101774}Yes. I need to become involved|very much.
+{101804}{101856}How about you?
+{101889}{101960}I've reached for the phone to call you|a hundred times...
+{101962}{102035}but I was sure you hated me for my part|in taking your news show away.
+{102079}{102156}I probably did.|I don't know anymore.
+{102157}{102278}All I know is,|I can't get you out of my mind.
+{102381}{102445}Marty, I know what NBC offered them.
+{102447}{102584}Go to 3.5, and I want an option|for a third run on all of them.
+{102585}{102666}I'm in a big hurry, and you and Charlie|are supposed to be negotiating this.
+{102668}{102717}Good-bye, good luck.|I'll see you Monday.
+{102803}{102886}- Jimmy Caan's agent says absolutely nix.|- You can't win them all.
+{102888}{102971}- Where can I reach you later today?|- You can't. I'll be gone all weekend.
+{103091}{103209}NBC's offering 3.25 mil|per package of five James Bond movies...
+{103211}{103284}and I think I'm gonna steal them|for 3.5...
+{103285}{103336}with a third run.
+{103540}{103592}I'm gonna stick the "Mao Tse-tung Hour"|in at 8:00...
+{103593}{103704}because we're having a lot of trouble|selling the "Mao Tse-tung Hour. "
+{103914}{104031}That "Mao Tse-tung Hour's" turning|into one big pain in the ass.
+{104057}{104150}We're having heavy legal problems|with the federal government right now.
+{104184}{104302}Two FBI guys turned up in Hackett's|office and served us with a subpoena.
+{104349}{104451}They heard about our Flagstaff|bank rip-off film, and they want it.
+{104482}{104546}Hackett told the FBI to fuck off.
+{104672}{104718}We're getting around the FBI...
+{104720}{104801}by doing the show in collaboration|with the news division.
+{104803}{104858}We're standing on the First Amendment:|Freedom of the press...
+{104860}{104919}and the right to protect our sources.
+{104921}{105009}Walter thinks we can knock out|the misprision of felony charge.
+{105196}{105276}But he says absolutely nix|on going to series.
+{105277}{105404}They'll hit us with "conspiracy|with an inducement to commit a crime. "
+{105405}{105456}Christ, it's cold in here.
+{105458}{105568}We're paying these Ecumencial|Liberation Army nuts $10,000 a week...
+{105570}{105654}in order to turn in authentic film|of their revolutionary activities.
+{105656}{105753}That inconstitutes|"inducement to commit a crime"...
+{105755}{105837}and Walter says we'll all wind up|in federal prison.
+{105861}{105982}I said, "Walter,|let the federal government sue us.
+{105984}{106039}We'll take them to the Supreme Court.
+{106041}{106088}We'll be front page. "
+{106127}{106195}The New York Times|and the Washington Post...
+{106197}{106243}will write editorials.
+{106245}{106351}We'll be front page for months.|We'll have more press than Watergate.
+{106353}{106469}All I need is six weeks|federal litigation...
+{106470}{106557}and the "Mao Tse-tung Hour" can start|carrying its own time slot.
+{106951}{107044}What's really bugging me now|is my daytime programming.
+{107069}{107133}NBC's got a lock on daytime...
+{107135}{107200}with their lousy game shows...
+{107202}{107264}and I'd like to bust them.
+{107266}{107373}I'm thinking of doing|a homosexual soap opera. "The Dykes. "
+{107409}{107474}The heartrending saga about a woman...
+{107476}{107555}hopelessly in love|with her husband's mistress.
+{107557}{107608}What do you think?
+{107874}{107925}How long has it been going on?
+{107985}{108023}A month.
+{108069}{108147}I thought it was a transient thing,|blow over in a week.
+{108180}{108300}I still pray to God|it's just a menopausal infatuation.
+{108337}{108418}But it is an infatuation, Louise.
+{108457}{108528}There's no sense in my saying|I won't see her again, because I will.
+{108649}{108737}You want me to leave,|check into a hotel?
+{108809}{108857}Do you love her?
+{108939}{108992}I don't know how I feel.
+{109039}{109128}I'm grateful I can feel anything.
+{109193}{109241}I know I'm obsessed with her.
+{109301}{109342}Then say it!
+{109366}{109450}Don't keep telling me that|you're obsessed, you're infatuated!
+{109452}{109511}Say that you're in love with her.
+{109574}{109649}I'm in love with her.
+{109651}{109757}Then get out! Go anywhere you want.|Go live with her, but don't come back!
+{109758}{109868}Because after 25 years of building|a home and raising a family...
+{109870}{109958}and all the senseless pain|that we have inflicted on each other...
+{109960}{110041}I'm damned if I'll stand and have you|say you're in love with somebody else!
+{110081}{110197}This isn't the convention weekend|with your secretary, is it?
+{110198}{110302}Or some broad that you picked up|after three belts of booze.
+{110304}{110371}This is your great winter romance,|isn't it?
+{110373}{110472}Your last roar of passion before|you settle into your emeritus years.
+{110474}{110548}Is that what's left for me?|Is that my share?
+{110550}{110618}She gets the winter passion,|and I get the dotage?
+{110620}{110706}Am I supposed to sit home|knitting and purling...
+{110708}{110795}while you slink back|like some penitent drunk?
+{110797}{110847}I'm your wife, damn it...
+{110849}{110900}and if you can't work up|a winter passion for me...
+{110901}{110978}the least I require|is respect and allegiance!
+{111276}{111359}I hurt!|Don't you understand that?
+{111409}{111482}I hurt badly!
+{111673}{111729}Oh, say something for God's sake.
+{111963}{112020}I've got nothing to say.
+{112274}{112332}I won't give you up easily.
+{112486}{112554}I think perhaps it is better|if you move out.
+{112692}{112747}Does she love you?
+{112841}{112932}I'm not sure she's capable|of any real feelings.
+{112933}{113031}She's television generation.|She learned life from Bugs Bunny.
+{113033}{113123}The only reality she knows|comes to her from over the TV set.
+{113167}{113262}She's very carefully devised a number|of scenarios for all of us to play...
+{113264}{113332}like a movie of the week.
+{113391}{113461}My God, look at us.
+{113463}{113542}Here we are going through|the obligatory middle-of-act-two...
+{113544}{113639}"scorned wife throws|peccant husband out" scene.
+{113641}{113723}But don't worry,|I'll come back to you in the end.
+{113725}{113803}All of her plot outlines have me|leaving her and coming back to you...
+{113805}{113916}because the audience won't buy a|rejection of the happy American family.
+{113985}{114069}She does have one script|in which I kill myself.
+{114071}{114172}An adapted-for-television version|of "Anna Karenina"...
+{114211}{114275}where she's Count Vronsky|and I'm Anna.
+{114399}{114452}You're in for some dreadful grief.
+{114523}{114557}I know.
+{114559}{114641}The "Mao Tse-tung Hour"|went on the air March 14.
+{114642}{114698}It received a 47 share.
+{114700}{114776}The network promptly committed|to 15 shows with an option for 10 more.
+{114778}{114860}There were the usual|contractual difficulties.
+{114861}{114948}"Equal to 20 percent except that such|a percentage shall be 30 percent...
+{114949}{115014}for 90 minutes|or longer television programs. "
+{115016}{115083}Have we settled|that sub-licensing thing?
+{115085}{115158}We want a clear definition here.
+{115160}{115258}"Gross proceeds should consist of|all funds the sub-licensee receives...
+{115260}{115312}not merely the net amount remitted...
+{115314}{115393}after payment to the sub-licensee|or distributor. "
+{115395}{115484}We're not sitting still for overhead|charges as a cost prior to distribution.
+{115486}{115572}Don't fuck with my distribution costs!
+{115574}{115621}I'm making a lousy 215 per segment.
+{115622}{115682}I'm already deficiting 25 grand a week|with Metro!
+{115684}{115730}I'm paying William Morris 10 percent|off the top!
+{115732}{115790}I'm giving this turkey ten thousand|per segment and five to this fruitcake.
+{115792}{115861}And, Helen, don't start|no shit with me about a piece again.
+{115863}{115930}I'm paying Metro 20 percent for all|foreign and Canadian distribution...
+{115932}{115982}and that's after recoupment!
+{115984}{116079}The Communist Party won't see a nickel|outta this show until syndication.
+{116081}{116140}The Party's in for 7,500 a week|production expenses!
+{116142}{116232}I'm not giving|this pseudo-insurrectionary a piece.
+{116234}{116331}I won't give him script approval or|cut him in on my distribution charges.
+{116333}{116380}You fucking fascist!
+{116382}{116450}Did you see the film we made|of the San Marino jail breakout...
+{116452}{116526}demonstrating the rising up of a|seminal prisoner class infrastructure?
+{116528}{116619}You can blow the seminal prisoner class|infrastructure out your ass!
+{116621}{116684}I'm not knocking down|my goddamn distribution charges!
+{116721}{116812}Man, give her|the fucking overhead clause.
+{116839}{116887}Who's gonna believe this?
+{116945}{117031}Let's get back to page 22.|Five, small "a. "
+{117033}{117095}"Subsidiary rights. "
+{117097}{117182}- Where are we now?|- Middle of page 22, "Subsidiary rights. "
+{117184}{117274}"As used herein, 'subsidiary rights'|means without limitation any and all... "
+{117531}{117652}Over the past two days, you've had|opportunity to meet Diana Christensen...
+{117654}{117731}our vice president|in charge of programming.
+{117733}{117845}This afternoon, you all saw some of the|stuff she's set up for the new season.
+{118069}{118168}You all know that she is the woman|behind the "Howard Beale Show. "
+{118327}{118409}We all know she's beautiful.
+{118433}{118501}We all know she's brainy.
+{118502}{118621}I was thinking, before we start digging|into our chateaubriands...
+{118669}{118731}let's show her how we feel about her.
+{119101}{119172}We've got the number one show|in television!
+{119252}{119357}At next year's affiliates' meeting, I'll|be telling you we've got the top five!
+{119509}{119574}Last year, we were|the number four network.
+{119576}{119634}Next year, we're number one!
+{119654}{119689}We're number one!
+{119707}{119753}We're number one!
+{120014}{120097}It is exactly 7:00|here in Los Angeles...
+{120098}{120193}and right now over a million homes|using television in this city...
+{120194}{120246}are turning their dials|to channel three...
+{120248}{120310}and that's our channel!
+{120475}{120528}Howard Beale!
+{120598}{120657}Stop it! Stop it!
+{120659}{120715}Listen to me,|and listen carefully...
+{120717}{120825}because this is your goddamn life|I'm talking about today.
+{120851}{120923}In this country, when one company wants|to take over another company...
+{120925}{120980}they simply buy up a controlling share|of the stock...
+{120981}{121041}but first they have to file notice|with the government.
+{121042}{121117}That's how CCA took over the company|that owns this network.
+{121119}{121201}But now somebody's buying up CCA.
+{121202}{121292}Somebody called|the Western World Funding Corporation.
+{121294}{121349}They filed the notice this morning.
+{121351}{121447}Who in the hell is|the Western World Funding Corporation?
+{121449}{121533}It is a consortium of banks|and insurance companies...
+{121535}{121623}who are not buying CCA for themselves|but as agents for somebody else.
+{121625}{121681}And who is this somebody else?|They won't tell you.
+{121682}{121736}They won't tell you.|They won't tell the Senate.
+{121737}{121835}They won't tell the SEC, the FCC,|the Justice Department.
+{121837}{121929}This is Mr. Hackett.|Do you have a New York call for me?
+{121931}{121989}Do you want to|turn that down, please?
+{121991}{122064}I will tell you who|they're buying CCA for.
+{122066}{122166}They're buying it for the|Saudi Arabian Investment Corporation.
+{122168}{122215}They're buying it for the Arabs!
+{122217}{122289}Clarence? Frank Hackett here.|How's everything back in New York?
+{122291}{122339}How's the good lady?
+{122418}{122509}Take it easy.|I don't know what you're talking about.
+{122511}{122576}When? Tonight's show?
+{122600}{122654}Clarence, take it easy.
+{122683}{122787}The "Howard Beale Show" is just going on|out here. You get it 3 hours earlier.
+{122789}{122889}Take it easy! How the hell could|I see it? It's just going on now!
+{123017}{123085}When did Mr. Jensen call?
+{123087}{123152}We all know that the Arabs control...
+{123154}{123243}$16 billion in this country.
+{123245}{123343}They own a chunk of Fifth Avenue,|20 downtown pieces of Boston...
+{123345}{123457}a part of the port of New Orleans,|an industrial park in Salt Lake City.
+{123459}{123513}They own big hunks|of the Atlanta Hilton...
+{123515}{123575}the Arizona Land and Cattle Company...
+{123577}{123632}the Security National Bank|in California...
+{123634}{123684}the Bank of the Commonwealth|in Detroit.
+{123686}{123793}They control Aramco, so that puts them|into Exxon, Texaco and Mobil Oil.
+{123794}{123900}They're all over! New Jersey,|Louisville, St. Louis, Missouri.
+{123901}{124013}And that's only what we know about.|There's more we don't know about.
+{124015}{124096}Because all of those Arab|petrol dollars are washed...
+{124097}{124177}through Switzerland and Canada|and the biggest banks in this country.
+{124179}{124278}For example, what we don't know about|is this CCA deal...
+{124280}{124364}and all the other CCA deals.
+{124366}{124454}Right now the Arabs have screwed us out|of enough American dollars...
+{124456}{124505}to come right back|and with our own money...
+{124507}{124608}buy General Motors,|IBM, ITT, AT&T...
+{124610}{124705}Du Pont, U.S. Steel|and 20 other American companies.
+{124707}{124776}Hell, they already own|half of England!
+{124801}{124837}Listen to me.
+{124838}{124890}Listen to me, goddamn it!
+{124892}{124942}The Arabs are simply buying us.
+{124944}{125030}There's only one thing|that can stop them! You!
+{125056}{125096}You!
+{125098}{125176}So I want you to get up now.
+{125178}{125239}I want you to get up|out of your chairs.
+{125241}{125309}I want you to get up right now|and go to the phone.
+{125310}{125376}I want you to get up from your chairs,|go to the phone...
+{125378}{125471}get in your cars, drive into|the Western Union offices in town.
+{125473}{125554}I want you to send a telegram|to the White House.
+{125556}{125615}- Oh, my God.|- By midnight tonight...
+{125617}{125684}I want a million telegrams|in the White House!
+{125686}{125785}I want them wading knee-deep|in telegrams at the White House.
+{125787}{125893}I want you to get up right now and|write a telegram to President Ford...
+{125894}{126009}saying "I'm as mad as hell,|and I'm not gonna take this anymore!
+{126011}{126087}I don't want the banks|selling my country to the Arabs!
+{126089}{126170}I want the CCA deal stopped now!"
+{126172}{126235}I want the CCA deal stopped now!
+{126237}{126331}Come on. I want the CCA deal|stopped now!
+{126884}{126951}- Could we have the room?|- Sure.
+{127152}{127250}I'd like to see a typed script|and run through a couple more times.
+{127252}{127321}But as for this whole CCA deal...
+{127322}{127403}with the Saudis, you know a lot more|about that, Frank, than I would.
+{127405}{127452}Is it true?
+{127545}{127640}The CCA has two billion in loans|with the Saudis...
+{127642}{127712}and they hold|every pledge we've got.
+{127741}{127810}We need that Saudi money bad.
+{127862}{127922}The show is a disaster.
+{127958}{128041}Unmitigated disaster!|The death knell.
+{128069}{128152}I'm ruined. I'm dead.|I'm finished.
+{128183}{128269}Maybe we're overstating Beale's clout|with the public.
+{128303}{128362}An hour ago, Clarence McElheny|called me from New York.
+{128364}{128410}It was 10:00 in the East...
+{128412}{128520}and our people in the White House report|they were knee-deep in telegrams.
+{128521}{128636}By tomorrow morning,|they'll be suffocating in telegrams!
+{128638}{128685}Can the government stop the deal?
+{128687}{128796}They can hold it up. The SEC could hold|it up for 20 years if they wanted to.
+{128798}{128833}I'm finished.
+{128835}{128900}Any second that phone's gonna ring,|and Clarence McElheny...
+{128902}{128992}is gonna tell me Mr. Jensen wants me|in his office tomorrow morning...
+{128994}{129068}so he can personally chop my head off!
+{129094}{129151}Four hours ago,|I was the sun god at CCA...
+{129153}{129230}Mr. Jensen's handpicked golden boy,|the heir apparent.
+{129255}{129354}Now, I'm a man|without a corporation.
+{129390}{129462}Let's get back to Howard Beale.
+{129464}{129544}You're not seriously gonna pull|Beale off the air.
+{129653}{129751}Mr. Jensen's unhappy with Howard Beale|and wants him discontinued.
+{129753}{129807}He may be unhappy,|but he isn't stupid enough...
+{129809}{129877}to withdraw the number one show|on television out of pique.
+{129878}{129964}Two billion dollars isn't pique!|That's the wrath of God!
+{129965}{130013}And the wrath of God wants|Howard Beale fired!
+{130015}{130139}What for? Every other network will grab|him. He'll be on the air for ABC.
+{130141}{130209}I'm gonna impale the son of a bitch|with a sharp stick through the heart.
+{130211}{130259}We'll lose $40 million in revenues.
+{130261}{130355}I'll take a contract out on him.|I'll hire professional killers.
+{130357}{130407}No, I'll do it myself.
+{130409}{130540}I'll strangle him with a sash cord.|Jesus!
+{130542}{130595}I don't think Jensen's|gonna fire anybody.
+{130808}{130883}Yes, Clarence.|I've already booked my flight.
+{130940}{131008}Can you give me a little more time|than that? I've got the red-eye flight.
+{131009}{131094}I won't be back in New York|till 6:00 tomorrow morning.
+{131159}{131211}That'll be just fine.
+{131213}{131262}I'll see you then.
+{131454}{131549}Mr. Jensen wants to meet|with Howard Beale personally.
+{131551}{131639}He wants Mr. Beale in his office|at 10:00 tomorrow morning.
+{131793}{131864}The final revelation is at hand!
+{131865}{131965}I have seen the shattering|vulgarizations of ultimate clarity.
+{131967}{132075}The light is impending.|I bear witness to the light!
+{132582}{132655}Good morning, Mr. Beale.|They tell me you're a madman.
+{132657}{132694}Only desultorily.
+{132696}{132750}- How are you now?|- I'm as mad as a hatter.
+{132752}{132786}Who isn't?
+{132812}{132858}I'm taking you into|our conference room.
+{132860}{132940}Seems more seemly a setting|for what I have to say to you.
+{132974}{133040}I started as a salesman.
+{133041}{133112}I sold sewing machines,|automobile parts...
+{133113}{133181}hair brushes|and electronic equipment.
+{133183}{133259}They say I can sell anything.
+{133261}{133334}I'd like to try|to sell something to you.
+{133421}{133468}Valhalla, Mr. Beale.
+{133470}{133517}Please sit down.
+{134216}{134336}You have meddled with the primal forces|of nature, Mr. Beale...
+{134338}{134387}and I won't have it!
+{134405}{134440}Is that clear?
+{134442}{134506}You think you merely stopped|a business deal.
+{134508}{134555}That is not the case.
+{134557}{134616}The Arabs have taken billions of dollars|out of this country...
+{134618}{134674}and now they must put it back!
+{134676}{134798}It is ebb and flow, tidal gravity.|It is ecological balance!
+{134834}{134881}You are an old man...
+{134882}{134974}who thinks in terms|of nations and peoples.
+{134976}{135036}There are no nations.|There are no peoples.
+{135038}{135090}There are no Russians.|There are no Arabs.
+{135092}{135156}There are no Third Worlds.|There is no West.
+{135157}{135281}There is only one holistic system|of systems!
+{135283}{135385}One vast and immane,|interwoven, interacting...
+{135387}{135490}multi-variant, multinational|dominion of dollars!
+{135492}{135568}Petrol dollars, electro dollars,|multi-dollars.
+{135569}{135690}Reichsmarks, rins, rubles, pounds|and shekels!
+{135741}{135810}It is the international system|of currency...
+{135812}{135932}which determines the totality|of life on this planet.
+{135953}{136062}That is the natural order|of things today.
+{136086}{136183}That is the atomic...
+{136185}{136236}and subatomic...
+{136237}{136342}and galactic structure|of things today.
+{136384}{136440}And you have meddled...
+{136442}{136528}with the primal forces of nature!
+{136557}{136667}And you will atone!
+{136693}{136741}Am I getting through to you?
+{136841}{136936}You get up on|your little 21-inch screen...
+{136973}{137072}and howl about America|and democracy.
+{137101}{137147}There is no America.
+{137149}{137206}There is no democracy.
+{137208}{137301}There is only IBM and ITT...
+{137302}{137342}and AT&T...
+{137344}{137439}and Du Pont, Dow, Union Carbide...
+{137441}{137478}and Exxon.
+{137480}{137567}Those are the nations|of the world today.
+{137569}{137636}What do you think the Russians|talk about in their councils of state?
+{137638}{137676}Karl Marx?
+{137677}{137739}They get out their|linear programming charts...
+{137741}{137812}statistical decision theories,|minimax solutions and compute...
+{137814}{137914}price-cost probabilities of their|transactions and investments like we do.
+{137916}{138034}We no longer live in a world|of nations and ideologies, Mr. Beale.
+{138036}{138088}The world...
+{138090}{138160}is a college of corporations...
+{138161}{138231}inexorably determined...
+{138233}{138312}by the immutable bylaws|of business.
+{138375}{138447}The world is a business.
+{138491}{138594}It has been since man|crawled out of the slime.
+{138655}{138761}And our children will live,|Mr. Beale...
+{138805}{138852}to see that...
+{138901}{138950}perfect world...
+{138988}{139068}in which there's no war or famine...
+{139070}{139130}oppression or brutality.
+{139176}{139272}One vast and ecumenical|holding company...
+{139273}{139378}for whom all men will work to serve|a common profit...
+{139380}{139509}in which all men will hold|a share of stock...
+{139511}{139569}all necessities provided...
+{139598}{139682}all anxieties tranquilized...
+{139720}{139800}all boredom amused.
+{139953}{140068}And I have chosen you, Mr. Beale...
+{140070}{140136}to preach this evangel.
+{140138}{140180}Why me?
+{140209}{140272}Because you're on television, dummy!
+{140303}{140353}Sixty million people watch you...
+{140355}{140423}every night of the week,|Monday through Friday.
+{140452}{140507}I have seen the face of God.
+{140569}{140623}You just might be right, Mr. Beale.
+{140671}{140720}That evening Howard Beale|went on the air...
+{140721}{140800}to preach the corporate cosmology|of Arthur Jensen.
+{140801}{140912}Last night I got up here and asked you|to fight for your heritage...
+{140914}{140972}and you did,|and it was beautiful.
+{140973}{141046}Six million telegrams were received|at the White House.
+{141048}{141128}The Arab takeover of CCA|has been stopped.
+{141129}{141181}The people spoke, the people won.
+{141183}{141250}It was a radiant eruption|of democracy.
+{141276}{141371}But I think that was it, fellas.
+{141373}{141436}That sort of thing is not likely|to happen again...
+{141438}{141511}because at the bottom|of all our terrified souls...
+{141513}{141581}we know that democracy|is a dying giant...
+{141583}{141660}a sick, sick, dying,|decaying political concept...
+{141662}{141709}writhing in its final pain.
+{141710}{141800}I don't mean that the United States|is finished as a world power.
+{141802}{141878}The U. S is the richest,|most advanced country in the world...
+{141880}{141929}light-years ahead|of any other country...
+{141931}{142025}and the Communists won't take over the|world because they're deader than we.
+{142026}{142075}What is finished...
+{142113}{142168}is the idea that this great country...
+{142169}{142300}is dedicated to the freedom and|flourishing of every individual in it.
+{142326}{142402}It's the individual that's finished.
+{142404}{142496}It's the single, solitary human being|that's finished.
+{142521}{142630}It's every single one of you|out there that's finished.
+{142632}{142753}Because this is no longer a nation|of independent individuals.
+{142781}{142912}It's a nation of some 200 million|transistorized, deodorized...
+{142914}{142980}whiter-than-white,|steel-belted bodies...
+{142981}{143053}totally unnecessary|as human beings...
+{143054}{143130}and as replaceable as piston rods.
+{143389}{143470}Well, the time has come to say...
+{143472}{143554}is "dehumanization"|such a bad word?
+{143556}{143632}Whether it's good or bad,|that's what is so.
+{143633}{143691}The whole world|is becoming humanoid...
+{143693}{143768}creatures that look human|but aren't.
+{143769}{143816}The whole world, not just us.
+{143817}{143898}We're just the most advanced,|so we're getting there first.
+{143923}{144024}The whole world's people|are becoming mass-produced...
+{144026}{144097}programmed, numbered and...
+{144098}{144148}It was an admissible argument|that Howard Beale...
+{144150}{144209}advanced in the days that followed.
+{144210}{144288}It was, however,|also a very depressing one.
+{144290}{144369}Nobody particularly cared to hear|his life was utterly valueless.
+{144371}{144418}By the end of the first week|in June...
+{144420}{144466}the show dropped|one ratings point...
+{144468}{144551}and its trend of shares|dipped under 48 for the first time...
+{144553}{144595}since last November.
+{144597}{144644}You're his goddamn agent, Lou!
+{144646}{144698}I'm counting on you to talk sense|into the lunatic!
+{144700}{144770}Nobody wants to hear about|dying democracy and dehumanization!
+{144805}{144862}I'm sorry I'm late.
+{144864}{144950}We're getting rumbles from the agencies.|The sponsors will bail out soon!
+{144952}{145004}This is a breach of contract!
+{145006}{145091}This isn't the Howard Beale we signed.|Get him off the corporate universe kick.
+{145093}{145145}I'll pull him off the air!
+{145147}{145220}I told him! I've been telling him|every day for a week!
+{145222}{145303}I am sick of telling him!|Now you tell him!
+{145481}{145526}Jesus Christ!
+{145615}{145725}You could help me with Howard. He|listens to you. You're his best friend.
+{145727}{145785}I'm tired of all this hysteria|about Howard Beale!
+{145787}{145849}Every time you come back from seeing|somebody in your family...
+{145851}{145906}you're in a morbid,|middle-aged mood!
+{145908}{145988}And I'm tired of finding you on the|goddamn phone every time I turn around!
+{145989}{146070}I'm tired of being an accessory|in your life!
+{146072}{146129}I'm tired of pretending|to write this dumb book...
+{146131}{146216}about my maverick days|in the early years of television.
+{146218}{146308}Every goddamned executive fired|from a network in the last 20 years...
+{146309}{146409}has written this dumb book about|the great early years of television!
+{146411}{146492}And nobody wants a dumb, damn,|goddamn book...
+{146494}{146546}about the early days of television!
+{146548}{146619}Terrific. Maybe you can start|a whole new career as an actor!
+{146688}{146798}After living with you for six months,|I'm turning into one of your scripts!
+{146822}{146887}This is not a script.
+{146889}{146968}There's some real, actual life|going on here.
+{146994}{147078}I went to visit my wife today|because she's in a state of depression...
+{147080}{147168}so depressed that my daughter|flew from Seattle to be with her...
+{147169}{147225}and I feel lousy about that.
+{147227}{147325}I feel lousy about the pain|that I've caused my wife and kids.
+{147327}{147439}I feel guilty and conscious-stricken and|those things you think sentimental...
+{147441}{147541}but which my generation called|simple human decency.
+{147639}{147704}And I miss my home...
+{147705}{147774}because I'm beginning|to get scared shitless.
+{147776}{147854}Because all of a sudden it's closer to|the end than it is to the beginning...
+{147856}{147934}and death is suddenly|a perceptible thing to me...
+{147936}{147997}with definable features.
+{148091}{148207}You're dealing with a man|that has primal doubts...
+{148209}{148277}and you've got to cope with it.
+{148279}{148396}I'm not some guy discussing male|menopause on the "Barbara Walters Show. "
+{148397}{148475}I'm the man that you presumably love.
+{148501}{148574}I'm part of your life.
+{148576}{148620}I live here.
+{148621}{148658}I'm real!
+{148683}{148761}You can't switch|to another station.
+{148868}{148902}Well...
+{148939}{149006}what exactly is it|you want me to do?
+{149102}{149171}I just want you to love me.
+{149208}{149288}I just want you to love me,|primal doubts and all.
+{149347}{149408}You understand that, don't you?
+{149524}{149577}I don't know how to do that.
+{149857}{149922}I'll be with you in a minute, Max.
+{150048}{150134}By the first week in July, the|"Howard Beale Show" was down 11 points.
+{150136}{150183}Hysteria swept through the network.
+{150185}{150258}He's a plague! He's smallpox!|He's typhoid!
+{150260}{150327}I don't want to follow his goddamn show!|I want out of the 8:00 spot.
+{150329}{150389}I've got enough troubles|without Howard Beale as a lead-in.
+{150391}{150444}You guys scheduled me up against|"Tony Orlando and Dawn"!
+{150446}{150532}NBC's got "Little House on the Prairie. "|ABC's got "The Bionic Woman. "
+{150533}{150602}You gotta do something|about Howard Beale!
+{150604}{150656}Get him off the air!|Get him off!
+{150658}{150708}Do something! Do anything!
+{150710}{150803}We're trying to find a replacement! I'm|going to look at audition footage now!
+{150805}{150892}And how when the sick heal!
+{150894}{150966}Man, I tell you I saw it!
+{150968}{151053}It was heavy, baby.
+{151055}{151109}I saw the earth quake...
+{151111}{151205}and I saw the moon became like blood.
+{151207}{151308}And every mountain and island|was moved from its place.
+{151310}{151406}No, no, damn it! If we wanted hell-fire,|we'd get Billy Graham!
+{151408}{151494}We don't want faith healers, evangelists|or Oberammergau passion players!
+{151496}{151600}What about that terrific new messiah|ABC was to sign for our competition?
+{151626}{151660}That's him.
+{151709}{151772}That's him?
+{151805}{151851}Jesus. Turn him off!
+{151879}{151966}I've got three more,|but you've already seen the best ones.
+{151968}{152015}I've got a guru from Spokane...
+{152017}{152084}and two more hell-fires|who see visions of the Virgin Mary.
+{152086}{152181}We're not gonna find a replacement|for Beale. Let's stop kidding ourselves.
+{152182}{152256}Fully-fledged messiahs|don't come in bunches.
+{152258}{152335}We either go with Howard Beale|or we go without him.
+{152337}{152407}My reports say we'll do better|without him.
+{152409}{152479}It would be disaster to let|this situation go on another week.
+{152481}{152546}By then he'll be down 16 points...
+{152548}{152615}and the trend irreversible,|if it isn't already.
+{152661}{152734}I think we should fire Howard.
+{152798}{152881}Arthur Jensen has taken|a strong personal interest...
+{152882}{152930}in the "Howard Beale Show. "
+{152984}{153031}I'm having dinner with him tonight.
+{153033}{153127}Let me have another crack at Jensen.|Meet in my office at 10:00 tonight.
+{153129}{153196}Diana, give me copies of all|your audience research reports.
+{153197}{153249}I may need them for Jensen.
+{153251}{153305}Is 10:00 convenient for everyone?
+{154058}{154165}I think the time has come|to reevaluate our relationship, Max.
+{154191}{154234}So I see.
+{154275}{154333}I don't like the way this script of ours|is turning out.
+{154360}{154423}It's turning into a seedy little drama.
+{154425}{154531}Middle-aged man leaves wife and family|for young, heartless woman, goes to pot.
+{154533}{154603}"The Blue Angel" with Marlene Dietrich|and Emil Jannings.
+{154605}{154670}- I don't like it.|- So you're gonna cancel the show.
+{154672}{154726}- Right.|- Let me do that.
+{154765}{154833}The simple fact is, Max...
+{154835}{154891}that you're a family man.
+{154893}{154977}It's beautiful you like a home and kids,|but I am incapable of such commitment.
+{154979}{155040}All you'll get from me is another|couple of months of intermittent sex...
+{155042}{155135}and recriminate and ugly little scenes|like the one we had last night.
+{155137}{155232}I'm sorry for all those things|I said to you last night.
+{155234}{155292}You're not the worst fuck|I've ever had.
+{155293}{155351}Believe me, I've had worse.
+{155394}{155482}You don't puff or snorkel|and make death-like rattles.
+{155484}{155543}As a matter of fact,|you're rather serene in the sack.
+{155580}{155650}Why is it that a woman always thinks|that the most savage thing...
+{155652}{155744}she can say to a man|is to impugn his cocksmanship?
+{155770}{155862}I'm sorry I impugned your cocksmanship.
+{155864}{155973}I gave up comparing genitals|back in the schoolyard.
+{156200}{156266}You're being docile as hell|about this.
+{156291}{156365}Hell, Diana, I knew it was over|with us weeks ago.
+{156390}{156456}Will you go back to your wife?
+{156496}{156563}I'll give it a try,|but I don't think she'll jump at it.
+{156565}{156612}Don't worry about me.
+{156613}{156677}I'll manage. I always have,|I always will.
+{156679}{156728}I'm more concerned about you.
+{156730}{156790}You're not the boozer type.
+{156792}{156887}So I figure a year, maybe two,|before you crack up...
+{156889}{156951}or jump out of|your 14th floor office window.
+{156953}{157028}Stop selling, Max.|I don't need you.
+{157308}{157396}I don't want your pain! I don't want|your menopausal decay and death!
+{157397}{157453}- I don't need you, Max! Get out!|- You need me!
+{157476}{157594}You need me badly! Because I'm|your last contact with human reality.
+{157596}{157646}I love you!
+{157648}{157741}And that painful, decaying love|is the only thing between you...
+{157743}{157810}and the shrieking nothingness|you live the rest of the day.
+{157812}{157858}Then don't leave me.
+{157931}{157977}It's too late.
+{158007}{158063}There's nothing left in you|that I can live with.
+{158143}{158253}You're one of Howard's humanoids.|If I stay with you, I'll be destroyed.
+{158295}{158365}Like Howard Beale was destroyed.
+{158366}{158444}Like Laureen Hobbs was destroyed.
+{158446}{158570}Like everything you and the institution|of television touch is destroyed.
+{158725}{158775}You're television incarnate.
+{158813}{158867}Indifferent to suffering...
+{158886}{158937}insensitive to joy.
+{158973}{159065}All of life is reduced|to the common rubble of banality.
+{159153}{159212}War, murder, death...
+{159242}{159311}are all the same to you|as bottles of beer.
+{159336}{159431}And the daily business of life|is a corrupt comedy.
+{159473}{159553}You even shatter the sensations|of time and space...
+{159555}{159663}into split seconds|and instant replays.
+{159754}{159801}You're madness, Diana.
+{159845}{159891}Virulent madness.
+{159951}{160024}And everything you touch|dies with you.
+{160133}{160201}But not me.
+{160203}{160263}Not as long as I can feel pleasure...
+{160295}{160333}and pain...
+{160431}{160467}and love.
+{160739}{160792}And it's a happy ending.
+{160825}{160914}Wayward husband|comes to his senses...
+{160916}{160968}returns to his wife...
+{160969}{161041}with whom he's established|a long and sustaining love.
+{161073}{161166}Heartless young woman left alone|in her arctic desolation.
+{161242}{161290}Music up with a swell.
+{161363}{161404}Final commercial.
+{161472}{161555}And here are a few scenes|from next week's show.
+{161846}{161892}How'd it go?
+{162288}{162400}Mr. Jensen was unhappy at the idea|of taking Howard Beale off the air.
+{162432}{162484}Mr. Jensen thinks Howard Beale|is bringing...
+{162486}{162577}a very important message|to the American people.
+{162632}{162713}So he wants Howard Beale on the air,|and he wants him kept on.
+{162765}{162844}Mr. Jensen feels we're too catastrophic|in our thinking.
+{162845}{162905}I argued that television|was a volatile industry...
+{162907}{162999}in which success and failure|were determined week by week.
+{163024}{163093}Mr. Jensen said he did not like|volatile industries...
+{163095}{163184}and suggested with a certain|sinister silkiness...
+{163220}{163306}that volatility in business|usually reflected bad management.
+{163337}{163408}He didn't really care if Howard Beale|was the number one show or the 50th.
+{163410}{163470}He didn't really care|if the Beale show lost money.
+{163497}{163559}He wants Howard Beale on the air...
+{163561}{163615}and he wants him kept on.
+{163616}{163715}I would describe his position on this|as inflexible.
+{163761}{163808}Where does that put us, Diana?
+{163835}{163920}That puts us in the shithouse.|That's where that puts us.
+{163987}{164056}Do you want me to go through this?
+{164083}{164174}The Beale show Q score|is down to 33.
+{164200}{164285}Most of this loss occurred in the child|and teen and 18-34 categories...
+{164287}{164355}which were our key core markets.
+{164383}{164447}It's the AR department's carefully|considered judgment, and mine...
+{164448}{164559}that if we get rid of Beale, we should|maintain a respectable share...
+{164561}{164614}with a comparable Q level.
+{164616}{164699}The other show segments, Sybil the|Soothsayer, Jim Webbing, Vox Populi...
+{164701}{164775}have all developed|their own audiences.
+{164776}{164886}Our AR reports show that it is Beale|that is the destructive force here.
+{164915}{164972}Minimally, we're talking about...
+{164973}{165045}a ten-point differential in shares.
+{165047}{165094}I think Joe oughta spell it out|for us.
+{165142}{165216}A 28 share|is 80,000 dollar minutes.
+{165218}{165283}I think we can sell complete positions|on the whole.
+{165284}{165349}As a matter of fact, we're just getting|into the pre-Christmas gift-sellers...
+{165351}{165437}and the agencies are coming back to me|with four-dollar CPMs.
+{165439}{165559}If that's any indication, we're talking|$40-$45 million loss in annual revenues.
+{165561}{165639}- Want the flak from the affiliates?|- We know all about it, Herb.
+{165640}{165730}You would describe Mr. Jensen's position|on Beale as inflexible?
+{165732}{165801}Intractable and adamantine.
+{165846}{165923}What do we do about this Beale|son of a bitch?
+{165975}{166029}I suppose we'll have to kill him.
+{166098}{166169}I don't suppose you have any ideas|on that, Diana?
+{166252}{166287}Well...
+{166332}{166396}what would you fellas say|to an assassination?
+{166442}{166503}I think I can get|the Mao Tse-tung people...
+{166505}{166567}to kill Beale for us|as one of their shows.
+{166594}{166706}In fact, it'll make a hell of|a kick-off show for the season.
+{166708}{166778}We're facing heavy opposition on the|other networks for Wednesday nights...
+{166780}{166863}and the "Mao Tse-tung Hour"|could use a sensational opener.
+{166916}{167003}It could be done right on camera|in the studio.
+{167043}{167096}We oughta get a fantastic|look-in audience...
+{167098}{167173}for the assassination of Howard Beale|as our opening show.
+{167199}{167264}If Beale dies...
+{167265}{167363}what would our continuing obligation|to the Beale Corporation be?
+{167365}{167439}I know our contract with Beale|contains a buy-out clause...
+{167440}{167493}triggered by his death|or incapacity.
+{167495}{167577}There must be a formula for|the computation of the purchase price.
+{167579}{167675}Offhand, I think it was based on|a multiple of 1975 earnings...
+{167676}{167768}with a base period in 1975,|which I think was 50 percent...
+{167769}{167837}of salary, plus 25 percent|of the first year's profit...
+{167839}{167914}multiplied by the unexpired portion|of the contract.
+{167916}{167961}I don't think the show...
+{167963}{168024}has any substantial syndication value,|would you say, Diana?
+{168026}{168073}Syndication profits are minimal.
+{168101}{168168}We're talking about a capital crime.
+{168193}{168260}The network can't be implicated.
+{168508}{168609}I hope you don't have any hidden|tape machines in this office, Frank.
+{168660}{168731}The issue is,|shall we kill Howard Beale or not?
+{168733}{168795}I'd like to hear|some more opinions on that.
+{168797}{168880}I don't see we have any option.|Let's kill the son of a bitch.
+{168882}{168922}Ladies and gentlemen,|let's hear it!
+{168924}{168965}How do you feel?
+{168967}{169007}We're mad as hell...
+{169008}{169074}and we're not gonna|take this anymore!
+{169076}{169166}Ladies and gentlemen, the "Network|News Hour" with Sybil the Soothsayer...
+{169252}{169356}Jim Webbing and his|It's-the-Emmes-Truth Department.
+{169412}{169510}Miss Mata Hari|and her skeletons in the closet.
+{169568}{169623}Tonight another segment|of "Vox Populi. "
+{169738}{169843}And starring the Mad Prophet|of the Airways, Howard Beale!
+{170312}{170418}...network news anchorman|on the UBS "Network News Show"...
+{170420}{170515}known to millions|as the Mad Profit of the Airwaves...
+{170516}{170607}was shot to death tonight in|a fusillade of automatic rifle fire...
+{170608}{170662}just as he began|this evening's broadcast.
+{170664}{170747}We never compromise,|so why should you?
+{170748}{170830}Canada Dry Mixers.|Why compromise?
+{170832}{170919}Have you seen the other side|of where you live?
+{170920}{171012}- What's this stuff?|- Some cereal. It's good for you.
+{171014}{171084}- Did you try it?|- I'm not gonna try it. You try it.
+{171085}{171144}I'm not gonna try it.
+{171146}{171194}- Let's get Mikey to try it!|- Yeah!
+{171196}{171243}He won't eat it.|He hates everything.
+{171244}{171339}The extraordinary incident occurred in|full view of his millions of viewers.
+{171341}{171448}The assassins were members of|the Ecumenical Liberation Army...
+{171449}{171500}two of whom were apprehended.
+{171502}{171595}The leader of the group known|as the Great Ahmed Khan escaped.
+{171596}{171656}This was the story of Howard Beale...
+{171657}{171760}the first known instance of a man who|was killed because he had lousy ratings.
