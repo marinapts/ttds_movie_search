@@ -1,0 +1,14 @@
+@import 'variables.scss';
+
+.app {
+  bottom: 0;
+  font-size: calc(10px + 2vmin);
+
+  h3 {
+    color: white;
+  }
+
+  .search-container {
+    margin: 50px 0;
+  }
+}
