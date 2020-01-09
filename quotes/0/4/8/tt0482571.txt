@@ -66,20 +66,6 @@ Robert Angier: How fast can you dig?
 Nikola Tesla: Things don't always go as planned, Mr. Angier. That's the beauty of science.
 Alfred Borden: Are you watching closely?
 Nikola Tesla: Exact science, Mr Angier, is not an exact science.
-Robert Angier: You always were the better magician. We both know that. Whatever your secret was, you have to agree, mine is better.
-Cutter: I knew a sailor once, got tangled in the rigging. We pulled him out, but it took him five minutes to cough. He said it was like going home.
-Alfred Borden: He's progressive, he's predictable, he's boring. I mean, Milton's got success, whatever that means, and now he's scared, he won't take any risks at all. I mean, he's squandering the goodwill of the audience with these tired, second-rate tricks...
-Robert Angier: They're all favorites, please...
-Alfred Borden: Favorites? Come on, give me something fresh, he wont even try a bloody bullet catch!
-Cutter: A bullet catch is suicide, all it takes is some smart-ass volunteer to put a button in the barrel...
-Alfred Borden: Fine, use a plant!
-Robert Angier: You can't use plants for every trick!
-Julia McCullough: There'll be no seats left for the punters!
-Alfred Borden: Fine, no bullet catch, whatever, but the point is... a real magician tries to invent something new, that other magicians are gonna scratch their heads over, you know?
-Cutter: Right, then you sell it to him for a small fortune?
-Alfred Borden: All right...
-Cutter: I suppose you have such a trick?
-Alfred Borden: Actually, I do.
 Robert Angier: A brother... a twin. You were Fallon... the whole time?
 Alfred Borden: No. We were both Fallon. And we were both Borden.
 Robert Angier: Were you - were you the one who went into the box or the one who came back out?
@@ -98,6 +84,20 @@ Alfred Borden: Look here... you went halfway around the world. You spent a fortu
 Robert Angier: For nothing?
 Alfred Borden: Yeah.
 Robert Angier: You never understood... why we did this? The audience knows the truth - the world is simple... and miserable... solid all the way through. But if you could fool them, even for a second, then you can make them wonder. And then you... then you got to see something very special. You really don't know? It was... it was the look on their faces.
+Robert Angier: You always were the better magician. We both know that. Whatever your secret was, you have to agree, mine is better.
+Cutter: I knew a sailor once, got tangled in the rigging. We pulled him out, but it took him five minutes to cough. He said it was like going home.
+Alfred Borden: He's progressive, he's predictable, he's boring. I mean, Milton's got success, whatever that means, and now he's scared, he won't take any risks at all. I mean, he's squandering the goodwill of the audience with these tired, second-rate tricks...
+Robert Angier: They're all favorites, please...
+Alfred Borden: Favorites? Come on, give me something fresh, he wont even try a bloody bullet catch!
+Cutter: A bullet catch is suicide, all it takes is some smart-ass volunteer to put a button in the barrel...
+Alfred Borden: Fine, use a plant!
+Robert Angier: You can't use plants for every trick!
+Julia McCullough: There'll be no seats left for the punters!
+Alfred Borden: Fine, no bullet catch, whatever, but the point is... a real magician tries to invent something new, that other magicians are gonna scratch their heads over, you know?
+Cutter: Right, then you sell it to him for a small fortune?
+Alfred Borden: All right...
+Cutter: I suppose you have such a trick?
+Alfred Borden: Actually, I do.
 Robert Angier: Man's reach exceeds his imagination!
 Gerald Root: You would drink, too, if you knew the world half as well as I do.
 Sarah: No more lies. No more secrets.

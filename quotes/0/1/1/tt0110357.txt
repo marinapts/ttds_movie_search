@@ -78,7 +78,7 @@ Scar: Oh, Zazu, do lighten up. Sing something with a little *bounce* in it.
 Zazu: It's a small world after all...
 Scar: NO! No. *Anything* but that!
 Zazu: I've got a lovely bunch of coconuts. / Dee-dee-dee-dee, / There they are just standing in a row.
-Zazu,Â Scar: Big ones, small ones, some as big as your head...
+Zazu, Scar: Big ones, small ones, some as big as your head...
 Zazu: Oh, I never had to do this with Mufasa.
 Sarabi: Your son's awake.
 Mufasa: Before sunrise, he's *your* son.
@@ -99,7 +99,7 @@ Shenzi: So pushy...
 Banzai: And hairy...
 Shenzi: Stinky...
 Banzai: And man are they...
-Banzai,Â Shenzi: U-GLY!
+Banzai, Shenzi: U-GLY!
 Zazu: Checking in with the morning report.
 Mufasa: Fire away.
 Zazu: Well the buzz from the bees is that the leopards are in a bit of a spot. And the baboons are going ape over this. Of course, the giraffes are acting like they're above it all... The tick birds are pecking on the elephants. I told the elephants to forget it, but they can't. The cheetahs are hard up, but I always say, cheetahs never prosper...
@@ -195,7 +195,7 @@ Young Simba: I'll *show* you when we *get* there.
 Young Nala: Oh... Mom, can I go with Simba?
 Sarafina - Nala's Mother: Hmm, what do you think Sarabi?
 Sarabi: Well...
-Young Simba,Â Young Nala: Please!
+Young Simba, Young Nala: Please!
 Sarabi: It's alright with me.
 Young Simba: Yeah!
 Young Nala: All right!
@@ -408,7 +408,7 @@ Adult Simba: She's wrong. I can't go back. What would it prove, anyway? You can'
 Adult Simba: You said you'd always be there for me! But you're not. It's because of me. It's my fault. It's my fault.
 Timon: And if he falls / In love tonight / It can be assumed...
 Pumbaa: His carefree days / With us are history.
-Timon,Â Pumbaa: In short, our pal / Is doomed!
+Timon, Pumbaa: In short, our pal / Is doomed!
 Timon: Why do I always have to save your... Ahhh!
 Young Simba: Isn't it great?
 Young Nala: We could get in big trouble.
@@ -518,12 +518,12 @@ Scar: For the death of the king!
 Banzai: Why? Is he sick?
 Scar: No, fool, we're going to kill him. And Simba, too.
 Shenzi: Hey, great idea! Who needs a king?
-Banzai,Â Shenzi: No king, no king, la la la la la la...
+Banzai, Shenzi: No king, no king, la la la la la la...
 Scar: Idiots! There will *be* a king!
 Banzai: Hey, but you said that...
 Scar: *I* will be king. Stick with me, and you'll never go hungry again!
-Banzai,Â Shenzi: Yeah, all right! Long live the king!
-Banzai,Â Shenzi: Long live the king! Long live the king!
+Banzai, Shenzi: Yeah, all right! Long live the king!
+Banzai, Shenzi: Long live the king! Long live the king!
 Mufasa: Scar! Broth-brother, help me!
 Scar: Long live the King.
 Mufasa: Aaaaah!
@@ -614,7 +614,7 @@ Pumbaa: Who's got a scar?
 Nala: No, no, no. It's his uncle.
 Timon: The monkey's his uncle?
 Nala: No! Simba's gone back to challenge his uncle to take his place as king.
-Timon,Â Pumbaa: Ohh.
+Timon, Pumbaa: Ohh.
 Pumbaa: Slimy yet satisfying.
 Banzai: The little majordomo bird, hippity-hop, all the way to the birdie boiler.
 Zazu: Oh no, not the birdie boiler!

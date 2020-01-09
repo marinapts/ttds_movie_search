@@ -115,7 +115,7 @@ Zombie: Yes.
 Clyde: Ralph, Ralph, we get it. But we can't change who we are. The sooner you accept that, the better off your game and your life will be.
 Zangief: Hey, one game at a time, Ralph.
 Clyde: Now let's close out the with Bad Guy affirmation.
-Clyde,Â Saitine,Â Cyborg,Â M. Bison,Â Zombie,Â Zangief,Â Bad-Anon Members: I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be then me.
+Clyde, Saitine, Cyborg, M. Bison, Zombie, Zangief, Bad-Anon Members: I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be then me.
 Fix-It Felix: Look at that high definition. Your face... it's AMAZING!
 Sergeant Calhoun: Flattery don't charge these batteries, civilian.
 Sergeant Calhoun: The selfish man is like a mangy dog chasing a cautionary tale.
@@ -133,7 +133,7 @@ Bad-Anon Members: Hi Zangief.
 Zangief: I relate to you, Ralph. When I hit bottom, I was crushing man's skull like sparrow's egg, between my thighs... and I think, why you have to be so bad, Zangief? Why can't you be more like good guy? Then I have moment of clarity... if Zangief is good guy, who will crush man's skull like sparrow's eggs between thighs? And I say, Zangief you are bad guy, but this does not mean you are *bad* guy.
 Wreck-It Ralph: Right... I'm sorry, you lost me there.
 Zombie: Zombie! Bad guy!
-Wreck-It Ralph,Â Bad-Anon Members: Hi Zombie.
+Wreck-It Ralph, Bad-Anon Members: Hi Zombie.
 Zombie: Zangief saying labels not make you happy. Good, bad, nggghhhh... you must love you.
 Cyborg: Yeah!
 Cyborg: Inside here!
@@ -235,7 +235,7 @@ Fix-It Felix: It's my job to fix whatever Ralph wrecks!
 Vanellope von Schweetz: I bet you really gotta watch where you step in a game called "Hero's Doodie"!
 Vanellope von Schweetz: Ralph, it's not gonna work...
 Wreck-It Ralph: We gotta try!
-Wreck-It Ralph,Â Vanellope von Schweetz: Top shelf!
+Wreck-It Ralph, Vanellope von Schweetz: Top shelf!
 Wreck-It Ralph: I'm a wrecker, not a baker.
 Fix-It Felix: Oh my LAND...
 King Candy: Milk my Duds! It's Wreck-It Ralph!

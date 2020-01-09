@@ -1,5 +1,5 @@
 
-Chirrut √émwe: I'm one with the Force, and the Force is with me.
+Chirrut Œmwe: I'm one with the Force, and the Force is with me.
 Cassian Andor: Make ten men feel like a hundred.
 Darth Vader: Be careful not to choke on your aspirations, Director.
 K-2SO: Did you know that wasn't me?
@@ -10,7 +10,7 @@ K-2SO: There were a lot of explosions for two people blending in.
 K-2SO: I'll be there for you.
 K-2SO: Cassian said I had to.
 Baze Malbus: Good luck!
-Chirrut √émwe: I don't need luck! I have you!
+Chirrut Œmwe: I don't need luck! I have you!
 Stormtrooper #1: Where are you taking these prisoners?
 K-2SO: These are prisoners.
 Stormtrooper #1: Yes. Where are you taking them?
@@ -36,7 +36,7 @@ Orson Krennic: No, it...
 Darth Vader: There is no Death Star. The Senate has been informed that Jedha was destroyed in a mining disaster.
 Orson Krennic: Yes, my lord.
 Darth Vader: I expect you not to rest until you can assure the Emperor that Galen Erso has not compromised this weapon in any way.
-Chirrut √émwe: Are you *kidding* me? I'm blind!
+Chirrut Œmwe: Are you *kidding* me? I'm blind!
 Galen Erso: We call it the Death Star. There is no better name... and the day is coming soon when it will be unleashed.
 Saw Gerrera: Save the Rebellion! Save the dream.
 K-2SO: Would you like to know the probablility of her using it against you?
@@ -55,7 +55,7 @@ Cassian Andor: Where'd you get that?
 Jyn Erso: I found it.
 K-2SO: I find that answer vague and unconvincing.
 Jyn Erso: May the Force be with us.
-Chirrut √émwe: The strongest stars have hearts of kyber.
+Chirrut Œmwe: The strongest stars have hearts of kyber.
 Bodhi Rook: There's a planet-wide defensive shield with a single main entry gate. This shuttle should be equipped with an access code that allows us through.
 K-2SO: Assuming the Empire hasn't logged it as overdue.
 Jyn Erso: And if they have?
@@ -70,9 +70,9 @@ Mon Mothma: Your friend... the Jedi.
 Bail Organa: He served me well during the Clone Wars and has lived in hiding since the Emperor's purge. Yes, I will send for him.
 Mon Mothma: You will need someone you can trust.
 Bail Organa: I would trust her with my life.
-Chirrut √émwe: Look for the Force...
+Chirrut Œmwe: Look for the Force...
 Baze Malbus: Chirrut.
-Chirrut √émwe: ...and you will always find me.
+Chirrut Œmwe: ...and you will always find me.
 Rebel Flight Controller: What's your call sign, pilot?
 Bodhi Rook: Um...
 Jyn Erso: We have to go.
@@ -87,18 +87,18 @@ Jyn Erso: This is a rebellion, isn't it? I rebel.
 K-2SO: I'm surprised you're so concerned with my safety.
 Jyn Erso: I'm not. I'm just worried they might miss you... and hit me.
 K-2SO: Doesn't sound so bad to me.
-Chirrut √émwe: You almost shot me.
+Chirrut Œmwe: You almost shot me.
 Baze Malbus: You're welcome.
 Grand Moff Tarkin: Lord Vader will handle the fleet. Target the base of Scarif. Single reactor ignition... You may fire when ready.
-Chirrut √émwe: And I fear nothing. For all is as the Force wills it.
+Chirrut Œmwe: And I fear nothing. For all is as the Force wills it.
 Galen Erso: You're confusing peace with terror.
 Orson Krennic: Well, you have to start somewhere.
 Baze Malbus: You don't look happy.
 Jyn Erso: They prefer to surrender.
 Baze Malbus: And you?
-Chirrut √émwe: She wants to fight.
+Chirrut Œmwe: She wants to fight.
 Bodhi Rook: So do I. We all do.
-Chirrut √émwe: The Force is strong.
+Chirrut Œmwe: The Force is strong.
 Jyn Erso: I'm not sure four of us is quite enough.
 Baze Malbus: How many do we need?
 Jyn Erso: What are you talking about?
@@ -120,7 +120,7 @@ Cassian Andor: I don't have to.
 Jyn Erso: "Stardust." That's it.
 Cassian Andor: How do you know that?
 Jyn Erso: I know because it's me.
-Chirrut √émwe: Take hold of this moment. The force is strong.
+Chirrut Œmwe: Take hold of this moment. The force is strong.
 K-2SO: I can blend in. I'm an Imperial droid. The city is under Imperial occupation.
 Jyn Erso: Half the people here wanna reprogram you. The other half wanna put a hole in your head.
 Orson Krennic: Oh, look! Here's Lyra. Back from the dead. It's a miracle.
@@ -167,7 +167,7 @@ Young Jyn: Mama?
 Lyra Erso: We know.
 Galen Erso: Jyn, gather your things. It's time.
 Baze Malbus: There are no Jedi here anymore. Only dreamers like this fool.
-Chirrut √émwe: The Force did protect me.
+Chirrut Œmwe: The Force did protect me.
 Baze Malbus: I protected you.
 Grand Moff Tarkin: Most unfortunate about the security breach on Jedha, Director Krennic. After so many setbacks and delays, and now this. We've heard of rumors circulating through the city. Apparently, you've lost a rather talkative cargo pilot. If the Senate gets wind of our project, countless systems will flock to the Rebellion.
 Orson Krennic: When the battle station is finished, Governor Tarkin, the Senate will be of little concern.
@@ -248,7 +248,7 @@ Grand Moff Tarkin: And I thought it prudent to save you from any potential embar
 Orson Krennic: Your concerns are hardly warranted.
 Grand Moff Tarkin: If saying it would only make it so.
 Cassian Andor: The pilot says he was sent by your father.
-Chirrut √émwe: Is your foot alright?
+Chirrut Œmwe: Is your foot alright?
 Admiral Raddus: I say we fight!
 Baze Malbus: I fear nothing. All is as the force wills it.
 Saw Gerrera: My child! Come. Come. We have a long ride ahead of us.

@@ -67,16 +67,16 @@ Pumpkin: All right, everybody be cool, this is a robbery!
 Honey Bunny: Any of you fucking pricks move, and I'll execute every motherfucking last one of ya!
 Jimmie: I can't believe this is the same car.
 The Wolf: Well, let's not start sucking each other's dicks quite yet.
+Esmeralda: What is your name?
+Butch: Butch.
+Esmeralda: What does it mean?
+Butch: I'm American, honey. Our names don't mean shit.
 Butch: You okay?
 Marsellus: Naw man. I'm pretty fuckin' far from okay.
 Butch: What now?
 Marsellus: What now? Let me tell you what now. I'ma call a coupla hard, pipe-hittin' niggers, who'll go to work on the homes here with a pair of pliers and a blow torch. You hear me talkin', hillbilly boy? I ain't through with you by a damn sight. I'ma get medieval on your ass.
 Butch: I meant what now between me and you?
 Marsellus: Oh, that what now. I tell you what now between me and you. There is no me and you. Not no more.
-Esmeralda: What is your name?
-Butch: Butch.
-Esmeralda: What does it mean?
-Butch: I'm American, honey. Our names don't mean shit.
 Jules: Oh, man, I will never forgive your ass for this shit. This is some fucked-up repugnant shit.
 Vincent: Jules, did you ever hear the philosophy that once a man admits that he's wrong that he is immediately forgiven for all wrongdoings? Have you ever heard that?
 Jules: Get the fuck out my face with that shit! The motherfucker that said that shit never had to pick up itty-bitty pieces of skull on account of your dumb ass.
@@ -402,8 +402,8 @@ The Wolf: You guys look like... What do they look like, Jimmie?
 Jimmie: Dorks. They look like a couple of dorks.
 Jules: Ha-ha-ha. They're your clothes, motherfucker.
 Vincent: That's the Marilyn Monroe section that's Mamie Van Doren... I don't see Jayne Mansfield, she must have the night off or something.
-Pumpkin: GarÃ§on! Coffee!
-Waitress: 'GarÃ§on' means boy.
+Pumpkin: Garçon! Coffee!
+Waitress: 'Garçon' means boy.
 Marsellus: You see, this profession is filled to the brim with unrealistic motherfuckers. Motherfuckers who thought their ass would age like wine. If you mean it turns to vinegar, it does. If you mean it gets better with age, it don't.
 Butch: Where's my watch?
 Fabienne: It's there.
@@ -564,7 +564,7 @@ Lance: Look, go to the fridge and get the thing with the O.D. adrenalin shot.
 Jody: What's wrong with her?
 Vincent: She's O.D.ing!
 Jody: Get her the hell outta her!
-Lance,Â Vincent: GET THE SHOT!
+Lance, Vincent: GET THE SHOT!
 Jody: Fuck you! Fuck you, too!
 Vincent: What a fuckin' bitch!
 Lance: You just keep talking to her, all right? She's getting the shot, I'm gonna get my little black medical book.

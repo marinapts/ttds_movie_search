@@ -27,7 +27,6 @@ Edna: You are Elastigirl! My God...
 Edna: Pull-yourself-together! "What will you do?" Is this a question? You will show him you remember that he is Mr. Incredible, and you will remind him who *you* are. Well, you know where he is. Go, confront the problem. Fight! Win!
 Edna: And call me when you get back, darling. I enjoy our visits.
 Edna: My God, you've gotten fat.
-Mr. Incredible: No matter how many times you save the world, it always manages to get back in jeopardy again. Sometimes I just want it to stay saved! You know, for a little bit? I feel like the maid; I just cleaned up this mess! Can we keep it clean for... for ten minutes!
 Edna: It will be bold! Dramatic!
 Bob: Yeah!
 Edna: Heroic!
@@ -54,6 +53,7 @@ Syndrome: Oh, no. Elastigirl? You married Elastigirl? Ho, ho, ho...
 Syndrome: Oh - and got biz-zay! It's a whole family of supers! Looks like I hit the jackpot! Oh, this is just too good!
 Bob: Weren't you in the news? Some show in, Prayge... Prague?
 Edna: Milan, darling. Milan. Supermodels. Heh! Nothing super about them... spoiled, stupid little stick figures with poofy lips who think only about themselves. Feh! I used to design for *gods*!
+Mr. Incredible: No matter how many times you save the world, it always manages to get back in jeopardy again. Sometimes I just want it to stay saved! You know, for a little bit? I feel like the maid; I just cleaned up this mess! Can we keep it clean for... for ten minutes!
 Helen: Now it's perfectly normal...
 Violet: Normal? What do *you* know about normal? What does *anyone* in *this* family know about normal?
 Helen: Now wait a minute, young lady...
@@ -148,7 +148,7 @@ Mr. Incredible: And now, you have officially carried it too far, Buddy.
 Buddy: This is because I don't have powers, isn't it? Well, not every superhero has powers, you know. You can be super without them. I invented these.
 Buddy: I can fly! Can you fly?
 Mr. Incredible: Fly home, Buddy. I work alone.
-Bomb Voyage: Et ton tenue est complÃ¨tement ridicule!
+Bomb Voyage: Et ton tenue est complètement ridicule!
 Bomb Voyage: Can you just give me one chance? Look, I'll show you, I'll get the police!
 Mr. Incredible: Buddy, no!
 Buddy: It only take a second, really.
@@ -535,7 +535,7 @@ Newsreel Narrator: Under tremendous public pressure and the crippling financial 
 Bob: Alright, listen closely. I'd like to help you, but I can't.
 Bob: I'd like to tell you to take a copy of your policy to Norma Wilcox on...
 Bob: Norma Wilcox, w-i-l-c-o-x on the third floor, but I can't. I also do NOT advise you to file and fill out a WS2475 form of our legal department on the second floor. I would not expect someone to get back to you quickly to resolve the matter. I'd like to help, but there's nothing I can do.
-Bob,Â Mrs. Hogenson: Oh thank you young man.
+Bob, Mrs. Hogenson: Oh thank you young man.
 Bob: Shh, shh, shh.
 Bob: I'M SORRY MA'AM, I KNOW YOU'RE UPSET,
 Bob: pretend to be upset.

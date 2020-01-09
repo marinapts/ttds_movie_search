@@ -35,7 +35,7 @@ Louis: WHOOPIE!
 Henri: WHEE!
 Col. Muska: Time's up. What is your answer?
 Pazu: Are you ready?
-Pazu,Â Sheeta: Baluse.
+Pazu, Sheeta: Baluse.
 Pazu: A girl just fell from the sky, boss!
 Dola: All right, me hearty, once you've taken off, you'll have to use the phone to communica...
 Sheeta: You mean *this* phone?
@@ -55,7 +55,7 @@ Dola: Oh, my fault!
 Dola: You must've hurt yourself on these! Now, how'd they get inside my blouse?
 Charles: *All* good pirates listen to their Mom!
 Louis: That is so true, huh?
-Louis,Â Henri: He said Mom was ugly, now go get him!
+Louis, Henri: He said Mom was ugly, now go get him!
 Sheeta: The tree! We protected it, so it protects us!
 Dola: That tree's gettin' away with our treasure!
 General: Muska! Just don't forget that the government put *me* in charge of finding Laputa!
@@ -114,7 +114,7 @@ Henri: Hi, is there anything I can do?
 Dola: Full speed ahead!
 Dola: Hey, boys!
 Louis: Wha - ? Hey, it's Mom!
-Louis,Â Henri: Hi, Mom!
+Louis, Henri: Hi, Mom!
 Dola: You chowderheads! Get your brother and hop on!
 Louis: Huh? But Sheeta's hiding inside that house!
 Dola: Lamebrain! They made an escape! Now step on it!

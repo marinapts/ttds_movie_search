@@ -37,11 +37,11 @@ Dr. Egon Spengler: Try to imagine all life as you know it stopping instantaneous
 Dr. Raymond Stantz: Total protonic reversal.
 Dr. Peter Venkman: Right. That's bad. Okay. All right. Important safety tip. Thanks, Egon.
 Dr. Peter Venkman: Grab your stick!
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: HOLDIN'!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: HOLDIN'!
 Dr. Peter Venkman: Heat 'em up!
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: SMOKIN'!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: SMOKIN'!
 Dr. Peter Venkman: Make 'em hard!
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: READY!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: READY!
 Dr. Peter Venkman: Let's show this prehistoric bitch how we do things downtown... THROW IT!
 Dr. Raymond Stantz: Personally, I liked the university. They gave us money and facilities, we didn't have to produce anything! You've never been out of college! You don't know what it's like out there! I've WORKED in the private sector. They expect *results*.
 Dr. Peter Venkman: Alice, I'm going to ask you a couple of standard questions, okay? Have you or any of your family been diagnosed schizophrenic? Mentally incompetent?
@@ -97,9 +97,9 @@ Dr. Raymond Stantz: Are you troubled by strange noises in the middle of the nigh
 Dr. Egon Spengler: Do you experience feelings of dread in your basement or attic?
 Dr. Peter Venkman: Have you or your family ever seen a spook, spectre or ghost?
 Dr. Raymond Stantz: If the answer is "yes," then don't wait another minute. Pick up the phone and call the professionals...
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Dr. Peter Venkman: Ghostbusters.
+Dr. Raymond Stantz, Dr. Egon Spengler, Dr. Peter Venkman: Ghostbusters.
 Dr. Raymond Stantz: Our courteous and efficient staff is on call 24 hours a day to serve all your supernatural elimination needs.
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Dr. Peter Venkman: We're ready to believe you.
+Dr. Raymond Stantz, Dr. Egon Spengler, Dr. Peter Venkman: We're ready to believe you.
 Dr. Egon Spengler: I have a radical idea. The door swings both ways, we could reverse the particle flow through the gate.
 Dr. Peter Venkman: How?
 Dr. Egon Spengler: We'll cross the streams.
@@ -487,11 +487,11 @@ Dr. Peter Venkman: To go into business for ourselves.
 Dr. Raymond Stantz: This ecto containment system that Spengler and I have in mind is gonna require a load of bread to capitalize. Where are we gonna get the money?
 Dr. Peter Venkman: I don't know. I 'don't' know.
 Dr. Peter Venkman: All right, this chick is TOAST. Okay; sticks?
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: HOLDIN'!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: HOLDIN'!
 Dr. Peter Venkman: Heat 'em up!
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: SMOKIN'!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: SMOKIN'!
 Dr. Peter Venkman: MAKE 'EM HARD!
-Dr. Raymond Stantz,Â Dr. Egon Spengler,Â Winston Zeddemore: READY!
+Dr. Raymond Stantz, Dr. Egon Spengler, Winston Zeddemore: READY!
 Dr. Peter Venkman: Let's show this prehistoric bitch how we do things downtown.
 Janine Melnitz: Egon, I tried to stop them. They say they have a warrant.
 Dr. Egon Spengler: Excuse me, this is private property.

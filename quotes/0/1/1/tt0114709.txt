@@ -23,8 +23,6 @@ Woody: So play nice!
 Mr. Potato Head: Hey, Hamm. Look, I'm Picasso!
 Hamm: I don't get it.
 Mr. Potato Head: You uncultured swine! What're you lookin' at, ya hockey puck?
-Sergeant: It's... it's bedsheets!
-Mr. Potato Head: Who invited that kid?
 Buzz: And according to my navi-computer, the...
 Woody: SHUT UP! Just shut up, you idiot!
 Buzz: Sheriff, this is no time to panic.
@@ -40,10 +38,17 @@ Buzz: You are a sad, strange little man, and you have my pity.
 Buzz: Farewell.
 Woody: Oh, yeah? Well, good riddance, ya loony!
 Woody: "Rendezvous with Star Command".
+Sergeant: It's... it's bedsheets!
+Mr. Potato Head: Who invited that kid?
 Woody: Hey, who's got my hat?
 Mr. Shark: Look, I'm Woody! Howdy, howdy, howdy!
 Woody: Ha-ha, ha-ha...
 Woody: Gimme that!
+Mr. Potato Head: Hey, a laser! How come *you* don't have a laser, Woody?
+Woody: It's not a laser! It's a...
+Woody: It's a little light bulb that blinks.
+Hamm: What's with him?
+Mr. Potato Head: Laser envy.
 Woody: Psst! Hey Buzz!
 Woody: Hey! Get over here and see if you can get this toolbox off me!
 Woody: Oh, come on Buzz. I can't do this without you. I need your help.
@@ -60,11 +65,6 @@ Buzz: But why would Andy want me?
 Woody: Why would Andy want you? Look at you! You're a Buzz Lightyear! Any other toy would give up his moving parts just to be you. You've got wings, you glow in the dark, you talk, your helmet does that... that whoosh thing. You're a cool toy. As a matter of fact, you're too cool. I mean - what chance does a toy like me have against a Buzz Lightyear action figure. All I can do is this.
 Woody: There's a snake in my boot!
 Woody: Why would Andy ever wanna play me me, when he's got you? I'm the one that should be strapped to that rocket.
-Mr. Potato Head: Hey, a laser! How come *you* don't have a laser, Woody?
-Woody: It's not a laser! It's a...
-Woody: It's a little light bulb that blinks.
-Hamm: What's with him?
-Mr. Potato Head: Laser envy.
 Woody: Hey, Buzz! You're flying!
 Buzz: This isn't flying, this is falling with style!
 Woody: To infinity and beyond!
@@ -141,7 +141,7 @@ Woody: Down there. Just down there. A helpless toy! It's - It's trapped, Buzz!
 Buzz: Then we've no time to lose.
 Buzz: I don't see anything!
 Woody: Uh, he's there. Just - Just keep looking.
-Woody: Hamm,Â Mr. Potato Head: BUZZ!
+Woody: Hamm, Mr. Potato Head: BUZZ!
 Woody: Buzz!
 Slinky Dog: I don't see him in the driveway. I think he bounced into Sid's Yard.
 Woody: I think you've had enough tea for today. Let's get you out of here, Buzz...
@@ -180,12 +180,12 @@ Rex: Any dinosaur-shaped ones?
 Hamm: Oh, for crying out loud, they're all in *boxes*, you idiot.
 Rex: They're getting bigger...
 Slinky Dog: Wait, there's a nice little one over there.
-Rex,Â Hamm,Â Slinky Dog: AAAAAHH!
+Rex, Hamm, Slinky Dog: AAAAAHH!
 Woody: Buzz? Buzz Lightyear? You're not worried, are you?
 Buzz: Me? No, no, no, no, no, no, no. Are you?
 Woody: Now Buzz, what could Andy possibly get that is worse than you?
 Andy: Oh, oh, what is it? What is it? Wow, a puppy!
-Woody,Â Buzz: Heh, heh!
+Woody, Buzz: Heh, heh!
 Andy: Can I help pump the gas?
 Andy's Mom: Suurrre, I'll even let you drive.
 Andy: Really?

@@ -36,7 +36,7 @@ Rex: You don't understand. Uh, how could you, I mean you're a...
 Chief: Go ahead say it. I'm a stray, yeah.
 King: I suppose if it worked, we'd be dead already.
 Rex: Anyone in favor of kicking Chief out of the group and never speaking to him again?
-Boss,Â Rex,Â King,Â Duke: Aye!
+Boss, Rex, King, Duke: Aye!
 Chief: You'll meet a bitch named Nutmeg. Tell her Chief says, "I'll see you in Megasaki."
 Chief: Hmm, crunchy, salty, supposedly it cleans your teeth. This is my new favorite food. Thank you.
 Chief: Don't ask me to fetch that stick.

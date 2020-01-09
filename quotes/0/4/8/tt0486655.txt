@@ -230,11 +230,11 @@ Tertius: You look like a bunch of FREAKS!
 Secundus: Hold on... there are five of us now! We could do it together!
 Quintus: We *tried* it before - it didn't work!
 Secundus: But Tertius wasn't here, there were only four of us! Come on!
-Tertius,Â Secundus,Â Quartus,Â Sextus,Â Quintus: Come on... yes, yes... come on!
-Tertius,Â Secundus,Â Quartus,Â Sextus,Â Quintus: No...
-Tertius,Â Secundus,Â Quartus,Â Sextus,Â Quintus: No, no, no, no! No, no, no, no, no, no! N -
-Tertius,Â Secundus,Â Quartus,Â Sextus,Â Quintus: Awww...
-Tertius,Â Secundus,Â Quartus,Â Sextus,Â Quintus: No! Nononononono! Please! Aw.
+Tertius, Secundus, Quartus, Sextus, Quintus: Come on... yes, yes... come on!
+Tertius, Secundus, Quartus, Sextus, Quintus: No...
+Tertius, Secundus, Quartus, Sextus, Quintus: No, no, no, no! No, no, no, no, no, no! N -
+Tertius, Secundus, Quartus, Sextus, Quintus: Awww...
+Tertius, Secundus, Quartus, Sextus, Quintus: No! Nononononono! Please! Aw.
 Quartus: Well done, everyone.
 Quartus: No, you were right, though - it was definately better with five of us.
 Quartus: I mean, that's the closest we've come to actually *moving* anything!

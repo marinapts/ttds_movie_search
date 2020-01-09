@@ -59,7 +59,7 @@ Second Jive Dude: Uh-huh.
 First Jive Dude: ...pray to J I did the same-ol', same-ol'!
 Second Jive Dude: Hey... knock a self a pro, Slick! That gray matter backlot perform us DOWN, I take TCB-in', man!
 First Jive Dude: Hey, you know what they say: see a broad to get dat booty yak 'em...
-First Jive Dude,Â Second Jive Dude: ...leg 'er down a smack 'em yak 'em!
+First Jive Dude, Second Jive Dude: ...leg 'er down a smack 'em yak 'em!
 First Jive Dude: COL' got to be! Y'know?
 First Jive Dude: Shiiiiit.
 Roger Murdock: Flight 2-0-9'er, you are cleared for take-off.
@@ -111,7 +111,7 @@ Jive Lady: Jive-ass dude don't got no brains anyhow! Shiiiiit.
 Steve McCroskey: Looks like I picked the wrong week to quit smoking.
 Rumack: The life of everyone on board depends upon just one thing: finding someone back there who can not only fly this plane, but who didn't have fish for dinner.
 Ted Striker: I flew single engine fighters in the Air Force, but this plane has four engines. It's an entirely different kind of flying, altogether.
-Rumack,Â Randy: It's an entirely different kind of flying.
+Rumack, Randy: It's an entirely different kind of flying.
 Jack Kirkpatrick: Shanna, they bought their tickets, they knew what they were getting into. I say, let 'em crash.
 Captain Oveur: You ever been in a cockpit before?
 Joey: No sir, I've never been up in a plane before.

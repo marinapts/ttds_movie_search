@@ -39,9 +39,6 @@ Oliver: Call me by your name and I'll call you by mine.
 Mr. Perlman: You're too old not to accept people for who they are. What's wrong with them? What's wrong with them? You call them Sonny and Cher behind their backs...
 Elio: That's what mom calls them. That's what mom calls them!
 Mr. Perlman: ...and then accept gifts from them. The only person that reflects badly on is you. Is it because they're gay or because they're ridiculous?
-Annella Perlman: A handsome young knight is madly in love with a princess, and she too is in love with him, though she seems not to be entirely aware of it. Despite the friendship that blossoms between them, or perhaps because of that very friendship, the young knight finds himself so humbled and speechless that he is totally unable to bring up the subject of his love. Until one day he asks the princess point-blank: Is it better to speak or to die?
-Elio: I'll never have the courage to ask a question like that.
-Mr. Perlman: I doubt that. Hey, Elly-Belly. You do know that you can always talk to us?
 Elio: I miss you.
 Oliver: I miss you too, very much. I have some news.
 Elio: News? Oh, you're getting married, I suppose.
@@ -50,6 +47,9 @@ Elio: You never said anything.
 Oliver: Well, it's been off and on for two years.
 Elio: That's wonderful news.
 Oliver: Do you mind?
+Annella Perlman: A handsome young knight is madly in love with a princess, and she too is in love with him, though she seems not to be entirely aware of it. Despite the friendship that blossoms between them, or perhaps because of that very friendship, the young knight finds himself so humbled and speechless that he is totally unable to bring up the subject of his love. Until one day he asks the princess point-blank: Is it better to speak or to die?
+Elio: I'll never have the courage to ask a question like that.
+Mr. Perlman: I doubt that. Hey, Elly-Belly. You do know that you can always talk to us?
 Elio: I'm sick, aren't I?
 Oliver: I wish everyone was as sick as you.
 Art Historian 2: Cinema is a mirror of reality and it is a filter.
@@ -104,12 +104,12 @@ Art Historian 2: What's that got to do with it?
 Annella Perlman: What are you saying? You're mad, darling.
 Art Historian 2: You asshole. She's right.
 Art Historian 1: And you don't say anything to her. Say something! You're resigned.
-Art Historian 2: Why don't we talk about the death of BuÃ±uel? BuÃ±uel was a genius.
+Art Historian 2: Why don't we talk about the death of Buñuel? Buñuel was a genius.
 Art Historian 2: You know him?
 Art Historian 1: Cinema isn't the answer.
 Art Historian 2: Cinema is a mirror of reality and it's a filter.
 Art Historian 1: They broadcast The Phantom of Liberty with constant interr...
-Art Historian 2: Everyone loves BuÃ±uel!
+Art Historian 2: Everyone loves Buñuel!
 Art Historian 1: Let's hear his opinion.
 Art Historian 2: He doesn't know anything about Italy!
 Art Historian 1: Say something. Give us your impression.

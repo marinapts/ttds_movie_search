@@ -6,10 +6,10 @@ Mitsuha Miyamizu: There's no way we could meet. But one thing is certain. If we 
 Mitsuha Miyamizu: This feeling has possessed me, I think, from that day...
 Taki Tachibana: ...that day when the stars came falling. It was almost as if...
 Mitsuha Miyamizu: ...as if it was a scene from a dream. Nothing more, nothing less...
-Mitsuha Miyamizu,Â Taki Tachibana: ...than a beautiful view.
+Mitsuha Miyamizu, Taki Tachibana: ...than a beautiful view.
 Taki Tachibana: Haven't we met?...
 Mitsuha Miyamizu: I thought so too!...
-Taki Tachibana,Â Mitsuha Miyamizu: Your name is...
+Taki Tachibana, Mitsuha Miyamizu: Your name is...
 Taki Tachibana: The dream I must have had I can never recall. But...
 Mitsuha Miyamizu: But... the sensation that I've lost something lingers for a longtime after I wake up.
 Mitsuha Miyamizu: Once in a while when I wake up. I find myself crying.
@@ -29,9 +29,9 @@ Mitsuha Miyamizu: Is this... Could this be...
 Taki Tachibana: Could this be that we're really...
 Mitsuha Miyamizu: In our dreams, that guy and I are...
 Taki Tachibana: In our dreams, that girl and I are...
-Mitsuha Miyamizu,Â Taki Tachibana: switching places?
+Mitsuha Miyamizu, Taki Tachibana: switching places?
 Mitsuha Miyamizu: "By the time the date is over, the comet will be visible in the sky."
-Taki Tachibana,Â Mitsuha Miyamizu: It's twilight - "kataware-doki."
+Taki Tachibana, Mitsuha Miyamizu: It's twilight - "kataware-doki."
 Sayaka Natori: Trains come every 2 hours.
 Mitsuha Miyamizu: The store closes at 9 p.m.
 Sayaka Natori: No bookstore. No dentist.
@@ -40,9 +40,9 @@ Sayaka Natori: No jobs.
 Mitsuha Miyamizu: No brides.
 Sayaka Natori: Short sunlight hours.
 Katsuhiko Teshigawara: Give me a break!
-Mitsuha Miyamizu,Â Sayaka Natori: What?
-Katsuhiko Teshigawara: I mean... How about we stop by cafÃ©?
-Mitsuha Miyamizu,Â Sayaka Natori: A cafÃ©'? Really? Where?
+Mitsuha Miyamizu, Sayaka Natori: What?
+Katsuhiko Teshigawara: I mean... How about we stop by café?
+Mitsuha Miyamizu, Sayaka Natori: A café'? Really? Where?
 Shinta Takagi: How could you get lost on the way to school?
 Taki Tachibana: Uh... Well... I
 Shinta Takagi: Feminine?
@@ -98,11 +98,11 @@ Mitsuha Miyamizu: Ooh, look at you, Mr. Ladies Man! If you're so popular, why am
 Taki Tachibana: I never asked for your help! And if you're so confident in your matchmaking skills, get yourself a boyfriend, why don'tcha!
 Mitsuha Miyamizu: I told you...
 Taki Tachibana: I told you.
-Taki Tachibana,Â Mitsuha Miyamizu: I'm single because I wanna be!
+Taki Tachibana, Mitsuha Miyamizu: I'm single because I wanna be!
 Mitsuha Miyamizu: "However, I'm sure you've never gone out on a date before, so below are some links to help you out, you late bloomer."
-Shinta Takagi: Let's go to a cafÃ©.
+Shinta Takagi: Let's go to a café.
 Tsukasa Fujii: Oh that one? OK. Coming, Taki?
-Taki Tachibana: What? What? What? A cafÃ©?
+Taki Tachibana: What? What? What? A café?
 Mitsuha Miyamizu: He's so lucky. They must be together around now.
 Mitsuha Miyamizu: "I wanted to go on this date, but if it so happens that you end up going, you better enjoy it!"
 Mitsuha Miyamizu: What should I do? Would I annoy him? Would it be awkward? Or maybe he'd be a bit glad to see me?
@@ -145,7 +145,7 @@ Hitoha Miyamizu: Good morning.
 Yotsuha Miyamizu: Mitsuha, you're late!
 Mitsuha Miyamizu: I'll make breakfast tomorrow.
 Mitsuha Miyamizu: You two get along so well.
-Sayaka Natori,Â Katsuhiko Teshigawara: We do not!
+Sayaka Natori, Katsuhiko Teshigawara: We do not!
 Katsuhiko Teshigawara: It's the oldest sake in the world. By chewing on rice, spitting it out, and letting it ferment, it becomes alcohol.
 Sayaka Natori: Kuchikamisake. Do the gods appreciate sake made that way?
 Katsuhiko Teshigawara: Of course they do.

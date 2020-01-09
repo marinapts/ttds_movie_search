@@ -26,7 +26,6 @@ Birdie: What a story! Everything but the bloodhounds snappin' at her rear end.
 Lloyd Richards: That bitter cynicism of yours is something you've acquired since you left Radcliffe!
 Karen: The cynicism you refer to, I acquired the day I discovered I was different from little boys!
 Addison DeWitt: That I should want you at all, suddenly strikes me as the height of improbability. But that, in itself, is probably the reason. You're an improbable person, Eve, and so am I. We have that in common. Also, our contempt for humanity and inability to love, and be loved, insatiable ambition, and talent. We deserve each other.
-Addison DeWitt: Those of you who do not read, attend the theater, listen to unsponsored radio programs, or know anything of the world in which you live, it is perhaps necessary to introduce myself. My name is Addison DeWitt. My native habitat is the theater. In it, I toil not, neither do I spin. I am a critic and commentator. I am essential to the theater.
 Addison DeWitt: And what's your name?
 Phoebe: Phoebe.
 Addison DeWitt: Phoebe?
@@ -34,6 +33,7 @@ Phoebe: I call myself Phoebe.
 Addison DeWitt: And why not? Tell me, Phoebe, do you want someday to have an award like that of your own?
 Phoebe: More than anything else in the world.
 Addison DeWitt: Then you must ask Miss Harrington how to get one. Miss Harrington knows all about it.
+Addison DeWitt: Those of you who do not read, attend the theater, listen to unsponsored radio programs, or know anything of the world in which you live, it is perhaps necessary to introduce myself. My name is Addison DeWitt. My native habitat is the theater. In it, I toil not, neither do I spin. I am a critic and commentator. I am essential to the theater.
 Margo: I'll admit I may have seen better days, but I'm still not to be had for the price of a cocktail, like a salted peanut.
 Margo: You bought the new girdles a size smaller, I can feel it.
 Birdie: Something maybe grew a size larger.
@@ -98,7 +98,7 @@ Addison DeWitt: More plainly and more distinctly: I have not come to New Haven t
 Eve: What have you got to do with it?
 Addison DeWitt: Everything, because after tonight, you will belong to me.
 Eve: Belong? To you? I can't believe my ears!
-Addison DeWitt: What a dull clichÃ©.
+Addison DeWitt: What a dull cliché.
 Eve: Belong to you - why, that sounds medieval, something out of an old melodrama!
 Addison DeWitt: So does the history of the world for the past twenty years. I don't enjoy putting it as bluntly as this. Frankly, I'd hoped that somehow you would have known, that you would have taken it for granted that you and I...
 Eve: Taken it for granted that you and I...
@@ -163,7 +163,7 @@ Margo: Remind me to tell you about the time I looked into the heart of an artich
 Eve: I'd like to hear it.
 Margo: Some snowy night, in front of the fire.
 Margo: I'll admit I may have seen better days, but I'm still not to be had for the price of a cocktail like a salted peanut.
-Margo: Why so remote Addison? I should think you'd be at your protÃ©gÃ©'s side lending her moral support.
+Margo: Why so remote Addison? I should think you'd be at your protégé's side lending her moral support.
 Addison DeWitt: Miss Casswell at the moment is where I can lend no support, moral or otherwise.
 Margo: In the lady's, shall we say, lounge?
 Addison DeWitt: ...being violently ill to her tummy.

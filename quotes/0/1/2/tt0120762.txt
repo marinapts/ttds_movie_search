@@ -92,7 +92,7 @@ Mushu: Hey! Dragon. *Dra-gon*, not lizard. I don't do that tongue thing.
 Yao: My girl will think I have no faults...
 Chien-Po: That I'm a major find.
 Mulan: Uh... How about a girl who's got a brain, who always speaks her mind?
-Yao,Â Chien-Po,Â Ling: Nah!
+Yao, Chien-Po, Ling: Nah!
 Shan-Yu: Looks like you're all out of ideas.
 Mulan: Not quite.
 Mulan: Mushu, if you're so worried, go stand watch.
@@ -158,6 +158,7 @@ Shan-Yu: You took away my victory!
 Mulan: No!
 Mulan: I did.
 Shan-Yu: The soldier from the mountains...
+Mushu: I'm doomed! And all 'cause Miss Man decides to take her little drag show on the road.
 Chien-Po: I'm never gonna catch my breath!
 Yao: Say goodbye to those who knew me!
 Ling: Boy was I a fool in school for cutting gym!
@@ -192,7 +193,6 @@ Man with Tattoo: This tattoo will protect me from harm.
 Yao: Hmmm...
 Ling: I hope you can get your money back!
 Mulan: I don't think I can do this.
-Mushu: I'm doomed! And all 'cause Miss Man decides to take her little drag show on the road.
 Shang: What's your name?
 Mulan: Uh... I, I, uh...
 Chi Fu: Your commanding officer just asked you a question.

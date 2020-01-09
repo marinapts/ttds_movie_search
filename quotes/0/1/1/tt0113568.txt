@@ -12,12 +12,12 @@ Puppet Master: Incorrect. I am not AI. My codename is project two-five-zero-one.
 Puppet Master: I refer to myself as an intelligent life form because I am sentient and I am able to recognize my own existence, but in my present state I am still incomplete. I lack the most basic processes inherent in all living organisms: reproducing and dying.
 Major Motoko Kusanagi: But you can copy yourself.
 Puppet Master: A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems and copies do not give rise to variety and originality. Life perpetuates itself through diversity and this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration until one day they die, obliterating an entire set of memory and information. Only genes remain. Why continually repeat this cycle? Simply to survive by avoiding the weaknesses of an unchanging system.
-Major Motoko Kusanagi,Â Puppet Master: And where does the newborn go from here? The net is vast and infinite.
-Major Motoko Kusanagi,Â Puppet Master: When I was a child, my speech, feelings, and thinking were all those of a child. Now that I am a man, I have no more use for childish ways.
+Major Motoko Kusanagi, Puppet Master: And where does the newborn go from here? The net is vast and infinite.
+Major Motoko Kusanagi, Puppet Master: When I was a child, my speech, feelings, and thinking were all those of a child. Now that I am a man, I have no more use for childish ways.
 Batou: That's all it is. Information. Even a simulated experience or a dream is simultaneous reality and fantasy. Any way you look at it, all the information that a person accumulates in a lifetime is just a drop in the bucket.
-BatÃ´: Chief, you ever question the ethics of the neurosurgeons who monkey around inside your brain?
+Batô: Chief, you ever question the ethics of the neurosurgeons who monkey around inside your brain?
 Section 9 Department Chief Aramaki: They undergo psychiatric evaluations, especially those in security. They're subjected to a stringent screening of their personal lives. Of course, the ones who check are only human.
-BatÃ´: I guess once you start doubting, there's no end to it.
+Batô: I guess once you start doubting, there's no end to it.
 Major Motoko Kusanagi: I mean, have you ever actually seen your brain?
 Puppet Master: We have been subordinate to our limitations until now. The time has come to cast aside these bonds and to elevate our consciousness to a higher plane. It is time to become a part of all things.
 Project 2501: As a sentient lifeform, I hereby demand political asylum.

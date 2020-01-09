@@ -30,7 +30,7 @@ The Scarecrow: Yes, you.
 The Cowardly Lion: I... I gotta get her out of there?
 The Tin Man: That's right.
 The Cowardly Lion: All right. I'll go in there for Dorothy. Wicked Witch or no Wicked Witch, guards or no guards, I'll tear them apart. I may not come out alive, but I'm going in there. There's only one thing I want you fellas to do.
-The Scarecrow,Â The Tin Man: What's that?
+The Scarecrow, The Tin Man: What's that?
 The Cowardly Lion: Talk me out of it.
 The Wizard of Oz: Why, anybody can have a brain. That's a very mediocre commodity. Every pusillanimous creature that crawls on the Earth or slinks through slimy seas has a brain. Back where I come from, we have universities, seats of great learning, where men go to become great thinkers. And when they come out, they think deep thoughts and with no more brains than you have. But they have one thing you haven't got: a diploma.
 Glinda: You have no power here! Begone, before somebody drops a house on you, too!
@@ -64,7 +64,7 @@ Dorothy: My! People come and go so quickly here!
 The Scarecrow: The sum of the square roots of any two sides of an isosceles triangle is equal to the square root of the remaining side. Oh joy! Rapture! I got a brain! How can I ever thank you enough?
 The Wizard of Oz: Well, you can't.
 The Cowardly Lion: Courage! What makes a king out of a slave? Courage! What makes the flag on the mast to wave? Courage! What makes the elephant charge his tusk in the misty mist, or the dusky dusk? What makes the muskrat guard his musk? Courage! What makes the sphinx the seventh wonder? Courage! What makes the dawn come up like thunder? Courage! What makes the Hottentot so hot? What puts the "ape" in apricot? What have they got that I ain't got?
-Dorothy,Â The Scarecrow,Â The Tin Man: Courage!
+Dorothy, The Scarecrow, The Tin Man: Courage!
 The Cowardly Lion: You can say that again! Huh?
 The Scarecrow: Help! Help! Help!
 The Tin Man: Well, what happened to you?
@@ -292,15 +292,15 @@ Dorothy: Lions?
 The Scarecrow: And tigers?
 The Tin Man: And bears.
 The Gatekeeper: Who rang that bell?
-Dorothy,Â The Scarecrow,Â The Cowardly Lion,Â The Tin Man: We did!
+Dorothy, The Scarecrow, The Cowardly Lion, The Tin Man: We did!
 The Gatekeeper: Can't you read?
 The Scarecrow: Read what?
 The Gatekeeper: The notice!
-Dorothy,Â The Scarecrow,Â The Cowardly Lion,Â The Tin Man: What notice?
+Dorothy, The Scarecrow, The Cowardly Lion, The Tin Man: What notice?
 The Gatekeeper: It's on the door - as plain as the nose on my face! It... oh...
-Dorothy,Â The Scarecrow,Â The Cowardly Lion,Â The Tin Man: Bell out of order, please knock.
+Dorothy, The Scarecrow, The Cowardly Lion, The Tin Man: Bell out of order, please knock.
 The Gatekeeper: Well, that's more like it! Now, state your business!
-Dorothy,Â The Scarecrow,Â The Cowardly Lion,Â The Tin Man: We want to see the Wizard!
+Dorothy, The Scarecrow, The Cowardly Lion, The Tin Man: We want to see the Wizard!
 The Gatekeeper: The Wizard? But, nobody can see the Great Oz! Nobody's ever seen the Great Oz! Even, I've never seen him!
 Dorothy: Well, then how do you know there is one?
 The Gatekeeper: Because, he... I... Oh, you're wasting my time.
@@ -309,7 +309,7 @@ The Gatekeeper: Prove it.
 The Scarecrow: She's wearing the ruby slippers, she gave her.
 The Gatekeeper: Oh, so she is! Well, bust my buttons! Why didn't you say that in the first place? That's a horse of a different color! Come on in!
 The Scarecrow: What about the heart that you promised Tin Man? Or the courage you promised Lion?
-The Cowardly Lion,Â The Tin Man: And Scarecrow's brain?
+The Cowardly Lion, The Tin Man: And Scarecrow's brain?
 The Wizard of Oz: Do not arouse the wrath of the great and powerful Oz. I said come back tomorrow.
 'Zeke': Listen, kid. Are you gonna try and let that old Gulch heifer try and buffalo ya'? She ain't nothing to be afraid of. Have a little courage, that's all.
 Dorothy: I'm not afraid of her.

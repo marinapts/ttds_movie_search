@@ -78,8 +78,8 @@ William Miller: They hate me.
 Lester Bangs: You'll meet them all again on their long journey to the middle.
 William Miller: So Russell... what do you love about music?
 Russell Hammond: To begin with, everything.
-Jeff Bebe: Some people have a hard time explaining rock 'n' roll. I don't think anyone can really explain rock 'n' roll. Maybe Pete Townshend, but that's okay. Rock 'n' roll is a lifestyle and a way of thinking... and it's not about money and popularity. Although, some money would be nice. But it's a voice that says, "Here I am... and fuck you if you can't understand me." And one of these people is gonna save the world. And that means that rock 'n' roll can save the world... all of us together. And the chicks are great. But what it all comes down to is that thing. The indefinable thing when people catch something in your music.
 Lester Bangs: Music, you now, true music - not just rock n roll - it chooses you. It live in your car, or alone listening to your headphones, you know, with the cast scenic bridges and angelic choirs in your brain. It's a place apart from the vast, benign lap of America.
+Jeff Bebe: Some people have a hard time explaining rock 'n' roll. I don't think anyone can really explain rock 'n' roll. Maybe Pete Townshend, but that's okay. Rock 'n' roll is a lifestyle and a way of thinking... and it's not about money and popularity. Although, some money would be nice. But it's a voice that says, "Here I am... and fuck you if you can't understand me." And one of these people is gonna save the world. And that means that rock 'n' roll can save the world... all of us together. And the chicks are great. But what it all comes down to is that thing. The indefinable thing when people catch something in your music.
 Elaine Miller: May I speak with William, please?
 Sapphire: He's not here. He's down in the bar with the band. They just got back from the radio station. Is this Maryann with the pot?... Hello?
 Elaine Miller: No, this is not Maryann with the pot. This is Elaine. His mother. Could you please give him a message for me? Could you tell him to call home immediately? And could you also tell him - I KNOW WHAT'S GOING ON.
@@ -98,17 +98,33 @@ Penny Lane: What kind of beer?
 Anita Miller: One day you'll be cool. Look under your bed, it'll set you free.
 Elaine Miller: Rock stars have kidnapped my son!
 Jeff Bebe: Is it that hard to make us look cool?
-Jeff Bebe: It's okay! I'm easy to forget! Just leave me behind! I'm only the fucking lead singer!
-Ed: Fuck it! I'm... I'm gay!
 Russell Hammond: Your mom kind of freaked me out.
 William Miller: She means well.
+Jeff Bebe: It's okay! I'm easy to forget! Just leave me behind! I'm only the fucking lead singer!
+Ed: Fuck it! I'm... I'm gay!
 Russell Hammond: From here on out, I am only interested in what is real. Real people, real feelings, that's it, that's all I'm interested in.
 Elaine Miller: Your Dad was so proud of you. He knew you were a predominantly accelerated child.
 Anita Miller: What about me?
 Elaine Miller: You are rebellious and ungrateful of my love.
 Sapphire: Does anybody remember laughter?
+Penny Lane: Call me if you need a rescue, we live in the same city.
+William Miller: Sometimes I think I live in a different world.
 Anita Miller: Listen to Tommy with a candle burning, and you'll see your entire future.
+Ben Fong-Torres: A Mo-Jo, it's a very modern machine that transmits pages over the telephone! It only takes eighteen minutes a page!
 Polexia Aphrodisia: It's all happening!
+Anita Miller: First it was butter then it was sugar and white flour, bacon, eggs, balogna, rock 'n roll, motorcycles. Then! It was celebrating Christmas on a day in September when you knew it wouldn't be commercialized! What else are you gonna ban?
+Elaine Miller: Honey, you want to rebel against knowledge, I'm trying to give you the cliffnotes on how to live life in this world.
+Anita Miller: We're like nobody else I know!
+Elaine Miller: I am a college professor. Why can't I teach my own kids? Use me!
+Anita Miller: Darryl says that you use knowledge to keep me down. He says that I'm a "Yes" person and you are trying to raise us in a "No" environment.
+Elaine Miller: Well, clearly "No" is a word Darryl doesn't hear much.
+Anita Miller: I can't live here! I hate you! Even William hates you!
+Young William: I don't hate her.
+Anita Miller: You do hate her! You don't even know the truth.
+Elaine Miller: Dramaqueen.
+Anita Miller: Feck you!
+Elaine Miller: Hey!
+Anita Miller: This is a house of lies!
 William Miller: I love you. And I'm about to boldly go where... many men have gone before.
 Jeff Bebe: "Rock 'n' roll can save the world"? "The chicks are great"? I sound like a dick!
 Russell Hammond: You are a dick.
@@ -123,22 +139,8 @@ Polexia Aphrodisia: Act Two, in which he pretends he doesn't care her, but he go
 Polexia Aphrodisia: Act Three, in which it all plays out the way she planned it. She'll eat him alive.
 William Miller: We gotta stop them!
 Polexia Aphrodisia: Stop them? You... were her reason for coming here.
-Penny Lane: Call me if you need a rescue, we live in the same city.
-William Miller: Sometimes I think I live in a different world.
-Ben Fong-Torres: A Mo-Jo, it's a very modern machine that transmits pages over the telephone! It only takes eighteen minutes a page!
-Anita Miller: First it was butter then it was sugar and white flour, bacon, eggs, balogna, rock 'n roll, motorcycles. Then! It was celebrating Christmas on a day in September when you knew it wouldn't be commercialized! What else are you gonna ban?
-Elaine Miller: Honey, you want to rebel against knowledge, I'm trying to give you the cliffnotes on how to live life in this world.
-Anita Miller: We're like nobody else I know!
-Elaine Miller: I am a college professor. Why can't I teach my own kids? Use me!
-Anita Miller: Darryl says that you use knowledge to keep me down. He says that I'm a "Yes" person and you are trying to raise us in a "No" environment.
-Elaine Miller: Well, clearly "No" is a word Darryl doesn't hear much.
-Anita Miller: I can't live here! I hate you! Even William hates you!
-Young William: I don't hate her.
-Anita Miller: You do hate her! You don't even know the truth.
-Elaine Miller: Dramaqueen.
-Anita Miller: Feck you!
-Elaine Miller: Hey!
-Anita Miller: This is a house of lies!
+Lester Bangs: So, you're talking to Ben Fong-Torres, right? Here's what you do. Tell him it's a think piece about a mid level band struggling with their own limitations in the harsh face of stardom.
+Lester Bangs: He'll wet himself.
 Elaine Miller: Rock stars have kidnapped my son!
 Elaine Miller: Look at this: an entire generation of Cinderellas and there's no glass slipper.
 Russell Hammond: Hey William, we showed you America. Did everything but get you laid.
@@ -152,14 +154,13 @@ William Miller: Which half?
 William Miller: Dick, I got him. He's okay. He is on acid, though.
 William Miller: I can't really tell. How do you know when it's kicked in?
 William Miller: I thought maybe we could hang out, you know, do some stuff back home like... like regular stuff, get to know each other a little bit better, and *then* I'd see you pee.
-Lester Bangs: So, you're talking to Ben Fong-Torres, right? Here's what you do. Tell him it's a think piece about a mid level band struggling with their own limitations in the harsh face of stardom.
-Lester Bangs: He'll wet himself.
 Ben Fong-Torres: You're not there to party. We've already got *one* Hunter Thompson.
 Russell Hammond: And you can tell Rolling Stone magazine that my last words were... I'm on drugs!
 William Miller: Russell! I think we should work on those last words!
 Russell Hammond: I got it, I got it. Last words: I dig music. I'm on drugs!
 Topeka Kid: You're Russell from Stillwater.
 Russell Hammond: Well, yeah, on my better days, I am Russell from Stillwater.
+Russell Hammond: You know, I think we both wanted to, uh, to be with her. I guess she wanted us to be together.
 Anita Miller: All the kids make fun of him. They call him the Narc behind his back.
 Elaine Miller: What's a narc?
 Anita Miller: It's a narcotics officer.
@@ -179,7 +180,6 @@ Aaron: Wanna see me feed a mouse to my snake?
 Russell Hammond: Yes.
 Elaine Miller: Keep the small bills on the outside and call me if anyone gets drunk.
 William Miller: I will call you if anyone *anywhere* gets drunk.
-Russell Hammond: You know, I think we both wanted to, uh, to be with her. I guess she wanted us to be together.
 Russell Hammond: Give me your address. I'm coming to you, this time.
 Sheldon the Desk Clerk: Are you Mr. Miller?
 William Miller: Yeah.

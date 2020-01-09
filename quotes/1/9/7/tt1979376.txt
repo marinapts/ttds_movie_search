@@ -9,9 +9,9 @@ Bunny: Uh... yeah.
 Duke Caboom: Woah.
 Woody: Uhhh... this is Forky...
 Forky: I'm trash.
+Duke Caboom: Yes I Can-ada!
 Forky: I'M NOT A TOY! AAAH!
 Woody: Hey, hey, somebody get him before he pokes an eye out.
-Duke Caboom: Yes I Can-ada!
 Woody: I was made to help a child, I don't remember it being this hard.
 Woody: I want you to meet... Forky.
 Mr. Pricklepants: He's a spork.
@@ -19,13 +19,13 @@ Trixie: I have a question. No, wait. I have *all* the questions.
 Forky: I don't belong here!
 Buzz Lightyear: How do we get that key?
 Forky: I am not a toy. I am a spork!
-Woody: Wow, this place is amazing.
-Bo Peep: Wasn't Buzz gonna meet us here?
 Forky: Hi. I'm, uh... I'm Forky.
 Knifey: T... Trash?
 Forky: No, no, *toy*. I am a... We are all toys. Unique, beautiful toys. I will explain everything.
 Knifey: How am I alive?
 Forky: ...I don't know.
+Woody: Wow, this place is amazing.
+Bo Peep: Wasn't Buzz gonna meet us here?
 Woody: Ya know, you've handled this lost toy life better than I could.
 Bo Peep: Open your eyes, Woody. There's plenty of kids out there. Sometimes change can be good!
 Woody: You can't teach this old toy new tricks.
@@ -96,20 +96,6 @@ Bo Peep: Okay, Okay, I Get It!
 Woody: Bo, My Kid Really Needs This Toy, Will You Help Me? For Old-Times Sake?
 Bo Peep: All right, all right.
 Woody: THANK YOU! OH, THANK YOU!
-Woody: 'You've Got A Friend In Me'
-Buzz Lightyear: 'The Slingshot Manoeuvre Is All We Got, Full Speed Ahead!'
-Buzz Lightyear: 'Buzz Lightyear To The Rescue!'
-Bonnie: We have to find him , Mom.
-Trixie: He did go to kindergarten!
-Mr. Potato Head: I knew it!
-Woody: No, no, no, guys, listen...
-Buttercup: You tryin' to get Bonnie in trouble?
-Woody: No, of course not!
-Dolly: You could have been confiscated!
-Rex: What does that mean?
-Hamm: Taken away.
-Rex: NO!
-Jessie: Or worse. You could have been lost!
 Bo Peep: So, How About You, How's Your New Kid?
 Woody: Bonnie? Oh, She's Great, Jessie Is Loving It!
 Bo Peep: Jessie's Still With You?
@@ -135,6 +121,20 @@ Woody: Who Are These Guys?
 Ducky: Lightyear Promised Us A Kid!
 Woody: You Did What!
 Buzz Lightyear: I Did Not!
+Woody: 'You've Got A Friend In Me'
+Buzz Lightyear: 'The Slingshot Manoeuvre Is All We Got, Full Speed Ahead!'
+Buzz Lightyear: 'Buzz Lightyear To The Rescue!'
+Bonnie: We have to find him , Mom.
+Trixie: He did go to kindergarten!
+Mr. Potato Head: I knew it!
+Woody: No, no, no, guys, listen...
+Buttercup: You tryin' to get Bonnie in trouble?
+Woody: No, of course not!
+Dolly: You could have been confiscated!
+Rex: What does that mean?
+Hamm: Taken away.
+Rex: NO!
+Jessie: Or worse. You could have been lost!
 Mr. Potato Head: You Gotta Be Kidding!
 Woody: 'You're my favourite deputy.'
 Woody: 'There's a snake in my boot.'

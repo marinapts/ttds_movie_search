@@ -33,9 +33,6 @@ Peter Gibbons: Nothing.
 Lawrence: Nothing, huh?
 Peter Gibbons: I would relax... I would sit on my ass all day... I would do nothing.
 Lawrence: Well, you don't need a million dollars to do nothing, man. Take a look at my cousin: he's broke, don't do shit.
-Peter Gibbons: It's not just about me and my dream of doing nothing. It's about all of us. I don't know what happened to me at that hypnotherapist and, I don't know, maybe it was just shock and it's wearing off now, but when I saw that fat man keel over and die - Michael, we don't have a lot of time on this earth! We weren't meant to spend it this way. Human beings were not meant to sit in little cubicles staring at computer screens all day, filling out useless forms and listening to eight different bosses drone on about about mission statements.
-Michael Bolton: I told those fudge-packers I liked Michael Bolton's music.
-Peter Gibbons: Oh. That is not right, Michael.
 Joanna: So, where do you work, Peter?
 Peter Gibbons: Initech.
 Joanna: In... yeah, what do you do there?
@@ -63,6 +60,9 @@ Peter Gibbons: You should come over and watch 'Kung Fu' tonight.
 Joanna: Ok.
 Joanna: Ok. Can we order lunch first?
 Joanna: Ok.
+Peter Gibbons: It's not just about me and my dream of doing nothing. It's about all of us. I don't know what happened to me at that hypnotherapist and, I don't know, maybe it was just shock and it's wearing off now, but when I saw that fat man keel over and die - Michael, we don't have a lot of time on this earth! We weren't meant to spend it this way. Human beings were not meant to sit in little cubicles staring at computer screens all day, filling out useless forms and listening to eight different bosses drone on about about mission statements.
+Michael Bolton: I told those fudge-packers I liked Michael Bolton's music.
+Peter Gibbons: Oh. That is not right, Michael.
 Bob Porter: Looks like you've been missing a lot of work lately.
 Peter Gibbons: I wouldn't say I've been *missing* it, Bob.
 Tom Smykowski: It was a "Jump to Conclusions" mat. You see, it would be this mat that you would put on the floor... and would have different CONCLUSIONS written on it that you could JUMP TO.
@@ -114,6 +114,8 @@ Bill Lumbergh: Great.
 Dom Portwood: So, uh, Milton has been let go?
 Bob Slydell: Well, just a second there, professor. We, uh, we fixed the *glitch*. So he won't be receiving a paycheck anymore, so it'll just work itself out naturally.
 Bob Porter: We always like to avoid confrontation, whenever possible. Problem is solved from your end.
+Bill Lumbergh: Milt, we're gonna need to go ahead and move you downstairs into storage B. We have some new people coming in, and we need all the space we can get. So if you could just go ahead and pack up your stuff and move it down there, that would be terrific, OK?
+Milton Waddams: Excuse me, I believe you have my stapler...
 Nina: Now Milton, don't be greedy, let's pass it along and make sure everyone gets a piece.
 Milton Waddams: Yeah, but last time I didn't receive a piece. And I was told...
 Nina: Just pass.
@@ -127,8 +129,6 @@ Michael Bolton: Agreed,
 Lawrence: Don't worry, man. I won't tell anyone either.
 Michael Bolton: Who the fuck is that?
 Peter Gibbons: Uh, don't worry about him. He's cool.
-Bill Lumbergh: Milt, we're gonna need to go ahead and move you downstairs into storage B. We have some new people coming in, and we need all the space we can get. So if you could just go ahead and pack up your stuff and move it down there, that would be terrific, OK?
-Milton Waddams: Excuse me, I believe you have my stapler...
 Michael Bolton: Samir and I are the best programmers they got at that place. You haven't been showing up and you get to keep your job.
 Peter Gibbons: Actually, I'm being promoted.
 Peter Gibbons: Um, the 7-Eleven, right? You take a penny from the tray.
@@ -157,6 +157,21 @@ Peter Gibbons: Want to go to Chotchkie's? Get some coffee?
 Samir: Oh, it's a little early.
 Peter Gibbons: I gotta get outta here. I think I'm gonna lose it.
 Female Temp: Uh-oh. Sounds like somebody's got a case of the Mondays.
+Peter Gibbons: Alright so when the sub routine compounds the interest is uses all these extra decimal places that just get rounded off. So we simplified the whole thing, we rounded them all down, drop the remainder into an account we opened.
+Joanna: So you're stealing?
+Peter Gibbons: Ah no, you don't understand. It's very complicated. It's uh it's aggregate, so I'm talking about fractions of a penny here. And over time they add up to a lot.
+Joanna: Oh okay. So you're gonna be making a lot of money, right?
+Peter Gibbons: Yeah.
+Joanna: Right. It's not yours?
+Peter Gibbons: Well it becomes ours.
+Joanna: How is that not stealing?
+Peter Gibbons: I don't think I'm explaining this very well.
+Joanna: Okay.
+Peter Gibbons: Um... the 7-11. You take a penny from the tray, right?
+Joanna: From the cripple children?
+Peter Gibbons: No that's the jar. I'm talking about the tray. You know the pennies that are for everybody?
+Joanna: Oh for everybody. Okay.
+Peter Gibbons: Well those are whole pennies, right? I'm just talking about fractions of a penny here. But we do it from a much bigger tray and we do it a couple a million times.
 Bob Slydell: Would you bear with me for just a second, please?
 Peter Gibbons: OK.
 Bob Slydell: What if - and believe me this is a hypothetical - but what if you were offered some kind of a stock option equity sharing program. Would that do anything for you?
@@ -174,24 +189,10 @@ Joanna: What?
 Samir: Mother... shitter... Son of an... ass. I just...
 Bill Lumbergh: Oh, and remember: next Friday... is Hawaiian shirt day. So, you know, if you want to, go ahead and wear a Hawaiian shirt and jeans.
 Tom Smykowski: Just remember, if you hang in there long enough, good things can happen in this world. I mean, look at me.
-Peter Gibbons: Alright so when the sub routine compounds the interest is uses all these extra decimal places that just get rounded off. So we simplified the whole thing, we rounded them all down, drop the remainder into an account we opened.
-Joanna: So you're stealing?
-Peter Gibbons: Ah no, you don't understand. It's very complicated. It's uh it's aggregate, so I'm talking about fractions of a penny here. And over time they add up to a lot.
-Joanna: Oh okay. So you're gonna be making a lot of money, right?
-Peter Gibbons: Yeah.
-Joanna: Right. It's not yours?
-Peter Gibbons: Well it becomes ours.
-Joanna: How is that not stealing?
-Peter Gibbons: I don't think I'm explaining this very well.
-Joanna: Okay.
-Peter Gibbons: Um... the 7-11. You take a penny from the tray, right?
-Joanna: From the cripple children?
-Peter Gibbons: No that's the jar. I'm talking about the tray. You know the pennies that are for everybody?
-Joanna: Oh for everybody. Okay.
-Peter Gibbons: Well those are whole pennies, right? I'm just talking about fractions of a penny here. But we do it from a much bigger tray and we do it a couple a million times.
 Milton Waddams: I was told that I could listen to the radio at a reasonable volume from nine to eleven, I told Bill that if Sandra is going to listen to her headphones while she's filing then I should be able to listen to the radio while I'm collating so I don't see why I should have to turn down the radio because I enjoy listening at a reasonable volume from nine to eleven.
 Samir: Back up in your ass with the resurrection.
 Samir: This is a... fuck!
+Bill Lumbergh: You can just go ahead and move a little bit to the left. Yeah, that's it. Great.
 Peter Gibbons: Our high school guidance counselor used to ask us what you'd do if you had a million dollars and you didn't have to work. And invariably what you'd say was supposed to be your career. So, if you wanted to fix old cars then you're supposed to be an auto mechanic.
 Samir: So what did you say?
 Peter Gibbons: I never had an answer. I guess that's why I'm working at Initech.
@@ -199,6 +200,7 @@ Michael Bolton: No, you're working at Initech because that question is bullshit 
 Samir: You know what I would do if I had a million dollars? I would invest half of it in low risk mutual funds and then take the other half over to my friend Asadulah who works in securities...
 Michael Bolton: Samir, you're missing the point. The point of the exercise is that you're supposed to figure out what you would want to do if...
 Michael Bolton: "PC Load Letter"? What the fuck does that mean?
+Milton Waddams: Mr. Lumbergh told me to talk to payroll and then payroll told me to talk to Mr. Lumbergh and I still haven't received my paycheck and he took my stapler and he never brought it back and then they moved my desk to storage room B and there was garbage on it...
 Peter Gibbons: Boy, I'll tell ya, some days... One of these days it's just gonna be like...
 Brian, Chotchkie's Waiter: So can I get you gentlemen something more to drink? Or maybe something to nibble on? Some Pizza Shooters, Shrimp Poppers, or Extreme Fajitas?
 Peter Gibbons: Just coffee.
@@ -207,15 +209,19 @@ Peter Gibbons: Yeah, I know him. I know him! He's my boss! He's my unholy, disgu
 Joanna: He's not THAT disgusting.
 Peter Gibbons: He represents all that is soulless and wrong! And you slept with him!
 Bob Slydell: I'll be honest with you, I love his music. I do. I'm a Michael Bolton fan. For my money, I don't know if it gets any better than when he sings "When a Man Loves a Woman".
-Bill Lumbergh: You can just go ahead and move a little bit to the left. Yeah, that's it. Great.
 Samir: No, not again. I... why does it say paper jam when there is no paper jam? I swear to God, one of these days, I just kick this piece of shit out the window.
 Michael Bolton: You and me both, man. That thing is lucky I'm not armed.
 Samir: Piece of shit.
 Michael Bolton: We get caught laundering money, we're not going to white-collar resort prison. No, no, no. We're going to federal POUND ME IN THE ASS prison.
 Samir: I don't want to go to ANY prison!
-Milton Waddams: Mr. Lumbergh told me to talk to payroll and then payroll told me to talk to Mr. Lumbergh and I still haven't received my paycheck and he took my stapler and he never brought it back and then they moved my desk to storage room B and there was garbage on it...
 Lawrence: Peter... watch out for your cornhole, bud.
 Bill Lumbergh: Oh, oh, and I almost forgot. Ahh, I'm also gonna need you to go ahead and come in on Sunday, too...
+Bill Lumbergh: So, Peter, what's happening? Aahh, now, are you going to go ahead and have those TPS reports for us this afternoon?
+Peter Gibbons: No.
+Bill Lumbergh: Ah. Yeah. So I guess we should probably go ahead and have a little talk. Hmm?
+Peter Gibbons: Not right now, Lumbergh, I'm kinda busy. In fact, look, I'm gonna have to ask you to just go ahead and come back another time. I got a meeting with the Bobs in a couple of minutes.
+Bill Lumbergh: I wasn't aware of a meeting with them.
+Peter Gibbons: Yeah, they called me at home.
 Drew: I'm thinking I might take that new chick from Logistics. If things go well I might be showing her my O-face. "Oh... Oh... Oh!" You know what I'm talkin' about. "Oh!"
 Steve: Good evening Sir, my name is Steve. I come from a rough area. I used to be addicted to crack but now I am off it and trying to stay clean. That is why I am selling magazine subscriptions.
 Joanna: How dare you judge me? I mean what are you? You think you're some kind of, like, angel here? No, you're just this penny-stealing... wanna-be criminal... man.
@@ -229,12 +235,6 @@ Peter Gibbons: Yes?
 Samir: In... in these conjugal visits, you can have sex with women?
 Peter Gibbons: Yep, you sure can.
 Samir: OK, I'll do it.
-Bill Lumbergh: So, Peter, what's happening? Aahh, now, are you going to go ahead and have those TPS reports for us this afternoon?
-Peter Gibbons: No.
-Bill Lumbergh: Ah. Yeah. So I guess we should probably go ahead and have a little talk. Hmm?
-Peter Gibbons: Not right now, Lumbergh, I'm kinda busy. In fact, look, I'm gonna have to ask you to just go ahead and come back another time. I got a meeting with the Bobs in a couple of minutes.
-Bill Lumbergh: I wasn't aware of a meeting with them.
-Peter Gibbons: Yeah, they called me at home.
 Steve: I lied. Um... All that stuff I said about being a crack head? It just helps me sell magazines. I'm actually an unemployed... software engineer.
 Peter Gibbons: You're a software engineer?
 Steve: Yup.

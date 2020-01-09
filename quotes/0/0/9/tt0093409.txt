@@ -35,14 +35,14 @@ Roger Murtaugh: What? What?
 Martin Riggs: Nothin'.
 Roger Murtaugh: Remarks like that will not get you invited to Christmas dinner.
 Martin Riggs: My luck's changing for the better every day.
+Roger Murtaugh: What do you do, sleep with that thing under your pillow?
+Martin Riggs: I would if I slept.
 Roger Murtaugh: Hey, Riggs.
 Martin Riggs: Yo!
 Roger Murtaugh: Riggs, if you think I'm gonna eat the world's lousiest Christmas turkey by myself, you're crazy.
 Martin Riggs: Well, I got news for you, Rog: I'm not crazy.
 Roger Murtaugh: I know.
 Martin Riggs: Well, good. Let's eat.
-Roger Murtaugh: What do you do, sleep with that thing under your pillow?
-Martin Riggs: I would if I slept.
 Roger Murtaugh: You're not trying to draw a psycho pension! You really are crazy!
 Mr. Joshua: Why don't you save your strength? You're gonna need it.
 Martin Riggs: Who's the chin?
@@ -69,6 +69,15 @@ Martin Riggs: When I was 19, I did a guy in Laos from a thousand yards out. It w
 Roger Murtaugh: Yeah, see you.
 Roger Murtaugh: Hey Riggs! You really like my wife's cooking?
 Martin Riggs: No. See you tomorrow.
+Martin Riggs: You know they're going to kill her, don't you?
+Roger Murtaugh: Yeah.
+Martin Riggs: So if you want her back, you're going to have to take her away from them.
+Roger Murtaugh: I know.
+Martin Riggs: You do this my way. You shoot, you shoot to kill, get as many of them as you can. All you got to do is just not miss.
+Roger Murtaugh: I won't miss.
+Martin Riggs: We're going to get bloody on this one, Rog.
+Roger Murtaugh: Are you really crazy? Or are you as good as you say you are?
+Martin Riggs: You're just gonna have to trust me.
 Drug Dealer #3: Good, huh? Tasty? Smooth?
 Martin Riggs: Yeah, that's good...
 Drug Dealer #1: Here ya go, pal...
@@ -102,15 +111,11 @@ Roger Murtaugh: You sure?
 Martin Riggs: Yeah, I'm sure man. I never forget an asshole.
 Roger Murtaugh: Have you ever met anybody you didn't kill?
 Martin Riggs: Well, I haven't killed you yet.
-Martin Riggs: You know they're going to kill her, don't you?
-Roger Murtaugh: Yeah.
-Martin Riggs: So if you want her back, you're going to have to take her away from them.
-Roger Murtaugh: I know.
-Martin Riggs: You do this my way. You shoot, you shoot to kill, get as many of them as you can. All you got to do is just not miss.
-Roger Murtaugh: I won't miss.
-Martin Riggs: We're going to get bloody on this one, Rog.
-Roger Murtaugh: Are you really crazy? Or are you as good as you say you are?
-Martin Riggs: You're just gonna have to trust me.
+Mr. Joshua: Hit him again!
+Martin Riggs: Mr. Joshua: Hit him again.
+Martin Riggs: Mr. Joshua: C'mon, tell me about the shipment!
+Martin Riggs: I swear I'm gonna fucking kill the both of you.
+Mr. Joshua: Yeah, yeah, very funny. Now what about the *shipment*?
 Roger Murtaugh: Listen, sorry about all that shit I was in your face about earlier... you saved my life. Thank you.
 Martin Riggs: Oh, I'll bet that hurt to say.
 Roger Murtaugh: You'll never know.
@@ -120,11 +125,8 @@ Martin Riggs: Anybody who drives around in this town IS suicidal.
 Martin Riggs: You don't trust me at all, do you?
 Roger Murtaugh: Well, I'll tell you what. You make it through tomorrow without killing anybody, especially me, or yourself, then I'll start trusting you.
 Martin Riggs: Fair enough.
-Mr. Joshua: Hit him again!
-Martin Riggs: Mr. Joshua: Hit him again.
-Martin Riggs: Mr. Joshua: C'mon, tell me about the shipment!
-Martin Riggs: I swear I'm gonna fucking kill the both of you.
-Mr. Joshua: Yeah, yeah, very funny. Now what about the *shipment*?
+Roger Murtaugh: See how easy that was? Boom, still alive. Now we question him. You know why we question him? Because I got him in the leg. I didn't shoot him full of holes or try to jump off a building with him.
+Martin Riggs: Hey, that's no fair. The building guy lived.
 Roger Murtaugh: Why is there a problem?
 Martin Riggs: There's no problem.
 Roger Murtaugh: We got one dead girl and one dead guy. The dead guy kills the dead girl, we kill the dead guy 'cause he wanted us to be dead guys - it's pretty easy to me.
@@ -133,8 +135,6 @@ Martin Riggs: I was...
 Roger Murtaugh: Just shut up you hear, why are you talking to me anyway, I'm a dead man, yeah fuck it, you're looking a dead man here
 Martin Riggs: watch, watch, WATCH...
 Roger Murtaugh: Don't worry, I was driving before you were itching in your daddy's pants
-Roger Murtaugh: See how easy that was? Boom, still alive. Now we question him. You know why we question him? Because I got him in the leg. I didn't shoot him full of holes or try to jump off a building with him.
-Martin Riggs: Hey, that's no fair. The building guy lived.
 Roger Murtaugh: Pretty thin, huh?
 Martin Riggs: Anorexic.
 Mr. Joshua: General, Mr. Mendez is here.
@@ -217,6 +217,16 @@ Martin Riggs: Roger.
 Roger Murtaugh: What?
 Martin Riggs: Uh, 10-4.
 Martin Riggs: See you later, babe.
+Roger Murtaugh: Get that shit off my lawn!
+Roger Murtaugh: Like I said, thin.
+Martin Riggs: Probably nothing.
+Martin Riggs: What are you, a fag?
+Roger Murtaugh: Your coat's on fire!
+Martin Riggs: Probably nothing!
+Roger Murtaugh: Thin, very thin!
+Martin Riggs: What did he mean when he said you owed him?
+Roger Murtaugh: We served together in '65. Ia Drang Valley. Saved my life. Took a bayonet in the lungs.
+Martin Riggs: That was nice of him.
 Martin Riggs: Hey, you know what?
 Roger Murtaugh: What?
 Martin Riggs: Well, I think your daughter kinda likes me.
@@ -227,34 +237,30 @@ Rianne Murtaugh: Those are dimples!
 Roger Murtaugh: Those are pits. When he smiles, I can see through his head.
 Martin Riggs: Do you really wanna jump? Do you wanna? Well then thats fine with me. Come on, lets do it asshole. Let's do it. I wanna do it. I wanna do it.
 Roger Murtaugh: Looking for your general friend? He's barbecuing his nuts on Hollywood Boulevard.
-Roger Murtaugh: Get that shit off my lawn!
-Roger Murtaugh: No way you live. No way.
-Martin Riggs: How about it, Jack? Would you like a shot at the title?
-Mr. Joshua: Don't mind if I do.
-Roger Murtaugh: Like I said, thin.
-Martin Riggs: Probably nothing.
-Martin Riggs: What are you, a fag?
-Roger Murtaugh: Your coat's on fire!
-Martin Riggs: Probably nothing!
-Roger Murtaugh: Thin, very thin!
+Martin Riggs: Roger, that's a Special Forces tattoo.
+Roger Murtaugh: No kidding.
+Martin Riggs: Yeah.
+Roger Murtaugh: Special forces tattoo, mercury switches, what the hell have we gotten into?
+Martin Riggs: Yep. I wonder if there're any openings at the L.A. Fire Department.
 Martin Riggs: You're General Peter McAllister, Commander of Shadow Company.
 General McAllister: I see we've heard of each other.
 Martin Riggs: Yep. It'll almost be a shame when I nail you. I ran into some of your Shadow Company pussies in Saigon in '69.
 General McAllister: Did you?
+Roger Murtaugh: No way you live. No way.
+Martin Riggs: How about it, Jack? Would you like a shot at the title?
+Mr. Joshua: Don't mind if I do.
+Mr. Joshua: Mind if I test drive your Audi?
+Culprit: The shipment, Mr. Murtaugh.
+Roger Murtaugh: Go spit.
+Ebeneezer Scrooge: Tell me, what day is it?
+Mrs. Dilber: What day?
+Mr. Joshua: Goddamn Christmas!
 Roger Murtaugh: I'm too old for this...
 Beat Cop: Had a jumper here last night, Dixie was walking by, saw the whole thing.
 Roger Murtaugh: You got a statement from her, send her home.
 Dixie: Oh, thanks, I'm beat. You know how it is...
 Roger Murtaugh: Yeah, yeah, sure. All dressed up and no one to blow.
 Dixie: You're hilarious. God, I don't believe this...
-Martin Riggs: What did he mean when he said you owed him?
-Roger Murtaugh: We served together in '65. Ia Drang Valley. Saved my life. Took a bayonet in the lungs.
-Martin Riggs: That was nice of him.
-Martin Riggs: Roger, that's a Special Forces tattoo.
-Roger Murtaugh: No kidding.
-Martin Riggs: Yeah.
-Roger Murtaugh: Special forces tattoo, mercury switches, what the hell have we gotten into?
-Martin Riggs: Yep. I wonder if there're any openings at the L.A. Fire Department.
 Martin Riggs: Give this to your dad for me, it's a present, I don't need it anymore.
 Rianne Murtaugh: It's a bullet.
 Martin Riggs: Yeah, he'll know what it's for.
@@ -265,15 +271,9 @@ Martin Riggs: *NO!*
 Roger Murtaugh: *PLEASE!*
 Martin Riggs: NO!
 Martin Riggs: *BACK OFF!*
-Mr. Joshua: Mind if I test drive your Audi?
 Roger Murtaugh: General McAlister. Time for you to die.
-Culprit: The shipment, Mr. Murtaugh.
-Roger Murtaugh: Go spit.
 Roger Murtaugh: Hey, Riggs, you really like my wife's cookin'?
 Martin Riggs: Nope, I'll see you tomorrow.
-Ebeneezer Scrooge: Tell me, what day is it?
-Mrs. Dilber: What day?
-Mr. Joshua: Goddamn Christmas!
 Mr. Joshua: Good afternoon Mr. Mendez.
 Mendez: Yeah, how you doing?
 Mr. Joshua: Did you pat him down Mr. Larch?

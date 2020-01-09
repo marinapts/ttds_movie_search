@@ -73,6 +73,13 @@ Conklin: Where's your field box?
 Nicolette: It's right there. The system's gone haywire. That's this window right here.
 Nicolette: ...Dining room window? Damn, the phones are dead.
 Nicolette: It's Bourne, isn't it?
+Nicolette: He killed our man.
+Conklin: What, in the apartment?
+Nicolette: Yeah.
+Conklin: Well, you got to clean that up.
+Nicolette: No, I can't clean it up; there's a body in the streets.
+Conklin: So?
+Nicolette: There's police. This is Paris.
 Jason Bourne: I don't wanna know who I am any more.
 Marie: Shh.
 Jason Bourne: I don't care. I don't wanna know.
@@ -88,13 +95,6 @@ Marie: We? The only thing we had in common was that neither one of us knew who y
 Jason Bourne: Marie! Listen to me! The police will find us, and the people who took that picture in the Embassy, the people who killed Wombosi, they are going to come here and they are gonna kill us.
 Marie: The people you work for!
 Jason Bourne: I will take you wherever you need to go. I will take you there; I will leave you there. You can do whatever you want, you never have to see me again. But not here. If we stay here, we die.
-Nicolette: He killed our man.
-Conklin: What, in the apartment?
-Nicolette: Yeah.
-Conklin: Well, you got to clean that up.
-Nicolette: No, I can't clean it up; there's a body in the streets.
-Conklin: So?
-Nicolette: There's police. This is Paris.
 Ward Abbott: Can you really bring him in?
 Conklin: I think we're past that, don't you? What, do you have a better idea?
 Ward Abbott: Well, so far, you've given me nothing but a trail of collateral damage from Zurich to Paris. I don't think I could do much worse.

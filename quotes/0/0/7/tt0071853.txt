@@ -67,10 +67,6 @@ All: Amen.
 King Arthur: Right. One... two... five!
 Galahad: Three, sir.
 King Arthur: Three!
-Large Man with Dead Body: Who's that then?
-The Dead Collector: I dunno, must be a king.
-Large Man with Dead Body: Why?
-The Dead Collector: He hasn't got shit all over him.
 Sir Bedevere: There are ways of telling whether she is a witch.
 Peasant 1: Are there? Oh well, tell us.
 Sir Bedevere: Tell me. What do you do with witches?
@@ -101,6 +97,10 @@ Sir Bedevere: ...Exactly. So, logically...
 Peasant 1: If she weighed the same as a duck... she's made of wood.
 Sir Bedevere: And therefore...
 Peasant 2: ...A witch!
+Large Man with Dead Body: Who's that then?
+The Dead Collector: I dunno, must be a king.
+Large Man with Dead Body: Why?
+The Dead Collector: He hasn't got shit all over him.
 French Soldier: I don't want to talk to you no more, you empty-headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!
 1st soldier with a keen interest in birds: Who goes there?
 King Arthur: It is I, Arthur, son of Uther Pendragon, from the castle of Camelot. King of the Britons, defeater of the Saxons, Sovereign of all England!
@@ -296,15 +296,15 @@ Peasant 1: And the hat, but she is a witch!
 Crowd: Yeah! Burn her! Burn her!
 Sir Bedevere: Did you dress her up like this?
 Peasant 1: No!
-Peasant 3,Â Peasant 2: No!
+Peasant 3, Peasant 2: No!
 Peasant 3: No!
 Peasant 1: No!
-Peasant 3,Â Peasant 2: No!
+Peasant 3, Peasant 2: No!
 Peasant 1: Yes!
 Peasant 2: Yes!
 Peasant 1: Yeah, a bit.
 Peasant 3: A bit!
-Peasant 1,Â Peasant 2: A bit!
+Peasant 1, Peasant 2: A bit!
 Peasant 2: A bit!
 Peasant 1: But she has got a wart!
 Random Person in the crowd: King Arthur: You fight with the strength of many men, Sir Knight.
@@ -568,7 +568,7 @@ King of Swamp Castle: Herbert...
 Sir Robin: Would it help to confuse it if we run away more?
 King Arthur: Oh shut up and go and change your armour.
 Sir Galahad: What a strange person.
-Subtitle: Mynd you, mÃ¸Ã¸se bites Kan be pretti nasti!
+Subtitle: Mynd you, møøse bites Kan be pretti nasti!
 King Arthur: What happens now?
 Sir Bedevere: Well, now, uh, Lancelot, Galahad and I wait until nightfall and then leap out of the rabbit taking the French by surprise. Not only by surprise but totally unarmed!
 King Arthur: Who leaps out?

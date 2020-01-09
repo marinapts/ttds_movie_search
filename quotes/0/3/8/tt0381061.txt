@@ -62,9 +62,9 @@ Vesper Lynd: You're not going to let me in there, are you? You've got your armou
 James Bond: I have no armour left. You've stripped it from me. Whatever is left of me - whatever is left of me - whatever I am - I'm yours.
 Vesper Lynd: I'm the money.
 James Bond: Every penny of it.
+James Bond: The name's Bond... James Bond.
 Vesper Lynd: You love me?
 James Bond: Enough to travel the world with you until one of us has to take an honest job... which I think is going to have to be you, because I have no idea what an honest job is.
-James Bond: The name's Bond... James Bond.
 Vesper Lynd: There isn't enough room for me and your ego.
 James Bond: I always thought M was a randomly assigned initial, I had no idea it stood for...
 M: Utter one more syllable and I'll have you killed.
@@ -190,7 +190,7 @@ James Bond: How afraid?
 Solange: Oh, not enough to stop.
 Solange: Apparently, he's on the last flight to Miami. So, you have all night to question me.
 James Bond: In that case, we're gonna need - some more champagne.
-James Bond: Good evening. Can I get a bottle of chilled Bollinger Grande AnnÃ©e and the Beluga caviar?
+James Bond: Good evening. Can I get a bottle of chilled Bollinger Grande Année and the Beluga caviar?
 M: When they analyzed the stock market after 9/11, the CIA discovered a massive shorting of airline stocks. When the stocks hit bottom on 9/12, somebody made a fortune. The same thing happened this morning with SkyFleet stock, or was supposed to. With their prototype destroyed, the company would be near bankruptcy. Instead, somebody lost over $100 million betting the wrong way.
 James Bond: So you want me to be half-monk, half-hitman.
 M: Any thug can kill. I need you to take your ego out of the equation.

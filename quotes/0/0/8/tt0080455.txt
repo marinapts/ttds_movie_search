@@ -111,6 +111,7 @@ Mrs. Murphy: The Blues Brothers? Shit! They still owe you money, fool.
 Jake: Ma'am, would it make you feel any better if you knew that what we're asking Matt here to do is a holy thing?
 Elwood: You see, we're on a mission from God.
 Mrs. Murphy: Don't you blaspheme in here! Don't you blaspheme in here! This is my man, this is my restaurant, and you two are just gonna walk right out that door without your dry white toast, without your four fried chickens, and without Matt 'Guitar' Murphy!
+Elwood: This is glue. Strong stuff.
 Willie 'Too Big' Hall: So, Jake, you're out, you're free, you're rehabilitated. What's next? What's happenin'? What you gonna do? You got the money you owe us, motherfucker?
 Elwood: Shit.
 Jake: What?
@@ -118,15 +119,14 @@ Elwood: Rollers...
 Jake: No.
 Elwood: Yeah.
 Jake: Shit.
-Elwood: This is glue. Strong stuff.
 Jake: $2,000 for this chunk of shit? C'mon, Ray.
 Murph: I mean really, Ray, it's used. There's no action left in this keyboard.
 Ray: E-excuse me, uh, I don't think there's anything wrong with the action on this piano.
+Gruppenfuehrer: I've always loved you.
 Jake: Book us for tomorrow night.
 Maury Sline: Hold it, hold it. Tomorrow night? What are you talking about? A gig like that, you gotta prepare the proper exploitation.
 Elwood: I know all about that stuff. I have been exploited all my life.
 Tucker McElroy: Don't you say a fucking word!
-Gruppenfuehrer: I've always loved you.
 Mrs. Tarantino: Are you the police?
 Elwood: No ma'am. We're musicians.
 Corrections Officer: One Timex digital watch, broken. One unused prophylactic.
@@ -146,6 +146,11 @@ Mrs. Murphy: The tall one wants white bread, toasted, dry, with nothin' on it.
 Matt Murphy: Elwood.
 Mrs. Murphy: And the other one wants four whole fried chickens and a Coke.
 Matt Murphy: And Jake. Shit, the Blues Brothers!
+Elwood: Oh no.
+Jake: What the fuck was that?
+Elwood: The motor. We've thrown a rod.
+Jake: Is that serious?
+Elwood: Yup.
 Elwood: This is definitely Lower Wacker Drive! If my estimations are correct, we should be very close to the Honorable Richard J. Daley Plaza!
 Jake: That's where they got that Picasso.
 Elwood: Yep.
@@ -192,11 +197,6 @@ SWAT Team Commander: Thank you!
 Elwood: Hey you sleaze, my bed!
 Reverend Cleophus James: Praise God!
 Elwood: And God bless the United States of America!
-Elwood: Oh no.
-Jake: What the fuck was that?
-Elwood: The motor. We've thrown a rod.
-Jake: Is that serious?
-Elwood: Yup.
 Curtis: Well, the Sister was right. You boys could use a little churching up. Slide on down to the Triple Rock, and catch Rev. Cleophus. You boys listen to what he's got to say.
 Jake: Curtis, I don't want to listen to no jive-ass preacher talking to me about Heaven and Hell.
 Curtis: Jake, you get wise. You get to church.

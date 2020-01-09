@@ -182,7 +182,7 @@ Violet Parr: And this, is embarrassing, my little brother Dash, and the baby is 
 Helen Parr: We're all going to a movie too Tony, don't mind us.
 Bob Parr: We'll be sitting on the other side of the theater. Not watching you!
 Evelyn Deavor: Wha- a baby?
-Violet Parr,Â Dashiell 'Dash' Parr: Mom? Dad? Lucius?
+Violet Parr, Dashiell 'Dash' Parr: Mom? Dad? Lucius?
 Evelyn Deavor: A super baby?
 Jack-Jack Parr: Helen Parr: Huh!
 Evelyn Deavor: What? No! No! Put him down! No! Put him down!
@@ -204,7 +204,7 @@ Lucius Best: That isn't gonna hold them long, Dash grab the baby.
 Tony Rydinger: I feel kind of bad about it. Maybe I should have said "Hi" or something? It's not her fault superheroes are illegal. And it's not like I don't like strong girls. I'm pretty secure, manhood-wise.
 Bob Parr: You know where my suit and ties are?
 Helen Parr: Burned up when...
-Bob Parr,Â Helen Parr: The jet destroyed our house.
+Bob Parr, Helen Parr: The jet destroyed our house.
 Bob Parr: Hey Vi, I want you back here by 10:30.
 Violet Parr: 11-ish?
 Bob Parr: 10-ish heading for 9:30-ish...

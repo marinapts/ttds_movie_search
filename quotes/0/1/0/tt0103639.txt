@@ -75,7 +75,7 @@ Aladdin: That's better than here. You're always scraping for food and ducking th
 Princess Jasmine: You're not free to make your own choices.
 Aladdin: Sometimes you feel so...
 Princess Jasmine: You're just...
-Aladdin,Â Princess Jasmine: ...trapped.
+Aladdin, Princess Jasmine: ...trapped.
 Genie: No matter what anybody says, you'll always be a prince to me.
 Sultan: That's right! You've certainly proven your worth as far as I'm concerned. It's that law that's the problem.
 Princess Jasmine: Father?
@@ -170,7 +170,7 @@ Genie: Al, no problem. You've still got one wish left. Just say the word, and yo
 Aladdin: But, Genie, what about your freedom?
 Genie: Hey, it's only an eternity of servitude. This is love! Al, you're not gonna find another girl like her in a million years. Believe me, I know. I've looked.
 Aladdin: Hey... can you make me a prince?
-Genie: Uh, let's see. "Chicken Ã  la King"?
+Genie: Uh, let's see. "Chicken à la King"?
 Genie: Nope. "Alaskan king crab".
 Genie: Ow. I hate when they do that. "Caesar salad-"
 Genie: Aah! Et tu, Brute? No. Aha! "To make a prince."
@@ -205,7 +205,7 @@ Sultan: Well, now. That's nice. All settled then. Now, Jasmine, getting back to 
 Jafar: If only I had gotten that lamp!
 Iago: "I will have the power to get rid of you." Dahhh! To think we gotta keep kissing up to that chump, and his chump daughter, for the rest of our lives.
 Jafar: No, Iago. Only until she finds a chump husband. Then she'll have us banished. Or beheaded.
-Jafar,Â Iago: Ew.
+Jafar, Iago: Ew.
 Iago: Oh, wait a minute, wait a minute! Jafar, what if you were the chump husband?
 Jafar: What?
 Iago: Okay, okay. You marry the princess, all right? And and, uh, you. Then you become the sultan!
@@ -360,7 +360,7 @@ Aladdin: I can show you the world / Shining, shimmering, splendid / Tell me, Pri
 Princess Jasmine: A whole new world / A dazzling place I never knew / But when I'm way up here, it's crystal clear / That now I'm in a whole new world with you!
 Aladdin: Now I'm in a whole new world with you...
 Princess Jasmine: Unbelievable sights / Indescribable feeling / Soaring, tumbling, freewheeling / Through an endless diamond sky / A whole new world / A hundred thousand things to see / I'm like a shooting star, I've come so far / I can't go back to where I used to be...
-Aladdin,Â Princess Jasmine: A whole new world / With new horizons to pursue / I'll chase them anywhere, There's time to spare / Let me share this whole new world with you / A whole new world / That's where we'll be / A thrilling chase, A wondrous place / For you and me...
+Aladdin, Princess Jasmine: A whole new world / With new horizons to pursue / I'll chase them anywhere, There's time to spare / Let me share this whole new world with you / A whole new world / That's where we'll be / A thrilling chase, A wondrous place / For you and me...
 Jafar: I don't trust him, Sire.
 Sultan: Nonsense. One thing I pride myself on, Jafar, is that I'm an excellent judge of character.
 Iago: Oh, excellent judge. Yeah, sure. NOT!
@@ -378,7 +378,7 @@ Jafar: How many times do I have to kill you, boy?
 Sultan: Button up, Jafar. Learn to have a little fun!
 Genie: The boy is crazy. He's a little punch-drunk - one too many hits with the snake.
 Guard: Here you are!
-Aladdin,Â Princess Jasmine: They're after me! They're after you?
+Aladdin, Princess Jasmine: They're after me! They're after you?
 Genie: Well, l can't do any more damage around this Popsicle stand. l'm... outta here!
 Princess Jasmine: Jafar?
 Jafar: Oh... Princess.
@@ -418,7 +418,7 @@ Jafar: Shut,
 Jafar: u-uuuu-uuuu-p...
 Aladdin: A whole new world.
 Jasmine: A whole new life.
-Aladdin,Â Jasmine: For you and me.
+Aladdin, Jasmine: For you and me.
 Jafar: You are late.
 Gazeem: A thousand apologies, Oh Patient One.
 Iago: With all due respect, Your Rottenness, couldn't we just wait for a real storm?

@@ -35,7 +35,7 @@ Grumpy: See? It's witch's brew.
 Snow White: If you let me stay, I'll keep house for you. I'll wash and sew and sweep and cook.
 Dwarfs: Cook?
 Doc: Uh, can you make dapple lumplings? Er, lumple dapplings?
-Grumpy,Â Sleepy: Apple dumplings.
+Grumpy, Sleepy: Apple dumplings.
 Doc: Yes, crapple dumpkins.
 Snow White: Yes, and plum pudding and gooseberry pie.
 Dwarfs: Gooseberry pie? Hooray! She stays!

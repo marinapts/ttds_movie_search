@@ -485,7 +485,7 @@ Bullet #2: Eddie Valiant! Why, you're a sight for sore eyes.
 Bullet #1: I ain't seen you nigh onto five years.
 Bullet #2: Where've you been?
 Eddie Valiant: Drunk. You feeling frisky tonight, fellas?
-Bullet #1,Â Bullet #2: Yeah!
+Bullet #1, Bullet #2: Yeah!
 Eddie Valiant: Let's go.
 Jessica Rabbit: I suppose you think no one's going to notice Toontown's disappeared?
 Judge Doom: Who's got time to wonder what happened to some ridiculous talking mice when they're driving by at 75 miles an hour?
@@ -540,14 +540,15 @@ Angelo: Well, say hello... Harvey.
 Roger Rabbit: I told ya so.
 Lt. Santino: Just like a toon to drop a safe on a guy's head.
 Lt. Santino: Sorry, Eddie.
+Daffy Duck: I've worked with a lot of wise quackers, but you are despicable!
+Donald Duck: Doggone, stubborn, little... I'll get it! Aahh!
+Daffy Duck: This is the last time I work with someone with a speech impediment!
+Donald F. Duck: Oh yeah?
+Daffy Duck: This means war.
 Eddie Valiant: GET OUT OF THAT CHAIR!... That's my brother's chair.
 Roger Rabbit: Yeah, where is your brother anyway? He looks like a sensitive and... SOBER fellow.
 Eddie Valiant: That's it. I'm calling the cops.
 Roger Rabbit: Go ahead. Call the cops. I come here for help and what do you do? Yo turn me in. No, don't feel guilty about me. So long, and thanks for nothing.
 Eddie Valiant: That's the closet! Stupe!
 Judge Doom: WAAAAAHHHHHH! I'M MELTING! MELTING!
-Daffy Duck: I've worked with a lot of wise quackers, but you are despicable!
-Donald Duck: Doggone, stubborn, little... I'll get it! Aahh!
-Daffy Duck: This is the last time I work with someone with a speech impediment!
-Donald F. Duck: Oh yeah?
-Daffy Duck: This means war.     
+    

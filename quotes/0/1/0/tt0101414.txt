@@ -47,7 +47,7 @@ Belle: Gaston, I'm-I'm speechless. I really don't know what to say.
 Gaston: Say you'll marry me!
 Belle: I'm very sorry, Gaston but but I just don't deserve you!
 Belle: Oh, isn't this amazing / It's my favorite part because, you'll see / Here's where she meets Prince Charming / But she won't discover that it's him / 'Til chapter three.
-Cogsworth: As you can see, the pseudo-faÃ§ade was stripped away to reveal the minimalist Rococo design. Note the unusual inverted vaulted ceilings.
+Cogsworth: As you can see, the pseudo-façade was stripped away to reveal the minimalist Rococo design. Note the unusual inverted vaulted ceilings.
 Cogsworth: This is yet another example of the late neoclassic Baroque period. And, as I always say, "If it's not Baroque, don't fix it!".
 Cogsworth: As you were!
 Prince Adam: Belle it's me!
@@ -82,7 +82,7 @@ Mrs. Potts: But don't frighten the poor girl!
 Chip: Do I still have to sleep in the cupboard?
 Gaston: If I didn't know better, I'd think you had feelings for this monster.
 Belle: He's no monster Gaston. You are!
-Lumiere: Ma chÃ¨re mademoiselle. It is with deepest pride and greatest pleasure that we welcome you tonight. And now, we invite to relax, let us pull up a chair, as the dining room proudly presents your dinner.
+Lumiere: Ma chère mademoiselle. It is with deepest pride and greatest pleasure that we welcome you tonight. And now, we invite to relax, let us pull up a chair, as the dining room proudly presents your dinner.
 Cogsworth: Enchanted? Ha-ha ha-ha! Who said anything about the castle being enchanted? Ha-ha-ha.
 Cogsworth: It was you, wasn't it?
 Beast: Who are you? What are you doing here?
@@ -96,12 +96,12 @@ Maurice: Please, I meant no harm. I-I just need a place to stay.
 Beast: I'll give you a place to stay.
 Maurice: No, no! Please! Don't, no!
 Lumiere: Be our guest, be our guest, put our service to the test / Tie your napkin round your waist, cheri, and let us provide the rest / Soup du jour? Hors d'oeuvres? Why, we only live to serve / Try the gray stuff, it's delicious! Don't believe me? Ask the dishes! / They can sing, they can dance, after all, Miss, this is France / And a dinner here is never second best / Come on, unfold our menu, / Take a glance and then you / will be our guest / Oui, our guest, Be our guest!
-Lumiere: Beef ragoune, cheese soufflÃ©, pie and pudding en flambÃ© / We'll prepare and serve with flair, a culinary cabaret / You're alone and you're scared, but the banquet's all prepared / No one's gloomy or complaining, while the flatware's entertaining / We tell jokes, I do tricks, with my fellow candlesticks / And it's all in perfect taste, that you can bet! / Come on and fill your glass / You've won your own free pass / To be our guest / If you're stressed, it's fine dining we suggest! Be our guest, be our guest, be our guest!
+Lumiere: Beef ragoune, cheese soufflé, pie and pudding en flambé / We'll prepare and serve with flair, a culinary cabaret / You're alone and you're scared, but the banquet's all prepared / No one's gloomy or complaining, while the flatware's entertaining / We tell jokes, I do tricks, with my fellow candlesticks / And it's all in perfect taste, that you can bet! / Come on and fill your glass / You've won your own free pass / To be our guest / If you're stressed, it's fine dining we suggest! Be our guest, be our guest, be our guest!
 Lumiere: Life is so unnerving, for a servant who's not serving / He's not whole, without a soul, to wait upon! Ah, those good old days when we were useful... suddenly those good old days are gone / Ten years we've been rusting, needing so much more than dusting / Needing exercise, a chance to use our skill! / Most days, we just lay around the castle / Flabby fat and lazy, then you walked in and oops-a-daisy!
 Mrs. Potts: It's a guest! It's a guest! Sakes alive and I'll be blessed! / Wine's been poured, and thank the Lord I've had the napkins freshly pressed / With dessert, she'll want tea, and my dear, that's fine with me / While the cups do their soft-shoeing I'll be bubbling, I'll be brewing / I'll get warm, piping hot... Heaven's sakes, is that a spot? / Clean it up! We want the company impressed! / We've got a lot to do! / Is it one lump or two? / For our guest! She's our guest!
 Chorus: Be our guest! Be our guest! Our command is your request! / It's been ten years since we had anybody here, and we're obsessed! / With your meal, with your ease, yes indeed, we aim to please / While the candlelight's still glowing, let us help you, we'll keep going...
-Lumiere,Â Mrs. Potts,Â Chorus: Course by course! One by one! / Till you shout "Enough! I'm done!" / And we send you off to sleep as you digest! / Tonight, you'll prop your feet up / But for now let's eat up / Be our guest! Be our guest! Be our guest! Please be our guest!
-Lumiere: VoilÃ ! Oh, you look so, so...
+Lumiere, Mrs. Potts, Chorus: Course by course! One by one! / Till you shout "Enough! I'm done!" / And we send you off to sleep as you digest! / Tonight, you'll prop your feet up / But for now let's eat up / Be our guest! Be our guest! Be our guest! Please be our guest!
+Lumiere: Voilà! Oh, you look so, so...
 Beast: Stupid.
 Lumiere: Not quite the word I was looking for. Perhaps a little more off the top.
 Cogsworth: Your lady awaits.
@@ -113,7 +113,7 @@ Mrs. Potts: But be gentle.
 Lumiere: Shower her with compliments.
 Mrs. Potts: But be sincere.
 Lumiere: And above all.
-Lumiere,Â Mrs. Potts: You must control your temper!
+Lumiere, Mrs. Potts: You must control your temper!
 Gaston: Hello, Belle!
 Belle: Bonjour, Gaston. Gaston, may I have my book, please?
 Gaston: How can you read this? There's no pictures!
@@ -138,7 +138,7 @@ Belle: Please stop.
 Beast: Get out!
 Belle: No!
 Beast: Get out!
-Gaston,Â Lefou: No one plots like Gaston.
+Gaston, Lefou: No one plots like Gaston.
 Gaston: Takes cheap shots like Gaston.
 Lefou: Plans to persecute harmless crackpots like Gaston!
 Gaston: I use antlers in all of my decorating!
@@ -248,7 +248,7 @@ Beast: It doesn't matter now. Just let them come.
 Cogsworth: Sir, close that at once! Do you mind?
 Additional Voice: I need six eggs.
 Additional Voice: That's too expensive!
-Villagers: It's know no wonder that her name means beauty / her looks have got no parallel / But behind that fair faÃ§ade / I'm afraid she's rather odd / Very different from the rest of us / She's nothing like the rest of us / Yes, different from the rest of us is Belle.
+Villagers: It's know no wonder that her name means beauty / her looks have got no parallel / But behind that fair façade / I'm afraid she's rather odd / Very different from the rest of us / She's nothing like the rest of us / Yes, different from the rest of us is Belle.
 Belle: Papa?
 Maurice: How on earth did that stupid, gone it!
 Belle: Are you alright papa?

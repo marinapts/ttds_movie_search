@@ -330,7 +330,7 @@ Spider-Man Noir: It's that easy.
 Spider-Man Noir: My name is Peter Parker.
 Peni Parker: My name is Peni Parker.
 Spider-Ham: My name is Peter Porker.
-Spider-Man Noir,Â Peni Parker: I was bitten by a radioactive spider.
+Spider-Man Noir, Peni Parker: I was bitten by a radioactive spider.
 Spider-Ham: I was bitten by a radioactive pig.
 Spider-Man Noir: In my universe, it's 1933, and I'm a private eye. I like to drink egg creams, and I like to fight Nazis. A lot.
 Peter B. Parker: So, uh, how did you get here?

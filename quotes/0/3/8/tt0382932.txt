@@ -51,13 +51,13 @@ Linguini: You know who know, do, whacka-do. Ratta-tatta - Hey, why do they call 
 Skinner: What?
 Linguini: Ratatouille. It's like a stew, right? Why do they call it that? If you're gonna name a food, you should give it a name that sounds delicious. Ratatouille doesn't sound delicious. It sounds like "rat" and "patootie." Rat patootie! Which does not sound delicious.
 Skinner: Regrettably, we are all... out... of wine.
-Remy: Creamy, salty-sweet, an oaky nuttiness... You detect that?
-Emile: Oh, I'm detecting nuttiness...
 Emile: W-w-wait. You... read?
 Remy: Well, not... excessively.
 Emile: Oh, man. Does dad know?
 Remy: You could fill a book - a lot of books - with things Dad doesn't know. And they have. Which is why I read. Which is also our secret.
 Emile: I don't like secrets. All this cooking and-and reading and TV-watching, while we... read, and... cook. It's like you're involving me in crime, and I let you. Why do I let you?
+Remy: Creamy, salty-sweet, an oaky nuttiness... You detect that?
+Emile: Oh, I'm detecting nuttiness...
 Linguini: Don't look at me like that! You aren't the only one who's trapped, they expect me to cook it again! I mean, I'm not ambitious, I wasn't trying to cook, I was just trying to stay out of trouble! You're the one who was gettin' fancy with the spices! What'd you throw in there, oregano? No? What, rosemary? That's a spice isn't it, rosemary? You didn't put rosemary in? Then what was all the flipping and... the throwing the...
 Linguini: I need this job. I've lost so many. I don't know how to cook and now I'm actually talking to a rat as if you...
 Linguini: Did you nod? Have you been nodding?
@@ -81,11 +81,6 @@ Colette: Only me. Why do you think that is? Because haute cuisine is an antiquat
 Linguini: Well because, because you...
 Colette: Because I am the toughest cook in this kitchen! I have worked too hard for too long to get here, and I am *not* going to jeopardize it for some garbage boy who got lucky! Got it?
 Linguini: Wow!
-Remy: This is me. I think it's apparent that I need to rethink my life a little bit. What's my problem? First of all, I'm a rat. Which means, life is hard. Second, I have a highly developed sense of taste and smell.
-Linguini: Thank you, by the way, for all the advice about cooking.
-Colette: Thank you, too.
-Linguini: For - for what?
-Colette: For taking it!
 Skinner: Look at him out there, pretending to be an idiot! He's toying with my mind like a cat with a ball... of something!
 Lawyer: String?
 Skinner: Yes! Playing dumb, taunting me with that RAT!
@@ -104,6 +99,17 @@ Linguini: Uh... excuse me a moment?
 Anton Ego: You must be the chef...
 Colette: If you wish to meet the chef, you will have to wait, until all the other customer have gone.
 Anton Ego: So be it.
+Remy: This is me. I think it's apparent that I need to rethink my life a little bit. What's my problem? First of all, I'm a rat. Which means, life is hard. Second, I have a highly developed sense of taste and smell.
+Linguini: Thank you, by the way, for all the advice about cooking.
+Colette: Thank you, too.
+Linguini: For - for what?
+Colette: For taking it!
+Skinner: Have you ever had a pet rat?
+Linguini: No.
+Skinner: Did you work in a lab with rats?
+Linguini: Nooope.
+Skinner: Perhaps you lived in squalor at some point?
+Linguini: Nopity, nopity noo.
 Remy: Flour, eggs, sugar... vanilla bean... Oh, small twist of lemon.
 Emile: Whoa! You can smell all that? You have a gift!
 Remy: This is Emile, my brother. He's easily impressed.
@@ -122,24 +128,60 @@ Remy: I'm hungry! I don't know where I am and I don't know when I'll find food a
 Gusteau: Remy, you are better than that. You are a cook! A cook makes! A thief takes. You are not a thief.
 Remy: But I *am* hungry.
 Gusteau: Food will come, Remy. Food always comes to those who love to cook.
-Linguini: Bonjour, ma chÃ©rie. Join us. We were just talking about my inspiration.
+Linguini: Bonjour, ma chérie. Join us. We were just talking about my inspiration.
 Colette: Yes, he calls it his tiny chef.
 Linguini: Not that, dearest, I meant you.
 Gusteau: What do I always say? Anyone can cook!
 Remy: Well, yeah, anyone *can*, that doesn't mean that anyone *should*.
-Skinner: Have you ever had a pet rat?
-Linguini: No.
-Skinner: Did you work in a lab with rats?
-Linguini: Nooope.
-Skinner: Perhaps you lived in squalor at some point?
-Linguini: Nopity, nopity noo.
+Skinner: You are COOKING? How DARE you cook in MY kitchen! Where do get the gall to attempt something so monumentally idiotic? I should have you drawn and quartered! I'll do it! I think the law is on my side! Larousse, draw and quarter this man! *After* you put him in the duck press to squeeze the fat out of his head!
+Linguini: Oh no no no, OH NO, don't let them, don't eat...
+Skinner: What are you blathering about?
+Linguini: ...the soup!
+Skinner: Soup? Stop that soup! Noooooooo!
+Solene LeClaire: Waiter!
+Skinner: Linguini! You're fired! F-I-R-E-D! Fired!
+Mustafa: She wants to see the chef.
+Mustafa: B-but he...
+Colette: What did the customer say?
+Mustafa: It was not a customer. It was a critic.
+Colette: Ego?
+Skinner: Solene LeClaire.
+Colette: LeClaire. What did she say?
+Mustafa: She likes the soup.
 Remy: What are you eating?
 Emile: I don't really know. I think it was some sort of wrapper once.
 Remy: What? No! You're in Paris now, baby! My town! No brother of mine eats rejecta-menta in my town!
 Skinner: Toasting your success, eh, Linguini? Good for you.
 Linguini: Oh, I just took it to be polite. I don't really drink, you know.
-Skinner: Oh, of course you don't. I wouldn't either if I was drinking *that*. But you would have to be an idiot of elephantine proportions not to appreciate this '61 ChÃ¢teau Latour, and you, Monsieur Linguini, are no idiot. Let us toast your non-idiocy!
+Skinner: Oh, of course you don't. I wouldn't either if I was drinking *that*. But you would have to be an idiot of elephantine proportions not to appreciate this '61 Château Latour, and you, Monsieur Linguini, are no idiot. Let us toast your non-idiocy!
+Larousse: Hey, boss, look who it is! Alfredo Linguini! Renata's little boy! All grown up, eh? You remember Renata. Gusteau's old flame?
+Skinner: Ah, yes. How are you, uh...
+Larousse: Linguini.
+Skinner: Yes, Linguini, so nice of you to visit. How is, uh...?
+Linguini: My mother?
+Skinner: Yes...
+Larousse: Renata.
+Skinner: Yes, Renata. How is she?
+Linguini: Good... well, not... good... She's been better. She's, uh... she...
+Horst: She died.
+Skinner: Oh, uh, I'm sorry.
+Linguini: Well, don't be. She believed in Heaven, so she's covered... you know, afterlife-wise? Uh...
+Skinner: What is this?
+Linguini: She left it for you. I think she hoped it would help... me. You know, get a job... Here?
+Skinner: Surely you don't expect me to believe this is your first time cooking?
+Linguini: It's not.
+Skinner: I KNEW IT!
+Linguini: It's my... second, third, fourth, fifth time. Monday was my first time. But I've taken out the garbage lots of times before that...
+Skinner: Yes, yes, yes, have some more wine.
 Django: Food is fuel. You get picky about what you put in the tank, your engine is gonna die. Now shut up and eat your garbage.
+Remy: The key is to keep turning it. Get the smoky flavor niiice and even...
+Emile: That storm's getting closer. Hey, Remy? You think that maybe we shouldn't be so...
+Remy: Whoa, you gotta taste this! This is... oh, it's got this kind of... mmm, it's burny, melty... it's not really a smoky taste. It's more like a certain... Pshew! It's got like this "Ba-boom! Zap!" kind of taste. Don't you think? What would you call that flavor?
+Emile: Lightning-y?
+Remy: Yeah! It's lightning-y! Oh, we gotta do that again! Okay, when the next storm comes, we'll go up on the roof... I know what this needs! Saffron. A little saffron would make this!
+Emile: Saffron. Why do I get the feeling...
+Remy, Emile: It's in the kitchen.
+Remy: If you are what you eat, then I only want to eat the good stuff.
 Lawyer: Well, the will stipulates that if after two years from the date of death, no heir appears, Gusteau's business will pass on to his sous-chef, you.
 Skinner: I know what the will stipulates! What I want to know, is if this letter - if this *boy* changes anything!
 Lawyer: There's not much resemblance.
@@ -172,21 +214,10 @@ Django: Where are you going?
 Remy: Back to the restaraunt! They'll fail without me!
 Django: Why do you care?
 Remy: Because I'm a cook!
-Skinner: You are COOKING? How DARE you cook in MY kitchen! Where do get the gall to attempt something so monumentally idiotic? I should have you drawn and quartered! I'll do it! I think the law is on my side! Larousse, draw and quarter this man! *After* you put him in the duck press to squeeze the fat out of his head!
-Linguini: Oh no no no, OH NO, don't let them, don't eat...
-Skinner: What are you blathering about?
-Linguini: ...the soup!
-Skinner: Soup? Stop that soup! Noooooooo!
-Solene LeClaire: Waiter!
-Skinner: Linguini! You're fired! F-I-R-E-D! Fired!
-Mustafa: She wants to see the chef.
-Mustafa: B-but he...
-Colette: What did the customer say?
-Mustafa: It was not a customer. It was a critic.
-Colette: Ego?
-Skinner: Solene LeClaire.
-Colette: LeClaire. What did she say?
-Mustafa: She likes the soup.
+Colette: How do you tell how good bread is without tasting it? Not the smell, not the look, but the *sound* of the crust. Listen.
+Colette: Oh, symphony of crackle. Only great bread sound this way.
+Colette: The only way to get the best produce is to have first pick of the day, and there are only two way to get first pick. Grow it yourself, or bribe a grower. Voilà! The best restaurant get first pick.
+Colette: People think haute cuisine is snooty. So chef must also be snooty. But not so. Lalo there? Ran away from home at twelve. Got hired by circus people as an acrobat. And then, he get fired for messing around with the ringmaster's daughter.
 Skinner: The soup! Where is the soup? Out of my way. Move it, garbage boy!
 Skinner: You are COOKING? How DARE you cook in MY kitchen! Where do you get the gall to even attempt something so monumentally idiotic? I should have you drawn and quartered! I'll do it! I think the law is on my side! Larousse, draw and quarter this man - after you put him in the duck press to squeeze the fat out of his head!
 Django: Now don't you feel better, Remy? Eh? You've helped a noble cause.
@@ -198,34 +229,7 @@ Linguini: What should I do now?
 Skinner: Kill it!
 Linguini: Now?
 Skinner: No, not in the kitchen! Are you mad?
-Larousse: Hey, boss, look who it is! Alfredo Linguini! Renata's little boy! All grown up, eh? You remember Renata. Gusteau's old flame?
-Skinner: Ah, yes. How are you, uh...
-Larousse: Linguini.
-Skinner: Yes, Linguini, so nice of you to visit. How is, uh...?
-Linguini: My mother?
-Skinner: Yes...
-Larousse: Renata.
-Skinner: Yes, Renata. How is she?
-Linguini: Good... well, not... good... She's been better. She's, uh... she...
-Horst: She died.
-Skinner: Oh, uh, I'm sorry.
-Linguini: Well, don't be. She believed in Heaven, so she's covered... you know, afterlife-wise? Uh...
-Skinner: What is this?
-Linguini: She left it for you. I think she hoped it would help... me. You know, get a job... Here?
-Skinner: Surely you don't expect me to believe this is your first time cooking?
-Linguini: It's not.
-Skinner: I KNEW IT!
-Linguini: It's my... second, third, fourth, fifth time. Monday was my first time. But I've taken out the garbage lots of times before that...
-Skinner: Yes, yes, yes, have some more wine.
-Remy: The key is to keep turning it. Get the smoky flavor niiice and even...
-Emile: That storm's getting closer. Hey, Remy? You think that maybe we shouldn't be so...
-Remy: Whoa, you gotta taste this! This is... oh, it's got this kind of... mmm, it's burny, melty... it's not really a smoky taste. It's more like a certain... Pshew! It's got like this "Ba-boom! Zap!" kind of taste. Don't you think? What would you call that flavor?
-Emile: Lightning-y?
-Remy: Yeah! It's lightning-y! Oh, we gotta do that again! Okay, when the next storm comes, we'll go up on the roof... I know what this needs! Saffron. A little saffron would make this!
-Emile: Saffron. Why do I get the feeling...
-Remy,Â Emile: It's in the kitchen.
 Linguini: That's strangely involuntareeee!
-Remy: If you are what you eat, then I only want to eat the good stuff.
 Colette: Sweetbread a la Gusteau: Sweetbread cooked in a seaweed salt crust with cuttlefish tentacle, dog rose puree, geoduck egg, dried white fungus? Anchovy licorice sauce... Uh, I don't know this recipe, but it's Gusteau, so...
 Colette: Lalo! We have some veal stomach soaking, yes?
 Lalo: Yes, veal stomach, I get that.
@@ -258,13 +262,8 @@ Colette: So you see, we are artist, pirate. More than cooks are we.
 Linguini: We?
 Colette: Oui. You are one of us now, oui?
 Linguini: Oui.
-Skinner: I will have whatever he is having.
 Gusteau: How can I describe it? Good food is like music you can taste, color you can smell. There is excellence all around you. You need only to be aware to stop and savor it.
 Remy: Oh, Gusteau was right. Oh, mmm, yeah. Each flavor was totally unique. But, combine one flavor with another, and something new was created!
-Colette: How do you tell how good bread is without tasting it? Not the smell, not the look, but the *sound* of the crust. Listen.
-Colette: Oh, symphony of crackle. Only great bread sound this way.
-Colette: The only way to get the best produce is to have first pick of the day, and there are only two way to get first pick. Grow it yourself, or bribe a grower. VoilÃ ! The best restaurant get first pick.
-Colette: People think haute cuisine is snooty. So chef must also be snooty. But not so. Lalo there? Ran away from home at twelve. Got hired by circus people as an acrobat. And then, he get fired for messing around with the ringmaster's daughter.
 Gusteau: If you are hungry, go up and look around, Remy. Why do you wait and mope?
 Remy: Well, I just lost my family. All my friends. Probably forever.
 Gusteau: How do you know?
@@ -278,7 +277,7 @@ Linguini: Always do something unexpected.
 Colette: No. Follow the recipe.
 Linguini: But you just said that...
 Colette: No-no-no-no. It was *his* job to be unexpected. It is *our* job to...
-Colette,Â Linguini: ... follow the recipe.
+Colette, Linguini: ... follow the recipe.
 Linguini: This is not gonna work, Little Chef! I'm gonna lose it if we do this any more. We gotta, we gotta figure out something else. Something that doesn't involve any biting, or nipping, or running up and down my body with your little rat feet. Biting: no! Scampering: no! No scampering or scurrying, understand Little Chef?
 Linguini: Ngaah! Why is it so hard to talk to you? Okay! Here we go! You inspire me. I'm going to risk it all! I'm going to risk looking like the biggest idiot psycho you've ever seen! You wanna know why I'm such a fast learner? Why I'm such a great cook? Don't laugh! I'm going to show you...
 Skinner: You are either very lucky or very unlucky. You will make the soup again, and this time I'll be paying attention. Very close attention. They think you might be a cook. But you know what I think, Linguini? I think you're a sneaky, overreaching little...
@@ -344,6 +343,7 @@ Ambrister Minion: Yes.
 Anton Ego: That is where I left it. That was my last word - THE last word.
 Ambrister Minion: Yes.
 Anton Ego: Then tell me, Ambrister, how could it be POPULAR?
+Skinner: I will have whatever he is having.
 Linguini: So this is it. It's not much but it's, y'know... not much.
 Emile: But we're supposed to return to the colony before sundown or, you know, Dad's gonna...
 Remy: Emile! There are possibilities unexplored here. We got to cook this. Now, exactly how we cook this is the real question...
@@ -383,7 +383,7 @@ Skinner: Coming down the line.
 Colette: Set. Hot. Open oven.
 Skinner: Coming around.
 Colette: Oui, chef. One filet mignon, three lamb, two duck.
-Skinner: Fire those soufflÃ©s for table six, ja?
+Skinner: Fire those soufflés for table six, ja?
 Colette: Five minutes, chef.
 Remy: Oh, God.
 Mustafa: Tonight, I'd like to present the foie gras. It has a wonderful finish.

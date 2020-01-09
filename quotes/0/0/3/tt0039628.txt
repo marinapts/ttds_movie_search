@@ -17,7 +17,7 @@ Mr. R. H. Macy: You're fired.
 Fred Gailey: Your Honor, every one of these letters is addressed to Santa Claus. The Post Office has delivered them. Therefore the Post Office Department, a branch of the Federal Governent, recognizes this man Kris Kringle to be the one and only Santa Claus.
 Judge Henry X. Harper: Uh, since the United States Government declares this man to be Santa Claus, this court will not dispute it. Case dismissed.
 Charles Halloran: All right, you go back and tell them that the New York State Supreme Court rules there's no Santa Claus. It's all over the papers. The kids read it and they don't hang up their stockings. Now what happens to all the toys that are supposed to be in those stockings? Nobody buys them. The toy manufacturers are going to like that; so they have to lay off a lot of their employees, union employees. Now you got the CIO and the AF of L against ya and they're going to adore ya for it and they're going to say it with votes. Oh, and the department stores are going to love ya too and the Christmas card makers and the candy companies. Ho ho, Henry, you're going to be an awful popular fella. And what about the Salvation Army? Why, they got a Santy Claus on every corner, and they're taking a fortune. But you go ahead Henry, you do it your way. You go on back in there and tell them that you rule there is no Santy Claus. Go on. But if you do, remember this: you can count on getting just two votes, your own and that district attorney's out there.
-Judge Henry X. Harper: The DA's a Republican.
+Judge Henry X. Harper: The District Attorney's a Republican.
 Fred Gailey: All my life I've wondered something, and now's my chance to find out. I'm going to find the answer to a question that's puzzled the world for centuries. Does Santa Claus sleep with his whiskers outside or in?
 Kris Kringle: Always sleep with them out. Cold air makes them grow.
 Fred: That baseball player sure looks like a giant to me.
@@ -78,5 +78,6 @@ Dutch Girl: O, u bent Sinterklaas!
 Kris Kringle: Jazeker!
 Dutch Girl: Ik wist dat u het zou begrijpen!
 Kris Kringle: Natuurlijk! Zeg maar wat je zou willen hebben.
-Dutch Girl: Niets. Ik heb van alles. Ik wil allÃ©Ã©n maar bij deze lieve dame zijn.
-Fred Gailey: We intend to prove that Mr. Kringle *is* Santa Claus.     
+Dutch Girl: Niets. Ik heb van alles. Ik wil alléén maar bij deze lieve dame zijn.
+Fred Gailey: We intend to prove that Mr. Kringle *is* Santa Claus.
+District Attorney: Your honor, the State of New York concedes the existence of Santa Claus.     

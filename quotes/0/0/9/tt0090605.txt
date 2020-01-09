@@ -75,24 +75,6 @@ Newt: It won't make any difference.
 Private Frost: Hot as hell in here.
 Private Hudson: Yeah man, but it's a dry heat!
 Private Hudson: Hey, maybe you haven't been keeping up on current events, but we just got our asses kicked, pal!
-Private Hudson: I say we grease this rat-fuck son-of-a-bitch right now.
-Corporal Hicks: It just doesn't make any goddamn sense.
-Ripley: He figured that he could get an alien back through quarantine, if one of us was... impregnated... whatever you call it, and then frozen for the trip home. Nobody would know about the embryos we were carrying... me and Newt.
-Corporal Hicks: Wait a minute, now... we'd all know.
-Ripley: Yes. The only way he could do it is if he sabotaged certain freezers on the way home... namely, yours. Then he could jettison the bodies and make up any story he liked.
-Private Hudson: Fuck. He's dead. You're dog-meat, pal!
-Burke: This is so nuts. I mean, listen - listen to what you're saying. It's paranoid delusion. How - It's really sad. It's pathetic.
-Ripley: You know, Burke, I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage.
-Corporal Hicks: All right, we waste him. No offense.
-Ripley: No. He's gotta go back.
-Private Vasquez: You always were an asshole, Gorman!
-Bishop: Is there a problem?
-Burke: I'm sorry. I don't know why I didn't even... Ripley's last trip out, the syn- the artificial person malfunctioned.
-Ripley: "Malfunctioned"?
-Burke: There were problems and a-a few deaths were involved.
-Bishop: I'm shocked. Was it an older model?
-Burke: Yeah, the Hyperdine System's 120-A2.
-Bishop: Well, that explains it then. The A2s always were a bit twitchy. That could never happen now with our behavioral inhibitors. It is impossible for me to harm or by omission of action, allow to be harmed, a human being.
 Private Vasquez: All right. We got seven canisters of CM-20. I say we roll them in there and nerve gas the whole fuckin' nest.
 Corporal Hicks: It's worth the try, but we don't know if that's gonna affect them.
 Private Hudson: Look let's just bug out and call it even, okay? What are we even talking about this for?
@@ -117,6 +99,24 @@ Corporal Hicks: Prepare for dust-off. We're gonna need immediate evac.
 Corporal Ferro: Roger. On our way.
 Corporal Hicks: I say we take off, nuke the site from orbit.
 Corporal Hicks: It's the only way to be sure.
+Private Hudson: I say we grease this rat-fuck son-of-a-bitch right now.
+Corporal Hicks: It just doesn't make any goddamn sense.
+Ripley: He figured that he could get an alien back through quarantine, if one of us was... impregnated... whatever you call it, and then frozen for the trip home. Nobody would know about the embryos we were carrying... me and Newt.
+Corporal Hicks: Wait a minute, now... we'd all know.
+Ripley: Yes. The only way he could do it is if he sabotaged certain freezers on the way home... namely, yours. Then he could jettison the bodies and make up any story he liked.
+Private Hudson: Fuck. He's dead. You're dog-meat, pal!
+Burke: This is so nuts. I mean, listen - listen to what you're saying. It's paranoid delusion. How - It's really sad. It's pathetic.
+Ripley: You know, Burke, I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage.
+Corporal Hicks: All right, we waste him. No offense.
+Ripley: No. He's gotta go back.
+Private Vasquez: You always were an asshole, Gorman!
+Bishop: Is there a problem?
+Burke: I'm sorry. I don't know why I didn't even... Ripley's last trip out, the syn- the artificial person malfunctioned.
+Ripley: "Malfunctioned"?
+Burke: There were problems and a-a few deaths were involved.
+Bishop: I'm shocked. Was it an older model?
+Burke: Yeah, the Hyperdine System's 120-A2.
+Bishop: Well, that explains it then. The A2s always were a bit twitchy. That could never happen now with our behavioral inhibitors. It is impossible for me to harm or by omission of action, allow to be harmed, a human being.
 Lieutenant Gorman: I thought you never missed, Bishop.
 Ripley: You never said anything about an android being on board! Why not?
 Burke: Pff, it never... never occurred to me. It's just common practice. We always have a synthetic on board.
@@ -173,7 +173,7 @@ Lieutenant Gorman: So?
 Ripley: So, if they fire their weapons in there, won't they rupture the cooling system?
 Burke: Ho, ho, ho. Yeah, she's absolutely right.
 Lieutenant Gorman: So? So what?
-Burke: Look, this whole station is basically a big fusion reactor, right? So you're talkin' about a thermonuclear explosion and adiÃ³s, muchachos.
+Burke: Look, this whole station is basically a big fusion reactor, right? So you're talkin' about a thermonuclear explosion and adiós, muchachos.
 Lieutenant Gorman: Oh, great. Wonderful. Shit!
 Lieutenant Gorman: Drake, check your camera. There seems to be a malfunction.
 Lieutenant Gorman: That's better.

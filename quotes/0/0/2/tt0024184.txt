@@ -3,6 +3,7 @@ The Invisible Man: An invisible man can rule the world. Nobody will see him come
 The Invisible Man: The drugs I took seemed to light up my brain. Suddenly I realized the power I held, the power to rule, to make the world grovel at my feet.
 The Invisible Man: We'll begin with a reign of terror, a few murders here and there, murders of great men, murders of little men - well, just to show we make no distinction. I might even wreck a train or two... just these fingers around a signalman's throat, that's all.
 The Invisible Man: There is no need to be afraid, Kemp. We are partners.
+Old Man: It's a conjuring trick, that's what it is. I saw a fellow make a peanut disappear once.
 Man in Pub: Did you hear about Mrs. Mason's little Willy? Sent him to school and found him buried ten-foot deep in a snow drift.
 Man in Pub # 2: How did they get him out?
 Man in Pub: Brought the fire engine 'round, put the hose pipe in, pumped it backwards and sucked him out.
@@ -17,8 +18,13 @@ The Invisible Man: There's a souvenior for you, and one for you. I'll show you w
 Const. Jaffers: Look! He's all eaten away!
 The Invisible Man: Eh? How do you like that, ay?
 The Invisible Man: And if you try and escape by the window, I shall follow you, and no one in the world can save you.
-Old Man: It's a conjuring trick, that's what it is. I saw a fellow make a peanut disappear once.
 Insp. Bird: Where are you speaking from, Jaffers? Lion's Head Inn, eh? Did you say an invisible man? Well, look here! You put more water in it next time!
+The Invisible Man: I hope your car's insured, Kemp. I'm afraid there's going to be a nasty accident in a minute. A very nasty accident!
+Dr. Kemp: Griffin, I'll do anything! Everything you ask me!
+The Invisible Man: You will? That's fine. Just sit where you are. I'll get out and take the handbrake off and give you a little shove to help you on. You'll run gently down and through the railings, then you'll have a big thrill for a hundred yards or so till you hit a boulder, then you'll do a somersault and probably break your arms, then a grand finish up with a broken neck! Well, goodbye, Kemp. I always said you were a dirty little coward. You're a dirty sneaking little rat as well. Goodbye.
+The Invisible Man: Put a warm rug in the car. It's cold outside when you have to go about naked.
+The Invisible Man: Leave that alone and get out of here!
+Herbert Hall: Look here, is this my house or yours?
 Villager: I was walkin' home to me lunch, sir, when, all of a sudden, something takes hold of me hat and throws it in the pond.
 Insp. Bird: How many drinks did you have on your way home?
 Villager: Only a couple, sir. That's all.
@@ -37,18 +43,7 @@ The Invisible Man: I knew you'd come for me, Flora. I wanted to come back to you
 Flora Cranley: Father, come quickly.
 Dr. Kemp: 10 o'clock. 10 o'clock, he wanted to murder me!
 The Invisible Man: I think this will do nicely, Kemp. We'll stop here. It's 10 o'clock. I came with you to keep my promise.
-The Invisible Man: I hope your car's insured, Kemp. I'm afraid there's going to be a nasty accident in a minute. A very nasty accident!
-Dr. Kemp: Griffin, I'll do anything! Everything you ask me!
-The Invisible Man: You will? That's fine. Just sit where you are. I'll get out and take the handbrake off and give you a little shove to help you on. You'll run gently down and through the railings, then you'll have a big thrill for a hundred yards or so till you hit a boulder, then you'll do a somersault and probably break your arms, then a grand finish up with a broken neck! Well, goodbye, Kemp. I always said you were a dirty little coward. You're a dirty sneaking little rat as well. Goodbye.
 The Invisible Man: They've asked for it, the country bumpkins. This will give them a bit of a shock, something to write home about. A nice bedtime story for the kids, too, if they want it.
-The Invisible Man: Here I am. Aren't you pleased you found me?
-Jenny Hall: A bottle of Bass, Herbert.
-Herbert Hall: Here you are, dear.
-The Invisible Man: Put a warm rug in the car. It's cold outside when you have to go about naked.
-The Invisible Man: You're a true friend, Kemp, a man to trust. I've no time now but, believe me, as surely as the moon will set and the sun will rise I shall kill you tomorrow night. I shall kill you even if you hide in the deepest cave of the Earth. At ten o'clock tomorrow night, I shall kill you!
-The Invisible Man: I'm frozen. Cold enough to freeze the icicles off an Eskimo.
-The Invisible Man: Leave that alone and get out of here!
-Herbert Hall: Look here, is this my house or yours?
 Dr. Cranley: Monocane is a terrible drug.
 Dr. Kemp: I never heard of it.
 Dr. Cranley: You wouldn't, Kemp. It's never used now. I didn't know it was even made. It's a drug that's made from a flower that's grown in India. It draws color from everything it touches. Years ago they tried it for bleaching cloth. They gave it up because it destroyed the material.
@@ -60,7 +55,15 @@ Dr. Kemp: You surely don't think...
 Dr. Cranley: I only pray to God that Griffin hasn't been meddling with this ghastly stuff.
 Dr. Kemp: He'd never touch a thing with madness in it.
 Dr. Cranley: He might not know. I found that experiment in an old German book, just by chance. The English books only describe the bleaching power. They were printed BEFORE the German experiment.
+The Invisible Man: Here I am. Aren't you pleased you found me?
 The Invisible Man: "Here we go gathering nuts in may / nuts in may / nuts in may / here we go gathering nuts in may / on a cold and frosty morning."
+Jenny Hall: A bottle of Bass, Herbert.
+Herbert Hall: Here you are, dear.
+The Invisible Man: There are one or two things you must understand, Kemp. I must always remain in hiding for an hour after meals. The food is visible inside me until it is digested. I can only work on fine, clear days. If I work in the rain, the water can be seen on my head and shoulders. In a fog, you can see me - like a bubble. In smoky cities, the soot settles on me until you can see a dark outline. You must always be near at hand to wipe off my feet. Even dirt between my fingernails would give me away. It is difficult at first to walk down stairs. We are so accustomed to watching our feet. But, these are trivial difficulties. We shall find ways of defeating everything.
+The Invisible Man: I meant to come back just as I was when you saw me last, but the fools wouldn't let me work in peace. I had to teach them a lesson.
+The Invisible Man: You're a true friend, Kemp, a man to trust. I've no time now but, believe me, as surely as the moon will set and the sun will rise I shall kill you tomorrow night. I shall kill you even if you hide in the deepest cave of the Earth. At ten o'clock tomorrow night, I shall kill you!
+The Invisible Man: I'm frozen. Cold enough to freeze the icicles off an Eskimo.
+Farmer: Excuse me, sir. There's breathing in my barn.
 The Invisible Man: I want to be left alone - and undisturbed.
 Jenny Hall: I'll see that no one disturbs you, sir.
 Millie: Here's the mustard, ma'am.
@@ -85,7 +88,6 @@ Herbert Hall: Suppose I break my neck to sell a galloon of beer?
 The Invisible Man: One day, I'll tell you everything. There's no time now.
 The Invisible Man: I began five years ago, in secret. working all night, every night, right into the dawn. A thousand experiments. A thousand failures. And then, at last, the great, wonderful day.
 The Invisible Man: The great, wonderful day. The last, little mixture of drugs.
-The Invisible Man: There are one or two things you must understand, Kemp. I must always remain in hiding for an hour after meals. The food is visible inside me until it is digested. I can only work on fine, clear days. If I work in the rain, the water can be seen on my head and shoulders. In a fog, you can see me - like a bubble. In smoky cities, the soot settles on me until you can see a dark outline. You must always be near at hand to wipe off my feet. Even dirt between my fingernails would give me away. It is difficult at first to walk down stairs. We are so accustomed to watching our feet. But, these are trivial difficulties. We shall find ways of defeating everything.
 Radio Broadcaster: I must interrupt the dance music for a moment. I have an urgent message from Police Headquarters. Early this evening we broadcast's a report of an invisible man. The report has now been confirmed! It appears that an unknown man, by scientific means, has made himself invisible. He has attacked and killed a Police Inspector and he is now at large. The Chief of Police appeals to the public for help and assistance. Those willing to cooperate in the search are requested to report tomorrow morning to their local station. The invisible man works without clothing.
 Dr. Kemp: Shall I let them in?
 The Invisible Man: Yes, of course you must let them in. I shall go and prepare myself in my room. I shall see Flora - alone.
@@ -98,8 +100,6 @@ The Invisible Man: Are well alone in the house?
 Dr. Kemp: Yes.
 The Invisible Man: Alright go now. If you raise a finger against me you're a dead man. I'm strong and I'll strangle you.
 The Invisible Man: The sitting room I said Kemp. And if you try to escape by the window, I shall follow you and no one in the world can save you.
-The Invisible Man: I meant to come back just as I was when you saw me last, but the fools wouldn't let me work in peace. I had to teach them a lesson.
 Dr. Kemp: Safe? I tell you, he's not human! He can go through anything, prison walls, everything!
 Dr. Kemp: They'll have a guard.
-The Invisible Man: A guard? What can a guard do, you fool?
-Farmer: Excuse me, sir. There's breathing in my barn.     
+The Invisible Man: A guard? What can a guard do, you fool?     

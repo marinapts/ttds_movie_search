@@ -36,7 +36,7 @@ Cab Dispatcher: Why don't you try the airlines? It's faster and you get a free m
 Neal: If I wanted a joke, I'd follow you into the john and watch you take a leak. Now are you gonna help me or are you gonna stand there like a slab of meat with mittens?
 Neal: Del, what are you doing here? You said you were going home, what are you doing here?
 Del: I uh... I don't have a home. Marie's been dead for eight years.
-Del: Well Marie, once again my dear, you where as right as rain. I am, with out a doubt, the biggest pain in the butt that ever came down the pike. I meet someone whose company I really enjoy, and what do I do? I go overboard. I smother the poor soul. I cause him more trouble than he has a right to. God, I got a big mouth. When am I ever gonna wake up? I wish you were here with me right now. But... I guess that's not gonna happen. Not now, anyway.
+Del: Well Marie, once again my dear, you were as right as rain. I am, with out a doubt, the biggest pain in the butt that ever came down the pike. I meet someone whose company I really enjoy, and what do I do? I go overboard. I smother the poor soul. I cause him more trouble than he has a right to. God, I got a big mouth. When am I ever gonna wake up? I wish you were here with me right now. But... I guess that's not gonna happen. Not now, anyway.
 Del: Was that seat hot or what? I feel like a Whopper. Turn me over, I'm done on this side. I'm afraid to look at my ass. There'll be griddle marks.
 State Trooper: What the hell are you driving here?
 Del: We had a small fire last night, but we caught it in the nick of time.
@@ -122,10 +122,12 @@ Del: If they told you wolverines would make good house pets, would you believe t
 Neal: Honey, I'd like you to meet a friend of mine.
 Susan Page: Hello, Mr. Griffith.
 Del: Hello, Mrs. Page.
-Del: When I'm dead and buried, all I'll leave behind are some shower curtain rings that didn't fall down. Some legacy, huh?
-Neal: At the very least, the absolute minimum, you'll have a woman you love to grow old with. You love her, don't you?
+Del: You know, when I'm dead and buried, all I'll have to prove I was here are some shower curtain rings that didn't fall down. Great legacy, huh?
+Neal: At the very least, the absolute minimum, you've got a woman you love to grow old with, right?
+Neal: You love her, don't you?
 Del: Love... is not a big enough word. It's not a big enough word for how I feel about my wife.
-Del,Â Neal: To the wives!
+Neal: To the wives.
+Del: To the wives!
 Owen: I'm to drive you to Wichita to catch a train?
 Del: Yeah, we'd appreciate it.
 Owen: Train don't run out of Wichita... unlessin' you're a hog or a cattle.
@@ -183,7 +185,7 @@ Del: What is your problem? You insensitive asshole! Can't you see we have an inj
 Neal: No!
 Cab Dispatcher: My pleasure.
 Neal: Oh!
-Screaming Driver,Â Screaming Driver's Wife: You're going the wrong way! You're going to kill somebody!
+Screaming Driver, Screaming Driver's Wife: You're going the wrong way! You're going to kill somebody!
 Del: How about your bun?
 Neal: No, no it's too hard.
 Del: Sure?
@@ -232,7 +234,7 @@ Neal: He wants something.
 Del: Egh, he's probably drunk.
 Screaming Driver: You're going the wrong way!
 Neal: What?
-Screaming Driver,Â Screaming Driver's Wife: You're going the wrong way!
+Screaming Driver, Screaming Driver's Wife: You're going the wrong way!
 Neal: He says we're going the wrong way.
 Del: Oh, he's drunk! How would he know where we're going?
 Neal: Yeah, how would he know?
@@ -240,8 +242,8 @@ Neal: Thank you! Thanks a lot! Terrific!
 Del: Thank you!
 Del: What a moron!
 Screaming Driver: You're going in the wrong direction!
-Screaming Driver,Â Screaming Driver's Wife: YOU'RE GOING TO KILL SOMEBODY!
-Screaming Driver,Â Screaming Driver's Wife: YOU'RE GOING THE WRONG WAY!
+Screaming Driver, Screaming Driver's Wife: YOU'RE GOING TO KILL SOMEBODY!
+Screaming Driver, Screaming Driver's Wife: YOU'RE GOING THE WRONG WAY!
 Neal: Truck. Truck. Truck! Truck!
 Del: What? What?
 Del: You know you nearly killed me, slugging me in the gut when I wasn't ready! That's how Houdini died, you know!

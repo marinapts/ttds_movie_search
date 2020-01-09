@@ -12,9 +12,9 @@ Connor: These are not polite suggestions. These are codes of behavior, and those
 Murphy: There are varying degrees of evil. We urge you lesser forms of filth not to push the bounds and cross over into true corruption, into our domain.
 Connor: For if you do, one day you will look behind you and you will see we three. And on that day, you will reap it.
 Murphy: And we will send you to whatever god you wish.
-Connor,Â Murphy,Â Il Duce: And shepherds we shall be, for Thee, my Lord, for Thee. Power hath descended forth from Thy hand.
+Connor, Murphy, Il Duce: And shepherds we shall be, for Thee, my Lord, for Thee. Power hath descended forth from Thy hand.
 Yakavetta: Vaffanculo!
-Connor,Â Murphy,Â Il Duce: That our feet may swiftly carry out Thy command. So we shall flow a river forth to Thee, and teeming with souls shall it ever be.
+Connor, Murphy, Il Duce: That our feet may swiftly carry out Thy command. So we shall flow a river forth to Thee, and teeming with souls shall it ever be.
 Il Duce: In nomine Patri.
 Connor: Et Filii.
 Murphy: Spiritus Sancti.

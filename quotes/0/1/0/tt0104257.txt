@@ -78,10 +78,6 @@ Kaffee: I've been so advised.
 Capt. Ross: You got bullied into that courtroom, Danny, by everyone. By Dawson. By Galloway. Shit, I practically dared you. You got bullied into that courtroom by the memory of a dead lawyer.
 Kaffee: You're a lousy fucking softball player, Jack!
 Capt. Ross: Your boys are going down, Danny. I can't stop it anymore.
-Col. Jessup: How the hell is your dad, Danny?
-Kaffee: He passed away seven years ago, sir.
-Col. Jessup: Don't I feel like the fucking asshole?
-Kaffee: Not at all sir.
 Kaffee: Is this funny, sir?
 Col. Jessup: No, it isn't. It's tragic.
 Kaffee: Do you have an answer to the question, Colonel?
@@ -99,6 +95,10 @@ Col. Jessup: I would appreciate it if you would address me as "Colonel" or "Sir.
 Judge Randolph: Defense counsel will address the witness as "Colonel" or "Sir."
 Col. Jessup: I don't know what the hell kind of unit you're running here.
 Col. Jessup: And the witness will address this court as "Judge" or "Your Honor." I'm quite certain I've earned it. Take your seat, Colonel.
+Col. Jessup: How the hell is your dad, Danny?
+Kaffee: He passed away seven years ago, sir.
+Col. Jessup: Don't I feel like the fucking asshole?
+Kaffee: Not at all sir.
 Galloway: You put him on the stand and you get it from him!
 Kaffee: Oh, we get it from him! Yes! No problem! We get it from him.
 Kaffee: Colonel Jessup, isn't it true that you ordered the Code Red on Santiago?
@@ -108,6 +108,18 @@ Lt. Col. Matthew Andrew Markinson: Dear Mr. and Mrs. Santiago, I was William's e
 Lt. Weinberg: meeting for the first time
 Lt. Weinberg: Cmdr. Galloway, Lt. Kaffee is considered to be the best litigator in our office. He successfully plea bargained 44 cases in 9 months.
 Kaffee: One more and I get a set of steak knives.
+Col. Jessup: What is this? What's going on? I did my job, I'd do it again!
+Col. Jessup: I'm gonna get on a plane and go on back to my base.
+Judge Randolph: You're not going anywhere, Colonel. MP's... guard the Colonel!
+Judge Randolph: Captain Ross?
+Col. Jessup: What the hell is this?
+Capt. Ross: Colonel Jessup, you have the right to remain silent. Any statement you make...
+Col. Jessup: I'm being charged with a crime? Is that what this is? I'm being charged with a crime? This is funny. That's what this is. This is...
+Col. Jessup: ... I'm gonna rip the eyes out of your head and piss into your dead skull! You fucked with the wrong Marine!
+Capt. Ross: Colonel Jessup! Do you understand these rights as I have just read them to you?
+Col. Jessup: You fuckin' people... you have no idea how to defend a nation. All you did was weaken a country today, Kaffee. That's all you did. You put people's lives in danger. Sweet dreams, son.
+Kaffee: Don't call me son. I'm a lawyer, and an officer in the United States Navy, and you're under arrest you son of a bitch.
+Kaffee: The witness is excused.
 Kaffee: Lt. Kendrick, was Lance Corporal Dawson given a below average rating on this last report because you learned he had been sneaking food to Private Bell?
 Capt. Ross: Object!
 Judge Randolph: Not so fast. Lieutenant?
@@ -163,18 +175,6 @@ Kaffee: You won't get it.
 Kaffee: I will get it. And if the MTD is denied, I'll file a motion in limine seeking to obtain an evidentary ruling in advance, and after that I'm going to file against pretrial confinement, and you're going to spend the next three months going blind on paperwork because a Signalman Second Class bought and smoked a dime bag of oregano.
 Lieutenant Dave Spradling: B misdemeanor, twenty days in the brig.
 Kaffee: C misdemeanor, fifteen days restricted duty.
-Col. Jessup: What is this? What's going on? I did my job, I'd do it again!
-Col. Jessup: I'm gonna get on a plane and go on back to my base.
-Judge Randolph: You're not going anywhere, Colonel. MP's... guard the Colonel!
-Judge Randolph: Captain Ross?
-Col. Jessup: What the hell is this?
-Capt. Ross: Colonel Jessup, you have the right to remain silent. Any statement you make...
-Col. Jessup: I'm being charged with a crime? Is that what this is? I'm being charged with a crime? This is funny. That's what this is. This is...
-Col. Jessup: ... I'm gonna rip the eyes out of your head and piss into your dead skull! You fucked with the wrong Marine!
-Capt. Ross: Colonel Jessup! Do you understand these rights as I have just read them to you?
-Col. Jessup: You fuckin' people... you have no idea how to defend a nation. All you did was weaken a country today, Kaffee. That's all you did. You put people's lives in danger. Sweet dreams, son.
-Kaffee: Don't call me son. I'm a lawyer, and an officer in the United States Navy, and you're under arrest you son of a bitch.
-Kaffee: The witness is excused.
 Dawson: We joined the Marines because we wanted to live our lives by a certain code, and we found it in the Corps. Now you're asking us to sign a piece of paper that says we have no honor. You're asking us to say we're not Marines. If a court decides that what we did was wrong, then I'll accept whatever punishment they give. But I believe I was right sir, I believe I did my job, and I will not dishonor myself, my unit, or the Corps so I can go home in six months... Sir.
 Kaffee: Lieutenant Kendrick, in your opinion was Private Santiago a good Marine?
 Lt. Kendrick: I would say he was about average.
@@ -317,7 +317,7 @@ Kaffee: Would you put Jessup on the stand?
 Lt. Weinberg: No
 Kaffee: You think my father would?
 Lt. Weinberg: With the evidence we got, not in a million years, see here's the thing and there's no way of getting around this, neither Lionel Kaffee nor Sam Weinberg in lead counsel for the defense on the matter of the U.S. versus Dawson and Downey would you put Colonel Nathan Jessup on the stand, so there's only one question, " what would you do?"
-Kaffee: There was no poison on the rag and there was no intent to kill, and any attempt to prove otherwise is futile because it just isn't true. When Dawson and Downey entered Santiago's room that night, it wasn't because of vengeance or hatred; it wasn't to kill or harm. And it wasn't because they were looking for "kicks" on a Friday night. It was what they were ordered to do. Let me say that again, *it was what they were ordered to do*. Out in the real world, it means nothing, and in the Washington navy yard it doesn't mean a whole lot more, but if you're a marine assigned rifle company Windward GuantÃ¡namo Bay Cuba, if you're given an order you follow it or you pack your bags. Make no mistake about it, Harold W. Dawson and Private Louden Downey are sitting before you today because they did their job.
+Kaffee: There was no poison on the rag and there was no intent to kill, and any attempt to prove otherwise is futile because it just isn't true. When Dawson and Downey entered Santiago's room that night, it wasn't because of vengeance or hatred; it wasn't to kill or harm. And it wasn't because they were looking for "kicks" on a Friday night. It was what they were ordered to do. Let me say that again, *it was what they were ordered to do*. Out in the real world, it means nothing, and in the Washington navy yard it doesn't mean a whole lot more, but if you're a marine assigned rifle company Windward Guantánamo Bay Cuba, if you're given an order you follow it or you pack your bags. Make no mistake about it, Harold W. Dawson and Private Louden Downey are sitting before you today because they did their job.
 Kaffee: Jesus Christ!
 Lt. Col. Matthew Andrew Markinson: You left the door unlocked.
 Kaffee: You scared the shit out of me.
@@ -483,7 +483,7 @@ Lt. Weinberg: I beg your pardon?
 Dawson: Unit. Corps. God. Country. Sir.
 Kaffee: The government of the United States wants to charge you two with murder. And you want me to go to the prosecutor with unit, corps, God, country?
 Dawson: That's our code, sir.
-Kaffee,Â Lt. Weinberg: It's a code.
+Kaffee, Lt. Weinberg: It's a code.
 Kaffee: We'll be back. You guys need anything? Books, papers, cigarettes, ham sandwich?
 Dawson: Sir, no thank you, sir.
 Kaffee: Harold, I think there's a concept that you'd better start warming up to.

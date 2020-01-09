@@ -25,9 +25,9 @@ Alicia: I didn't think you were listening...
 Nash: I was listening.
 Nash: I find you attractive. Your aggressive moves toward me... indicate that you feel the same way. But still, ritual requires that we continue with a number of platonic activities... before we have sex. I am proceeding with these activities, but in point of actual fact, all I really want to do is have intercourse with you as soon as possible.
 Nash: Are you gonna slap me now?
+Alicia: I need to believe, that something extraordinary is possible.
 Nash: If we all go for the blonde and block each other, not a single one of us is going to get her. So then we go for her friends, but they will all give us the cold shoulder because no on likes to be second choice. But what if none of us goes for the blonde? We won't get in each other's way and we won't insult the other girls. It's the only way to win. It's the only way we all get laid.
 Nash: I've gotten used to ignoring them and I think, as a result, they've kind of given up on me. I think that's what it's like with all our dreams and our nightmares, Martin, we've got to keep feeding them for them to stay alive.
-Alicia: I need to believe, that something extraordinary is possible.
 Nash: Alicia, does our relationship warrant long-term commitment? I need some kind of proof, some kind of verifiable, empirical data.
 Alicia: I'm sorry, just give me a moment to redefine my girlish notions of romance.
 Charles: Nothing's ever for sure, John. That's the only sure thing I do know.
@@ -41,9 +41,9 @@ John Nash: No, you didn't.
 Alicia: You didn't even look!
 John Nash: I never said the vector fields were rational functions... Your solution is elegant, though ultimately incorrect.
 Nash: I still see things that are not here. I just choose not to acknowledge them. Like a diet of the mind, I just choose not to indulge certain appetites; like my appetite for patterns; perhaps my appetite to imagine and to dream.
+Nash: They are my past. Everyone is haunted by their past.
 Alicia: I was wondering Professor Nash, if I could take you to dinner?
 Alicia: You do eat, don't you?
-Nash: They are my past. Everyone is haunted by their past.
 Nash: There's no point in being nuts if you can't have a little fun.
 Nash: Find a truly original idea. It is the only way I will ever distinguish myself. It is the only way I will ever matter.
 Nash: She never gets old! Marcee can't be real; she never gets old!
@@ -67,16 +67,17 @@ Alicia: God must be a painter. Why else would we have so many colors?
 Charles: Her husband was too drunk to know he was too drunk to drive.
 Charles: So what's your story? You the poor kid that never got to go to Exeter or Andover?
 Nash: Despite my privileged upbringing, I'm actually quite well-balanced. I have a chip on both shoulders.
+Charles: Listen. If we can't break the ice, how 'bout we drown it?
+Alicia: It's called "life," John. Activities available; just add meaning.
 Parcher: Man is capable of as much atrocity as he has imagination.
 Alicia: You want to know what's real? This...
 Alicia: ... this is real.
-Charles: Listen. If we can't break the ice, how 'bout we drown it?
-Alicia: It's called "life," John. Activities available; just add meaning.
 General: You ever... just know something, Dr. Nash?
 Nash: Constantly.
 Charles: That Isaac Newton fellow was right.
 Nash: He was on to something.
 Charles: Clever boy.
+Nash: Classes will dull your mind.
 Nash: It looks like you won after all.
 Hansen: No. They were wrong, John. No one wins.
 John Nash: And then, on the way home, Charles was there again. Sometimes I miss talking to him. Maybe Rosen is right. Maybe I have to think about going back to the hospital.
@@ -85,7 +86,6 @@ Nash: Good morning, eager young minds
 John Nash: Hello, Martin.
 Martin Hansen: Jesus Christ.
 John Nash: No. I don't have that one. My savior complex takes a different form.
-Nash: Classes will dull your mind.
 Nash: This is a group playing touch football. This is a flock of pigeons fighting over bread crumbs. And this is a woman chasing a man who stole her purse.
 Charles: John, you watched a mugging. That's weird.
 Hansen: Nash. Who's winning - you, or you?
@@ -107,13 +107,13 @@ Nash: I assume you've gotten quite used to miscalculation. I read your pre-print
 Parcher: Conviction, it turns out, is a luxury of those on the sidelines, Mr. Nash.
 Charles: When's the last time you ate? You know... food.
 Charles: It's not my problem and it's not your problem. It's their problem. Your answers are not on that wall. They're out there, where you've been working.
+Nash: You wanted to see if I was crazy and would screw everything up if I actually won.
 Charles: Is my roommate a dick?
 Nash: She's so small.
 Charles: Well, she's young, John. That's how they come.
 Hansen: Cowards, all of you. Come on. Whoever wins, Sol does his laundry for the semester.
 Sol: Does that seem unfair to anybody?
 Bender: No, not at all.
-Nash: You wanted to see if I was crazy and would screw everything up if I actually won.
 TITLE CARDS: Nash's theories have influenced global trade negotiations national labor relations, and even breakthroughs in evolutionary biology.
 TITLE CARDS: John and Alicia Nash live in Princeton, New Jersey. John keeps regular office hours in the Mathematics Department. He still walks to campus every day.
 Parcher: McCarthy is an idiot. But unfortunately, that doesn't make him wrong.

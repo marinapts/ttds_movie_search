@@ -44,16 +44,6 @@ Judge Chamberlain Haller: Why is it a trick question?
 Vinny Gambini: Watch this.
 Mona Lisa Vito: 'Cause Chevy didn't make a 327 in '55, the 327 didn't come out till '62. And it wasn't offered in the Bel Air with a four-barrel carb till '64. However, in 1964, the correct ignition timing would be four degrees before top-dead-center.
 D.A. Jim Trotter: Well... um... she's acceptable, Your Honor.
-Mona Lisa Vito: The car that made these two, equal-length tire marks had positraction. You can't make those marks without positraction, which was not available on the '64 Buick Skylark!
-Vinny Gambini: And why not? What is positraction?
-Mona Lisa Vito: It's a limited slip differential which distributes power equally to both the right and left tires. The '64 Skylark had a regular differential, which, anyone who's been stuck in the mud in Alabama knows, you step on the gas, one tire spins, the other tire does nothing.
-Juror #1: That's right.
-Vinny Gambini: Is that it?
-Mona Lisa Vito: No, there's more! You see? When the left tire mark goes up on the curb and the right tire mark stays flat and even? Well, the '64 Skylark had a solid rear axle, so when the left tire would go up on the curb, the right tire would tilt out and ride along its edge. But that didn't happen here. The tire mark stayed flat and even. This car had an independent rear suspension. Now, in the '60s, there were only two other cars made in America that had positraction, and independent rear suspension, and enough power to make these marks. One was the Corvette, which could never be confused with the Buick Skylark. The other had the same body length, height, width, weight, wheel base, and wheel track as the '64 Skylark, and that was the 1963 Pontiac Tempest.
-Vinny Gambini: And because both cars were made by GM, were both cars available in metallic mint green paint?
-Mona Lisa Vito: They were!
-Vinny Gambini: Thank you, Ms. Vito. No more questions. Thank you very, very much.
-Vinny Gambini: You've been a lovely, lovely witness.
 Vinny Gambini: Is it possible the two defendants entered the store, picked 22 specific items off of the shelves, had the clerk take money, make change, then leave. Then two different men drive up in a similar -
 Vinny Gambini: Don't shake your head, I'm not done yet. Wait till you hear the whole thing, so you can understand this, now. Two different men drive up in a similar-looking car, go in, shoot the clerk, rob him, and then leave?
 Mr. Tipton: No. They didn't have enough time.
@@ -115,13 +105,23 @@ Vinny Gambini: How many fingers am I holding up now?
 Constance Riley: 4.
 Vinny Gambini: What do you think now, dear?
 Constance Riley: Thinkin' of gettin' thicker glasses.
+Mona Lisa Vito: The car that made these two, equal-length tire marks had positraction. You can't make those marks without positraction, which was not available on the '64 Buick Skylark!
+Vinny Gambini: And why not? What is positraction?
+Mona Lisa Vito: It's a limited slip differential which distributes power equally to both the right and left tires. The '64 Skylark had a regular differential, which, anyone who's been stuck in the mud in Alabama knows, you step on the gas, one tire spins, the other tire does nothing.
+Juror #1: That's right.
+Vinny Gambini: Is that it?
+Mona Lisa Vito: No, there's more! You see? When the left tire mark goes up on the curb and the right tire mark stays flat and even? Well, the '64 Skylark had a solid rear axle, so when the left tire would go up on the curb, the right tire would tilt out and ride along its edge. But that didn't happen here. The tire mark stayed flat and even. This car had an independent rear suspension. Now, in the '60s, there were only two other cars made in America that had positraction, and independent rear suspension, and enough power to make these marks. One was the Corvette, which could never be confused with the Buick Skylark. The other had the same body length, height, width, weight, wheel base, and wheel track as the '64 Skylark, and that was the 1963 Pontiac Tempest.
+Vinny Gambini: And because both cars were made by GM, were both cars available in metallic mint green paint?
+Mona Lisa Vito: They were!
+Vinny Gambini: Thank you, Ms. Vito. No more questions. Thank you very, very much.
+Vinny Gambini: You've been a lovely, lovely witness.
 Vinny Gambini: Ms. Vito, you're supposed to be some kinda expert in automobiles, is that correct?... Is that correct?
 Judge Chamberlain Haller: Would you please answer the counselor's question?
 Mona Lisa Vito: No, I hate him.
 Vinny Gambini: Your Honor, may I have permission to treat Ms. Vito as a hostile witness?
 Mona Lisa Vito: You think I'm hostile now, wait 'til you see me tonight.
 Judge Chamberlain Haller: Do you two know each other?
-Vinny Gambini: Yeah, she's my fiancÃ©e.
+Vinny Gambini: Yeah, she's my fiancée.
 Judge Chamberlain Haller: Well, that would certainly explain the hostility.
 Vinny Gambini: Hey, how ya doin'?
 Vinny Gambini: Mr. Crane, what are these pictures of?

@@ -35,12 +35,12 @@ Captain Miller: Well, in that case... I'd say, "This is an excellent mission, si
 Mellish: He's good.
 Private Caparzo: I love him.
 Sergeant Horvath: I don't know. Part of me thinks the kid's right. He asks what he's done to deserve this. He wants to stay here, fine. Let's leave him and go home. But then another part of me thinks, what if by some miracle we stay, then actually make it out of here. Someday we might look back on this and decide that saving Private Ryan was the one decent thing we were able to pull out of this whole godawful, shitty mess. Like you said, Captain, maybe we do that, we all earn the right to go home.
-Captain Miller: You see, when... when you end up killing one of your men, you see, you tell yourself it happened so you could save the lives of two or three or ten others. Maybe a hundred others. Do you know how many men I've lost under my command?
-Sergeant Horvath: How many?
-Captain Miller: Ninety-four. But that means I've saved the lives of ten times that many, doesn't it? Maybe even 20, right? Twenty times as many? And that's how simple it is. That's how you... that's how you rationalize making the choice between the mission and the man.
 Captain Miller: Well when I think of home, I... I think of something specific. I think of my, my hammock in the backyard or my wife pruning the rosebushes in a pair of my old work gloves.
 Private Ryan: This, this one night, two of my brothers came and woke me up in the middle of the night. And they said they had a surprise for me. So they took me to the barn up in the loft and there was my oldest brother, Dan, with Alice, Alice Jardine. I mean, picture a girl who just took a nosedive from the ugly tree and hit every branch coming down. And... and Dan's got his shirt off and he's working on this bra and he's tryin to get it off and all of a sudden Shawn just screams out, "Danny you're a young man, don't do it!" And so Alice Jardine hears this and she screams and she jumps up and she tries to get running out of the barn but she's still got this shirt over her head. She goes running right into the wall and knocks herself out. So now Danny's just so mad at us. He, he starts coming after us, but... but at the same time Alice is over there unconscious. He's gotta wa... , wake her up. So he grabs her by a leg and he's drag, dragging her. At the same time he picks up a shovel. And he's going after Shawn, and Shawn's saying, "What are you trying to hit me for? I just did you a favor!" And so this makes Dan more angry. He tries to swing this thing, he looses the shovel, goes outta his grasp and hits a kerosene lantern; the thing explodes, the whole barn almost goes up because of this thing. That was it. That was the last, that was, Dan went off to basic the next day. That was the last night the four of us were together. That was two years ago. Tell me about your wife and those rosebushes?
 Captain Miller: No, no that one I save just for me.
+Captain Miller: You see, when... when you end up killing one of your men, you see, you tell yourself it happened so you could save the lives of two or three or ten others. Maybe a hundred others. Do you know how many men I've lost under my command?
+Sergeant Horvath: How many?
+Captain Miller: Ninety-four. But that means I've saved the lives of ten times that many, doesn't it? Maybe even 20, right? Twenty times as many? And that's how simple it is. That's how you... that's how you rationalize making the choice between the mission and the man.
 Old James Ryan: My family is with me today. They wanted to come with me. To be honest with you, I wasn't sure how I'd feel coming back here. Every day I think about what you said to me that day on the bridge. I tried to live my life the best that I could. I hope that was enough. I hope that, at least in your eyes, I've earned what all of you have done for me.
 Ryan's Wife: James?...
 Ryan's Wife: Captain John H Miller.
@@ -95,6 +95,12 @@ Private Jackson: I wouldn't venture out there fellas. This sniper's got talent.
 Steamboat Willie: Please, I like America! Fancy schmancy! What a cinch! Go fly a kite! Cat got your tongue! Hill of beans! Betty Boop, what a dish. Betty Grable, nice gams.
 Steamboat Willie: I say can you see! I say can you see! I... I say... Fuck Hitler. Fuck Hitler!
 Sergeant Horvath: You don't know when to shut up; you don't know HOW to shut up!
+Captain Hamill: You got to take Caen so you can take Saint Lo.
+Captain Miller: You've got to take Saint Lo to take Valognes.
+Captain Hamill: Valognes you got Cherbourg.
+Captain Miller: Cherbourg you got Paris.
+Captain Hamill: Paris you got Berlin.
+Captain Miller: And then that big boat home.
 Captain Miller: Private, I'm afraid I have some bad news for ya. Well, there isn't any real easy way to say this, so, uh, so I'll just say it. Your brothers are dead. We have, uh, orders to come get you, 'cause you're going home.
 Pvt. James Frederick, Ryan: Oh, my God, my brothers are dead. I was gonna take 'em fishing when we got home. How - How did they die?
 Captain Miller: They were killed in action.
@@ -108,12 +114,6 @@ Captain Miller: Yeah, I'm sure they're fine.
 Captain Miller: Caparzo, get that kid back up there!
 Private Caparzo: Captain, the decent thing to do would be take her over to the next town.
 Captain Miller: We're not here to do the decent thing, we're here to follow fucking orders!
-Captain Hamill: You got to take Caen so you can take Saint Lo.
-Captain Miller: You've got to take Saint Lo to take Valognes.
-Captain Hamill: Valognes you got Cherbourg.
-Captain Miller: Cherbourg you got Paris.
-Captain Hamill: Paris you got Berlin.
-Captain Miller: And then that big boat home.
 Sergeant Horvath: Stars.
 Lieutenant Dewindt: Yeah, Brigadier General Amend, deputy commander, 101st. Some fucking genius had the great idea of welding a couple of steel plates onto our deck to keep the general safe from ground fire. Unfortunately, they forgot to tell me about it until we were just getting airborne. Well, that's like trying to fly a freight train. OK? Gross overload. Trim characteristics all shot to hell. I nearly broke both my arms trying to keep her level. And when- and when we released, you know I cut as hard as I could, tried to gain some altitude and still keep her from stalling. We came down like a fucking meteor. And that is how we ended up. And the others, they stopped easy enough OK, though, you know? We were just-we were just too damn heavy, you know? The grass was wet, downward slope and all. 22 guys dead.
 Captain Miller: All that for a general?

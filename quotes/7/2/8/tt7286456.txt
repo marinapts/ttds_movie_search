@@ -33,8 +33,8 @@ Arthur Fleck: Ugh, why is everybody so upset about these guys? If it was me dyin
 Arthur Fleck: Have you seen what it's like out there, Murray? Do you ever actually leave the studio? Everybody just yells and screams at each other. Nobody's civil anymore. Nobody thinks what it's like to be the other guy. You think men like Thomas Wayne ever think what it's like to be someone like me? To be somebody but themselves? They don't. They think that we'll just sit there and take it, like good little boys! That we won't werewolf and go wild!
 Social Worker: They don't give a shit about people like you, Arthur. And they really don't give a shit about people like me either.
 Arthur Fleck: I know it seems strange, I don't mean to make you uncomfortable. I don't know why everyone is so rude; I don't know why you are. I don't want anything from you. Maybe a little but of warmth, maybe a hug, dad? How about just a little bit of fucking decency!
-Arthur Fleck: Comedy is subjective, Murray, isn't that what they say? All of you, the system that knows so much: you decide what's right or wrong the same way you decide what's funny or not.
 Arthur Fleck: I haven't been happy one minute of my entire fucking life.
+Arthur Fleck: Comedy is subjective, Murray, isn't that what they say? All of you, the system that knows so much: you decide what's right or wrong the same way you decide what's funny or not.
 Sophie Dumond: Were you following me today?
 Arthur Fleck: Yeah.
 Sophie Dumond: I thought that was you. I was hoping you'd come in and rob the place.
@@ -47,16 +47,16 @@ Sophie Dumond: Your name's Arthur, right? You live down the hall. I really need 
 Arthur Fleck: Knock knock.
 Murray Franklin: Who's there?
 Arthur Fleck: It's the police, ma'am! Your son's been hit by a drunk driver. He's dead!
-Thomas Wayne: What kind of coward would do something that cold blooded? Someone who hides behind a mask. Someone who is envious of those more fortunate than themselves, yet they're too scared to show their own face. And until those kinds of people change for the better, those of us who made something of our lives will always look at those who haven't as nothing but clowns.
 Arthur Fleck: I just hope my death make more cents than my life.
 Arthur Fleck: Do I look like the kind of clown that can start a movement?
 Arthur Fleck: I don't want you worrying about money mom, or me.
+Thomas Wayne: What kind of coward would do something that cold blooded? Someone who hides behind a mask. Someone who is envious of those more fortunate than themselves, yet they're too scared to show their own face. And until those kinds of people change for the better, those of us who made something of our lives will always look at those who haven't as nothing but clowns.
 Arthur Fleck: You're awful, Murray.
 Murray Franklin: Me? I'm awful? How am I awful?
 Arthur Fleck: Playing my video. Inviting me on the show. You just wanted to make fun of me. You're just like the rest of them!
+Arthur Fleck: I've got nothing left to lose. Nothing can hurt me anymore. My life is nothing but comedy.
 Murray Franklin: All that sacrifice, she must love you very much.
 Penny Fleck: I mean, dont you have to be funny to be a comedian?
-Arthur Fleck: I've got nothing left to lose. Nothing can hurt me anymore. My life is nothing but comedy.
 Arthur Fleck: I just don't want to feel so bad anymore.
 Arthur Fleck: Good night. And always remember... That's li...
 Thomas Wayne: Touch my son again and I'll fucking kill you!
@@ -84,14 +84,15 @@ Arthur Fleck: No. No, I don't believe any of that. I don't believe in anything.
 Arthur Fleck: You're just like the rest of 'em!
 Murray Franklin: You don't know the first thing about me, pal. look at what happened because of you did. what it led to. there are riots out there, two police men are in critical condition- you're laughing, you're laughing. someone was killed today because of what you did.
 Arthur Fleck: I Know!
+Open Mic Comic: I think most women look at sex like buying a car. You know, like, "Can I see myself in this long term?" "Is it safe?" "Is it reliable?" "Could it kill me?" Most guys look at sex like parking a car. We're like, "There's a spot". "There is another spot, that would work." "Oh, I have to pay? - Never mind." "Handicapped? - Hope no one sees us."
 Boy's Mother: Would you please stop bothering my kid?
 Thomas Wayne: Gotham's lost its way.
-Open Mic Comic: I think most women look at sex like buying a car. You know, like, "Can I see myself in this long term?" "Is it safe?" "Is it reliable?" "Could it kill me?" Most guys look at sex like parking a car. We're like, "There's a spot". "There is another spot, that would work." "Oh, I have to pay? - Never mind." "Handicapped? - Hope no one sees us."
 Arthur Fleck: When I was a little boy and told people I was going to be a comedian, everyone laughed at me. Well, no one's laughing now.
 Gary: What the fuck, Arthur?
 Card: Forgive my Laughter: I have a Condition.
 Social Worker: How does it feel to have to come here? Does it help to have someone to talk to?
-Social Worker: Arthur, you're on seven different medications. Surely they must be doing something.
 Sophie Dumond: This building is awful, isn't it?
+Social Worker: Arthur, you're on seven different medications. Surely they must be doing something.
 Detective Garrity: Mr. Fleck? Sorry to bother you. I'm Detective Garrity. This is my partner, Detective Burke. We had a few questions for you, but you weren't home. So, we spoke with your mother.
-Thomas Wayne: What kind of coward would do something that cold-blooded? Someone who hides behind a mask?     
+Thomas Wayne: What kind of coward would do something that cold-blooded? Someone who hides behind a mask?
+Hoyt Vaughn: How the fuck do I know? Why does anybody do anything?     

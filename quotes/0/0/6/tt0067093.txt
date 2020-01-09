@@ -23,7 +23,7 @@ Tevye: Then you love me!
 Golde: I suppose I do!
 Tevye: Oh.
 Tevye: And I suppose I love you too.
-Tevye,Â Golde: It doesn't change a thing, but even so... After twenty-five years, it's nice to know.
+Tevye, Golde: It doesn't change a thing, but even so... After twenty-five years, it's nice to know.
 Villager: An eye for an eye, and a tooth for a tooth.
 Tevye: Very good. That way the whole world will be blind and toothless.
 Perchik: Your daughter has a quick and witty tongue.
@@ -55,8 +55,8 @@ Golde: A poor girl without a dowry can't be so particular. You want hair, marry 
 Tevye: Traditions, traditions. Without our traditions, our lives would be as shaky as... as... as a fiddler on the roof!
 Hodel: For Papa, make him a scholar!
 Chava: For Mama, make him rich as a king!
-Hodel,Â Chava: For me, well, I wouldn't holler if he were as handsome as anything!
-Hodel,Â Chava: Matchmaker, matchmaker, make me a match! Find me a find, catch me a catch! Night after night in the dark I'm alone, so find me a match of my own!
+Hodel, Chava: For me, well, I wouldn't holler if he were as handsome as anything!
+Hodel, Chava: Matchmaker, matchmaker, make me a match! Find me a find, catch me a catch! Night after night in the dark I'm alone, so find me a match of my own!
 Tevye: Anyway, Motel and Tzeitel have been married for some time now. They work very hard, and they're as poor as squirrels in winter. But, they're so happy, they don't know how miserable they are.
 Perchik: In this world it is the rich who are the criminals. Someday their wealth will be ours.
 Tevye: That would be nice. If they would agree, I would agree.
@@ -193,7 +193,7 @@ Fruma Sarah: Peeeeeearls!
 Ghosts: How?
 Perchik: They look so natural together.
 Hodel: Just like two newlyweds should be.
-Perchik,Â Hodel: Is there a canopy in store for me?
+Perchik, Hodel: Is there a canopy in store for me?
 Golde: You'll be late.
 Tevye: Golde, I won't be late.
 Golde: You'll be late.
@@ -221,7 +221,7 @@ Hodel: Right!
 Tzeitel: You heard he has a temper.
 Hodel: He'll *beat* you every night.
 Tzeitel: But only when he's sober...
-Tzeitel,Â Hodel: So you're all right!
+Tzeitel, Hodel: So you're all right!
 Yente: Even the worst husband, God forbid, is better than no husband, God forbid.
 Constable: You're an honest, decent person. Even though you are a Jew.
 Tevye: Oh... THANK you, your honor. How often does a man get a compliment like that?

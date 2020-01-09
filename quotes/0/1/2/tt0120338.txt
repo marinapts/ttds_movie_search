@@ -88,8 +88,6 @@ Jack: All right.
 Rose: Wearing *only* this.
 Jack: I don't know about you, but I intend to write a strongly worded letter to the White Star Line about all of this.
 Jack: I saw that in a nickelodeon once and I always wanted to do it.
-Rose: I know what you must be thinking. "Poor little rich girl, what does she know about misery?"
-Jack: No, no, that's not what I was thinking. What I was thinking was, what could've happened to this girl to make her think she had no way out?
 Ismay: Most unfortunate, captain!
 Thomas Andrews: Water... fourteen feet above the keel in ten minutes. In the forepeak, in all three holds and in the boiler room six.
 Ismay: When can we get underway, damnit!
@@ -104,13 +102,15 @@ Thomas Andrews: An hour... two at most.
 Smith: And how many aboard, Mr. Murdoch?
 1st Officer William Murdoch: 2,200 souls on board, sir.
 Smith: Well, I believe you may get your headlines, Mr. Ismay.
+Rose: I know what you must be thinking. "Poor little rich girl, what does she know about misery?"
+Jack: No, no, that's not what I was thinking. What I was thinking was, what could've happened to this girl to make her think she had no way out?
 Lewis Bodine: Wait a second. You were going to kill youself by jumping off of the Titanic?
 Lewis Bodine: All you had to do was wait two days!
 Cal Hockley: You're a good liar.
 Jack: Almost as good as you. There's uh- there's no arrangement is there?
 Cal Hockley: Oh, there is... Not that you'll benefit from it... I always win, Jack.
 Employee: Hey! What do you think you're doing? You'll have to pay for that, you know? That's White Star Line property.
-Jack,Â Rose: Shut up!
+Jack, Rose: Shut up!
 Rose: Jack! This is where we first met.
 Tommy Ryan: Music to drown by. Now I know I'm in first class.
 Ruth: Will the lifeboats be seated according to class? I hope they're not too crowded.
@@ -125,7 +125,6 @@ Jack: Right.
 Rose: Oh God! I couldn't go. I couldn't go, Jack.
 Jack: It's all right. We'll think of something.
 Rose: At least I'm with you.
-Rose: I'll never let go, Jack. I promise.
 Rose: Mr. Andrews... I saw the iceberg and I see it in your eyes... please, tell me the truth.
 Thomas Andrews: The ship will sink.
 Rose: You're certain?
@@ -133,6 +132,7 @@ Thomas Andrews: Yes. In an hour or so, all of this will be at the bottom of the 
 Cal Hockley: What?
 Thomas Andrews: Please, tell only who you must. I don't want to be responsible for a panic. And get to a boat quickly, don't wait. You remember what I told you about the boats?
 Rose: Yes... I understand.
+Rose: I'll never let go, Jack. I promise.
 Jack: Rose, you're no picnic, all right? You're a spoiled little brat, even, but under that, you're the most amazingly, astounding, wonderful girl, woman that I've ever known...
 Rose: Jack, I...
 Jack: No, let me try and get this out. You're ama- I'm not an idiot, I know how the world works. I've got ten bucks in my pocket, I have no-nothing to offer you and I know that. I understand. But I'm too involved now. You jump, I jump remember? I can't turn away without knowing you'll be all right... That's all that I want.
@@ -173,10 +173,6 @@ Rose: I don't know the steps!
 Jack: Neither do I! Just go with it!
 Rose: It's so unfair.
 Ruth: Of course it's unfair. We're women. Our choices are never easy.
-Old Rose: That's the last time I ever saw him. He married, of course. And inherited his millions. But the crash of '29 hit his interests hard, and he put a pistol in his mouth that year. Or so I read.
-Rose: When the ship docks, I'm getting off with you.
-Jack: This is crazy.
-Rose: I know. It doesn't make any sense. That's why I trust it
 Molly Brown: Hey, uh, who thought of the name Titanic? Was it you, Bruce?
 Ismay: Yes, actually. I wanted to convey sheer size, and size means stability, luxury, and above all, strength.
 Rose: Do you know of Dr. Freud, Mr. Ismay? His ideas about the male preoccupation with size might be of particular interest to you.
@@ -186,6 +182,10 @@ Ruth: I do apologize.
 Molly Brown: She's a pistol, Cal! Hope you can handle her.
 Cal Hockley: Well, I may have to start minding what she reads from now on, won't I, Mrs. Brown?
 Ismay: Freud? Who is he? Is he a passenger?
+Old Rose: That's the last time I ever saw him. He married, of course. And inherited his millions. But the crash of '29 hit his interests hard, and he put a pistol in his mouth that year. Or so I read.
+Rose: When the ship docks, I'm getting off with you.
+Jack: This is crazy.
+Rose: I know. It doesn't make any sense. That's why I trust it
 Ruth: You are not to see that boy again. Do you understand me? Rose, I forbid it.
 Rose: Oh stop it, mother. You'll give yourself a nose bleed.
 Bobby Buell: Brock! Brock! There's a satellite call for you.
@@ -233,6 +233,13 @@ Rose: I didn't. I just realized I already knew.
 Brock Lovett: Three years, I've thought of nothing except Titanic; but I never got it... I never let it in.
 Lovejoy: You'll want to tie those.
 Lovejoy: It's interesting. The young lady slipped so suddenly and you still had time to remove your jacket and your shoes.
+Rose: Next it will be brandies in the smoking room.
+Col. Archibald Gracie: Join me in a brandy, gentlemen?
+Rose: Now they will retreat into a cloud of smoke and congratulate each other on being masters of the universe.
+Benjamin Guggenheim: No, thank you. We are dressed in our best and are prepared to go down as gentlemen. But, we would like a brandy.
+Tommy Ryan: That's typical. First class dogs come down here to take a shite.
+Jack: That's so we know where we rank in the scheme of things.
+Tommy Ryan: Like we could forget.
 Jack: So, you wanna go to a real party?
 Musician: What's the use? Nobody's listening to us anyway.
 Wallace Hartley: Well, they don't listen to us at dinner either.
@@ -242,37 +249,36 @@ Rose: So you think you're big tough men?
 Rose: Then let's see you do this. Hold this for me Jack.
 Rose: Hold it up!
 3rd Class Woman: Jesus, Mary, and Joseph.
-Rose: Next it will be brandies in the smoking room.
-Col. Archibald Gracie: Join me in a brandy, gentlemen?
-Rose: Now they will retreat into a cloud of smoke and congratulate each other on being masters of the universe.
 Thomas Andrews: Mr. Lightoller, why are the boats being launched half full?
 Second Officer Charles Herbert Lightoller: Not now, Mr. Andrews.
 Thomas Andrews: Look, 20 or so in a boat built for 65? And I saw one boat with only 12, 12!
 Second Officer Charles Herbert Lightoller: Well, we weren't sure of the weight, Mr. Andrews. These boats may buckle.
 Thomas Andrews: Rubbish! They were tested in Belfast with the weight of 70 men! Now, fill these boats, Mr. Lightoller, for God's sake, man!
 Second Officer Charles Herbert Lightoller: Please, I need more women and children, please!
-Irish Mommy: And so they lived, happily together for three-hundred years. In the land of TÃ­r na nÃ“g, of eternal youth and beauty.
+Irish Mommy: And so they lived, happily together for three-hundred years. In the land of Tír na nÓg, of eternal youth and beauty.
 Robert Hitchins: You don't understand. If we go back, they'll swamp the boat, they'll pull us right down, I'm tellin' you!
 Molly Brown: Knock it off. You're scaring me. C'mon girls! Grab an oar, let's go!
 Robert Hitchins: Are you out of your mind? We're in the middle of the North Atlantic! Now do you people want to live, or do you want to die?
 Molly Brown: I don't understand a one of you. What's the matter with ya? It's your men out there! There's plenty o' room for more!
 Robert Hitchins: And there'll be one less on this boat, if you don't shut that hole in your face!
-Benjamin Guggenheim: No, thank you. We are dressed in our best and are prepared to go down as gentlemen. But, we would like a brandy.
-Tommy Ryan: That's typical. First class dogs come down here to take a shite.
-Jack: That's so we know where we rank in the scheme of things.
-Tommy Ryan: Like we could forget.
+Jack: That's one of the good things about Paris: lots of girls willing to take their clothes off.
 Lookout Frederick Fleet: PICK UP, YOU BASTARDS!
 6th Officer Moody: Lookout Frederick Fleet: Is there anyone there?
 6th Officer Moody: Yes, what do you see?
 Lookout Frederick Fleet: Iceberg, right ahead!
 6th Officer Moody: Thank you.
 6th Officer Moody: Iceberg right ahead!
-6th Officer Moody,Â 1st Officer William Murdoch: Hard a'starboard!
+6th Officer Moody, 1st Officer William Murdoch: Hard a'starboard!
 Jack: Wait! We're passengers! We're passengers!
 6th Officer Moody: Have you been through the inspection queue?
 Jack: Of course! Anyway, we don't have lice, we're Americans.
 Jack: Both of us.
 6th Officer Moody: Right. Come aboard.
+Rose: You liked this woman. You used her several times.
+Jack: Well, she has beautiful hands, see?
+Rose: I think you must have had a love affair with her.
+Jack: No no no, just with her hands.
+Jack: She was a one-legged prostitute. See? Ah, she had a good sense of humour though.
 Cal Hockley: God, not those finger paintings again. They certainly were a waste of money.
 Rose: The difference between Cal's taste in art and mine is that I have some. They're fascinating. It's like being inside a dream or something. There's truth but no logic.
 Trudy Bolt: What's the artist's name?
@@ -281,7 +287,6 @@ Cal Hockley: Something Picasso? He won't amount to a thing.
 Cal Hockley: He won't, trust me. At least they were cheap.
 Ruth: So this is the ship they say is unsinkable.
 Cal Hockley: It is unsinkable. God himself could not sink this ship!
-Jack: That's one of the good things about Paris: lots of girls willing to take their clothes off.
 Jack: We are the luckiest sons of bitches in the world, you know that?
 Irish Little Boy: What are we doing, mommy?
 Irish Mommy: We're just waiting, dear. When they're finished putting first class people in the boat, they'll be starting with us. And we ought to be ready, oughtn't we?
@@ -289,11 +294,6 @@ Fabrizio: Helga, you come with me now. I am very lucky is my destiny to go to Am
 Fabrizio: Come.
 Helga Dahl: I'm sorry.
 Fabrizio: I will never forget you.
-Rose: You liked this woman. You used her several times.
-Jack: Well, she has beautiful hands, see?
-Rose: I think you must have had a love affair with her.
-Jack: No no no, just with her hands.
-Jack: She was a one-legged prostitute. See? Ah, she had a good sense of humour though.
 Molly Brown: God Almighty.
 Jack: This is bad!
 Rose: As a paying customer, I expect to get what I want.
@@ -314,10 +314,17 @@ Brock Lovett: One-hundred and one next month.
 Lewis Bodine: Okay, so she's a very OLD goddamn liar! Look, I've already done the background on this woman all the way back to the twenties, when she was working as an actress. An actress! There's your first clue, Sherlock! Her name was Rose Dawson back then. Then she marries this guy named Calvert, they move to Cedar Rapids and she punches out a couple of kids. Now Calvert's dead, and from what I hear Cedar Rapids is dead!
 Brock Lovett: And everyone who knows about the diamond is supposed to be dead, or on this boat, but she knows!
 Fifth Officer Lowe: Is there anyone alive out there? Can anyone hear me?
+Col. Archibald Gracie: Well, the boy's a hero then! Good for you, son. Well done.
 Tommy Ryan: You can't keep us locked up in here like animals - the ship's bloody sinking!
+Molly Brown: You shine up like a new penny.
 Lewis Bodine: Incredible. There's Smith and he's standing there and he's got the iceberg warning in his fucking hand, excuse me, his hand, and he's ordering more speed.
 Jack: Are these all for me?
 Molly Brown: Just start from the outside and work your way in.
+Jack: I never cared too much for all that Dadaism and Cubism. Just had no heart.
+Rose: I like some of it.
+Jack: Really? For me Paris was more about living on the streets and trying to put it on paper.
+Rose: You know, my dream has always been to run away and become an artist, Living in a garrett poor but free!
+Jack: You wouldn't last 2 days. Theres no hot water and hardly any caviar.
 Rose: Staring up at the sky, Look. It's so beautiful. SO vast and endless. They're so small. My crowd, they think they're giants. They're not even dust in Gods eyes.
 Jack: Well, there's been a mistake. You're not one of them. You got mailed to the wrong address.
 Rose: Laughs, I did, didn't I? LOOK, a shooting star!
@@ -332,7 +339,9 @@ Astor: Oh yes...
 Cal Hockley: I make my own luck.
 Lovejoy: So do I.
 Thomas Andrews: Sleep soundly, young Rose, for I have built you a good ship, strong and true, she's all the lifeboats you need.
-Col. Archibald Gracie: Well, the boy's a hero then! Good for you, son. Well done.
+Countess of Rothes: Excuse me, why have the engines stopped? I felt a shudder.
+Steward #1: I shouldn't worry, madam. We've likely thrown a propeller blade, that's the shudder you felt. May I bring you anything?
+Countess of Rothes: No, thank you.
 Waiter: How do you take your caviar, sir?
 Jack: No caviar for me, thanks. Never did like it much.
 Molly Brown: Ain't nothing to it, is there, Jack? Remember, they love money so pretend like you own a gold mine and then you're in the club.
@@ -351,21 +360,12 @@ Tommy Ryan: Bastard!
 1st Officer William Murdoch: Get Back!
 Cal Hockley: We had a deal, damn you!
 1st Officer William Murdoch: Your money can't save you any more than it can save me. Get Back!
-Molly Brown: You shine up like a new penny.
 Male Passenger: Yea, though I walk through the valley of the shadow of death...
 Jack: You want to walk a little faster through that valley there?
-Jack: I never cared too much for all that Dadaism and Cubism. Just had no heart.
-Rose: I like some of it.
-Jack: Really? For me Paris was more about living on the streets and trying to put it on paper.
-Rose: You know, my dream has always been to run away and become an artist, Living in a garrett poor but free!
-Jack: You wouldn't last 2 days. Theres no hot water and hardly any caviar.
-Rose: I am not a foreman in one of your mills that you can command. I am your fiancÃ©e.
-Cal Hockley: My fian... my fiancÃ©e! Yes, you are, and my wife. My wife in practice if not yet by law, so you will honor me. You will honor me the way a wife is required to honor a husband. Because I will not be made a fool, Rose. Is this in any way unclear?
+Rose: I am not a foreman in one of your mills that you can command. I am your fiancée.
+Cal Hockley: My fian... my fiancée! Yes, you are, and my wife. My wife in practice if not yet by law, so you will honor me. You will honor me the way a wife is required to honor a husband. Because I will not be made a fool, Rose. Is this in any way unclear?
 Rose: No.
 Molly Brown: Why do they insist on announcing dinner like a damned cavalry charge?
-Countess of Rothes: Excuse me, why have the engines stopped? I felt a shudder.
-Steward #1: I shouldn't worry, madam. We've likely thrown a propeller blade, that's the shudder you felt. May I bring you anything?
-Countess of Rothes: No, thank you.
 Smith: What was that, Mr. Murdoch?
 1st Officer William Murdoch: An iceberg, sir. I put a hard a'starboard and ran the engines full astern, but it was too close. I tried to port 'round it, but she hit and the...
 Smith: Close the watertight doors.
@@ -382,12 +382,16 @@ Brock Lovett: Dive six, here we are again on the deck of Titanic. Two and a half
 Second Officer Charles Herbert Lightoller: Get back, I say, or I'll shoot you all like dogs! Keep order here! Keep order I say. Mr. Lowe, man this boat.
 Cal Hockley: Any room for a gentleman, gentlemen?
 Rose: That's John Jacob Astor, the richest man on the ship. His little wifey there, Madeline, is my age and in a delicate condition. See how she's trying to hide it?
+Brock Lovett: Seeing her coming out of the darkness like a ghost ship, it still gets me every time.
 Brock Lovett: It still gets me every time... to see the sad ruin of the great ship sitting here, where she landed at 2:30 in the morning, April 15, 1912, after her long fall from the world above.
 Lewis Bodine: You are so full of shit, Boss!
 Rose: Mr Andrews? Mr Andrews? Thank God! Where would the master of arms take someone under arrest?
 Thomas Andrews: What? You have to get to a lifeboat right away!
 Rose: No! I'm doing this with or without your help sir. But without will take longer.
 Thomas Andrews: Take the elevator to the very bottom, then go to the left, down the crewman passage, then go right, then left again at the stairs and you'll come to a long corridor.
+Cal Hockley: We'll both have the lamb, medium-rare with very little mint sauce.
+Cal Hockley: You like lamb, don't you sweet-pea?
+Molly Brown: You gonna cut her meat for her, too, Cal?
 Smith: Clear.
 Second Officer Charles Herbert Lightoller: Yes. I don't think I've ever seen such a flat calm.
 Smith: Like a mill pond, not a breath of wind.
@@ -395,7 +399,7 @@ Second Officer Charles Herbert Lightoller: It will make the bergs harder to see.
 Smith: Hmm. Well, I'm off. Mantain speed and heading, Mr. Lightoller.
 Second Officer Charles Herbert Lightoller: Yes, sir.
 Rose: I don't see what all of the fuss is about. It doesn't look any bigger than the Mauritania.
-Cal Hockley: You can be blasÃ© about some things, Rose, but not about Titanic. It's over a hundred feet longer than the Mauritania and far more luxurious!
+Cal Hockley: You can be blasé about some things, Rose, but not about Titanic. It's over a hundred feet longer than the Mauritania and far more luxurious!
 Bert Cartmell: It's a big boat, huh?
 Cora Cartmell: Daddy, it's a ship!
 Bert Cartmell: You're right.
@@ -408,22 +412,18 @@ Cal Hockley: No, there is. Not that you'll benefit much from it. I always win Ja
 Cal Hockley: Rose is displeased... what to do?
 Lewis Bodine: Oh baby, baby, are you seein' this, boss?
 Brock Lovett: It's pay day, boys.
-Brock Lovett: Seeing her coming out of the darkness like a ghost ship, it still gets me every time.
-Cal Hockley: We'll both have the lamb, medium-rare with very little mint sauce.
-Cal Hockley: You like lamb, don't you sweet-pea?
-Molly Brown: You gonna cut her meat for her, too, Cal?
 Ismay: Do you know who I am?
 Fifth Officer Lowe: You're a passenger and I'm a ship bloody officer! NOW DO AS YOU'RE TOLD!
 Tommy Ryan: For God sake man, there are women and children down here! Let us out so we can have a chance!
 Master at Arms: Was that the way of it?
 Jack: Yeah. Yeah, that was pretty much shit.
-Cal Hockley: Completely unacceptable! What made you think you could put your hands on my fiancÃ©e? Look at me, you filth!
 Jack: We're a couple of regular swells.
 Cal Hockley: Where are you going? To him? What, to be a whore to a gutter rat?
 Rose: I'd rather be his whore than your wife.
+Cal Hockley: Completely unacceptable! What made you think you could put your hands on my fiancée? Look at me, you filth!
 Ruth: Tell us of the accomodations in steerage, Mr. Dawson. I hear they're quite good on the ship.
 Jack: The best I've seen, Ma'am. Hardly any rats.
-Cal Hockley: Mr. Dawson is joining us from the Third Class. He was of some assistance to my fiancÃ©e last night.
+Cal Hockley: Mr. Dawson is joining us from the Third Class. He was of some assistance to my fiancée last night.
 Rose: It turns out that Mr. Dawson is quite a fine artist. He was kind enough to show me some of us work today.
 Cal Hockley: Rose and I differ somewhat in our opinion of fine art...
 Cal Hockley: Not to impune you work, sir.

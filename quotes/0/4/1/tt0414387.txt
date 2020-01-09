@@ -282,7 +282,7 @@ Elizabeth Bennet: Kitty! Lydi! What have I told you about listening at the door!
 Lydia Bennet: Shh! Nevermind that! It's Mr. Bingley, right from the North!
 Lydia Bennet: Five thousand a year!
 Elizabeth Bennet: Really?
-Lydia Bennet,Â Kitty Bennet: He's single!
+Lydia Bennet, Kitty Bennet: He's single!
 Jane Bennet: Who's single?
 Elizabeth Bennet: A Mr. Bingley, apparently.
 Kitty Bennet: Shh!
@@ -335,7 +335,7 @@ Mr. Bennet: As you wish to tell me, my dear, I doubt I have any choice in the ma
 Caroline Bingley: I can't help thinking that at some point someone is going to produce a piglet and we'll all have to chase it.
 Lydia Bennet: Oh, Mama! You will never, ever, ever believe what we're about to tell you!
 Mrs. Bennet: Well tell me quickly, my love!
-Lydia Bennet,Â Kitty Bennet: The regiment are coming!
+Lydia Bennet, Kitty Bennet: The regiment are coming!
 Mrs. Bennet: Officers!
 Mrs. Bennet: Is he amiable?
 Mr. Bingley: This is a disaster isn't it!

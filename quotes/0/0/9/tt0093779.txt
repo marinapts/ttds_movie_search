@@ -211,7 +211,7 @@ Westley: Never happened.
 Buttercup: But it did I was there; this old man said 'man and wife.'
 Westley: Did you say 'I do?'
 Buttercup: Um, no... we sort of skipped that part.
-Buttercup,Â Westley: Then you're not married. You didn't say it; you didn't do it.
+Buttercup, Westley: Then you're not married. You didn't say it; you didn't do it.
 Westley: Wouldn't you agree, Your Highness?
 Prince Humperdinck: A technicality that will shortly be remedied.
 Westley: No one would surrender to the Dread Pirate Westley.
@@ -357,7 +357,7 @@ The Grandson: Wait, what did Fezzik mean "He's dead"? I mean, he didn't mean dea
 Grandpa: You want me to read this or not?
 The Grandson: Who gets Humperdinck?
 Grandpa: I don't understand.
-The Grandson: Who kills Prince Humperdinck? At the end. Somebody's got to do it. Is it IÃ±igo, who?
+The Grandson: Who kills Prince Humperdinck? At the end. Somebody's got to do it. Is it Iñigo, who?
 Grandpa: Nobody. Nobody kills him. He lives.
 The Grandson: You mean he wins?
 The Grandson: Jesus, Grandpa! What did you read me this thing for?
@@ -453,6 +453,13 @@ Fezzik: How long do we have to wait, before we know the miracle works?
 Inigo Montoya: You're guess is as good as mine.
 Westley: I'll beat you both apart! I'll take you both together!
 Fezzik: I guess not very long.
+Fezzik: I am the Dread Pirate Roberts! There will be no survivors!
+Inigo Montoya: Now?
+Westley: Not yet.
+Fezzik: My men are here! I am here! But soon, *you* will not be here!
+Inigo Montoya: Now?
+Westley: Light him!
+Fezzik: The Dread Pirate Roberts takes no survivors! All your worst nightmares are about to come true! The Dread Pirate Roberts is here for your *souls*!
 Buttercup: I will never love again.
 Fezzik: You be careful. People in masks cannot be trusted.
 Yellin: Is everybody out?
@@ -464,14 +471,13 @@ Vizzini: You were supposed to be this Colossus. You were this great legendary th
 Fezzik: Well I'm carrying three people, and he got only himself.
 Vizzini: I will not accept excuses I'm just going to have to find myself a new Giant, that's all.
 Fezzik: Don't say that, Vezzini, please.
-Fezzik: I am the Dread Pirate Roberts! There will be no survivors!
-Inigo Montoya: Now?
-Westley: Not yet.
-Fezzik: My men are here! I am here! But soon, *you* will not be here!
-Inigo Montoya: Now?
-Westley: Light him!
-Fezzik: The Dread Pirate Roberts takes no survivors! All your worst nightmares are about to come true! The Dread Pirate Roberts is here for your *souls*!
 Westley: But how will you capture us? We know the Secrets of the Fire Swamp. We can live there quite happily for some time, so if you ever feel like dying, please pay us a visit.
+Buttercup: I thought you were dead once and it almost killed me. I could not bear it if you died again, not when I could save you.
+Count Rugen: Come, Sir, we must get you to your Ship.
+Westley: We are men of Action, Lies do not become us.
+Count Rugen: Well spoken, Sir... What is it, what's wrong?
+Westley: You have six fingers on your right hand! Someone was looking for you
+Westley: .
 Fezzik: Inigo! Inigo! Where are you?
 Fezzik: Ah, there you are. Inigo, I saw the Prince's stables, and there they were, four white horses. And I thought, there are four of us, if we ever find the lady.
 Fezzik: Hello, lady! So I took them with me, in case we ever bumped into each other. I guess we just did.
@@ -486,12 +492,6 @@ Buttercup: Oot!
 The Mother: Hi, honey.
 The Grandson: Hi, Mom.
 Prince Humperdinck: Someone has beaten a Giant. There will be much suffering in Guilder if she dies.
-Buttercup: I thought you were dead once and it almost killed me. I could not bear it if you died again, not when I could save you.
-Count Rugen: Come, Sir, we must get you to your Ship.
-Westley: We are men of Action, Lies do not become us.
-Count Rugen: Well spoken, Sir... What is it, what's wrong?
-Westley: You have six fingers on your right hand! Someone was looking for you
-Westley: .
 Inigo Montoya: Kill me quickly.
 Man in Black: I would sooner destroy a stained glass window than an artist like yourself. However, since I can't have you follow me either...
 Man in Black: Please understand I hold you in the highest respect.

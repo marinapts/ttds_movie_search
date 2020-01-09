@@ -16,7 +16,7 @@ Gandalf: I will not say "Do not weep", for not all tears are an evil.
 Gimli: Certainty of death. Small chance of success. What are we waiting for?
 Aragorn: My friends. You bow to no one.
 Gimli: That still only counts as one.
-Theoden: Eomer. Take your Ãˆored down the left flank. Gamling, follow the King's banner down the center. Grimbold, take your company right, after you pass the wall. Forth, and fear no darkness! Arise! Arise, Riders of Theoden! Spears shall be shaken, shields shall be splintered! A sword day... a red day... ere the sun rises!
+Theoden: Eomer. Take your Èored down the left flank. Gamling, follow the King's banner down the center. Grimbold, take your company right, after you pass the wall. Forth, and fear no darkness! Arise! Arise, Riders of Theoden! Spears shall be shaken, shields shall be splintered! A sword day... a red day... ere the sun rises!
 Eowyn: Whatever happens, stay with me. I'll look after you.
 Theoden: Ride now!... Ride now!... Ride! Ride to ruin and the world's ending!
 Theoden: Death!
@@ -24,7 +24,7 @@ Rohirrim: Death!
 Theoden: Death!
 Rohirrim: Death!
 Theoden: DEATH!
-Eowyn,Â Merry: Death!
+Eowyn, Merry: Death!
 Theoden: Forth, Eorlingas!
 Galadriel: The power of the Three Rings is ended. The time has come... for the dominion of Men.
 Elrond: The Sea calls us home.
@@ -239,7 +239,7 @@ Merry: I don't know. I don't know what is going to happen.
 Pippin: Merry...
 Gandalf: Run, Shadowfax. Show us the meaning of haste.
 Pippin: Merry!
-Merry,Â Pippin: You can search far and wide. You can drink the whole town dry. But you'll never find a beer so brown as the one we drink in our hometown. You can drink your fancy ales. You can drink them by the flagon. But the only brew for the brave and tru-u-u-ue comes from the Green Dragon!
+Merry, Pippin: You can search far and wide. You can drink the whole town dry. But you'll never find a beer so brown as the one we drink in our hometown. You can drink your fancy ales. You can drink them by the flagon. But the only brew for the brave and tru-u-u-ue comes from the Green Dragon!
 Gandalf: Now come the days of the King!
 Gandalf: May they be blessed.
 Gollum: They cursed us. Murderer they called us. They cursed us, and drove us away. And we wept, Precious, we wept to be so alone. And we only wish to catch fish so juicy sweet. And we forgot the taste of bread... the sound of trees... the softness of the wind. We even forgot our own name. My Precious.
@@ -357,7 +357,7 @@ Faramir: Father?
 Denethor: My son!
 Denethor: Leave me!
 Aragorn: Long have you hunted me, long have I eluded you. No more. Behold! The Sword of Elendil!
-Saruman: What is the house of Rohan but a thatched barn where brigands drink in the reek and rats roll on the floor with the dogs? The victory at Helm's Deep does not belong to you, ThÃ©oden, horsemaster! You are a lesser son of greater sires.
+Saruman: What is the house of Rohan but a thatched barn where brigands drink in the reek and rats roll on the floor with the dogs? The victory at Helm's Deep does not belong to you, Théoden, horsemaster! You are a lesser son of greater sires.
 Gollum: Wake up. Wake up. Wake up, sleepies. We must go, yeeees, we must go at once.
 Sam: Haven't you had any sleep, Mr. Frodo?
 Sam: I've gone and had too much... it must be getting late.
@@ -527,8 +527,8 @@ Sam: You treacherous little toad!
 Gollum: No! No! Master!
 Frodo: No, Sam! Leave him alone!
 Sam: I heard it from his own mouth! He means to murder us!
-Gollum: Never! SmÃ©agol wouldn't hurt a fly!
-Gollum: He's a horrid, fat Hobbit, who hates SmÃ©agol, and who makes up nasty lies!
+Gollum: Never! Sméagol wouldn't hurt a fly!
+Gollum: He's a horrid, fat Hobbit, who hates Sméagol, and who makes up nasty lies!
 Sam: You miserable little maggot! I'll stove your head in!
 Frodo: Sam!
 Sam: Call me a liar? You're a liar!
@@ -556,4 +556,4 @@ Gollum: Myyyy... Precious!
 Pippin: He's not dead.
 Pippin: HE'S NOT DEAD!
 Theoden: Grima, you are not always as you are, now. You were once a man of Rohan. Come down.
-Saruman: A man of Rohan? What is the house of Rohan, but a thatched barn where Brigands drink in the reek and the rats roll on the floor with the dogs? Victory at Helm's Deep does not belong to you ThÃ©oden, Horse Master. You are a Lesser Son of Greater Sires.     
+Saruman: A man of Rohan? What is the house of Rohan, but a thatched barn where Brigands drink in the reek and the rats roll on the floor with the dogs? Victory at Helm's Deep does not belong to you Théoden, Horse Master. You are a Lesser Son of Greater Sires.     

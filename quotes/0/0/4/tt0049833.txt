@@ -73,6 +73,7 @@ Moses: Here you, too, will find peace.
 Joshua: Peace? How can you find peace or want it when Rameses builds cities mortared with the blood of our people?
 Rameses: Now speaks the rat that would be my ears.
 Dathan: Too many ears tie a rat's tongue.
+Rameses: You are going to be mine, all mine, like my dog or my horse or my falcon. Only I will love you more and trust you less.
 Yochabel: God of our fathers, who has appointed an end to the bondage of Israel, blessed am I among all mothers in the land, for my eyes have beheld Thy deliverer.
 Lilia: Water, Noble One?
 Baka: No, wine... the wine of beauty.
@@ -105,7 +106,6 @@ Joshua: You are no man's slave! The hour of deliverance has come!
 Lilia: Not for me, Joshua.
 Dathan: Remember, Joshua, of her own free will, she's mine!
 Bithiah: Your tongue will dig your grave, Memnet!
-Rameses: You are going to be mine, all mine, like my dog or my horse or my falcon. Only I will love you more and trust you less.
 Little Boy: The wind opens the sea!
 The Blind One: God opens the sea with a blast of his nostrils!
 Narrator: Learning that it can be more terrible to live than to die, he is driven onward through the burning crucible of desert, where holy men and prophets are cleansed and purged for God's great purpose, until at last, at the end of human strength, beaten into the dust from which he came, the metal is ready for the Maker's hand.
@@ -184,6 +184,8 @@ Moses: Pharaoh's soldiers won't wait so long.
 Joshua: The Almighty has heard our cries from bondage. You are the Chosen One!
 Moses: I know nothing of your god.
 Joshua: He knows you, Moses. He has brought you to us. You cannot turn your back upon us. You will deliver us!
+Nefretiri: Bring it back to me, stained with his blood!
+Rameses: I will... to mingle with your own!
 Nefretiri: But I have saved your son, Moses.
 Moses: It is not my son who will die. It is... it is the firstborn of Egypt. It is your son, Nefretiri!
 Nefretiri: No. You would not dare strike Pharaoh's son!
@@ -377,8 +379,6 @@ Lilia: Joshua! Joshua, you risk your life in coming here. You are firstborn.
 Joshua: So are you. I bring lamb's blood to mark the door posts and lintel... that the Angel of Death may pass you by.
 Lilia: Joshua, it is enough that you have come to me. I am outcast among our people. Do not save me from death, Joshua. Save me from life!
 Joshua: Tomorrow will bring a new world for us, Lilia!
-Nefretiri: Bring it back to me, stained with his blood!
-Rameses: I will... to mingle with your own!
 Sethi: The man best able to rule Egypt will follow me. I owe that to my fathers, not to my sons.
 Baka: They use the old ones to do the work of greasing the stones, Lord Prince. If they are killed, it is no loss.
 Moses: Are you a master builder or a master butcher?

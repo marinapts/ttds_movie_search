@@ -97,7 +97,7 @@ Harry: Shut up, Marv!
 Kevin McCallister: Hey guys, check this out!
 Harry: Huh, oh, go back!
 Marv: Oh! Good!
-Marv,Â Harry: AHHHHHHHHHH!
+Marv, Harry: AHHHHHHHHHH!
 Marv: So how do you want to get in?
 Harry: We'll go thru the back. Maybe the kid will let us in, you never know.
 Marv: Yeah. He's a kid. Kids are stupid.
@@ -157,7 +157,7 @@ Marv: Did I get him?
 Marv: Did I get him? Where'd it go? Where is it?
 Harry: Never mind, now how do you like that, *huh*? Ya jerk! Get that kid, Marv, get that kid!
 Kate McCallister: PETER!
-Kate McCallister,Â Peter McCallister: We slept in!
+Kate McCallister, Peter McCallister: We slept in!
 Kevin McCallister: This is my house, I have to defend it.
 Gangster 'Johnny': Who is it?
 Pizza Boy: It's Little Nero's, sir. I have your pizza.
@@ -190,6 +190,10 @@ Kevin McCallister: This is extremely important. Will you please tell Santa that 
 Frank McCallister: Wow, that's real crystal. Put it in your purse.
 Linnie McCallister: Listen, Kevin, what are you so worried about? You know Mom's gonna pack your stuff anyway. You're what the French call "les incompetents".
 Kevin McCallister: What?
+Kate McCallister: How could we do this? We forgot him.
+Peter McCallister: We didn't forget him, we just miscounted.
+Kate McCallister: What kind of a mother am I?
+Frank McCallister: If it makes you feel any better, I forgot my reading glasses.
 Kate McCallister: This is *Christmas*! The season of perpetual hope! And I don't care if I have to get out on your runway and hitchhike! If it costs me everything I own, if I have to sell my soul to the devil himself, I am going to get home to my son.
 Kevin McCallister: I took a shower washing every body part with actual soap; including all my major crevices; including inbetween my toes and in my belly button, which I never did before but sort of enjoyed. I washed my hair with adult formula shampoo and used cream rinse for that just-washed shine. I can't seem to find my toothbrush, so I'll pick one up when I go out today. Other than that, I'm in good shape.
 Kate McCallister: Where are the passports and tickets?
@@ -221,10 +225,6 @@ Clerk: Well, I don't know. It doesn't say, hon.
 Kevin McCallister: Well, could you please find out?
 Harry: Where are you, you little creep?
 Kevin McCallister: Bless this highly nutritious microwavable macaroni and cheese dinner and the people who sold it on sale. Amen.
-Kate McCallister: How could we do this? We forgot him.
-Peter McCallister: We didn't forget him, we just miscounted.
-Kate McCallister: What kind of a mother am I?
-Frank McCallister: If it makes you feel any better, I forgot my reading glasses.
 Kate McCallister: I have been awake for almost 60 hours. I'm tired and I'm dirty. I have been from Chicago to Paris to Dallas to... where the hell am I?
 Scranton Ticket Agent: Scranton.
 Kate McCallister: I am trying to get home to my eight-year-old son. And now that I'm this close, you're telling me it's hopeless?

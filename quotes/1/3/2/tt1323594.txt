@@ -82,7 +82,7 @@ Gru: ...THE MOON!
 Gru: And once the moon is mine, the world will give me whatever I want to get it back, and I will be the greatest villain of all time! That's what I'M talking 'bout!
 Gru: Assemble the minions!
 Margo: Oh, uh, can we get stuffed crust?
-Edith,Â Agnes,Â Jerry the Minion,Â Stuart the Minion: OOOOHHHH, stuffed crust.
+Edith, Agnes, Jerry the Minion, Stuart the Minion: OOOOHHHH, stuffed crust.
 Gru: I'll stuff you all in the crust!
 Agnes: You're funny!
 Gru: Just don't come out of that room again!
@@ -181,7 +181,7 @@ Agnes: Ugh!
 Margo: Great. Thanks for that image, Edith.
 Agnes: And please bless that someone will adopt us soon, and that the mommy and daddy will be nice... and have a pet unicorn.
 Agnes: Amen.
-Margo,Â Edith: Amen.
+Margo, Edith: Amen.
 Gru: Listen close, you little punk. When I get in there, you are in for a world of pain!
 Vector: Ooh, I'm really scared!
 Agnes: He is gonna kick your butt.
@@ -197,5 +197,5 @@ Gru: Hmm, I think I can live with that.
 Edith: Whoa! That is cool! Come on!
 Agnes: I don't think he's a dentist.
 Miss Hattie: Now, go clean something of mine.
-Margo,Â Edith,Â Agnes: Hi, Penny.
+Margo, Edith, Agnes: Hi, Penny.
 Penny: Hi, guys.     

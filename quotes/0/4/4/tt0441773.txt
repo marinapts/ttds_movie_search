@@ -60,12 +60,12 @@ Tai Lung: The Wuxi finger hold!
 Po: Oh, you know this hold.
 Tai Lung: You're bluffing. You're bluffing! Shifu didn't teach you that!
 Po: Nope. I figured it out. Skidoosh.
-Po: He was so deadly, in fact, that his enemies would go blind from over-exposure to pure awesomeness!
 Po: What?
 Mantis: Oh, nothing... Master Shifu.
 Po: Oh, yeah, yeah.
 Po: You will never be the Dragon Warrior, unless you lose 500 pounds, and brush your teeth!
 Po: What is that noise you're making? Laughter? I never heard of it! Work hard, panda, and maybe someday, you will have ears like mine.
+Po: He was so deadly, in fact, that his enemies would go blind from over-exposure to pure awesomeness!
 Po: Legend tells of a legendary warrior whose kung fu skills were the stuff of legend.
 Tai Lung: Who are you?
 Po: Buddy, I... am the Dragon Warrior!
@@ -174,7 +174,7 @@ Oogway: You.
 Po: What?
 Oogway: The universe has brought us the Dragon Warrior!
 Po: What?
-Tigress,Â Crane,Â Monkey,Â Mantis,Â Viper: What?
+Tigress, Crane, Monkey, Mantis, Viper: What?
 Shifu: WHAT?
 Mr. Ping: WHAT?
 Po: Careful, that soup is... sharp!

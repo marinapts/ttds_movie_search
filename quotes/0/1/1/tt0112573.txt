@@ -28,7 +28,7 @@ William Wallace: In what language?
 Murron: Ah, you're showing off now.
 William Wallace: That's right. Are you impressed yet?
 Murron: No. Why? Should I be?
-William Wallace: Oui. Parce que chaque jour j'ai pensÃ© Ã  toi.
+William Wallace: Oui. Parce que chaque jour j'ai pensé à toi.
 Murron: Do that standing on your head and I'll be impressed.
 William Wallace: Well, my kilt will fly up, but I'll try.
 Princess Isabelle: You see? Death comes to us all. But before it comes to you, know this: your blood dies with you. A child who is not of your line grows in my belly. Your son will not sit long on the throne. I swear it.
@@ -127,7 +127,7 @@ English Commander: I beg pardon, sire. Won't we hit our own troops?
 Longshanks: Yes... but we'll hit theirs as well. We have reserves. Attack.
 King's Advisor: Sanguinarius homo indomitus est, et se me dite cum mendacia.
 William Wallace: Ego nunquam pronunciari mendacium! Sed ego sum homo indomitus.
-William Wallace: Ou en franÃ§ais, si vous prÃ©fÃ©rez?
+William Wallace: Ou en français, si vous préférez?
 William Wallace: You all right? You look a wee bit shaky.
 Hamish: Shoulda remembered the rocks.
 William Wallace: Aye, you shoulda.

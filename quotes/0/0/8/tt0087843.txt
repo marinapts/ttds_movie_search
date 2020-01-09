@@ -16,6 +16,16 @@ Noodles: I hope the investigation turns out to be nothing. It'd be a shame to se
 Noodles: It's true I have killed people, Mr. Bailey. Sometimes to defend myself, sometimes for money. And many people used to come to us. Business partners, rivals, lovers. Some of the jobs we took, and some we didn't. Yours is one we would never touch, Mr Bailey.
 Max: Is this your idea of revenge?
 Noodles: No. It's just the way I see things.
+Noodles: How's your sister?
+Fat Moe: I ain't seen her for years. She's a big star now.
+Noodles: We should have known, huh? You can always tell the winners at the starting gate. You can always tell the winners, and you can tell the losers.
+Noodles: Who would've put a penny on you?
+Fat Moe: I'd have put everything I ever had on you.
+Noodles: Yeah, and you would've lost.
+Fat Moe: Well, you're beat. Good night.
+Noodles: Good night, Moe. Thanks.
+Fat Moe: What have you been doing all these years?
+Noodles: I've been going to bed early.
 Max: You okay?
 Noodles: How come you didn't tell me?
 Max: Being inside can change you. I'd already made the deal with Frankie to get rid of Joe. With a man like Frankie Minaldi you don't say yes, and then no. I could not take the chance that you'd change your mind. You understand.
@@ -27,16 +37,6 @@ Noodles: I thought you didn't like bosses. It sounded like a good idea then. It 
 Max: Let's just think about it, Noodles. They're gonna ask us to come in with them. There's a lot in it for us...
 Noodles: Today they asked us to get rid of Joe, tomorrow they ask me to get rid of you. Is that okay with you? 'Cause it's not okay with me!
 Max: All right! let's just forget about it...
-Noodles: How's your sister?
-Fat Moe: I ain't seen her for years. She's a big star now.
-Noodles: We should have known, huh? You can always tell the winners at the starting gate. You can always tell the winners, and you can tell the losers.
-Noodles: Who would've put a penny on you?
-Fat Moe: I'd have put everything I ever had on you.
-Noodles: Yeah, and you would've lost.
-Fat Moe: Well, you're beat. Good night.
-Noodles: Good night, Moe. Thanks.
-Fat Moe: What have you been doing all these years?
-Noodles: I've been going to bed early.
 Deborah Gelly: There's an exit back this way. Noodles, go through it. Keep walking. Don't turn around. Please, Noodles, I'm begging you, please.
 Max: You'll be carrying the stink of the streets with you for the rest of your life!
 Noodles: I like the stink of the streets. It makes me feel good. And I like the smell of it, it opens up my lungs. And it gives me a hard-on.
@@ -147,7 +147,7 @@ Noodles: Attaboy. You know, for a rotten bastard son of a bitch... you're not as
 Police Chief Aiello: When will you call?
 Noodles: Don't worry, don't worry, we'll be in touch with you. Bye.
 Young Max: From here on, we establish the shared funds of the gang. They belong to all of us together, and to none of us alone. And we solemnly swear to put in 50 per cent of everything we make. Agreed?
-Young Noodles,Â Young Cockeye,Â Young Patsy,Â Dominic: Agreed.
+Young Noodles, Young Cockeye, Young Patsy, Dominic: Agreed.
 Dominic: I wanna take another peek!
 Deborah Gelly: Aren't you going to say hello?
 Noodles: Hello.

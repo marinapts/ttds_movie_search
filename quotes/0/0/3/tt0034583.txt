@@ -128,11 +128,11 @@ Ilsa: We said no questions.
 Rick: ...Here's looking at you, kid.
 Captain Renault: Major Strasser has been shot... round up the usual suspects.
 Rick: I stick my neck out for nobody!
-Captain Renault: By the way, last night you evinced an interest in SeÃ±or Ugarte.
+Captain Renault: By the way, last night you evinced an interest in Señor Ugarte.
 Victor Laszlo: Yes.
 Captain Renault: I believe you have a message for him?
 Victor Laszlo: Nothing important, but may I speak to him now?
-Major Heinrich Strasser: You would find the conversation a trifle one-sided. SeÃ±or Ugarte is dead.
+Major Heinrich Strasser: You would find the conversation a trifle one-sided. Señor Ugarte is dead.
 Ilsa: Oh.
 Captain Renault: I am making out the report now. We haven't quite decided yet whether he committed suicide or died trying to escape.
 Senor Ferrari: Might as well be frank, monsieur. It would take a miracle to get you out of Casablanca, and the Germans have outlawed miracles.
@@ -235,7 +235,7 @@ Rick: I'd bet they're asleep in New York. I'd bet they're asleep all over Americ
 Rick: I'm sorry for asking. I forgot we said "no questions".
 Ilsa: Well, only one answer can take care of all our questions.
 Captain Renault: Ricky, I'm going to miss you. Apparently you're the only one in Casablanca with less scruples than I.
-Captain Renault: Rick, there are many exit visas sold in this cafÃ©, but we know that *you've* never sold one. That is the reason we permit you to remain open.
+Captain Renault: Rick, there are many exit visas sold in this café, but we know that *you've* never sold one. That is the reason we permit you to remain open.
 Rick: Oh? I thought it was because I let you win at roulette.
 Captain Renault: That is *another* reason.
 Rick: I wouldn't bring up Paris if I were you, it's poor salesmanship.
@@ -292,7 +292,7 @@ Rick: First they take Ugarte and then she walks in. Well, I guess that's the way
 Ilsa: I can't fight it anymore. I ran away from you once. I can't do it again. Oh, I don't know what's right any longer. You have to think for both of us. For all of us.
 Rick: All right, I will. Here's looking at you, kid.
 Ilsa: I wish I didn't love you so much.
-Victor Laszlo: I know a good deal more about you than you suspect. I know, for instance, that you're in love with a woman. It is perhaps a strange circumstance that we both should be in love with the same woman. The first evening I came to this cafÃ©, I knew there was something between you and Ilsa. Since no one is to blame, I - I demand no explanation. I ask only one thing. You won't give me the letters of transit: all right, but I want my wife to be safe. I ask you as a favor, to use the letters to take her away from Casablanca.
+Victor Laszlo: I know a good deal more about you than you suspect. I know, for instance, that you're in love with a woman. It is perhaps a strange circumstance that we both should be in love with the same woman. The first evening I came to this café, I knew there was something between you and Ilsa. Since no one is to blame, I - I demand no explanation. I ask only one thing. You won't give me the letters of transit: all right, but I want my wife to be safe. I ask you as a favor, to use the letters to take her away from Casablanca.
 Rick: You love her that much?
 Victor Laszlo: Apparently you think of me only as the leader of a cause. Well, I'm also a human being. Yes, I love her that much.
 Rick: You'll excuse me, gentlemen. Your business is politics, mine is running a saloon.

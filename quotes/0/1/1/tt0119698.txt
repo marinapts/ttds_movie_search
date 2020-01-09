@@ -19,8 +19,8 @@ San's Wolf Brother: What is it, San? Want me to crunch his face off?
 Moro: Ashitaka... Can you save the girl you love...?
 Narrator: In ancient times, the land lay covered in forests, where, from ages long past, dwelt the spirits of the gods. Back then, man and beast lived in harmony, but as time went by, most of the great forests were destroyed. Those that remained were guarded by gigantic beasts who owed their allegiances to the Great Forest Spirit. For those were the days of gods and of demons...
 Jigo: These days, there are angry ghosts all around us - dead from wars, sickness, starvation - and nobody cares. So you say you're under a curse? So what? So's the whole damn world.
-KÃ´hroku: My arm... It doesn't hurt anymore. It's *healed!*
-KÃ´hroku: OW! No, it's still broken.
+Kôhroku: My arm... It doesn't hurt anymore. It's *healed!*
+Kôhroku: OW! No, it's still broken.
 Moro: You know, that boy wanted to share his life with you.
 San, The Princess Mononoke: I hate him! I hate all humans!
 Lady Eboshi: What do you think you're doing, boy?
@@ -51,6 +51,7 @@ Kaya: Do you think I care about that? I came to give you this, so you won't forg
 Prince Ashitaka: Your crystal dagger. Kaya, I can't take this.
 Kaya: Please keep it with you, brother, to protect you. You *must* take it with you. Please, I want you to have it, so you won't... forget.
 Prince Ashitaka: Kaya, you know I could never forget you.
+Toki: Even if you were a woman, you'd *still* be an idiot!
 Jigo: Well, I give up. Can't win against fools.
 Boar in Okkoto's Tribe: The Forest Spirit saved *him?* Saved the life of this loathsome runt? Why didn't he save Nago? Is he not the guardian of the forest? Why?
 Moro: The Forest Spirit gives life and takes life away. Life and death are his alone. Or have you boars forgotten than?
@@ -61,8 +62,7 @@ Moro: I have lived long enough, San. Soon, the Great Forest Sprit will let me re
 San, The Princess Mononoke: All these years, you've defended the Forest Spirit! He *must* save you!
 Boar in Okkoto's Tribe: You are not fooling us! Nago was beautiful and strong! He would not have run from anything! You wolves must have eaten him!
 San, The Princess Mononoke: Quiet! Watch what you say, you filthy pig!
-KÃ´hroku: Huh, I didn't know the Forest Spirit made the flowers grow.
-Toki: Even if you were a woman, you'd *still* be an idiot!
+Kôhroku: Huh, I didn't know the Forest Spirit made the flowers grow.
 San, The Princess Mononoke: Why chop the trees down?
 Moro: To make them angry. Which makes them stupid.
 Lady Eboshi: Stay here. Help me kill the Forest Spirit, Ashitaka.

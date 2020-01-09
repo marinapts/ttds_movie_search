@@ -62,12 +62,12 @@ Marlin: I'm gonna swim with you...
 Dory: I'm gonna get ya. I'm gonna get ya.
 Marlin: I'm gonna be your best friend...
 Marlin: ...Good feeling's gone.
-Marlin,Â Dory: AHH!
+Marlin, Dory: AHH!
 Marlin: THAAAANKKK YOUUUUU SIRRRRRRR.
 Dory: Wow. I wish I could speak whale...
 Crush: Oh, it's awesome, Jellyman. The little dudes are just eggs, we leave 'em on a beach to hatch, and then, coo-coo-cachoo, they find their way back to the big ol' blue.
 Dory: Hi. I'm Dory.
-Anchor,Â Chum,Â Bruce: Hello, Dory.
+Anchor, Chum, Bruce: Hello, Dory.
 Dory: And, uh, well... well, I don't think I've ever eaten a fish.
 Chum: Wow, that's incredible!
 Bruce: Good on ya, mate!
@@ -167,7 +167,7 @@ Dory: Hoo hoo, hoo hoo! Keep on watching...
 Squirt: Whoa! That was so cool! Hey, Dad! Did you see that? Did you see me? Did you see what I did?
 Crush: You so totally rock, Squirt! So gimme some fin.
 Crush: Noggin'.
-Squirt,Â Crush: Dude!
+Squirt, Crush: Dude!
 Marlin: This is bad, Dory. Very bad.
 Dory: Hey, watch this. Boing! Boing!...
 Marlin: Dory!
@@ -194,7 +194,7 @@ Seagulls: Mine?
 Crab: Ahh! All right! I'll talk! I'll talk! He went to the fishing grounds! Aaah!
 Seagulls: Mine? Mine. Mine!
 Marlin: We did it, we did it oh, yeah, yeah, yeah! No eating here tonight, Woo!
-Marlin,Â Dory: Eating here tonight!
+Marlin, Dory: Eating here tonight!
 Dory: No, no, no eating here tonight, you're on a diet!
 Marlin: Crush, wait. How old are you?
 Crush: Hundred and fifty, and still young, dude. Rock on.
@@ -270,9 +270,9 @@ Bob: Pony boy?
 Bill: You know for a clownfish, he really isn't that funny.
 Ted: Pity.
 Gill: From this moment on, you shall now be known as Sharkbait.
-Bloat,Â Gurgle,Â Bubbles: Sharkbait! Hoo ha ha!
+Bloat, Gurgle, Bubbles: Sharkbait! Hoo ha ha!
 Gill: Welcome, Brother Sharkbait!
-Bloat,Â Gurgle,Â Bubbles: Sharkbait! Hoo ha ha!
+Bloat, Gurgle, Bubbles: Sharkbait! Hoo ha ha!
 Gill: Enough with the Sharkbait.
 Gurgle: Sharkbait! Hoo... bop pa doo.
 Marlin: ...and the sea cucumber turns to the mollusk and says, "With fronds like these, who needs anemones?"
@@ -282,7 +282,7 @@ Dory: There! I see it! I see it!
 Marlin: You mean the swirling vortex of terror?
 Crush: That's it, dude!
 Bruce: Hello. My name is Bruce.
-Anchor,Â Chum: Hello, Bruce.
+Anchor, Chum: Hello, Bruce.
 Bruce: It has been three weeks since my last fish, on my honor, or may I be chopped up and made into soup.
 Chum: You're an inspiration to us all!
 Anchor: Amen!
@@ -423,7 +423,7 @@ Mr. Ray: Well, hello Nemo. Who's this?
 Nemo: Exchange student.
 Squirt: I'm from the EAC, dude.
 Mr. Ray: Sweet!
-Nemo,Â Squirt: Totally!
+Nemo, Squirt: Totally!
 Marlin: I have to get out of here! I have to find my son! I have to tell him how old sea turtles are!
 Marlin: Hey. Guess what?
 Nemo: What?
@@ -438,7 +438,7 @@ Chum: Dolphins, yeah! They think they're so cute. "Oh, look at me, I'm a flippy 
 Bruce: All right, anyone else? Hello, how 'bout you, mate? What's your problem?
 Marlin: Me? I don't... I don't have a problem.
 Bruce: Oh. Okay...
-Bruce,Â Anchor,Â Chum: Denial.
+Bruce, Anchor, Chum: Denial.
 Dory: Ow!
 Marlin: Oh, I'm really sorry. Are you okay?
 Dory: Ow, ow, ow!
@@ -448,11 +448,11 @@ Marlin: Ohh!
 Dory: Ow. Ow. Ow.
 Bruce: Dory, are you okay...
 Bruce: Oh, ooooooh, that's good...
-Chum,Â Anchor: Intervention!
+Chum, Anchor: Intervention!
 Squirt: Whoa! That was so cool! Hey dad! Did you see that? Did you see me? Did you see what I did?
 Crush: You so totally rock, Squirt! So gimme some fin.
 Crush: Noggin'.
-Crush,Â Squirt: Dude!
+Crush, Squirt: Dude!
 Marlin: Oh, my goodness!
 Crush: Whoa. Kill the motor, dude.
 Dory: Well, let's just ask someone for directions.
@@ -486,7 +486,7 @@ Gurgle: Clean him!
 Jacques: Oui.
 Gurgle: Ocean!
 Jacques: Oo, la mer! Bon!
-Jacques: VoilÃ . He is clean.
+Jacques: Voilà. He is clean.
 Dentist: Good thing I pulled the right one, eh, Prime Minister?
 Nemo: ...uh... AH.
 Jacques: Suivez-moi.
@@ -689,7 +689,7 @@ Marlin: Where's Nemo? Where is he?
 Bloat: Dentist! Dentist!
 Marlin: What's a dentist? What is that?
 Nigel: Alright Gerald, what is it? Fish got your tongue?
-Dory,Â Marlin: Aaaaahh!
+Dory, Marlin: Aaaaahh!
 Nigel: Love a duck!
 Nemo: First day of school! Wake up! Come on. First day of school.
 Nemo: How many times have you tried to escape?

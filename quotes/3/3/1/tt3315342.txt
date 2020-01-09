@@ -6,13 +6,13 @@ Logan: How do you know?
 Laura: Charles told me.
 Logan: What else did he tell you?
 Laura: To not let you.
-Charles Xavier: You know, Logan. This was, without a doubt, the most perfect night I've had in a very long time... and I don't deserve it, do I?
-Charles Xavier: I did something. Something unspeakable. I've remembered what happened in Westchester. This is not the first time I've hurt people. Until today, I didn't know. You wouldn't tell me. So we just kept on running away from it. I think I finally understand you.
 Logan: Take your friends and run... They'll keep coming, and coming... You don't have to fight anymore.
 Logan: Go... Don't be what they made you.
 Logan: Laura.
 Laura: Daddy.
 Logan: So... this is what it feels like.
+Charles Xavier: You know, Logan. This was, without a doubt, the most perfect night I've had in a very long time... and I don't deserve it, do I?
+Charles Xavier: I did something. Something unspeakable. I've remembered what happened in Westchester. This is not the first time I've hurt people. Until today, I didn't know. You wouldn't tell me. So we just kept on running away from it. I think I finally understand you.
 Charles Xavier: Two days on the road, only one meal, and hardly any sleep. She's 11, I'm fucking 90...
 Charles Xavier: What are these?
 Logan: You know what they are. The shots mellow the seizures. The pills keep them from happening. How about you blow on them to make them safe?
@@ -116,8 +116,8 @@ Laura: Jonah, Gideon, Rebecca, Delilah, Rictor.
 Logan: What? Who's that?
 Laura: Jonah, Gideon, Rebecca, Delilah, Rictor.
 Logan: Who is that?
-Donald Pierce: I'm a fan, by the way.
 Caliban: Found this in your pocket. Adamantium. If you are planning to blow your brains out, could you wait till you're out on the high seas? I just mopped these floors.
+Donald Pierce: I'm a fan, by the way.
 Donald Pierce: Showtime, boy!
 Logan: Who the fuck are you?
 Donald Pierce: You know, you got some buckshot on your door. I hear you was in Phoenix. But then last night some friends of mine in Texas HP called, told me they found three dead cholos on a pullout at fifty-four. Not unusual I know. Except one was missing a hand another one a leg. So they was thinkin' it was either a escaped tiger or Freddy Krueger. But not one of them could drive: one being fictional the other one extinct. And since the wheel lugs they found belonged to a twenty-two Chrysler... Well, this is a twenty-two Chrysler.
@@ -146,6 +146,7 @@ Logan: I am fucked up. And I cannot get you there. It is a two-day drive. And I 
 Logan: Don't fucking hit me! Don't hit me!
 Laura: Jonah, Gideon, Rebecca, Delilah, Rictor.
 Logan: Stop saying those names. Right now. Stop saying those names. Stop it! Stop! Fuck it. Fine, fine. You wanna go? I'll take you there. See for yourself. Let's go to fucking fantasyland.
+Charles Xavier: I like those. They make you look younger.
 Will Munson: He's a friend of mine.
 Jackson: A friend with a big mouth.
 Logan: I hear that a lot.
@@ -160,7 +161,6 @@ Logan: Three.
 Logan: You know the drill. Get the hell out of here.
 Logan: GO!
 Logan: This is my father... Chuck.
-Charles Xavier: I like those. They make you look younger.
 Logan: Where's Caliban?
 Donald Pierce: Why don't you tell me where the girl is first? Or I can ask the old man, he seems quite friendly...
 Logan: I told you she's not here. Where's Caliban, motherfucker?

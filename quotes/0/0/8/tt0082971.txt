@@ -36,7 +36,7 @@ Indiana: Give me the whip.
 Satipo: Throw me the idol.
 Satipo: No time to argue! Throw me idol, I'll throw you the whip!
 Indiana: Give me the whip!
-Satipo: AdiÃ³s, seÃ±or.
+Satipo: Adiós, señor.
 Indiana: The Ark of the Covenant, the chest that the Hebrews used to carry around the Ten Commandments.
 Major Eaton: What, you mean THE Ten Commandments?
 Indiana: Yes, the actual Ten Commandments, the original stone tablets that Moses brought down from Mt. Horeb and smashed, if you believe in that sort of thing...
@@ -124,9 +124,9 @@ Belloq: All your life has been spent in pursuit of archaeological relics. Inside
 Sallah: Oh, my friends! I'm so pleased you're not dead!
 Toht: Your fire is dying... here, why don't you tell me where the piece is right now?
 Marion: Listen, Herr Mac, I don't know what kind of people you're used to dealing with, but nobody tells me what to do in my place.
-Toht: FrÃ¤ulein Ravenwood, let me show you what I am used to...
+Toht: Fräulein Ravenwood, let me show you what I am used to...
 Indiana: Stay here.
-Satipo: If you insist, seÃ±or.
+Satipo: If you insist, señor.
 Belloq: Dr. Jones. Again we see there is nothing you can possess which I cannot take away. And you thought I'd given up.
 Belloq: You chose the wrong friends. This time it will cost you.
 Indiana: Too bad the Hovitos don't know you the way I do, Belloq.
@@ -172,7 +172,7 @@ Toht: We meet again, Fraulein. You Americans, you're all the same. Always overdr
 Indiana: Balloq's medallion only had writing on one side? You sure about that?
 Sallah: Positive!
 Indiana: Balloq's staff is too long.
-Indiana,Â Sallah: They're digging in the wrong place!
+Indiana, Sallah: They're digging in the wrong place!
 Marion: Hey, what happened? You don't look very happy.
 Indiana: Fools. Bureaucratic fools!
 Marion: What'd they say?
@@ -199,7 +199,7 @@ Belloq: Your persistence surprises even me. You're going to give mercenaries a b
 Dietrich: Dr. Jones. Surely you don't think you can escape from this island?
 Indiana: That depends on how reasonable we're all willing to be! All I want is the girl!
 Dietrich: If we refuse?
-Indiana: Then your FÃ¼hrer has no prize!
+Indiana: Then your Führer has no prize!
 Indiana: Okay, stand back. All of you, stand back. Get back.
 Indiana: Okay, Jones. You win. Blow it up.
 Indiana: Yes, blow it up! Blow it back to God. All your life has been spent in pursuit of archaeological relics. Inside the Ark are treasures beyond your wildest aspirations. You want to see it open as well as I. Indiana, we are simply passing through history. This...
@@ -229,7 +229,7 @@ Belloq: Jones!
 Dietrich: Doctor Jones, surely you don't think you can escape from this island?
 Indiana: That depends on how reasonable we're all willing to be. All I want is the girl.
 Dietrich: And if we refuse?
-Indiana: Then your FÃ¼hrer has no prize.
+Indiana: Then your Führer has no prize.
 Toht: Shoot them. Shoot them both.
 Belloq: I told you not to be premature in your communique to Berlin. Archeology is not an exact science. It does not deal in time schedules!
 Dietrich: The Fuhrer is not a patient man. He demands constant reports. You led me to believe...
@@ -242,7 +242,7 @@ Indiana: Indiana: Son of a bitch!
 Belloq: I'm afraid we must be going now, Dr. Jones.
 Dietrich: Our prize is awaited in Berlin. Yes... we are finished here with everything. But we do not wish to leave you down in that awful place... all alone.
 Belloq: The girl was mine!
-Dietrich: She's of no use to us. Only your mission for the FÃ¼hrer matters.
+Dietrich: She's of no use to us. Only your mission for the Führer matters.
 Satipo: The Hovitos are near.
 Satipo: The poison is still fresh, three days. They're following us.
 Barranca: If they knew we were here, they would have killed us already.     

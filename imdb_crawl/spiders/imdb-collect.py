@@ -30,7 +30,7 @@ class iMDBCollect(scrapy.Spider):
         for id in f:
             id = re.sub(r'\s+', '', id)
             if re.match(r'tt\d+', id):
-                start_urls.append('https://www.imdb.com/title/{}'.format(id))
+                start_urls.append('https://www.imdb.com/title/{}/'.format(id))
 
     # Entry method for crawling movie's main page
     def parse(self, response):
@@ -97,7 +97,8 @@ class iMDBCollect(scrapy.Spider):
         main_url = response.request.meta['main_url']
         item = response.request.meta['item']
 
-        # TODO: scrape the plot keywords here and add them to item
+        # Scrape the plot keywords here and add them to item
+        item['plotKeywords'] = response.xpath('//td[@class="soda sodavote"]/@data-item-keyword').getall()
 
         yield scrapy.Request(main_url + 'quotes',
                              meta={'main_url': main_url, 'item': item},

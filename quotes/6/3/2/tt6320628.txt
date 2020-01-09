@@ -22,14 +22,14 @@ Pat Kiernan: This shocking video was released earlier today on the controversial
 J. Jonah Jameson: There you have it folks: conclusive proof that Spider-Man was responsible for the brutal murder of Mysterio! An interdimensional warrior who gave his life to protect our planet, and who will no doubt, go down in history as the greatest superhero of all time! But that's not all folks, here's the real blockbuster. Brace yourselves, you might wanna sit down.
 Mysterio: Spider-Man's real... Spider-Man's real name is - Spider-Man's name is Peter Parker!
 Spider-Man: What the fu - !
-Flash Thompson: He's all right. He's no Spider-Man.
-MJ: What is it with you and Spider-Man?
-Flash Thompson: What? He's just awesome, okay? He protects the neighborhood and, you know, he's inspiring. He's inspires me to be a better man.
-Flash Thompson: What's up, dickwad? I thought you drowned.
 Peter Parker: MJ, I...
 MJ: ...am Spider-Man?
 Peter Parker: No. Of course not!
 MJ: I mean it's... kind of obvious.
+Flash Thompson: He's all right. He's no Spider-Man.
+MJ: What is it with you and Spider-Man?
+Flash Thompson: What? He's just awesome, okay? He protects the neighborhood and, you know, he's inspiring. He's inspires me to be a better man.
+Flash Thompson: What's up, dickwad? I thought you drowned.
 Peter Parker: How could you do all of this?
 Quentin Beck: You'll see, Peter. People... need to believe. And nowadays, they'll believe anything.
 Happy Hogan: Heads-up. Nick Fury's calling you.
@@ -79,19 +79,19 @@ Nick Fury: Locals say the cyclone had a face.
 Maria Hill: People see things when they're under stress.
 Peter Parker: The world needs the next Iron Man.
 Spider-Man: Excuse me, sir! I can help! Let me help! I'm really strong and I'm... sticky!
-Mr. Dell: I came for science. I'm leaving 'cause of witches. Welcome to the new dark ages!
-Mr. Harrington: Did I tell you how my wife pretended to blip out? Turns out she ran off with a guy in her hiking group. We had a fake funeral for her and everything... Well the funeral was real. 'Cause we thought she was really dead.
 Peter Parker: Happy, is that you?
 Happy Hogan: Is it me? Yeah, of course it's me!
 Peter Parker: Stop! Tell me something only you would know!
 Happy Hogan: Only I would know... Uh... Remember when we went to Germany? You pay-per-viewed a video in your room? They didn't list the titles but I could tell by the price that it was an adult film at the front desk, and you didn't know how I knew...
 Peter Parker: Ok ok! Stop!
+Mr. Dell: I came for science. I'm leaving 'cause of witches. Welcome to the new dark ages!
+Mr. Harrington: Did I tell you how my wife pretended to blip out? Turns out she ran off with a guy in her hiking group. We had a fake funeral for her and everything... Well the funeral was real. 'Cause we thought she was really dead.
 Mysterio: You are just a scared little kid in a sweatsuit. I created Mysterio to give the world someone to believe in. I control the truth; Mysterio *is* the truth!
-Peter Parker: You can't trick me anymore.
 MJ: You know, Susan Yang thinks you're a male escort.
 Peter Parker: What? No! Of course I'm not a male escort.
 MJ: Well then you're Spider-Man.
 May Parker: Let's go. Where are your bags? Oh right! They got blown up.
+Peter Parker: You can't trick me anymore.
 May Parker: Hungry?
 May Parker: You can dodge bullets but not bananas?
 May Parker: I thought that you could sense that with your Peter-Tingle.
@@ -106,16 +106,16 @@ MJ: Okay... no?
 Nick Fury: Why the hell not?
 Peter Parker: Uh, I have like a sixth sense.
 Happy Hogan: The Peter-Tingle!
-Nick Fury: How's the suit?
-Peter Parker: It's a little tight around the ol' web-shooter.
-Happy Hogan: No-one dies on my watch.
-Betty Brant: I would totally kiss you but I think I just threw up in my mouth a little.
-Ned Leeds: I- I might have a mint.
 Nick Fury: Beck! What's your four?
 Quentin Beck: Hey William, I need a response!
 William Ginter Riva: It's all the elementals they've all merged into something...
 Quentin Beck: It's something else! Something more powerful! It's storing energy from the earth's core!
 Nick Fury: See now that's some bullshit.
+Nick Fury: How's the suit?
+Peter Parker: It's a little tight around the ol' web-shooter.
+Happy Hogan: No-one dies on my watch.
+Betty Brant: I would totally kiss you but I think I just threw up in my mouth a little.
+Ned Leeds: I- I might have a mint.
 Flash Thompson: I post stupid videos daily for people to like me.
 Happy Hogan: Hey, if it wasn't for those stupid videos, Spider-Man would have never found you.
 Flash Thompson: Spider-Man...? Spider-Man follows me? I saved us, guys!
@@ -123,9 +123,6 @@ MJ: If you saved us, why are we about to die?
 Flash Thompson: Yo, Parker! This is called an airplane. It's like the buses you're used to, except that it flies over the poor neighborhoods instead of driving through them.
 Mr. Harrington: What do you think it is?
 Mr. Dell: You know, being a man of science, witches.
-Mr. Harrington: Just making rounds, seeing if anyone needs any emotional counseling after today's traumatic events.
-Peter Parker: No we're okay. We're- we're fine. Thank you.
-Mr. Harrington: Great. 'Cause, I'm not- I'm not qualified.
 Happy Hogan: Hey, sorry I'm late.
 May Parker: Happy! Hey.
 Happy Hogan: Oh, you look lovely.
@@ -135,6 +132,9 @@ May Parker: Uh, yeah. Yes, it is. That's a new beard.
 Happy Hogan: It's my blip beard, because I grew it in a blip. Blip beard.
 May Parker: I see.
 Spider-Man: What just happened?
+Mr. Harrington: Just making rounds, seeing if anyone needs any emotional counseling after today's traumatic events.
+Peter Parker: No we're okay. We're- we're fine. Thank you.
+Mr. Harrington: Great. 'Cause, I'm not- I'm not qualified.
 Nick Fury: You got gifts, Parker. But you didn't want to be here. I'd love to have you in Berlin, but you've got to decide whether you're going to step up or not. Stark chose you. He made you an Avenger. I need that. The world needs that. Maybe Stark was wrong. The choice is yours.
 Peter Parker: I've face a lot of deception, and I'm tired of the lies. So it's time for the truth to be out there. Are you dating?
 Happy Hogan: Yes.

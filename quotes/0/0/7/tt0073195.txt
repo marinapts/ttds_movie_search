@@ -71,7 +71,7 @@ Hooper: That's right.
 Brody: Now this shark that... that... that swims alone...
 Hooper: Rogue.
 Brody: What's it called?
-Hooper,Â Brody: Rogue.
+Hooper, Brody: Rogue.
 Brody: Rogue, yeah. Now this guy, he... he keeps swimmin' around in a place where the feeding is good until the food supply is gone, right?
 Hooper: It's called "territoriality". It's just a theory that I happen to... agree with.
 Brody: Then why don't we have one more drink and go down and cut that shark open?
@@ -80,7 +80,7 @@ Brody: I can do anything; I'm the chief of police.
 Hooper: Ha, ha - they're all gonna die.
 Hooper: Boys, oh boys... I think he's come back for his noon feeding.
 Hooper: Show me the way to go home / I'm tired and I want to go to bed...
-Hooper,Â Quint,Â Brody: I had a little drink about an hour ago and it got right to my head / Wherever I may roam / by land or sea or foam...
+Hooper, Quint, Brody: I had a little drink about an hour ago and it got right to my head / Wherever I may roam / by land or sea or foam...
 Ellen Brody: Martin, it's his birthday tomorrow!
 Brody: I don't want him on the ocean!
 Ellen Brody: He's not on the ocean, he is in a boat! He's not gonna go in the water! I don't think he'll ever go in the water again after what happened yesterday.
@@ -185,7 +185,7 @@ Hooper: All right, all right! Hey, I don't need this... I don't need this workin
 Quint: Front, bow. Back, stern. If ya don't get it right, squirt, I throw your ass out the little round window on the side.
 Quint: Ah, the missus, Chief. If they don't like you going out, they'll love you comin' in.
 Mayor Vaughn: I'm only trying to say that Amity is a summer town. We need summer dollars. Now, if the people can't swim here, they'll be glad to swim at the beaches of Cape Cod, the Hamptons, Long Island...
-Brody: That doesn't mean we have to serve them up as smÃ¶rgÃ¥sbord!
+Brody: That doesn't mean we have to serve them up as smörgåsbord!
 Brody: You're certifiable, Quint! You know that?
 Quint: Yeah, yeah, yeah...
 Brody: Larry, the summer is over. You're the mayor of "shark city". These people think you want the beaches open.

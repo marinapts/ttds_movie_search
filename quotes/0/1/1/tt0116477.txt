@@ -61,7 +61,7 @@ Horatio: As I do live, my honored lord, 'tis true, and we did think it writ down
 Hamlet: Indeed, indeed, sirs. But this troubles me. Hold you the watch tonight?
 Barnardo: My lord, we do.
 Hamlet: Armed, say you?
-Horatio,Â Marcellus,Â Barnardo: Armed, my lord.
+Horatio, Marcellus, Barnardo: Armed, my lord.
 Hamlet: What, from top to toe?
 Marcellus: My lord, from head to foot.
 Hamlet: Then saw you not his face.
