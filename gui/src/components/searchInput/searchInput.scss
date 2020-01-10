@@ -1,0 +1,13 @@
+.search-container {
+  display: flex;
+  align-items: row;
+  justify-content: space-between;
+
+  .search-input {
+    width: 83%;
+  }
+
+  .search-button {
+    width: 15%;
+  }
+}

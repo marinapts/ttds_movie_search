@@ -21,16 +21,28 @@ const darkTheme = createMuiTheme({
 });
 
 export default class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      movies: []
+    }
+  }
+
+  getMoviesForQuery = data => {
+    this.setState({ movies: data.movies })
+  }
 
   render() {
+    const { movies } = this.state
+
     return (
       <ThemeProvider theme={darkTheme}>
         <Container className="app">
           <h3>TTDS Movie Project 2020</h3>
           <div className="search-container">
-            <SearchInput />
+            <SearchInput getMoviesForQuery={this.getMoviesForQuery} />
           </div>
-          <MoviesContainer />
+          {movies.length > 0 && <MoviesContainer movies={movies} /> }
         </Container>
       </ThemeProvider>
     )

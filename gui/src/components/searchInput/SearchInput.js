@@ -1,24 +1,58 @@
 import React from 'react'
 import Grid from '@material-ui/core/Grid'
-import { TextField } from '@material-ui/core'
-import { makeStyles } from '@material-ui/core/styles'
+import { TextField, Button } from '@material-ui/core'
+import API from '../../utils/API'
 
-const useStyles = makeStyles(theme => ({
-  root: {
-    '& > *': {
-      width: '100%',
-    },
+import './searchInput.scss'
+
+export default class SearchInput extends React.Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      query: ''
+    }
   }
-}));
 
-export default function SearchInput() {
-  const classes = useStyles();
+  onSearchChange = e => {
+    this.setState({ query: e.target.value })
+  }
 
-  return (
-    <Grid item xs={8}>
-      <form className={classes.root} noValidate autoComplete="off">
-        <TextField id="outlined-basic" label="Search for a movie quote..." variant="outlined" />
-      </form>
-    </Grid>
-  )
+  querySearch = async () => {
+    const { query } = this.state;
+
+    if (query.length > 0) {
+      try {
+        const response = await API.post('/query_search', { query })
+        this.props.getMoviesForQuery(response.data)
+      } catch (error) {
+        // @TODO: Show a proper error message to the user
+        console.error(error)
+      }
+    }
+  }
+
+  render() {
+    return (
+      <Grid item xs={8}>
+        <form className="search-container" noValidate autoComplete="off">
+          <div className="search-input">
+            <TextField
+              id="outlined-basic"
+              label="Search for a movie quote..."
+              variant="outlined"
+              fullWidth
+              onChange={this.onSearchChange}
+            />
+          </div>
+          <Button
+            className="search-button"
+            variant="outlined"
+            color="primary"
+            onClick={this.querySearch}
+          >Search</Button>
+        </form>
+      </Grid>
+    )
+  }
 }
