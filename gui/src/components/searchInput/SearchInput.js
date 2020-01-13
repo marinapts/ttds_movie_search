@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import Grid from '@material-ui/core/Grid'
 import { TextField, Button } from '@material-ui/core'
 import API from '../../utils/API'
@@ -69,4 +70,8 @@ export default class SearchInput extends React.Component {
       </Grid>
     )
   }
+}
+
+SearchInput.propTypes = {
+  getMoviesForQuery: PropTypes.func.isRequired
 }
