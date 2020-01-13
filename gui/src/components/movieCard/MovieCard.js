@@ -6,30 +6,28 @@ import CardActions from '@material-ui/core/CardActions'
 import CardContent from '@material-ui/core/CardContent'
 import Button from '@material-ui/core/Button'
 import Typography from '@material-ui/core/Typography'
-import logo from '../../logo.svg';
 
 import './movieCard.scss'
 
-
 export default class MovieCard extends React.Component {
-  render() {
-    const { title, description, info, img, imgTitle } = this.props
 
+  render() {
     return (
       <Card raised className="card-container">
         <CardMedia
           className="card-media"
-          image={logo} // replace this with img
-          title={imgTitle || ''}
+          image={this.props.thumbnail}
+          title={this.props.title}
         />
         <div className="card-content">
           <CardContent>
-            <Typography variant="h5" component="h2">{title}</Typography>
-            <Typography variant="body2" component="p">{description}<br />{info}</Typography>
+            <Typography variant="h5" component="h2">{this.props.title}</Typography>
+            <Typography variant="body2" component="p">Rating: {this.props.rating}<br />Year: {this.props.year}</Typography>
+            <Typography variant="body2" component="p">Category: {this.props.categories.join(", ")}</Typography>
           </CardContent>
           <CardActions>
             <Button variant="outlined" color="primary">View more</Button>
-          </CardActions>
+          </CardActions>   
         </div>
       </Card>
     )

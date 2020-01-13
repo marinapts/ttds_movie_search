@@ -22,33 +22,10 @@ def query_search():
     query = content['query']
 
     # @TODO: Get movies for the given query
-    fake_movies = [
-        {
-            'id': 1,
-            'title': 'Movie Title 1',
-            'description': 'Movie Description 1',
-            'info': 'Movie Info 1',
-        },
-        {
-            'id': 2,
-            'title': 'Movie Title 2',
-            'description': 'Movie Description 2',
-            'info': 'Movie Info 2',
-        },
-        {
-            'id': 3,
-            'title': 'Movie Title 3',
-            'description': 'Movie Description 3',
-            'info': 'Movie Info 3',
-        },
-        {
-            'id': 4,
-            'title': 'Movie Title 4',
-            'description': 'Movie Description 4',
-            'info': 'Movie Info 4',
-        }
-    ]
-    return json.dumps({'movies': fake_movies})
+    with open('movies.json') as movies:
+        movies_dict = json.load(movies)
+
+    return json.dumps({'movies': movies_dict})
 
 
 if __name__ == '__main__':
