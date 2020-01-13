@@ -10,8 +10,13 @@ export default class SearchInput extends React.Component {
     super(props)
 
     this.state = {
-      query: ''
+      query: '',
+      showErrorMsg: false
     }
+  }
+
+  componentDidMount() {
+    this.setState({ showErrorMsg: false })
   }
 
   onSearchChange = e => {
@@ -25,14 +30,18 @@ export default class SearchInput extends React.Component {
       try {
         const response = await API.post('/query_search', { query })
         this.props.getMoviesForQuery(response.data)
+        this.setState({ showErrorMsg: false })
       } catch (error) {
         // @TODO: Show a proper error message to the user
         console.error(error)
+        this.setState({ showErrorMsg: true })
       }
     }
   }
 
   render() {
+    const { showErrorMsg } = this.state
+
     return (
       <Grid item xs={8}>
         <form className="search-container" noValidate autoComplete="off">
@@ -52,6 +61,11 @@ export default class SearchInput extends React.Component {
             onClick={this.querySearch}
           >Search</Button>
         </form>
+        {showErrorMsg &&
+          <h6 className="error-container">
+            Error: API not running. Go to ttds_movie_search/api and run ./run.sh
+          </h6>
+        }
       </Grid>
     )
   }
