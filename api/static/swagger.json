@@ -1,0 +1,116 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "TTDS Movie Search API"
+  },
+  "paths": {
+    "/query_search": {
+      "post": {
+        "tags": [
+          "Movies"
+        ],
+        "summary": "Sample endpoint returning movies",
+        "requestBody": {
+          "description": "Request body object for specifying query parameters, for example movie ids.",
+            "required": false,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "ids": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "movies": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/movies"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "movie": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "year": {
+            "type": "number",
+            "format": "integer"
+          },
+          "rating": {
+            "type": "number",
+            "format": "float"
+          },
+          "countOfRatings": {
+            "type": "number",
+            "format": "integer"
+          },
+          "categories": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "thumbnail": {
+            "type": "string"
+          },
+          "cast": {
+            "$ref": "#/components/schemas/cast_info"
+          },
+          "plotKeywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "movies": {
+        "type": "array",
+        "items": {
+          "$ref": "#/components/schemas/movie"
+        }
+      },
+      "cast_info": {
+        "type": "object",
+        "properties": {
+
+        }
+      }
+    }
+  }
+}
