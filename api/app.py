@@ -42,26 +42,3 @@ def query_search():
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
-
-
-"""
-"parameters": [
-          {
-            "name": "body",
-            "in": "body",
-            "description": "Request body object for specifying query parameters, for example movie ids.",
-            "required": false,
-            "schema": {
-              "type": "object",
-              "properties": {
-                "ids": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                }
-              }
-            }
-          }
-        ],
-"""
