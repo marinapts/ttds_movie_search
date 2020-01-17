@@ -6,19 +6,39 @@ import CardActions from '@material-ui/core/CardActions'
 import CardContent from '@material-ui/core/CardContent'
 import Button from '@material-ui/core/Button'
 import Typography from '@material-ui/core/Typography'
+import CardActionArea from '@material-ui/core/CardActionArea'
 
 import './movieCard.scss'
 
 export default class MovieCard extends React.Component {
-
+  constructor(props){
+    super(props);
+    this.state = {
+       viewMore: false,
+    };
+    this.viewMoreAction = this.viewMoreAction.bind(this);
+  }
+  viewMoreAction(){
+    const {viewMore} =  this.state;
+    this.setState({ 
+      viewMore: !viewMore,
+    });
+  }
   render() {
+    const castList = Object.entries(this.props.cast).map(([key,value])=>{
+      return (
+        <div>{key} as {value}</div>
+      );
+    })
+    const {viewMore} = this.state;
     return (
+      <>
       <Card raised className="card-container">
-        <CardMedia
+      <CardMedia
           className="card-media"
           image={this.props.thumbnail}
-          title={this.props.title}
         />
+      <CardActionArea onClick={this.viewMoreAction}>
         <div className="card-content">
           <CardContent>
             <Typography variant="h5" component="h2">{this.props.title}</Typography>
@@ -26,10 +46,21 @@ export default class MovieCard extends React.Component {
             <Typography variant="body2" component="p">Category: {this.props.categories.join(", ")}</Typography>
           </CardContent>
           <CardActions>
-            <Button variant="outlined" color="primary">View more</Button>
+            <Button variant="outlined" color="primary">viewMore</Button>
           </CardActions>   
         </div>
+        </CardActionArea>
       </Card>
+      {viewMore && (
+        <Card raised className="card-container-view-more">
+          <div>
+            <CardContent>
+                <Typography>{castList}</Typography>
+            </CardContent>
+          </div>
+        </Card>
+      )}
+      </>
     )
   }
 }
