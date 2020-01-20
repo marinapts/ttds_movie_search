@@ -36,11 +36,11 @@ Clarence Boddicker: Don't you get it? You cocksucker! I work for Dick Jones! Dic
 Clarence Boddicker: You're a cop. Cop!
 RoboCop: Yes, I am a cop.
 RoboCop: Let's talk.
+Keva Rosenberg Unemployed Person: It's a free society - except there ain't nothin' free, because there's no guarantees, you know? You're on your own. It's the law of the jungle. Hoo-hoo.
 RoboCop: Drop it!
 RoboCop: Dead or alive, you're coming with me.
 Emil: I know you. You're dead! We killed you!
 Emil: We killed you!
-Keva Rosenberg Unemployed Person: It's a free society - except there ain't nothin' free, because there's no guarantees, you know? You're on your own. It's the law of the jungle. Hoo-hoo.
 RoboCop: Let the woman go. You are under arrest.
 Creep's Buddy: Shit!
 Creep's Buddy: You... you better back-up, pal! 'Cuz... he's gonna kill her. He... he is gonna kill her!
@@ -80,9 +80,6 @@ Dick Jones: ...but you wouldn't go through proper channels.
 Dick Jones: You went over my head. That hurt...
 Dick Jones: ...but life goes on, it's an old story, the fight for love and glory, huh, Bob? It helps if you think of it as a game, Bob. Every game has a winner and a loser.
 Dick Jones: I'm cashing you out, Bob.
-RoboCop: Come quietly or there will be... trouble.
-Steve Minh: Oh...
-Steve Minh: Fuck you!
 Officer Lewis: Sorry, Sarge. I fucked up.
 Sgt. Reed: Forget it, kid. This guy's a serious asshole.
 Slimey Lawyer: Attempted murder? Well, it's not like he killed someone. This is a clear violation of my client's civil rights.
@@ -109,6 +106,9 @@ RoboCop: I will.
 Dick Jones: What's the matter officer? I'll tell you what's the matter. It's a little insurance policy called "Directive 4", my little contribution to your psychological profile. Any attempt to arrest a senior officer of OCP results in shutdown. What did you think? That you were an ordinary police officer? You're our product, and we can't very well have our products turning against us, can we?
 Dick Jones: Ahh, still a little fight left in you. Maybe you'd like to meet a friend of mine.
 Dick Jones: I had to kill Bob Morton because he made a mistake. Now it's time to erase that mistake.
+RoboCop: Come quietly or there will be... trouble.
+Steve Minh: Oh...
+Steve Minh: Fuck you!
 Clarence Boddicker: Sayonara, RoboCop!
 Murphy: Role models can be very important to a boy.
 Dougy: We rob the banks but we never get to keep the money.

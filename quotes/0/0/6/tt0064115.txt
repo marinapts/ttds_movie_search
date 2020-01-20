@@ -77,9 +77,9 @@ Sundance Kid: What?
 Butch Cassidy: You didn't see Lefors out there, did you?
 Sundance Kid: Lefors? No.
 Butch Cassidy: Oh, good. For a moment there I thought we were in trouble.
-Bolivian police commander: ¡Fuego!
-Bolivian police commander: ¡Fuego!
-Bolivian police commander: ¡Fuego!
+Bolivian police commander: Â¡Fuego!
+Bolivian police commander: Â¡Fuego!
+Bolivian police commander: Â¡Fuego!
 Sundance Kid: Hey, what are you doin'?
 Butch Cassidy: Stealin' your woman?
 Sundance Kid: Take her.
@@ -216,7 +216,7 @@ Large Woman: Oh, I'm not afraid of you, I'm not afraid of anything! I'm a grandm
 Percy Garris: That's what happens when you live 10 years alone in Bolivia: you get colorful...
 Butch Cassidy: Move in slowly, check out everything. The thing to remember...
 Sundance Kid: Don't tell me how to rob a bank. I know how to rob a bank.
-Guard in the 1st Bolivian bank: Buenos dias, seniors. ¿Les puedo servir en algo? Ordenen para atenderlos por favor inmediatamente. ¿Quieren hacer algun deposito? ¿Quieren abrir una cuenta? Bien, el cajero los atienda inmediatamente. Los atendemos por todo.
+Guard in the 1st Bolivian bank: Buenos dias, seniors. Â¿Les puedo servir en algo? Ordenen para atenderlos por favor inmediatamente. Â¿Quieren hacer algun deposito? Â¿Quieren abrir una cuenta? Bien, el cajero los atienda inmediatamente. Los atendemos por todo.
 Butch Cassidy: I can't help you, Sundance.
 Butch Cassidy: Boy, you know every time I see Hole-in-the-Wall again, it's like seeing it fresh for the first time. And every time that happens, I keep asking myself the same question: how could I be so damn stupid to keep coming back here?
 Sundance Kid: What's your idea this time?
@@ -243,18 +243,18 @@ Butch Cassidy: I don't enjoy jungles and I don't enjoy swamps. I don't like snak
 Sundance Kid: Bitch, Bitch, Bitch.
 Bolivian policeman: Jefe, Ilega el ejercito!
 Bolivian police commander: Mi capitan.
-Bolivian army officer: ¿Donde estan?
+Bolivian army officer: Â¿Donde estan?
 Bolivian police commander: Alli en la plaza.
-Bolivian army officer: ¿Cuantos hombres son?
+Bolivian army officer: Â¿Cuantos hombres son?
 Bolivian police commander: Dos hombres.
-Bolivian army officer: ¿Dos hombres?
+Bolivian army officer: Â¿Dos hombres?
 Bolivian police commander: Mi capitan, por favor...
-Bolivian army officer: ¿Dos?
+Bolivian army officer: Â¿Dos?
 Bolivian police commander: Hay Bandidos Yanquis.
-Bolivian army officer: ¿Bandidos Yanquis, huh?
+Bolivian army officer: Â¿Bandidos Yanquis, huh?
 Bolivian police commander: Si, mi capitan.
-Bolivian army officer: ¡Sargento Rico! Desmonten veinte hombres y vayan con el teniente.
-Juan, Bolivian stable boy: ¡Capitan! ¡Capitan! Capitan, alla en la plaza, hay una mula de las minas de Alpoca.
-Bolivian police commander: ¿Las minas de Alpoca?
-Juan, Bolivian stable boy: ¡Sí, sí! Alli estan. Dos hombres la acaban de traer. Estan comiendo en el restaurante de mi papa.
+Bolivian army officer: Â¡Sargento Rico! Desmonten veinte hombres y vayan con el teniente.
+Juan, Bolivian stable boy: Â¡Capitan! Â¡Capitan! Capitan, alla en la plaza, hay una mula de las minas de Alpoca.
+Bolivian police commander: Â¿Las minas de Alpoca?
+Juan, Bolivian stable boy: Â¡SÃ­, sÃ­! Alli estan. Dos hombres la acaban de traer. Estan comiendo en el restaurante de mi papa.
 Butch Cassidy: You're choking me! You're choking me!     

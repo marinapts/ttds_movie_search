@@ -17,7 +17,7 @@ Bats: It should be the "Halloween" mask.
 JD: This is a Halloween mask!
 Bats: No, the killer dude from "Halloween".
 JD: Oh, you mean Jason.
-Eddie, Bats: No!
+Eddie,Â Bats: No!
 Buddy: Is she a good girl? You love her?
 Baby: Yes, I do.
 Buddy: That's too bad.
@@ -47,10 +47,6 @@ Baby: I hope not.
 Deborah: What is your name?
 Baby: Baby.
 Deborah: Your name's Baby? B-A-B-Y Baby?
-Deborah: So when was the last time you hit the road just for fun?
-Baby: Yesterday.
-Deborah: I'm jealous. Sometimes all I want to do is head west on 20 in a car I can't afford with a plan I don't have - just me, my music, and the road.
-Baby: I'd like that, too.
 Nice Lady Teller: That your boy?
 Baby: Sure. Yeah, he sure is.
 Nice Lady Teller: How old is he?
@@ -64,29 +60,33 @@ Bats: Doc didn't tell me shit. Just a educated guess from an uneducated man.
 Buddy: Well, Bats, I would be fascinated to hear your thoughts on the matter.
 Bats: Tell me if I'm way off, Buddy. You were a stockbroker. Maybe a different wife, maybe kids. You stack your paper, but you say shit like "work hard, play harder." But you play a little too hard. You rack up debt. The type of debt that'd make a white man blush. Maybe you get into a little trouble. Maybe you get your hand caught in the corporate cookie jar. Maybe you leave and run off to the desert. Maybe with your favourite lap dancer in tow. Maybe you disappear into a world consisting of three things: money, sex, drugs, and action.
 Bats: Oh shit, that's four. Am I close?
-Deborah: I just can't believe your real name is Miles.
+Deborah: So when was the last time you hit the road just for fun?
+Baby: Yesterday.
+Deborah: I'm jealous. Sometimes all I want to do is head west on 20 in a car I can't afford with a plan I don't have - just me, my music, and the road.
+Baby: I'd like that, too.
 Armie: We've met before, right?
 Bats: I dunno. You still alive, right?
 Armie: Uh-huh.
 Bats: Then I guess we ain't never met.
 Doc: Wow. I just drew a whole goddamn map in chalk while we've been standing here squawking. That's pretty fucking impressive, right?
+Deborah: I just can't believe your real name is Miles.
 Bats: What you ladies listenin' to?
-Baby, Buddy: Queen.
+Baby,Â Buddy: Queen.
 Bats: Queen, huh? Streisand, now Queen. The fuck? What y'all gonna do? Y'all gonna belt out show tunes on the way to the job?
 Deborah: B-A-B-Y, Baby?
-Bats: Tequila.
 Deborah: Not a chauffeur. Noted.
+Bats: Tequila.
 Bats: You're a good driver. You're a bad liar, though. In this business, the moment you catch feelings... is the moment you catch a bullet.
 Griff: Got to hand it to you, totem pole, you're either hard as nails or scared as shit. Which one is it?
 Bats: Those pigs are in hog heaven. The only way they can ID us is with a Ouija board or some shit.
 Doc: Well, your name only takes four letters to spell out.
+Doc: Retarded means slow. Was he slow?
+Griff: No.
 Baby: One more job and I'm done.
 Doc: "One more job" and we're straight. Now I don't think I need to give you the speech about what would happen if you say no, how I could break your legs and kill everyone you love because you already know that, don't you?
 Baby: Yeah.
+Buddy: You did good kid. But you took something away from me that I love. You know I gotta do the same.
 Bats: Darling, do I look like I know a fucking thing about Barbra fucking Streisand?
 Buddy: Hey. Watch your mouth, that's my lady you're talking to.
 Darling: Yeah. Watch your mouth.
-Bats: I'll watch what I wanna watch.
-Doc: Retarded means slow. Was he slow?
-Griff: No.
-Buddy: You did good kid. But you took something away from me that I love. You know I gotta do the same.     
+Bats: I'll watch what I wanna watch.     

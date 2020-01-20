@@ -41,12 +41,12 @@ Laura Bishop: Come down and read this!
 Sam: Those sons of bitches, they got him right through the neck.
 Suzy: Was he a good dog?
 Sam: Who's to say? But he didn't deserve to die.
-Captain Sharp: It's been proven by history: all mankind makes mistakes.
-Suzy: These are my books. I like stories with magic powers in them. Either in kingdoms on Earth or on foreign planets. Usually I prefer a girl hero, but not always.
 Sam: What happened to your hand?
 Suzy: I got hit in the mirror.
 Sam: Really? How did that happen?
 Suzy: I lost my temper at myself.
+Captain Sharp: It's been proven by history: all mankind makes mistakes.
+Suzy: These are my books. I like stories with magic powers in them. Either in kingdoms on Earth or on foreign planets. Usually I prefer a girl hero, but not always.
 Walt Bishop: Be advised, the two of you will never see each other again. Those were your last words. Do you understand?
 Suzy: I'd be careful if I were you. One of these days, somebody's gonna get pushed too far. And who knows what they're capable of?
 Walt Bishop: Is that a threat?
@@ -71,7 +71,7 @@ Cousin Ben: Suzy: But we're not married yet.
 Cousin Ben: You his girl?
 Suzy: Yeah.
 Cousin Ben: Technically, I'm a civil law scrivener. I'm authorized to declare births, deaths, and marriages. You're kind of young. You got a license?
-Sam, Suzy: No.
+Sam,Â Suzy: No.
 Cousin Ben: I can't offer you a legally binding union. It won't hold up in the state, the county, or frankly, any courtroom in the world, due to your age, lack of a license, and failure to get parental consent. But the ritual does carry a very important moral weight within yourselves. You can't enter into the contract lightly. Look into my eyes. Do you love each other?
 Suzy: Yes, we do.
 Cousin Ben: Think about what I'm saying. Are you sure you're ready for this?

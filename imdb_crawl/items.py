@@ -11,6 +11,7 @@ import scrapy
 iMDB data:
 #1 Main page: https://www.imdb.com/title/tt0111161
 - Title
+- Description
 - Categories (Genres)
 - Thumbnail
 - Year
@@ -29,6 +30,7 @@ class ImdbCrawlItem(scrapy.Item):
     # name = scrapy.Field()
     id = scrapy.Field()
     title = scrapy.Field()  # string
+    description = scrapy.Field()  # string
     categories = scrapy.Field()  # list of strings
     thumbnail = scrapy.Field()  # string (URL)
     year = scrapy.Field()  # int

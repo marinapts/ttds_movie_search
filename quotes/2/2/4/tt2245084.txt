@@ -31,7 +31,7 @@ Fred's Dad: Fred.
 Fred's Dad: Son.
 Fred: Dad.
 Fred's Dad: I wear 'em front. I wear 'em back.
-Fred, Fred's Dad: I go inside out. Then I go front and back.
+Fred,Â Fred's Dad: I go inside out. Then I go front and back.
 Fred: Dad!
 Fred's Dad: We have a *lot* to talk about!
 Baymax: I have some concerns.

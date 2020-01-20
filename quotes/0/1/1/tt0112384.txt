@@ -5,8 +5,8 @@ Blanche Lovell: Are you scared?
 Susan Lovell: Blanche Lovell: Well don't you worry, honey. If they could get a washing machine to fly, my Jimmy could land it.
 Jim Lovell: Houston, we have a problem.
 Gene Kranz: We've never lost an American in space, we're sure as hell not gonna lose one on my watch! Failure is not an option.
-Jim Lovell: Our mission was called "a successful failure," in that we returned safely but never made it to the moon. In the following months, it was determined that a damaged coil built inside the oxygen tank sparked during our cryo stir and caused the explosion that crippled the Odyssey. It was a minor defect that occured two years before I was even named the flight's commander. Fred Haise was going back to the moon on Apollo 18, but his mission was cancelled because of budget cuts; he never flew in space again. Nor did Jack Swigert, who left the astronaut corps and was elected to Congress from the state of Colorado. But he died of cancer before he was able to take office. Ken Mattingly orbited the moon as Command Module Pilot of Apollo 16, and flew the Space Shuttle, having never gotten the measles. Gene Kranz retired as Director of Flight Operations just not long ago. And many other members of Mission Control have gone on to other things, but some are still there. As for me, the seven extraordinary days of Apollo 13 were my last in space. I watched other men walk on the Moon, and return safely, all from the confines of Mission Control and our house in Houston. I sometimes catch myself looking up at the Moon, remembering the changes of fortune in our long voyage, thinking of the thousands of people who worked to bring the three of us home. I look up at the moon and wonder, when will we be going back, and who will that be?
 Jim Lovell: Gentlemen, it's been a privilege flying with you.
+Jim Lovell: Our mission was called "a successful failure," in that we returned safely but never made it to the moon. In the following months, it was determined that a damaged coil built inside the oxygen tank sparked during our cryo stir and caused the explosion that crippled the Odyssey. It was a minor defect that occured two years before I was even named the flight's commander. Fred Haise was going back to the moon on Apollo 18, but his mission was cancelled because of budget cuts; he never flew in space again. Nor did Jack Swigert, who left the astronaut corps and was elected to Congress from the state of Colorado. But he died of cancer before he was able to take office. Ken Mattingly orbited the moon as Command Module Pilot of Apollo 16, and flew the Space Shuttle, having never gotten the measles. Gene Kranz retired as Director of Flight Operations just not long ago. And many other members of Mission Control have gone on to other things, but some are still there. As for me, the seven extraordinary days of Apollo 13 were my last in space. I watched other men walk on the Moon, and return safely, all from the confines of Mission Control and our house in Houston. I sometimes catch myself looking up at the Moon, remembering the changes of fortune in our long voyage, thinking of the thousands of people who worked to bring the three of us home. I look up at the moon and wonder, when will we be going back, and who will that be?
 Jim Lovell: We just put Sir Isaac Newton in the driver's seat.
 Jim Lovell: From now on, we live in a world where man has walked on the moon. And it's not a miracle, we just decided to go.
 Television Reporter: Is there a specific instance in an airplane emergency when you can recall fear?
@@ -171,6 +171,8 @@ John Aaron, EECOM Arthur: We don't have a procedure for that, do we?
 John Young: You're gonna lose a lot in the transfer, Ken.
 Ken Mattingly: Yeah, yeah. But all we're talking about here is four amps.
 Jim Lovell: Christopher Columbus, Charles Lindbergh, and Neil Armstrong. Ha, ha, ha. Neil Armstrong!
+Gene Kranz: EECOM, is this an instrumentation problem, or are we looking at real power loss here?
+Sy Liebergot: It's, it's reading a quadruple failure - that can't happen! It's, it's got to be instrumentation.
 Ken Mattingly: Well, I... damn. Medical guys. I had a feeling when they started doing all the blood tests that I... I mean I know it's their asses if I get sick up there but I mean JESUS!
 Patty: How do you go to the bathroom in space?
 Jim Lovell: Well, um... I tell you it's a very complicated procedure that involves cranking down the window and looking for a gas station.
@@ -220,8 +222,6 @@ Jim Lovell: No, he still has time to get outta there, he just needs someone to w
 Gene Kranz: Let's look at this thing from a... um, from a standpoint of status. What do we got on the spacecraft that's good?
 Sy Liebergot: I'll get back to you, Gene.
 Marilyn Lovell: I can't deal with cleaning up. Let's sell the house.
-Gene Kranz: EECOM, is this an instrumentation problem, or are we looking at real power loss here?
-Sy Liebergot: It's, it's reading a quadruple failure - that can't happen! It's, it's got to be instrumentation.
 Jack Swigert: I've been going over the numbers again. Have they called up with a re-entry plan yet? 'Cause we're coming in too shallow, we're coming in too damn fast.
 Jim Lovell: We're working on something, Jack, just hold on.
 Jack Swigert: Listen, listen, they gave us too much delta vee, they had us burn too long. At this rate, we're going to skip right out of the atmosphere and we're never going to get home.
@@ -258,6 +258,8 @@ Jack Swigert: Farewell, Aquarius, and we thank you.
 Henry Hurt: Hey Marylin.
 Marilyn Lovell: Where's their broadcast?
 Henry Hurt: All the networks dumped us. One of them said we made going to the moon as exciting as taking a trip to Pittsburgh.
+Jim Lovell: What did you do?
+Jack Swigert: Nothing. I stirred the tanks.
 Jim Lovell: So what happened?
 Jack Swigert: Came in too steep. We're dead.
 Fred Haise, Sr.: No shit.

@@ -17,13 +17,6 @@ Frank Sheeran: He's dead?
 FBI Agent #1: Yeah.
 Frank Sheeran: Who did it?
 FBI Agent #2: Cancer
-Frank Sheeran: Hello?
-Jimmy Hoffa: Is that Frank?
-Frank Sheeran: Yes.
-Jimmy Hoffa: Hiya, Frank. This is Jimmy Hoffa.
-Frank Sheeran: Yeah, yeah. Glad to meet you.
-Jimmy Hoffa: Well, glad to meet you, too, even if it's over the phone. I heard you paint houses.
-Frank Sheeran: Yes. Yes, sir, I... I do.
 Jimmy Hoffa: Who said it?
 Frank Sheeran: Don't matter who said it.
 Jimmy Hoffa: It matters. Was it Russell?
@@ -33,6 +26,13 @@ Frank Sheeran: I'm gonna tell you. Tony.
 Jimmy Hoffa: Tony? Which Tony? They're all named Tony. I mean, what's the matter with Italians that they can only think of one name?
 Frank Sheeran: The other Tony.
 Jimmy Hoffa: What Tony?
+Frank Sheeran: Hello?
+Jimmy Hoffa: Is that Frank?
+Frank Sheeran: Yes.
+Jimmy Hoffa: Hiya, Frank. This is Jimmy Hoffa.
+Frank Sheeran: Yeah, yeah. Glad to meet you.
+Jimmy Hoffa: Well, glad to meet you, too, even if it's over the phone. I heard you paint houses.
+Frank Sheeran: Yes. Yes, sir, I... I do.
 Sally Bugs: I'm just trying to understand how a person can buy a fish and not know what kind it was.
 Jimmy Hoffa: If I said it once, I said it a thousand times, I don't care they're Irish. I don't care they're Catholic. If there's one person you can't trust in this life, it's millionaires' kids.
 Frank Sheeran: Nowadays, young people, they don't know who Jimmy Hoffa was. They don't have a clue. I mean, maybe they know that he disappeared or something, but that's about it. But back then, there wasn't nobody in this country who didn't know who Jimmy Hoffa was.
@@ -67,13 +67,13 @@ Jimmy Hoffa: To his fucking father's... to his fucking father's... LOCALS!
 Jimmy Hoffa: Damn it! How do you do that? How STUPID can you be? That fucking cocksucker Kennedy has got his nose up my ass everywhere I go! You don't know that they're hounding me? They're looking at everything I do, and you let this happen in public! You're giving it to him!
 Jimmy Hoffa: I'm going to jail. You understand? I'm going to prison... because of you. You dumb motherfuckers. This is what you wanted. You wanted to put me in jail. Tell me now so I can kill you... right here.
 Jimmy Hoffa: Right here!
-Frank Sheeran: When I was young, I thought house painters painted houses. What did I know? I was a working guy. A business agent for Teamster Local 107 out of South Philly.
-Frank Sheeran: One of a thousand working stiffs... until I wasn't no more. And then I started painting houses... myself.
 Whispers DiTullio: To tell you the truth, I'm a little concerned.
 Frank Sheeran: Whenever anybody says they're a little concerned, they're very concerned.
 Whispers DiTullio: As a matter of fact, I'm really more than a little concerned.
 Frank Sheeran: And when they say they're more than a little concerned, they're desperate.
 Jimmy Hoffa: You guys sure like watermelon.
+Frank Sheeran: When I was young, I thought house painters painted houses. What did I know? I was a working guy. A business agent for Teamster Local 107 out of South Philly.
+Frank Sheeran: One of a thousand working stiffs... until I wasn't no more. And then I started painting houses... myself.
 Angelo Bruno: You know who owns the Cadillac Linen Service?
 Frank Sheeran: Some Jews in the laundry business. That's what they told me.
 Angelo Bruno: They own a part of it. Somebody else got an interest in that. You know who?
@@ -96,13 +96,16 @@ Frank Sheeran: You... you... you got a problem, you pull me aside, you don't ins
 Jimmy Hoffa: How am I going to pull you aside? I didn't even see you there!
 Russell Bufalino: He likes to talk, don't he?
 Frank Sheeran: I felt like I was talking to General Patton.
+Frank Sheeran: I thought maybe he owned the gas station. 'Cause he owned something, you could tell. Yeah, it turns out he owned the whole road.
 Jimmy Hoffa: Then who?
 Frank Sheeran: I'm gonna tell you. Tony.
 Jimmy Hoffa: Tony. Which Tony? They're all named Tony. I mean, what's the matter? Italians, they can only think of one name.
-Frank Sheeran: I thought maybe he owned the gas station. 'Cause he owned something, you could tell. Yeah, it turns out he owned the whole road.
 Jimmy Hoffa: In a war, you go from point A to point B. Sometimes, you spill a little beer along the way. That philosophy make sense to you?
 Frank Sheeran: Sure does.
 Frank Sheeran: They talked about it all the time. She came from mob royalty, if you want to call it that. To them, it was like they came over on the... the Italian Mayflower.
+Jimmy Hoffa: You got your friend with you?
+Frank Sheeran: Right here.
+Jimmy Hoffa: Good.
 Bill Bufalino: Frank... Sheeran. Isn't that right?
 Frank Sheeran: Yeah, you said it right.
 Bill Bufalino: Uh, under the contract, management can only fire a driver under very specific charges. So, you ever show up late?
@@ -121,7 +124,6 @@ Frank Sheeran: Yeah, I know.
 Bill Bufalino: I'm here to defend you. Right?
 Frank Sheeran: Right.
 Frank Sheeran: Whaddaya wanna know? You wanna know if I did it or not?
-Jimmy Hoffa: You got your friend with you?
-Frank Sheeran: Right here.
-Jimmy Hoffa: Good.
-Jimmy Hoffa: But nobody threatens Hoffa.     
+Jimmy Hoffa: But nobody threatens Hoffa.
+Frank Sheeran: Russell had a piece of everything. He had this store in Pittston called Penn Drape & Curtains. And he ran everything out of there. Who knew what it all was? I mean, I'm sure the man had partners. They always have partners. Nobody keeps all the money. But everybody listened to Russ. That I can tell you. You wanted to bribe a judge, you asked Russell. You didn't know how much to bribe him, Russell was gonna tell you. You wanna promote one of your guys, Russ would tell you you could or you could not. You wanna make somebody disappear, you gotta get Russell's permission. You know, no two ways about it. And when you did something for Russ, you did it yourself. Like Russ used to say...
+Russell Bufalino: When I ask somebody to take care of something for me, I expect them to take care of it themselves. I don't need two roads coming back to me.     

@@ -97,7 +97,7 @@ Harry: Shut up, Marv!
 Kevin McCallister: Hey guys, check this out!
 Harry: Huh, oh, go back!
 Marv: Oh! Good!
-Marv, Harry: AHHHHHHHHHH!
+Marv,Â Harry: AHHHHHHHHHH!
 Marv: So how do you want to get in?
 Harry: We'll go thru the back. Maybe the kid will let us in, you never know.
 Marv: Yeah. He's a kid. Kids are stupid.
@@ -157,7 +157,7 @@ Marv: Did I get him?
 Marv: Did I get him? Where'd it go? Where is it?
 Harry: Never mind, now how do you like that, *huh*? Ya jerk! Get that kid, Marv, get that kid!
 Kate McCallister: PETER!
-Kate McCallister, Peter McCallister: We slept in!
+Kate McCallister,Â Peter McCallister: We slept in!
 Kevin McCallister: This is my house, I have to defend it.
 Gangster 'Johnny': Who is it?
 Pizza Boy: It's Little Nero's, sir. I have your pizza.

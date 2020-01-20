@@ -1,6 +1,12 @@
 
 .idea/
 
+quotes/
+subtitles/
+
 *.pyc
 
 .DS_Store
+
+movies.jsonl
+

@@ -129,18 +129,6 @@ The Impressive Clergyman: Have you the wing?
 The Impressive Clergyman: ...and do you, Pwincess Buwwercup...
 Prince Humperdinck: Man and wife. Say man and wife.
 The Impressive Clergyman: Man an' wife.
-Inigo Montoya: You are wonderful.
-Man in Black: Thank you; I've worked hard to become so.
-Inigo Montoya: I admit it, you are better than I am.
-Man in Black: Then why are you smiling?
-Inigo Montoya: Because I know something you don't know.
-Man in Black: And what is that?
-Inigo Montoya: I am not left-handed.
-Man in Black: You are amazing.
-Inigo Montoya: I ought to be, after 20 years.
-Man in Black: Oh, there's something I ought to tell you.
-Inigo Montoya: Tell me.
-Man in Black: I'm not left-handed either.
 Miracle Max: You got any money?
 Inigo Montoya: Sixty-five.
 Miracle Max: I've never worked for so little. Except once, and that was a very noble cause.
@@ -175,6 +163,18 @@ Buttercup: You killed my love.
 Man in Black: It's possible. I kill a lot of people.
 Westley: Why won't my arms move?
 Fezzik: You've been mostly-dead all day.
+Inigo Montoya: You are wonderful.
+Man in Black: Thank you; I've worked hard to become so.
+Inigo Montoya: I admit it, you are better than I am.
+Man in Black: Then why are you smiling?
+Inigo Montoya: Because I know something you don't know.
+Man in Black: And what is that?
+Inigo Montoya: I am not left-handed.
+Man in Black: You are amazing.
+Inigo Montoya: I ought to be, after 20 years.
+Man in Black: Oh, there's something I ought to tell you.
+Inigo Montoya: Tell me.
+Man in Black: I'm not left-handed either.
 Miracle Max: You rush a miracle man, you get rotten miracles.
 Vizzini: Inconceivable!
 Inigo Montoya: You are using Bonetti's Defense against me, ah?
@@ -211,7 +211,7 @@ Westley: Never happened.
 Buttercup: But it did I was there; this old man said 'man and wife.'
 Westley: Did you say 'I do?'
 Buttercup: Um, no... we sort of skipped that part.
-Buttercup, Westley: Then you're not married. You didn't say it; you didn't do it.
+Buttercup,Â Westley: Then you're not married. You didn't say it; you didn't do it.
 Westley: Wouldn't you agree, Your Highness?
 Prince Humperdinck: A technicality that will shortly be remedied.
 Westley: No one would surrender to the Dread Pirate Westley.
@@ -357,7 +357,7 @@ The Grandson: Wait, what did Fezzik mean "He's dead"? I mean, he didn't mean dea
 Grandpa: You want me to read this or not?
 The Grandson: Who gets Humperdinck?
 Grandpa: I don't understand.
-The Grandson: Who kills Prince Humperdinck? At the end. Somebody's got to do it. Is it Iñigo, who?
+The Grandson: Who kills Prince Humperdinck? At the end. Somebody's got to do it. Is it IÃ±igo, who?
 Grandpa: Nobody. Nobody kills him. He lives.
 The Grandson: You mean he wins?
 The Grandson: Jesus, Grandpa! What did you read me this thing for?

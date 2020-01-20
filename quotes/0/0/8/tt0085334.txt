@@ -63,11 +63,11 @@ Ralphie: Scut Farkus!
 Ralphie as an Adult: Scut Farkus! What a rotten name! We were trapped. There he stood, between us and the alley. Scut Farkus staring out at us with his yellow eyes. He had yellow eyes! So help me, God! Yellow eyes!
 Miss Shields: Oh! The theme I've been waiting for all my life. Listen to this sentence: "A Red Ryder BB gun with a compass in the stock, and this thing which tells time". Poetry. Sheer poetry, Ralph! An A+!
 Ralphie: Be sure to drink your Ovaltine. Ovaltine? A crummy commercial? Son of a bitch!
-Waiter #1, Waiter #2, Waiter #3: Deck the harrs with boughs of horry, fa ra ra ra ra, ra ra ra ra. Tis the season to be jorry, fa ra ra ra ra, ra ra ra ra.
+Waiter #1,Â Waiter #2,Â Waiter #3: Deck the harrs with boughs of horry, fa ra ra ra ra, ra ra ra ra. Tis the season to be jorry, fa ra ra ra ra, ra ra ra ra.
 Chinese Father: No, no, no, no, no, no! Not 'ra ra ra ra', 'la la la la'! Sing like this: Deck the halls with boughs of holly, fa la la la la, la la la la! Try again.
-Waiter #1, Waiter #2, Waiter #3: Deck the harrs with boughs of horry, fa ra ra ra ra, ra ra ra ra.
+Waiter #1,Â Waiter #2,Â Waiter #3: Deck the harrs with boughs of horry, fa ra ra ra ra, ra ra ra ra.
 Chinese Father: Stop, stop, stop, stop, stop, stop, stop, stop. Sing something else.
-Waiter #1, Waiter #2, Waiter #3: Jingre berrs, jingre berrs, jingre arr the way. Oh what fun it is to ride in a one-horse open sreigh!
+Waiter #1,Â Waiter #2,Â Waiter #3: Jingre berrs, jingre berrs, jingre arr the way. Oh what fun it is to ride in a one-horse open sreigh!
 The Old Man: Get the glue.
 Mother: We're out of glue.
 The Old Man: You used up all the glue on purpose!
@@ -222,7 +222,7 @@ Miss Shields: C+! C+! Ha ha ha ha ha ha!
 Ralphie as an Adult: Oh, no! "You'll shoot your eye out!"?
 Ralphie: Oh, no!
 Ralphie as an Adult: My mother must have gotten to Miss Shields! There could be no other explanation!
-Miss Shields, Mother: "You'll shoot your eye out! You'll shoot your eye out! Ha ha ha ha ha ha!
+Miss Shields,Â Mother: "You'll shoot your eye out! You'll shoot your eye out! Ha ha ha ha ha ha!
 Ralphie as an Adult: Was there no end to this conspiracy of irrational prejudice against Red Ryder and his peacemaker?
 Ralphie as an Adult: Ho, ho, but no matter. Christmas was on its way. Lovely, glorious, beautiful Christmas, upon which the entire kid year revolved.
 Ralphie as an Adult: First-nighters, packed earmuff-to-earmuff, jostled in wonderment before a golden, tinkling display of mechanized, electronic joy!
@@ -311,7 +311,7 @@ Schwartz: UNCLE!
 Ralphie as an Adult: In our world, you were either a bully, a toady, or one of the nameless rabble of victims.
 Grover Dill: Alright, who's next?
 Flick: Do you know what I'm getting for my old man for Christmas?
-Schwartz, Ralphie: Yeah, what?
+Schwartz,Â Ralphie: Yeah, what?
 Flick: A rose that squirts. People come to smell it, it squirts them.
 Schwartz: I'm getting my old man a Flit gun.
 Ralphie: A Flit gun?

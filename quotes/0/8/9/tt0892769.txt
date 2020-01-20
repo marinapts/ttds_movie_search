@@ -159,7 +159,7 @@ Hiccup: Dad! Uh, I have to talk to you, Dad.
 Stoick: I need to speak with you too, son.
 Stoick: I think it's time you learned to fight dragons.
 Hiccup: I've decided I don't want to fight dragons.
-Stoick, Hiccup: What?
+Stoick,Â Hiccup: What?
 Stoick: Uh, you go first.
 Hiccup: No no, no, *you* go first.
 Stoick: All right. You get your wish. Dragon training. You start in the morning.
@@ -167,7 +167,7 @@ Hiccup: Oh, man, I should have gone first... Because, I was thinking, you know, 
 Hiccup: Thanks for stopping by and for the, uh, the breast-hat...
 Fishlegs: AHHH! I'm *really* beginning to question your teaching methods.
 Snotlout: If that dragon shows either of its faces, I'm gonna... there!
-Ruffnut, Astrid: AH!
+Ruffnut,Â Astrid: AH!
 Ruffnut: Hey! It's us, idiots!
 Tuffnut: Your butts are getting bigger! We thought you were a dragon!
 Snotlout: Not that there's anything wrong with a dragon-esque fig...

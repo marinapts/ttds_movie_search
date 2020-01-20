@@ -33,10 +33,10 @@ Rex: I did it; I finally defeated Zurg!
 Buzz Lightyear #2: Father.
 Buzz Lightyear: Good work, men. Two blocks down and only nineteen more to go.
 Mr. Potato Head: What?
-Rex, Hamm, Slinky Dog: Nineteen?
+Rex,Â Hamm,Â Slinky Dog: Nineteen?
 Mr. Potato Head: Are we gonna do this all night? My parts are killing me.
 Buzz Lightyear: Come on, fellas. Did Woody give up when Sid had me strapped to a rocket?
-Mr. Potato Head, Rex, Hamm, Slinky Dog: No.
+Mr. Potato Head,Â Rex,Â Hamm,Â Slinky Dog: No.
 Buzz Lightyear: No. And did he give up when you threw him out of the back of that moving van?
 Mr. Potato Head: Oh, you had to bring *that* up!
 Buzz Lightyear: No, he didn't! We have a friend in need, and we will not rest until he's safe in Andy's room! Now, let's move out!
@@ -59,7 +59,7 @@ Stinky Pete the Prospector: How long will it last, Woody? Do you really think An
 Woody: Who am I to break up the Roundup Gang?
 Rex: Oh well, we tried.
 Buzz Lightyear: We'll have to cross.
-Rex, Slinky Dog, Mr. Potato Head, Hamm: WHAT?
+Rex,Â Slinky Dog,Â Mr. Potato Head,Â Hamm: WHAT?
 Mr. Potato Head: You're not turning me into a Mashed Potato.
 Slinky Dog: I may not be a smart dog, but I know what roadkill is.
 Buzz Lightyear: There must be a safe way.
@@ -107,7 +107,7 @@ Buzz Lightyear: No, *I'm* Buzz Lightyear.
 Buzz Lightyear #2: *I'm* Buzz Lightyear!
 Buzz Lightyear: *I* am Buzz Lightyear!
 Woody: So, who's the *real* Buzz?
-Buzz Lightyear, Buzz Lightyear #2: I am!
+Buzz Lightyear,Â Buzz Lightyear #2: I am!
 Buzz Lightyear #2: Don't let this imposter fool you! He's been trained by Zurg himself to mimic my every move.
 Mr. Potato Head: I found it.
 Woody: You found my hat?
@@ -316,11 +316,11 @@ Mr. Potato Head: He wouldn't!
 Buzz Lightyear #2: One!
 Hamm: He would.
 Hamm: Two!
-Slinky Dog, Rex, Mr. Potato Head, Hamm: DON'T DO IT, BUZZ!
+Slinky Dog,Â Rex,Â Mr. Potato Head,Â Hamm: DON'T DO IT, BUZZ!
 Buzz Lightyear #2: Three!
 Buzz Lightyear #2: To infinity and beyond! Approaching destination. Reengaging gravity.
 Buzz Lightyear #2: Area secure.
-Slinky Dog, Rex, Mr. Potato Head, Hamm: Buzz Lightyear #2: It's OK troops, the antigravity sickness will wear off momentarily. Now, let's move!
+Slinky Dog,Â Rex,Â Mr. Potato Head,Â Hamm: Buzz Lightyear #2: It's OK troops, the antigravity sickness will wear off momentarily. Now, let's move!
 Mr. Potato Head: Remind me to glue his helmet shut when we get back.
 Jessie: We did it. That was definitely Woody's finest hour!
 Woody: Excuse me, ma'am, but I believe you're on the wrong flight.
@@ -456,7 +456,7 @@ Woody: Run like the Wind Bullseye!
 Buzz Lightyear: Quick to the Elevator!
 Buzz Lightyear: Hurry, I can hear it coming.
 Emperor Zurg: So we meet again Buzz Lightyear. For the Last Time.
-Buzz Lightyear, Buzz Lightyear #2, Rex: It's Zurg!
+Buzz Lightyear,Â Buzz Lightyear #2,Â Rex: It's Zurg!
 Rex: Watch out. He's got an Ion Blaster.
 Andy's Mom: Andy, time to go. Hey, you fixed Woody.
 Andy: Yeah, glad I didn't take him to Cowboy Camp. His *whole arm* might've come off.     

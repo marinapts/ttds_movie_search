@@ -3,34 +3,48 @@ import scrapy
 import logging
 import re
 from imdb_crawl.items import ImdbCrawlItem
+from imdb_crawl.utils import *
+from imdb_crawl import settings
 
 """
 iMDB data:
 #1 Main page: https://www.imdb.com/title/tt0111161
 - Title [x]
+- Description [x]
 - Categories (Genres) [x]
 - Thumbnail [x]
 - Year [x]
 - Rating [x]
 - Count of ratings [x]
 #2 Cast page: https://www.imdb.com/title/tt0111161/fullcredits
-- Cast: actors and character name
+- Cast: actors and character name [x]
 #3 Plot Keywords page: https://www.imdb.com/title/tt0111161/keywords
-- Plot keywords (maybe only take those that have no relevance ratings or majority of people found them relevant?)
+- Plot keywords (maybe only take those that have no relevance ratings or majority of people found them relevant?) [x]
 #4 Quotes page: https://www.imdb.com/title/tt0111161/quotes
 - Quotes (character name and quote) [x]
 """
 
-IMDB_IDS_FILE = './imdb-top1000.txt'
+IMDB_IDS_FILE = settings.IMDB_IDS_FILE
+QUOTES_FOLDER = settings.QUOTES_FOLDER
+DATA_FILE = settings.DATA_FILE
 
 class iMDBCollect(scrapy.Spider):
     name = 'imdb-collect'
     start_urls = []
+    print("Initialising start urls...")
     with open(IMDB_IDS_FILE, 'r') as f:
+        k = 0
         for id in f:
+            k += 1
             id = re.sub(r'\s+', '', id)
             if re.match(r'tt\d+', id):
-                start_urls.append('https://www.imdb.com/title/{}/'.format(id))
+                # Only webscrape data/quotes for this movie if it has not been scraped already (doesn't exist)
+                if not exists_data(id, DATA_FILE) or not exists_quotes(id, QUOTES_FOLDER):
+                    start_urls.append('https://www.imdb.com/title/{}/'.format(id))
+            # Log progress
+            if k % 100 == 0:
+                print("{} movie ids have been processed.".format(k))
+
 
     # Entry method for crawling movie's main page
     def parse(self, response):
@@ -39,8 +53,12 @@ class iMDBCollect(scrapy.Spider):
 
         # Scrape the main page info here and add it to item
         item['id'] = main_url.split("/")[-2]
-        item['title'] = response.xpath('//div[@class="title_wrapper"]/h1/text()').extract_first().replace('\xa0', '')
-        item['year'] = int(response.xpath('//span[@id="titleYear"]/a/text()').extract_first())
+        item['title'] = response.xpath('//div[@class="title_wrapper"]/h1/text()').extract_first().replace('\xa0', '').strip()
+        item['description'] = ''.join(response.xpath('//div[@class="summary_text"]/descendant::text()').getall()).strip()
+        try:
+            item['year'] = int(response.xpath('//span[@id="titleYear"]/a/text()').extract_first())
+        except:
+            print("Failed to extract year for {}".format(item['id']))
         rating_title = response.xpath('//div[@class="ratingValue"]/strong/@title').extract_first()
         item['rating'] = float(rating_title.split(" ")[0])
         item['countOfRatings'] = int(rating_title.split(" ")[3].replace(",", ""))
@@ -53,21 +71,6 @@ class iMDBCollect(scrapy.Spider):
                              meta={'main_url': main_url, 'item': item},
                              callback=self.parse_cast)
 
-        """
-        for movie in response.xpath('//div[@class="lister-item mode-simple"]'):
-            yield {
-                'img': movie.xpath('.//img/@src').extract_first(),
-                'index': int(movie.xpath('.//span[@class="lister-item-index unbold text-primary"]/text()').extract_first().replace(",", "").replace(".", "")),
-                'title': movie.xpath('.//div[@class="col-title"]//a/text()').extract_first(),
-                'url': movie.xpath('.//div[@class="col-title"]//a/@href').extract_first(),
-                'year': movie.xpath('.//span[@class="lister-item-year text-muted unbold"]/text()').extract_first().replace("(", "").replace(")", ""),
-                'rating': movie.xpath('.//strong/@title').extract_first().split(" ")[0]
-            }
-
-        next_page_url = response.xpath('//a[@class="lister-page-next next-page"]/@href').extract_first()
-        if next_page_url is not None:
-            yield scrapy.Request(response.urljoin(next_page_url))
-        """
 
 
     def parse_cast(self, response):
@@ -86,6 +89,20 @@ class iMDBCollect(scrapy.Spider):
             final_names = [n.replace('\n', '').strip() for n in names+names_without_link if len(n.replace("...", "").strip()) > 0]
             if len(final_names) == 2:
                 item['cast'][final_names[0]] = final_names[1]
+
+        # If no cast found so far, then there must be something wrong with the schema above. Try a different one (for TV Series)
+        if len(item['cast']) == 0:
+            for tr in cast_table:
+                try:
+                    actor = ''.join(tr.xpath('.//td')[1].xpath('./descendant::text()').getall()).strip()
+                    character = ''.join(tr.xpath('.//td[@class="character"]/descendant::text()').getall()).strip().split('\n')[0].strip()
+                    if actor != '' and character != '':
+                        item['cast'][actor] = character
+                except:
+                    pass
+
+
+
 
 
         yield scrapy.Request(main_url + 'keywords',

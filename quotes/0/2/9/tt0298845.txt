@@ -22,9 +22,9 @@ Johnny: What?
 Christy: Say goodbye to Frankie.
 Johnny: Goodbye Frankie.
 Christy: He can't hear you.
-Christy, Johnny: Goodbye Frankie.
+Christy,Â Johnny: Goodbye Frankie.
 Johnny: Goodbye Frankie.
-Christy: It's not "José, can you see", it's "Oh say, can you see".
+Christy: It's not "JosÃ©, can you see", it's "Oh say, can you see".
 Ariel: Cool!
 Christy: Cool? Where'd you hear that?
 Ariel: I don't know, I just heard it.

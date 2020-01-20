@@ -6,16 +6,17 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 import os
-from scrapy.exporters import JsonItemExporter
+from scrapy.exporters import JsonLinesItemExporter
+from imdb_crawl import settings
 
-QUOTES_FOLDER = './quotes'
-OUTPUT_JSON_FILE = './movies.json'
+QUOTES_FOLDER = settings.QUOTES_FOLDER
+OUTPUT_FILE = settings.DATA_FILE
 FOLDER_STRUCTURE_DEPTH = 3
 
 class ImdbCrawlPipeline(object):
     def open_spider(self, spider):
-        f = open(OUTPUT_JSON_FILE, 'wb')
-        self.exporter = JsonItemExporter(f)
+        f = open(OUTPUT_FILE, 'ab')
+        self.exporter = JsonLinesItemExporter(f)
         self.exporter.start_exporting()
 
 

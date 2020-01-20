@@ -8,13 +8,13 @@ Driver: How can you tell?
 Benicio: Because he's a shark.
 Driver: There's no good sharks?
 Driver: You know the story about the scorpion and the frog? Your friend Nino didn't make it across the river.
-Bearded Redneck: You're Shannon's buddy, right? We met last year. You drove me and my brother back from Palm Springs. We hired another wheelman. I spent six months in jail. My brother, he got himself killed. I got this sweet job coming up.
-Driver: How 'bout this. You shut your mouth or I'll kick your teeth down your throat and I'll shut it for you.
-Bearded Redneck: Nice seein' you again.
 Shannon: Kid, I want you to meet Mr. Bernie Rose!
 Bernie Rose: Nice to meet you.
 Driver: My hands are a little dirty.
 Bernie Rose: So are mine.
+Bearded Redneck: You're Shannon's buddy, right? We met last year. You drove me and my brother back from Palm Springs. We hired another wheelman. I spent six months in jail. My brother, he got himself killed. I got this sweet job coming up.
+Driver: How 'bout this. You shut your mouth or I'll kick your teeth down your throat and I'll shut it for you.
+Bearded Redneck: Nice seein' you again.
 Driver: If I drive for you, you get your money. You tell me where we start, where we're going, where we're going afterwards. I give you five minutes when we get there. Anything happens in that five minutes and I'm yours. No matter what. Anything a minute on either side of that and you're on your own. I don't sit in while you're running it down. I don't carry a gun. I drive.
 Cook: You look like you're hard to work with.
 Standard: Do you want to hear how mommy and me met?
@@ -29,15 +29,14 @@ Irene: I said, "Where's the deluxe version?"
 Shannon: A lot of guys mess around with married women, but you're the only one I know who robs a joint just to pay back the husband. Crazy.
 Driver: Hey, you want a toothpick?
 Driver: Now, you just got a little boy's father killed and you almost got us killed and now you're lying to me. So how about this? From now on, every word out of your mouth is the truth or I'm going to hurt you.
-Nino: Fuck you eating chink food in my fucking restaurant?
-Bernie Rose: What's a Jew doing running a pizzeria?
 Irene: Sorry about the noise.
 Driver: I was going to call the cops.
 Irene: I wish you would.
+Nino: Fuck you eating chink food in my fucking restaurant?
+Bernie Rose: What's a Jew doing running a pizzeria?
 Driver: I don't have wheels on my car.
 Irene: Okay.
 Driver: It's one thing you should know about me.
-Driver: Hey, do you want to see something?
 Irene: What do you do?
 Driver: I drive.
 Irene: Like a limo driver?
@@ -46,6 +45,7 @@ Irene: Oh. You mean all the car chases and stuff?
 Driver: Yeah.
 Irene: Isn't that dangerous?
 Driver: It's only part-time. Mostly I work at a garage.
+Driver: Hey, do you want to see something?
 Driver: What is it you got there? Can I see?
 Driver: One of those men gave you that?
 Benicio: They told me not to lose it.
@@ -60,39 +60,35 @@ Bernie Rose: Shannon, sell him the car.
 Shannon: He wouldn't be able to find pussy in a whore house...
 Shannon: You know what? This car will even make you good-looking.
 Nino: I'm already good-looking, pal.
+Bernie Rose: Here's what I'm prepared to offer. You give me the money, the girl is safe. Forever. Nobody knows about her. She's off the map. I can't offer you the same. So, this is what I would suggest. We conclude our deal. We'll shake hands. You start the rest of your life. Any dreams you have, or plans, or hopes for your future... I think you're going to have to put that on hold. For the rest of your life you're going to be looking over your shoulder. I'm just telling you this because I want you to know the truth. But the girl is safe.
 Nino: What do you get out of it?
 Driver: Just that. Out of it.
-Bernie Rose: Here's what I'm prepared to offer. You give me the money, the girl is safe. Forever. Nobody knows about her. She's off the map. I can't offer you the same. So, this is what I would suggest. We conclude our deal. We'll shake hands. You start the rest of your life. Any dreams you have, or plans, or hopes for your future... I think you're going to have to put that on hold. For the rest of your life you're going to be looking over your shoulder. I'm just telling you this because I want you to know the truth. But the girl is safe.
 Shannon: You look like a zombie, kid. You getting any sleep? Can I offer you some benzedrine, dexedrine, caffeine, nicotine? Oh, you don't smoke. That's right. Better off.
 Driver: I'll see you in five minutes.
 Standard: I'll see you in four.
+Driver: You blinked.
+Benicio: What?
 Shannon: You two know each other?
 Driver: Don't.
 Shannon: Oh, look at that!
 Irene: We're neighbors.
 Shannon: Neighbors? Very good. Well, we'll try to be neighborly, too.
+Bernie Rose: Did Shannon ever tell you how we met?
+Driver: No.
+Bernie Rose: I used to produce movies. In the 80s. Kind of like action films. Sexy stuff. One critic called them European. I thought they were shit. Anyway, he arranged all the cars for me. Did all the stunts. I liked him. I liked having him around. Even though he overcharged the shit out of me. His next business venture, he got involved with some of Nino's friends. They didn't go for the overcharging bit. They broke his pelvis. He's never had a lot of luck. The reason I'm telling you this is that he has a lot invested in you. And so do I. So anything you need, you call me. We're a team now.
+Bernie Rose: I'm excited!
+Bernie Rose: Nino, let's get the fuck out of here!
 Driver: Do you understand?
-Driver: You blinked.
-Benicio: What?
 Bernie Rose: What do you got that the big professional race teams don't?
 Shannon: I got the driver.
 Bernie Rose: You just told me they had half a dozen drivers.
 Shannon: Not like this. This kid is special. I've been working with him for a while. I've never seen anything like it. If I had the money, I'd back him myself.
 Bernie Rose: Yeah, but you don't have the money.
 Shannon: Mr. Rose, you put this kid behind the wheel, there's nothing he can't do.
-Bernie Rose: Did Shannon ever tell you how we met?
-Driver: No.
-Bernie Rose: I used to produce movies. In the 80s. Kind of like action films. Sexy stuff. One critic called them European. I thought they were shit. Anyway, he arranged all the cars for me. Did all the stunts. I liked him. I liked having him around. Even though he overcharged the shit out of me. His next business venture, he got involved with some of Nino's friends. They didn't go for the overcharging bit. They broke his pelvis. He's never had a lot of luck. The reason I'm telling you this is that he has a lot invested in you. And so do I. So anything you need, you call me. We're a team now.
-Bernie Rose: I'm excited!
-Bernie Rose: Nino, let's get the fuck out of here!
 Standard: You know, we're here celebrating but it's a shameful thing... what I did. And I have a lot of making up to do to everyone. But second chances are rare. Right? And that's worth celebrating.
 Nino: Take a fucking hike. I want to talk to my partner.
 Nino: I'm just fucking with you. How you doing, Shannon? How's the fucking leg?
 Shannon: I paid my debt.
-Bernie Rose: My partner is a belligerent asshole with his back up against a wall, and now, so am I.
-Bernie Rose: Where's the money now?
-Driver: It's in the car.
-Bernie Rose: Come on.
 Shannon: You know, he walked into my shop here about five or six years ago, right out of the blue asking for a job. So I put him to the test to see what he could do. The kid's amazing.
 Irene: Yeah.
 Shannon: So I hired him on the spot. Boom.
@@ -100,18 +96,22 @@ Shannon: At about half the wages I normally pay. He didn't blink an eye.
 Shannon: Hey kid, come over here for a second, will you?
 Shannon: And I have been exploiting him ever since.
 Shannon: Don't tell him.
-Bernie Rose: Shut the fuck up, you fucking monkey!
 Driver: You get out of here and you never fucking come back. You never come back.
 Shannon: What are you going to do?
+Bernie Rose: My partner is a belligerent asshole with his back up against a wall, and now, so am I.
 Irene: That's Benicio's father
 Driver: Where is he?
 Irene: He's in prison.
 Driver: Oh.
+Bernie Rose: Where's the money now?
+Driver: It's in the car.
+Bernie Rose: Come on.
+Bernie Rose: Shut the fuck up, you fucking monkey!
 Shannon: What happened to all the ashtrays in this town?
+Bernie Rose: Now it's your turn to clean up after me.
 Bernie Rose: You didn't tell me you were ripping off the family
 Nino: FAMILY... What family? The same family that calls me kike to my face
 Nino: TO MY FACE! I'm fifty nine years old and they still keep pinching my cheeks like I'm a child!
-Bernie Rose: Now it's your turn to clean up after me.
+Nino: You're not very good at this, are you?
 Shannon: You look like a zombie kid, you getting any sleep?
-Shannon: He wouldn't be able to find pussy in a whorehouse.
-Nino: You're not very good at this, are you?     
+Shannon: He wouldn't be able to find pussy in a whorehouse.     

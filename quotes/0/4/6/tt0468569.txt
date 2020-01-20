@@ -443,6 +443,16 @@ The Joker: Let's wind the clocks back a year: These cops and lawyers wouldn't da
 Bruce Wayne: You know that day that you once told me about, when Gotham would no longer need Batman? It's coming.
 Rachel Dawes: Bruce. You can't ask me to wait for that.
 Bruce Wayne: It's happening now. Harvey is that hero. He locked up half of the city's criminals, and he did it without wearing a mask. Gotham needs a hero with a face.
+Batman: Beautiful, isn't it?
+Lucius Fox: Beautiful... unethical... dangerous. You've turned every cellphone in Gotham into a microphone.
+Batman: And a high-frequency generator-receiver.
+Lucius Fox: You took my sonar concept and applied it to every phone in the city. With half the city feeding you sonar, you can image all of Gotham. This is *wrong*.
+Batman: I've gotta find this man, Lucius.
+Lucius Fox: At what cost?
+Batman: The database is null-key encrypted. It can only be accessed by one person.
+Lucius Fox: This is too much power for one person.
+Batman: That's why I gave it to you. Only you can use it.
+Lucius Fox: Spying on 30 million people isn't part of my job description.
 The Joker: Never start with the head, the victim gets all fuzzy. He can't feel the next...
 The Joker: See?
 Grumpy: I'm betting The Joker told you to kill me soon as we loaded the cash.
@@ -467,16 +477,6 @@ Lt. James Gordon: Wait, WAIT!
 Salvatore Maroni: This craziness... it's too much.
 Lt. James Gordon: You should have thought of that before you let the clown out of the box.
 The Joker: The Joker: See, their morals, their code... it's a bad joke. Dropped at the first sign of trouble. They're only as good as the world allows them to be. I'll show you, when the chips are down, these... these civilized people? They'll eat each other. See, I'm not a monster, I'm just ahead of the curve.
-Batman: Beautiful, isn't it?
-Lucius Fox: Beautiful... unethical... dangerous. You've turned every cellphone in Gotham into a microphone.
-Batman: And a high-frequency generator-receiver.
-Lucius Fox: You took my sonar concept and applied it to every phone in the city. With half the city feeding you sonar, you can image all of Gotham. This is *wrong*.
-Batman: I've gotta find this man, Lucius.
-Lucius Fox: At what cost?
-Batman: The database is null-key encrypted. It can only be accessed by one person.
-Lucius Fox: This is too much power for one person.
-Batman: That's why I gave it to you. Only you can use it.
-Lucius Fox: Spying on 30 million people isn't part of my job description.
 Rachel Dawes: You make your own luck...
 Batman: You all right?
 Rachel Dawes: Let's not do that again.

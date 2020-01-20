@@ -27,6 +27,7 @@ Private Hudson: Yeah right, man, Bishop should go.
 Private Hudson: Good idea!
 Bishop: Believe me, I'd prefer not to. I may be synthetic, but I'm not stupid.
 Ripley: Did IQs just drop sharply while I was away?
+Private Hudson: Stop your grinnin' and drop your linen!
 Ripley: How long after we're declared overdue can we expect a rescue?
 Corporal Hicks: Seventeen days.
 Private Hudson: Seventeen *days*? Hey man, I don't wanna rain on your parade, but we're not gonna last seventeen hours! Those things are gonna come in here just like they did before. And they're gonna come in here...
@@ -35,7 +36,6 @@ Private Hudson: ...and they're gonna come in here AND THEY'RE GONNA GET US!
 Ripley: Hudson! This little girl survived longer than that with no weapons and no training.
 Ripley: Right?
 Private Hudson: Why don't you put *her* in charge?
-Private Hudson: Stop your grinnin' and drop your linen!
 Newt: My mommy always said there were no monsters - no real ones - but there are.
 Ripley: Yes, there are, aren't there?
 Newt: Why do they tell little kids that?
@@ -72,9 +72,20 @@ Private Hudson: How do I get out of this chickenshit outfit?
 Sergeant Apone: You secure that shit, Hudson!
 Ripley: These people are here to protect you. They're soldiers.
 Newt: It won't make any difference.
+Private Hudson: I say we grease this rat-fuck son-of-a-bitch right now.
+Corporal Hicks: It just doesn't make any goddamn sense.
+Ripley: He figured that he could get an alien back through quarantine, if one of us was... impregnated... whatever you call it, and then frozen for the trip home. Nobody would know about the embryos we were carrying... me and Newt.
+Corporal Hicks: Wait a minute, now... we'd all know.
+Ripley: Yes. The only way he could do it is if he sabotaged certain freezers on the way home... namely, yours. Then he could jettison the bodies and make up any story he liked.
+Private Hudson: Fuck. He's dead. You're dog-meat, pal!
+Burke: This is so nuts. I mean, listen - listen to what you're saying. It's paranoid delusion. How - It's really sad. It's pathetic.
+Ripley: You know, Burke, I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage.
+Corporal Hicks: All right, we waste him. No offense.
+Ripley: No. He's gotta go back.
 Private Frost: Hot as hell in here.
 Private Hudson: Yeah man, but it's a dry heat!
 Private Hudson: Hey, maybe you haven't been keeping up on current events, but we just got our asses kicked, pal!
+Private Vasquez: You always were an asshole, Gorman!
 Private Vasquez: All right. We got seven canisters of CM-20. I say we roll them in there and nerve gas the whole fuckin' nest.
 Corporal Hicks: It's worth the try, but we don't know if that's gonna affect them.
 Private Hudson: Look let's just bug out and call it even, okay? What are we even talking about this for?
@@ -99,17 +110,6 @@ Corporal Hicks: Prepare for dust-off. We're gonna need immediate evac.
 Corporal Ferro: Roger. On our way.
 Corporal Hicks: I say we take off, nuke the site from orbit.
 Corporal Hicks: It's the only way to be sure.
-Private Hudson: I say we grease this rat-fuck son-of-a-bitch right now.
-Corporal Hicks: It just doesn't make any goddamn sense.
-Ripley: He figured that he could get an alien back through quarantine, if one of us was... impregnated... whatever you call it, and then frozen for the trip home. Nobody would know about the embryos we were carrying... me and Newt.
-Corporal Hicks: Wait a minute, now... we'd all know.
-Ripley: Yes. The only way he could do it is if he sabotaged certain freezers on the way home... namely, yours. Then he could jettison the bodies and make up any story he liked.
-Private Hudson: Fuck. He's dead. You're dog-meat, pal!
-Burke: This is so nuts. I mean, listen - listen to what you're saying. It's paranoid delusion. How - It's really sad. It's pathetic.
-Ripley: You know, Burke, I don't know which species is worse. You don't see them fucking each other over for a goddamn percentage.
-Corporal Hicks: All right, we waste him. No offense.
-Ripley: No. He's gotta go back.
-Private Vasquez: You always were an asshole, Gorman!
 Bishop: Is there a problem?
 Burke: I'm sorry. I don't know why I didn't even... Ripley's last trip out, the syn- the artificial person malfunctioned.
 Ripley: "Malfunctioned"?
@@ -117,6 +117,9 @@ Burke: There were problems and a-a few deaths were involved.
 Bishop: I'm shocked. Was it an older model?
 Burke: Yeah, the Hyperdine System's 120-A2.
 Bishop: Well, that explains it then. The A2s always were a bit twitchy. That could never happen now with our behavioral inhibitors. It is impossible for me to harm or by omission of action, allow to be harmed, a human being.
+Private Hudson: I'm ready, man, check it out. I am the *ultimate* badass! State of the badass art! You do not wanna fuck with me. Check it out! Hey Ripley, don't worry. Me and my squad of ultimate badasses will protect you! Check it out! Independently targeting particle beam phalanx. Vwap! Fry half a city with this puppy. We got tactical smart missiles, phased plasma pulse rifles, RPGs, we got sonic electronic ball breakers! We got nukes, we got knives, sharp sticks...
+Sergeant Apone: Knock it off, Hudson. All right, gear up.
+Sergeant Apone: All right, sweethearts, what are you waiting for? Breakfast in bed? Another glorious day in the Corps! A day in the Marine Corps is like a day on the farm. Every meal's a banquet! Every paycheck a fortune! Every formation a parade! I *love* the Corps!
 Lieutenant Gorman: I thought you never missed, Bishop.
 Ripley: You never said anything about an android being on board! Why not?
 Burke: Pff, it never... never occurred to me. It's just common practice. We always have a synthetic on board.
@@ -126,9 +129,6 @@ Private Hudson: Man, this floor is freezing.
 Sergeant Apone: What do you want me to do, fetch your slippers for you?
 Private Hudson: Gee, would you, sir? I'd like that.
 Sergeant Apone: Look into my eye.
-Private Hudson: I'm ready, man, check it out. I am the *ultimate* badass! State of the badass art! You do not wanna fuck with me. Check it out! Hey Ripley, don't worry. Me and my squad of ultimate badasses will protect you! Check it out! Independently targeting particle beam phalanx. Vwap! Fry half a city with this puppy. We got tactical smart missiles, phased plasma pulse rifles, RPGs, we got sonic electronic ball breakers! We got nukes, we got knives, sharp sticks...
-Sergeant Apone: Knock it off, Hudson. All right, gear up.
-Sergeant Apone: All right, sweethearts, what are you waiting for? Breakfast in bed? Another glorious day in the Corps! A day in the Marine Corps is like a day on the farm. Every meal's a banquet! Every paycheck a fortune! Every formation a parade! I *love* the Corps!
 Lieutenant Gorman: Hicks, meet me at the south lock. We're coming in.
 Corporal Hicks: Roger.
 Private Hudson: He's comin' in. I feel safer already.
@@ -173,10 +173,12 @@ Lieutenant Gorman: So?
 Ripley: So, if they fire their weapons in there, won't they rupture the cooling system?
 Burke: Ho, ho, ho. Yeah, she's absolutely right.
 Lieutenant Gorman: So? So what?
-Burke: Look, this whole station is basically a big fusion reactor, right? So you're talkin' about a thermonuclear explosion and adiós, muchachos.
+Burke: Look, this whole station is basically a big fusion reactor, right? So you're talkin' about a thermonuclear explosion and adiÃ³s, muchachos.
 Lieutenant Gorman: Oh, great. Wonderful. Shit!
 Lieutenant Gorman: Drake, check your camera. There seems to be a malfunction.
 Lieutenant Gorman: That's better.
+Private Hudson: Maybe it's like an ant-hive?
+Private Vasquez: Bees, man. Bees have hives!
 Ripley: And you, you little shit-head... you're staying here.
 Private Hudson: I got signals. I got readings, in front and behind.
 Private Frost: Where, man? I don't see shit.
@@ -210,8 +212,6 @@ Ripley: See you, Hicks.
 Corporal Hicks: Dwayne. It's Dwayne.
 Ripley: ...Ellen.
 Corporal Hicks: Don't be gone long, Ellen.
-Private Hudson: Maybe it's like an ant-hive?
-Private Vasquez: Bees, man. Bees have hives!
 Ripley: It's very pretty Bishop but what're we looking for?
 Bishop: That's it. The emergency venting.
 Private Hudson: Oh, that's beautiful, man. Oh man, that-that-that just beats it all.
@@ -240,6 +240,8 @@ Private Frost: Okay, okay. When we get back without you, I'll call your folks.
 Sergeant Apone: Somebody wake up Hicks.
 Private Hudson: They're coming outta the walls. They're coming outta the goddamn walls. Let's book!
 Corporal Hicks: Remember: short, controlled bursts.
+Corporal Dietrich: Looks like some sort of secreted resin.
+Corporal Hicks: Yeah, but secreted from what?
 Private Drake: Hey, Hicks. Man, you look just like I feel.
 Private Vasquez: Hey, mira, who's Snow White?
 Corporal Ferro: She's supposed to be some kinda consultant. Apparently she saw an alien once.
@@ -252,8 +254,7 @@ Newt: Can I dream?
 Ripley: Yes, honey. I think we both can.
 Ripley: Sleep tight.
 Newt: I-ffirmative.
-Corporal Dietrich: Looks like some sort of secreted resin.
-Corporal Hicks: Yeah, but secreted from what?
+Sergeant Apone: Knock it off, Hudson!
 Lieutenant Gorman: I want you to lay down a suppressing fire with the incinerators and fall back by squads to the APC, over.
 Sergeant Apone: Say again? All after incinerators?
 Lieutenant Gorman: I said I want you to lay down a suppressing fire with the incinerators and fall back by squads to the APC...
@@ -262,7 +263,6 @@ Lieutenant Gorman: Apone, talk to me...
 Ripley: He's gone!
 Private Hudson: Hey top, what's the op?
 Sergeant Apone: It's a rescue mission, you'll love it. There's some juicy colonists' daughters we have to rescue from their virginity.
-Sergeant Apone: Knock it off, Hudson!
 Ripley: Bishop, how much time?
 Bishop: Plenty, 26 minutes!
 Ripley: We're not leaving!

@@ -8,9 +8,6 @@ EVE: EVE.
 WALL.E: Eeeee... aah.
 EVE: "EVE"! "EVE"!
 WALL.E: Eeeee... va?
-Captain: Haha! Look what I got, AUTO!
-AUTO: Not possible.
-Captain: That's right, the plant. Oh, you want it? Come and get it, blinky.
 Ship's Computer: Voice confirmation required.
 Captain: Uhhh...
 Ship's Computer: Accepted.
@@ -35,6 +32,9 @@ WALL.E: Dirrrrr-ect-tivvve?
 EVE: Directive?
 EVE: Classified.
 WALL.E: Oh.
+Captain: Haha! Look what I got, AUTO!
+AUTO: Not possible.
+Captain: That's right, the plant. Oh, you want it? Come and get it, blinky.
 Captain: This is called farming! You kids are gonna grow all kinds of plants! Vegetable plants, pizza plants.
 Captain: Oh, it's good to be home!
 WALL.E: WALL-E.
@@ -45,13 +45,13 @@ WALL.E: M-O.
 Ship's Computer: Caution: Rogue robots. Caution...
 WALL.E: Oh, EVA.
 WALL.E: Ohh...
+Captain: We'll see who's powerless now!
 WALL.E: WALL-E.
 John: Uh, John.
 WALL.E: Eva?
 John: Uh, no, John.
 WALL.E: EVA!
 John: Bye, WALL-E.
-Captain: We'll see who's powerless now!
 MO: Foreign contaminant!
 Mary: Oh! So many stars! Ah.
 Mary: Oh! Hey! That's what's-his-name!

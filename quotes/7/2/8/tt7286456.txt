@@ -21,10 +21,10 @@ Arthur Fleck: I'm just thinking of a joke.
 Arkham Psychiatrist: Do you want to tell it to me?
 Arthur Fleck: You wouldn't get it.
 Arthur Fleck: I killed those guys because they were awful. Everybody is awful these days. It's enough to make anyone crazy.
-Murray Franklin: I'm waiting for the punchline.
-Arthur Fleck: There is no punchline.
 Cop: The whole city's on fire 'cause of what you did.
 Arthur Fleck: I know. Isn't it beautiful?
+Murray Franklin: I'm waiting for the punchline.
+Arthur Fleck: There is no punchline.
 Arthur Fleck: I just hope my death makes more cents than my life.
 Arthur Fleck: I've been the man in the house for as long as I can remember. I take good care of my mother.
 Murray Franklin: All that sacrifice, she must love you very much.
@@ -47,18 +47,18 @@ Sophie Dumond: Your name's Arthur, right? You live down the hall. I really need 
 Arthur Fleck: Knock knock.
 Murray Franklin: Who's there?
 Arthur Fleck: It's the police, ma'am! Your son's been hit by a drunk driver. He's dead!
-Arthur Fleck: I just hope my death make more cents than my life.
-Arthur Fleck: Do I look like the kind of clown that can start a movement?
-Arthur Fleck: I don't want you worrying about money mom, or me.
-Thomas Wayne: What kind of coward would do something that cold blooded? Someone who hides behind a mask. Someone who is envious of those more fortunate than themselves, yet they're too scared to show their own face. And until those kinds of people change for the better, those of us who made something of our lives will always look at those who haven't as nothing but clowns.
 Arthur Fleck: You're awful, Murray.
 Murray Franklin: Me? I'm awful? How am I awful?
 Arthur Fleck: Playing my video. Inviting me on the show. You just wanted to make fun of me. You're just like the rest of them!
+Arthur Fleck: Do I look like the kind of clown that can start a movement?
+Arthur Fleck: I just hope my death make more cents than my life.
+Arthur Fleck: I don't want you worrying about money mom, or me.
+Thomas Wayne: What kind of coward would do something that cold blooded? Someone who hides behind a mask. Someone who is envious of those more fortunate than themselves, yet they're too scared to show their own face. And until those kinds of people change for the better, those of us who made something of our lives will always look at those who haven't as nothing but clowns.
 Arthur Fleck: I've got nothing left to lose. Nothing can hurt me anymore. My life is nothing but comedy.
 Murray Franklin: All that sacrifice, she must love you very much.
 Penny Fleck: I mean, dont you have to be funny to be a comedian?
-Arthur Fleck: I just don't want to feel so bad anymore.
 Arthur Fleck: Good night. And always remember... That's li...
+Arthur Fleck: I just don't want to feel so bad anymore.
 Thomas Wayne: Touch my son again and I'll fucking kill you!
 Arthur Fleck: You know, I do stand-up comedy. You should maybe come see a show sometime.
 Sophie Dumond: I could do that.
@@ -78,21 +78,134 @@ Murray Franklin: Look what happened because of what you did, what it led to! The
 Murray Franklin: ...You're laughing. You're laughing. Someone was killed today because of what you did.
 Arthur Fleck: I know.
 Arthur Fleck: ...I had a bad day.
-Arthur Fleck: I feel like I know you... I've been watching you forever.
 Murray Franklin: What's with the face? I mean, are you part of the protest?
 Arthur Fleck: No. No, I don't believe any of that. I don't believe in anything.
+Open Mic Comic: I think most women look at sex like buying a car. You know, like, "Can I see myself in this long term?" "Is it safe?" "Is it reliable?" "Could it kill me?" Most guys look at sex like parking a car. We're like, "There's a spot". "There is another spot, that would work." "Oh, I have to pay? - Never mind." "Handicapped? - Hope no one sees us."
+Arthur Fleck: I feel like I know you... I've been watching you forever.
+Arthur Fleck: When I was a little boy and told people I was going to be a comedian, everyone laughed at me. Well, no one's laughing now.
 Arthur Fleck: You're just like the rest of 'em!
 Murray Franklin: You don't know the first thing about me, pal. look at what happened because of you did. what it led to. there are riots out there, two police men are in critical condition- you're laughing, you're laughing. someone was killed today because of what you did.
 Arthur Fleck: I Know!
-Open Mic Comic: I think most women look at sex like buying a car. You know, like, "Can I see myself in this long term?" "Is it safe?" "Is it reliable?" "Could it kill me?" Most guys look at sex like parking a car. We're like, "There's a spot". "There is another spot, that would work." "Oh, I have to pay? - Never mind." "Handicapped? - Hope no one sees us."
+Card: Forgive my Laughter: I have a Condition.
 Boy's Mother: Would you please stop bothering my kid?
 Thomas Wayne: Gotham's lost its way.
-Arthur Fleck: When I was a little boy and told people I was going to be a comedian, everyone laughed at me. Well, no one's laughing now.
 Gary: What the fuck, Arthur?
-Card: Forgive my Laughter: I have a Condition.
 Social Worker: How does it feel to have to come here? Does it help to have someone to talk to?
 Sophie Dumond: This building is awful, isn't it?
 Social Worker: Arthur, you're on seven different medications. Surely they must be doing something.
+Hoyt Vaughn: How the fuck do I know? Why does anybody do anything?
 Detective Garrity: Mr. Fleck? Sorry to bother you. I'm Detective Garrity. This is my partner, Detective Burke. We had a few questions for you, but you weren't home. So, we spoke with your mother.
 Thomas Wayne: What kind of coward would do something that cold-blooded? Someone who hides behind a mask?
-Hoyt Vaughn: How the fuck do I know? Why does anybody do anything?     
+Penny Fleck: He'd make a great mayor. Everybody says so.
+Arthur Fleck: Oh, yeah? Everybody, who? Who do you talk to?
+Penny Fleck: Everybody on the news. He's the only one who can save the city. He owes it to us.
+Arthur Fleck: Arthur Fleck: Wait, please, I love this job.
+Hoyt Vaughn: Arthur, I need to why you brought a gun into a kids hospital?
+Arthur Fleck: Its a prop, for my act now.
+Hoyt Vaughn: That's bullshit! It's bullshit! What kind of clown carries a fucking gun? Besides, Randall told me, you tried to fire a thirty-eight over him last week.
+Arthur Fleck: Randall told you that?
+Hoyt Vaughn: You're a fuck-up, Arthur, and a liar. You're fired!
+Gary: I heard what happened? Sorry, mate.
+Randall: Yeah, it doesn't seem fair, getting fired like that.
+Haha's Clown: Did you really bring a gun to a children's hospital, Arty? What the f**k would you do that for?
+Haha's Clown: Is that part of your new act, Arthur? The dancing didn't do the trick, you were just going to shoot yourself?
+Arthur Fleck: Why don't you ask Randall about it? It was his gun.
+Randall: What?
+Arthur Fleck: I still owe you for that, don't I?
+Randall: What the fuck are you talking about? Stop talking out of you're a**, Art.
+Arthur Fleck: Arthur Fleck: Oh, no. I forgot to punch out.
+Arthur Fleck: I heard this song on the radio the other day, and the guy was singing that his name was Carnival.
+Social Worker: Arthur...
+Arthur Fleck: Which is crazy, because that's my clown name. At work, until a little while ago, it was like nobody ever saw me. Even I didn't know if I really existed.
+Social Worker: Arthur, I have some bad news for you.
+Arthur Fleck: You don't listen, do you? I don't think you ever really listened to me. You just ask the same questions every week. "How's your job? Are you having any negative thoughts?" All I have are negative thoughts. But you don't listen. Anyway, I said, for my whole life, I didn't know if I even really existed. But I do, and people are starting to notice.
+Social Worker: They cut our funding. They're closing down our offices next week. The city's cut funding across the board, social services is part of that. This is the last time we'll be meeting.
+Arthur Fleck: Okay.
+Social Worker: They don't give a shit about people like you, Arthur. And they really don't give a shit about people like me either.
+Arthur Fleck: What am I supposed to do about my medication now? Who do I talk to?
+Social Worker: I'm sorry, Arthur.
+Good Morning Host: There seems to be a groundswell of anti-rich sentiment in the city. It's almost as if our less fortunate brethrens are taking the side of the killer.
+Thomas Wayne: Yes, that is a shame. It's one of the reasons why I'm considering a run for mayor. Gotham's lost its way.
+Good Morning Host: What about the eyewitness report of the suspect being a man in a clown mask?
+Thomas Wayne: Well, it makes total sense to me. What kind of coward would do something that coldblooded? Someone who hides behind a mask. Someone who is envious of those more fortunate than themselves. Yet they're too scared to show their own face. And it's those kind of people that change for the better, those of us who've made something of our lives, will always look at those who haven't, as nothing but clowns.
+Penny Fleck: Penny Fleck: Penny Fleck: That's not funny.
+Sophie Dumond: Do you believe that shit? Fuck them. I think the guy that did it is a hero. Three less creeps in Gotham City. Only a million more to go.
+Penny Fleck: He's an extraordinary man, Happy. A very powerful man. We were in love. He said it was best that we not be together because of appearances. And I couldn't tell anyone because, well, I signed some papers. And besides, you can imagine what people would say about Thomas and me, what they'd say about you.
+Arthur Fleck: What would they say, Mom?
+Arthur Fleck: Hi. What's your name?
+Bruce Wayne: I'm Bruce.
+Arthur Fleck: Bruce. I'm Arthur.
+Alfred Pennyworth: Bruce! Bruce! Get away from that man.
+Arthur Fleck: It's okay. I'm a good guy.
+Alfred Pennyworth: How do you do? Who are you?
+Arthur Fleck: I'm here to see Mr. Wayne.
+Alfred Pennyworth: Well, you shouldn't be speaking to his son
+Alfred Pennyworth: Why did you give him these flowers?
+Arthur Fleck: No, they're not real. It's magic. I was just trying to make Bruce smile.
+Alfred Pennyworth: Well, it's not funny, is it? Do I need to call the police?
+Arthur Fleck: No, please. My mother's name is Penny. Penny Fleck. She used to work here years ago. Can you please tell Mr. Wayne I need to see him?
+Alfred Pennyworth: You are her son?
+Arthur Fleck: Yeah. Did you know her? I know about the two of them. She told me everything.
+Alfred Pennyworth: There's nothing to know. There is no "them." Your mother was delusional. She was a sick woman.
+Arthur Fleck: Don't say that.
+Alfred Pennyworth: Just go. Before you make a fool of yourself.
+Arthur Fleck: Thomas Wayne is my father.
+Alfred Pennyworth: Let go of me! Let go! Let go of me!
+Detective Garrity: Mr. Fleck. Sorry to bother you. I'm Detective Garrity this is my partner, Detective Burke. We have a few questions for you, but you weren't home. So we spoke with your mother.
+Arthur Fleck: Oh. What did you say to her? Did you do this?
+Detective Garrity: What? No.
+Detective Burke: No, no, no. We just asked her some questions. She got hysterical. Hyperventilating, collapsed...
+Arthur Fleck: Yeah, but the doctor said she had a stroke.
+Detective Garrity: We're sorry to hear about that. But like I said, I still have some questions for you. They're about to subway killings that happened last week. You've heard about them right?
+Arthur Fleck: Yeah. It's horrible.
+Detective Garrity: Right.
+Detective Garrity: So we spoke with your boss, over at Ha-Ha's. He said you were fired for bringing a gun into the children's hospital. Is that true, Mr. Fleck?
+Arthur Fleck: It's a prop. It's part of my act. I'm a party clown.
+Detective Burke: All right, so why were you fired?
+Arthur Fleck: They said I wasn't funny enough. Can you imagine that? Now if you don't mind, I have to go take care of my mother.
+Detective Burke: Your boss also gave us one of your cards. This condition of yours, The laughing, is it real, or some sort of clown thing?
+Arthur Fleck: A clown thing?
+Detective Garrity: Yeah. I mean, part of your act?
+Arthur Fleck: What do you think?
+Detective Garrity: It's exit only.
+Thomas Wayne: Can I help you, pal?
+Arthur Fleck: I don't know what to say.
+Thomas Wayne: Do you want an autograph, or something?
+Arthur Fleck: No. My name is Arthur. Penny Fleck is my mother.
+Thomas Wayne: Jesus. You're the guy that came to my house yesterday.
+Arthur Fleck: Yes. I'm sorry, I just showed up. But my mother told me everything, and I had to talk to you.
+Thomas Wayne: Look, pal, I'm not your father. What's wrong with you.
+Arthur Fleck: Because I think you are.
+Thomas Wayne: Well, that's impossible. Because you were adopted, and I never slept with your mother. What do you want from me? Money?
+Arthur Fleck: No, I don't. I wasn't adopted.
+Thomas Wayne: Jesus, she never told you?
+Arthur Fleck: What?
+Thomas Wayne: Your mother adopted you while she was working for us.
+Arthur Fleck: That's not true. Why are you saying that?
+Thomas Wayne: But she was arrested and committed to Arkham State Hospital when you were just a little boy.
+Arthur Fleck: Why are you saying this? I don't need you to tell me lies! I know it seems strange! I don't mean to make you uncomfortable! I don't know why! Dad, I just want a little bit of fucking decency! What is it with you people? You say that stuff about my mother!
+Thomas Wayne: She's crazy.
+Arthur Fleck: She's...
+Thomas Wayne: You think this is funny? Is this a joke to you?
+Arthur Fleck: Dad, its me! Come on!
+Thomas Wayne: Touch my son again, I'll fucking kill you.
+Arthur Fleck: Can I ask you a question?
+Carl (Arkham Clerk): Sure?
+Arthur Fleck: How does someone wind up in here? Have they all, all the people committed crimes?
+Carl (Arkham Clerk): Yeah, some have. You know, some are just crazy, pose a danger to themselves and others. Some just got nowhere else to go, don't know what to do, you know?
+Arthur Fleck: Yeah, I hear you, brother. Sometimes I don't know what to do. The last time I ended up taking it out on some people. I thought it was going to bother me, but it really hasn't.
+Carl (Arkham Clerk): What's that?
+Arthur Fleck: I fucked up. I've done some bad shit. And I've been thinking real hard about it. It's so hard just to try and be happy all the time.
+Carl (Arkham Clerk): Hey, listen, man, I'm just the administrator assistant. A clerk. You know, all I do is file paperwork. I don't know what to tell you. But you should see somebody.
+Carl (Arkham Clerk): all right. Here it is. Fleck. Penny Fleck. Let's see.
+Carl (Arkham Clerk): diagnosed by Dr. Benjamin Stoner. Patient suffers from delusional psychosis, and narcissistic personality disorder. Was found guilty of endangerment welfare of her own child
+Arthur Fleck: What?
+Carl (Arkham Clerk): It says she's not your mother.
+Carl (Arkham Clerk): Uh, I'm sorry. They said I can't release these records. You know, this is not a public forum. Sorry, I get in trouble. look, if you want to bring your mom here to sign, that'll be much easier, but I can't let this go without a signature. Okay? I'm sorry.
+Carl (Arkham Clerk): No, man! Let go man! Give it back!
+Dr. Stoner: We went over this, Penny. You adopted him. We have all the paperwork, right here.
+Young Penny: That's not true. Thomas and I made him, so it stayed our secret.
+Dr. Stoner: You also stood by when one of your boyfriend's repeatedly abused your adopted son and battered you
+Dr. Stoner: Penny, your son was found tied to a radiator in a filthy apartment, malnourished, with multiple bruises across his body, and severe trauma to his head.
+Young Penny: I never heard him crying. He's always been such a happy little boy.
+    

@@ -13,11 +13,11 @@ Ron Weasley: You know, hide the book?
 Harry Potter: Oh... yeah.
 Horace Slughorn: It was a student who gave me Francis. One Spring afternoon I discovered a bowl on my desk, just a few inches of clear water in it. Floating on the surface was a flower petal. As I washed, it sank. Just when it reached the bottom, it transformed into a wee fish. It was beautiful magic, wondrous to the behold. The flower petal had come from a lily, your mother. The day I came downstairs, the day the bowl was empty, was the day your mother...
 Ron Weasley: How much are these?
-Fred Weasley, George Weasley: 5 galleons.
+Fred Weasley,Â George Weasley: 5 galleons.
 Ron Weasley: How much for me?
-Fred Weasley, George Weasley: 5 galleons.
+Fred Weasley,Â George Weasley: 5 galleons.
 Ron Weasley: I'm your brother!
-Fred Weasley, George Weasley: 10 galleons.
+Fred Weasley,Â George Weasley: 10 galleons.
 Hermione Granger: Hey! She's only interested in you because she thinks you're the Chosen One.
 Harry Potter: But I am the Chosen One.
 Harry Potter: Sorry... kidding!
@@ -47,7 +47,7 @@ Hermione Granger: Remember, Slughorn usually eats early, takes a walk, and then 
 Harry Potter: Right. I'm going down to Hagrid's.
 Hermione Granger: What? No! Harry, you've got to go speak to Slughorn! We have a plan.
 Harry Potter: I know, but I've got a really good feeling about Hagrid's. I feel like it's the place to be tonight. Do you know what I mean?
-Hermione Granger, Ron Weasley: No.
+Hermione Granger,Â Ron Weasley: No.
 Harry Potter: Trust me! I know what I'm doing, or Felix does.
 Harry Potter: Hi!
 Harry Potter: Okay, so this morning I'm going to be putting you all though a few drills, just to set things straight.

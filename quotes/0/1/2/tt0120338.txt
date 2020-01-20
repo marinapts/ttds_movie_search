@@ -42,6 +42,7 @@ Rose: Jack, Jack...
 Rose: JACK!
 Rose: Jack?
 Rose: There's a boat, Jack...
+Old Rose: It's been 84 years, and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in. Titanic was called the Ship of Dreams, and it was. It *really* was...
 Jack: Don't do it.
 Rose: Stay back! Don't come any closer!
 Jack: Come on, just give me your hand. I'll pull you back over.
@@ -68,7 +69,6 @@ Jack: That's what everybody says but, with all due respect, Miss, I'm not the on
 Jack: Whew! I'm Jack Dawson.
 Rose: Rose De Witt Bukater.
 Jack: I'm gonna have to get you to write that one down.
-Old Rose: It's been 84 years, and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in. Titanic was called the Ship of Dreams, and it was. It *really* was...
 Rose: Hello Jack. I changed my mind.
 Jack: Shhh. Gimme your hand. Now close your eyes, go on. Now step up. Now hold on to the railing. Keep your eyes closed, don't peek.
 Jack: Step up on the railing. Hold on, hold on. Keep your eyes closed. Do you trust me?
@@ -110,7 +110,7 @@ Cal Hockley: You're a good liar.
 Jack: Almost as good as you. There's uh- there's no arrangement is there?
 Cal Hockley: Oh, there is... Not that you'll benefit from it... I always win, Jack.
 Employee: Hey! What do you think you're doing? You'll have to pay for that, you know? That's White Star Line property.
-Jack, Rose: Shut up!
+Jack,Â Rose: Shut up!
 Rose: Jack! This is where we first met.
 Tommy Ryan: Music to drown by. Now I know I'm in first class.
 Ruth: Will the lifeboats be seated according to class? I hope they're not too crowded.
@@ -255,7 +255,7 @@ Thomas Andrews: Look, 20 or so in a boat built for 65? And I saw one boat with o
 Second Officer Charles Herbert Lightoller: Well, we weren't sure of the weight, Mr. Andrews. These boats may buckle.
 Thomas Andrews: Rubbish! They were tested in Belfast with the weight of 70 men! Now, fill these boats, Mr. Lightoller, for God's sake, man!
 Second Officer Charles Herbert Lightoller: Please, I need more women and children, please!
-Irish Mommy: And so they lived, happily together for three-hundred years. In the land of Tír na nÓg, of eternal youth and beauty.
+Irish Mommy: And so they lived, happily together for three-hundred years. In the land of TÃ­r na nÃ“g, of eternal youth and beauty.
 Robert Hitchins: You don't understand. If we go back, they'll swamp the boat, they'll pull us right down, I'm tellin' you!
 Molly Brown: Knock it off. You're scaring me. C'mon girls! Grab an oar, let's go!
 Robert Hitchins: Are you out of your mind? We're in the middle of the North Atlantic! Now do you people want to live, or do you want to die?
@@ -268,7 +268,7 @@ Lookout Frederick Fleet: PICK UP, YOU BASTARDS!
 Lookout Frederick Fleet: Iceberg, right ahead!
 6th Officer Moody: Thank you.
 6th Officer Moody: Iceberg right ahead!
-6th Officer Moody, 1st Officer William Murdoch: Hard a'starboard!
+6th Officer Moody,Â 1st Officer William Murdoch: Hard a'starboard!
 Jack: Wait! We're passengers! We're passengers!
 6th Officer Moody: Have you been through the inspection queue?
 Jack: Of course! Anyway, we don't have lice, we're Americans.
@@ -362,8 +362,8 @@ Cal Hockley: We had a deal, damn you!
 1st Officer William Murdoch: Your money can't save you any more than it can save me. Get Back!
 Male Passenger: Yea, though I walk through the valley of the shadow of death...
 Jack: You want to walk a little faster through that valley there?
-Rose: I am not a foreman in one of your mills that you can command. I am your fiancée.
-Cal Hockley: My fian... my fiancée! Yes, you are, and my wife. My wife in practice if not yet by law, so you will honor me. You will honor me the way a wife is required to honor a husband. Because I will not be made a fool, Rose. Is this in any way unclear?
+Rose: I am not a foreman in one of your mills that you can command. I am your fiancÃ©e.
+Cal Hockley: My fian... my fiancÃ©e! Yes, you are, and my wife. My wife in practice if not yet by law, so you will honor me. You will honor me the way a wife is required to honor a husband. Because I will not be made a fool, Rose. Is this in any way unclear?
 Rose: No.
 Molly Brown: Why do they insist on announcing dinner like a damned cavalry charge?
 Smith: What was that, Mr. Murdoch?
@@ -399,7 +399,7 @@ Second Officer Charles Herbert Lightoller: It will make the bergs harder to see.
 Smith: Hmm. Well, I'm off. Mantain speed and heading, Mr. Lightoller.
 Second Officer Charles Herbert Lightoller: Yes, sir.
 Rose: I don't see what all of the fuss is about. It doesn't look any bigger than the Mauritania.
-Cal Hockley: You can be blasé about some things, Rose, but not about Titanic. It's over a hundred feet longer than the Mauritania and far more luxurious!
+Cal Hockley: You can be blasÃ© about some things, Rose, but not about Titanic. It's over a hundred feet longer than the Mauritania and far more luxurious!
 Bert Cartmell: It's a big boat, huh?
 Cora Cartmell: Daddy, it's a ship!
 Bert Cartmell: You're right.
@@ -420,10 +420,10 @@ Jack: Yeah. Yeah, that was pretty much shit.
 Jack: We're a couple of regular swells.
 Cal Hockley: Where are you going? To him? What, to be a whore to a gutter rat?
 Rose: I'd rather be his whore than your wife.
-Cal Hockley: Completely unacceptable! What made you think you could put your hands on my fiancée? Look at me, you filth!
+Cal Hockley: Completely unacceptable! What made you think you could put your hands on my fiancÃ©e? Look at me, you filth!
 Ruth: Tell us of the accomodations in steerage, Mr. Dawson. I hear they're quite good on the ship.
 Jack: The best I've seen, Ma'am. Hardly any rats.
-Cal Hockley: Mr. Dawson is joining us from the Third Class. He was of some assistance to my fiancée last night.
+Cal Hockley: Mr. Dawson is joining us from the Third Class. He was of some assistance to my fiancÃ©e last night.
 Rose: It turns out that Mr. Dawson is quite a fine artist. He was kind enough to show me some of us work today.
 Cal Hockley: Rose and I differ somewhat in our opinion of fine art...
 Cal Hockley: Not to impune you work, sir.

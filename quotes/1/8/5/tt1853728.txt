@@ -229,7 +229,7 @@ Django: I said...
 Dr. King Schultz: He's just being cheeky.
 Dr. King Schultz: Anything else about Mr. Candie I should know about before I meet him?
 Leonide Moguy: Yes, he is a bit of a francophile. Well, what civilized people aren't? And he prefers "Monsieur Candie" to "Mr. Candie".
-Dr. King Schultz: Si c'est cela qu'il préfère.
+Dr. King Schultz: Si c'est cela qu'il prÃ©fÃ¨re.
 Leonide Moguy: He doesn't speak French. Don't speak French to him, it'll embarrass him.
 Dr. King Schultz: Let's just hope she works in the house, not in the field.
 Django: Oh, no, she ain't no field nigger. She... She pretty. And she talk good, too. But when they tore her back up and then they... burned that runaway "r" on her cheek... they goddamned her. She ain't no field nigger but she ain't good enough for the house no more either. They gonna try to make her a comfort girl.

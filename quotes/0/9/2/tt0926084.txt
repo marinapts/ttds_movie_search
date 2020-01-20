@@ -1,7 +1,7 @@
 
 Bellatrix Lestrange: You stupid elf! You could have killed me!
 Dobby the House Elf: Dobby never meant to kill! Dobby only meant to maim, or seriously injure!
-Fred Weasley, George Weasley: Wow, we're identical!
+Fred Weasley,Â George Weasley: Wow, we're identical!
 Dobby the House Elf: What a beautiful place... to be with friends.
 Ron Weasley: Oh my God. What am I gonna do? My wife's all alone downstairs!
 Harry Potter: Ron, you don't have a wife.
@@ -130,7 +130,7 @@ Ron Weasley: And I knew it was going to take me where I needed to go.
 Harry Potter: Engorgio!
 Harry Potter: Reducio!
 Hermione Granger: What's going on in there?
-Harry Potter, Ron Weasley: Nothing!
+Harry Potter,Â Ron Weasley: Nothing!
 Hermione Granger: We need to talk.
 Ron Weasley: Mum used to read those to me as a kid! "The Wizard and the Hopping Pot," "Babbity Rabbity And Her Cackling Stump"...
 Ron Weasley: Come on! Babitty Rabbity... No?
@@ -228,10 +228,17 @@ Harry Potter: Help me!
 Rufus Scrimgeour: These are dark times, there is no denying. Our world has faced no greater threat than it does today, but you can't fight this war on your own, Mr. Potter... he's too strong.
 Ron Weasley: Let's get off the streets and get somewhere safe.
 Xenophilius Lovegood: Well, it's the sign of the Deathly Hallows, of course.
-Ron Weasley, Harry Potter, Hermione Granger: The what?
+Ron Weasley,Â Harry Potter,Â Hermione Granger: The what?
 Xenophilius Lovegood: The Deathly Hallows. I assume you're all familiar with "The Tale of the Three Brothers"?
-Ron Weasley, Hermione Granger: Yes.
+Ron Weasley,Â Hermione Granger: Yes.
 Harry Potter: No.
+Rubeus Hagrid: Lupin!
+Ginny Weasley: What are you doing?
+Remus Lupin: Shh. What creature sat in the corner the first time Harry Potter visited my office in Hogwarts?
+Harry Potter: Are you mad?
+Remus Lupin: WHAT CREATURE?
+Harry Potter: A Grindylow.
+Remus Lupin: We've been betrayed. Voldemort knew you were being moved tonight. I had to make sure you weren't an impostor.
 Bellatrix Lestrange: Cissy, put the boys in the cellar! I'm going to have a conversation with this one, girl to girl.
 Dolores Umbridge: You are not a witch.
 Narcissa Malfoy: Lucius!
@@ -249,11 +256,4 @@ Ron Weasley: Suppose he did Mad-Eye? How would you feel then?
 Harry Potter: It's better we wipe their memories.
 Ron Weasley: You're the boss. Hermione...
 Ron Weasley: You're the best at spells.
-Hermione Granger: Obliviate.
-Rubeus Hagrid: Lupin!
-Ginny Weasley: What are you doing?
-Remus Lupin: Shh. What creature sat in the corner the first time Harry Potter visited my office in Hogwarts?
-Harry Potter: Are you mad?
-Remus Lupin: WHAT CREATURE?
-Harry Potter: A Grindylow.
-Remus Lupin: We've been betrayed. Voldemort knew you were being moved tonight. I had to make sure you weren't an impostor.     
+Hermione Granger: Obliviate.     

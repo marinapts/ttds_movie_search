@@ -47,24 +47,24 @@ Capt. Malcolm Reynolds: I don't plan on any shooting taking place during this jo
 Jayne Cobb: Well, what you plan and what takes place ain't ever exactly been similar.
 Capt. Malcolm Reynolds: No grenades.
 Capt. Malcolm Reynolds: No grenades!
-Zoë: We crashin' again?
+ZoÃ«: We crashin' again?
 Capt. Malcolm Reynolds: Go talk to your husband. Is the mule prepped?
-Zoë: Good to go sir. Just loading her up. Are those grenades?
+ZoÃ«: Good to go sir. Just loading her up. Are those grenades?
 Jayne Cobb: Cap'n doesn't want them.
-Zoë: We're robbing the place, we're not occupying it.
+ZoÃ«: We're robbing the place, we're not occupying it.
 Jayne Cobb: Shiny. Let's be bad guys.
 Capt. Malcolm Reynolds: Doctor, I'm takin' your sister under my protection here. If anything happens to her, anything at all, I swear to you, I will get very choked up. Honestly, there could be tears.
 Jayne Cobb: Boy, it sure would be nice if we had some grenades, don't you think?
 Capt. Malcolm Reynolds: This is the captain. We have a little problem with our entry sequence, so we may experience some slight turbulence and then - explode.
 Capt. Malcolm Reynolds: I'll take the shuttle in closer. Zoe, ship is yours. Remember, if anything happens to me, or you don't hear from me within the hour... you take this ship and you come and you rescue me.
-Zoë: What? And risk my ship?
+ZoÃ«: What? And risk my ship?
 Capt. Malcolm Reynolds: I mean it. It's cold out there. I don't wanna get left.
 Jayne Cobb: Ain't logical. Cuttin' on his own face, rapin' and murdering - Hell, I'll kill a man in a fair fight... or if I think he's gonna start a fair fight, or if he bothers me, or if there's a woman, or if I'm gettin' paid - mostly only when I'm gettin' paid. But these Reavers... last ten years they show up like the bogeyman from stories. Eating people alive? Where's that get fun?
 Capt. Malcolm Reynolds: Do you want to run this ship?
 Jayne Cobb: Yes!
 Capt. Malcolm Reynolds: Well... you can't...
 Jayne Cobb: Shepherd Book once said to me, "If you can't do something smart, do something right."
-Zoë: Zoë: At last, we can retire and give up this life of crime.
+ZoÃ«: ZoÃ«: At last, we can retire and give up this life of crime.
 Capt. Malcolm Reynolds: Dear Buddha, please bring me a pony and a plastic rocket...
 The Operative: Are you willing to die for your beliefs?
 Capt. Malcolm Reynolds: I am...
@@ -83,18 +83,18 @@ Dr. Simon Tam: Safeword. The people who helped me break River out - they had int
 Kaylee Frye: Not sure I get it.
 Dr. Simon Tam: A phrase that's encoded in her brain, that makes her fall asleep. If I speak the words, "Eta...
 Jayne Cobb: Well don't say it!
-Zoë: It only works on her, Jayne.
+ZoÃ«: It only works on her, Jayne.
 Jayne Cobb: Oh... Well, now I know that.
 Capt. Malcolm Reynolds: You think she'll hold together?
-Zoë: She's torn up plenty, but she'll fly true.
+ZoÃ«: She's torn up plenty, but she'll fly true.
 Capt. Malcolm Reynolds: Could be bumpy.
-Zoë: Always is.
+ZoÃ«: Always is.
 Capt. Malcolm Reynolds: You have to open with payment.
 The Operative: That is a trap. I offer money, you'll play the man of honor and take umbrage; I ask you to do what is right and you'll play the brigand. I have no stomach for games.
 Capt. Malcolm Reynolds: I've staked my crew's life on the theory that you're a person, actual and whole, and if I'm wrong, you'd best shoot me now...
 Capt. Malcolm Reynolds: Or we could talk more.
 Shepherd Book: When I talk about belief, why do you always assume I'm talking about God?
-Zoë: Do you really think any of us is gonna get through this?
+ZoÃ«: Do you really think any of us is gonna get through this?
 Jayne Cobb: Well, I might.
 River Tam: You take care of me, Simon. You've always taken care of me. My turn.
 Hoban 'Wash' Washburn: It's okay, I'm a leaf on the wind!
@@ -127,12 +127,12 @@ Vault Guard: You'll have to give me your authorization password!
 Vault Guard: Uh... okay!
 Jayne Cobb: MAL!
 Capt. Malcolm Reynolds: Every heist he's gotta start yellin' my name!
-Zoë: It's a fair bet the Alliance knows about Mr. Universe. They're gonna see this coming.
+ZoÃ«: It's a fair bet the Alliance knows about Mr. Universe. They're gonna see this coming.
 Capt. Malcolm Reynolds: No. They're not going to see this coming.
 Capt. Malcolm Reynolds: What was that?
-Zoë: So... trap?
+ZoÃ«: So... trap?
 Capt. Malcolm Reynolds: Trap.
-Zoë: We goin' in?
+ZoÃ«: We goin' in?
 Capt. Malcolm Reynolds: Ain't but a few hours out.
 Hoban 'Wash' Washburn: Yeah, but... remember the part where it's a trap?
 The Operative: You know, in certain older civilized cultures, when men failed as entirely as you have, they would throw themselves on their swords.
@@ -151,7 +151,7 @@ Capt. Malcolm Reynolds: It's of interest to me how much you seem to know about t
 Shepherd Book: I wasn't born a shepherd, Mal.
 Capt. Malcolm Reynolds: You have to tell me about that sometime.
 Shepherd Book: No, I don't.
-Zoë: Do you know what the definition of a hero is? Someone who gets other people killed. You can look it up later.
+ZoÃ«: Do you know what the definition of a hero is? Someone who gets other people killed. You can look it up later.
 Capt. Malcolm Reynolds: Bit of a rockety ride. Nothing to worry about.
 Dr. Simon Tam: I'm not worried.
 Capt. Malcolm Reynolds: Fear's nothing to be ashamed of, Doctor.
@@ -180,7 +180,7 @@ The Operative: Madness?
 The Operative: Have you looked at this scan carefully, Doctor? At his face? It's love, in point of fact. Something a good deal more dangerous.
 Teacher: Earth that was could no longer sustain our numbers, we were so many. We found a new solar system, dozens of planets and hundreds of moons. Each one terraformed, a process taking decades, to support human life, to be new Earths. The Central Planets formed the Alliance. Ruled by an interplanetary parliament, the Alliance was a beacon of civilization. The savage outer planets were not so enlightened and refused Alliance control. The war was devastating, but the Alliance's victory over the Independents ensured a safer universe. And now everyone can enjoy the comfort and enlightenment of our civilization.
 Mr. Universe: You guys always bring me the very best violence.
-Zoë: Sir?
+ZoÃ«: Sir?
 Capt. Malcolm Reynolds: It's done.
 Capt. Malcolm Reynolds: Report. River?
 Dr. Simon Tam: If there's any fighting, drop to the floor or run away.
@@ -194,7 +194,7 @@ The Operative: I am, however, wearing full body armor. I am not a moron!
 Capt. Malcolm Reynolds: Just get us on the ground!
 Hoban 'Wash' Washburn: That part'll happen pretty definitely.
 Capt. Malcolm Reynolds: Fine, I'll wear 'em. But I'll look like an idiot.
-Zoë: I should think you'd be used to that, sir.
+ZoÃ«: I should think you'd be used to that, sir.
 Hoban 'Wash' Washburn: Can I make a suggestion that doesn't involve violence, or is this the wrong crowd for that?
 Dr. Simon Tam: Am I talking to Miranda now?
 Dr. Simon Tam: No. Not right.
@@ -209,7 +209,7 @@ Capt. Malcolm Reynolds: Hey, little one. Understand your part in all this?
 River Tam: Do you?
 Capt. Malcolm Reynolds: It's what I do, darlin'.
 Capt. Malcolm Reynolds: It's what I do.
-Zoë: In the time of war, we would never have left a man behind.
+ZoÃ«: In the time of war, we would never have left a man behind.
 Capt. Malcolm Reynolds: Maybe that's why we lost.
 Kaylee Frye: Are you OK?
 Capt. Malcolm Reynolds: Is *he* OK?
@@ -217,7 +217,7 @@ Kaylee Frye: If you had a care for anybody's heart...
 Capt. Malcolm Reynolds: You knew he was gonna leave. We never been nothing but a way station to those two. And how the hell do you know what he feels? He's got River to worry on, but he still could've shown you. If I truly wanted someone bad enough, wouldn't be a thing in the 'verse that could stop me from going to her.
 Kaylee Frye: Tell that to Inara!
 Jayne Cobb: She is startin' to damage my calm.
-Zoë: Jayne!
+ZoÃ«: Jayne!
 Jayne Cobb: She's *right*! Everybody's dead!... This whole world is dead for no reason!
 Capt. Malcolm Reynolds: You had a gorram time bomb living with us! Who we gonna find in there when she wakes up? The girl? Or the weapon?
 Dr. Simon Tam: I thought she was getting better.
@@ -261,7 +261,7 @@ Dr. Simon Tam: One simple job. She'll be fine.
 Capt. Malcolm Reynolds: She is fine! Except for still being crazy! She's the picture of health.
 Capt. Malcolm Reynolds: I've never credited the Alliance with an overabundance of brains and if you're the best they've got...
 Capt. Malcolm Reynolds: This is exactly what I didn't want. I wanted simple, I wanted in-and-out, I wanted easy money.
-Zoë: Things always get a little more complicated, don't they, sir?
+ZoÃ«: Things always get a little more complicated, don't they, sir?
 Capt. Malcolm Reynolds: Once, just once, I want things to go according to the gorram plan!
 Capt. Malcolm Reynolds: This is how it is. Anybody doesn't wanna fly with me any more, this is your port of harbor. There's a lot of fine ways to die. I ain't waiting for the Alliance to choose mine.
 Capt. Malcolm Reynolds: I mean to confound these bungers. Take my shot at getting to Miranda. Maybe find something I can use to get clear of this. So I hear a word out of any of you that ain't helping me out or taking your leave, I will shoot you down. Get to work!
@@ -273,7 +273,7 @@ Ensign: Sir, we found seven.
 Jayne Cobb: How come they ain't blowin' us out the air?
 Capt. Malcolm Reynolds: They wanna run us down. The up-close kill.
 River Tam: They want us alive when they eat us.
-Zoë: We're not going to get to you in time.
+ZoÃ«: We're not going to get to you in time.
 Hoban 'Wash' Washburn: Keep moving, honey. We're coming to you.
 The Operative: You're fighting a war you've already lost.
 Capt. Malcolm Reynolds: Yeah, well, I'm known for that.
@@ -281,7 +281,7 @@ The Operative: "Key members of Parliament". Key. The minds behind every military
 Dr. Mathias: If there was some classified information, she, she never spoke of it. I, I don't know what it is!
 The Operative: Nor do I. And judging by her deteriorating mental state, I'd say we're both better off! Secrets are not my concern. Keeping them is.
 Dr. Mathias: What-whatever secrets she might have accidentally gleaned, it's probable she doesn't even know them, that they're buried under layers of psychosis.
-Zoë: How much ammo we got left?
+ZoÃ«: How much ammo we got left?
 Jayne Cobb: Three full mags, and my swinging cod!
 Dr. Mathias: I need to see your clearance.
 The Operative: And you are right to insist.
@@ -311,7 +311,7 @@ Capt. Malcolm Reynolds: We're going to need paint. We're going to need red paint
 Capt. Malcolm Reynolds: I didn't start this.
 Jayne Cobb: No, that's right. Alliance starts the war, and then you volunteer. Battle of Serenity, Mal. Besides Zoe here, how many...
 Jayne Cobb: Hey, I'm talking at you! How many men in your platoon came out of there alive?
-Zoë: You wanna leave this room.
+ZoÃ«: You wanna leave this room.
 Jayne Cobb: Damn right, I do.
 Capt. Malcolm Reynolds: Ah hell, Shepherd, I ain't looking for help from on high. That's a long wait for a train don't come.
 Shepherd Book: When I talk about belief, why do you always assume I'm talking about God?
@@ -322,7 +322,7 @@ Fruity Oaty Bar Jingle: Fruity Oaty Bars! Make a man out of a mouse! Fruity Oaty
 The Operative: Where are you hiding, little girl?
 Kaylee Frye: Have faith, Captain!
 Capt. Malcolm Reynolds: Not today.
-Zoë: We should hit town right during Sunday worship. Won't be any crowds.
+ZoÃ«: We should hit town right during Sunday worship. Won't be any crowds.
 Capt. Malcolm Reynolds: If Fanty and Mingo are right about the payroll, this could look to be a sunny day for us.
 River Tam: I had to show them. l didn't know if you were going to make me sleep.
 Dr. Simon Tam: You could have asked...
@@ -335,8 +335,8 @@ Dr. Mathias: I wonder if...
 The Operative: It's pride.
 Capt. Malcolm Reynolds: The chicken's come home to roost.
 Kaylee Frye: Sometimes people have feelings. I'm referrin' here to people.
-Zoë: SPOILER: Zoë: We got time for gravedigging?
-Capt. Malcolm Reynolds: Zoë, get something to rope them together, five or six of them. I want them laid out on the nose of our ship.
+ZoÃ«: SPOILER: ZoÃ«: We got time for gravedigging?
+Capt. Malcolm Reynolds: ZoÃ«, get something to rope them together, five or six of them. I want them laid out on the nose of our ship.
 Dr. Simon Tam: Are you insane?
 Capt. Malcolm Reynolds: Put Book front and center - he was our friend, we should honor him. Kaylee! Find that kid who's takin' a dirt nap with baby Jesus. We need a hood ornament.
 Capt. Malcolm Reynolds: Jayne! Try not to steal too much of their shit!

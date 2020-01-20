@@ -19,11 +19,11 @@ Sam: Based on what they know about the way these groups operate, our analyst say
 Bryan Mills: To what?
 Sam: To never finding her.
 Bryan Mills: Now's not the time for dick measuring, Stuart!
-Bryan: I push one button and 38 agents are here before you have time to scratch your worthless balls.
 Bryan Mills: That is what happens when you sit behind a desk. You forget things, like the weight in the hand of a gun that's loaded and one that's not.
 Jean Claude: Isabelle!
 Jean Claude: You asshole!
 Bryan Mills: It's a flesh wound. But if you don't get me what I need, the last thing you'll see before I make your children orphans is the bullet I put between her eyes!
+Bryan: I push one button and 38 agents are here before you have time to scratch your worthless balls.
 Bryan: You come to this country, take advantage of the system and think because we are tolerant that we are weak and helpless. Your arrogance offends me. And for that the rate just went up 10%.
 Kim: Mom said your job made you paranoid.
 Bryan: Well, my job made me aware.
@@ -67,7 +67,7 @@ Bryan Mills: Two seventeen-year-olds.
 Kim: Amanda's nineteen!
 Bryan Mills: How about this? How about if I go along? You won't even know I'm there. I'm very good at being invisible.
 Lenore: As you so amply demonstrated for most of her life.
-Bryan: Really? Who's Beyoncé?
+Bryan: Really? Who's BeyoncÃ©?
 Bryan: Just kidding.
 Peter: These taxis are so damn expensive! Want to share?
 Stuart: Is there something I should be doing?
@@ -76,12 +76,6 @@ Stuart: I do.
 Bryan Mills: Get me a plane to Paris.
 Stuart: For when?
 Bryan Mills: An hour ago.
-Singh: Mr. Mills, how are you?
-Bryan: I'm fine. How are you?
-Singh: Very fine. I suppose you want to see it again?
-Bryan: If you don't mind.
-Singh: You know where it is.
-Bryan: Oh yeah.
 Sam: Am I on speaker or are you by yourself?
 Bryan Mills: Lenore is here.
 Sam: Hey, Lennie.
@@ -93,6 +87,12 @@ Sam: Based on the way these groups operate, our analyst says you have a 96-hour 
 Bryan Mills: To what?
 Sam: To never finding her.
 Lenore: No, no, no!
+Singh: Mr. Mills, how are you?
+Bryan: I'm fine. How are you?
+Singh: Very fine. I suppose you want to see it again?
+Bryan: If you don't mind.
+Singh: You know where it is.
+Bryan: Oh yeah.
 Jean Claude: Bryan, try not to make a mess!
 Sheerah: So I heard you want to be a singer?
 Kim: I do.

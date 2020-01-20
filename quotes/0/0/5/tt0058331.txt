@@ -6,7 +6,7 @@ Bert: Indubitably!
 Mary Poppins: Early each day to the steps of St. Paul's, the little old bird woman comes... In her own special way to the people she calls, come buy my bags full of crumbs. Come feed the little birds, show them you care, and you'll be glad if you do. Their young ones are hungry, their nests are so bare; all it takes is tuppence from you. Feed the birds, tuppence a bag. Tuppence, tuppence, tuppence a bag... Feed the birds, that's what she cries, while overhead her birds fill the skies. All around the cathedral the saints and apostles look down as she sells her wares. Although you can't see it, you know they are smiling each time someone shows that he cares. Though her words are simple and few, listen, listen, she's calling to you. Feed the birds, tuppence a bag. Tuppence, tuppence, tuppence a bag. Though her words are simple and few, listen, listen she's calling to you. Feed the birds, tuppence a bag. Tuppence, tuppence, tuppence a bag.
 Mary Poppins: He traveled all around the world, and everywhere he went, he'd use his word, and all would say, "There goes a clever gent!"
 Bert: When dukes or maharajahs pass the time o' day wi' me, I say me special word and then they ask me out to tea!
-Mary Poppins, Bert: Oh, supercalifragilisticexpialidocious! Even though the sound of it is something quite atrocious, if you say it loud enough, you'll always sound precocious! Supercalifragilisticexpialidocious!
+Mary Poppins,Â Bert: Oh, supercalifragilisticexpialidocious! Even though the sound of it is something quite atrocious, if you say it loud enough, you'll always sound precocious! Supercalifragilisticexpialidocious!
 Jane: Oh, Bert, we're so frightened.
 Bert: Now, now, don't take on so. Bert will take care of you. Like I was your father. Now, who's after you?
 Jane: Father is.
@@ -77,7 +77,7 @@ Mary Poppins: Go? What on earth are you talking about?
 Michael: Didn't you get sacked?
 Mary Poppins: Sacked? Certainly not. I am never sacked!
 Jane: Oh, Mary Poppins!
-Jane, Michael: Hurrah, hurray, hurray, hurray, hurray, hurray...
+Jane,Â Michael: Hurrah, hurray, hurray, hurray, hurray, hurray...
 Mary Poppins: Neither am I a Maypole. Kindly stop spinning about me.
 Bert: You're a man of high position, esteemed by your peers.
 Bert: And when your little tykes are crying, you haven't time to dry their tears... And see their thankful little faces smiling up at you... 'Cause their dad, he always knows just what to do...
@@ -97,7 +97,7 @@ Mrs. Banks: George, please!
 Jane: Take us on outings, give us treats, sing songs, bring sweets. Never be cross or cruel. Never give us castor oil or gruel. Love us as a son and daughter, and never smell of barley water.
 Michael: I put that in, too!
 Jane: If you won't scold and dominate us, we will never give you cause to hate us. We won't hide your spectacles so you can't see, put toads in your bed, or pepper in your tea. Hurry, nanny! Many thanks! Sincerely...
-Jane, Michael: Jane and Michael Banks!
+Jane,Â Michael: Jane and Michael Banks!
 Mr. Banks: With tuppence for paper and strings, you can have your own set of wings! With your feet on the ground you're a bird in flight, with your fist holding tight to the string of your kite! Oh, oh, oh, let's go fly a kite, up to the highest height! Let's go fly a kite, and send it soaring! Up through the atmosphere, up where the air is clear! Oh, let's go... fly a kite!
 Parrot Umbrella: Awk, that's gratitude for you. Didn't even say goodbye?
 Mary Poppins: No, they didn't.
@@ -243,7 +243,7 @@ Mary Poppins: Yes.
 Michael: I don't believe it!
 Jane: He's never taken us on an outing before.
 Michael: He's never taken us anywhere!
-Jane, Mary Poppins: However did you manage it?
+Jane,Â Mary Poppins: However did you manage it?
 Mary Poppins: Manage what?
 Jane: You must have put the idea in his head somehow.
 Mary Poppins: What an impertinent thing to say! Me, putting ideas into people's heads? Really!
@@ -309,9 +309,9 @@ Mr. Dawes Sr.: More, tell them more!
 Mr. Banks: Majestic self-amortizing canals.
 Mr. Dawes Sr.: Oh, it fires the imagination!
 Mr. Banks: Plantations of ripening tea all from...
-Mr. Banks, Mr. Dawes Sr., Mr. Dawes Jr, Mr. Tomes, Mr. Mousley, Mr. Grubbs: Tuppence: prudently, thriftily, frugally invested in the...
+Mr. Banks,Â Mr. Dawes Sr.,Â Mr. Dawes Jr,Â Mr. Tomes,Â Mr. Mousley,Â Mr. Grubbs: Tuppence: prudently, thriftily, frugally invested in the...
 Mr. Dawes Sr.: To be specific...
-Mr. Banks, Mr. Dawes Sr., Mr. Dawes Jr, Mr. Tomes, Mr. Mousley, Mr. Grubbs: In the Dawes, Tomes, Mousley, Grubbs, Fidelity Fiduciary Bank.
+Mr. Banks,Â Mr. Dawes Sr.,Â Mr. Dawes Jr,Â Mr. Tomes,Â Mr. Mousley,Â Mr. Grubbs: In the Dawes, Tomes, Mousley, Grubbs, Fidelity Fiduciary Bank.
 Mr. Dawes Sr.: Welcome to our joyful family of investors!
 Bert: Bert'll take care of you; like I was your own father. Now, who's after you?
 Jane: Father is.

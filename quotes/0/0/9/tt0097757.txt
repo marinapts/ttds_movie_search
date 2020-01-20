@@ -73,7 +73,7 @@ Ursula: So much for true love!
 Grimsby: Eric, if I may say, far better than any dream girl is one of flesh and blood. One warm, and caring, and right before your eyes
 Ursula: Oh, no, no, no, no, no. I can't stand it! It's too easy! The child is in love with a human. And not just any human. A prince!
 Ursula: Her daddy'll love that. King Triton's headstrong, lovesick girl would make a charming addition to my little garden.
-Louis: Les Poissons, Les Poissons / How I love Les Poissons / Love to chop and to serve little fish / First I cut off their heads, then I pull out their bones / Ah, mais oui ça c'est toujours delish / Les poissons, les poissons, Hee-hee-hee, ho-ho-ho! / With the cleaver I hack them in two / I pull out what's inside, and I serve it up fried / 'Cause I love little fishes, don't you? / Here's something for tempting the palate / Prepared in the classic technique / First you pound the fish flat with the mallet / Then you slash through the skin, give the belly a slice / Then you rub some salt in, 'cause that makes it taste nice!
+Louis: Les Poissons, Les Poissons / How I love Les Poissons / Love to chop and to serve little fish / First I cut off their heads, then I pull out their bones / Ah, mais oui Ã§a c'est toujours delish / Les poissons, les poissons, Hee-hee-hee, ho-ho-ho! / With the cleaver I hack them in two / I pull out what's inside, and I serve it up fried / 'Cause I love little fishes, don't you? / Here's something for tempting the palate / Prepared in the classic technique / First you pound the fish flat with the mallet / Then you slash through the skin, give the belly a slice / Then you rub some salt in, 'cause that makes it taste nice!
 Louis: Zut alors! I have missed one.
 Louis: Sacrebleu! What is this? / How on earth could I miss / Such a sweet, little succulent crab / Quel dommage, what a loss! / Here we go, in the sauce / Now some flour, I think just a dab / Now I'll stuff you with bread! / It don't hurt, 'cause you're dead / And you're certainly lucky you are / 'Cause it's gonna be hot in my big silver pot / Toodle-oo, mon poisson, au revoir!
 Sebastian: Somebody's got to nail that girl's fins to the floor.
@@ -94,7 +94,7 @@ Scuttle: Ariel!
 Scuttle: I haven't seen this in years, this is wonderful!
 Ariel: What is it?
 Scuttle: A banded, bulbous snarfblatt.
-Ariel, Flounder: Oh.
+Ariel,Â Flounder: Oh.
 Triton: Do you think I was too hard on her?
 Sebastian: Definitely not! Why, if Ariel was my daughter, I'd show her who was boss. None of this flitting to the surface and other such nonsense. No, sir! I'd keep her under tight control.
 Triton: You're absolutely right, Sebastian.
@@ -226,6 +226,8 @@ Sebastian: Tee-hee.
 Triton: Well I guess there's one problem left.
 Sebastian: And what's that, Your Majesty?
 Triton: How much I'm going to miss her.
+Scuttle: Wa wa wa, wa wa!
+Prince Eric: Wow. Somebody should find that poor animal and put it out of its misery.
 Triton: Any sign of them?
 Seahorse: No, Your Majesty. We searched everywhere. We've found no trace of your daughter or Sebastian.
 Triton: Well, keep looking. Leave no shell unturned, no coral unexplored, and let no one in this kingdom sleep until she's safe at home.
@@ -234,12 +236,10 @@ Triton: Oh, what have I done? What have I done?
 Triton: Let's see, now. Oh, who could the lucky merman be?
 Triton: Come in, Sebastian.
 Scuttle: We're out to discover!
-Ariel: What would I give if I could live out of the water. What would I pay to spend a day warm on the sand. Bet'cha on land they understand that they don't reprimand their daughters. Bright young woman, sick of swimmin', ready to stand! And ready to know what the people know, ask 'em my questions and get some answers! What's a fire and why does it... what's the word? Burn! When's it my turn? Wouldn't I love, love to explore that shore up above? Out of the sea, wish I could be part of that world!
-Scuttle: Wa wa wa, wa wa!
-Prince Eric: Wow. Somebody should find that poor animal and put it out of its misery.
-Ariel: Flounder, hurry up!
 Ariel: Flounder, you really are a guppy.
 Flounder: I am not!
+Ariel: What would I give if I could live out of the water. What would I pay to spend a day warm on the sand. Bet'cha on land they understand that they don't reprimand their daughters. Bright young woman, sick of swimmin', ready to stand! And ready to know what the people know, ask 'em my questions and get some answers! What's a fire and why does it... what's the word? Burn! When's it my turn? Wouldn't I love, love to explore that shore up above? Out of the sea, wish I could be part of that world!
+Ariel: Flounder, hurry up!
 Prince Eric: Did you hear something?
 Grimsby: Eric, where are you going?
 Prince Eric: I lost her once! I'm not gonna lose her again!

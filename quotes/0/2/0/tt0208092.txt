@@ -18,13 +18,13 @@ Turkish: You take sugar?
 Brick Top: No thank you, Turkish; I'm sweet enough.
 Tyrone: I don't want that dog dribbling on my seats.
 Vinny: Your seats? Tyrone, this is a stolen car, mate.
-Avi: Should I call you Bullet? Tooth?
-Bullet Tooth Tony: You can call me Susan if it makes you happy.
 Mickey: Good dags. D'ya like dags?
 Tommy: Dags?
 Mickey: What?
 Mrs. O'Neil: Yeah, dags.
 Tommy: Oh, dogs. Sure, I like dags. I like caravans more.
+Avi: Should I call you Bullet? Tooth?
+Bullet Tooth Tony: You can call me Susan if it makes you happy.
 Bullet Tooth Tony: So, you are obviously the big dick. The men on the side of ya are your balls. Now there are two types of balls. There are big brave balls, and there are little mincey faggot balls.
 Vinny: These are your last words, so make them a prayer.
 Bullet Tooth Tony: Now, dicks have drive and clarity of vision, but they are not clever. They smell pussy and they want a piece of the action. And you thought you smelled some good old pussy, and have brought your two little mincey faggot balls along for a good old time. But you've got your parties muddled up. There's no pussy here, just a dose that'll make you wish you were born a woman. Like a prick, you are having second thoughts. You are shrinking, and your two little balls are shrinking with you. And the fact that you've got "Replica" written down the side of your guns...
@@ -153,7 +153,7 @@ Errol: I know a lot of tits, Guv'nor. But I don't know any quite as fucking stup
 Brick Top: John?
 John: I can't help, Guv.
 Errol: Ah, Tyrone.
-Errol, John: You silly fat bastard.
+Errol,Â John: You silly fat bastard.
 Tommy: The human body hasn't got used to dairy products yet.
 Turkish: Well fuck me Tommy. What have you been reading?
 Mickey: I need to have a shite.
@@ -356,7 +356,7 @@ Tommy: We're buying a caravan.
 Gorgeous George: Off a pack of fuckin' pikeys? What's wrong with you? This will get messy.
 Tommy: Well not if you're here.
 Gorgeous George: Oh, you bastard! I fuckin' hate pikeys!
-Tommy, Gorgeous George, Bricktop's Henchman: I fuckin' hate Pikeys.
+Tommy,Â Gorgeous George,Â Bricktop's Henchman: I fuckin' hate Pikeys.
 Turkish: You've still got your fight.
 Brick Top: No, all bets are off at the bookies, you can't change fighters. So no, I don't have my fight do I? You fucking prat!
 Brick Top: Gimme that fucking shooter!

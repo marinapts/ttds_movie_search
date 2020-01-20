@@ -3,16 +3,16 @@ Danny: Ten oughta do it, don't you think?
 Rusty: Danny: You think we need one more?
 Rusty: Danny: You think we need one more.
 Rusty: Danny: All right, we'll get one more.
-Rusty: Rusty: You look down, they know you're lying and up, they know you don't know the truth. Don't use seven words when four will do. Don't shift your weight, look always at your mark but don't stare, be specific but not memorable, be funny but don't make him laugh. He's got to like you then forget you the moment you've left his side. And for God's sake, whatever you do, don't, under any circumstances...
-Livingston: Rus?
-Rusty: Yeah?
-Livingston: Come look at this?
-Rusty: Sure.
-Rusty: You scared?
+Rusty: Rusty: You scared?
 Linus: You suicidal?
 Rusty: Only in the morning.
 Danny: Does he make you laugh?
 Tess: He doesn't make me cry.
+Rusty: You look down, they know you're lying and up, they know you don't know the truth. Don't use seven words when four will do. Don't shift your weight, look always at your mark but don't stare, be specific but not memorable, be funny but don't make him laugh. He's got to like you then forget you the moment you've left his side. And for God's sake, whatever you do, don't, under any circumstances...
+Livingston: Rus?
+Rusty: Yeah?
+Livingston: Come look at this?
+Rusty: Sure.
 Turk Malloy: Watch it, bud.
 Virgil Malloy: Who you calling bud, pal?
 Turk Malloy: Who you calling pal, friend?
@@ -113,7 +113,7 @@ Rusty: Tell me.
 Danny: It's not about that.
 Danny: It's not entirely about that.
 Danny: Russ, do you remember what we said back when we first got into this business. We said we were gonna play the game...
-Rusty, Danny: Like we had nothing to lose.
+Rusty,Â Danny: Like we had nothing to lose.
 Danny: Well, I lost something... I lost someone. That's why I'm here.
 Rusty: Okay, here's the problem. We're stealing two things. And when push comes to shove, and you can't have both, which are you gonna choose? And remember - Tess does not split eleven ways!
 Yen: Where the fuck you been?
@@ -151,7 +151,7 @@ Reuben: They conquered.
 Reuben: I know more about casino security than any man alive, I invented it, and it cannot be beaten. They got cameras, they got locks, they got watchers, they got timers, they got vaults, they got enough armed personnel to occupy Paris!
 Reuben: Okay, bad example.
 Turk Malloy: Ten says he shorts it.
-Frank, Livingston, Saul: Twenty!
+Frank,Â Livingston,Â Saul: Twenty!
 Danny: Tess, you're doing a great job curating the museum, the Vermeer is quite good, simple, vibrant, but his work definitely fell off as he got older.
 Tess: Remind you of anyone?
 Danny: And I always confuse Monet and Manet. Now which one married his mistress?
@@ -291,7 +291,7 @@ Tess: And do you? Because you should walk out that door if you don't.
 Danny: I know what I'm doing.
 Terry: What are you doing?
 Linus: The last guy they caught cheating in here? Benedict not only sent him up for 10 years, he had the bank seize his house and then he bankrupted...
-Rusty, Linus: -his brother-in-law's tractor dealership.
+Rusty,Â Linus: -his brother-in-law's tractor dealership.
 Rusty: Yeah, I heard.
 Turk Malloy: Saul, do you get out to Utah much?
 Saul: Not as often as I'd like.

@@ -9,8 +9,8 @@ Nicholas: I don't believe that either.
 Anne: Doves are anything but holy.
 Nicholas: They poo on the window.
 Grace: At first I couldn't understand what the pillows where doing in my hands and why you didn't move, but then I knew, it had happened, I killed my children. I got the rifle, I put it to my forehead and I pulled the trigger, nothing, and I heard your laughter in the bedroom, you were playing with the pillows as if nothing had happened, and I thought the Lord and his great mercy was giving me another chance, tell them, don't give up, be strong, be a good mother but now, but now what does this all mean? Where are we?
-Grace: If you see a ghost, you say "hello".
 Mrs. Mills: Don't trouble yourself, ma'am. Tuberculosis finished us off, more than half a century ago.
+Grace: If you see a ghost, you say "hello".
 Grace: Charles. You look so different.
 Charles: Sometimes I bleed.
 Mrs. Mills: No crying now. No crying. Stop that. Here.
@@ -62,20 +62,9 @@ Grace: So you say you know this house well?
 Mrs. Mills: Like the back of my hand, that is assuming the walls haven't sprouted legs and moved in the meantime.
 Grace: The only thing that moves here is the light, but it changes everything.
 Mrs. Mills: Shall I make us a nice cup of tea, Ma'am ?
-Anne: Mummy, I won't ask for forgiveness for something I didn't do!
-Grace: You told your brother there was someone else in the room!
-Anne: There was!
-Grace: You're lying!
-Anne: I AM NOT!
 Grace: You told your brother there was someone else in the room.
 Anne: There was.
 Grace: That'll do, Anne.
-Nicholas: I'm scared.
-Anne: Well, you shouldn't have come then.
-Nicholas: Say something.
-Anne: What shall I say?
-Nicholas: Anything.
-Anne: My name is Anne, and I'm walking. I'm walking and my name is Anne...
 Grace: My husband went to war and did not come back. Who will do the cooking?
 Mrs. Mills: I'm sorry, miss.
 Grace: Who will do the cooking?
@@ -94,5 +83,16 @@ Anne: We've been very good.
 Charles: Have you been good to your Mother?
 Nicholas: Very good. We study every day for our First Communion.
 Anne: Daddy, did you kill anyone?
+Anne: Mummy, I won't ask for forgiveness for something I didn't do!
+Grace: You told your brother there was someone else in the room!
+Anne: There was!
+Grace: You're lying!
+Anne: I AM NOT!
+Nicholas: I'm scared.
+Anne: Well, you shouldn't have come then.
+Nicholas: Say something.
+Anne: What shall I say?
+Nicholas: Anything.
+Anne: My name is Anne, and I'm walking. I'm walking and my name is Anne...
 Mr. Marlish: Come along, Victor.
 Nicholas: Mummy!     

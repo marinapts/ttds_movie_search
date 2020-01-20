@@ -97,7 +97,7 @@ Dumbledore: Professor Kettleburn, our Care of Magical Creatures teacher for many
 Ron: I didn't mean to open it.
 Ron: It was badly wrapped.
 Ron: They made me do it!
-George Weasley, Fred Weasley: Did not!
+George Weasley,Â Fred Weasley: Did not!
 Dumbledore: Well?
 Harry: He's free. We did it.
 Dumbledore: Did what? Good night.
@@ -235,12 +235,12 @@ George Weasley: Of every day.
 Harry: Brilliant! Where'd you get it?
 Fred Weasley: Nicked it from Filch's office, of course, first year.
 George Weasley: Now, listen. There are seven secret passageways out of the castle. We'd recommend...
-George Weasley, Fred Weasley: This one.
+George Weasley,Â Fred Weasley: This one.
 Fred Weasley: The One-Eyed Witch passageway.
 George Weasley: It'll lead you straight to Honeyduke's cellar.
 Fred Weasley: We best hurry. Filch is heading this way.
 George Weasley: Oh, and Harry, don't forget. When you're done, just give it a tap and say...
-George Weasley, Fred Weasley: "Mischief Managed." Otherwise anyone can read it.
+George Weasley,Â Fred Weasley: "Mischief Managed." Otherwise anyone can read it.
 Hermione: Broaden your minds! Use your inner eye to see the future!
 Harry: Poor Professor Lupin's having a really tough night.
 Professor Lupin: Finally, the flesh reflects the madness within.
@@ -266,12 +266,12 @@ Ron: Harry, what did you just do?
 Hermione: You attacked a teacher!
 Fred Weasley: Nice try Harry, but not good enough
 Harry: Come on guys, I'm trying to get to Hogsmeade
-Fred Weasley, George Weasley: We know
+Fred Weasley,Â George Weasley: We know
 George Weasley: If you'll stop squirming, we have a better way...
 Harry: Guys, come on...
 Fred Weasley: Awwh, bless him
 George Weasley: Now Harry...
-Fred Weasley, George Weasley: Come and join the big boys
+Fred Weasley,Â George Weasley: Come and join the big boys
 Professor Snape: Which one of you can tell me the difference between an animagus and a werewolf?
 Professor Snape: No-one? How disappointing.
 Hermione: Beautiful day.
@@ -318,7 +318,7 @@ Harry: Thanks, Ron.
 Hermione: Hermione: This is horrible.
 Harry: She's still doing it, after three years, I mean...
 Seamus Finnegan: I can't believe she still does that...
-Harry, Seamus Finnegan: She can't even sing!
+Harry,Â Seamus Finnegan: She can't even sing!
 Hermione: Can I give it a try?
 Professor Trelawney: Yes, sure!
 Hermione: The grim. Possibly.

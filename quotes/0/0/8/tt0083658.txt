@@ -100,10 +100,10 @@ Leon: Let me tell you about my mother.
 Policeman: This sector is closed to ground traffic. What are you doing here?
 Deckard: I'm working. What are you doing?
 Policeman: Arresting you, that's what I'm doing.
-Gaff: Monsieur, azonnal kövessen engem, bitte!
+Gaff: Monsieur, azonnal kÃ¶vessen engem, bitte!
 Sushi Master: He say you under arrest, Mister Deckard.
 Deckard: Got the wrong guy, pal.
-Gaff: Lófaszt! Nehogy már! Te vagy a Blade, Blade Runner!
+Gaff: LÃ³faszt! Nehogy mÃ¡r! Te vagy a Blade, Blade Runner!
 Sushi Master: He say you blade runner.
 Deckard: Tell him I'm eating.
 Gaff: Captain Bryant toka. Meni-o mae-yo.
@@ -233,7 +233,7 @@ Batty: That was irrational of you... not to mention unsportsmanlike.
 Batty: Time... enough.
 Deckard: Deckard. B26354.
 Deckard: We're in the clear. Running fast. North on the old Richter route passed the mountains. I told her about Batty on the roof dying, making every second count. I told her I loved her. She told me it was the happiest day of her life. She told me she loved me too. I figured I wouldn't get the headaches or the shakes anymore, not for a while. It was good enough for me, I hope it was good enough for her.
-Bear, Kaiser: Home again, home again, jiggidy-jig! Gooood Evening, J.F!
+Bear,Â Kaiser: Home again, home again, jiggidy-jig! Gooood Evening, J.F!
 Tyrell: Milk and cookies kept you awake, eh, Sebastian?
 Deckard: Is this a real snake?
 Zhora: Of course it's not real. You think I would be working in a place like this if I could afford a real snake?

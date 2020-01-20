@@ -13,7 +13,7 @@ Thor: Surtur! Son of... a bitch! You're still alive! I thought my father killed 
 Surtur: I cannot die. Not until I fulfill my destiny, and lay waste to your home.
 Thor: You know, it's funny you should mention that. Because I've been having these terrible dreams of late! Asgard up in flames. Falling to ruins. And you, Surtur. The center of all of it.
 Surtur: Then you have seen Ragnarok, the fall of Asgard, the great prophecy...
-Thor: Hang on! Hang on. I'll be... back around shortly, you know, I really feel like we were connecting there. Now... okay, so, Ragnarök, tell me about that. Walk me through it.
+Thor: Hang on! Hang on. I'll be... back around shortly, you know, I really feel like we were connecting there. Now... okay, so, RagnarÃ¶k, tell me about that. Walk me through it.
 Surtur: My time has come when my crown is reunited with the Eternal Flame! I shall be restored to my full might, and will tower over the mountains to bury my sword deep into Asgard!
 Thor: Hang on! Give it a second... I swear, I'm not even moving! It's doing this on its own!
 Thor: Hey, let's do 'Get Help'.
@@ -73,7 +73,6 @@ Valkyrie: Hulk, let's go!
 Hulk: Friends.
 Loki: Surprise!
 Loki: OW!
-Thor: So much has happened since I last saw you! I lost my hammer, like yesterday, so that's still fresh. Then I went on a journey of self-discovery. Then I met you.
 Thor: I think we should disband the Revengers.
 Loki: Hit her with a lightning blast.
 Thor: I just hit her with the biggest lightning blast in the history of lightning. It did nothing.
@@ -81,11 +80,12 @@ Valkyrie: We just need to hold her off until everyone's on board.
 Thor: It won't end there. The longer Hela's on Asgard, the more powerful she grows. She'll hunt us down. We need to stop her here and now.
 Valkyrie: So what do we do?
 Loki: I'm not doing 'get help'.
-Thor: I know what you're thinking. "Oh, no. Thor's in a cage. How did this happen?" Well, sometimes you have to get captured just to get a straight answer out of something. It's a long story. Basically, I'm a bit of a hero. See, I've spent some time on Earth... for the record, I saved the planet a couple of times. Then I went searching through the cosmos for a couple of magic colorful Infinity Stone things... but didn't find any. That's when I came across a path of death, and destruction. Which led me all the way here to this cage... where I met you.
+Thor: So much has happened since I last saw you! I lost my hammer, like yesterday, so that's still fresh. Then I went on a journey of self-discovery. Then I met you.
 Thor: Has anyone here fought the Grandmaster's champion?
 Korg: Yeah. Doug has. Hey, Doug. Could you come over here? Oh, yeah, I forgot, Doug's dead. Anyone who fights the Grandmaster's champion perished. You're not actually thinking about fighting him, are you?
 Thor: Yes, I am. I'm gonna fight him, win, and get the hell off this planet!
 Korg: That's exactly what Doug used to say! See you later, New Doug!
+Thor: I know what you're thinking. "Oh, no. Thor's in a cage. How did this happen?" Well, sometimes you have to get captured just to get a straight answer out of something. It's a long story. Basically, I'm a bit of a hero. See, I've spent some time on Earth... for the record, I saved the planet a couple of times. Then I went searching through the cosmos for a couple of magic colorful Infinity Stone things... but didn't find any. That's when I came across a path of death, and destruction. Which led me all the way here to this cage... where I met you.
 Thor: Hela, the goddess of death, has invaded Asgard! And you and I had a fight.
 Bruce Banner: Did I win?
 Thor: No, I won! Easily!
@@ -94,12 +94,12 @@ Thor: Well, it's true!
 Thor: Every time I threw it, it would always come back to me.
 Korg: It sounds like you had a pretty special and intimate relationship with this hammer and that losing it was almost comparable to losing a loved one.
 Thor: That's a nice way of putting it.
-Korg: Hey, man. I'm Korg. We're gonna get outta here. Wanna come?
-Thor: A creepy old man cut my hair off!
 Loki: I left him right here.
 Thor: You mean on the pavement outside, or actually in the building currently being demolished?
 Loki: How was I supposed to know? I can't see into the future, I'm not a witch!
 Thor: Well, you're dressed like one.
+Korg: Hey, man. I'm Korg. We're gonna get outta here. Wanna come?
+Thor: A creepy old man cut my hair off!
 Loki: I have to get off this planet!
 Thor: Loki, I thought the world of you. I thought we were going to fight side-by-side forever, but at the end of the day you're you and I'm me and... oh, maybe there's still good in you but... let's be honest, our paths diverged a long time ago.
 Loki: Yeah... it's probably for the best that we'll never see each other again.
@@ -137,10 +137,10 @@ Thor: No? Then why are you dressed like one?
 Loki: Hey!
 Thor: I can't believe you're alive! I saw you die. I mourned you. I cried for you.
 Loki: I'm... honored?
-Thor: We have to stop her here and now, and prevent Ragnarok, the end of everything! So I'm putting together a team.
-Loki: Like the old days.
 Thor: I'm not as strong as you.
 Odin: No... you're stronger.
+Thor: We have to stop her here and now, and prevent Ragnarok, the end of everything! So I'm putting together a team.
+Loki: Like the old days.
 Hela: Tell me about yourself, Skurge.
 Skurge: Well, my dad was a stone mason and...
 Hela: Yeah. Right. Ok. I'll just... I'll stop you there. What I meant was what's your ambition?
@@ -169,22 +169,24 @@ Bruce Banner: I don't know how to fly this thing!
 Thor: You're a doctor, you have PhDs. You should figure it out.
 Bruce Banner: None of them for flying alien spaceships!
 Odin: Asgard is not a place, it's a people. And its people need your help.
-Dr. Stephen Strange: Thor, I sense a great change in your future. Destiny has dire plans for you, my friend.
-Thor: I have dire plans for destiny.
 Barber: Now don't you move. My hands ain't as steady as they used to be!
 Thor: By Odin's beard, you shall not cut my hair, lest you feel the wrath of the mighty Thor!
 Thor: Please, kind sir, do not cut my hair. NO! NOOO!
-Valkyrie: I've spent years, in a haze, trying to forget my past. Sakaar seemed like the best place to drink, and to forget... and to die, one day.
-Thor: Well, I was thinking that you drink too much and it was probably gonna kill you.
-Valkyrie: I don't plan to stop drinking. But... I don't wanna forget. I can't turn away anymore. So, if I'm gonna die, well, it might as well be driving my sword through the heart of that murderous hag.
+Dr. Stephen Strange: Thor, I sense a great change in your future. Destiny has dire plans for you, my friend.
+Thor: I have dire plans for destiny.
 Thor: Asgard's not a place, it's a people. This was never about stopping Ragnarok... it was about causing Ragnarok.
 Thor: Go to the vault. Surtur's crown. It's the only way.
 Loki: Bold move, brother. Even for me.
+Valkyrie: I've spent years, in a haze, trying to forget my past. Sakaar seemed like the best place to drink, and to forget... and to die, one day.
+Thor: Well, I was thinking that you drink too much and it was probably gonna kill you.
+Valkyrie: I don't plan to stop drinking. But... I don't wanna forget. I can't turn away anymore. So, if I'm gonna die, well, it might as well be driving my sword through the heart of that murderous hag.
 Loki: Do you really think it's a good idea to go back to earth?
 Thor: Yes, of course. People on earth love me, I'm very popular.
 Loki: Let me rephrase that: Do you really think it's a good idea to bring ME back to earth?
 Thor: Probably not, to be honest. I wouldn't worry, Brother. I feel like everything's gonna work out fine.
 Odin: Even with two eyes, you only see half of the picture.
+Thor: You know, Father once told me that a wise man never seeks out war...
+Hela: ...but he must always be ready for it!
 Hela: Look at these lies! Goblets and garden parties? Peace treaties? Odin. Proud to have it... shame of how he got it!
 Thor: How do I escape?
 Heimdall: You're on a planet surrounded by doorways. Go through one.
@@ -196,8 +198,6 @@ Hela: Kneel.
 Loki: I'm sorry?
 Hela: Kneel, before your queen.
 Thor: I don't think so.
-Thor: You know, Father once told me that a wise man never seeks out war...
-Hela: ...but he must always be ready for it!
 Dr. Stephen Strange: I think you can handle things from here.
 Loki: Handle me? Who are you? You think you're some kind of sorcerer? Don't think for one minute, you second-rate...
 Dr. Stephen Strange: Bye bye.
@@ -233,9 +233,9 @@ Loki: Do you truly think so little of me?
 Thor: Loki, I thought the world of you. I thought we were going to fight side-by-side forever, but at the end of the day you're you and I'm me and... oh, maybe there's still good in you but... let's be honest, our paths diverged a long time ago.
 Loki: Yeah... it's probably for the best that we'll never see each other again.
 Thor: That's what you always wanted.
+Thor: I choose to run towards my problems, and not away from them. Because's that what heroes do.
 Valkyrie: The lord of thunder sends his regards!
 Korg: The revolution has begun!
-Thor: I choose to run towards my problems, and not away from them. Because's that what heroes do.
 Loki: Your savior has arrived!
 Loki: You know, I feel it won't make much of a difference...
 Thor: Loki...
@@ -255,6 +255,13 @@ Skurge: For Asgard.
 Hela: So he's dead. I'd have liked to have seen that.
 Thor: If you were here, I might even give you a hug.
 Loki: ...I am here...
+Grandmaster: Revolution? How did this happen?
+Topaz: Don't know. But the Arena's mainframe for the Obedience Disks have been deactivated and the slaves have armed themselves.
+Grandmaster: Ohhh! I don't like that word!
+Topaz: Mainframe?
+Grandmaster: No. Why would I not like "mainframe?" No, the "S" word!
+Topaz: Sorry, the "prisoners with jobs" have armed themselves.
+Grandmaster: Okay, that's better.
 Grandmaster: Time works real different around these parts. On any other world I would be millions of years old but here on Sakaar...
 Thor: I've been having terrible dreams as of late. Every night I see Asgard falling to ruins.
 Odin: That's just a silly dream, signs of an overactive imagination.
@@ -298,13 +305,6 @@ Loki Actor: I didn't do it... for him.
 Actor Thor: NOOOOOOOOOO!
 Actor Odin: And so, Loki died of his wounds, giving his life for ours. He fought back those disgusting elves, he brought peace to the realm.
 Actor Odin: Loki, my boy. 'Twas many moons ago I found you on that frostbitten battlefield. On that day, I did not yet see in you, Asgard's savior. No. You were merely a little blue baby icicle... that melted this old fool's heart.
-Grandmaster: Revolution? How did this happen?
-Topaz: Don't know. But the Arena's mainframe for the Obedience Disks have been deactivated and the slaves have armed themselves.
-Grandmaster: Ohhh! I don't like that word!
-Topaz: Mainframe?
-Grandmaster: No. Why would I not like "mainframe?" No, the "S" word!
-Topaz: Sorry, the "prisoners with jobs" have armed themselves.
-Grandmaster: Okay, that's better.
 Hela: I don't know your game, but you can not stop me!
 Thor: No.
 Thor: But he can.
@@ -332,6 +332,8 @@ Grandmaster: It's bad news, bad news today. Sakaar, hear ye. Attention, please. 
 Thor: Seductive GOD of Thunder!
 Hela: I'm Hela.
 Skurge: I'm just a janitor.
+Thor: So Earth has... wizards now, huh?
+Dr. Stephen Strange: The preferred term is Master of The Mystic Arts. You can leave that now.
 Bruce Banner: We're coming up on the Devil's Anus.
 Thor: Hi there...
 Thor: Let me get this straight. You're going to put your crown into the Eternal Flame, and you suddenly grow big as a house?
@@ -345,8 +347,6 @@ Surtur: It's a crown!
 Thor: Anyway, it sounds like all I have to do to stop Ragnarok is rip that thing off your head.
 Surtur: But Ragnarok has already begun! You cannot stop it! I am Asgard's doom, and so are you! All will suffer, all will burn!
 Thor: Oh, that's intense. You know to be honest, seeing you grow really big and set fire to a planet would be quite the spectacle. But it looks like I'll have to choose Option B, where I bust out of these chains, knock that tiara off your head, and stash you away in Asgard's vault.
-Thor: So Earth has... wizards now, huh?
-Dr. Stephen Strange: The preferred term is Master of The Mystic Arts. You can leave that now.
 Topaz: We've located your cousin.
 Grandmaster: Huh?... Oh good!...
 Grandmaster: You're going to love this!
@@ -363,6 +363,8 @@ Grandmaster: I'm stepping - I'm stepping in it! What does it smell like?
 Topaz: Burnt toast.
 Loki: It hurts, doesn't it? Being lied to. Being told you're one thing and then learning it's all a fiction.
 Loki: You didn't think I'd really come and see you, did you? This place is disgusting. Does this mean you don't want my help? Look, I couldn't jeopardize my position with Grandmaster, it took me time to win his trust. He's a lunatic, but he can be amenable. What I'm telling you is, you could join me at the Grandmaster's side. Perhaps, in time, an accident befalls the Grandmaster, and then...
+Thor: What have I done?
+Heimdall: You saved us from extinction. Asgard is not a place, it's a people.
 Surtur: You have made a grave mistake, Odinson.
 Thor: I make grave mistakes all the time. Everything seems to work out...
 Valkyrie: Hey, big guy.
@@ -394,8 +396,6 @@ Valkyrie: I don't help anyone!
 Loki: You're a Valkyrie... I thought the Valkyrie all died gruesome deaths?
 Valkyrie: Choose your next words wisely!
 Loki: Terribly sorry. Must be a very painful memory...
-Thor: What have I done?
-Heimdall: You saved us from extinction. Asgard is not a place, it's a people.
 Loki: Took you long enough!
 Thor: I couldn't find the key.
 Loki: Everyone has a key!
@@ -414,9 +414,9 @@ Loki: I don't mean to impose...
 Loki: But, uh, the Grandmaster has a great many ships. I may even have stolen the access codes to his security system.
 Valkyrie: And suddenly you're overcome with an urge to do the right thing.
 Loki: Heavens, no. I've run out of favor with the Grandmaster, and in exchange for codes and access to a ship, I'm asking for safe passage... through the Anus.
-Korg: Another day, another Doug.
 Skurge: Behold... my stuff.
 Skurge: I'm particularly fond of these. I pulled 'em out of a place on Midgard called Texas. I even named them. Des and Troy. You see, when you put them together... they destroy.
+Korg: Another day, another Doug.
 Valkyrie: This stupid dog won't die!
 Bruce Banner: Everything's going to be okay. I got this. You want to know who I am?
 Valkyrie: What the hell are you talking about?

@@ -1,7 +1,7 @@
 
-Gandalf: You cannot pass! I am a servant of the Secret Fire, wielder of the Flame of Anor. The dark fire will not avail you, Flame of Udun! Go back to the shadow. You shall not pass!
 Frodo: I wish the ring had never come to me. I wish none of this had happened.
 Gandalf: So do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given to us. There are other forces at work in this world Frodo, besides the will of evil. Bilbo was meant to find the Ring. In which case, you were also meant to have it. And that is an encouraging thought.
+Gandalf: You cannot pass! I am a servant of the Secret Fire, wielder of the Flame of Anor. The dark fire will not avail you, Flame of Udun! Go back to the shadow. You shall not pass!
 Aragorn: I do not know what strength is in my blood, but I swear to you I will not let the White City fall, nor our people fail.
 Boromir: Our people, our people. I would have followed you, my brother... my captain... my king.
 Aragorn: Be at peace, Son of Gondor.
@@ -258,14 +258,15 @@ Aragorn: Boromir!
 Frodo: Mordor, Gandalf, is it left or right?
 Gandalf: Left.
 Frodo: Who is she? This woman you sing of?
-Aragorn: 'Tis the Lay of Lúthien. The Elf-maiden who gave her love to Beren, a mortal.
+Aragorn: 'Tis the Lay of LÃºthien. The Elf-maiden who gave her love to Beren, a mortal.
 Frodo: What happened to her?
 Aragorn: She died.
 Aragorn: Get some sleep, Frodo.
-Galadriel: I give you the light of Eärendil, our most beloved star. May it be a light for you in dark places, when all other lights go out.
+Galadriel: I give you the light of EÃ¤rendil, our most beloved star. May it be a light for you in dark places, when all other lights go out.
+Frodo: I miss the Shire. I spent all my life pretending I was off somewhere else. Off with you, on one of your adventures. But my own adventure turned out to be quite different. I'm not like you, Bilbo.
 Aragorn: Legolas, get them up!
 Boromir: Give them a moment for pity's sake!
-Aragorn: By nightfall these hills will be swarming with orcs!... We must reach the woods of Lothlórien.
+Aragorn: By nightfall these hills will be swarming with orcs!... We must reach the woods of LothlÃ³rien.
 Gandalf: They are one; the ring and the Dark Lord. Frodo, he must never find it.
 Frodo: All right. We'll put it away. We'll keep it hidden, we'll never speak of it again. No one knows it's here, do they?
 Frodo: Do they, Gandalf?
@@ -307,7 +308,6 @@ Galadriel: For you, Samwise Gamgee, Elven rope, made of hithline.
 Sam: Thank You M'Lady... Have you ran out of those nice shiny daggers?
 Frodo: We must leave the Shire. Sam and I must get to Bree.
 Merry: Right... Buckleberry Ferry! Follow me!
-Frodo: I miss the Shire. I spent all my life pretending I was off somewhere else. Off with you, on one of your adventures. But my own adventure turned out to be quite different. I'm not like you, Bilbo.
 Boromir: Gandalf's death was not in vain. Nor would he have you give up hope. You carry a heavy burden, Frodo. Don't carry the weight of the dead.
 Boromir: None of us should wander alone, you least of all. Frodo? I know you suffer, I see it day by day. Are you sure you do not suffer needlessly? There are other ways, Frodo, other paths we might take.
 Frodo: I know what you would say, and it would seem like wisdom, but for the warning in my heart.
@@ -351,7 +351,7 @@ Aragorn: It may help to slow the poison. Hurry!
 Merry: I think I've broken something.
 Merry: What do they eat when they can't get Hobbit?
 Rose 'Rosie' Cotton: Good night, lads.
-Sam, Frodo: Good night.
+Sam,Â Frodo: Good night.
 Ted Sandyman: Good night, sweet maiden of the golden ale.
 Sam: Oi, mind who you're sweet talking!
 Frodo: Don't worry Sam, Rosie knows an idiot when she sees one.
@@ -409,4 +409,4 @@ Aragorn: He is passing into the Shadow World. He'll soon become a wraith like th
 Saruman: The power of Isengard is at your command, Sauron, Lord of the Earth.
 Gandalf: Here lies Balin, Son of Fundin, Lord of Moria.
 Sauron: Build me an army worthy of Mordor.
-Arwen: Nîn o Chithaeglir lasto beth daer; Rimmo nîn Bruinen dan in Ulaer!     
+Arwen: NÃ®n o Chithaeglir lasto beth daer; Rimmo nÃ®n Bruinen dan in Ulaer!     

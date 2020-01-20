@@ -48,13 +48,17 @@ MacReady: Whether we make it or not, we can't let that Thing freeze again. Maybe
 MacReady: How you doin', old boy?
 Dr. Blair: I don't know who to trust.
 MacReady: I know what you mean, Blair. Trust's a tough thing to come by these days. Tell you what - why don't you just trust in the Lord?
-MacReady: Now I'll show you what I already know.
 MacReady: First goddamn week of winter.
+MacReady: Now I'll show you what I already know.
 Garry: This is pure nonsense. Doesn't prove a thing.
 MacReady: I thought you'd feel that way, Garry. You were the only one who could've got to that blood. We'll do you last.
 Dr. Blair: You see, what we're talkin' about here is an organism that imitates other life-forms, and it imitates 'em perfectly. When this thing attacked our dogs it tried to digest them... absorb them, and in the process shape its own cells to imitate them. This for instance. That's not dog. It's imitation. We got to it before it had time to finish.
 Vance Norris: Finish what?
 Dr. Blair: Finish imitating these dogs.
+Garry: The generator's gone.
+MacReady: Any way we can we fix it?
+Garry: It's "gone", MacReady.
+Palmer: I was wonderin' when El Capitan was gonna get a chance to use his popgun.
 Dr. Blair: You guys think I'M crazy! Well, that's fine! Most of ya don't know what's goin' on around here, but I'm damn well sure SOME of you do!
 MacReady: Christ!
 Childs: He got most of the chopper and the tractor, and he's killed the rest of the dogs.
@@ -89,10 +93,6 @@ Clark: I don't know. An hour... hour-and-a-half maybe. What the hell you looking
 Dr. Blair: I don't know.
 Clark: What?
 Dr. Blair: I don't know. It's probably nothing. It's nothing at all.
-Garry: The generator's gone.
-MacReady: Any way we can we fix it?
-Garry: It's "gone", MacReady.
-Palmer: I was wonderin' when El Capitan was gonna get a chance to use his popgun.
 Palmer: Let's open the door.
 Childs: Hell no!
 Windows: Do you think he's changed into one of those Things?
@@ -106,6 +106,10 @@ Windows: Childs, what if we're wrong about him?
 Childs: Well then, we're wrong!
 Nauls: Maybe we at war with Norway?
 MacReady: Blair's been busy out here all by himself.
+Childs: He ain't tyin' ME up.
+MacReady: Then I'll have to kill you, Childs.
+Childs: Then kill me.
+MacReady: Childs, we're goin' out to give Blair the test. If he tries to make it back here and we're not with him... burn him.
 Garry: My God, what was happening to him?
 MacReady: If it had more time to finish, it would have looked and sounded and acted just like Bennings!
 Garry: I don't know what you're saying.
@@ -122,10 +126,6 @@ Clark: What have you got in mind, MacReady?
 MacReady: A little test. Windows, you and Palmer tie everybody down real tight.
 Childs: What for?
 MacReady: For your health!
-Childs: He ain't tyin' ME up.
-MacReady: Then I'll have to kill you, Childs.
-Childs: Then kill me.
-MacReady: Childs, we're goin' out to give Blair the test. If he tries to make it back here and we're not with him... burn him.
 Windows: You guys gonna listen to Garry? You gonna let him give the orders? I mean, he could BE one of those THINGS!
 MacReady: Anybody seen Fuchs? Somebody blew out a fuse in the lab. Lights where out in there for an hour; any ONE of us coulda gotten to him. All right, we gotta find him. Nauls, why don't you come with me and we'll look outside. Palmer, you and Windows check the inside.
 Palmer: I ain't going with Windows. I ain't goin' with 'im. I'll go with Childs.
@@ -135,6 +135,13 @@ Childs: Who says I want you goin' with ME?
 MacReady: ALL RIGHT, CUT THE BULLSHIT!
 MacReady: Windows, you come with us. Norris, you stay here.
 MacReady: Any of them move, you fry 'em. You hear anything - anything at all - you cut loose on the sirens. We all meet back here in twenty minutes - REGARDLESS! And everybody watch whoever you're with... real close.
+MacReady: Anybody touches me, and we go.
+Garry: I don't know about Copper... but I give you my word I did not go near that blood!
+Garry: But I guess you'd all feel a little easier if somebody else was in charge. Norris, I can't see somebody objecting to you.
+Vance Norris: I'm sorry fellas, but I-I-I'm not up to it.
+Childs: I'll take it.
+Clark: Like hell you will!
+MacReady: It should be somebody a little more even-tempered, Childs.
 MacReady: Poor baby, you're starting to lose it.
 Fuchs: I have to talk to you.
 MacReady: I'm tired of talkin', Fuchs. I just wanna get up to my shack and get drunk.
@@ -142,18 +149,11 @@ Fuchs: Mac, it's important.
 MacReady: What is it?
 Fuchs: Outside.
 MacReady: It's 40 below zero outside.
-MacReady: Anybody touches me, and we go.
+MacReady: Anyone messes with me... and the whole camp goes!
+Palmer: Don't argue with him!
 George Bennings: How much more of this crap is there?
 Dr. Copper: Well, nine hours, I'd say.
 George Bennings: We can't learn anything from this.
 Dr. Copper: Guess not.
-Garry: I don't know about Copper... but I give you my word I did not go near that blood!
-Garry: But I guess you'd all feel a little easier if somebody else was in charge. Norris, I can't see somebody objecting to you.
-Vance Norris: I'm sorry fellas, but I-I-I'm not up to it.
-Childs: I'll take it.
-Clark: Like hell you will!
-MacReady: It should be somebody a little more even-tempered, Childs.
-MacReady: Anyone messes with me... and the whole camp goes!
-Palmer: Don't argue with him!
 Dr. Copper: My God, what the hell happened here?
 MacReady: C'mon, Doc.     

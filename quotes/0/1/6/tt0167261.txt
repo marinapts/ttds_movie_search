@@ -204,7 +204,7 @@ Galadriel: The power of the enemy is growing. Sauron will use his puppet Saruman
 Gollum: The rock and pool, is nice and cool, so juicy sweet. Our only wish,
 Gollum: to catch a fish,
 Gollum: so juicy sweet.
-Gollum: SmÈagol... Why does he cry, SmÈagol?
+Gollum: Sm√©agol... Why does he cry, Sm√©agol?
 Smeagol: Cruel men hurts us. Master tricksed us.
 Gollum: Of course he did. I told you he was tricksy. I told you he was false.
 Smeagol: Master is our friend... our friend.
@@ -220,8 +220,8 @@ Eomer: What business does an Elf, a Man, and a Dwarf have in the Riddermark? Spe
 Gimli: Give me your name, Horse-master, and I shall give you mine.
 Eomer: I would cut off your head, Dwarf, if it stood but a little higher from the ground.
 Legolas: You would die before your stroke fell.
-Aragorn: I am Aragorn, son of Arathorn. This is Gimli, son of GlÛin, and Legolas of the Woodland Realm. We are friends of Rohan, and of ThÈoden, your King.
-Eomer: ThÈoden no longer recognizes friend from foe. Not even his own kin.
+Aragorn: I am Aragorn, son of Arathorn. This is Gimli, son of Gl√≥in, and Legolas of the Woodland Realm. We are friends of Rohan, and of Th√©oden, your King.
+Eomer: Th√©oden no longer recognizes friend from foe. Not even his own kin.
 Eomer: Saruman has poisoned the mind of the king and claimed lordship over these lands. My company are those loyal to Rohan, and for that we are banished. The White Wizard is cunning. He walks here and there, they say, as an old man hooded and cloaked. And everywhere his spies slip past our nets.
 Aragorn: We are no spies. We track a party of Uruk-Hai, westward across the plain. They have taken two of our friends captive.
 Eomer: The Uruks are destroyed. We slaughtered them during the night.
@@ -277,7 +277,7 @@ Merry: Still, I suppose the view would be quite nice from up there.
 Pippin: Oh yes, it's a quality establishment. I hear the staff are VERY good.
 Treebeard: I believe you will enjoy this next one, too. It is one of my own compositions. Ahem. 'Beneath the roof of sleeping... leaves and dreams of trees untold, When woodland halls are... green... and cool, and the wind is in the west, Come back to me... Come... back... to me, And say my land is... best.'
 Merry: Why are there so few of you, when you live so long? Are there Ent children?
-Treebeard: Bur·rum. There have been no Entlings for a terrible long count of years.
+Treebeard: Bur√°rum. There have been no Entlings for a terrible long count of years.
 Merry: Why is that?
 Treebeard: We lost the Entwives.
 Pippin: Oh, I'm sorry. How did they die?
@@ -355,16 +355,16 @@ Theoden: So it begins.
 Merry: I think we might have made a mistake leaving the Shire, Pippin.
 Sam: There are dead things! Dead faces in the water.
 Gollum: All dead... all rotten. Elves and men and orcses. A great battle, long ago. The Dead Marshes... yes, that is their name.
-Theoden: When last I looked, ThÈoden, not Aragorn, was king of Rohan.
+Theoden: When last I looked, Th√©oden, not Aragorn, was king of Rohan.
 Sam: Who are they?
 Gollum: Wicked men. Servants of Sauron. They are called to Mordor. The Dark One is gathering all armies to him. It won't be long now. He will soon be ready.
 Sam: Ready to do what?
 Gollum: To make his war. The last war that will cover all the world in shadow.
-Gandalf: The courtesy of your hall is somewhat lessened of late ThÈoden, King.
+Gandalf: The courtesy of your hall is somewhat lessened of late Th√©oden, King.
 Saruman: Together, my lord Sauron, we shall rule this Middle-earth. The old world will burn in the fires of industry. Forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear and the iron fist of the orc.
 Merry: The fires of Isengard will spread, and the forests of Tuckborough and Buckland will burn. And all that was once great and good in this world will be gone. There won't *be* a Shire, Pippin.
 Galadriel: The time of the Elves is over. Do we leave Middle-earth to its fate? Do we let them stand alone?
-Gandalf: There is no way out of that ravine, ThÈoden is walking into a trap.
+Gandalf: There is no way out of that ravine, Th√©oden is walking into a trap.
 Sam: Mr. Frodo, put the ring on; just this once, disappear.
 Frodo: I can't... You were right, Sam. The ring is taking me. If I put it on he will find me.
 Sam: This looks strangely familiar.
@@ -385,7 +385,7 @@ Pippin: Merry?
 Merry: What, Pip?
 Pippin: I'm hungry.
 Aragorn: Gandalf.
-Gandalf: ThÈoden King stands alone.
+Gandalf: Th√©oden King stands alone.
 Eomer: Not alone. Rohirrim!
 Theoden: Eomer!
 Eomer: TO THE KING!
@@ -448,7 +448,7 @@ Smeagol: OOOH-AAAHHH! AhHAAAAA! AAHHHH!
 Faramir: That's enough.
 Faramir: Where are you leading them?
 Faramir: Answer me!
-Gollum: SmÈagol... Why does it cry, SmÈagol?
+Gollum: Sm√©agol... Why does it cry, Sm√©agol?
 Smeagol: Cruel men hurts us. Master tricks us.
 Gollum: Of course, he did. I told you he was tricksy, I told you he was false.
 Smeagol: Master is our friend, our friend.

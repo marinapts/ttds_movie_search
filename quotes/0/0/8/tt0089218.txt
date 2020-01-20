@@ -61,7 +61,7 @@ Mikey: How long have you guys been standing there?
 Brandon Walsh: Long enough, Mikey. Long enough.
 Mikey: Bye, Willy. Thanks.
 Richard 'Data' Wang: Hey I've got a great idea you guys! Slick shoes!
-Mikey, Mouth: Slick shoes? ARE YOU CRAZY?
+Mikey,Â Mouth: Slick shoes? ARE YOU CRAZY?
 Andy: DATA!
 Francis Fratelli: DON'T PUSH JAKE!
 Jake Fratelli: I'm not pushing Francis now hurry up!
@@ -119,8 +119,8 @@ Sloth: Ahh!
 Mama Fratelli: Well, maybe twice. No Sloth! Put me down!
 Francis Fratelli: Get the rope here. Slothy, Slothy, jumprope Slothy.
 Jake Fratelli: What do you mean jump rope?
-Francis Fratelli, Jake Fratelli: Jumprope! Jumprope.
-Francis Fratelli, Jake Fratelli: Ring around the rosie, pocket full of posies...
+Francis Fratelli,Â Jake Fratelli: Jumprope! Jumprope.
+Francis Fratelli,Â Jake Fratelli: Ring around the rosie, pocket full of posies...
 Sloth: Sloth!
 Jake Fratelli: We're in deep shit now, Francis.
 Francis Fratelli: Oh, shit!
@@ -158,11 +158,11 @@ Mikey: You shut up about that stuff, it'll never happen. My dad will fix it.
 Brandon Walsh: Yeah sure he will. If he gets his next 400 paychecks by tommorrow afternoon.
 Mikey: That's wrong Brand! It won't happen.
 Mama Fratelli: Four waters. Is that all?
-Mouth, Mikey: Mouth: No! I want the veal scalopini.
+Mouth,Â Mikey: Mouth: No! I want the veal scalopini.
 Mikey: Shut up Mouth.
 Mouth: I want a good fettucini alfredo. I want a bottle of fettucine, a 1981.
 Mouth: Mama Fratelli: The only thing we serve is tongue. Do you boys like tongue?
-Mouth, Mikey: Mama Fratelli: That's all? Sit down!
+Mouth,Â Mikey: Mama Fratelli: That's all? Sit down!
 Stef: I lost my glasses.
 Andy: Can I take piano lessons?
 Mouth: Senior Jerk Alert!
@@ -261,7 +261,7 @@ Prison Guard: You schmuck! Did you really think that I would be stupid enough to
 Data: Holy S-H-I-T!
 Chunk: ORV. Bullet holes. Bullet holes?
 Harriet Walsh: Where are my boys?
-Harriet Walsh, Irving Walsh: Mikey? Brand?
+Harriet Walsh,Â Irving Walsh: Mikey? Brand?
 Mikey: Hi mom. Hi dad. I guess we're in big shit now right?
 Chunk: What's all the stuff in the attic?
 Mikey: It has something to do with my dad being the assistant curly, curny.

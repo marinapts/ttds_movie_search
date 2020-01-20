@@ -121,7 +121,7 @@ Flynn Rider: I am, aren't I? Oh, bother.
 Flynn Rider: All right. I can't believe I'm saying this, but I'm letting you out of the deal.
 Rapunzel: What?
 Flynn Rider: That's right, but don't thank me. Let's turn around and get you home. Here's your pan, here's your frog.
-Flynn Rider: I get back my satchel and you get back a mother-daughter relationship based on mutual trust, and violà, we part ways as unlikely friends.
+Flynn Rider: I get back my satchel and you get back a mother-daughter relationship based on mutual trust, and violÃ , we part ways as unlikely friends.
 Rapunzel: No. I am seeing those lanterns.
 Flynn Rider: Oh, come on! What is it going to take for me to get my satchel back?
 Rapunzel: I will use this.
@@ -290,6 +290,6 @@ Big Nose Thug: Tor would like to quit and be a florist.
 Vlad: Gunther does interior design.
 Thug 2: Ulf is into mime.
 Big Nose Thug: Attila's cupcakes are sublime.
-Big Nose Thug, Thug 2: Bruiser knits, Killer sews, Fang does little puppet shows.
+Big Nose Thug,Â Thug 2: Bruiser knits, Killer sews, Fang does little puppet shows.
 Hook Hand Thug: And Vladimir collects ceramic u-ni-corns...
     

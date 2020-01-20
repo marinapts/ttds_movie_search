@@ -82,7 +82,7 @@ Simon Skinner: Lock me up.
 Nicholas Angel: I'm sorry?
 Simon Skinner: I'm a slasher! I must be stopped!
 Nicholas Angel: You're a what?
-Simon Skinner: A slasher... of prices! I'm Simon Skinner - I run the local supermarché. Drop in and see me sometime - my discounts are *criminal*. Catch me later!
+Simon Skinner: A slasher... of prices! I'm Simon Skinner - I run the local supermarchÃ©. Drop in and see me sometime - my discounts are *criminal*. Catch me later!
 Danny Butterman: Have you ever fired two guns whilst jumping through the air?
 Nicholas Angel: No.
 Danny Butterman: Have you ever fired one gun whilst jumping through the air?
@@ -322,7 +322,7 @@ Annette Roper: That SGT Angel's back. Get a look at his horse!
 Danny Butterman: Yeah, Roy-ee!
 Dr. Robin Hatcher: Interesting - we only seem to get a glimpse of the outer-most edge of the explosion. But we did happen to catch a glimpse of Sandford's most wanted!
 Nicholas Angel: This isn't funny, doctor!
-Simon Skinner, Nicholas Angel: SWAN!
+Simon Skinner,Â Nicholas Angel: SWAN!
 Simon Skinner: Ow! Thish really hurtsh... I'm gonna need shome ice-creeeem.
 Danny Butterman: Fancy a coffee?
 Nicholas Angel: No thanks, don't drink it.

@@ -1,8 +1,8 @@
 import json
 import re
 
-IMDB_IDS_FILE = './imdb-top1000.txt'
-DATA_FILE = './movies.json'
+IMDB_IDS_FILE = './imdb_at_least_100_ratings.txt'
+DATA_FILE = './movies.jsonl'
 
 movie_ids = []  # All movie IDs
 with open(IMDB_IDS_FILE, 'r') as f:
@@ -13,12 +13,22 @@ with open(IMDB_IDS_FILE, 'r') as f:
 
 movie_ids_with_data = []
 with open(DATA_FILE, 'r') as data_file:
-    movies = json.load(data_file)
-    for movie in movies:
-        movie_ids_with_data.append(movie['id'])
+    ext = DATA_FILE.split('.')[-1]
+    if ext == 'json':
+        movies = json.load(data_file)
+        for movie in movies:
+            movie_ids_with_data.append(movie['id'])
+    elif ext == 'jsonl':
+        for line in data_file:
+            movie = json.loads(line)
+            movie_ids_with_data.append(movie['id'])
+
 
 missing_data_ids = list(set(movie_ids) - set(movie_ids_with_data))
 for id in missing_data_ids:
     print(id)
 
 print("We have data for {} movies out of {}".format(len(movie_ids_with_data), len(movie_ids)))
+with open('ids.txt', 'w') as file:
+    for id in movie_ids_with_data:
+        file.write("{}-{}\n".format(str(int(id.lstrip('t0'))), id))

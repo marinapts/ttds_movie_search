@@ -57,18 +57,21 @@ Clarice Starling: Where are you, Dr. Lecter?
 Hannibal Lecter: I've no plans to call on you, Clarice. The world is more interesting with you in it.
 Hannibal Lecter: You know what you look like to me, with your good bag and your cheap shoes? You look like a rube. A well scrubbed, hustling rube with a little taste. Good nutrition's given you some length of bone, but you're not more than one generation from poor white trash, are you, Agent Starling? And that accent you've tried so desperately to shed: pure West Virginia. What is your father, dear? Is he a coal miner? Does he stink of the lamp? You know how quickly the boys found you... all those tedious sticky fumblings in the back seats of cars... while you could only dream of getting out... getting anywhere... getting all the way to the FBI.
 Clarice Starling: You see a lot, Doctor. But are you strong enough to point that high-powered perception at yourself? What about it? Why don't you - why don't you look at yourself and write down what you see? Or maybe you're afraid to.
+Hannibal Lecter: Look for severe childhood disturbances associated with violence. Our Billy wasn't born a criminal, Clarice. He was made one through years of systematic abuse. Billy hates his own identity, you see, and he thinks that makes him a transsexual. But his pathology is a thousand times more savage and more terrifying.
 Hannibal Lecter: Why do you think he removes their skins, Agent Starling?
 Hannibal Lecter: Enthrall me with your acumen.
 Clarice Starling: It excites him. Most serial killers keep some sort of trophies from their victims.
 Hannibal Lecter: I didn't.
 Clarice Starling: No. No, you ate yours.
-Hannibal Lecter: Look for severe childhood disturbances associated with violence. Our Billy wasn't born a criminal, Clarice. He was made one through years of systematic abuse. Billy hates his own identity, you see, and he thinks that makes him a transsexual. But his pathology is a thousand times more savage and more terrifying.
 Jack Crawford: Believe me, you don't want Hannibal Lecter inside your head.
 Clarice Starling: He won't come after me.
 Ardelia Mapp: Oh really?
 Clarice Starling: He won't. I can't explain it... He - he would consider that rude.
 Hannibal Lecter: You're very frank, Clarice. I think it would be quite something to know you in private life.
 Jame "Buffalo Bill" Gumb: Would you fuck me? I'd fuck me. I'd fuck me hard. I'd fuck me so hard.
+Jack Crawford: Starling, when I told that sheriff we shouldn't talk in front of a woman, that really burned you, didn't it? It was just smoke, Starling. I had to get rid of him.
+Clarice Starling: It matters, Mr Crawford. Cops look at you to see how to act. It matters.
+Jack Crawford: Point taken.
 Hannibal Lecter: You still wake up sometimes, don't you? You wake up in the dark and hear the screaming of the lambs.
 Clarice Starling: Yes.
 Hannibal Lecter: And you think if you save poor Catherine, you could make them stop, don't you? You think if Catherine lives, you won't wake up in the dark ever again to that awful screaming of the lambs.
@@ -84,9 +87,6 @@ Boyle: I'm sorry, ma'am. We've got orders. We have to put you on a plane. Come o
 Hannibal Lecter: Brave Clarice. You will let me know when those lambs stop screaming, won't you?
 Clarice Starling: Tell me his name, Doctor!
 Hannibal Lecter: Clarice, your case file. Goodbye, Clarice.
-Jack Crawford: Starling, when I told that sheriff we shouldn't talk in front of a woman, that really burned you, didn't it? It was just smoke, Starling. I had to get rid of him.
-Clarice Starling: It matters, Mr Crawford. Cops look at you to see how to act. It matters.
-Jack Crawford: Point taken.
 Clarice Starling: Did you do all these drawings, Doctor?
 Hannibal Lecter: Ah. That is the Duomo seen from the Belvedere. Do you know Florence?
 Clarice Starling: All that detail just from memory, sir?
@@ -128,6 +128,7 @@ Jack Crawford: I remember you from my seminar at UVA. You grilled me pretty hard
 Clarice Starling: A-minus, Sir.
 Clarice Starling: Your anagrams are showing, Doctor. Louis Friend? Iron sulfide, also known as fool's gold.
 Dr. Frederick Chilton: We've tried to study him, of course, but he's much too sophisticated for the standard tests.
+Hannibal Lecter: Closer, please. Clo-ser...
 Clarice Starling: Your name is?
 Jame "Buffalo Bill" Gumb: Oh, uh Jack Gordon.
 Clarice Starling: Mr. Gordon, good, uh... well Frederica used to work for Mrs. Lippman. Did you know her?
@@ -146,7 +147,6 @@ Clarice Starling: Very good Mr. Gordon. May I use your phone please?
 Jame "Buffalo Bill" Gumb: Sure you can use me phone.
 Clarice Starling: Freeze! Put your hands over your head and turn around! Spread your legs! Spread your legs! Put your hands in the back... thumbs up - FREEZE!
 Hannibal Lecter: Ready when you are, Sergeant Pembry.
-Hannibal Lecter: Closer, please. Clo-ser...
 Clarice Starling: Hester Mofet. It's an anagram, isn't it, Doctor? Hester Mofet, "The rest of me". "Miss the rest of me," meaning that you rented that garage?
 Jack Crawford: Just do your job, but never forget what he is.
 Clarice Starling: And what is that?

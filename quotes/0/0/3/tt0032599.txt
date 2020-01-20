@@ -125,7 +125,7 @@ Hildy Johnson: Oh no, I'll blow my own horn.
 Walter Burns: Did you see me in your dreams?
 Hildy Johnson: Oh, no. Mama doesn't dream about you any more, Walter. You wouldn't know the old girl now.
 Walter Burns: Oh, yes I would. I'd know you anytime...
-Walter Burns, Hildy Johnson: Any place...
+Walter Burns,Â Hildy Johnson: Any place...
 Hildy Johnson: Anywhere. Aw, you're repeating yourself, Walter. That's the speech you made the night you proposed.
 Walter Burns: Yes, I notice you still remember.
 Hildy Johnson: Of course, I remember it. If I didn't remember it I wouldn't have divorced you.
@@ -218,14 +218,14 @@ Bensinger: Sure, it won't hurt you and we can make the City Edition.
 Sheriff Hartwell: Oh, well, now that's kind of raw, Roy. After all, I can't hang a man in his sleep just to please a newspaper.
 McCue, reporter: What if this Egelhoffer finds Williams insane?
 Sheriff Hartwell: Well, he won't find him insane; because he isn't! He's just as sane as I am.
-McCue, reporter, Wilson, reporter, Bensinger, Endicott: Saner!
+McCue, reporter,Â Wilson, reporter,Â Bensinger,Â Endicott: Saner!
 Bensinger: I don't think it's very ethical reading other people's stuff.
 Endicott: Where do you get that ethics stuff? You're the only one who'll swipe any of it!
 Hildy Johnson: And that my friends, is my farewell to the newspaper game! I'm going to be a woman; not a news-getting machine. I'm gonna have babies and take care of them and give them cod liver oil and watch their teeth grow and - and, oh dear, if I ever see one of them look at a newspaper again, I'm going to brain 'em!
 Hildy Johnson: The next time you see me, I shall be riding in a Rolls Royce giving interviews on success.
-Murphy, McCue, reporter, Wilson, reporter, Bensinger, Endicott: Goodbye.
+Murphy,Â McCue, reporter,Â Wilson, reporter,Â Bensinger,Â Endicott: Goodbye.
 Hildy Johnson: So long, you wage slaves.
-Murphy, McCue, reporter, Wilson, reporter, Bensinger, Endicott: Bye.
+Murphy,Â McCue, reporter,Â Wilson, reporter,Â Bensinger,Â Endicott: Bye.
 Hildy Johnson: Well, when you're climbing up fire escapes and getting kicked out of front doors and eating Christmas dinners at one-arm joints - don't forget your pal, Hildy Johnson.
 Murphy: Here's a little feature though. There's been an accident about a tear bomb. Yeah, a tear bomb. Tear bomb. Criminals cry for it!
 Hildy Johnson: Walter, listen, I got a whole story on how Williams got that gun and escaped and I've got it exclusive. Yeah. Yeah and that's right and it's a pip!

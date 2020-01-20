@@ -63,13 +63,13 @@ Dmitri: That's Gustave H., the escaped murderer and art thief! I've got him corn
 M. Gustave: That's Dmitri Desgoffe und Taxis! He's responsible for the killing of Deputy Kovacs, Serge X and his club-footed sister, plus his own mother!
 Henckels: Nobody move; everybody's under arrest.
 M. Gustave: What is a lobby boy? A lobby boy is completely invisible, yet always in sight. A lobby boy remembers what people hate. A lobby boy anticipates the client's needs before the needs are needed. A lobby boy is, above all, discreet to a fault. Our guests know that their deepest secrets, some of which are frankly rather unseemly, will go with us to our graves. So keep your mouth shut, Zero.
+M. Gustave: If I die first, and I almost certainly will, you will be my sole heir. There's not much in the kitty, except a set of ivory-backed hairbrushes and my library of romantic poetry, but when the time comes, these will be yours. Along with whatever we haven't already spent on whores and whiskey.
 M. Gustave: The beginning of the end of the end of the beginning has begun. A sad finale played off-key on a broken-down saloon piano in the outskirts of a forgotten ghost town. I'd rather not bear witness to such blasphemy.
 Zero: Me neither.
 M. Gustave: The Grand Budapest has become a troops' barracks. I shall never cross its threshold again in my lifetime.
 Zero: Me neither.
 M. Gustave: Never again shall I...
 Zero: Actually I think we might be going in there right now after all!
-M. Gustave: If I die first, and I almost certainly will, you will be my sole heir. There's not much in the kitty, except a set of ivory-backed hairbrushes and my library of romantic poetry, but when the time comes, these will be yours. Along with whatever we haven't already spent on whores and whiskey.
 Author: It is an extremely common mistake. People think the writer's imagination is always at work, that he's constantly inventing an endless supply of incidents and episodes; that he simply dreams up his stories out of thin air. In point of fact, the opposite is true. Once the public knows you're a writer, they bring the characters and events to you. And as long as you maintain your ability to look, and to carefully listen, these stories will continue to...
 Author's Grandson: Author: Stop it! Stop it! Don't! Don't do it!... Uh, will continue to seek you out, uh, over your lifetime. To him, who has often told the tales of others, many tales will be told.
 Author's Grandson: Sorry.
@@ -199,7 +199,7 @@ M. Gustave: You filthy, godamn, pock-marked, fascist assholes! Take your hands o
 Henckels: What's the problem?
 M. Gustave: This is outrageous! The young man works for me at the Grand Budapest Hotel in Nebelsbad.
 Henckels: Mousier Gustave?
-Henckels: My name is Henckels, I'm the son of Dr. and Mrs. Wolfgang Henckels Bergersdörfer. Do you remember me?
+Henckels: My name is Henckels, I'm the son of Dr. and Mrs. Wolfgang Henckels BergersdÃ¶rfer. Do you remember me?
 M. Gustave: These are NOT acceptable.
 Hotel Employee: I fully agree.
 Ludwig: Checkpoint 19 ain't no two-bit hoosegow.

@@ -114,9 +114,6 @@ Virginia 'Pepper' Potts: What's wrong?
 Tony Stark: Oh, nothing, I'm just going into cardiac arrest, because you...
 Virginia 'Pepper' Potts: *What*? I thought you said this was safe!
 Tony Stark: ...just yanked it out like a trout!
-Tony Stark: Hmmm. Your eyes are red. Tears for your long lost boss?
-Virginia 'Pepper' Potts: Tears of joy. I hate job hunting.
-Tony Stark: Yeah, well, vacation's over.
 Tony Stark: I feel like you're driving me to court martial. This is crazy. What did I do? I feel like you're gonna pull over and snuff me. What, you're not allowed to talk? Hey, Forrest!
 Jimmy: We can talk, sir.
 Tony Stark: Oh, I see. So it's personal.
@@ -128,6 +125,9 @@ Virginia 'Pepper' Potts: Don't ever, ever, ever, ask me to do anything like that
 Tony Stark: I don't have anyone but you.
 Rhodey: Oh, my God, you crazy son of a bitch! You owe me a plane, you know that, right?
 Tony Stark: Yeah, well, technically he hit me, so...
+Tony Stark: Hmmm. Your eyes are red. Tears for your long lost boss?
+Virginia 'Pepper' Potts: Tears of joy. I hate job hunting.
+Tony Stark: Yeah, well, vacation's over.
 Tony Stark: Pepper, uh, how big are your hands?
 Virginia 'Pepper' Potts: What?
 Tony Stark: How big are your hands?
@@ -137,6 +137,7 @@ Yinsen: We met, you know, in a technical conference in Bern.
 Tony Stark: I don't remember.
 Yinsen: Of course not. If I had been that drunk, I wouldn't have been able to stand, let alone give a lecture on integrated circuits.
 Tony Stark: Yeah, I can fly.
+Tony Stark: If I were Iron Man, I'd have this girlfriend who knew my true identity. She'd be a wreck. She'd always be worrying I was going to die, yet so proud of the man I've become. She'd be wildly conflicted, which would only make her more crazy about me...
 Jarvis: Yes. Shall I render using proposed specifications?
 Tony Stark: Thrill me.
 Jarvis: The render is complete.
@@ -147,15 +148,9 @@ Jarvis: Yes, that should help you keep a low profile. The render is complete.
 Tony Stark: Hey, I like it. Fabricate it. Paint it.
 Jarvis: Commencing automated assembly. Estimated completion time is five hours.
 Tony Stark: Don't wait up for me, honey.
-Tony Stark: If I were Iron Man, I'd have this girlfriend who knew my true identity. She'd be a wreck. She'd always be worrying I was going to die, yet so proud of the man I've become. She'd be wildly conflicted, which would only make her more crazy about me...
 Rhodey: That's the coolest thing I've ever seen.
 Tony Stark: Not bad, huh?
 Tony Stark: Okay, let's do this right. Start mark, half a meter and to the right. Dummy, look alive, you're on standby for fire safety. You, roll it. Activate hand controls... okay, we're gonna start off nice and easy. See if 10% thrust capacity achieves lift. In three... two... one...
-Jarvis: Test complete. Preparing to power down and begin diagnostics...
-Tony Stark: Uh, yeah, tell you what. Do a weather and ATC check, start listening in on ground control.
-Jarvis: Sir, there are still terabytes of calculations required before an actual flight is...
-Tony Stark: Jarvis... sometimes you gotta run before you can walk.
-Tony Stark: This looks important!
 Yinsen: He wants you to build the Jericho missile. He has everything you need here, he wants you to begin immediately. After it is completed, he will set you free.
 Tony Stark: No, he won't.
 Yinsen: No, he won't.
@@ -171,6 +166,10 @@ Virginia 'Pepper' Potts: Whats going on here?
 Tony Stark: Lets face it. This is not the worst thing you've caught me doing.
 Virginia 'Pepper' Potts: Are those bullet holes?
 Obadiah Stane: How ironic, Tony! Trying to rid the world of weapons, you gave it its best one ever! And now, I'm going to kill you with it!
+Jarvis: Test complete. Preparing to power down and begin diagnostics...
+Tony Stark: Uh, yeah, tell you what. Do a weather and ATC check, start listening in on ground control.
+Jarvis: Sir, there are still terabytes of calculations required before an actual flight is...
+Tony Stark: Jarvis... sometimes you gotta run before you can walk.
 Agent Phil Coulson: Mr. Stark.
 Tony Stark: Yeah?
 Agent Phil Coulson: Agent Coulson.
@@ -178,20 +177,32 @@ Tony Stark: Oh, yeah, yeah, yeah, the guy from the...
 Agent Phil Coulson: Strategic Homeland Intervention, Enforcement and Logistics Division.
 Tony Stark: Whew! God, you really need a new name for that.
 Agent Phil Coulson: Yeah, I hear that a lot.
+Tony Stark: This looks important!
 Tony Stark: Good boy...
-Tony Stark: Time to hit the button!
-Virginia 'Pepper' Potts: You told me not to...
-Tony Stark: JUST DO IT!
-Virginia 'Pepper' Potts: YOU'LL DIE!
-Tony Stark: PUSH IT!
 Tony Stark: You're kidding me with the hand up, right?
 Jimmy: Is it cool if I take a picture with you?
 Tony Stark: Yes, it's very cool.
 Tony Stark: I don't want to see this on your myspace page. Please no gang signs.
 Tony Stark: No, throw it up. I'm kidding. Yeah, peace. I love peace. I'd be out of a job for peace.
+Tony Stark: Time to hit the button!
+Virginia 'Pepper' Potts: You told me not to...
+Tony Stark: JUST DO IT!
+Virginia 'Pepper' Potts: YOU'LL DIE!
+Tony Stark: PUSH IT!
+Agent Phil Coulson: I'm Agent Phil Coulson with the Strategic Homeland Intervention, Enforcement and Logistics Division.
+Virginia 'Pepper' Potts: That's quite a mouthful.
+Agent Phil Coulson: I know. We're working on it.
+Virginia 'Pepper' Potts: Agent Coulson, I just wanted to say thank you very much for all of your help.
+Agent Phil Coulson: That's what we do. You'll be hearing from us.
+Virginia 'Pepper' Potts: From the Strategic Homeland...
+Agent Phil Coulson: Just call us S.H.I.E.L.D.
 Yinsen: Did you see that? Those are YOUR weapons... in the hands of those murderers! Is this what you want? Is this what you wish the legacy of the great Tony Stark to be?
 Tony Stark: I shouldn't do anything. They could kill you, they're gonna kill me, either way, and even if they don't, I'll probably be dead in a week.
 Yinsen: Then this is a very important week for you, isn't it?
+Obadiah Stane: You had a great idea, Tony, but my suit is more advanced in every way!
+Tony Stark: How'd you solve the icing problem?
+Obadiah Stane: Icing problem?
+Tony Stark: Might want to look into it.
 Tony Stark: We have to hurry. Take this, take this...
 Virginia 'Pepper' Potts: Okay, okay...
 Tony Stark: Now you have to take this wire and attach it to the base plate, there.
@@ -204,21 +215,14 @@ Tony Stark: Let's hope.
 Tony Stark: YAAA-OOOOOW...!
 Tony Stark: Was that so hard? That was fun, right?
 Virginia 'Pepper' Potts: You're all I have too, you know.
-Agent Phil Coulson: I'm Agent Phil Coulson with the Strategic Homeland Intervention, Enforcement and Logistics Division.
-Virginia 'Pepper' Potts: That's quite a mouthful.
-Agent Phil Coulson: I know. We're working on it.
-Virginia 'Pepper' Potts: Agent Coulson, I just wanted to say thank you very much for all of your help.
-Agent Phil Coulson: That's what we do. You'll be hearing from us.
-Virginia 'Pepper' Potts: From the Strategic Homeland...
-Agent Phil Coulson: Just call us S.H.I.E.L.D.
 Virginia 'Pepper' Potts: "Proof that Tony Stark has a heart."
 Virginia 'Pepper' Potts: I thought you said you were done making weapons?
 Tony Stark: It isn't. This is a flight stabilizer. It's completely harmless.
 Tony Stark: I didn't expect that.
-Obadiah Stane: You had a great idea, Tony, but my suit is more advanced in every way!
-Tony Stark: How'd you solve the icing problem?
-Obadiah Stane: Icing problem?
-Tony Stark: Might want to look into it.
+Tony Stark: To Peace.
+Tony Stark: I never got to say goodbye to my father. There's questions I would've asked him. I would've asked him how he felt about what his company did, if he was conflicted, if he ever had doubts. Or maybe he was every inch of man we remember from the newsreels. I saw young Americans killed by the very weapons I created to defend them and protect them. And I saw that I had become part of a system that is comfortable with zero-accountability.
+Press Reporter #1: Mr. Stark! What happened over there?
+Tony Stark: I had my eyes opened. I came to realize that I had more to offer this world than just making things that blow up. And that is why, effective immediately, I am shutting down the weapons manufacturing division of Stark Industries.
 Virginia 'Pepper' Potts: You are supposed to be halfway around the world by now.
 Tony Stark: How'd she take it?
 Virginia 'Pepper' Potts: Like a champ.
@@ -242,12 +246,6 @@ Jarvis: Sir, it appears his suit can fly.
 Tony Stark: Duly noted. Take me to maximum altitude.
 Jarvis: With only 19% power, the odds of reaching that altitude...
 Tony Stark: I know the math! Do it!
-Tony Stark: To Peace.
-Rhodey: Next time, baby.
-Tony Stark: I never got to say goodbye to my father. There's questions I would've asked him. I would've asked him how he felt about what his company did, if he was conflicted, if he ever had doubts. Or maybe he was every inch of man we remember from the newsreels. I saw young Americans killed by the very weapons I created to defend them and protect them. And I saw that I had become part of a system that is comfortable with zero-accountability.
-Press Reporter #1: Mr. Stark! What happened over there?
-Tony Stark: I had my eyes opened. I came to realize that I had more to offer this world than just making things that blow up. And that is why, effective immediately, I am shutting down the weapons manufacturing division of Stark Industries.
-Obadiah Stane: When I ordered the hit on you, I was worried that I was killing the golden goose. But, you see, it was just fate that you survived it, leaving one last golden egg to give. You really think that just because you have an idea, it belongs to you? Your father, he helped give us the atomic bomb. Now what kind of world would it be today if he was as selfish as you?
 Virginia 'Pepper' Potts: Will that be all, Mr. Stark?
 Tony Stark: Yes, that will be all, Miss. Potts.
 Tony Stark: He's all yours.
@@ -257,27 +255,30 @@ Yinsen: What will it generate?
 Tony Stark: If my math is right - and it always is - three gigajoules per second.
 Yinsen: That could run your heart for fifty lifetimes!
 Tony Stark: Yeah... or something big for fifteen minutes.
-Tony Stark: What the hell did you do to me?
-Yinsen: What I did is to save your life. That is an electromagnet, hooked up to a car battery. I removed as much shrapnel from your chest as I could, but there are still some pieces left. I've seen plenty of injuries like that. In my village we call those casualties "the walking dead," because they take about a week to reach your heart.
 Blonde Girl: Tony! Remember me?
 Tony Stark: Sure don't.
-Rhodey: Hey Tony.
-Tony Stark: I'm sorry. This is the fun-vee. The hum-drum-vee is back there.
+Rhodey: Next time, baby.
 Virginia 'Pepper' Potts: What do you want me to do with this?
 Tony Stark: That? Destroy it. Incinerate it.
 Virginia 'Pepper' Potts: You don't want to keep it?
 Tony Stark: Pepper, I've been called many things. Nostalgic is not one of them.
+Obadiah Stane: When I ordered the hit on you, I was worried that I was killing the golden goose. But, you see, it was just fate that you survived it, leaving one last golden egg to give. You really think that just because you have an idea, it belongs to you? Your father, he helped give us the atomic bomb. Now what kind of world would it be today if he was as selfish as you?
+Tony Stark: What the hell did you do to me?
+Yinsen: What I did is to save your life. That is an electromagnet, hooked up to a car battery. I removed as much shrapnel from your chest as I could, but there are still some pieces left. I've seen plenty of injuries like that. In my village we call those casualties "the walking dead," because they take about a week to reach your heart.
+Tony Stark: What's better, winning all that money or not caring about it?
+Rhodey: Hey Tony.
+Tony Stark: I'm sorry. This is the fun-vee. The hum-drum-vee is back there.
 Obadiah Stane: I've never really had a taste for this kind of thing, but I must admit I'm deeply enjoying the suit!
+Raza: Compliments of Tony Stark.
+Obadiah Stane: If you'd killed him when you were supposed to, you'd still have a face.
 Rhodey: Three hours! Three hours you've kept me standing here!
 Tony Stark: Waiting on you now.
-Tony Stark: What's better, winning all that money or not caring about it?
+Obadiah Stane: Shame you had to bring Pepper into this. I would have preferred she live...
 Tony Stark: Give me a scotch. I'm starving.
 Agent Phil Coulson: This isn't my first rodeo, Mr. Stark.
 Rhodey: You need me to do anything else?
 Tony Stark: Keep the skies clear.
 Obadiah Stane: We're iron mongers, we make weapons.
-Raza: Compliments of Tony Stark.
-Obadiah Stane: If you'd killed him when you were supposed to, you'd still have a face.
 Tony Stark: I just want you to reach in, and gently lift the wire out.
 Virginia 'Pepper' Potts: Is it safe?
 Tony Stark: Yeah. It should be fine. It's just like Operation, just don't let it touch the socket.
@@ -291,7 +292,20 @@ Christine Everheart: Yesterday.
 Tony Stark: I didn't authorize this.
 Christine Everheart: Well, your company did.
 Tony Stark: Well I'm not my company!
-Obadiah Stane: Shame you had to bring Pepper into this. I would have preferred she live...
+Virginia 'Pepper' Potts: Oh... ah... EWW, there's pus!
+Tony Stark: It's not pus. It's an inorganic plasmic discharge. It's from the device, not my body.
+Virginia 'Pepper' Potts: It smells!
+Tony Stark: Yeah, it does.
+Christine Everheart: Well, Tony Stark!
+Tony Stark: Oh, hey.
+Christine Everheart: Fancy seeing you here.
+Tony Stark: Carrie.
+Christine Everheart: Christine.
+Tony Stark: That's right.
+Christine Everheart: You have a lot of nerve showing up here tonight. Can I at least get a reaction from you?
+Tony Stark: Panic. I would say panic is my reaction.
+Christine Everheart: I was referring to your company's involvement in this latest atrocity.
+Tony Stark: Yeah, they just put my name on the invitation, I don't know what to tell you.
 Virginia 'Pepper' Potts: Tony, you have to go to the hospital. The doctor has to look at you.
 Tony Stark: I don't have to do anything. I've been in captivity for three months. There are two things I want to do. One, I want an American cheeseburger, and the other...
 Virginia 'Pepper' Potts: That's enough of that.
@@ -316,33 +330,24 @@ Rhodey: Good, because I'm looking at something right now and we're about to blow
 Obadiah Stane: Technology. That's always been your Achilles heel in this part of the world. Don't worry, it'll only last for fifteen minutes.
 Obadiah Stane: That's the least of your problems.
 Obadiah Stane: Like what? Make baby bottles?
-Virginia 'Pepper' Potts: Oh... ah... EWW, there's pus!
-Tony Stark: It's not pus. It's an inorganic plasmic discharge. It's from the device, not my body.
-Virginia 'Pepper' Potts: It smells!
-Tony Stark: Yeah, it does.
-Christine Everheart: Well, Tony Stark!
-Tony Stark: Oh, hey.
-Christine Everheart: Fancy seeing you here.
-Tony Stark: Carrie.
-Christine Everheart: Christine.
-Tony Stark: That's right.
-Christine Everheart: You have a lot of nerve showing up here tonight. Can I at least get a reaction from you?
-Tony Stark: Panic. I would say panic is my reaction.
-Christine Everheart: I was referring to your company's involvement in this latest atrocity.
-Tony Stark: Yeah, they just put my name on the invitation, I don't know what to tell you.
 Obadiah Stane: You ripped out my targeting system... Hold still, you little prick!
+Pratt: Is it true that you went twelve-for-twelve with the Maxim Girls last year?
+Tony Stark: That is an excellent question. Yes and no. March and I had a scheduling conflict but fortunately the Christmas cover was twins.
 Tony Stark: Looking great, Hef.
 Tony Stark: Why aren't you wearing those pajamas I got you?
 Obadiah Stane: Good night, Tony...
 Agent Phil Coulson: Looks like you were right, he was building a suit.
 Virginia 'Pepper' Potts: I thought it'd be bigger...
 Obadiah Stane: For thirty years, I've been holding you up! I built this company up from nothing! Nothing's gonna stand in my way - least of all, *you*!
+Virginia 'Pepper' Potts: I would like a vodka martini, please.
+Tony Stark: Okay.
+Virginia 'Pepper' Potts: Very dry, with olives, a lot of olives. Like, at least three olives.
+Tony Stark: Two vodka martinis, extra dry, extra olives, extra... fast.
 Rhodey: As liaison to Stark Industries, I have a unique privilege of serving with a real patriot. He is my friend, and he is my great mentor. Ladies and gentlemen, it is my honor to present this year's Apogee Award to Mr. Tony Stark!
 Rhodey: Tony?
 Obadiah Stane: Thank you, Colonel. This is beautiful. Thank you all very much. This is wonderful. Well, I'm not Tony Stark.
 Obadiah Stane: But if I were Tony, I would tell you how honored I feel, and what a joy it is to receive this very prestigious award. Tony, you know, the best thing about Tony is also the worst thing - he's always working.
-Pratt: Is it true that you went twelve-for-twelve with the Maxim Girls last year?
-Tony Stark: That is an excellent question. Yes and no. March and I had a scheduling conflict but fortunately the Christmas cover was twins.
+Yinsen: Do as I do.
 Tony Stark: I got stuck doing a piece for Vanity Fair.
 Tony Stark: Whatcha readin'... platypus?
 Rhodey: Nothin'.
@@ -397,17 +402,12 @@ Hogan: You did, sir.
 Rhodey: The future of air combat... Is it manned, or unmanned? I'll tell you in my experience, no unmanned aerial vehicle will ever trump a pilot's instinct.
 Tony Stark: I think you got a lot of my weapons.
 Rhodey: Not necessary, people. Just a training exercise.
-Virginia 'Pepper' Potts: I would like a vodka martini, please.
-Tony Stark: Okay.
-Virginia 'Pepper' Potts: Very dry, with olives, a lot of olives. Like, at least three olives.
-Tony Stark: Two vodka martinis, extra dry, extra olives, extra... fast.
 Tony Stark: Potts.
 Virginia 'Pepper' Potts: Tony, are you okay?
 Tony Stark: Listen to me. We have to overload the arc reactor and blast the roof.
 Virginia 'Pepper' Potts: Well, how are you going to do that?
 Tony Stark: YOU're going to do it! Go to the central console, open up all the circuits. When I get clear, I'll let you know, and then you hit the master bypass button.
 Tony Stark: Not bad.
-Yinsen: Do as I do.
 Rhodey: How was the fun-vee? Next time you ride with me, okay?
 Tony Stark: How'd it go?
 Tony Stark: Oh, that bad, huh?

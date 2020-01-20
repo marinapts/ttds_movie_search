@@ -100,6 +100,8 @@ Frigga: The future hasn't been kind to you, has it?
 Thor: I didn't say I was from the future.
 Frigga: I was raised by witches, boy. I see with more than eyes and you know that.
 Thor: I'm totally from the future.
+Tony Stark: Is this thing on? Hey, Ms. Potts. If you find this recording, don't post it on social media. It's gonna be a real tearjerker. I don't know if you're ever gonna see these. I don't even know if you're still... Oh, God, I hope so. Today's day 21? No, uh, 22. You know, if it wasn't for the existential terror of steering into the literal void of space, I'd say I'm feeling a little better today. The infection's run its course thanks to the blue meanie back there. Oh, you would love her. Very practical. Only a tiny bit sadistic. So, the fuel cells were cracked during battle and we figured out a way to reverse the iron charge, bought ourselves about 48 hours of flight time. Uh, but it's now dead in the water. 1,000 light years from the nearest 7-11. Oxygen will run out tomorrow morning... and that will be it. I know I said no more surprises, but I gotta say, I was really hoping to pull off one last one. But it looks like... well, you know what it looks like. Don't feel bad about this. I'm mean, actually, if you grieve for a couple weeks... and then move on with enormous guilt.
+Tony Stark: I should probably lie down for a minute, rest my eyes. Please know, when I drift off and be like everything lately, I'm fine. I'm totally fine. I dream about you. Because it's always you.
 Bruce Banner: We'd be going in shorthanded, you know?
 James Rhodes: Look, he's still got the Stones, so...
 Carol Danvers: So, let's get them. Use them to bring everyone back.
@@ -112,8 +114,6 @@ James Rhodes: Hey, new girl? Everybody in this room is about that superhero life
 Carol Danvers: There are a lot of other planets in the universe, and, unfortunately, they didn't have you guys.
 Thor: I like this one.
 Steve Rogers: Let's go get this son of a bitch.
-Tony Stark: Is this thing on? Hey, Ms. Potts. If you find this recording, don't post it on social media. It's gonna be a real tearjerker. I don't know if you're ever gonna see these. I don't even know if you're still... Oh, God, I hope so. Today's day 21? No, uh, 22. You know, if it wasn't for the existential terror of steering into the literal void of space, I'd say I'm feeling a little better today. The infection's run its course thanks to the blue meanie back there. Oh, you would love her. Very practical. Only a tiny bit sadistic. So, the fuel cells were cracked during battle and we figured out a way to reverse the iron charge, bought ourselves about 48 hours of flight time. Uh, but it's now dead in the water. 1,000 light years from the nearest 7-11. Oxygen will run out tomorrow morning... and that will be it. I know I said no more surprises, but I gotta say, I was really hoping to pull off one last one. But it looks like... well, you know what it looks like. Don't feel bad about this. I'm mean, actually, if you grieve for a couple weeks... and then move on with enormous guilt.
-Tony Stark: I should probably lie down for a minute, rest my eyes. Please know, when I drift off and be like everything lately, I'm fine. I'm totally fine. I dream about you. Because it's always you.
 Tony Stark: It's not about how much we lost. It's about how much we have left. We're the Avengers. We gotta finish this. You trust me?
 Steve Rogers: I do.
 Steve Rogers: Some people move on. But not us... Not us.
@@ -127,12 +127,12 @@ Natasha Romanoff: That's the front gate.
 Scott Lang: That's me. Can you buzz me in?
 Clint Barton: Under different circumstances, this would be totally awesome.
 Peggy Carter: The world has changed. None of us can go back. All we can do is our best. And sometimes the best that we can do... is to start over.
-James Rhodes: So he's an idiot?
-Nebula: Yeah.
 Steve Rogers: On my way down to coordinate search-and-rescue.
 Loki: "On my way down to coordinate search-and-rescue!"
 Loki: I mean, honestly, how do you even...
 Thor: Shut. Up.
+James Rhodes: So he's an idiot?
+Nebula: Yeah.
 Thor: I love you mom.
 Frigga: I love you...
 Frigga: and eat a salad.
@@ -226,6 +226,16 @@ Bruce Banner: Regardless, we only have enough Pym Particles for one round trip e
 Tony Stark: Our history. So, not a lot of convenient spots to drop in.
 Clint Barton: Which means we've got to pick our targets.
 Tony Stark: Correct.
+Tony Stark: Shit!
+Morgan Stark: Shit.
+Tony Stark: What are you doing up, little miss?
+Morgan Stark: Shit.
+Tony Stark: No, we don't say that. Only mommy says that. She coined it, it belongs to her.
+Morgan Stark: Why are you up?
+Tony Stark: Cause I got very important sh*t going on here, what do you think? No. I got, I got something on my mind.
+Tony Stark: I got, I got something on my mind.
+Morgan Stark: Was it juice pops?
+Tony Stark: Sure it was. That's extortion, that's the word. What kind do you want? Great minds think alike. Juice pops, exactly was on my mind.
 Steve Rogers: Well, what are we gonna do now?
 Tony Stark: You know what, give me a break, Steve. I just got hit in the head with a Hulk.
 Scott Lang: You said that we had one shot. This! This was our shot. We shot it, it's shot! Six stones or nothing! Six stones or nothing.
@@ -246,16 +256,6 @@ Nebula: My father is many things. A liar is not one of them.
 Thanos: Ah. Thank you, daughter. Perhaps I treated you too harshly...
 Rocket: What did you do?
 Thor: I went for the head.
-Tony Stark: Shit!
-Morgan Stark: Shit.
-Tony Stark: What are you doing up, little miss?
-Morgan Stark: Shit.
-Tony Stark: No, we don't say that. Only mommy says that. She coined it, it belongs to her.
-Morgan Stark: Why are you up?
-Tony Stark: Cause I got very important sh*t going on here, what do you think? No. I got, I got something on my mind.
-Tony Stark: I got, I got something on my mind.
-Morgan Stark: Was it juice pops?
-Tony Stark: Sure it was. That's extortion, that's the word. What kind do you want? Great minds think alike. Juice pops, exactly was on my mind.
 Natasha Romanoff: Thanos did what exactly he said he was gonna do. He wiped out 50% of all living creatures.
 Clint Barton: You see where you're going. Now let's worry about how you get there.
 James Rhodes: Whoa, whoa, whoa. This is the part where all the spikes come out with skeletons on the end of them and everything.
@@ -359,6 +359,12 @@ Bruce Banner: I think it's gratuitous, but, whatever.
 Natasha Romanoff: I used to have nothing. Then I got this. This job... this family. And I was... I was better because of it. And even though... they're gone... I'm still trying to be better.
 Steve Rogers: We both need to get a life.
 Natasha Romanoff: You first.
+Grieving Man: So I, uh... Went on a date the other day. First time in five years, you know? Sit there, dinner... I didn't know what to talk about.
+Steve Rogers: What did you talk about?
+Grieving Man: Same old crap, you know? How things have changed, and... my job, his job... How much we miss the Mets. Then things get quiet... He cried as they were serving the salads.
+Steve Rogers: How about you?
+Grieving Man: I cried... just before dessert. But I'm seeing him tomorrow, so...
+Steve Rogers: That's great. You did the hardest part. You took the jump, you didn't know where you were gonna come down. And that's it. That's those little brave baby steps you gotta take. To try and become whole again. To try and find purpose. I went in the ice in '45 right after I met the love of my life. Woke up 70 years later. You got to move on. Got to move on. The world is in our hands. It's left to us guys, and we have to do something with it. Otherwise... Thanos should have killed all of us.
 Cassie Lang: Dad?
 Scott Lang: You're so big!
 Hawkeye: Cap, what do you want me to do with this damn thing?
@@ -379,12 +385,6 @@ Peter Quill: Ow!
 Gamora: Don't... touch... me!
 Peter Quill: Ah!
 Peter Quill: You missed the first time... then you got them both the second time.
-Grieving Man: So I, uh... Went on a date the other day. First time in five years, you know? Sit there, dinner... I didn't know what to talk about.
-Steve Rogers: What did you talk about?
-Grieving Man: Same old crap, you know? How things have changed, and... my job, his job... How much we miss the Mets. Then things get quiet... He cried as they were serving the salads.
-Steve Rogers: How about you?
-Grieving Man: I cried... just before dessert. But I'm seeing him tomorrow, so...
-Steve Rogers: That's great. You did the hardest part. You took the jump, you didn't know where you were gonna come down. And that's it. That's those little brave baby steps you gotta take. To try and become whole again. To try and find purpose. I went in the ice in '45 right after I met the love of my life. Woke up 70 years later. You got to move on. Got to move on. The world is in our hands. It's left to us guys, and we have to do something with it. Otherwise... Thanos should have killed all of us.
 Clint Barton: Oh, hey, I remember you
 Nebula: Father, I have the stones.
 Clint Barton: What?
@@ -625,6 +625,13 @@ Thanos: I don't even know who you are
 Clint Barton: You know I wish there was a way that I could let her know. That we won, we did it.
 Wanda Maximoff: She knows.
 Wanda Maximoff: They both do.
+Korg: Hey brov, do you think IMDb even checks any of the movie 'quotes' they pass through on their own website?
+Steve Rogers: No. No I don't think they do.
+Bucky Barnes: Who is the hell is IMDb?
+Peter Quill: Why don't we try testing them? But instead we'll make it my idea. That way it doesn't suck.
+Tony Stark: Not a great plan.
+T'Challa: I just contacted them. They said, 'No no. We don't do that here.' So get this quote an approval.
+Thanos: I could do all that with a snap of the fingers. And don't listen to what Deadpool has been telling people. I am NOT a racist.
 Tony Stark: I love you 3000.
 Rocket: What did you do?
 Thor: I went for the head.

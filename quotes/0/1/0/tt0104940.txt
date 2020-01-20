@@ -14,7 +14,7 @@ Robert Marley: It was dumb!
 Jacob Marley: It was obvious!
 Robert Marley: It was pointless!
 Jacob Marley: It was... short!
-Jacob Marley, Robert Marley: I loved it!
+Jacob Marley,Â Robert Marley: I loved it!
 Rizzo the Rat: Mother always taught me: "Never eat singing food."
 Rizzo the Rat: Boy, that's scary stuff! Should we be worried about the kids in the audience?
 Gonzo: Nah, it's all right. This is culture!
@@ -227,7 +227,7 @@ Gonzo: Now.
 Gonzo: There he is, Mr. Ebenezer Scrooge.
 Rizzo the Rat: Say, is it getting colder out here?
 Belle: There was a time when I was sure, that you and I were truly one; that our future was forever and would never come undone. And we came so close to being close, and though you cared for me, there's distance in your eyes tonight, so we're not meant to be. The love is gone. The love is gone. The sweetest dream that you have ever known. The love is gone. The love is gone. I wish you well, but I must leave you now alone. There comes a moment in your life like a window and you see your future there before you, and how perfect life can be. But adventure calls with unknown voices pulling you away. Be careful or you may regret the choice you make someday, when love is gone. When love is gone. The sweetest dream that we have ever known, when love is gone. When love is gone. I wish you well, but I must leave you now alone.
-Belle, Ebenezer Scrooge: It was almost love. It was almost always. It was like a fairytale we'd live out, you and I. And yes, some dreams come true. And yes, some dreams fall through.
+Belle,Â Ebenezer Scrooge: It was almost love. It was almost always. It was like a fairytale we'd live out, you and I. And yes, some dreams come true. And yes, some dreams fall through.
 Belle: And yes, the time has come for us to say goodbye. Yes, some dreams come true. And yes, some dreams fall through. And yes, the time has come for us to say goodbye.
 Ebenezer Scrooge: Pardon me, gentlemen, but about the charity donation you asked me for yesterday. Put me down for...
 Dr. Bunsen Honeydew: That much?
@@ -287,10 +287,10 @@ Ebenezer Scrooge: Humbug!
 Miss Piggy: Peter, do not stop turning that spit. That is the whole secret of a properly roasted goose.
 Peter Cratchit: It smells so good, Mother.
 Miss Piggy: It does, doesn't it?
-Jacob Marley, Robert Marley: We're Marley and Marley.
-Jacob Marley, Robert Marley: We're Marley and Marley.
-Jacob Marley, Robert Marley: We're Marley and Marley.
-Jacob Marley, Robert Marley: Change!
+Jacob Marley,Â Robert Marley: We're Marley and Marley.
+Jacob Marley,Â Robert Marley: We're Marley and Marley.
+Jacob Marley,Â Robert Marley: We're Marley and Marley.
+Jacob Marley,Â Robert Marley: Change!
 Gonzo: Say, do you know that fruit is wax?
 Rizzo the Rat: Oh, yeah. I wondered about the texture.
 Gonzo: Come on, Rizzo. We'll follow him in.
@@ -310,22 +310,22 @@ Rizzo the Rat: I suppose you enjoyed that?
 Gonzo: Of course.
 Kermit the Frog: It only seems right that I should lift a glass to my employer. I give you Mr. Scrooge, the founder of the feast.
 Miss Piggy: The founder of the feast, indeed!
-Betina Cratchit, Belinda Cratchit: Huh!
+Betina Cratchit,Â Belinda Cratchit: Huh!
 Miss Piggy: If I had him here, I would give him a piece of my mind to feast upon. And I bet he would choke on it. Hmm!
-Betina Cratchit, Belinda Cratchit: Choke!
+Betina Cratchit,Â Belinda Cratchit: Choke!
 Kermit the Frog: My dear, the-the children, Christmas Day.
 Miss Piggy: Oh, uh... w-well, I-I suppose that on the blessed day of Christmas, one must drink to the health of, uh, Mr. Scrooge, even though he is odious.
-Betina Cratchit, Belinda Cratchit: Mm-hmm!
+Betina Cratchit,Â Belinda Cratchit: Mm-hmm!
 Miss Piggy: Stingy.
-Betina Cratchit, Belinda Cratchit: Mm-hmm!
+Betina Cratchit,Â Belinda Cratchit: Mm-hmm!
 Miss Piggy: Wicked.
-Betina Cratchit, Belinda Cratchit: Mm-hmm!
+Betina Cratchit,Â Belinda Cratchit: Mm-hmm!
 Miss Piggy: And unfeeling.
-Betina Cratchit, Belinda Cratchit: Mm-hmm!
+Betina Cratchit,Â Belinda Cratchit: Mm-hmm!
 Miss Piggy: And badly dressed.
 Tiny Tim Cratchit: To the founder of the feast, Mr. Scrooge!
 Miss Piggy: Ah, to Mr. Scrooge, he'll be very merry and happy this day, I have no doubt.
-Betina Cratchit, Belinda Cratchit: No doubt.
+Betina Cratchit,Â Belinda Cratchit: No doubt.
 Kermit the Frog: Hmm. Cheers.
 Miss Piggy: How was he at church?
 Kermit the Frog: Oh, as good as gold and better. He told me that he hoped the people saw him in church because it might be pleasant for them to remember upon Christmas Day who made lame beggars walk and blind men see.
@@ -359,28 +359,28 @@ Ghost of Christmas Past: It is the past.
 Gonzo: Look, it's beautiful, Rizzo!
 Rizzo the Rat: Mommy!
 Ebenezer Scrooge: Why do you come to me?
-Jacob Marley, Robert Marley: We're Marley and Marley/Avarice and greed.
+Jacob Marley,Â Robert Marley: We're Marley and Marley/Avarice and greed.
 Jacob Marley: We took advantage of the poor, just ignored the needy.
-Jacob Marley, Robert Marley: We specialized in causing pain, spreading fear and doubt.
+Jacob Marley,Â Robert Marley: We specialized in causing pain, spreading fear and doubt.
 Robert Marley: And if you could not pay the rent, we simply threw you out!
 Robert Marley: There was the year we evicted the entire orphanage.
 Jacob Marley: Hmm, I remember the little tykes all standing in the snowbank.
 Robert Marley: With their little frostbitten teddy bears.
-Jacob Marley, Robert Marley: We're Marley and Marley/Our hearts were painted black.
+Jacob Marley,Â Robert Marley: We're Marley and Marley/Our hearts were painted black.
 Jacob Marley: We should have known our evil deeds/Would put us both in shackles.
-Jacob Marley, Robert Marley: Captive, bound, we're double-ironed/Exhausted by the weight.
+Jacob Marley,Â Robert Marley: Captive, bound, we're double-ironed/Exhausted by the weight.
 Jacob Marley: As freedom comes from giving love...
 Robert Marley: ...So prison comes with hate.
-Jacob Marley, Robert Marley: We're Marley and Marley.
-Jacob Marley, Robert Marley: We're Marley and Marley.
+Jacob Marley,Â Robert Marley: We're Marley and Marley.
+Jacob Marley,Â Robert Marley: We're Marley and Marley.
 Ebenezer Scrooge: But my friends, you were not unfeeling towards your fellow men.
 Robert Marley: True, there was something about mankind we loved.
 Jacob Marley: I think it was their money.
-Jacob Marley, Robert Marley: Doomed, Scrooge/You're doomed for all time.
+Jacob Marley,Â Robert Marley: Doomed, Scrooge/You're doomed for all time.
 Robert Marley: Your future is a horror story/Written by your crime.
-Jacob Marley, Robert Marley: Your chains are forged/By what you say and do/So have your fun when life is done/A nightmare waits for you.
+Jacob Marley,Â Robert Marley: Your chains are forged/By what you say and do/So have your fun when life is done/A nightmare waits for you.
 Ebenezer Scrooge: Why these terrible chains?
-Jacob Marley, Robert Marley: Oh!
+Jacob Marley,Â Robert Marley: Oh!
 Robert Marley: The chains!
 Jacob Marley: We forged these chains in life by our acts of greed.
 Robert Marley: You wear such a chain yourself.
@@ -421,21 +421,21 @@ Miss Piggy: Oh, no, it's just the lamplight, it hurts my eyes.
 Ebenezer Scrooge: Not Tiny Tim?
 Tiny Tim Cratchit: God bless us, everyone.
 Tiny Tim Cratchit: Life is full of sweet surprises/Every day's a gift/The sun comes up/And I can feel it lift my spirit/Fills me up with laughter/Fills me up with song/I look into the eyes of love/And know that I belong/Bless us all/Who gather here.
-Miss Piggy, Tiny Tim Cratchit: The loving family I hold dear.
-Kermit the Frog, Tiny Tim Cratchit: No place on Earth/Compares with home/And every path will bring me back from where I roam.
-Kermit the Frog, Miss Piggy, Peter Cratchit, Betina Cratchit, Belinda Cratchit, Tiny Tim Cratchit: Bless us all/That as we live/We always comfort and forgive.
-Kermit the Frog, Tiny Tim Cratchit: We have so much/That we can share.
+Miss Piggy,Â Tiny Tim Cratchit: The loving family I hold dear.
+Kermit the Frog,Â Tiny Tim Cratchit: No place on Earth/Compares with home/And every path will bring me back from where I roam.
+Kermit the Frog,Â Miss Piggy,Â Peter Cratchit,Â Betina Cratchit,Â Belinda Cratchit,Â Tiny Tim Cratchit: Bless us all/That as we live/We always comfort and forgive.
+Kermit the Frog,Â Tiny Tim Cratchit: We have so much/That we can share.
 Tiny Tim Cratchit: With those in need we see around us everywhere/Let us always...
-Kermit the Frog, Miss Piggy, Peter Cratchit, Betina Cratchit, Belinda Cratchit, Tiny Tim Cratchit: Love each other.
+Kermit the Frog,Â Miss Piggy,Â Peter Cratchit,Â Betina Cratchit,Â Belinda Cratchit,Â Tiny Tim Cratchit: Love each other.
 Tiny Tim Cratchit: Lead us to the light/Let us hear...
-Kermit the Frog, Miss Piggy, Peter Cratchit, Betina Cratchit, Belinda Cratchit, Tiny Tim Cratchit: The voice of reason.
+Kermit the Frog,Â Miss Piggy,Â Peter Cratchit,Â Betina Cratchit,Â Belinda Cratchit,Â Tiny Tim Cratchit: The voice of reason.
 Tiny Tim Cratchit: Singing in the night.
 Kermit the Frog: Let us run from anger.
 Miss Piggy: And catch us when we fall.
 Tiny Tim Cratchit: Teach us in our dreams/And please, yes, please...
-Kermit the Frog, Miss Piggy, Peter Cratchit, Betina Cratchit, Belinda Cratchit, Tiny Tim Cratchit: Bless us one and all.
+Kermit the Frog,Â Miss Piggy,Â Peter Cratchit,Â Betina Cratchit,Â Belinda Cratchit,Â Tiny Tim Cratchit: Bless us one and all.
 Tiny Tim Cratchit: Bless us all/With playful years/With noisy games and joyful tears.
-Kermit the Frog, Miss Piggy, Peter Cratchit, Betina Cratchit, Belinda Cratchit, Tiny Tim Cratchit: We reach for you/And we stand tall.
+Kermit the Frog,Â Miss Piggy,Â Peter Cratchit,Â Betina Cratchit,Â Belinda Cratchit,Â Tiny Tim Cratchit: We reach for you/And we stand tall.
 Kermit the Frog: And in our prayers and dreams, we ask you, bless us all.
 Tiny Tim Cratchit: We reach for you/And we stand tall/And in our prayers and dreams, we ask you, bless us all.
 Ebenezer Scrooge: Do you know the poultry shop in the next street?

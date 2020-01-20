@@ -485,7 +485,7 @@ Bullet #2: Eddie Valiant! Why, you're a sight for sore eyes.
 Bullet #1: I ain't seen you nigh onto five years.
 Bullet #2: Where've you been?
 Eddie Valiant: Drunk. You feeling frisky tonight, fellas?
-Bullet #1, Bullet #2: Yeah!
+Bullet #1,Â Bullet #2: Yeah!
 Eddie Valiant: Let's go.
 Jessica Rabbit: I suppose you think no one's going to notice Toontown's disappeared?
 Judge Doom: Who's got time to wonder what happened to some ridiculous talking mice when they're driving by at 75 miles an hour?

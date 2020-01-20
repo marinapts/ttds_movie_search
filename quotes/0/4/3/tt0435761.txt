@@ -17,13 +17,13 @@ Andy: Now, you gotta promise to take good care of these guys. They, mean, alot t
 Woody: You'll be okay in the attic?
 Jessie: Of course I will... Besides, I know about Buzz's Spanish Mode.
 Buzz Lightyear: My what?
-Spanish Buzz: Bitácora Espacial - Me he despertado de hiper-sueño en un planeta extraño.
+Spanish Buzz: BitÃ¡cora Espacial - Me he despertado de hiper-sueÃ±o en un planeta extraÃ±o.
 Hamm the Piggy Bank: Now what did you do?
 Rex the Green Dinosaur: I just did what you told me!
-Spanish Buzz: Estoy rodeado por criaturas extrañas y desconozco sus intenciónes. ¿¡Quién anda ahí? ¿Amigo? O enemigo?
+Spanish Buzz: Estoy rodeado por criaturas extraÃ±as y desconozco sus intenciÃ³nes. Â¿Â¡QuiÃ©n anda ahÃ­? Â¿Amigo? O enemigo?
 Spanish Buzz: Woody: Uh... Amigos! We're all amigos!
-Spanish Buzz: Me debo haber estrellado, y se me borró la memoria.
-Spanish Buzz: Spanish Buzz: ¿Han visto a mi nave espacial?
+Spanish Buzz: Me debo haber estrellado, y se me borrÃ³ la memoria.
+Spanish Buzz: Spanish Buzz: Â¿Han visto a mi nave espacial?
 Woody: We gotta switch him back.
 Slinky Dog: Well how do we do that?
 Hamm the Piggy Bank: I don't know, that part's in Spanish!
@@ -49,10 +49,10 @@ Chatter Telephone: It's not. Your REAL problem's the monkey. The Monkey's the ey
 Woody: Look, I just need to get out of here...
 Buttercup: There is no way out!
 Buttercup: Just kidding. Door's right over there.
-Spanish Buzz: ¡Venga conmigo, señorita! ¡Te mostraré las maravillas de la galaxia, y juntos lucharemos contra el despiadado Zurg!
+Spanish Buzz: Â¡Venga conmigo, seÃ±orita! Â¡Te mostrarÃ© las maravillas de la galaxia, y juntos lucharemos contra el despiadado Zurg!
 Jessie: Woody! Thank goodness!
 Woody: C'mon! We're almost there!
-Spanish Buzz: ¡El Vaquero!
+Spanish Buzz: Â¡El Vaquero!
 Jessie: No!
 Buzz Lightyear: Glad I could catch the train!
 Woody: Now let's catch some criminals!
@@ -192,7 +192,7 @@ Trixie: Hello! I'm Trixie!
 Mr. Pricklepants: Shhh!
 Trixie: Shhh!
 Woody: Guys, hey! Guys, look, I don't know where I am...
-Trixie: We're either in a café in Paris or a coffee shop in New Jersey. I'm pretty sure I just came back from the doctor with life-changing news.
+Trixie: We're either in a cafÃ© in Paris or a coffee shop in New Jersey. I'm pretty sure I just came back from the doctor with life-changing news.
 Buttercup: We do a lot of improv here. Just stay loose, have fun - you'll be fine!
 Woody: No, no no no, I...
 Molly: Uh!
@@ -309,8 +309,8 @@ Andy: Molly! Stay out of my room!
 Molly: I wasn't in your room!
 Andy: Then who was messing with my stuff?
 Ken: Barbie, come with me! Live in my Dream House! I know it's crazy! I know we've just met! Aw, heck - you don't know me from GI Joe. But when I look at you I feel like we were...
-Ken, Barbie: ...made for each other.
-Ken, Barbie: Barbie: Yay!
+Ken,Â Barbie: ...made for each other.
+Ken,Â Barbie: Barbie: Yay!
 Jessie: This isn't a family! It's a prison! You're a liar and a bully and I'd rather rot in this dumpster than join any family of yours!
 Barbie: Jessie's right! Authority should derive from the consent of the governed, not from the threat of force!
 Barbie: Don't touch me! We're through!

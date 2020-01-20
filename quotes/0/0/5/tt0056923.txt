@@ -155,7 +155,7 @@ Inspector Grandpierre: This nose tells me when you are lying. It is never mistak
 Leopold Gideon: Well, you know I'd tell you if I had it.
 Tex Panthollow: Oh *naturally*, just like I'd tell you if I had it.
 Leopold Gideon: *Naturally*. And that goes for Herman too.
-Tex Panthollow, Leopold Gideon: *Naturally*.
+Tex Panthollow,Â Leopold Gideon: *Naturally*.
 Hamilton Bartholomew: Do you know what these things cost over here?
 Tex Panthollow: Oh, poor old Herman. It seems like him and good luck always was strangers. Well, maybe now he'll meet up with his other hand some place.
 Alexander Dyle: Reggie, cut it out.
@@ -174,7 +174,7 @@ Reggie Lampert: You didn't have to chase me so hard... I'm sorry I thought you w
 Adam Canfield: Is that all the gratitude I get for saving your hide? Here, rub your own blinking foot!
 Reggie Lampert: Is there a Mrs. Canfield?
 Adam Canfield: Yes...
-Adam Canfield, Reggie Lampert: But we're divorced.
+Adam Canfield,Â Reggie Lampert: But we're divorced.
 Sylvie: I don't understand. Why do you want a divorce?
 Reggie Lampert: Because I don't love him and he doesn't love me.
 Sylvie: That's no reason to get a divorce!

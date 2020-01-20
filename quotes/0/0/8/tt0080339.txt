@@ -59,7 +59,7 @@ Second Jive Dude: Uh-huh.
 First Jive Dude: ...pray to J I did the same-ol', same-ol'!
 Second Jive Dude: Hey... knock a self a pro, Slick! That gray matter backlot perform us DOWN, I take TCB-in', man!
 First Jive Dude: Hey, you know what they say: see a broad to get dat booty yak 'em...
-First Jive Dude, Second Jive Dude: ...leg 'er down a smack 'em yak 'em!
+First Jive Dude,Â Second Jive Dude: ...leg 'er down a smack 'em yak 'em!
 First Jive Dude: COL' got to be! Y'know?
 First Jive Dude: Shiiiiit.
 Roger Murdock: Flight 2-0-9'er, you are cleared for take-off.
@@ -111,7 +111,7 @@ Jive Lady: Jive-ass dude don't got no brains anyhow! Shiiiiit.
 Steve McCroskey: Looks like I picked the wrong week to quit smoking.
 Rumack: The life of everyone on board depends upon just one thing: finding someone back there who can not only fly this plane, but who didn't have fish for dinner.
 Ted Striker: I flew single engine fighters in the Air Force, but this plane has four engines. It's an entirely different kind of flying, altogether.
-Rumack, Randy: It's an entirely different kind of flying.
+Rumack,Â Randy: It's an entirely different kind of flying.
 Jack Kirkpatrick: Shanna, they bought their tickets, they knew what they were getting into. I say, let 'em crash.
 Captain Oveur: You ever been in a cockpit before?
 Joey: No sir, I've never been up in a plane before.
@@ -156,11 +156,11 @@ Rumack: I'm doing everything I can... and stop calling me Shirley!
 Rex Kramer: Don't be a fool, Striker, you know what a landing like this means, you more than anybody. I'm ordering you to stay up there.
 Ted Striker: No dice, Chicago. I'm giving the orders and we're coming in. I guess the foot's on the other hand now, isn't it, Kramer?
 Ted Striker: Let's see... altitude: 21,000 feet. Speed: 520 knots. Level flight. Course: zero-niner-zero. Trim and mixture: wash, soak, rinse, spin.
+Air Controller Macias: Captain, maybe we ought to turn on the searchlights now.
+Rex Kramer: No... that's just what they'll be expecting us to do.
 Johnny: Auntie Em, Uncle Henry, Toto! It's a twister! It's a twister!
 Rex Kramer: Get that finger out of your ear! You don't know where that finger's been!
 Radio DJ: This is WZAZ in Chicago, where disco lives forever...
-Air Controller Macias: Captain, maybe we ought to turn on the searchlights now.
-Rex Kramer: No... that's just what they'll be expecting us to do.
 Johnny: The tower, the tower! Rapunzel, Rapunzel!
 Elaine: Would you gentlemen care to order your dinners?
 First Jive Dude: Bet, babe. Slide a piece o' da' porter. Drinks, I run da' java.
@@ -185,12 +185,12 @@ Rumack: Well, I don't have anything to say, you've done the best you could. You 
 Ted Striker: George Zip said that?
 Rumack: The last thing he said to me, "Doc," he said, "some time when the crew is up against it, and the breaks are beating the boys, tell them to get out there and give it all they got and win just one for the Zipper. I don't know where I'll be then, Doc," he said, "but I won't smell too good, that's for sure."
 Ted Striker: Excuse me doc, I got a plane to land.
+Shirley: I haven't felt this awful since we saw that Ronald Reagan film.
 Steve McCroskey: It's coming right at us!
 Gunderson: He's all over the place! Nine hundred feet up to 1300 feet. What an asshole!
 Rumack: Extremely serious. It starts with a slight fever and dryness of the throat. When the virus penetrates the red blood cells, the victim becomes dizzy, begins to experience an itchy rash, then the poison goes to work on the central nervous system, severe muscle spasms followed by the inevitable drooling.
 Rumack: At this point, the entire digestive system collapses accompanied by uncontrollable flatulence
 Rumack: Until finally, the poor bastard is reduced to a quivering wasted piece of jelly.
-Shirley: I haven't felt this awful since we saw that Ronald Reagan film.
 Newspaper Headline: Boy trapped in refrigerator eats own foot.
 Ted Striker: It was a rough place - the seediest dive on the wharf. Populated with every reject and cutthroat from Bombay to Calcutta. It's worse than Detroit.
 Steve McCroskey: Johnny, how 'bout some more coffee?
@@ -204,7 +204,6 @@ Ted Striker: What *mountains?* We're over IOWA!
 Elaine Dickinson: The... THE CORNFIELDS, TED! THE CORNFIELDS!
 Airport Steward: Smoking or non-smoking?
 Ted Striker: Smoking.
-Johnny: Where did you get that dress, it's awful, and those shoes and that coat, jeeeeez!
 Rex Kramer: Striker, listen, and you listen close: flying a plane is no different than riding a bicycle, just a lot harder to put baseball cards in the spokes.
 Rex Kramer: Later we'll run down the landing procedures.
 Elaine Dickinson: Ted! What are you doing here? *You* can't fly this plane!
@@ -213,17 +212,18 @@ Rumack: Elaine, you're a member of this crew. Can you face some unpleasant facts
 Elaine Dickinson: No.
 Ted Striker: It's a damn good thing he doesn't know how much I hate his guts.
 Elaine Dickinson: It's a damn good thing you don't know how much he hates your guts.
+Johnny: Where did you get that dress, it's awful, and those shoes and that coat, jeeeeez!
 Steve McCroskey: Now your husband and the others are alive, but unconscious.
 Johnny: Just like Gerald Ford.
 Rex Kramer: There he is. Striker, you're coming in too fast!
 Ted Striker: I know, I know!
 Elaine Dickinson: He knows, he knows.
+Reporter #1: Alright boys, let's get some pictures!
 Steve McCroskey: I need the best man on this. Someone who knows that plane inside and out and won't crack under pressure.
 Johnny: How about Mister Rogers?
-Male announcer: Air Israel, please clear the runway!
 Rex Kramer: All right, I'll need three men up at the tower. You, Neubauer. You, Macias.
 Johnny: Me, John, big tree!
-Reporter #1: Alright boys, let's get some pictures!
+Male announcer: Air Israel, please clear the runway!
 Steve McCroskey: Ease off, Rex. He hasn't flown for years; it's not his fault. It could happen to any pilot.
 Johnny: It happened to Barbara Stanwyck.
 Steve McCroskey: Can't push him too hard; he might break. You gotta remember who you're dealing with.

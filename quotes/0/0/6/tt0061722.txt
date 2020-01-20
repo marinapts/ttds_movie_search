@@ -99,6 +99,7 @@ Mrs. Braddock: But what makes you think she wants to marry you?
 Benjamin: She doesn't. To be perfectly honest, she doesn't like me.
 Mrs. Braddock: What makes you think she wants to marry you?
 Benjamin: Oh, she doesn't. To be perfectly honest, she doesn't like me.
+Benjamin: Mrs. Robinson, if you don't mind my saying so, this conversation is getting a little strange.
 Mr. Braddock: What's the matter? The guests are all downstairs, Ben, waiting to see you.
 Benjamin: Look, Dad, could you explain to them that I have to be alone for a while?
 Mr. Braddock: These are all our good friends, Ben. Most of them have known you since, well, practically since you were born. What is it, Ben?
@@ -111,7 +112,6 @@ Mr. Braddock: What about it?
 Benjamin: I don't know... I want it to be...
 Mr. Braddock: To be what?
 Benjamin: ... Different.
-Benjamin: Mrs. Robinson, if you don't mind my saying so, this conversation is getting a little strange.
 Elaine: Good night.
 Benjamin: Are we getting married tomorrow?
 Elaine: No...
@@ -144,10 +144,6 @@ Benjamin: Mr. McGuire.
 Benjamin: Listen to me. What happened between Mrs. Robinson and me was nothing. It didn't mean anything. We might just as well have been shaking hands.
 Mr. Robinson: Shaking hands? Well, that's not saying much for my wife, is it?
 Benjamin: Look, maybe we could do something else together. Mrs. Robinson, would you like to go to a movie?
-Mr. McCleery: I just like to know what my boys are up to.
-Mr. McCleery: You aren't one of those agitators, are you?
-Benjamin: What?
-Mr. McCleery: I hate 'em. I won't stand for it.
 Mr. Robinson: Ben, can I say something to you?
 Benjamin: What?
 Mr. Robinson: Uh, how long have we known each other now? How long have you and I known each other? How long have your dad and I been partners?
@@ -175,6 +171,10 @@ Mr. Robinson: Do you have a special grudge against me? Do you feel a particularl
 Benjamin: Elaine, would you just tell me where he proposed to you?
 Benjamin: Oh God, it wasn't in his car, was it?
 Benjamin: Good God.
+Mr. McCleery: I just like to know what my boys are up to.
+Mr. McCleery: You aren't one of those agitators, are you?
+Benjamin: What?
+Mr. McCleery: I hate 'em. I won't stand for it.
 Mr. Robinson: Is that Ben's car in front?
 Benjamin: Yes, sir. I drove... I drove Mrs. Robinson home. She wanted me to drive her home so I drove her home.
 Mr. Robinson: Swell. I appreciate.

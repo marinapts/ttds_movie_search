@@ -136,7 +136,7 @@ Charlie: Dairy cream...
 Grandpa Joe: Whipped cream...
 Charlie: Coffee cream...
 Grandpa Joe: Vanilla cream...
-Charlie, Grandpa Joe: Hair cream?
+Charlie,Â Grandpa Joe: Hair cream?
 Willy Wonka: Meine Herrschaften, schenken Sie mir ihre aufmerksamkeit.
 Mrs. Teevee: That's not French.
 Willy Wonka: Sie kommen jetzt in den interessantesten und gleichzeitig geheimsten raum meiner fabrik.
@@ -362,7 +362,7 @@ Willy Wonka: Oh you can't get out backwards, you have to go forwards to go back.
 Willy Wonka: Oh! I wouldn't do that. I really wouldn't.
 Grandpa Joe: Good morning. Look at the sun.
 First Newscaster: And now, details on the sudden announcement that has captured the attention of entire world. Hidden among the countless billions of Wonka Bars are five gold tickets. And to the five people who find them will come the most fabulous prize one could wish for: a lifetime supply of chocolate. And as if this were not enough, each winner before he receives his prize will be personally escorted through the top secret chocolate factory by the mythical Willy Wonka himself. The amount of chocolate involved in this competition has relighted the imagination to incite candy eaters and all citizens around the world. Already we have reports coming in that the response is phenomenal. Wonka Bars are beginning to disappear from candy store shelves at a rate to boggle the mind. Truly it is incredible the way that Wonkamania has descended upon the globe. While the world searches, we watch and wait, wondering where the pursuit will lead and how long the spirit of man will hold up under the strain.
-Stanley Kael, Second Newscaster: We began with five Golden Tickets like five lucky bolts of lightning ready to strike without notice at any point on the map. No one knew where, no one knew when the first one would hit. But as you all know, last night we got our answer. While we in America slept, the first golden ticket was found in the small town of Düsselheim, Germany. We've been waiting several hours for the follow-up story and we're finally ready with a live report.
+Stanley Kael, Second Newscaster: We began with five Golden Tickets like five lucky bolts of lightning ready to strike without notice at any point on the map. No one knew where, no one knew when the first one would hit. But as you all know, last night we got our answer. While we in America slept, the first golden ticket was found in the small town of DÃ¼sselheim, Germany. We've been waiting several hours for the follow-up story and we're finally ready with a live report.
 Mr. Slugworth: I congratulate you, little boy. Well done. You've found the fifth Golden Ticket. May I introduce myself. Arthur Slugworth: President of Slugworth Chocolates, Incorporated. Now, listen carefully because I'm going to make you very rich indeed. Mr. Wonka is at this moment working on a fantastic invention: the Everlasting Gobstopper. If he succeeds, he'll ruin me. So, all I want you to do is to get hold of just one Everlasting Gobstopper and bring it to me so that I can find the secret formula. Your reward will be ten thousand of these.
 Mr. Slugworth: Think it over, will you. A new house for your family, and good food and comfort for the rest of their lives. And don't forget the name: Everlasting Gobstopper.
 Willy Wonka: Charlie? My boy! YOU'VE WON! YOU DID IT! I KNEW YOU WOULD, CHARLIE! I JUST KNEW YOU WOULD! Oh, Charlie! Forgive me for putting you through it!

@@ -85,9 +85,9 @@ Lord Coward: How terrible is wisdom, when it brings no profit to the wise.
 Dr. John Watson: You really believe he was resurrected?
 Sherlock Holmes: The question is not if but how. The game's afoot.
 Dr. John Watson: "Follow your spirit..."
-Dr. John Watson, Sherlock Holmes: "And upon this charge, cry, 'God for Harry, England and St. George!'"
+Dr. John Watson,Â Sherlock Holmes: "And upon this charge, cry, 'God for Harry, England and St. George!'"
 Sherlock Holmes: Un moment, s'il vous plait.
-Dredger: Je ne suis pas pressé.
+Dredger: Je ne suis pas pressÃ©.
 Dr. John Watson: Relax. I'm a doctor.
 Sherlock Holmes: And chambermaids were once such a liberal breed.
 Constable Clark: My wife's a chambermaid, sir.
@@ -212,7 +212,7 @@ Dr. John Watson: ...Toffee apple.
 Sherlock Holmes: Let me guess... Judging by your arsonist's tool kit, you're here to burn down the building and destroy all the evidence therein.
 Thug: Just one minute, boys.
 Thug: Oh, Dredger!
-Dredger: Il y a un problème?
+Dredger: Il y a un problÃ¨me?
 Sherlock Holmes: There's only one case that intrigues me at present. The curious case of Mrs. Hudson, the absentee landlady. I've been studying here comings and goings and they appear most... sinister.
 Mrs. Hudson: Tea, Mr. Holmes?
 Sherlock Holmes: Is it poisoned, Nanny?
