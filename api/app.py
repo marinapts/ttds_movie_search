@@ -3,6 +3,7 @@ from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
 import json
+from preprocessing_api import preprocess
 
 app = Flask(__name__)
 CORS(app)
@@ -36,30 +37,52 @@ def testing():
 def query_search():
     query_params = request.get_json()
 
-    # @TODO: Get movies for the given query
-    movies = db.get_movies_by_list_of_ids(['tt0111161',
-                                           'tt0068646',
-                                           'tt0468569',
-                                           'tt0071562',
-                                           'tt0167260',
-                                           'tt0110912',
-                                           'tt0108052',
-                                           'tt0050083',
-                                           'tt1375666',
-                                           'tt0137523',
-                                           'tt0120737',
-                                           'tt0109830',
-                                           'tt0060196',
-                                           'tt7286456',
-                                           'tt0167261',
-                                           'tt0133093',
-                                           'tt0099685',
-                                           'tt0080684',
-                                           'tt0073486',
-                                           'tt0056058'])
+    query = query_params['query']
+
+    #@TODO: Get search input 'query' and perform tokenisation etc 
+    query = preprocess(query)
+
+    #@TODO: Get quotes, quote_ids and movie_ids for the given query
+    query_results = [
+        {
+              'quote_id': 1,
+              'full_quote': 'This is a quote 1',
+              'movie_id': 'tt0111161'
+        },
+        {
+              'quote_id': 2,
+              'full_quote': 'This is a quote 2',
+              'movie_id': 'tt0068646'
+        },
+        {
+              'quote_id': 3,
+              'full_quote': 'This is a quote 3',
+              'movie_id': 'tt0468569'
+        },
+        {
+              'quote_id': 4,
+              'full_quote': 'This is a quote 4',
+              'movie_id': 'tt0071562'
+        },
+        {
+              'quote_id': 5,
+              'full_quote': 'This is a quote 5',
+              'movie_id': 'tt0167260'
+        },
+    ]
+
+
+    #Get Movie Details for movie_ids
+    movie_ids = [dic['movie_id'] for dic in query_results]
+    movies = db.get_movies_by_list_of_ids(movie_ids)
+
+    #Merge Movie Details with Quotes
+    #for dic in query_results:
+    #    dic['movie_id']
 
     return json.dumps({'movies': movies})
 
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
+
