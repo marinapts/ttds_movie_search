@@ -1,8 +1,10 @@
-import React, { Component } from 'react'
-import SearchInput from './components/searchInput/SearchInput'
-import Container from '@material-ui/core/Container';
-import MoviesContainer from './components/moviesContainer/MoviesContainer'
+import React, { Component, Fragment } from 'react'
+import Container from '@material-ui/core/Container'
+import Skeleton from '@material-ui/lab/Skeleton'
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
+
+import SearchInput from './components/searchInput/SearchInput'
+import MoviesContainer from './components/moviesContainer/MoviesContainer'
 
 import './app.scss'
 
@@ -24,16 +26,20 @@ export default class App extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      movies: []
+      movies: [],
+      showCards: false
     }
   }
 
   getMoviesForQuery = data => {
-    this.setState({ movies: data.movies })
+    this.setState({
+      showCards: true,
+      movies: data.movies
+    })
   }
 
   render() {
-    const { movies } = this.state
+    const { showCards, movies } = this.state
 
     return (
       <ThemeProvider theme={darkTheme}>
@@ -42,7 +48,18 @@ export default class App extends Component {
           <div className="search-container">
             <SearchInput getMoviesForQuery={this.getMoviesForQuery} />
           </div>
-          {movies.length > 0 && <MoviesContainer movies={movies} /> }
+          {showCards &&
+            <Fragment>
+              {movies.length > 0 ?
+                <MoviesContainer data={movies} /> :
+                <Fragment>
+                  {Array.apply(null, { length: 5 }).map((e, i) => (
+                    <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
+                  ))}
+                </Fragment>
+              }
+            </Fragment>
+          }
         </Container>
       </ThemeProvider>
     )
