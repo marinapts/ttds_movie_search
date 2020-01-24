@@ -32,11 +32,11 @@ def home():
 def testing():
     return 'Hey ttds team, routes seem to be working :)'
 
-def merge_lists(l1, l2, primary_key, secondary_key):
+def merge_lists(l1, l2, key):
     merged = l1
     for n, item1 in enumerate(l1):
         for item2 in l2:
-            if item1[secondary_key] == item2[secondary_key]:
+            if item1[key] == item2[key]:
                 merged[n].update(item2)
     return merged
 
@@ -54,30 +54,34 @@ def query_search():
         {
               'quote_id': 1,
               'full_quote': 'This is a quote 1',
+              'character_name': 'Character name 1',
               'movie_id': 'tt0111161'
         },
         {
               'quote_id': 2,
               'full_quote': 'This is a quote 2',
+              'character_name': 'Character name 2',
               'movie_id': 'tt0068646'
         },
         {
               'quote_id': 3,
               'full_quote': 'This is a quote 3',
+              'character_name': 'Character name 3',
               'movie_id': 'tt0468569'
         },
         {
               'quote_id': 4,
               'full_quote': 'This is a quote 4',
+              'character_name': 'Character name 4',
               'movie_id': 'tt0167260'
         },
         {
               'quote_id': 5,
               'full_quote': 'This is a quote 5',
+              'character_name': 'Character name 5',
               'movie_id': 'tt0167260'
         },
     ]
-
 
     #Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])
@@ -86,7 +90,7 @@ def query_search():
         dic_movie['movie_id'] = dic_movie.pop('id')
 
     #Merge Movie Details with Quotes
-    query_results = merge_lists(query_results, movies, 'quote_id', 'movie_id')
+    query_results = merge_lists(query_results, movies, 'movie_id')
 
     #return json.dumps({'movies': movies})
     return json.dumps({'movies': query_results})
