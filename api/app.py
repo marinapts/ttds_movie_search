@@ -78,7 +78,7 @@ def query_search():
         {
               'quote_id': 5,
               'full_quote': 'This is a quote 5',
-              'character_name': 'Character name 5',
+              'character_name': '',
               'movie_id': 'tt0167260'
         },
     ]
