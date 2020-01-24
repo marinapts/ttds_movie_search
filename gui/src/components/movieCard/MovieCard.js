@@ -41,9 +41,10 @@ export default class MovieCard extends React.Component {
       <CardActionArea onClick={this.viewMoreAction}>
         <div className="card-content">
           <CardContent>
+            <Typography variant="h5" component="h2">{this.props.full_quote}</Typography>
             <Typography variant="h5" component="h2">{this.props.title}</Typography>
             <Typography variant="body2" component="p">Rating: {this.props.rating}<br />Year: {this.props.year}</Typography>
-            <Typography variant="body2" component="p">Category: {this.props.categories.join(", ")}</Typography>
+            <Typography variant="body2" component="p">Category: {this.props.categories}</Typography>
           </CardContent>
           <CardActions>
             <Button variant="outlined" color="primary">viewMore</Button>

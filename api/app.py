@@ -32,6 +32,13 @@ def home():
 def testing():
     return 'Hey ttds team, routes seem to be working :)'
 
+def merge_lists(l1, l2, primary_key, secondary_key):
+    merged = l1
+    for n, item1 in enumerate(l1):
+        for item2 in l2:
+            if item1[secondary_key] == item2[secondary_key]:
+                merged[n].update(item2)
+    return merged
 
 @app.route('/query_search', methods=['POST'])
 def query_search():
@@ -62,7 +69,7 @@ def query_search():
         {
               'quote_id': 4,
               'full_quote': 'This is a quote 4',
-              'movie_id': 'tt0071562'
+              'movie_id': 'tt0167260'
         },
         {
               'quote_id': 5,
@@ -73,15 +80,16 @@ def query_search():
 
 
     #Get Movie Details for movie_ids
-    movie_ids = [dic['movie_id'] for dic in query_results]
+    movie_ids = ([dic['movie_id'] for dic in query_results])
     movies = db.get_movies_by_list_of_ids(movie_ids)
+    for dic_movie in movies:
+        dic_movie['movie_id'] = dic_movie.pop('id')
 
     #Merge Movie Details with Quotes
-    #for dic in query_results:
-    #    dic['movie_id']
+    query_results = merge_lists(query_results, movies, 'quote_id', 'movie_id')
 
-    return json.dumps({'movies': movies})
-
+    #return json.dumps({'movies': movies})
+    return json.dumps({'movies': query_results})
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
