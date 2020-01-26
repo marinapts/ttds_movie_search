@@ -102,10 +102,18 @@ class SrtIndexer:
     """
     file_name = os.path.splitext(os.path.basename(file_path))[0]
 
-    with codecs.open(file_path, mode="r", encoding="utf-8", errors='ignore') as f:
+    with codecs.open(file_path, mode="r", encoding="utf-8-sig", errors='ignore') as f:
       lines = f.readlines()
 
-    data = self.__reformat_sub_file(lines)
+    regex_numeric = '\d+\r*\n*'
+    pattern_numeric = re.compile(regex_numeric)
+
+    data = []
+    if not pattern_numeric.match(lines[0]):
+      data = self.__reformat_sub_file(lines)
+    else:
+      data = self.__reformat_srt_file(lines)
+
     print(data)
     #self.__find_quotes(data, quote_path)
     self.__save_to_db(data, file_name)
@@ -151,16 +159,30 @@ class SrtIndexer:
     lines = []
     regex_frame_sentence = "{(.*?)}.*}(.*)"
     regex_empty = '^\s*\r*\n*$'
+    regex_end_sentence = '.*(?<!\.{2})[.?!"]\n*\r*$'
 
     pattern_frame_sentence = re.compile(regex_frame_sentence)
     pattern_empty = re.compile(regex_empty)
+    pattern_end_sentence = re.compile(regex_end_sentence)
 
+    temp = ""
+    temp_time = None
     for line in raw_lines:
       if not pattern_empty.match(line):
-        frame, sentence = pattern_frame_sentence.match(line).groups()
-        time = int(frame) * 1000 / fps
-        sentence = sentence.replace('\n', '').replace('\r', '').replace('|', ' ')
-        lines.append([time, sentence])
+        match = pattern_frame_sentence.match(line)
+        if match is not None:
+          frame, sentence = match.groups()
+          temp += sentence.replace('\n', '').replace('\r', '').replace('|', ' ')
+          if temp_time == None:
+            temp_time = int(frame) * 1000 / fps
+          
+          if pattern_end_sentence.match(sentence):
+            temp = temp.strip()
+            if temp.startswith('-'):
+              temp = temp[1:]
+            lines.append([int(temp_time), temp])
+            temp = ""
+            temp_time = None
     
     return lines
 
@@ -253,7 +275,7 @@ class SrtIndexer:
       b = pickle.load(handle)
     return b
 
-ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/playground/")
+ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/subtitles/0/0/1")
 ab.enforce_reindex(True)
 ab.enableStopping(False)
 ab.build_index()
