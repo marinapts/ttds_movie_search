@@ -159,6 +159,16 @@ def filtering_title(query_results, filter_title):
             title_match.append(query_result)
     return title_match
 
+def filtering_years(query_results, filter_years):
+    years_match = []
+    print(filter_years)
+    filter_years = re.split('-', filter_years)
+    print(filter_years)
+    for query_result in query_results:
+        if int(query_result['year']) >= int(filter_years[0]) and int(query_result['year']) <= int(filter_years[1]):
+            years_match.append(query_result)
+    return years_match
+
 @app.route('/query_search', methods=['POST'])
 def query_search():
     """ Returns ranked query results for a given query. Additionally, returns sorted list of categories for filtering.
@@ -174,8 +184,10 @@ def query_search():
 
     #filter_title = query_params['filter_title']
     filter_title = ''
-    #filter_keywords = query_params['filter_title']
+    #filter_keywords = query_params['filter_keywords']
     filter_keywords = ''
+    #filter_years = query_params['filter_years']
+    filter_years = '1970-2010'
 
     #@TODO: Get search input 'query' and perform tokenisation etc 
     query = preprocess(query)
@@ -229,6 +241,9 @@ def query_search():
     #Filtering
     if filter_title != '':
         query_results = filtering_title(query_results, filter_title)
+
+    if filter_years != '':
+        query_results = filtering_years(query_results, filter_years)
 
     if filter_keywords != '':
         query_results = filtering_keywords(query_results, filter_keywords)
