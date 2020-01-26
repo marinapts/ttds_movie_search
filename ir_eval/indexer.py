@@ -105,7 +105,9 @@ class SrtIndexer:
     with codecs.open(file_path, mode="r", encoding="utf-8", errors='ignore') as f:
       lines = f.readlines()
 
-    data = self.__reformat_srt_file(lines)
+    data = self.__reformat_sub_file(lines)
+    print(data)
+    #self.__find_quotes(data, quote_path)
     self.__save_to_db(data, file_name)
     data = [preprocessing.preprocess(x[1], stemming=self.activate_stem, stop=self.activate_stop) for x in data]
     data = list(filter(None, data))
@@ -119,6 +121,7 @@ class SrtIndexer:
     regex_end_sentence = '.*(?<!\.{2})[.?!"]\n*\r*$'
     regex_numeric = '\d+\r*\n*'
     regex_empty = '^\s*\r*\n*$'
+    pattern_html = re.compile(r'<[^>]+>')
     pattern_time = re.compile(regex_string)
     pattern_end_sentence = re.compile(regex_end_sentence)
     pattern_numeric = re.compile(regex_numeric)
@@ -129,12 +132,13 @@ class SrtIndexer:
     for line in raw_lines:
       if pattern_time.match(line):
         time = line.split(' --> ')[0]
-        start_time = datetime.datetime.strptime(time, '%H:%M:%S,%f')
+        time_obj = datetime.datetime.strptime(time, '%H:%M:%S,%f')
         if temp_time == None:
-          temp_time = start_time.timestamp()
+          temp_time = int(time_obj.hour * 3600000 + time_obj.minute * 60000 + time_obj.second * 1000 + time_obj.microsecond/1000)
       elif not pattern_numeric.match(line) and not pattern_empty.match(line):
         temp += line.replace('\n', ' ').replace('\r', '').replace('...', '')
         if pattern_end_sentence.match(line):
+          temp = pattern_html.sub('', temp)
           temp = temp.strip()
           if temp.startswith('-'):
             temp = temp[1:]
@@ -143,8 +147,32 @@ class SrtIndexer:
           temp_time = None
     return lines
 
+  def __reformat_sub_file(self, raw_lines, fps=24.0):
+    lines = []
+    regex_frame_sentence = "{(.*?)}.*}(.*)"
+    regex_empty = '^\s*\r*\n*$'
+
+    pattern_frame_sentence = re.compile(regex_frame_sentence)
+    pattern_empty = re.compile(regex_empty)
+
+    for line in raw_lines:
+      if not pattern_empty.match(line):
+        frame, sentence = pattern_frame_sentence.match(line).groups()
+        time = int(frame) * 1000 / fps
+        sentence = sentence.replace('\n', '').replace('\r', '').replace('|', ' ')
+        lines.append([time, sentence])
+    
+    return lines
+
+  def __find_quotes(self, data, quote_path):
+    quote = Quotes(quote_path)
+    for sent in data:
+      sent.append(quote.find_character_name(sent[1]))
+    #print(data)
+
   def __save_to_db(self, data, title):
     a = 0
+    #pprint.pprint(data)
     #for line_number, sentence in enumerate(data, start=1):
       #print(str(line_number) + ' ' + sentence[1])
 
@@ -225,10 +253,10 @@ class SrtIndexer:
       b = pickle.load(handle)
     return b
 
-#ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/subtitles/")
-#ab.enforce_reindex(True)
-#ab.enableStopping(True)
-#ab.build_index()
+ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/playground/")
+ab.enforce_reindex(True)
+ab.enableStopping(False)
+ab.build_index()
 #pprint.pprint(ab.get_inverted_index())
 
 #cd = Quotes('/Users/oguz/Documents/ttds_movie_search/ir_eval/data/quotes/0/0/7/tt0073582.txt')
