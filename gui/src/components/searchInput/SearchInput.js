@@ -26,11 +26,12 @@ export default class SearchInput extends Component {
   }
 
   setSearchInput = (event) => {
-    this.setState({ query: event.target.text }, this.querySearch);
+    this.setState({ query: event.target.text }, this.querySearch)
   }
 
-  querySearch = async () => {
-    const { query } = this.state;
+  querySearch = async (e) => {
+    e && e.preventDefault()
+    const { query } = this.state
 
     if (query.length > 0) {
       try {
@@ -50,7 +51,7 @@ export default class SearchInput extends Component {
 
     return (
       <Grid item xs={8}>
-        <form className="search-container" noValidate autoComplete="off">
+        <form className="search-container" noValidate autoComplete="off" onSubmit={this.querySearch}>
           <div className="search-input">
             <TextField
               id="outlined-basic"
@@ -65,7 +66,7 @@ export default class SearchInput extends Component {
             className="search-button"
             variant="outlined"
             color="primary"
-            onClick={this.querySearch}
+            type="submit"
           >Search</Button>
         </form>
         {showExamples &&
