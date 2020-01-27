@@ -6,7 +6,6 @@ import './detailsCard.scss'
 
 export default class DetailsCard extends Component {
   render() {
-    console.log(this.props)
     const { details } = this.props
 
     let cast = []
@@ -47,5 +46,5 @@ export default class DetailsCard extends Component {
 }
 
 DetailsCard.propTypes = {
-  movies: PropTypes.array.isRequired
+  details: PropTypes.object.isRequired
 }

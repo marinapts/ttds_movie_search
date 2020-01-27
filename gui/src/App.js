@@ -32,14 +32,16 @@ export default class App extends Component {
   }
 
   getMoviesForQuery = data => {
+    console.log(data)
     this.setState({
       showCards: true,
-      movies: data.movies
+      movies: data.movies,
+      genres: data.category_list
     })
   }
 
   render() {
-    const { showCards, movies } = this.state
+    const { showCards, movies, genres } = this.state
 
     return (
       <ThemeProvider theme={darkTheme}>
@@ -51,7 +53,7 @@ export default class App extends Component {
           {showCards &&
             <Fragment>
               {movies.length > 0 ?
-                <MoviesContainer data={movies} /> :
+                <MoviesContainer data={movies} genres={genres} /> :
                 <Fragment>
                   {Array.apply(null, { length: 5 }).map((e, i) => (
                     <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
