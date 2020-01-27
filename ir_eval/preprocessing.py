@@ -22,10 +22,10 @@ def tokenize(string_line):
     ''' This function tokenizes the string of text and removes all non alpha-numeric characters
     it takes a string of text as an argument
     it returns a list of all individual words after tokenizing and removing all non alpha-numeric characters'''    
-    #return re.findall('[a-zA-Z0-9]+', string.lower())
-    #return word_tokenize(string)
-    tokens = tweetTokenizer.tokenize(string_line)
-    return list(filter(None, [s.translate(str.maketrans('','',string.punctuation)) for s in tokens]))
+    #return re.findall('[a-zA-Z0-9]+', string_line.lower())
+    return word_tokenize(string_line)
+    #tokens = tweetTokenizer.tokenize(string_line)
+    #return list(filter(None, [s.translate(str.maketrans('','',string.punctuation)) for s in tokens]))
 
 def stem(tokens):
     '''This function takes a list of tokens as an argument
