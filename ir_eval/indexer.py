@@ -93,7 +93,7 @@ class SrtIndexer:
       for element, quote_path in self.__iterate_files():
           if (element.endswith('.srt')):
             self.__index_single_file(element, quote_path)
-      self.__pickle_write(self.inverted_index, old_path)
+      #self.__pickle_write(self.inverted_index, old_path)
       if json:
         self.__json_write(self.inverted_index, old_path.replace('.pickle', '.json'))
 
@@ -117,12 +117,12 @@ class SrtIndexer:
     else:
       data = self.__reformat_srt_file(lines)
 
-    print(data)
+    #print(data)
     #self.__find_quotes(data, quote_path)
     database_functions.update_db(data, file_name)
-    data = [preprocessing.preprocess(x[1], stemming=self.activate_stem, stop=self.activate_stop) for x in data]
-    data = list(filter(None, data))
-    self.__update_inverted_index(data, file_name)
+    #data = [preprocessing.preprocess(x[1], stemming=self.activate_stem, stop=self.activate_stop) for x in data]
+    #data = list(filter(None, data))
+    #self.__update_inverted_index(data, file_name)
     #String[] words = str.split("\s\n+");
 
   def __reformat_srt_file(self, raw_lines):
@@ -141,8 +141,6 @@ class SrtIndexer:
     temp_time = None
     dquote = False
     for line in raw_lines:
-      if '-->' in line and not pattern_time.match(line):
-        pprint.pprint(line)
       if pattern_time.match(line):
         time = line.split(' --> ')[0]
         time_obj = datetime.datetime.strptime(time, '%H:%M:%S,%f')
@@ -150,8 +148,10 @@ class SrtIndexer:
           temp_time = int(time_obj.hour * 3600000 + time_obj.minute * 60000 + time_obj.second * 1000 + time_obj.microsecond/1000)
       elif not pattern_numeric.match(line) and not pattern_empty.match(line):
         temp += line.replace('\n', ' ').replace('\r', '').replace('...', '')
-        if line.count("\"") & 1:
+
+        if line.count("\"") & 1: # if odd number of double quote used, dquote is inversed.
           dquote = not dquote
+          
         if pattern_end_sentence.match(line) and not dquote:
           temp = pattern_html.sub('', temp)
           temp = temp.strip()
@@ -185,8 +185,8 @@ class SrtIndexer:
           if temp_time == None:
             temp_time = int(frame) * 1000 / fps
 
-          if line.count("\"") & 1:
-            quote = not dquote
+          if line.count("\"") & 1: # if odd number of double quote used, dquote is inversed.
+            dquote = not dquote
           if pattern_end_sentence.match(sentence) and not dquote:
             temp = temp.strip()
             if temp.startswith('-'):
@@ -269,7 +269,7 @@ class SrtIndexer:
 ab = SrtIndexer("/Users/oguz/Documents/ttds_movie_search/ir_eval/data/subtitles/0/0/1")
 ab.enforce_reindex(True)
 ab.enableStopping(False)
-ab.build_index(json=True)
+ab.build_index(json=False)
 #pprint.pprint(ab.get_inverted_index())
 
 #cd = Quotes('/Users/oguz/Documents/ttds_movie_search/ir_eval/data/quotes/0/0/7/tt0073582.txt')
