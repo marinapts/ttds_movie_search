@@ -1,12 +1,12 @@
-import React from 'react'
+import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Grid from '@material-ui/core/Grid'
-import { TextField, Button } from '@material-ui/core'
+import { TextField, Button, Link, Typography } from '@material-ui/core'
 import API from '../../utils/API'
 
 import './searchInput.scss'
 
-export default class SearchInput extends React.Component {
+export default class SearchInput extends Component {
   constructor(props) {
     super(props)
 
@@ -68,14 +68,19 @@ export default class SearchInput extends React.Component {
             onClick={this.querySearch}
           >Search</Button>
         </form>
-        <div>
-         {showExamples &&
-          <h6>Try <a onClick={this.setSearchInput}> I can do this all day </a>
-           or 
-          <a onClick={this.setSearchInput}> Following's not really my style</a>
-          </h6>
-         }
-        </div>
+        {showExamples &&
+          <Typography variant="h6" color="primary">
+            <span>
+              Try <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
+                I can do this all day
+              </Link>
+            </span>
+            <span> or <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
+                Following's not really my style
+              </Link>
+            </span>
+          </Typography>
+        }
         {showErrorMsg &&
           <h6 className="error-container">
             Error: API not running. Go to ttds_movie_search/api and run ./run.sh
