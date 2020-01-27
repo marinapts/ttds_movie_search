@@ -25,9 +25,9 @@ export default class MovieCard extends React.Component {
               <CardContent>
                 <Typography variant="h5">{full_quote}</Typography>
                 <Typography variant="h6">{title}</Typography>
+                <br/>
                 <Typography variant="body2">Character: {character_name}</Typography>
                 <Typography variant="body2">Category: {categories.join(', ')}</Typography>
-                <Typography variant="body2">Keywords: <i>{keywords.join(', ')}</i></Typography>
               </CardContent>
             </div>
           </CardActionArea>
