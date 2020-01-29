@@ -1,10 +1,11 @@
 from flask import Flask, request
 from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
-from db.DB import get_db_instance
+from db.DB import get_db_instance, get_db_instance_ShelveDB
 import json
 from preprocessing_api import preprocess
 import re
+from db.DBInterface import DBInterface
 
 app = Flask(__name__)
 CORS(app)
@@ -21,6 +22,7 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 )
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
+shelvedb = get_db_instance_ShelveDB()
 db = get_db_instance()
 
 
@@ -31,79 +33,7 @@ def home():
 
 @app.route('/test')
 def testing():
-
-    filter_title = ''
-    filter_keywords = 'mafia'
-
-    #@TODO: Get quotes, quote_ids and movie_ids for the given query
-    query_results = [
-        {
-              'quote_id': 1,
-              'full_quote': 'This is a quote 1',
-              'character_name': 'Character name 1',
-              'movie_id': 'tt0111161'
-        },
-        {
-              'quote_id': 2,
-              'full_quote': 'This is a quote 2',
-              'character_name': 'Character name 2',
-              'movie_id': 'tt0068646'
-        },
-        {
-              'quote_id': 3,
-              'full_quote': 'This is a quote 3',
-              'character_name': 'Character name 3',
-              'movie_id': 'tt0468569'
-        },
-        {
-              'quote_id': 4,
-              'full_quote': 'This is a quote 4',
-              'character_name': 'Character name 4',
-              'movie_id': 'tt0167260'
-        },
-        {
-              'quote_id': 5,
-              'full_quote': 'This is a quote 5',
-              'character_name': '',
-              'movie_id': 'tt0167260'
-        },
-    ]
-
-    #Get Movie Details for movie_ids
-    movie_ids = ([dic['movie_id'] for dic in query_results])
-    movies = db.get_movies_by_list_of_ids(movie_ids)
-    for dic_movie in movies:
-        dic_movie['movie_id'] = dic_movie.pop('id')
-
-    #Merge Movie Details with Quotes
-    query_results = merge_lists(query_results, movies, 'movie_id')
-
-    #Create sorted list of all returned categories
-    category_list = find_categories(query_results)
-
-    #Filtering
-    if filter_title != '':
-        title_match = []
-        for query_result in query_results:
-            if query_result['title'] == filter_title:
-                title_match.append(query_result)
-        query_results = title_match
-
-    if filter_keywords != '':
-        with_keywords = []
-        without_keywords = []
-        filter_keywords = re.split(',', filter_keywords)
-        for query_result in query_results:
-            if any(i in filter_keywords for i in query_result['plotKeywords']):
-                with_keywords.append(query_result)
-            else:
-                without_keywords.append(query_result)
-        with_keywords.append(without_keywords)
-        query_results = with_keywords
-
-    return json.dumps({'movies': query_results, 'category_list': category_list})
-
-    #return 'Hey ttds team, routes seem to be working :)'
+    return 'Hey ttds team, routes seem to be working :)'
 
 def merge_lists(l1, l2, key):
     """ Updates one list with the matching information of the other, using the 'key' parameter.
@@ -189,48 +119,28 @@ def query_search():
     #filter_years = query_params['filter_years']
     filter_years = '1970-2010'
 
-    #@TODO: Get search input 'query' and perform tokenisation etc 
+    #Get search input 'query' and perform tokenisation etc 
     query = preprocess(query)
 
-    #@TODO: Get quotes, quote_ids and movie_ids for the given query
-    query_results = [
-        {
-              'quote_id': 1,
-              'full_quote': 'This is a quote 1',
-              'character_name': 'Character name 1',
-              'movie_id': 'tt0111161'
-        },
-        {
-              'quote_id': 2,
-              'full_quote': 'This is a quote 2',
-              'character_name': 'Character name 2',
-              'movie_id': 'tt0068646'
-        },
-        {
-              'quote_id': 3,
-              'full_quote': 'This is a quote 3',
-              'character_name': 'Character name 3',
-              'movie_id': 'tt0468569'
-        },
-        {
-              'quote_id': 4,
-              'full_quote': 'This is a quote 4',
-              'character_name': 'Character name 4',
-              'movie_id': 'tt0167260'
-        },
-        {
-              'quote_id': 5,
-              'full_quote': 'This is a quote 5',
-              'character_name': '',
-              'movie_id': 'tt0167260'
-        },
-    ]
+    #@Todo: send query to ranking function and receive quote ids
+
+    #Get quotes, quote_ids and movie_ids for the given query
+    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1', 
+                                                        'tt0468569_2', 
+                                                        'tt0111161_1', 
+                                                        'tt0068646_2', 
+                                                        'tt0468569_1',
+                                                        'tt0167260_2'])
+    for dic_sentence in query_results:
+        dic_sentence['quote_id'] = dic_sentence.pop('_id')
+        dic_sentence['full_quote'] = dic_sentence.pop('sentence')
 
     #Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])
-    movies = db.get_movies_by_list_of_ids(movie_ids)
+    movies = shelvedb.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
-        dic_movie['movie_id'] = dic_movie.pop('id')
+        if dic_movie != None:
+            dic_movie['movie_id'] = dic_movie.pop('id')
 
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
@@ -253,4 +163,5 @@ def query_search():
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
+
 
