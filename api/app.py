@@ -129,7 +129,7 @@ def query_search():
                                                         'tt0468569_2', 
                                                         'tt0111161_1', 
                                                         'tt0068646_2', 
-                                                        'tt0468569_1',
+                                                        'tt0468569_3',
                                                         'tt0167260_2'])
     for dic_sentence in query_results:
         dic_sentence['quote_id'] = dic_sentence.pop('_id')
