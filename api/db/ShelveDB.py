@@ -16,6 +16,9 @@ class ShelveDB(DBInterface):
         self.d = shelve.open(DB_PATH, flag='r')
         atexit.register(self.d.close)
 
+    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+        return NotImplementedError()
+
     def get_movies_by_list_of_ids(self, ids: List[str]):
         return [self.d.get(id) for id in ids]
 
