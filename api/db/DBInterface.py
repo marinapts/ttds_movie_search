@@ -30,3 +30,19 @@ class DBInterface(ABC):
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
         raise NotImplementedError()
+
+
+class IndexDBInterface(ABC):
+    def __init__(self):
+        # Some initialisation can be done here in an implementing class
+        pass
+
+    @abstractmethod
+    def get_index_by_term(self, term: str):
+        # Given a term, return inverted index for that term
+        raise NotImplementedError()
+
+    @abstractmethod
+    def add_index_for_term(self, term: str, index):
+        # Add the index for a term to DB
+        raise NotImplementedError()
