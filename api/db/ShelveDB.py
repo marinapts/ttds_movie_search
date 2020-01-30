@@ -9,6 +9,7 @@ class ShelveDB(DBInterface):
     d = None
 
     def __init__(self):
+        super().__init__()
         # Initialise dbm if it does not exist yet
         c = shelve.open(DB_PATH, flag='c')
         c.close()
@@ -17,7 +18,10 @@ class ShelveDB(DBInterface):
         atexit.register(self.d.close)
 
     def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
-        return NotImplementedError()
+        raise NotImplementedError()
+
+    def get_quotes_by_movie_id(self, movie_id: str):
+        raise NotImplementedError()
 
     def get_movies_by_list_of_ids(self, ids: List[str]):
         return [self.d.get(id) for id in ids]

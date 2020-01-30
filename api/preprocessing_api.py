@@ -1,3 +1,4 @@
+from typing import List
 import re
 import sys
 import os
@@ -34,7 +35,7 @@ def stem(tokens):
     return [ps.stem(token) for token in tokens]
 
 
-def preprocess(string, stemming=True, stop=True):
+def preprocess(string: str, stemming=True, stop=True) -> List[str]:
     '''This functioon takes a string of text as an argument, calls the "tokenize" function,
     removes the stop words, then calls the "stem" function to stem the filtered text
     it returns a list of all the preprocessed tokens '''
