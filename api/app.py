@@ -1,11 +1,10 @@
 from flask import Flask, request
 from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
-from db.DB import get_db_instance, get_db_instance_ShelveDB
+from db.DB import get_db_instance
 import json
 from preprocessing_api import preprocess
 import re
-from db.DBInterface import DBInterface
 
 app = Flask(__name__)
 CORS(app)
@@ -22,7 +21,6 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 )
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
-shelvedb = get_db_instance_ShelveDB()
 db = get_db_instance()
 
 
@@ -91,11 +89,12 @@ def filtering_title(query_results, filter_title):
 
 def filtering_years(query_results, filter_years):
     years_match = []
-    print(filter_years)
     filter_years = re.split('-', filter_years)
-    print(filter_years)
     for query_result in query_results:
-        if int(query_result['year']) >= int(filter_years[0]) and int(query_result['year']) <= int(filter_years[1]):
+        # Some iMDb entries have no 'year' attribute. This will prevent crashes:
+        if 'year' not in query_result:  # assume it matches the filter
+            years_match.append(query_result)
+        elif int(query_result['year']) >= int(filter_years[0]) and int(query_result['year']) <= int(filter_years[1]):
             years_match.append(query_result)
     return years_match
 
@@ -137,10 +136,10 @@ def query_search():
 
     #Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])
-    movies = shelvedb.get_movies_by_list_of_ids(movie_ids)
+    movies = db.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
-        if dic_movie != None:
-            dic_movie['movie_id'] = dic_movie.pop('id')
+        if dic_movie is not None:
+            dic_movie['movie_id'] = dic_movie.pop('_id')
 
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')

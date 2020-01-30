@@ -19,11 +19,17 @@
                 "schema": {
                   "type": "object",
                   "properties": {
-                    "ids": {
-                      "type": "array",
-                      "items": {
-                        "type": "string"
-                      }
+                    "query": {
+                      "type": "string"
+                    },
+                    "filter_title": {
+                      "type": "string"
+                    },
+                    "filter_keywords": {
+                      "type": "string"
+                    },
+                    "filter_years": {
+                      "type": "string"
                     }
                   }
                 }
@@ -36,15 +42,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "movies": {
-                      "type": "array",
-                      "items": {
-                        "$ref": "#/components/schemas/movies"
-                      }
-                    }
-                  }
+                  "$ref": "#/components/schemas/query_search_response"
                 }
               }
             }
@@ -58,7 +56,61 @@
       "movie": {
         "type": "object",
         "properties": {
-          "id": {
+          "_id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "year": {
+            "type": "number",
+            "format": "integer"
+          },
+          "rating": {
+            "type": "number",
+            "format": "float"
+          },
+          "countOfRatings": {
+            "type": "number",
+            "format": "integer"
+          },
+          "categories": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "thumbnail": {
+            "type": "string"
+          },
+          "cast": {
+            "$ref": "#/components/schemas/cast_info"
+          },
+          "plotKeywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "movie_quote_combined": {
+        "type": "object",
+        "properties": {
+          "movie_id": {
+            "type": "string"
+          },
+          "quote_id": {
+            "type": "string"
+          },
+          "time_ms": {
+            "type": "number",
+            "format": "integer"
+          },
+          "full_quote": {
             "type": "string"
           },
           "title": {
@@ -105,10 +157,35 @@
           "$ref": "#/components/schemas/movie"
         }
       },
-      "cast_info": {
+      "query_search_response": {
         "type": "object",
         "properties": {
-
+          "movies": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/movie_quote_combined"
+            }
+          },
+          "category_list": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "cast_info": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "actor": {
+              "type": "string"
+            },
+            "character": {
+              "type": "string"
+            }
+          }
         }
       }
     }

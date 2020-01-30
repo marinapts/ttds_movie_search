@@ -11,6 +11,12 @@ class DBInterface(ABC):
 
     @abstractmethod
     def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+        # Given a list of quote ids, return a list of quote dictionaries
+        raise NotImplementedError()
+
+    @abstractmethod
+    def get_quotes_by_movie_id(self, movie_id: str):
+        # Given a movie id, returns a list of all sentences in that movie
         raise NotImplementedError()
 
     @abstractmethod
