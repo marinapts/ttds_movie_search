@@ -35,7 +35,7 @@ def testing():
 
 def merge_lists(l1, l2, key):
     """ Updates one list with the matching information of the other, using the 'key' parameter.
-        Input: 
+        Input:
             l1, list to be updated
             l2, list with additional information
             key, matching key between two lists
@@ -53,7 +53,7 @@ def find_categories(results_dict):
     """ Finds categories of retrieved movies and sorts them by frequency
         Input:
             results_dict, results dictionary
-        Output: 
+        Output:
             list of categories
     """
     category_dict = {}
@@ -101,9 +101,9 @@ def filtering_years(query_results, filter_years):
 @app.route('/query_search', methods=['POST'])
 def query_search():
     """ Returns ranked query results for a given query. Additionally, returns sorted list of categories for filtering.
-        Input: 
+        Input:
             query
-        Output: 
+        Output:
             'movies', query results
             'category list', list of categories
     """
@@ -118,16 +118,16 @@ def query_search():
     #filter_years = query_params['filter_years']
     filter_years = '1970-2010'
 
-    #Get search input 'query' and perform tokenisation etc 
+    #Get search input 'query' and perform tokenisation etc
     query = preprocess(query)
 
     #@Todo: send query to ranking function and receive quote ids
 
     #Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1', 
-                                                        'tt0468569_2', 
-                                                        'tt0111161_1', 
-                                                        'tt0068646_2', 
+    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1',
+                                                        'tt0468569_2',
+                                                        'tt0111161_1',
+                                                        'tt0068646_2',
                                                         'tt0468569_3',
                                                         'tt0167260_2'])
     for dic_sentence in query_results:
