@@ -1,0 +1,16 @@
+.adv-search {
+  width: 65%;
+  margin-bottom: 30px;
+
+  .adv-search-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+    &.adv-search-item {
+      min-width: 100%;
+    }
+  }
+}
+

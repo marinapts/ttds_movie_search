@@ -22,13 +22,16 @@
                     "query": {
                       "type": "string"
                     },
-                    "filter_title": {
+                    "movie_title": {
                       "type": "string"
                     },
-                    "filter_keywords": {
+                    "actor": {
                       "type": "string"
                     },
-                    "filter_years": {
+                    "keywords": {
+                      "type": "string"
+                    },
+                    "year": {
                       "type": "string"
                     }
                   }
