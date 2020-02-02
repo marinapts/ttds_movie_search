@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Grid, Zoom, Typography } from '@material-ui/core'
+import Pagination from 'material-ui-flat-pagination'
 
 import MovieCard from '../movieCard/MovieCard'
 import DetailsCard from '../detailsCard/DetailsCard'
@@ -15,7 +16,9 @@ export default class MoviesContainer extends React.Component {
     this.state = {
       data: [],
       showDetails: false,
-      quoteId: null
+      quoteId: null,
+      offset: 0,
+      perPage: 3
     }
   }
 
@@ -39,8 +42,12 @@ export default class MoviesContainer extends React.Component {
     this.setState({ showDetails: true, quoteId })
   }
 
+  handleClick = (offset) => {
+    this.setState({ offset })
+  }
+
   render() {
-    const { showDetails, quoteId, data } = this.state
+    const { showDetails, quoteId, data, offset, perPage } = this.state
     const { genres } = this.props
 
     return(
@@ -51,7 +58,9 @@ export default class MoviesContainer extends React.Component {
           <Grid item xs={8}>
             <Typography variant="h6" color="primary">{`Query results: ${data.length} movies`}</Typography>
 
-            {data.map((movie, idx) => <MovieCard key={idx} {...movie} viewDetails={this.viewDetailsCard} /> )}
+            {data.slice(offset, offset + perPage).map((movie, idx) =>
+              <MovieCard key={idx} viewDetails={this.viewDetailsCard} {...movie} />
+            )}
           </Grid>
 
           <Grid item xs={4}>
@@ -60,6 +69,12 @@ export default class MoviesContainer extends React.Component {
             </Zoom>
           </Grid>
         </Grid>
+        <Pagination
+          limit={perPage}
+          offset={offset}
+          total={data.length}
+          onClick={(e, offset) => this.handleClick(offset)}
+        />
       </div>
     )
   }
