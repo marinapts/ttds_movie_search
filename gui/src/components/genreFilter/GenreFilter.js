@@ -51,6 +51,7 @@ export default class GenreFilter extends Component {
       {
         genres.map((genre, value) =>
           <GenreButton
+            key={genre}
             genre={genre}
             variant={this.state.variants[genre]}
             filterByGenre={this.filterByGenre}

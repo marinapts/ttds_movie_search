@@ -8,14 +8,6 @@ export default class DetailsCard extends Component {
   render() {
     const { details } = this.props
 
-    let cast = []
-    if (details && details.cast) {
-      cast = Object.entries(details.cast)
-      if (cast.length > 10) {
-        cast = cast.slice(0, 10)
-      }
-    }
-
     return(
       <div {...this.props} className="details-card">
         <Card raised className="card-container">
@@ -29,8 +21,8 @@ export default class DetailsCard extends Component {
                   <Typography variant="body1" gutterBottom><b>Rating:</b> {details.rating}</Typography>
                   <Typography variant="h5">Cast</Typography>
                   {
-                    cast.map(([actor, character]) =>
-                      <Typography variant="body1">{actor} as <i>{character}</i></Typography>
+                    details.cast.map((item) =>
+                      <Typography key={item.actor} variant="body1">{item.actor} as <i>{item.character}</i></Typography>
                     )
                   }
                   <Typography variant="body1" gutterBottom></Typography>
