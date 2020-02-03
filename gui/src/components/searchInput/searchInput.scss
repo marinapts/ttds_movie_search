@@ -1,25 +1,31 @@
-.search-container {
+.search-form {
   display: flex;
   align-items: row;
   justify-content: space-between;
+  margin-bottom: 20px;
 
   .search-input {
-    width: 83%;
+    width: 65%;
   }
 
   .search-button {
-    width: 15%;
+    width: 10%;
   }
 
-  .error-container {
-    color: red;
+  .advanced-search-button {
+    width: 20%;
   }
 
-  h6 {
-   color: white;
-  }
+}
 
-  a {
-    cursor: pointer;
-  }
+.error-container {
+  color: red;
+}
+
+h6, span {
+ color: white;
+}
+
+a {
+  cursor: pointer;
 }

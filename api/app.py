@@ -35,7 +35,7 @@ def testing():
 
 def merge_lists(l1, l2, key):
     """ Updates one list with the matching information of the other, using the 'key' parameter.
-        Input: 
+        Input:
             l1, list to be updated
             l2, list with additional information
             key, matching key between two lists
@@ -53,7 +53,7 @@ def find_categories(results_dict):
     """ Finds categories of retrieved movies and sorts them by frequency
         Input:
             results_dict, results dictionary
-        Output: 
+        Output:
             list of categories
     """
     category_dict = {}
@@ -101,9 +101,9 @@ def filtering_years(query_results, filter_years):
 @app.route('/query_search', methods=['POST'])
 def query_search():
     """ Returns ranked query results for a given query. Additionally, returns sorted list of categories for filtering.
-        Input: 
+        Input:
             query
-        Output: 
+        Output:
             'movies', query results
             'category list', list of categories
     """
@@ -111,23 +111,26 @@ def query_search():
 
     query = query_params['query']
 
-    #filter_title = query_params['filter_title']
-    filter_title = ''
-    #filter_keywords = query_params['filter_keywords']
-    filter_keywords = ''
-    #filter_years = query_params['filter_years']
-    filter_years = '1970-2010'
+    filter_title = query_params['movie_title']
+    #filter_title = ''
+    filter_actor = query_params['actor']
+    #filter_actor = ''
+    filter_keywords = query_params['keywords']
+    #filter_keywords = ''
+    filter_years = query_params['year']
 
-    #Get search input 'query' and perform tokenisation etc 
+    #filter_years = '1970-2010'
+
+    # Get search input 'query' and perform tokenisation etc
     query = preprocess(query)
 
-    #@Todo: send query to ranking function and receive quote ids
+    # @Todo: send query to ranking function and receive quote ids
 
-    #Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1', 
-                                                        'tt0468569_2', 
-                                                        'tt0111161_1', 
-                                                        'tt0068646_2', 
+    # Get quotes, quote_ids and movie_ids for the given query
+    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1',
+                                                        'tt0468569_2',
+                                                        'tt0111161_1',
+                                                        'tt0068646_2',
                                                         'tt0468569_3',
                                                         'tt0167260_2'])
     for dic_sentence in query_results:
@@ -144,12 +147,11 @@ def query_search():
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
 
-    #Create sorted list of all returned categories
-    category_list = find_categories(query_results)
-
     #Filtering
     if filter_title != '':
         query_results = filtering_title(query_results, filter_title)
+
+    # @TODO: Function to filter by actors
 
     if filter_years != '':
         query_results = filtering_years(query_results, filter_years)
@@ -157,6 +159,8 @@ def query_search():
     if filter_keywords != '':
         query_results = filtering_keywords(query_results, filter_keywords)
 
+    #Create sorted list of all returned categories
+    category_list = find_categories(query_results)
 
     return json.dumps({'movies': query_results, 'category_list': category_list})
 

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import Grid from '@material-ui/core/Grid'
-import { TextField, Button, Link, Typography } from '@material-ui/core'
+import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography } from '@material-ui/core'
 import API from '../../utils/API'
+import AdvancedSearch from '../advancedSearch/AdvancedSearch'
 
 import './searchInput.scss'
 
@@ -12,8 +12,13 @@ export default class SearchInput extends Component {
 
     this.state = {
       query: '',
+      movieTitle: '',
+      actor: '',
+      year: '',
+      keywords: '',
       showErrorMsg: false,
-      showExamples: true
+      showExamples: true,
+      enableAdvancedSearch: false
     }
   }
 
@@ -29,13 +34,18 @@ export default class SearchInput extends Component {
     this.setState({ query: event.target.text }, this.querySearch)
   }
 
+  toggleAdvancedSearch = () => this.setState({ enableAdvancedSearch: !this.state.enableAdvancedSearch })
+
+  onAdvancedSearchChange = (field, value) => this.setState({ [field]: value })
+
   querySearch = async (e) => {
     e && e.preventDefault()
-    const { query } = this.state
+    const { query, movieTitle, actor, year, keywords } = this.state
+    console.log(query, movieTitle, actor, year, keywords)
 
     if (query.length > 0) {
       try {
-        const response = await API.post('/query_search', { query })
+        const response = await API.post('/query_search', { query, movie_title: movieTitle, actor, year, keywords })
         this.props.getMoviesForQuery(response.data)
         this.setState({ showErrorMsg: false, showExamples: false })
       } catch (error) {
@@ -47,33 +57,57 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    const { showErrorMsg, showExamples } = this.state
+    const { showErrorMsg, showExamples, enableAdvancedSearch, movieTitle, actor, year, keywords } = this.state
+    const advancedSearchData = { movieTitle, actor, year, keywords }
 
     return (
-      <Grid item xs={8}>
-        <form className="search-container" noValidate autoComplete="off" onSubmit={this.querySearch}>
-          <div className="search-input">
-            <TextField
-              id="outlined-basic"
-              label="Search for a movie quote..."
+      <Grid item xs={12}>
+        <form noValidate autoComplete="off" onSubmit={this.querySearch}>
+          <div className="search-form">
+            <div className="search-input">
+              <TextField
+                id="outlined-basic"
+                label="Search for a movie quote..."
+                variant="outlined"
+                fullWidth
+                onChange={this.onSearchChange}
+                value = {this.state.query}
+              />
+            </div>
+            <Button
+              className="search-button"
               variant="outlined"
-              fullWidth
-              onChange={this.onSearchChange}
-              value = {this.state.query}
+              color="primary"
+              type="submit"
+            >Search</Button>
+
+            <FormControlLabel
+              className="advanced-search-button"
+              control={
+                <Switch
+                  checked={enableAdvancedSearch}
+                  onChange={this.toggleAdvancedSearch}
+                  value="checkedB"
+                  color="primary"
+                />
+              }
+              label="Advanced Search"
             />
           </div>
-          <Button
-            className="search-button"
-            variant="outlined"
-            color="primary"
-            type="submit"
-          >Search</Button>
+
+          <AdvancedSearch
+            enableAdvancedSearch={enableAdvancedSearch}
+            data={advancedSearchData}
+            onAdvancedSearchChange={this.onAdvancedSearchChange}
+          />
         </form>
+
+
         {showExamples &&
           <Typography variant="h6" color="primary">
             <span>
               Try <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
-                I can do this all day
+                I see dead people
               </Link>
             </span>
             <span> or <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
