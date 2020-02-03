@@ -3,6 +3,7 @@ import pickle
 import numpy as np
 import sys
 import time
+from tqdm import tqdm
 
 def json_load(path):
     """ It loads and returns a json data in dictionary structure.
@@ -39,17 +40,23 @@ def create_term_doc_collection(inverted_index, doc_nums):
     """
     words = list(inverted_index.keys())
     collection_dict = dict()
+    print('create boolean matrix')
+    print(len(words), len(doc_nums))
     boolean_matrix = np.zeros((len(words), len(doc_nums)), dtype=np.bool)
+    with open('boolean_matrix.pickle', 'wb') as handle:
+    	pickle.dump(boolean_matrix, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
+    print('created boolean matrix', np.shape(boolean_matrix))
     # Create a mapping of document numbers to continuous indices from 0 to len(doc_nums)-1
     doc_num_dict = {}
     for ind, doc_num in enumerate(doc_nums):
         doc_num_dict[doc_num] = ind
-
-    for i, word in enumerate(words):
+    print('created doc num dict')
+    print('total length:', len(words))
+    for i, word in tqdm(enumerate(words)):
         docs_for_specific_word = list(inverted_index[word].keys())
 
-        for index, doc_num in enumerate(docs_for_specific_word):
+        for index, doc_num in tqdm(enumerate(docs_for_specific_word)):
             if doc_num in list(doc_num_dict.keys()):
                 doc_id = doc_num_dict[doc_num]
                 boolean_matrix[i][int(doc_id)] = True
@@ -61,14 +68,18 @@ def create_term_doc_collection(inverted_index, doc_nums):
 
 t0 = time.time()
 
-inverted_index = json_load('inverted_index_file/inverted_index.json')
-print('create small index')
-create_small_index()
-with open('inverted_index_small.pickle', 'rb') as handle:
-	inverted_index = pickle.load(handle)
+inverted_index = json_load('inverted_index_files/inverted_index.json')
+#print('create small index')
+#create_small_index()
+#with open('inverted_index_small.pickle', 'rb') as handle:
+#	inverted_index = pickle.load(handle)
 
 print(' create doc nums')
-doc_nums = [list(inverted_index[word].keys())[0] for word in inverted_index.keys()]
+doc_nums = []
+for word in inverted_index.keys():
+	doc_nums.extend(list(inverted_index[word].keys()))
+print(len(doc_nums))
+
 #doc_nums = doc_nums[0:3000]
 
 print('start collection matrix')
