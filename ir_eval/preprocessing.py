@@ -23,9 +23,9 @@ def tokenize(string_line):
     it takes a string of text as an argument
     it returns a list of all individual words after tokenizing and removing all non alpha-numeric characters'''    
     #return re.findall('[a-zA-Z0-9]+', string_line.lower())
-    return word_tokenize(string_line)
-    #tokens = tweetTokenizer.tokenize(string_line)
-    #return list(filter(None, [s.translate(str.maketrans('','',string.punctuation)) for s in tokens]))
+    #return word_tokenize(string_line)
+    tokens = tweetTokenizer.tokenize(string_line)
+    return list(filter(None, [s.translate(str.maketrans('','',string.punctuation)) for s in tokens]))
 
 def stem(tokens):
     '''This function takes a list of tokens as an argument
@@ -41,7 +41,7 @@ def preprocess(string, stemming=True, stop=True):
     removes the stop words, then calls the "stem" function to stem the filtered text
     it returns a list of all the preprocessed tokens '''
     tokenized = tokenize(string)
-    filtered = [term for term in tokenized if term not in stop_words or not stop]
+    filtered = [term.lower() for term in tokenized if term not in stop_words or not stop]
     if (stemming):
         filtered = stem(filtered)
     return list(filter(lambda x: x.isalnum(), filtered))
