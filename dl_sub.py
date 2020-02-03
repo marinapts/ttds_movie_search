@@ -2,44 +2,106 @@ from pythonopensubtitles.opensubtitles import OpenSubtitles
 from pythonopensubtitles.utils import File
 import csv
 import os
+import sys
+import re
 import time
+import io
+import glob
+from datetime import datetime
 
-DOWNLOAD_LIMIT = 200
+DOWNLOAD_LIMIT = 1000
 SUBTITLES_DIRECTORY = './subtitles'
+MOVIES_FILE = './data/missing.csv'
+LOG_FILE = './logs/log.txt'
+OWNED_IDS_FILE = './data/owned_ids.txt'
+UNAVAILABLE_IDS_FILE = './data/unavailable_ids.txt'
+
+log_file = open(LOG_FILE, 'a')
+def log(msg):
+    log_file.write("{}- {}\n".format(datetime.now().strftime("%m/%d %H:%M:%S"), msg))
+    log_file.flush()
+
+owned_ids = set()
+with open(OWNED_IDS_FILE, 'r') as file:
+    for line in file:
+        id = re.sub(r'\s+', '', line)
+        if re.match(r'tt\d+', id):
+            owned_ids.add(id)
+
+unavailable_ids = set()
+with open(UNAVAILABLE_IDS_FILE, 'r') as file:
+    for line in file:
+        id = re.sub(r'\s+', '', line)
+        if re.match(r'tt\d+', id):
+            unavailable_ids.add(id)
+unavailable_ids_file = open(UNAVAILABLE_IDS_FILE, 'a')
+def log_unavailable(unavailable_id):
+    log("Subtitles for {} unavailable.".format(unavailable_id))
+    unavailable_ids_file.write("{}\n".format(unavailable_id))
+    unavailable_ids_file.flush()
+owned_ids_file = open(OWNED_IDS_FILE, 'a')
+def log_owned(imdb_id):
+    log("Subtitles for {} have been downloaded successfully.".format(imdb_id))
+    owned_ids.add(imdb_id)
+    owned_ids_file.write("{}\n".format(imdb_id))
+    owned_ids_file.flush()
+
 download_count = 0
 override_filenames = dict()
 
 ost = OpenSubtitles()
 ost.login('kasparas42180', 'ksfy3SGGPoqI')
-movies_file = open('output.csv')
+
+movies_file = io.open(MOVIES_FILE, encoding='utf-8', mode='r')
 movies = csv.DictReader(movies_file)
 for movie in movies:
     if download_count >= DOWNLOAD_LIMIT:
+        log("Download limit of {} reached.".format(DOWNLOAD_LIMIT))
         break
-    url = movie['url']
-    imdb_id = url.split('/')[-2]
+    imdb_id = movie['id']
     if os.path.exists("./subtitles/{}.srt".format(imdb_id)):
         # print("Subtitles for this movie {} have already been downloaded. Skipping...".format(movie['title']))
         continue
 
-    print("=== #{} {} ({}) ===".format(movie['index'], movie['title'], imdb_id))
+    if imdb_id in unavailable_ids:  # we already know that this id is unavailable in OpenSubtitles. Skip...
+        continue
+
+    log("=== {} ({}) ratings:{} ===".format(movie['title'], imdb_id, movie['numOfRatings']))
 
     subtitles = ost.search_subtitles([{'sublanguageid': 'eng', 'imdbid': imdb_id[2:]}])
+    if subtitles is None or len(subtitles) == 0:  # not found. Log and Skip...
+        log_unavailable(imdb_id)
+        time.sleep(0.5)
+        continue
+
     subtitles = sorted(subtitles, key=lambda i: int(i['SubDownloadsCnt']), reverse=True)
     id_subtitle_file = subtitles[0].get('IDSubtitleFile')
     override_filenames[id_subtitle_file] = "{}.srt".format(imdb_id)
 
-    print("Top subtitles file ID {} : {} downloads".format(id_subtitle_file, subtitles[0].get('SubDownloadsCnt')))
-    ost.download_subtitles([id_subtitle_file], output_directory='./subtitles', extension='srt',
-                           override_filenames=override_filenames)
+    log("Top subtitles file ID {} : {} downloads".format(id_subtitle_file, subtitles[0].get('SubDownloadsCnt')))
+    try:
+        ost.download_subtitles([id_subtitle_file], output_directory='./subtitles', extension='srt',
+                               override_filenames=override_filenames)
+    except:
+        log("Error downloading subtitles: {}".format(sys.exc_info()[0]))
+        time.sleep(0.5)
+        continue
+
     if not os.path.exists("./subtitles/{}.srt".format(imdb_id)):
         print("Something went wrong... The subtitles file was not saved successfully.")
         break
+
+    log_owned(imdb_id)  # we have downloaded it successfully. Let's log it.
     download_count += 1
     time.sleep(1)
 
 # Count how many subtitles we have already
-print("We now have {} unique subtitle files.".format(len([name for name in os.listdir(SUBTITLES_DIRECTORY) if os.path.isfile(os.path.join(SUBTITLES_DIRECTORY, name))])))
+print("We now have {} unique subtitle files.".format(len(owned_ids)))
+print("{} subtitles downloaded just now.".format(download_count))
+print("{} subtitles files in {}".format(sum(1 for _ in glob.iglob(SUBTITLES_DIRECTORY+'/*.srt')), SUBTITLES_DIRECTORY))
+log_file.close()
+unavailable_ids_file.close()
+owned_ids_file.close()
 
 
 """
