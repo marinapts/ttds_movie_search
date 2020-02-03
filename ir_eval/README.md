@@ -4,7 +4,7 @@
 Indexing part consists of following processes:
   - [x] Parsing subtitle files and write them into database.
   - [x] Generate inverted index 
-  - [ ] Update the sentences in DB with the character information extracted from quote-character mathced quotes.
+  - [ ] Update the sentences in DB with the character information extracted from the quote-character matched quotes.
   
 ### Subtitle Parser
 subtitle_parser.py contains the class SubtitleParser. It iterates all of the .srt files in given directory, parses and write them into sentences collection of db with document and movie id information.
