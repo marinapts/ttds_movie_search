@@ -122,10 +122,6 @@ class SubtitleParser:
         sentence = pattern_square.sub('', pattern_html.sub('', line))
         temp += sentence.replace('\n', ' ').replace('\r', '').replace('...', '')
 
-        #print(line)
-        #if line.count("\"") & 1: # if odd number of double quote used, dquote is inversed.
-        #  dquote = not dquote
-
         if pattern_end_sentence.match(sentence):
           temp = temp.strip()
           if temp.startswith('-'):
@@ -174,6 +170,7 @@ class SubtitleParser:
 
 sp = SubtitleParser("/Users/oguz/Documents/missing_sub")
 sp.run_parser()
+
 #pprint.pprint(ab.get_inverted_index())
 
 #cd = Quotes('/Users/oguz/Documents/ttds_movie_search/ir_eval/data/quotes/0/0/7/tt0073582.txt')
