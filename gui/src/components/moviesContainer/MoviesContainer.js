@@ -35,7 +35,7 @@ export default class MoviesContainer extends React.Component {
       data = data.filter(d => d.categories.includes(selectedGenre[0]))
     }
 
-    this.setState({ data })
+    this.setState({ data, showDetails: false })
   }
 
   viewDetailsCard = quoteId => {
@@ -63,11 +63,13 @@ export default class MoviesContainer extends React.Component {
             )}
           </Grid>
 
-          <Grid item xs={4}>
-            <Zoom in={showDetails} style={{ transitionDelay: showDetails ? '100ms' : '0ms' }}>
-              <DetailsCard details={data.find(d => d.quote_id === quoteId)} />
-            </Zoom>
-          </Grid>
+          {showDetails &&
+            <Grid item xs={4}>
+              <Zoom in={showDetails} style={{ transitionDelay: showDetails ? '100ms' : '0ms' }}>
+                <DetailsCard details={data.find(d => d.quote_id === quoteId)} />
+              </Zoom>
+            </Grid>
+          }
         </Grid>
         <Pagination
           limit={perPage}
