@@ -10,12 +10,28 @@ class MongoDB(DBInterface):
         client = MongoClient('167.71.139.222', 27017, username='admin', password='iamyourfather')
         self.ttds = client.ttds
         self.sentences = self.ttds.sentences
+        self.inverted_index = self.ttds.inverted_index
         self.movies = self.ttds.movies
+        self.sentences.create_index('_id')
+        self.inverted_index.create_index('_id')
+        self.movies.create_index('_id')
 
     def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
         # Given a list of quote ids, return a list of quote dictionaries
         quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         return quote_list
+
+    def get_all_quote_ids(self):
+        word_list = [list(element.values())[0] for element in list(self.sentences.find({}, {"$id": 1}))]
+        return quote_ids
+
+    def get_all_words(self):
+        word_list = [list(element.values())[0] for element in list(self.inverted_index.find({}, {"$id": 1}))]
+        return word_list
+
+    def get_index_docs_by_word(self, word: str):
+        doc_list = list(self.inverted_index.find({"_id": word}, {"_id": 0}))[0]
+        return doc_list
 
     def get_quotes_by_movie_id(self, movie_id: str):
         # Given a movie id, returns a list of all sentences in that movie
