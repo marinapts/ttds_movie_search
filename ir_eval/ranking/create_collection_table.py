@@ -43,10 +43,11 @@ def create_term_doc_collection(inverted_index, doc_nums):
     print('create boolean matrix')
     print(len(words), len(doc_nums))
     boolean_matrix = np.zeros((len(words), len(doc_nums)), dtype=np.bool)
-    with open('boolean_matrix.pickle', 'wb') as handle:
-    	pickle.dump(boolean_matrix, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    # with open('boolean_matrix.pickle', 'wb') as handle:
+    # 	pickle.dump(boolean_matrix, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-    print('created boolean matrix', np.shape(boolean_matrix))
+    #print('created boolean matrix', np.shape(boolean_matrix))
+
     # Create a mapping of document numbers to continuous indices from 0 to len(doc_nums)-1
     doc_num_dict = {}
     for ind, doc_num in enumerate(doc_nums):

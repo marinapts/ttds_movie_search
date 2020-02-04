@@ -8,15 +8,12 @@ import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
-import math
-import time
+
 
 def json_load(path):
     """ It loads and returns a json data in dictionary structure.
-
     Arguments:
         path {string} -- the path of the json data
-
     Returns:
         dictionary -- the dictionary created from the json data.
     """
@@ -26,6 +23,36 @@ def json_load(path):
 def load_file_binary(file_name):
     with open(file_name + '.pickle', 'rb') as f:
         return pickle.load(f)
+
+
+def create_term_doc_collection(inverted_index, doc_nums):
+    """Create a term-document incident collection that shows which documents each term belongs to
+    Args:
+        inverted_index (dict): Index of terms as keys and dict of documents with positions as values
+        doc_nums (list): An array of the documents numbers
+    Returns:
+        collection_dict (dict): A boolean vector for each word
+    """
+    words = list(inverted_index.keys())
+    collection_dict = dict()
+    boolean_matrix = np.zeros((len(words), len(doc_nums)), dtype=np.bool)
+
+    # Create a mapping of document numbers to continuous indices from 0 to len(doc_nums)-1
+    doc_num_dict = {}
+    for ind, doc_num in enumerate(doc_nums):
+        doc_num_dict[doc_num] = ind
+
+    for i, word in enumerate(words):
+        docs_for_specific_word = list(inverted_index[word].keys())
+
+        for index, doc_num in enumerate(docs_for_specific_word):
+            if doc_num in list(doc_num_dict.keys()):
+                doc_id = doc_num_dict[doc_num]
+                boolean_matrix[i][int(doc_id)] = True
+
+        collection_dict[word] = boolean_matrix[i]
+
+    return collection_dict
 
 
 def TFIDF(document, terms, N, inverted_index):
@@ -75,13 +102,9 @@ def boolean_search(query_str_transformed, doc_nums):
     for ind, doc_num in enumerate(doc_nums):
         doc_num_mapping[ind] = doc_num
 
-    #print('doc_num_mapping', doc_num_mapping)
-
     # Use eval to evaluate the boolean search
     boolean_vector = eval(query_str_transformed)
-    print(len(boolean_vector[boolean_vector==True]))
     documents = [doc_num_mapping[i] for i in range(len(boolean_vector)) if boolean_vector[i] == True]
-    #print('boolean search function result:', documents)
     return documents
 
 
@@ -96,17 +119,15 @@ def ranked_retrieval(query, collection_table, doc_nums, inverted_index, stop_wor
     Returns:
         ranked_scores (list): The resultsing documents and the score for each ranked query
     """
+    print('Starting ranked retrieval...')
     ranked_scores = {}
 
     #for query_index, query_tokens in enumerate(queries):
         # Convert query into an OR boolean search and use eval to evaluate it
     boolean_vectors = []
     for token in query:
-        print(collection_table[token])
         boolean_vector = collection_table[token]
-        print(len(boolean_vector[boolean_vector==True]))
         boolean_vectors.append('np.array([{}])'.format(array_to_string(boolean_vector)))
-        print(len(boolean_vector[boolean_vector==True]))
 
     query_eval_string = ' | '.join(boolean_vectors)
     query_documents = boolean_search(query_eval_string, doc_nums)
@@ -124,70 +145,31 @@ def ranked_retrieval(query, collection_table, doc_nums, inverted_index, stop_wor
     return query_scores
 
 
-def get_doc_nums(inverted_index):
-    doc_nums = []
-    for word in inverted_index.keys():
-       doc_nums.extend(list(inverted_index[word].keys()))
-    print(len(doc_nums))
-    return doc_nums
-
 if __name__ == '__main__':
-    #inverted_index = json_load('inverted_index_files/inverted_index.json')
+    inverted_index = json_load('inverted_index_files/inverted_index.json')
     with open('inverted_index_small.pickle', 'rb') as handle:
         inverted_index = pickle.load(handle)
 
     # @TODO: Get quotes and quote ids
     db = get_db_instance()
-
     #@TODO: Get doc_nums from database
-    t0 = time.time()
-    #documents_word = db.get_index_docs_by_word('may')
-    #print(documents_word)
-    t1 = time.time()
-    print(t1-t0)
-
-    #print(type(documents_word[0]))
+    #doc_nums = db.get_all_quote_ids() # A list of all the document numbers
 
     #Just for now: get doc_nums from inverted_index
-    #doc_nums = db.get_all_quote_ids()
+    doc_nums = [list(inverted_index[word].keys())[0] for word in inverted_index.keys()]
 
-    doc_nums = get_doc_nums(inverted_index)
-    #doc_nums = doc_nums[0:1000]
-
-    #words = db.get_all_words()
-
-
-    # doc_nums = db.get_all_quote_ids() # A list of all the document numbers
-    # print('got docnums')
-    # doc_nums_list = []
-    # for i, element in enumerate(doc_nums):
-    #     doc_nums_list.append(list(doc_nums[i].values()))
-    # doc_nums = doc_nums_list
-    # print(doc_nums[0])
+    print(len(doc_nums))
 
 
     # Create a term-document incident collection that shows which documents each term belongs to
     #create_collection_table.py
 
     with open('collection_dict.pickle', 'rb') as handle:
-       collection_table = pickle.load(handle)
-
-
-    print(len(collection_table))
+        collection_table = pickle.load(handle)
 
     # @TODO: Save collection table in DB or as a file
-    print('start ranking')
-    # Ranked search
-    #print(collection_table['may'][collection_table['may']==True])
-    #print(inverted_index['may'])
 
-    queries_ranked = ["may"] #, "boy", "girl"]
-    t0 = time.time()
+    # Ranked search
+    queries_ranked = ["herself"] #, "boy", "girl"]
     ranked_retrieval_results = ranked_retrieval(queries_ranked, collection_table, doc_nums, inverted_index, stop_words)
     print(ranked_retrieval_results)
-    t1 = time.time()
-    print(t1-t0)
-    #print(ranked_retrieval_results)
-
-
-    
