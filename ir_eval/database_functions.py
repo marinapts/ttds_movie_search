@@ -19,7 +19,8 @@ def update_sentences(data, title):
         sent.update({'_id':json_data['_id']}, json_data, True)
 
 def get_sentences_cursors():
-    return sent.find({'movie_id':'tt0080684'})
+    #return sent.find({'movie_id':'tt0080684'}).noCursorTimeout()
+    return sent.find().noCursorTimeout()
 
 def update_inverted_index_stop(term, doc_id, position):
     inverted_index_stop.update({'_id': term}, { '$push': { doc_id : position } }, True)
