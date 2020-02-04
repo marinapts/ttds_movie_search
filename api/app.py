@@ -111,19 +111,21 @@ def query_search():
 
     query = query_params['query']
 
-    #filter_title = query_params['filter_title']
+    # filter_title = query_params['movie_title']
     filter_title = ''
-    #filter_keywords = query_params['filter_keywords']
+    # filter_actor = query_params['actor']
+    filter_actor = ''
+    # filter_keywords = query_params['keywords']
     filter_keywords = ''
-    #filter_years = query_params['filter_years']
+    # filter_years = query_params[year']
     filter_years = '1970-2010'
 
-    #Get search input 'query' and perform tokenisation etc
+    # Get search input 'query' and perform tokenisation etc
     query = preprocess(query)
 
-    #@Todo: send query to ranking function and receive quote ids
+    # @Todo: send query to ranking function and receive quote ids
 
-    #Get quotes, quote_ids and movie_ids for the given query
+    # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1',
                                                         'tt0468569_2',
                                                         'tt0111161_1',
@@ -150,6 +152,8 @@ def query_search():
     #Filtering
     if filter_title != '':
         query_results = filtering_title(query_results, filter_title)
+
+    # @TODO: Function to filter by actors
 
     if filter_years != '':
         query_results = filtering_years(query_results, filter_years)

@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react'
-import Container from '@material-ui/core/Container'
+import { Container } from '@material-ui/core'
 import Skeleton from '@material-ui/lab/Skeleton'
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
 
