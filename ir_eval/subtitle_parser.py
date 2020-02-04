@@ -2,7 +2,6 @@
 
 import os
 import sys
-sys.path.insert(1, './')
 
 import preprocessing
 import database_functions
