@@ -1,3 +1,5 @@
 .env/
 ttds_movie_search.egg-info/
 .DS_Store
+
+.idea/
