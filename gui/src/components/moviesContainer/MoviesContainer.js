@@ -53,7 +53,9 @@ export default class MoviesContainer extends React.Component {
     return(
       <div>
         <Grid container className="movies-container" spacing={6}>
-          <Grid item xs={12}><GenreFilter genres={genres} filterByGenre={this.filterByGenre} /></Grid>
+          {data.length > 0 &&
+            <Grid item xs={12}><GenreFilter genres={genres} filterByGenre={this.filterByGenre} /></Grid>
+          }
 
           <Grid item xs={8}>
             <Typography variant="h6" color="primary">{`Query results: ${data.length} movies`}</Typography>
@@ -71,12 +73,14 @@ export default class MoviesContainer extends React.Component {
             </Grid>
           }
         </Grid>
-        <Pagination
-          limit={perPage}
-          offset={offset}
-          total={data.length}
-          onClick={(e, offset) => this.handleClick(offset)}
-        />
+        {data.length > 0 &&
+          <Pagination
+            limit={perPage}
+            offset={offset}
+            total={data.length}
+            onClick={(e, offset) => this.handleClick(offset)}
+          />
+        }
       </div>
     )
   }
