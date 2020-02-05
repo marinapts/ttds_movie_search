@@ -8,7 +8,7 @@ import copy
 
 mongo = MongoDB()
 sentences = mongo.sentences
-START_ID = 1548894
+START_ID = 75584425
 
 id = START_ID
 while True:
