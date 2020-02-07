@@ -1,5 +1,9 @@
 .env/
-ttds_movie_search.egg-info/
 .DS_Store
-
 .idea/
+
+ttds_movie_search.egg-info/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
