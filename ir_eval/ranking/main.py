@@ -2,7 +2,6 @@ import json
 import pickle
 import numpy as np
 import sys
-sys.path.insert(1, '/Users/leonie/Documents/MDS/TTDS/movie_search/')
 from db.DB import get_db_instance
 import math
 import time
