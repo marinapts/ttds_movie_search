@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography } from '@material-ui/core'
-import API from '../../utils/API'
 import AdvancedSearch from '../advancedSearch/AdvancedSearch'
 
 import './searchInput.scss'
@@ -16,8 +15,6 @@ export default class SearchInput extends Component {
       actor: '',
       year: '',
       keywords: '',
-      showErrorMsg: false,
-      showExamples: true,
       enableAdvancedSearch: false
     }
   }
@@ -40,24 +37,18 @@ export default class SearchInput extends Component {
 
   querySearch = async (e) => {
     e && e.preventDefault()
-    const { query, movieTitle, actor, year, keywords } = this.state
-    console.log(query, movieTitle, actor, year, keywords)
+    const { query, movieTitle, actor, year, keywords, enableAdvancedSearch } = this.state
 
-    if (query.length > 0) {
-      try {
-        const response = await API.post('/query_search', { query, movie_title: movieTitle, actor, year, keywords })
-        this.props.getMoviesForQuery(response.data)
-        this.setState({ showErrorMsg: false, showExamples: false })
-      } catch (error) {
-        // @TODO: Show a proper error message to the user
-        console.error(error)
-        this.setState({ showErrorMsg: true, showExamples: true })
-      }
+    if (!enableAdvancedSearch) {
+      this.props.getMoviesForQuery({query, movieTitle: '', actor: '', year: '', keywords: ''})
+    } else if (query.length | movieTitle.length | actor.length | year.length | keywords.length) {
+      this.props.getMoviesForQuery({query, movieTitle, actor, year, keywords})
     }
   }
 
   render() {
-    const { showErrorMsg, showExamples, enableAdvancedSearch, movieTitle, actor, year, keywords } = this.state
+    const { enableAdvancedSearch, movieTitle, actor, year, keywords } = this.state
+    const { showErrorMsg, showExamples } = this.props
     const advancedSearchData = { movieTitle, actor, year, keywords }
 
     return (
