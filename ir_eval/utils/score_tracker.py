@@ -47,9 +47,9 @@ class ScoreTracker:
 
     def get_top(self, n: int, skip=0):
         # get top N results (skipping the first `skip` results)
-        # return a list of [id, score] entries (e.g. [[19, 1.5], [6, 1.46], ...]
-        # TODO: IMPLEMENT THIS (Kasparas will do it ASAP)
-        return []
+        # return a list of (id, score) tuples, sorted from highest to lowest by score (e.g. [(19, 1.5), (6, 1.46), ...]
+        top_results = sorted(filter(lambda x: x[1] is not REMOVED, self.heap), reverse=True)
+        return list(map(lambda x: (x[1], x[0]), top_results[skip:skip+n]))
 
     def __remove_entry_if_exists(self, id):
         if id in self.entry_finder:
