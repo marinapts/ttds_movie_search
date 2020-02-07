@@ -127,12 +127,12 @@ def query_search():
     # @Todo: send query to ranking function and receive quote ids
 
     # Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1',
-                                                        'tt0468569_2',
-                                                        'tt0111161_1',
-                                                        'tt0068646_2',
-                                                        'tt0468569_3',
-                                                        'tt0167260_2'])
+    query_results = db.get_quotes_by_list_of_quote_ids([234,
+                                                        234234,
+                                                        1151,
+                                                        15,
+                                                        488483,
+                                                        3453222])
     for dic_sentence in query_results:
         dic_sentence['quote_id'] = dic_sentence.pop('_id')
         dic_sentence['full_quote'] = dic_sentence.pop('sentence')
