@@ -6,6 +6,8 @@ sys.path.insert(1, '/Users/leonie/Documents/MDS/TTDS/movie_search/')
 from db.DB import get_db_instance
 import math
 import time
+from ir_eval.utils.score_tracker import ScoreTracker
+tracker = ScoreTracker()
 
 def json_load(path):
     """ It loads and returns a json data in dictionary structure.
@@ -82,6 +84,7 @@ def tfidf_score(query, doc_nums):
             score_doc = tfidf_score_for_doc(term, document, doc_nums, relevant_docs)
             if score_doc > 0:
                 if document in result.keys():
+                    tracker.add_score(document, score_doc)
                     result[document] += score_doc
                 else:
                     result[document] = score_doc
@@ -101,4 +104,5 @@ if __name__ == '__main__':
     result = (tfidf_score(query, doc_nums))
     t1 = time.time()
     print(result[0:10])
+    print(tracker.get_top(10))
     print(t1-t0)
