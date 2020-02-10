@@ -51,8 +51,8 @@ def run_with_arguments(stem, stop):
     indexGen.run_indexing()
 
 parser = argparse.ArgumentParser(description='Inverted Index Generator')
-parser.add_argument('--stemming', nargs="?", type=bool, default=True, help='Activate stemming')
-parser.add_argument('--remove_stopwords', nargs="?", type=bool, default=False, help='Remove stopwords')
+parser.add_argument('--stemming', nargs="?", type=str, default='True', help='Activate stemming')
+parser.add_argument('--remove_stopwords', nargs="?", type=str, default='False', help='Remove stopwords')
 args = parser.parse_args()
 
-run_with_arguments(args.stemming, args.remove_stopwords)
+run_with_arguments(eval(args.stemming), eval(args.remove_stopwords))
