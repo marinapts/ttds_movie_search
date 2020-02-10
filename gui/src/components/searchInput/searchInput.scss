@@ -1,0 +1,31 @@
+.search-form {
+  display: flex;
+  align-items: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  .search-input {
+    width: 65%;
+  }
+
+  .search-button {
+    width: 10%;
+  }
+
+  .advanced-search-button {
+    width: 20%;
+  }
+
+}
+
+.error-container {
+  color: red;
+}
+
+h6, span {
+ color: white;
+}
+
+a {
+  cursor: pointer;
+}

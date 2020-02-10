@@ -31,3 +31,6 @@ The following commands should be run on the root folder of the repository:
 
 ### Notes
 The gui and api parts can communicate for development, but not yet for production.
+
+### Developing database methods
+Add a new abstract method to `db/DBInterface` and then implement that method in the database class we are going to use (for now `db/ShelveDB`).

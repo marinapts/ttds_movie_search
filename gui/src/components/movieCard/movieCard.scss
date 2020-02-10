@@ -1,0 +1,17 @@
+@import '../../variables.scss';
+
+.card-container {
+  background-color: $cardBackground !important;
+  color: white !important;
+  margin: 30px 0;
+  display: flex;
+  justify-content: column;
+}
+
+.card-media {
+  flex: 25% 0;
+}
+
+.card-content {
+  flex: 70% 0;
+}
