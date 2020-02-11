@@ -95,6 +95,33 @@ def ranked_retrieval(query, db):
     """
     return tfidf_score(query, doc_nums, db)[0:10]
 
+def ranking_query(query, db):
+    terms = query
+    query_result_score = dict()
+    doc_nums = 85000000
+    for term in terms:
+        relevant_docs = db.get_index_docs_by_word(term)
+        doc_nums_term = len(relevant_docs)
+        for document in relevant_docs: 
+                term_freq = term_frequency(term, document, relevant_docs)
+                score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=200, avgdl=50)
+                if score > 0:
+                    if document in query_result_score.keys():
+                        query_result_score[document] += score
+                    else:
+                        query_result_score[document] = score
+    return sorted(query_result_score.items(), key=lambda item: item[1], reverse=True)
+
+def score_BM25(doc_nums, doc_nums_term, term_freq, k1, b, dl, avgdl):
+    K = compute_K(k1, b, dl, avgdl)
+    idf_param = math.log( (doc_nums-doc_nums_term+0.5) / (doc_nums_term+0.5) )
+    next_param = ((k1 + 1) * term_freq) / (K + term_freq)
+    return float("{0:.4f}".format(next_param * idf_param))
+
+
+def compute_K(k1, b, dl, avgdl):
+    return k1 * ((1-b) + b * (float(dl)/float(avgdl)) )
+
 if __name__ == '__main__':
     # @TODO: Get quotes and quote ids
     db = get_db_instance()
@@ -109,3 +136,7 @@ if __name__ == '__main__':
     print(result[0:10])
     print(tracker.get_top(10))
     print(t1-t0)
+    rank_result = ranking_query(query, db)
+    print(rank_result[0:10])
+
+
