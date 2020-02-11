@@ -68,7 +68,7 @@ def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs):
         result = (1 + tf) * idf(term, relevant_docs, doc_nums)
     return result
 
-def tfidf_score(query, doc_nums):
+def tfidf_score(query, doc_nums, db):
     """
     Apply preprocess to the query and calculates the tfidf scores for each document having at least one of the terms.
 
@@ -87,9 +87,13 @@ def tfidf_score(query, doc_nums):
                     result[document] += score_doc
                 else:
                     result[document] = score_doc
-    return sorted(result.items(), key=lambda kv: kv[1], reverse=True)
+    return sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
 
-
+def ranked_retrieval(query, db):
+    doc_nums = 85000000
+    """ This function should be called by app.py to perform the ranked retrieval
+    """
+    return tfidf_score(query, doc_nums, db)[0:10]
 
 if __name__ == '__main__':
     # @TODO: Get quotes and quote ids
@@ -100,7 +104,7 @@ if __name__ == '__main__':
 
     t0 = time.time()
     query = ["may", "boy", "girl"]
-    result = (tfidf_score(query, doc_nums))
+    result = (tfidf_score(query, doc_nums, db))
     t1 = time.time()
     print(result[0:10])
     print(tracker.get_top(10))
