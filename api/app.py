@@ -4,6 +4,7 @@ from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
 import json
 from preprocessing_api import preprocess
+from ir_eval.ranking.main import ranked_retrieval
 import re
 
 app = Flask(__name__)
@@ -125,14 +126,18 @@ def query_search():
     query = preprocess(query)
 
     # @Todo: send query to ranking function and receive quote ids
-
+    query_id_results = ranked_retrieval(query, db)
+    print(query_id_results)
     # Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids([234,
-                                                        234234,
-                                                        1151,
-                                                        15,
-                                                        488483,
-                                                        3453222])
+    query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
+    print(query_results)
+    # query_results = db.get_quotes_by_list_of_quote_ids([234,
+    #                                                     234234,
+    #                                                     1151,
+    #                                                     15,
+    #                                                     488483,
+    #                                                     3453222])
+
     for dic_sentence in query_results:
         dic_sentence['quote_id'] = dic_sentence.pop('_id')
         dic_sentence['full_quote'] = dic_sentence.pop('sentence')
