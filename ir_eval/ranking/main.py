@@ -87,13 +87,19 @@ def tfidf_score(query, doc_nums, db):
                     result[document] += score_doc
                 else:
                     result[document] = score_doc
+    #sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
     return sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
 
 def ranked_retrieval(query, db):
     doc_nums = 85000000
     """ This function should be called by app.py to perform the ranked retrieval
     """
-    return tfidf_score(query, doc_nums, db)[0:10]
+    result = tfidf_score(query, doc_nums, db)
+    result_tracker = np.array(tracker.get_top(10))
+    if result_tracker.size != 0:
+        result_tracker = result_tracker[:,0]
+    #tfidf_score(query, doc_nums, db)[0:10]
+    return result
 
 def ranking_query(query, db):
     terms = query
@@ -102,7 +108,7 @@ def ranking_query(query, db):
     for term in terms:
         relevant_docs = db.get_index_docs_by_word(term)
         doc_nums_term = len(relevant_docs)
-        for document in relevant_docs: 
+        for document in relevant_docs:
                 term_freq = term_frequency(term, document, relevant_docs)
                 score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=200, avgdl=50)
                 if score > 0:
@@ -131,12 +137,14 @@ if __name__ == '__main__':
 
     t0 = time.time()
     query = ["may", "boy", "girl"]
-    result = (tfidf_score(query, doc_nums, db))
+    result = (ranked_retrieval(query, db))
     t1 = time.time()
-    print(result[0:10])
-    print(tracker.get_top(10))
+    print(result)
+
+    #print(result[0:10])
+    #print(tracker.get_top(10))
     print(t1-t0)
-    rank_result = ranking_query(query, db)
-    print(rank_result[0:10])
+    #rank_result = ranking_query(query, db)
+    #print(rank_result[0:10])
 
 
