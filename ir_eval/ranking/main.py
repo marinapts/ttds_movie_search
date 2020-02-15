@@ -23,7 +23,7 @@ def load_file_binary(file_name):
         return pickle.load(f)
 
 
-def term_frequency(term, document_id, relevant_docs):
+def term_frequency(term, document_id, relevant_docs, relevant_movies):
     """
     Calculates the term frequency in the document.
 
@@ -32,11 +32,9 @@ def term_frequency(term, document_id, relevant_docs):
         document_id (int): the document id
     """
     tf = 0
-    #if term in words:
-        #docs = db.get_index_docs_by_word(term) #inverted_index[term]
-        #print(docs)
+
     if document_id in relevant_docs.keys():
-        tf = len(relevant_docs[document_id])
+        tf = len(relevant_movies['movies'][relevant_docs[document_id]]['sentences'][str(document_id)])
     return tf
 
 def idf(term, docs_for_term, doc_nums):
@@ -52,7 +50,7 @@ def idf(term, docs_for_term, doc_nums):
         return 0
     return math.log10(doc_nums / df)
 
-def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs):
+def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs, relevant_movies):
     """
     Returns the list of tfidf scores for the terms and the doc.
 
@@ -62,7 +60,7 @@ def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs):
     """
     #print('tfidf_score_for_doc')
     result = []
-    tf = term_frequency(term, doc, relevant_docs)
+    tf = term_frequency(term, doc, relevant_docs, relevant_movies)
     if tf > 0:
         tf = math.log10(tf)
         result = (1 + tf) * idf(term, relevant_docs, doc_nums)
@@ -78,9 +76,14 @@ def tfidf_score(query, doc_nums, db):
     terms = query
     result = dict()
     for term in terms:
-        relevant_docs = db.get_index_docs_by_word(term)
-        for document in relevant_docs:
-            score_doc = tfidf_score_for_doc(term, document, doc_nums, relevant_docs)
+        #relevant_docs = db.get_index_docs_by_word(term)
+        relevant_movies = db.get_indexed_documents_by_term(term)
+        relevant_docs = {}
+        for movie in relevant_movies['movies'].keys():
+            for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
+                relevant_docs[int(doc_id)] = movie
+        for document in relevant_docs.keys():
+            score_doc = tfidf_score_for_doc(term, document, doc_nums, relevant_docs, relevant_movies)
             if score_doc > 0:
                 if document in result.keys():
                     tracker.add_score(document, score_doc)
@@ -88,20 +91,20 @@ def tfidf_score(query, doc_nums, db):
                 else:
                     result[document] = score_doc
     #sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
-    return sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
+    return list({k: v for k, v in sorted(result.items(), key=lambda item: item[1], reverse=True)}.keys())
+
 
 def ranked_retrieval(query, db):
     doc_nums = 85000000
     """ This function should be called by app.py to perform the ranked retrieval
     """
     result = tfidf_score(query, doc_nums, db)
-    result_tracker = np.array(tracker.get_top(10))
-    if result_tracker.size != 0:
-        result_tracker = result_tracker[:,0]
-    #tfidf_score(query, doc_nums, db)[0:10]
-    return result
+    result_tracker = [item[0] for item in tracker.get_top(100)]
+    print('result_tracker:', result_tracker)
+    #print('result_list', result[0:10])
+    return result_tracker
 
-def ranking_query(query, db):
+def ranking_query_BM25(query, db):
     terms = query
     query_result_score = dict()
     doc_nums = 85000000
@@ -144,7 +147,7 @@ if __name__ == '__main__':
     #print(result[0:10])
     #print(tracker.get_top(10))
     print(t1-t0)
-    #rank_result = ranking_query(query, db)
+    #rank_result = ranking_query_BM25(query, db)
     #print(rank_result[0:10])
 
 
