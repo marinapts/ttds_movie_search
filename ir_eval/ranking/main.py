@@ -45,7 +45,6 @@ def idf(term, docs_for_term, doc_nums):
         term (string): a single term
     """
     df = len(docs_for_term)
-
     if df == 0:
         return 0
     return math.log10(doc_nums / df)
@@ -63,8 +62,8 @@ def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs, relevant_movies):
     tf = term_frequency(term, doc, relevant_docs, relevant_movies)
     if tf > 0:
         tf = math.log10(tf)
-        result = (1 + tf) * idf(term, relevant_docs, doc_nums)
-    return result
+        tfidf = (1 + tf) * idf(term, relevant_docs, doc_nums)
+    return tfidf
 
 def tfidf_score(query, doc_nums, db):
     """
@@ -74,7 +73,7 @@ def tfidf_score(query, doc_nums, db):
         term (string): a single term
     """
     terms = query
-    result = dict()
+    #result = dict()
     for term in terms:
         #relevant_docs = db.get_index_docs_by_word(term)
         relevant_movies = db.get_indexed_documents_by_term(term)
@@ -84,42 +83,35 @@ def tfidf_score(query, doc_nums, db):
                 relevant_docs[int(doc_id)] = movie
         for document in relevant_docs.keys():
             score_doc = tfidf_score_for_doc(term, document, doc_nums, relevant_docs, relevant_movies)
-            if score_doc > 0:
-                if document in result.keys():
-                    tracker.add_score(document, score_doc)
-                    result[document] += score_doc
-                else:
-                    result[document] = score_doc
-    #sorted(result.keys(), key=lambda kv: kv[1], reverse=True)
-    return list({k: v for k, v in sorted(result.items(), key=lambda item: item[1], reverse=True)}.keys())
+            if int(score_doc) > 0:
+                tracker.add_score(document, score_doc)
 
 
 def ranked_retrieval(query, db):
     doc_nums = 85000000
     """ This function should be called by app.py to perform the ranked retrieval
     """
-    result = tfidf_score(query, doc_nums, db)
+    tfidf_score(query, doc_nums, db)
+    #ranking_query_BM25(query, db)
     result_tracker = [item[0] for item in tracker.get_top(100)]
-    print('result_tracker:', result_tracker)
-    #print('result_list', result[0:10])
     return result_tracker
 
 def ranking_query_BM25(query, db):
     terms = query
-    query_result_score = dict()
+    #query_result_score = dict()
     doc_nums = 85000000
     for term in terms:
-        relevant_docs = db.get_index_docs_by_word(term)
-        doc_nums_term = len(relevant_docs)
-        for document in relevant_docs:
-                term_freq = term_frequency(term, document, relevant_docs)
-                score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=200, avgdl=50)
-                if score > 0:
-                    if document in query_result_score.keys():
-                        query_result_score[document] += score
-                    else:
-                        query_result_score[document] = score
-    return sorted(query_result_score.items(), key=lambda item: item[1], reverse=True)
+        relevant_movies = db.get_indexed_documents_by_term(term)
+        relevant_docs = {}
+        for movie in relevant_movies['movies'].keys():
+            for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
+                relevant_docs[int(doc_id)] = movie
+        doc_nums_term = len(relevant_docs.keys())
+        for document in relevant_docs.keys():
+            term_freq = term_frequency(term, document, relevant_docs, relevant_movies)
+            score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=200, avgdl=50)
+            if score > 0:
+                tracker.add_score(document, int(score))
 
 def score_BM25(doc_nums, doc_nums_term, term_freq, k1, b, dl, avgdl):
     K = compute_K(k1, b, dl, avgdl)
@@ -145,9 +137,10 @@ if __name__ == '__main__':
     print(result)
 
     #print(result[0:10])
-    #print(tracker.get_top(10))
+    print(tracker.get_top(3))
     print(t1-t0)
-    #rank_result = ranking_query_BM25(query, db)
+    ranking_query_BM25(query, db)
+    print(tracker.get_top(3))
     #print(rank_result[0:10])
 
 
