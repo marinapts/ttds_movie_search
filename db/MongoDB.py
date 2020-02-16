@@ -2,6 +2,8 @@ from typing import List
 from flask_pymongo import PyMongo
 from pymongo import MongoClient
 from db.DBInterface import DBInterface
+import gridfs
+import json
 
 class MongoDB(DBInterface):
 
@@ -15,8 +17,10 @@ class MongoDB(DBInterface):
         self.sentences.create_index('_id')
         self.inverted_index.create_index('_id')
         self.movies.create_index('_id')
+        self.inverted_index_gridfs = gridfs.GridFS(self.ttds)
 
-    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+
+    def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
         quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         return quote_list
@@ -50,4 +54,11 @@ class MongoDB(DBInterface):
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
         raise NotImplementedError()
+
+    def get_indexed_documents_by_term(self, term: str):
+        if self.inverted_index_gridfs.exists(term):
+            return json.loads(self.inverted_index_gridfs.get(term).read().decode('utf-8'))
+        else:
+            return dict()
+
 

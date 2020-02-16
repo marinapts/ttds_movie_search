@@ -3,9 +3,11 @@ from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
 import json
-from preprocessing_api import preprocess
+#from preprocessing_api import preprocess
 from ir_eval.ranking.main import ranked_retrieval
 import re
+import time
+from ir_eval.preprocessing import preprocess
 
 app = Flask(__name__)
 CORS(app)
@@ -59,11 +61,12 @@ def find_categories(results_dict):
     """
     category_dict = {}
     for query_result in results_dict:
-        for element in query_result['categories']:
-            if element in category_dict.keys():
-                category_dict[element] += 1
-            else:
-                category_dict[element] = 0
+        if 'categories' in query_result:
+            for element in query_result['categories']:
+                if element in category_dict.keys():
+                    category_dict[element] += 1
+                else:
+                    category_dict[element] = 0
     category_list = []
     for key in sorted(category_dict, key=category_dict.get, reverse=True):
         category_list.append(key)
@@ -122,15 +125,16 @@ def query_search():
 
     #filter_years = '1970-2010'
 
+    t0 = time.time()
     # Get search input 'query' and perform tokenisation etc
     query = preprocess(query)
 
     # @Todo: send query to ranking function and receive quote ids
     query_id_results = ranked_retrieval(query, db)
-    print(query_id_results)
+
     # Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
-    print(query_results)
+    query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)[0:100000]
+
     # query_results = db.get_quotes_by_list_of_quote_ids([234,
     #                                                     234234,
     #                                                     1151,
@@ -138,9 +142,17 @@ def query_search():
     #                                                     488483,
     #                                                     3453222])
 
-    for dic_sentence in query_results:
-        dic_sentence['quote_id'] = dic_sentence.pop('_id')
-        dic_sentence['full_quote'] = dic_sentence.pop('sentence')
+    # to_delete = []
+    # for i, dic_sentence in enumerate(query_results):
+    #     if len(dic_sentence['sentence']) > 1000:
+    #         to_delete.append(i)
+
+    # for i in sorted(to_delete, reverse=True):
+    #     del query_results[i]
+
+    for i, dic_sentence in enumerate(query_results):
+            dic_sentence['quote_id'] = dic_sentence.pop('_id')
+            dic_sentence['full_quote'] = dic_sentence.pop('sentence')
 
     #Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])
@@ -152,20 +164,22 @@ def query_search():
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
 
-    #Filtering
-    if filter_title != '':
-        query_results = filtering_title(query_results, filter_title)
+    # #Filtering
+    # if filter_title != '':
+    #     query_results = filtering_title(query_results, filter_title)
 
-    # @TODO: Function to filter by actors
+    # # @TODO: Function to filter by actors
 
-    if filter_years != '':
-        query_results = filtering_years(query_results, filter_years)
+    # if filter_years != '':
+    #     query_results = filtering_years(query_results, filter_years)
 
-    if filter_keywords != '':
-        query_results = filtering_keywords(query_results, filter_keywords)
+    # if filter_keywords != '':
+    #     query_results = filtering_keywords(query_results, filter_keywords)
 
     #Create sorted list of all returned categories
     category_list = find_categories(query_results)
+    t1 = time.time()
+    print(t1-t0)
 
     return json.dumps({'movies': query_results, 'category_list': category_list})
 

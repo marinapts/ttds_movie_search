@@ -10,7 +10,7 @@ class DBInterface(ABC):
         pass
 
     @abstractmethod
-    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+    def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
         raise NotImplementedError()
 
@@ -41,4 +41,9 @@ class DBInterface(ABC):
         # Given a file with movies data, populate the database with those movies.
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
+        raise NotImplementedError()
+
+    @abstractmethod
+    def get_indexed_documents_by_term(self, term: str):
+        # Given a term, returns a dict of the quote ids
         raise NotImplementedError()
