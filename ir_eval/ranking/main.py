@@ -96,16 +96,23 @@ def ranked_retrieval(query, db):
     result_tracker = [item[0] for item in tracker.get_top(100)]
     return result_tracker
 
-def ranking_query_BM25(query, db):
-    terms = query
+def ranking_query_BM25(query_params, db):
+    terms = query_params['query']
     #query_result_score = dict()
     doc_nums = 85000000
     for term in terms:
         relevant_movies = db.get_indexed_documents_by_term(term)
         relevant_docs = {}
-        for movie in relevant_movies['movies'].keys():
-            for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
-                relevant_docs[int(doc_id)] = movie
+        if any(key in query_params for key in ['movie_title', 'year', 'actor']):
+            movie_list = db.get_movie_ids_advanced_search(query_params)
+            filtered_movies = list(set(movie_list) & set(relevant_movies['movies'].keys()))
+            for movie in filtered_movies:
+                for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
+                    relevant_docs[int(doc_id)] = movie
+        else:
+            for movie in relevant_movies['movies'].keys():
+                for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
+                    relevant_docs[int(doc_id)] = movie
         dls = get_dls(list(relevant_docs.keys()), db)
         doc_nums_term = len(relevant_docs.keys())
         for document in relevant_docs.keys():
@@ -154,7 +161,10 @@ if __name__ == '__main__':
     #print(result[0:10])
     #print(tracker.get_top(3))
     print(t1-t0)
-    ranking_query_BM25(query, db)
+    query_params ={}
+    # query_params = {"movie_title": "Spirited Away", "year": "2000-2005"}
+    query_params['query'] = ["suburbs", "witches"]
+    ranking_query_BM25(query_params, db)
     print(tracker.get_top(3))
     #print(rank_result[0:10])
 

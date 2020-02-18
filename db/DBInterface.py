@@ -47,3 +47,8 @@ class DBInterface(ABC):
     def get_indexed_documents_by_term(self, term: str):
         # Given a term, returns a dict of the quote ids
         raise NotImplementedError()
+
+    @abstractmethod
+    def get_movie_ids_advanced_search(self, query_params:dict):
+        # Given a query parameters for advanced search, returns a list of movie ids
+        raise NotImplementedError()
