@@ -161,9 +161,9 @@ if __name__ == '__main__':
     #print(result[0:10])
     #print(tracker.get_top(3))
     print(t1-t0)
-    query_params ={}
-    # query_params = {"movie_title": "Spirited Away", "year": "2000-2005"}
-    query_params['query'] = ["suburbs", "witches"]
+    #query_params ={}
+    query_params = {"year": "2000-2005"}
+    query_params['query'] = ["may", "boy", "girl"]
     ranking_query_BM25(query_params, db)
     print(tracker.get_top(3))
     #print(rank_result[0:10])
