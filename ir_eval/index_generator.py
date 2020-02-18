@@ -3,6 +3,7 @@
 import os
 import sys
 import json
+import pickle
 
 #import pandas as pd
 
@@ -10,7 +11,6 @@ import preprocessing
 import database_functions
 import argparse
 import logging
-import pprint
 
 logging.basicConfig(filename='result.log', level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger()
@@ -46,43 +46,43 @@ class IndexGenerator:
             for cursor in cursors:
                 self.__load_tempfile(cursor.get('_id'), cursor.get('sentence'), cursor.get('movie_id'))
 
-            if (i+1)%5 == 0:
-                self.__flush_db()
+            if (i+1)%15 == 0:
+                self.__regularize_dict()
+                self.__save_pickle(str(i-14) + "-" + str(i+1) + "-insert")
 
-        self.__flush_db()
+        self.__regularize_dict()
+        self.__save_pickle("last")
 
     def __load_tempfile(self, doc_id, sentence, movie_id):
         preprocessed = preprocessing.preprocess(sentence, stemming=self.activate_stemming, stop=self.activate_stop)
         preprocessed = list(filter(None, preprocessed))
+
+        word_count = len(preprocessing.preprocess(sentence, stemming=False, stop=False))
         
         for term in set(preprocessed):
             positions = [n for n,item in enumerate(preprocessed) if item==term]
-            self.temp[term] = self.temp.get(term, {'doc_count': 0, 'movies': dict()})
+            self.temp[term] = self.temp.get(term, {
+                'term': term,
+                'doc_count': 0,
+                'movies': dict()
+            })
             self.temp[term]['doc_count'] += 1
-            self.temp[term]['movies'][movie_id] = self.temp[term]['movies'].get(movie_id, {'doc_count': 0, 'sentences': dict()})
+            self.temp[term]['movies'][movie_id] = self.temp[term]['movies'].get(movie_id, {'_id': movie_id, 'doc_count': 0, 'sentences': list()})
             self.temp[term]['movies'][movie_id]['doc_count'] += 1
-            self.temp[term]['movies'][movie_id]['sentences'][doc_id] = positions
-        
+            self.temp[term]['movies'][movie_id]['sentences'].append({
+                        '_id': doc_id,
+                        'len': word_count,
+                        'pos': positions
+                    })
+                    
+    def __regularize_dict(self):
+        for value in self.temp.values():
+            value['movies'] = list(value['movies'].values())
 
-    def __flush_db(self):
-        logging.info('DB flushing...')
-        for key, value in self.temp.items():
-            old = database_functions.get_indexed_documents_by_term(key)
-            doc_count = 0
-            if bool(old):
-                for movie_id, movie_val in old['movies'].items():
-                    if movie_id not in value['movies'].keys():
-                        value['movies'][movie_id] = {'doc_count':old['movies'][movie_id]['doc_count'], 'sentences': old['movies'][movie_id]['sentences']}
-                    else:
-                        value['movies'][movie_id]['sentences'].update(old['movies'][movie_id]['sentences'])
-                        value['movies'][movie_id]['doc_count'] = len(value['movies'][movie_id]['sentences'])
-                    doc_count += value['movies'][movie_id]['doc_count']
-                value['doc_count'] = doc_count
-
-            database_functions.delete_term(key)
-            database_functions.insert_term_to_inverted_index(key, value)
-        self.temp = dict()
-        logging.info("DB flushed!")
+    def __save_pickle(self, name):
+        with open(name + '.pickle', 'wb') as handle:
+            pickle.dump(list(self.temp.values()), handle, protocol=pickle.HIGHEST_PROTOCOL)
+        self.temp.clear()
 
 def run_with_arguments(stem, stop, start):
     indexGen = IndexGenerator(activate_stop=stop, activate_stemming=stem, start_index=start)

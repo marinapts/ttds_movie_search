@@ -12,8 +12,6 @@ sent = db.sentences
 inverted_index_stop = db.inverted_index_with_stop
 inverted_index = db.inverted_index
 
-inverted_index_gridfs = gridfs.GridFS(db)
-
 sentence_bson_list = list()
 previous_id = -1
 
@@ -36,24 +34,7 @@ def update_sentences(data, title):
             sentence_bson_list.clear()
 
 def get_sentences_cursors(start, count):
-    #return sent.find({'movie_id':'tt0080684'})
     return sent.find({}, limit=count, skip=start)
 
-def update_inverted_index_stop(term, doc_id, position_list):
-    inverted_index_stop.update({ '_id': term}, { '$addToSet': {"docs.$._id": doc_id, 'docs.$.pos': position_list}}, True)
 
-def update_inverted_index(term, doc_id, position_list):
-    inverted_index.update({'_id': term}, { '$push': { doc_id : position_list } }, True)
-
-def delete_term(term):
-    inverted_index_gridfs.delete(term)
-
-def insert_term_to_inverted_index(term, bson_data):
-    inverted_index_gridfs.put(json.dumps(bson_data).encode('utf-8'), _id = term)
-
-def get_indexed_documents_by_term(term):
-    if inverted_index_gridfs.exists(term):
-        return json.loads(inverted_index_gridfs.get(term).read().decode('utf-8'))
-    else:
-        return dict()
 
