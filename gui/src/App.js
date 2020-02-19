@@ -5,6 +5,7 @@ import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
 
 import SearchInput from './components/searchInput/SearchInput'
 import MoviesContainer from './components/moviesContainer/MoviesContainer'
+import API from './utils/API'
 
 import './app.scss'
 
@@ -27,38 +28,61 @@ export default class App extends Component {
     super(props)
     this.state = {
       movies: [],
-      showCards: false
+      showCards: false,
+      showExamples: true,
+      showErrorMsg: false,
+      loading: true
     }
   }
 
   getMoviesForQuery = data => {
-    console.log(data)
-    this.setState({
-      showCards: true,
-      movies: data.movies,
-      genres: data.category_list
+    const { query, movieTitle, actor, year, keywords } = data
+
+    this.setState({ loading: true }, async () => {
+      try {
+        const response = await API.post('/query_search', { query, movie_title: movieTitle, actor, year, keywords })
+        this.setState({
+          movies: response.data.movies,
+          genres: response.data.category_list,
+          showCards: true,
+          showExamples: false,
+          loading: false
+        })
+      } catch (error) {
+        // @TODO: Show a proper error message to the user
+        console.error(error)
+        this.setState({
+          showErrorMsg: true,
+          showExamples: true,
+          loading: false
+        })
+      }
     })
   }
 
   render() {
-    const { showCards, movies, genres } = this.state
+    const { showCards, movies, genres, showExamples, showErrorMsg, loading } = this.state
 
     return (
       <ThemeProvider theme={darkTheme}>
         <Container className="app">
           <h3>TTDS Movie Project 2020</h3>
           <div className="search-container">
-            <SearchInput getMoviesForQuery={this.getMoviesForQuery} />
+            <SearchInput
+              getMoviesForQuery={this.getMoviesForQuery}
+              showExamples={showExamples}
+              showErrorMsg={showErrorMsg}
+            />
           </div>
           {showCards &&
             <Fragment>
-              {movies.length > 0 ?
-                <MoviesContainer data={movies} genres={genres} /> :
+              {loading ?
                 <Fragment>
-                  {Array.apply(null, { length: 5 }).map((e, i) => (
+                  {Array.apply(null, { length: 2 }).map((e, i) => (
                     <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
                   ))}
                 </Fragment>
+                : <MoviesContainer data={movies} genres={genres} />
               }
             </Fragment>
           }

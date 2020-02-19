@@ -111,14 +111,15 @@ def query_search():
 
     query = query_params['query']
 
-    # filter_title = query_params['movie_title']
-    filter_title = ''
-    # filter_actor = query_params['actor']
-    filter_actor = ''
-    # filter_keywords = query_params['keywords']
-    filter_keywords = ''
-    # filter_years = query_params[year']
-    filter_years = '1970-2010'
+    filter_title = query_params['movie_title']
+    #filter_title = ''
+    filter_actor = query_params['actor']
+    #filter_actor = ''
+    filter_keywords = query_params['keywords']
+    #filter_keywords = ''
+    filter_years = query_params['year']
+
+    #filter_years = '1970-2010'
 
     # Get search input 'query' and perform tokenisation etc
     query = preprocess(query)
@@ -126,12 +127,12 @@ def query_search():
     # @Todo: send query to ranking function and receive quote ids
 
     # Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(['tt0468569_1',
-                                                        'tt0468569_2',
-                                                        'tt0111161_1',
-                                                        'tt0068646_2',
-                                                        'tt0468569_3',
-                                                        'tt0167260_2'])
+    query_results = db.get_quotes_by_list_of_quote_ids([234,
+                                                        234234,
+                                                        1151,
+                                                        15,
+                                                        488483,
+                                                        3453222])
     for dic_sentence in query_results:
         dic_sentence['quote_id'] = dic_sentence.pop('_id')
         dic_sentence['full_quote'] = dic_sentence.pop('sentence')
@@ -146,9 +147,6 @@ def query_search():
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
 
-    #Create sorted list of all returned categories
-    category_list = find_categories(query_results)
-
     #Filtering
     if filter_title != '':
         query_results = filtering_title(query_results, filter_title)
@@ -161,10 +159,10 @@ def query_search():
     if filter_keywords != '':
         query_results = filtering_keywords(query_results, filter_keywords)
 
+    #Create sorted list of all returned categories
+    category_list = find_categories(query_results)
 
     return json.dumps({'movies': query_results, 'category_list': category_list})
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
-
-

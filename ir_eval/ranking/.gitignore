@@ -1,0 +1,4 @@
+__pycache__
+.env
+.idea/
+.inverted_index_file/inverted_index.json
