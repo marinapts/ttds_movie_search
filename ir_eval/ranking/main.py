@@ -92,8 +92,8 @@ def ranked_retrieval(query, db):
     result_tracker = [item[0] for item in tracker.get_top(100)]
     return result_tracker
 
-def ranking_query_BM25(query, db):
-    terms = query
+def ranking_query_BM25(query_params, db):
+    terms = query_params['query']
     #query_result_score = dict()
     doc_nums = 85000000
     for term in terms:
@@ -101,11 +101,20 @@ def ranking_query_BM25(query, db):
         for i in range(0, num_splits):
             relevant_movies = db.get_indexed_documents_by_term(term, i)
             relevant_docs = {}
-            for m, movie in enumerate(relevant_movies['movies']):
-                movie_id = movie['_id']
-                for s, sentence in enumerate(movie['sentences']):
-                    quote_id = sentence['_id']
-                    relevant_docs[int(quote_id)] = (m, s)
+            if any(key in query_params for key in ['movie_title', 'year', 'actor']):
+                movie_list = db.get_movie_ids_advanced_search(query_params, i)
+                filtered_movies = list(set(movie_list) & set(relevant_movies['movies'].keys()))
+                for m, movie in enumerate(filtered_movies['movies']):
+                    movie_id = movie['_id']
+                    for s, sentence in enumerate(movie['sentences']):
+                        quote_id = sentence['_id']
+                        relevant_docs[int(quote_id)] = (m, s)
+            else:
+                for m, movie in enumerate(relevant_movies['movies']):
+                    movie_id = movie['_id']
+                    for s, sentence in enumerate(movie['sentences']):
+                        quote_id = sentence['_id']
+                        relevant_docs[int(quote_id)] = (m, s)
             doc_nums_term = relevant_movies['doc_count']
             for document in relevant_docs.keys():
                 term_freq = term_frequency(term, document, relevant_docs, relevant_movies)
@@ -116,6 +125,7 @@ def ranking_query_BM25(query, db):
                     score = 0
                 if score > 0:
                     tracker.add_score(document, int(score))
+
 
 def score_BM25(doc_nums, doc_nums_term, term_freq, k1, b, dl, avgdl):
     K = compute_K(k1, b, dl, avgdl)
@@ -142,5 +152,10 @@ if __name__ == '__main__':
 
     ranking_query_BM25(query, db)
     print(tracker.get_top(10))
+
+    query_params = {"year": "2000-2005"}
+    query_params['query'] = ["may", "boy", "girl"]
+    ranking_query_BM25(query_params, db)
+    print(tracker.get_top(3))
 
 
