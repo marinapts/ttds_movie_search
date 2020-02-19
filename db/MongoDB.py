@@ -55,10 +55,12 @@ class MongoDB(DBInterface):
         # clear flag specifies whether all contents of the database should be cleared before populating.
         raise NotImplementedError()
 
-    def get_indexed_documents_by_term(self, term: str):
-        if self.inverted_index_gridfs.exists(term):
-            return json.loads(self.inverted_index_gridfs.get(term).read().decode('utf-8'))
-        else:
-            return dict()
+    def splits_per_term(self, term: str):
+        return self.inverted_index.count_documents({"term": term})
+
+    def get_indexed_documents_by_term(self, term: str, skip: int):
+        docs_for_term = list(self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(1))[0]
+        return docs_for_term
+
 
 

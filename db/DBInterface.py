@@ -44,6 +44,10 @@ class DBInterface(ABC):
         raise NotImplementedError()
 
     @abstractmethod
+    def splits_per_term(self, term: str):
+        return NotImplementedError()
+
+    @abstractmethod
     def get_indexed_documents_by_term(self, term: str):
         # Given a term, returns a dict of the quote ids
         raise NotImplementedError()
