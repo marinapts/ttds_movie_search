@@ -61,7 +61,7 @@ class MongoDB(DBInterface):
         return self.inverted_index.count_documents({"term": term})
 
     def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
-        docs_for_term = list(self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit))
+        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit)
         return docs_for_term
 
     def get_movie_ids_advanced_search(self, query_params:dict):

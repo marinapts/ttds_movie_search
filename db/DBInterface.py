@@ -49,7 +49,7 @@ class DBInterface(ABC):
         return NotImplementedError()
 
     @abstractmethod
-    def get_indexed_documents_by_term(self, term: str, skip: int):
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
         # Given a term, returns a dict of the quote ids
         raise NotImplementedError()
 
