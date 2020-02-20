@@ -1,0 +1,1043 @@
+{1}{1}25.000
+{926}{1030}The Celebration
+{1252}{1275}Christian speaking
+{1291}{1335}Hi. I'm here now
+{1344}{1372}I landed this morning
+{1391}{1407}What?
+{1469}{1494}{y:i}Err... Washed?
+{1517}{1572}I shaved at the airport,|if you must know
+{1586}{1647}I shaved at the airport,|if you must know!
+{1674}{1703}I'm fine
+{1718}{1792}Right now I'm looking at the fields
+{1814}{1844}My father's land
+{1883}{1909}It's beautiful
+{1939}{2042}It makes me want to move back for|good, but there'd be a few problems
+{2078}{2109}I'll make it
+{2158}{2217}Yes, I suppose it will be shocking
+{2255}{2272}What?
+{2305}{2325}You're dropping out
+{2340}{2366}OK. 'Bye
+{2686}{2725}Bloody hell, that's my brother
+{2792}{2855}Why the hell didn't you say something?
+{2859}{2922}As if I saw him!|Jesus!
+{2948}{2993}I have to do everything myself
+{3134}{3170}Shit, Christian!
+{3208}{3241}Look at you, man!
+{3245}{3329}See him, Kasper?|He's walked all the way from Paris
+{3339}{3392}Only from the station
+{3587}{3638}I could fuck you right here!
+{3677}{3702}- Fucking hell!|- You're frisky
+{3719}{3795}It's been bloody ages!|It really has
+{3798}{3821}How's tricks?
+{3856}{3887}I'll give you a lift
+{3891}{3926}Hop out, kids!
+{3952}{4024}- I'm giving Christian a lift|- There's plenty of room
+{4186}{4223}- Sit in the front|- I can walk
+{4226}{4266}No, I want to talk to you
+{4269}{4354}- You really expect us to walk?|- What's the problem?
+{4358}{4419}All that way!
+{4447}{4553}He's my brother, for fuck's sake!|Give me a break, will you?
+{4572}{4590}Asshole!
+{4621}{4648}Chill out!
+{5017}{5062}- Is Dad here already?|- Not yet
+{5545}{5609}- Hello, what's your name?|- Lars
+{5629}{5675}Lars... OK, Mads, listen up
+{5700}{5770}I'm not very good with new staff,|get it?
+{5846}{5876}Who do you think we are?
+{5908}{5948}This is Christian...
+{5963}{5985}My brother
+{6011}{6106}He has two restaurants in Paris.|And I've got...
+{6110}{6148}one cafe in the docklands.|Alright
+{6184}{6264}We grew up here, so we know|how to treat customers
+{6272}{6312}A really good receptionist
+{6316}{6387}keeps an eye on who's who, right?
+{6443}{6518}And you give us rooms 9 and 19
+{6539}{6586}I'm afraid you're not on the list
+{6630}{6650}What?
+{6657}{6724}Look again: Michael Klingenfeldt
+{6727}{6797}Your father has told me|that Michael is not invited
+{6976}{7004}OK, Mads, listen up...
+{7008}{7038}Lars, OK?
+{7056}{7076}Right, Lars...
+{7107}{7212}Things went a bit amok last year.|I got a bit pissed...
+{7216}{7300}A couple of schnapps|over the top and I freak
+{7368}{7435}I've brought the bloody wife|and kids...
+{7440}{7491}Michelle is here too...
+{7563}{7596}That's nothing to do with me
+{7609}{7683}- Is there a room or not?|- Not!
+{7687}{7748}- Let me talk to my father|- He's out hunting
+{7751}{7829}Sort it out yourself, then.|That's your job, right?
+{7857}{7945}Lars, just find a room.|I'll talk to Dad
+{8025}{8077}Just give us one of the small rooms
+{8086}{8160}They're never used.|Number 3 and 1
+{8178}{8221}Give us one of those
+{8250}{8283}- You don't want a key?|- Of course
+{8436}{8510}I must be on the list|Is our sister here?
+{8864}{8904}Please get a move on
+{8922}{8979}It's Daddy's birthday, his sixtieth
+{8983}{9094}The cars up ahead, that's my family.|I have to get there first
+{9195}{9217}Nadim, wasn't it?
+{9229}{9258}Nadim, yes
+{9285}{9386}If you go a bit faster|I'll give you my phone number
+{9674}{9701}Hi, Baby! Hi!
+{9732}{9796}Are you ready?|They're nearly here
+{9816}{9872}- You haven't been drinking, right?|- Not today
+{9912}{9953}Wasn't it a fantastic funeral?
+{9981}{10030}- I'm ready|- What are you doing here?
+{10077}{10099}What?
+{10103}{10175}You missed your sister's funeral,|you're not invited
+{10237}{10288}Don't poke your nose into|what I do
+{10291}{10354}I'm poking it into what you don't do
+{10357}{10433}You didn't come to her funeral!
+{10436}{10481}You didn't phone on my birthday!
+{10484}{10553}You couldn't give a damn
+{10556}{10644}Now she's starting, too.|I'm going home!
+{10647}{10696}- Want my bike?|- Come on, you two!
+{10699}{10749}I won't have it
+{10752}{10840}Be quiet.|It's always the same bickering
+{10858}{10886}That's right, be quiet
+{10889}{10962}Spoken just like Christian
+{10976}{11000}Stop that!
+{11083}{11161}- Stop it!|- Listen to clever Christian
+{11468}{11542}Beep again.|So they can hear it
+{11580}{11628}That's his wife.|One of the son's
+{11640}{11680}That's Mette, damn it
+{11729}{11767}And the three little piggies
+{11949}{12012}You kids put a sock in it.|We're here!
+{12023}{12053}Behave yourselves!
+{12283}{12336}You just don't do that!|I'm your sister
+{12375}{12440}Good thing it's only once|every ten years
+{12510}{12536}Welcome, Grandad...
+{12576}{12620}Thank you, thank you
+{12753}{12840}- Thanks for the lovely funeral|- Thank you
+{12868}{12900}Great to see you again
+{13015}{13049}- Hello again|- The trip was so hot
+{13075}{13124}I'll go and unpack my wife
+{13498}{13522}Hi, Dad
+{13563}{13637}Your father asked me to be...|toastmaster this evening, OK?
+{13665}{13691}Do you know Lise?
+{13760}{13788}- How are you, my boy?|- It's so sad
+{13791}{13894}- The weather, I can't take it|- Go have a beer
+{13934}{13983}- You haven't changed|- Thanks
+{14006}{14129}Go on into the hall.|You'll meet Helge
+{14157}{14186}Hello, Uncle
+{14404}{14486}Christian darling, how lovely|you could make it after all!
+{14509}{14581}- You look great|- Excuse me, the guests are here
+{14584}{14683}Go to your father.|Don't forget to say Happy Birthday
+{14738}{14791}- Hello, Dad. Happy Birthday!|- Thank you
+{14794}{14853}- They're all waiting|- Sit down a moment
+{14862}{14935}I have something important to tell you
+{14947}{14971}Sit down
+{15044}{15067}Sit down
+{15125}{15173}- Join me in a Cognac?|- No, thanks
+{15306}{15367}Yes, it's... very important
+{15371}{15433}I've been thinking|about it for days
+{15478}{15504}Listen
+{15548}{15616}Two hookers are sitting|in a railway carriage
+{15668}{15752}Don't laugh at your old dad!|On his birthday, too!
+{15755}{15812}How dare you?|I'll have to tell your mother
+{15853}{15881}We're waiting for you
+{15885}{15953}The boy is laughing in my face
+{15961}{16009}Christian, you mustn't do that
+{16013}{16071}- Fine, let's all tell jokes|- Everyone's waiting
+{16075}{16134}To hell with them! If I want|a chat with my eldest son
+{16142}{16198}How are things?
+{16207}{16288}Fine. I'm opening a restaurant|in Lyons and...
+{16294}{16390}I can read the papers, my boy.|You're doing well
+{16393}{16488}How about that girlfriend|who's always phoning?
+{16493}{16562}Can't you give her a kid|and come back here?
+{16565}{16612}She's having someone else's kid
+{16616}{16702}Then find another girl|and move back here
+{16720}{16810}I'm getting older|and I want my family around me
+{16842}{16911}- Then there's your mother|- What about her?
+{16915}{16970}She's getting tired of my jokes
+{16974}{17033}- I can see why|- What do you mean?
+{17038}{17119}What's wrong with my jokes?
+{17125}{17157}There's no respect any more
+{17188}{17225}Tell me how you are
+{17256}{17329}- Got a girl? Oh, I've already asked|- Come on!
+{17336}{17354}We're coming
+{17366}{17391}Come along, my boy
+{17416}{17444}Just one thing...
+{17448}{17470}Christian...
+{17495}{17617}Will you say a couple of words about|your sister this evening? I'd just blub
+{17671}{17744}- I've already written something|- You have? Well done, my boy
+{17780}{17827}- Michael is here|- Michael?
+{17846}{17892}I suppose I'll have to talk to him
+{17966}{17988}Your guests are ready
+{17992}{18077}- Michelle, are you married?|- No
+{18086}{18154}- You're asking the wrong person|- I think so, too
+{18157}{18265}Sorry, that was my other son...|I'll have a word with him
+{18326}{18395}{y:i}Today is Helge's birthday!
+{18467}{18596}{y:i}He'll get lots of presents.|{y:i}And there'll be buns and cocoa...
+{18914}{18975}Hi, Christian.|Which room are you in?
+{18990}{19048}What? Seventeen. Why?
+{19052}{19140}I need to borrow your bath. I mean:|May I borrow your bath, please?
+{19301}{19353}{y:i}And the sound of the sea...
+{19698}{19736}I'll put them down here
+{19746}{19808}- The main course is a secret|- A secret?
+{19840}{19904}- You have been hunting today?|- Of course
+{20048}{20076}Are you listening?
+{20102}{20123}Good
+{20138}{20266}It was the third time we were going|to move to Copenhagen, right?
+{20318}{20369}But Bettina moved in with him instead
+{20377}{20412}- Bettina?|- Yes
+{20442}{20541}Anyway, I'm still here, right?|We went to the park yesterday
+{20545}{20638}I've been given the room|where my sister died
+{20641}{20720}Well, it's better than giving it|to Christian
+{20725}{20777}They were twins
+{20783}{20852}It's one thing not wanting|to talk about it...
+{20856}{20934}but covering it all up is just silly
+{20965}{20983}Look...
+{21004}{21032}it's spooky
+{21074}{21102}Yes, I can see that
+{21115}{21151}Like a haunted home
+{21156}{21229}I don't think she'd like it either
+{21247}{21332}If we take the covers off|and move the furniture a bit...
+{21346}{21376}Then I'll stay with her
+{21402}{21420}I don't mind at all
+{21462}{21508}- Certainly|- OK
+{22135}{22190}This is where it happened.|The bathroom
+{22300}{22364}Maybe I should have another room
+{22368}{22404}Yes, would you rather?
+{22434}{22464}It's just that...
+{22715}{22766}I'm getting really bad vibes
+{22954}{22980}Did you hear that?
+{23032}{23068}She's in the bathroom
+{23169}{23225}No, she's... she's dead
+{23341}{23379}We'll just have a look
+{23487}{23531}No, I think we should go
+{23543}{23569}No, we must look
+{23907}{23963}Hey, Mette, I can't find them
+{23972}{24018}Have you checked the suitcases?
+{24098}{24128}I can't find my shoes
+{24142}{24200}They should be in a suitcase
+{24203}{24259}I've looked in that one
+{24271}{24338}Keep your shirt on
+{24348}{24430}I can't go to dinner in brown shoes.|Dad will go crazy!
+{24433}{24515}They must be somewhere
+{24518}{24574}I've looked everywhere
+{24629}{24664}I think I left them behind
+{24668}{24707}You didn't say that. Get it?
+{24771}{24860}Go back and get them.|You've got two hours
+{24873}{24913}Take the car
+{24917}{24975}Stop this shit, Michael
+{24982}{25051}I can't see my dad in socks
+{25054}{25176}You expect me to go home now?|What would your mother and father say?
+{25182}{25270}I can't go to dinner in these shoes!
+{25278}{25370}- Are you insane?|- You could just pack your own stuff!
+{25392}{25456}I've packed for you, me,|and the kids
+{25459}{25538}and you want everything|to be just so
+{25541}{25660}If you don't like it,|pack your own shit!
+{25878}{25935}I've got fucking news for you!
+{25950}{26003}You're the one who does the packing!
+{26016}{26122}And every single time|you lose my shoes!
+{26125}{26250}You're the one who wanted|to visit your fucking parents!
+{26321}{26417}I worked for a while at a cake shop
+{26465}{26526}Actually, I'm doing the dessert tonight
+{26597}{26706}What does it mean? An upward arrow?|Up, up, up?
+{26712}{26817}If you lie in the bath, maybe you can|see if there's something there
+{26838}{26901}The bath? You want me|to lie in the bath?
+{27113}{27143}Shall I lie down?
+{27146}{27208}See if you can spot anything
+{27211}{27287}A sign or another arrow
+{27290}{27384}A wave or a fish or a bird.|Kind of like Getting Warmer
+{27443}{27498}- It's just not good enough|- I'm sorry
+{27536}{27580}I'd just ironed this
+{27583}{27633}I said I was sorry
+{27708}{27789}Shall we... shall we lie down|for five minutes?
+{27828}{27863}What about the party?
+{27918}{28014}We'll just lie down for five minutes,|right?
+{28146}{28227}There's a fish!|It means flat, which means down
+{28273}{28330}I'm not sure I understand this game
+{28363}{28383}Oh dear...
+{28416}{28449}How strange!
+{28593}{28669}We always played it.|{y:i}Getting Warmer
+{29302}{29328}Come on...
+{29348}{29367}Sit down
+{29460}{29509}Check next to the other leg
+{29566}{29672}How sweet of her to have done this...|I can hardly bear it
+{29805}{29872}I'm the only one still stuck here
+{29901}{29962}The rest of you go|swanning off to Paris and...
+{29965}{30024}You can't sit here crying
+{30033}{30071}I'm sorry
+{30194}{30220}Have one of these
+{30223}{30283}Just say if you want me to go
+{30288}{30319}Didn't you want a bath?
+{30377}{30409}An arrow again
+{30423}{30460}And another arrow
+{30489}{30512}Will you...
+{30564}{30602}- Will I what?|- Undo me
+{30789}{30878}Look, I've still got a good ass.|Is a bath all it's going to get?
+{31882}{31914}Up there, look!
+{31974}{32024}- On the other side|- Where?
+{32027}{32083}Next to the bulb
+{32331}{32417}To whoever finds this letter.|You are probably...
+{33134}{33219}- Bloody hell!|- It doesn't say anything
+{33342}{33382}Mette, damn it!
+{33446}{33497}Did you leave this soap here?
+{33541}{33592}This pisses me off!
+{33607}{33701}- Michael|- Why did you leave the soap here?
+{33704}{33792}You're the one who used it, prick
+{33822}{33849}Shit!
+{33874}{33944}- Did you hurt yourself?|- I certainly fucking did!
+{33982}{34072}There have always been|ghosts in this house
+{34084}{34118}It doesn't say anything
+{34129}{34219}I'll happily stay here.|Thanks for your help
+{34232}{34264}You were really frightened?
+{34270}{34296}Not at all
+{34299}{34316}A bit?
+{34336}{34385}I'm sorry.|Thanks for your help
+{34453}{34519}Why the hell did you leave|the soap there?
+{34522}{34615}I didn't, you did
+{34618}{34704}- I didn't|- You're the one who used it last
+{34711}{34784}- Where are my pants?|- I don't know. Over there!
+{34787}{34876}You should take care|of your things
+{34896}{34958}- I'm not your babysitter|- Shut up! Jesus!
+{34961}{34995}Oh, for God's sake!
+{35105}{35177}The fucking thing's|fallen down now. Shit!
+{35180}{35277}- You'd better put it up again|- Bollocks!
+{35281}{35400}It's weird. You were always|the wild one, getting into fights
+{35418}{35450}Now it's your brother
+{35472}{35532}You can't even be bothered|to look at a pretty girl any more
+{35570}{35621}Maybe you think I'm too skinny
+{35651}{35674}Christian?
+{35967}{36064}I'll put it in here.|They mustn't find it...
+{36252}{36273}Done
+{36573}{36633}Where have you gone,|lovely Christian?
+{37528}{37587}It's six o'clock.|Time to get up!
+{37600}{37709}Cards, please! Tickets, please!|Or other proof of travel...
+{37771}{37797}My trousers!
+{37861}{37916}- Hi, Grandpa!|- Hi, Dad
+{37931}{37989}I'll see you in the lounge in five|minutes!
+{38029}{38072}These fucking shoes...
+{38365}{38384}Hi, Bent!
+{38652}{38674}Be cool
+{38787}{38835}Hi, Poul, how's tricks,|you old bastard?
+{38862}{38879}Hi, Dad
+{38903}{38998}Later, my boy... we're going in now
+{39006}{39028}It's about...
+{39070}{39172}I've been asked to inquire whether you|are interested in the Lodge
+{39202}{39292}I don't see you as one|of the brethren, I must say
+{39304}{39380}But Christian has told Preben|you're doing well
+{39383}{39433}And as Christian is not interested
+{39438}{39545}you may expect to be invited|to join the Freemasons
+{39557}{39636}Strike while the iron is hot.|This may be your only...
+{39646}{39713}{y:i}He could make something of himself...
+{39727}{39787}We have to help you get on
+{39803}{39892}But try to behave like a normal|human being tonight, alright?
+{39928}{40006}Keep your hands off what's-her-name...|Michelle?
+{40015}{40050}I'd like you to hover about,
+{40067}{40153}keep things running smoothly
+{40166}{40243}Can you manage that?
+{40474}{40552}You, you're supposed to serve drinks.|Get a move on, will you?
+{40556}{40586}Go on, move!
+{40602}{40626}Have you got a drink?
+{40782}{40818}We need to talk
+{40862}{40892}I can't right now
+{41916}{41963}You do remember something,|don't you?
+{41984}{42056}- Yes, certainly|- Jolly good
+{42147}{42248}I was thinking of saying|a word or two this evening
+{42259}{42291}I thought as much
+{42315}{42378}It won't be anything|fit for little girls
+{42399}{42430}I bet it won't
+{42445}{42481}You fell asleep
+{42603}{42640}Aren't you sleeping properly?
+{42692}{42720}Only with you
+{43056}{43136}It's a great honour for me to act|as toastmaster this evening
+{43139}{43252}for the Klingenfeldt-Hansen family
+{43297}{43386}My name is Helmuth von Sachs
+{43390}{43482}Yes, I am from Deutschland|Cologne, the Ruhr, the steelworks
+{43561}{43626}And also Helge is a man of steel.|Still going strong
+{43687}{43787}Helge, mein Freund,|mein danishes Vater,
+{43801}{43831}over to you
+{44136}{44253}Seeing you all reminds me|so clearly of the years gone by...
+{44279}{44358}and of all that's happened to us
+{44438}{44518}There's nothing special about|turning sixty
+{44542}{44582}It's not a big deal
+{44629}{44749}It seems like yesterday when we|concluded the final negotiations
+{44777}{44853}for the take-over of this unique place
+{44877}{44941}Yet it was way back
+{44953}{45006}in the summer of 1971
+{45060}{45166}when my young family walked up|these steps
+{45218}{45254}My dear wife,
+{45274}{45299}Helene,
+{45326}{45348}Michael,
+{45375}{45403}and the twins...
+{45475}{45498}The twins...
+{45592}{45701}Ready to move into|this beautiful estate
+{45719}{45743}We were so...
+{45839}{45891}We were so full of expectations
+{45948}{45995}I'll stop there
+{46004}{46097}I'll stop there and hope that|we will have a lovely party together
+{46100}{46140}Let's eat!
+{46358}{46393}First course. Ready...
+{46431}{46450}Go!
+{46611}{46632}Over and out
+{46893}{46988}- Did you enjoy the drive?|- No, it was very hot in the car
+{46991}{47046}You've got air conditioning, Bent
+{47049}{47140}Yes, but it dries your mouth up
+{47143}{47215}- It really is most unpleasant|- Really?
+{47243}{47285}The kids are here too
+{47393}{47415}Give me some water!
+{47419}{47471}May I have some water, please?
+{48225}{48328}I'm all wet...
+{48414}{48510}- What's your name, lass?|- My name is Mette
+{48543}{48615}- M. E. T. T. E. Mette|- That's right, yes, Mette
+{48695}{48773}I said it's lobster soup...|Iovely!
+{48788}{48822}No, it's salmon soup
+{48825}{48859}Salmon?
+{48902}{48952}I think it tends more towards lobster
+{48957}{49063}- It's delicious, this soup|- Yes. Tomato soup
+{49108}{49201}No, definitely not tomato.|It's lobster soup
+{49212}{49261}- Yes|- Yes, lobster soup... cheers!
+{49440}{49500}Eldest son's speech...|Ready, Morten?
+{49517}{49574}{y:i}It's nearly seven o'clock and
+{49583}{49682}I should like to propose the first toast,|it being my duty as the eldest son
+{49686}{49734}- Correct, Helmuth?|- Absolutely
+{49775}{49828}But first, a speech
+{49840}{49903}I've written two, Father
+{49934}{50009}One is green, the other is yellow.|You choose
+{50087}{50173}- Green? Yellow?|- I'll take the green
+{50194}{50295}The green is an interesting choice,|it's a kind of home truth speech
+{50313}{50393}I've called it When Dad had his bath
+{50480}{50585}I was very young|when we moved here
+{50595}{50683}Things changed completely for us
+{50709}{50771}We had all the space we wanted
+{50774}{50855}and we filled it with as much trouble|as we could cause
+{50859}{50909}This room was a restaurant then
+{50913}{51028}I can't count the times|my sister Linda, who is now dead
+{51040}{51128}and I played in here
+{51132}{51238}She would put things in people's|food without their noticing
+{51283}{51386}{y:i}We would hide and watch.|{y:i}Then she would begin to laugh
+{51407}{51507}She had the most infectious|laugh you can imagine
+{51511}{51610}In no time at all we'd both be howling|with laughter and we'd get caught
+{51649}{51710}But nothing ever happened to us
+{51713}{51759}It was much more dangerous
+{51763}{51827}when Dad had his bath
+{51877}{51993}I don't know if you remember,|but Dad was always having baths
+{52009}{52065}He'd take Linda and me|into the study...
+{52074}{52138}as there was something|he had to do first
+{52146}{52264}Then he'd lock the door|and roll down the blinds
+{52275}{52383}Then he'd take his shirt off and|his trousers and make us do likewise
+{52401}{52503}He'd lie us across the green|couch that's been thrown out now...
+{52515}{52631}and abuse us sexually. He raped us.|Had sex with his little ones
+{52670}{52694}Christian!
+{52703}{52788}A couple of months ago,|when my sister died
+{52791}{52866}I realised that Helge was|a very clean man, with all those baths
+{52877}{52972}I thought I'd share it|with the rest of the family
+{53006}{53084}Baths. Summer, winter, spring,|autumn, morning, evening...
+{53090}{53134}Really, Helge's a very clean man
+{53141}{53258}I just wanted you to know that seeing|as we're celebrating his sixtieth
+{53280}{53306}What a guy!
+{53318}{53408}Lmagine living a long life and|watching your children grow up!
+{53413}{53467}And grandchildren!
+{53471}{53539}But you didn't come to listen to me
+{53556}{53676}We've come to celebrate|Helge's sixtieth, so let's do so
+{53685}{53768}Thank you for all those|wonderful years
+{53809}{53836}Happy Birthday!
+{54076}{54141}I have nothing to drink.|Fill our glasses!
+{54550}{54641}Christian, you were the first
+{54653}{54704}but now it's my turn
+{54750}{54826}Elsie, it is your birthday
+{54854}{54884}It's Helge's!
+{54905}{54926}What did he say?
+{54929}{54999}He said it's Helge's birthday, Grandad
+{55053}{55115}Helge, it's your birthday,|and that's good
+{55132}{55240}You're a big boy now.|Your ears can take a story
+{55244}{55304}from across the seven seas
+{55374}{55395}Nice one, Grandad!
+{55426}{55461}I have to go
+{55464}{55527}When Helge was a young lad
+{55536}{55633}he told me he had trouble|finding ladyfriends
+{55963}{55995}- Hello, Christian|- Kim...
+{56006}{56062}I've got a plane to catch
+{56084}{56114}Stop, everybody!
+{56117}{56186}May I introduce my boyhood buddy,|Christian
+{56190}{56249}You know most of them
+{56297}{56330}Christian, how are you?
+{56370}{56422}- I'm fine|- You're fine?
+{56473}{56505}Well done, Christian
+{56516}{56578}You've made your speech and|now you're going home
+{56596}{56670}The battle's lost.|Nothing's changed
+{56675}{56690}Over
+{56724}{56750}Are you drunk?
+{56754}{56797}How else could I cook?
+{56801}{56880}- How long have we known each other?|- A long time
+{56884}{56912}Since Year One?
+{56951}{56987}We scrumped apples together
+{57033}{57126}I've been waiting for this ever since,|and you just run away
+{57158}{57251}From your father, who drew lots|for you and your sister
+{57292}{57388}A brilliant start to your speech.|Drawing lots like your father
+{57406}{57439}What do you want, Kim?
+{57545}{57581}Sorry to interrupt, Grandad
+{57593}{57720}I just want to say that I hope none|of you took Christian seriously
+{57726}{57826}He is my brother and I love him dearly
+{57839}{57944}But what he said wasn't true.|And I should know, right?
+{57955}{58025}Sorry for interrupting.|I'm a little shocked
+{58070}{58169}At 7.15 your father'll come down to|give me a time for the main course
+{58194}{58288}I think they like the food,|he'll say, as usual
+{58302}{58351}And he'll have his usual glass
+{58393}{58434}Just give me two minutes
+{59098}{59138}I thought you'd gone
+{59160}{59179}Come here!
+{59207}{59249}Bring a schnapps for me and my son
+{59265}{59352}- That was splendid|- Thank you
+{59387}{59423}I think they like the food
+{59471}{59492}Have some schnapps
+{59505}{59542}- No, thanks|- Really?
+{59628}{59689}That tastes good.|Damned good!
+{59709}{59750}I do believe it's damned good
+{59786}{59818}Have one yourself
+{59823}{59880}Come with me
+{59896}{59919}Alone
+{59946}{59970}Off we go!
+{60198}{60226}Well, how are you?
+{60251}{60269}I'm fine
+{60296}{60314}Are you?
+{60388}{60412}Are you sure?
+{60467}{60517}Well, I don't understand this
+{60557}{60624}My memory must be failing me.|Age, probably
+{60648}{60670}What do you mean?
+{60678}{60735}What you talked about
+{60744}{60816}I don't recall any of it.|You'll have to help me
+{60852}{60880}What happened exactly?
+{61025}{61138}Sorry it's probably me|who got it wrong
+{61150}{61226}Don't apologise|or you'll really have me worried
+{61230}{61326}I'm just a bit stressed out at the|moment with work...
+{61337}{61367}and my sister
+{61384}{61408}Forget it
+{61451}{61569}What you were telling us is a crime.|I think we should call the police
+{61579}{61635}No, don't do that
+{61646}{61684}Just forget it
+{61709}{61829}I'm not sleeping well.|I'm feeling a bit weird. Sorry
+{61832}{61873}Are things going well upstairs?
+{61882}{61951}Yes, fine, fine
+{61955}{62017}It takes more than that to shake them
+{62107}{62161}Have a good trip home.|It was nice seeing you
+{62173}{62206}They're waiting for me
+{62863}{62942}- Helge, it's your birthday|- Grandad, not again!
+{62960}{63028}You're a big boy now
+{63039}{63153}Your ears can take a story|from across the seven seas
+{63234}{63331}When Helge was a young lad
+{63343}{63456}he told me he had trouble|finding ladyfriends
+{63506}{63570}I told him, Listen, lad!
+{63578}{63701}Just buy a big potato and stuff it|down your swimming trunks
+{63705}{63818}Go down to the lake and|they'll come running!
+{63844}{63886}Anyway, summer came...
+{63932}{63989}- What do you think?|- Me?
+{64027}{64076}I don't know what he's planning
+{64211}{64326}He came back in despair and|told me things were far worse now
+{64338}{64392}Nobody would talk to him
+{64401}{64482}No wonder, I said. You should|have put the potato
+{64497}{64565}down the front of your trunks
+{64666}{64773}{y:i}For he's a jolly good fellow!
+{64935}{64954}Michelle!
+{64978}{64994}Pia!
+{65008}{65034}A word
+{65067}{65138}Michelle come here, Pia come here.|A word
+{65215}{65261}We'll steal their car keys.|Over
+{65271}{65290}- What?|- Us?
+{65322}{65444}It's Christian's turn tonight.|People mustn't go home yet. Over
+{65460}{65549}I don't think he intends to say|any more. He apologised
+{65556}{65634}Let's wait and see.|Don't tell the old waiters
+{65637}{65682}They need their pensions
+{65687}{65719}Off you go. Now!
+{65840}{65875}We musn't leave any traces
+{65879}{65949}No, no, we'll be careful
+{66048}{66060}I've got it!
+{66105}{66119}Next room
+{66156}{66180}Is everything OK?
+{66290}{66326}There aren't any problems?
+{66344}{66402}No, no. Everything is OK
+{66487}{66531}Is my brother staying the night?
+{66549}{66583}I don't really know
+{66761}{66783}A taxi?
+{66792}{66819}I'll check it out
+{67069}{67160}Hey, Charlie Brown!|You've come to the wrong place
+{67384}{67413}Can I go?
+{67417}{67448}Just a moment
+{68013}{68099}Listen, Sambo. I don't know where|you met my sister...
+{68332}{68386}- Michael, what are you doing?|- What the hell do you mean?
+{68511}{68552}What the hell are you doing?
+{68559}{68620}Mind your fucking manners!
+{68624}{68752}How dare you drag some monkey|to Dad's party?
+{68756}{68840}Are you calling Gbatokai a monkey?|How dare you? - Chill out
+{68904}{68955}You Nazi bastard!
+{69210}{69238}OK. Push off!
+{69620}{69709}Mum, hang on.|This is my boyfriend, Gbatokai
+{69845}{69917}Mum, you haven't met him before.|That was someone else
+{70435}{70532}Forgive me for disturbing you again.|But I forgot the most important bit
+{70546}{70651}We're here for my father's birthday,|not anything else
+{70655}{70778}If I led you up the wrong track|earlier, I'd like to make amends
+{70791}{70851}by proposing a toast to my father
+{70855}{70941}- Please stand|- Well done, Christian
+{71070}{71104}Raise your glasses!
+{71242}{71329}Here's to the man who killed|my sister. To a murderer
+{71443}{71486}I'd like to propose an interval
+{71650}{71711}Cigarettes! Quick!
+{71939}{71972}Play something
+{71976}{72006}Nice and quiet
+{72062}{72076}Play something
+{72117}{72195}No, let's stay a while.|We can't just leave
+{72500}{72536}Christian, are you crazy?
+{72612}{72652}Christian, can you hear me?
+{72684}{72721}Are you crazy, Christian?
+{72820}{72869}Make sure nobody goes home
+{72893}{72940}He's sick... sick, damn it!
+{73079}{73145}For the last time!|I have phoned...
+{73149}{73208}- Get me a taxi|- Just a moment
+{73283}{73334}I can't take it.|I already suffer from depression
+{73339}{73399}We can't leave!|There are no taxis here
+{73402}{73441}- Fine, then I'll walk|- Alright, let's walk!
+{73444}{73532}Here comes the Danish summer.|I've had it with these gatherings
+{73536}{73597}- Bent, have you seen the car keys?|- No, I haven't
+{73658}{73734}We're leaving|but I can't find our car keys
+{73743}{73798}- Problems?|- I can't take it
+{73880}{73946}The number you're calling|is still engaged
+{73950}{74057}{y:i}- There is an eleven month wait|- May I speak to Kim?
+{74092}{74159}Lars, just take it easy, OK?
+{74186}{74211}Hide those car keys!
+{74222}{74254}In the oven
+{74342}{74378}In the fridge
+{74473}{74493}All gone!
+{74509}{74540}Where the hell is Michelle?
+{74640}{74675}Come in, damn it
+{74695}{74762}Michael, I want a word|with you, too
+{74793}{74807}You must leave
+{74811}{74850}No. We're going to talk now
+{74860}{74941}- Mette, you must hear that too|- We're going to talk, come on!
+{75057}{75084}In here. Come on
+{75098}{75156}- Let go of me|- Calm down, alright?
+{75175}{75243}- OK, what do you want?|- Last year...
+{75247}{75372}You came on to me and now|you won't even give me the time of day
+{75399}{75489}I'm sorry, right?|Damn it...
+{75493}{75533}I've got my wife here
+{75536}{75621}It's funny, she's never|been that important before
+{75635}{75679}You know I got pregnant?
+{75697}{75803}Don't worry, I got rid of it.|I just thought you should know
+{75834}{75949}Listen, it's my old man's 60th|and things are going crazy
+{76075}{76158}Hi, Bent. Bloody hell.|Is this your room?
+{76169}{76222}I was just leaving.|Seen my car keys?
+{76265}{76304}I'll have a quick look, OK?
+{76381}{76414}Sure you haven't seen them?
+{76458}{76516}I'll get really depressed|if I don't find them
+{76519}{76597}I know, I know.|Bent, run along downstairs
+{76691}{76786}Pack up your stuff|and get out, right?
+{76790}{76879}Here's your wages.|Now just fuck off, understand?
+{76939}{77004}You're as fucked up as your Dad
+{77291}{77346}Don't ever talk about my family!
+{78084}{78149}What if I got up and said|a couple of words instead?
+{78186}{78218}About you?
+{78230}{78298}About how sick you were as a child?
+{78332}{78420}About the way you always spoiled|things for the other children?
+{78423}{78492}Making them watch as you burnt|their toys
+{78496}{78562}The warped character|you've always been?
+{78606}{78683}About how we had to go to France
+{78689}{78798}to rescue you from that sanatorium|where you lay
+{78803}{78859}sick in the head,|as ever, pumped full of drugs
+{78902}{78945}to your mother's despair
+{78970}{79034}I could also mention|your lack of talent with women
+{79037}{79083}Lovely women
+{79087}{79130}you let go by, year after year
+{79133}{79226}because there is so little man in you.|Christian
+{79240}{79347}I could also make a speech|about you and your sister
+{79361}{79398}What do you say to that?
+{79453}{79535}Did she ever say goodbye to you?
+{79619}{79701}No. Was there a card? A letter?|No. Nothing
+{79714}{79757}There was for the rest of us
+{79761}{79814}And maybe there was a reason why
+{79849}{79903}Because you just left
+{79916}{79945}as usual
+{79975}{80024}Abandoned your sick sister
+{80076}{80125}She kept asking for you
+{80128}{80255}Rushing to the phone every|time it rang. But it was never you
+{80259}{80363}As ever, you were only interested|in yourself and your sick mind
+{80366}{80481}Now you sling mud at the family that|only ever wanted the best for you
+{80528}{80598}Your mother wants you to go|and never come back
+{80615}{80675}But I think you should stay right here
+{80696}{80798}Feel what it means|to spit in your family's face
+{80946}{80975}After...
+{80989}{81078}After that little intermezzo pianissimo
+{81081}{81147}I think we should return|to the dinner table
+{81157}{81186}Ich haber Hunger|Ladies and gentlemen...
+{81601}{81672}They're back!|Christian isn't very happy
+{81678}{81751}Right! Venison and cranberry, go!
+{82035}{82064}Cheers, Grandad!
+{82172}{82240}It was a superduper speech
+{82296}{82365}You keep yelling into my ear
+{82643}{82681}Grandad, cheers again
+{83181}{83224}Salt and pepper! Cheers!
+{83230}{83311}Champagne! We must have|Champagne! And caviar!
+{85505}{85572}If the birthday boy|is my danishes Vater,
+{85579}{85658}Elsie is my danishes Mutter
+{85685}{85732}Everyone's Mother!
+{85747}{85788}Elsie, over to you
+{85793}{85829}Give her a hand!
+{85974}{86058}Thank you, Helmuth. Thank you all
+{86073}{86165}I want to say how much|I appreciate
+{86188}{86242}your coming today
+{86270}{86351}I also want to say a word or two
+{86358}{86451}to thank my husband, my Helge
+{86476}{86526}Though it may be hard to find the words
+{86529}{86600}to describe what you have meant
+{86604}{86641}and still mean to me
+{86672}{86733}But with your appetite for life
+{86747}{86813}and infinite love for your family,
+{86830}{86943}you have given me everything|a wife could wish for
+{86969}{87066}We've had thirty wonderful years.|Thank you!
+{87132}{87268}I think I'll take the opportunity to|say a word or two to my children
+{87369}{87486}I think it is fantastic to see|how well you have done,
+{87499}{87593}especially when I consider|how little you once were
+{87657}{87678}Michael,
+{87702}{87779}You are our youngest,|our little baby
+{87805}{87858}Not that we've seen that much of you
+{87869}{87957}You were away from home from|an early age
+{87965}{88016}First, boarding school
+{88036}{88086}Then away at sea
+{88100}{88169}Then catering college in Switzerland
+{88201}{88260}You never became a chef
+{88268}{88321}but who knows?
+{88345}{88487}At any rate you have given us|three splendid grandchildren
+{88508}{88584}for whom your father and I|are so grateful
+{88607}{88699}And of course|we thank your little Mette
+{88736}{88826}Helene, the family loner
+{88858}{88896}You really are, Helene
+{88899}{89029}Ever since you informed us that you'd|decided to become a singer
+{89034}{89152}and had joined the Trotsk...|the Young Socialists, I think it was...
+{89169}{89242}We always knew you would|choose your own path
+{89245}{89316}And you certainly have
+{89324}{89389}In life as well as your studies
+{89412}{89488}You've ended up in anthropology
+{89496}{89600}Most interesting. Though your father|and I always hoped you'd chose Law
+{89669}{89800}But goodness, I can't begin to count|the number of foreign countries
+{89803}{89934}and their unfortunate inhabitants|with whom you've had contacts
+{89946}{89983}Speaking of which,
+{89997}{90078}I'd like to extend a warm welcome|to Gonzales
+{90085}{90134}Mummy, his name is Gbatokai
+{90242}{90275}Welcome, Kai!
+{90326}{90402}Then there is you, Christian
+{90426}{90489}You have always been quite special
+{90529}{90574}A creative child
+{90598}{90665}The stories Christian could tell|when he was small!
+{90672}{90813}I always thought you'd make|a really good author one day
+{90857}{90904}When Christian was small,|for all of you who don't know,
+{90962}{91062}he had a loyal companion|called Snoot
+{91093}{91138}who didn't exist
+{91172}{91266}But Snoot and Christian|were inseparable
+{91281}{91368}If Snoot didn't like something,|neither did Christian
+{91375}{91441}If you were the one|at the receiving end,
+{91444}{91508}there was nothing|you could do about it
+{91526}{91562}But dear Christian...
+{91580}{91701}It is so important to be able|to distinguish fact from fiction
+{91722}{91803}I think you've always|had trouble doing so
+{91828}{91920}Of course you can be angry|with your father
+{91927}{91987}I am sometimes, too
+{92008}{92090}But it has to be sorted out|in private
+{92097}{92187}Telling stories like those you've|told this evening
+{92190}{92274}however exciting they may be...|and they were exciting...
+{92288}{92350}is going a bit too far
+{92403}{92496}Christian, I think that Snoot|has been with you today
+{92517}{92591}and I think you both rather upset|your father
+{92608}{92683}So I think it would be appropriate|if you stood up,
+{92713}{92756}leaving Snoot in his seat,
+{92767}{92817}and gave your father an apology
+{92837}{92924}It won't belittle you in any way|to say you're sorry
+{92948}{92989}It would be quite alright
+{93087}{93140}Christian, you may stand up now
+{93227}{93307}Come on, Christian.|Get your fucking act together!
+{93338}{93411}- He's sick in the head, Mum|- Christian?
+{94181}{94223}I'm sorry to disturb you again
+{94261}{94352}In 1974 you, my mother,|came into the study
+{94355}{94449}to see your son on all fours|and your husband with no pants on
+{94459}{94537}I'm sorry you saw me like that
+{94541}{94619}Yet you left the room when your|husband ordered you out
+{94623}{94730}I'm sorry you're so hypocritical|and corrupt that I hope you die
+{94733}{94785}I'm sorry that you're all such cunts
+{94789}{94835}that you believe her
+{94847}{94913}I'm sorry that for thirty years,|Your husband
+{94978}{95015}Let me finish!
+{95043}{95074}I haven't finished!
+{95088}{95169}Christian, cool it.|Come on. Out!
+{95220}{95285}- I want my coat|- You can have your coat
+{95467}{95561}You were away at boarding school.|What the fuck do you know?
+{95565}{95602}But you know anyway!
+{95606}{95669}- You're way out of line!|- You know anyway!
+{95673}{95732}- Don't you?|- You've gone too far!
+{95830}{95861}Out of my way!
+{95930}{95956}Lock the door!
+{96010}{96031}Is it locked?
+{96049}{96076}I think so
+{96437}{96531}{y:i}In the deep, deep forest peace
+{96567}{96638}{y:i}Ehere songsters dwell
+{96714}{96815}{y:i}Ehere my soul did hearken|{y:i}many a time
+{96902}{96977}{y:i}To the birds'happy song
+{97157}{97238}Where was I?
+{97244}{97291}Mother, my loyal witness!|In 1974 you entered the study...
+{97295}{97428}and saw my father's stiff dick|rubbing my hair - You bastard!
+{97556}{97577}You bastard!
+{97673}{97701}He is not well
+{97731}{97761}It's very sad...
+{97768}{97802}Mother, please continue
+{97840}{97989}{y:i}There is such an idyll, such peace|{y:i}and calm in the sylvan solitude
+{98028}{98096}{y:i}That all sorrows are stilled
+{98131}{98221}{y:i}Ehere peace and rest do reign
+{98408}{98452}Get out of here, you bastard!
+{98469}{98508}Fuck off!
+{98570}{98632}Leif, stop that, damn it!|He's my brother
+{99082}{99109}Christian, come here!
+{99157}{99218}The game's over, get it?
+{99505}{99575}Have you had enough, man?
+{99608}{99644}Not that! He's my brother
+{99682}{99723}- Come on, get rid of him|- Where?
+{99726}{99809}- In the woods|- We've got to stop this shit!
+{99904}{99946}- How far?|- Just get rid of him
+{99985}{100065}- What do you mean, get rid of him?|- Shut up! Over here
+{100142}{100186}We'll leave him by that tree
+{100246}{100306}That's the way.|Come on
+{100480}{100549}Do we really have to tie you|to a tree, Christian?
+{100613}{100697}What the hell|made you talk such shit?
+{101157}{101226}- Is he tied up?|- I'm through now
+{101263}{101292}Calm down now
+{101316}{101344}Easy does it
+{101378}{101404}Take it easy, Christian
+{101924}{101995}Leif, have you got a cigarette?|I dropped mine
+{102050}{102105}I'll check all the doors
+{102233}{102267}I don't want to talk to him
+{102289}{102329}What have you done to him?
+{102355}{102388}Relax
+{102407}{102492}I talked to him. He's gone home.|He's very sorry
+{102505}{102565}So let's take it easy.|We'll talk about it later
+{102693}{102718}You want trouble?
+{102828}{102883}Stop it, Michael!|Michael, stop it!
+{103111}{103153}That's enough!|Back off!
+{103319}{103355}- Hi there, Kim|- Hi, Leif
+{103379}{103427}We need to lock the back door
+{103448}{103513}- Where is it?|- Right over here
+{103597}{103645}- A bad business|- Yes
+{103668}{103712}You didn't kill him, or anything?
+{103725}{103764}He won't be back
+{103789}{103830}- This way?|- In here
+{103833}{103886}- This is the wine cellar.|- Yes. Over
+{103986}{104019}Cut it out, Kim
+{104052}{104080}What the hell is this?
+{104097}{104137}- You locked him in?|- Yes
+{104158}{104206}We can't have his type|running around
+{104342}{104370}Hands off!
+{104374}{104446}- Kim, where's Christian?|- No idea
+{104945}{104987}Stop drinking, Michael
+{105291}{105317}What did you say?
+{105359}{105413}Why don't you make a speech?
+{105590}{105669}Right, let's get things swinging!|A little sing-song
+{105692}{105783}{y:i}I saw a real Black Sambo
+{105804}{105865}{y:i}His face was black as pitch
+{105904}{105974}{y:i}He spoke all funny
+{105982}{106069}{y:i}And had a ring in his nose
+{106077}{106170}{y:i}I asked him: Ehat are you?
+{106186}{106269}{y:i}Ehy are your legs covered in tar?
+{106277}{106366}{y:i}Hejust laughed and said:|{y:i}Tomrassi gassi bom!
+{106635}{106720}{y:i}I saw a little Indian
+{106723}{106816}{y:i}His face was as red as fire|{y:i}He spoke all funny
+{106894}{106972}I can't stand this!|They'll kill each other!
+{106989}{107036}I'm going crazy!
+{107232}{107272}I've got such a headache
+{107275}{107337}Will you get my tablets?
+{107478}{107542}- Have you seen Christian?|- No, he's gone home
+{107549}{107617}It's for the best
+{107662}{107703}I'll get your tablets
+{108102}{108145}You're all crazy
+{110769}{110834}- You're still capable...|- Oh yes
+{110844}{110896}For longer than you think, Helge
+{110937}{110995}It's nearly 10 o'clock
+{111018}{111092}and something exciting|is about to happen
+{111465}{111570}As Alfred Hitchcock suggested|for his gravestone:
+{111582}{111663}This is what happens|to naughty little boys
+{111678}{111801}Helge, you're not getting|out of the family tradition
+{111807}{111842}The grand finale!
+{111947}{112039}{y:i}It's Daddy's birthday!|{y:i}It really is today
+{112063}{112133}{y:i}Daddy's birthday today!
+{112139}{112233}{y:i}Now listen to the way|{y:i}we blow the trumpet!
+{112522}{112601}{y:i}It's Daddy's birthday today!
+{112627}{112700}{y:i}Listen to the way|{y:i}we play the flute!
+{113269}{113355}You dropped something!|You should be more careful
+{113547}{113618}Helene... you're not going already?|So soon?
+{113641}{113727}- I want to go home now|- Don't be silly
+{113731}{113787}It's time for dessert
+{114678}{114778}I love these family traditions
+{114788}{114892}After the dance around the house|a note appears
+{114897}{114931}on the toastmaster's glass
+{114934}{115000}and here is what it says:
+{115065}{115208}A certain man urges his sister|to read letter to his father A letter
+{115256}{115382}I think Helene is too shy.|Right, Helene?
+{115457}{115493}In any case...
+{115509}{115645}it is kind of your brother|to help you get started
+{115692}{115785}And it seems that there|is peace in the family again
+{115824}{115937}So let's give Helene a hand
+{116196}{116251}- Come on|- Come on, Helene
+{116415}{116451}Don't be shy!
+{116686}{116728}Michael, ignore him!
+{116863}{116885}It's...
+{116981}{117003}It's from my sister
+{117115}{117166}To whoever finds this letter...
+{117232}{117303}You are probably my sister|or one of my brothers
+{117336}{117423}Because you can play|{y:i}Getting Warmer
+{117431}{117467}Nudge, nudge!
+{117510}{117614}I know you will be sad to find me
+{117628}{117689}in a bath full of water
+{117847}{117894}But it isn't so sad for me
+{118051}{118117}I know my brothers and sister
+{118138}{118218}are happy, radiant people,
+{118265}{118340}and that I love you
+{118411}{118475}And I think you should|just forget me
+{118562}{118630}Christian, my beloved!
+{118655}{118739}Who has always been with me!|Thank you for everything
+{118777}{118886}I don't want to mix you up in this.|I love you too much for that
+{118897}{118981}And you, Helene.|And you, Michael, of course
+{118989}{119020}You nutter
+{119257}{119307}Dad has begun having me again
+{119318}{119411}In my dreams, anyway.|And I can't bear any more
+{119523}{119556}I'm going away now
+{119572}{119650}As I probably always|should have done
+{119688}{119777}I know it will fill your life|with darkness, Christian
+{119856}{119894}I have tried to ring you,
+{119927}{119968}but I know you're busy
+{120013}{120107}I just want to tell you|not to be sad
+{120197}{120277}I think there is light and beauty|on the other side
+{120330}{120447}In fact, I'm looking forward to it.|Although, of course, I am a bit afraid
+{120531}{120583}Afraid of leaving without you
+{120681}{120725}I will love you forever
+{120788}{120811}Linda
+{121127}{121157}Lovely letter
+{121163}{121262}Pour my daughter some port,|so that I can drink a toast with her
+{121382}{121474}Pour my daughter some port,|so that I can drink a toast with her!
+{121610}{121681}Pass the port to my daughter|so I can drink a toast with her
+{121782}{121824}Pass her the bloody port!
+{121834}{121887}Pass the damned port to my daughter!
+{121897}{121951}Show me some respect!
+{121976}{122014}I've never seen the like
+{122076}{122109}What are you staring at?
+{122173}{122254}Is it my fault that I have such|talentless offspring?
+{122314}{122426}I've just never really understood|why you did it
+{122436}{122476}It was all you were good for
+{123468}{123549}It's been quite a job|being toastmaster tonight
+{123604}{123683}I must admit|I hadn't tried it before
+{123702}{123781}I am profoundly affected|by the situation
+{123788}{123840}We all are
+{123869}{123936}- Nevertheless, I regard it as...|- I have to go now
+{123948}{124025}as my responsibility|to see this dinner out
+{124038}{124165}So I suggest dancing,|music and coffee next door
+{125579}{125599}Good evening
+{125629}{125717}I have collected the car keys|and put them back
+{125745}{125789}May I have a glass of water?
+{125816}{125852}Shall I call a doctor?
+{125955}{125975}Christian?
+{126010}{126063}Are you alright?|Come on
+{126815}{126838}{y:i}Christian?
+{127111}{127137}{y:i}Christian?
+{127195}{127214}Pia?
+{127307}{127325}Pia?
+{127356}{127381}I fell asleep
+{127439}{127489}Pia, my sister is here
+{127500}{127529}I love you
+{127718}{127740}{y:i}Christian?
+{128295}{128325}I miss you
+{128381}{128409}I miss you, too
+{128448}{128471}Shall I come with you?
+{128569}{128601}I'm going now
+{129371}{129428}{y:i}- It's Helene. Were you asleep?|- What time is it?
+{129432}{129502}{y:i}Late. Three, I think.|I was asleep, too...
+{129514}{129560}{y:i}if you can call it sleep
+{129573}{129605}{y:i}You know...
+{129629}{129668}I've been...
+{129707}{129750}{y:i}Maybe you have, too?
+{129841}{129892}- Have what?|{y:i}- Nothing
+{129898}{129979}{y:i}Please come, Christian.|{y:i}Michael has disappeared
+{130246}{130298}What's going on?|What's he up to?
+{130318}{130429}Michael has vanished and his wife|is bawling her eyes out in my room
+{130496}{130528}The party?
+{130560}{130592}It's over
+{130721}{130755}Don't worry about it
+{130884}{130932}They've all gone to bed...
+{131044}{131113}- Find some glasses|- Where is Michelle?
+{131122}{131169}In Kim's room, I think
+{131176}{131237}Everyone seems to be in the|wrong bed
+{131240}{131289}We're not, are we, Honey?
+{131421}{131513}- I've got a glass for Christian|- I want one, too
+{131542}{131590}Just don't use someone's dirty glass
+{131912}{131957}Play the wedding march
+{132048}{132099}Gbatokai and Helene must dance
+{132348}{132397}Because I think|you should get married
+{132749}{132773}Dad?
+{132891}{132971}It's Michael, little Michael.|I'm coming!
+{133229}{133264}Open the door!
+{133303}{133355}It's the fucking postman
+{133490}{133547}Open the door, damn you!
+{133651}{133680}Open it!
+{133890}{133931}Go inside, Elsie
+{134040}{134067}Michael, stop it!
+{134143}{134166}Go inside, I said!
+{134240}{134306}And I said|keep your mouth shut!
+{134468}{134553}I told you, man.|Keep your mouth shut!
+{135036}{135111}Lie down, man.|Lie down!
+{135261}{135305}I said, lie down!
+{135500}{135537}And stay lying down
+{135610}{135719}I've heard enough shit.|Lie down, I said!
+{135839}{135904}You'll never see|your grandchildren again, man
+{135933}{135984}Never again. Get it, Dad?
+{136048}{136098}This family...
+{136127}{136154}is kaput
+{136201}{136233}Lie down, I said!
+{136263}{136296}Lie down, I said!
+{136408}{136462}It's me ringing the doorbell
+{136496}{136531}Me, Michael
+{137455}{137506}They mustn't do it!
+{137555}{137580}Stop!
+{137625}{137683}Mummy, what is it?
+{137728}{137789}- They mustn't!|- What's going on, Mummy?
+{137801}{137890}They mustn't! They mustn't!
+{137974}{138010}Get out there, Gbatokai
+{138014}{138041}Your father!
+{138475}{138509}You're killing me
+{138644}{138676}Killing me
+{139226}{139282}Waiter, could I have another drink?
+{139339}{139411}I do like to start the day|with a little dram
+{139956}{140022}Morten, what are you thinking?
+{140192}{140223}Oh, well. Over
+{140399}{140453}Cheerful little soul, isn't she?
+{140709}{140731}Morning, Christian
+{140752}{140816}- Good morning|- Have a roll
+{140869}{140908}Where the hell is Leif?
+{140926}{140991}There you are!|How's the wig?
+{140996}{141050}Where do you get your suits creased?
+{141103}{141130}At N'stved
+{141217}{141238}Pia?
+{141428}{141483}Do you want to come|to Paris and live with me?
+{141660}{141686}Yes
+{141748}{141771}That'll be all
+{141989}{142065}Have you got the hots|for the waitress?
+{142092}{142192}- Michael, shut up and eat up|- I'll eat that French stick
+{142943}{143001}Dorthe, come to Daddy
+{143011}{143068}Your father will read it|to you, I'm sure
+{143508}{143634}I know it's an inopportune moment.|You're having breakfast
+{143680}{143720}I'll try and be brief
+{143811}{143849}I just want to say...
+{143877}{143985}I know that when you pack up|and go home...
+{144064}{144117}it will be the last time I see you
+{144178}{144210}I also realise now
+{144278}{144362}that what I did to my children
+{144371}{144407}is unforgivable
+{144427}{144480}I know that all of you
+{144555}{144593}- especially my children
+{144602}{144662}will hate me for the rest|of your lives
+{144709}{144829}All the same, I wanted to tell you|that you will always be my children
+{144854}{144908}I have always loved you|and I love you now
+{144962}{145052}wherever you are|or whatever you do
+{145218}{145266}To you, Christian, I want to say
+{145395}{145446}You fought a good fight, my boy
+{145530}{145551}Thank you
+{146168}{146184}Nice one, Dad
+{146195}{146236}Good speech. Well done
+{146262}{146363}But I think you'll have to go now|so we can eat our breakfast
+{146386}{146422}Of course, of course
+{146508}{146556}Are you coming?
+{146561}{146595}I'll stay here

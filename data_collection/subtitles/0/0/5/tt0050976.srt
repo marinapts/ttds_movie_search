@@ -1,0 +1,2705 @@
+﻿[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:20.01,00:00:23.81
+THE SEVENTH SEAL
+
+00:01:55.63,00:01:59.80
+"And when the Lamb had opened[br]the seventh seal...
+
+00:02:00.91,00:02:06.28
+"there was silence in heaven[br]about the space of half an hour.
+
+00:02:09.75,00:02:14.55
+"And the seven angels[br]which had the seven trumpets...
+
+00:02:14.62,00:02:17.59
+"prepared themselves to sound."
+
+00:04:12.30,00:04:13.74
+Who are you?
+
+00:04:14.81,00:04:16.74
+I am Death.
+
+00:04:16.81,00:04:19.07
+You have come for me?
+
+00:04:19.14,00:04:21.87
+I have been at your side[br]for a long time.
+
+00:04:21.95,00:04:23.68
+I know.
+
+00:04:23.75,00:04:25.44
+Are you prepared?
+
+00:04:25.52,00:04:28.85
+My flesh is afraid, but I am not.
+
+00:04:37.36,00:04:38.95
+Wait a moment.
+
+00:04:39.03,00:04:43.40
+You all say that.[br]But I give no respite.
+
+00:04:43.47,00:04:45.63
+You play chess, do you not?
+
+00:04:45.70,00:04:48.60
+How do you know that?
+
+00:04:48.67,00:04:51.16
+I have seen it in paintings.
+
+00:04:51.24,00:04:55.77
+Yes, I am quite a skilful player.
+
+00:04:55.85,00:04:58.01
+But no more so than I.
+
+00:04:58.08,00:05:00.07
+Why do you wish to play chess with me?
+
+00:05:00.15,00:05:03.95
+- That's my concern.[br]- You're quite right.
+
+00:05:05.02,00:05:08.36
+As long as I resist you, I live.
+
+00:05:08.43,00:05:11.16
+If I win, you set me free.
+
+00:05:18.60,00:05:20.73
+Black for you!
+
+00:05:21.81,00:05:24.10
+It becomes me well.
+
+00:06:39.45,00:06:42.65
+Between a strumpet's legs I lie
+
+00:06:44.92,00:06:48.09
+That's the place for such as I
+
+00:06:53.63,00:06:58.36
+The Lord is up aloft, you know
+
+00:06:58.44,00:07:01.93
+But Satan finds us here below
+
+00:07:04.71,00:07:09.08
+There's talk of omens[br]and other horrors.
+
+00:07:09.15,00:07:12.45
+Two horses had devoured each other...
+
+00:07:12.52,00:07:17.65
+graves gaped wide[br]and bones lay about.
+
+00:07:19.06,00:07:22.22
+Four suns were in the sky.
+
+00:07:41.18,00:07:43.11
+Where is the inn?
+
+00:08:08.84,00:08:10.81
+Did he show you the way?
+
+00:08:10.88,00:08:12.81
+Not exactly.
+
+00:08:12.88,00:08:15.61
+- What did he say?[br]- Nothing.
+
+00:08:15.68,00:08:18.91
+- Was he mute?[br]- No, milord.
+
+00:08:18.98,00:08:23.01
+He was most eloquent.
+
+00:08:23.09,00:08:25.68
+Indeed.
+
+00:08:25.76,00:08:27.88
+But very gloomy.
+
+00:10:00.52,00:10:03.45
+Have you had breakfast?
+
+00:10:05.02,00:10:07.75
+Pity I can't eat grass.
+
+00:10:07.83,00:10:09.85
+You must teach me.
+
+00:10:09.93,00:10:12.62
+We're feeling the pinch.
+
+00:10:12.70,00:10:16.13
+People here are not interested in art.
+
+00:11:11.32,00:11:14.52
+Mary! I have seen something!
+
+00:11:14.59,00:11:16.53
+What has happened?
+
+00:11:18.06,00:11:22.00
+A vision. It was quite real.
+
+00:11:23.43,00:11:25.80
+You and your visions!
+
+00:11:28.74,00:11:30.93
+I saw her anyway.
+
+00:11:33.31,00:11:34.74
+Who?
+
+00:11:34.81,00:11:36.94
+The Virgin Mary.
+
+00:11:38.82,00:11:40.75
+Did you really see her?
+
+00:11:40.82,00:11:42.75
+I could have touched her.
+
+00:11:42.82,00:11:48.28
+With her crown of gold[br]and her blue robe.
+
+00:11:48.36,00:11:54.03
+She was holding the Child[br]and teaching Him to walk.
+
+00:11:54.10,00:11:58.03
+When she saw me, she smiled.
+
+00:11:58.87,00:12:01.03
+I had tears in my eyes.
+
+00:12:01.11,00:12:03.97
+And when I wiped them away,[br]she was gone.
+
+00:12:04.04,00:12:08.57
+And there was a great silence...
+
+00:12:08.65,00:12:11.24
+in heaven and on earth.
+
+00:12:15.09,00:12:17.61
+The things you make up!
+
+00:12:17.69,00:12:22.75
+You don't believe me, but it was true.
+
+00:12:22.83,00:12:25.89
+It's not the reality you see,[br]but another kind.
+
+00:12:25.96,00:12:30.02
+Like the Devil[br]painting the wheels red...
+
+00:12:30.10,00:12:32.07
+and using his tail as a brush.
+
+00:12:32.14,00:12:34.43
+Why did you remind me?
+
+00:12:34.51,00:12:37.53
+And you had red paint under your nails.
+
+00:12:37.61,00:12:41.67
+Well, I did make that up...
+
+00:12:41.75,00:12:44.24
+so that you would believe[br]my other visions.
+
+00:12:44.32,00:12:49.62
+Mind you're not taken for a fool.
+
+00:12:49.69,00:12:54.32
+Because you're not. At least not yet.
+
+00:12:54.39,00:12:58.73
+It's not my fault if I hear voices...
+
+00:12:58.80,00:13:03.29
+and see the Virgin, and if angels[br]and devils like my company.
+
+00:13:04.67,00:13:09.83
+I have told you once and for all...
+
+00:13:09.91,00:13:13.87
+I must have sleep in the mornings!
+
+00:13:13.95,00:13:17.94
+I have asked you, but nothing helps.[br]Now will you shut up!
+
+00:13:42.74,00:13:45.21
+I want a better life for Michael.
+
+00:13:45.28,00:13:49.80
+He is going to be a great acrobat.
+
+00:13:49.88,00:13:52.51
+Or a juggler who does[br]the one impossible trick.
+
+00:13:52.58,00:13:54.38
+What trick is that?
+
+00:13:54.45,00:13:57.51
+Make a ball stand still in the air.
+
+00:13:57.59,00:14:02.39
+- But that's impossible.[br]- Yes, for us, but not for him.
+
+00:14:04.06,00:14:06.00
+Always daydreaming!
+
+00:14:08.37,00:14:13.83
+I've written a song.
+
+00:14:13.90,00:14:15.84
+Do you want to hear it?
+
+00:14:15.91,00:14:19.27
+Yes. I'm very curious.
+
+00:14:19.34,00:14:23.34
+A dove on a branch
+
+00:14:23.41,00:14:26.71
+At Midsummer time
+
+00:14:26.78,00:14:30.91
+She sang so sweetly of Jesus Christ
+
+00:14:30.99,00:14:35.29
+In heaven is great rejoicing
+
+00:14:38.86,00:14:40.85
+Are you asleep?
+
+00:14:40.93,00:14:44.63
+- It was a lovely song.[br]- It's not finished.
+
+00:14:44.70,00:14:49.50
+I heard, but I'll sleep a bit more.[br]Sing me the rest later.
+
+00:14:49.57,00:14:52.44
+You just sleep and sleep.
+
+00:14:54.31,00:14:58.15
+Is this a mask for an actor?
+
+00:14:59.18,00:15:02.12
+The priests pay well, so I play.
+
+00:15:02.19,00:15:04.45
+Going to play Death?
+
+00:15:04.52,00:15:07.72
+Scaring decent folk out of their wits.
+
+00:15:07.79,00:15:09.76
+When are we to perform?
+
+00:15:09.83,00:15:11.92
+At the Saints' Festival in Elsinore.
+
+00:15:12.00,00:15:15.19
+We will perform on the church steps.
+
+00:15:15.27,00:15:20.20
+Why not something bawdy?[br]People like it better.
+
+00:15:20.27,00:15:24.83
+They say the plague stalks the land.
+
+00:15:24.91,00:15:29.04
+The priests speculate in sudden death[br]and moral bellyache.
+
+00:15:29.11,00:15:31.05
+What parts are we playing?
+
+00:15:31.12,00:15:33.98
+A fool like you can play the Human Soul.
+
+00:15:34.05,00:15:35.71
+Not a good part.
+
+00:15:35.79,00:15:39.45
+Who decides? I'm the director[br]of the troupe.
+
+00:15:41.36,00:15:44.19
+"Your life, O fool...
+
+00:15:44.26,00:15:46.92
+"hangs by a thread.
+
+00:15:48.60,00:15:50.69
+"Short is your day."
+
+00:15:53.27,00:15:56.64
+Will the women love me in this get-up?
+
+00:16:10.79,00:16:12.72
+Well, what is it?
+
+00:16:12.79,00:16:15.09
+Don't move. Don't speak.
+
+00:16:15.16,00:16:17.86
+I'm as silent as the grave.
+
+00:16:17.93,00:16:20.16
+I love you.
+
+00:16:48.33,00:16:50.26
+What is this supposed to be?
+
+00:16:50.33,00:16:51.85
+The Dance of Death.
+
+00:16:51.93,00:16:55.52
+- And this is Death.[br]- Yes, he dances with them.
+
+00:16:55.60,00:16:57.57
+Why all this daubing?
+
+00:16:57.64,00:17:00.54
+To remind people of death.
+
+00:17:00.60,00:17:02.73
+That won't make them any happier.
+
+00:17:02.81,00:17:08.21
+Why make them happy?[br]Why not scare them?
+
+00:17:08.28,00:17:10.44
+Then they won't look at your picture.
+
+00:17:10.51,00:17:13.18
+Yes, they will.
+
+00:17:13.25,00:17:15.95
+A skull is more interesting[br]than a naked woman.
+
+00:17:16.02,00:17:17.95
+If you scare them--
+
+00:17:18.02,00:17:19.96
+- They'll think--[br]- Then they think.
+
+00:17:20.02,00:17:23.39
+- And are still more scared.[br]- And fall into the arms of the priests.
+
+00:17:23.46,00:17:26.59
+- That's not my business.[br]- You're only painting your picture.
+
+00:17:26.66,00:17:30.03
+I paint life as it is.[br]Then folk can do as they like.
+
+00:17:30.10,00:17:32.50
+That makes people angry.
+
+00:17:32.57,00:17:35.94
+Then I paint something funny.
+
+00:17:36.01,00:17:38.24
+A man must live.
+
+00:17:38.31,00:17:41.11
+At least till the plague takes him.
+
+00:17:41.18,00:17:43.44
+The plague. Ugh!
+
+00:17:44.48,00:17:49.08
+You should see the abscess...
+
+00:17:49.15,00:17:54.82
+the limbs knotted in frenzy.
+
+00:17:57.96,00:17:59.86
+Unpleasant.
+
+00:18:02.23,00:18:06.14
+They try to tear out the boils...
+
+00:18:06.20,00:18:08.14
+they bite their hands...
+
+00:18:08.21,00:18:11.20
+scratch open their veins...
+
+00:18:11.28,00:18:14.61
+scream in agony.
+
+00:18:14.68,00:18:16.61
+Did I scare you?
+
+00:18:16.68,00:18:19.62
+Scared? You don't know me.
+
+00:18:20.52,00:18:22.78
+What's that rubbish there?
+
+00:18:22.85,00:18:26.62
+People think the plague...
+
+00:18:26.69,00:18:30.35
+is a punishment from God.
+
+00:18:30.43,00:18:34.89
+Crowds wander the land[br]lashing each other...
+
+00:18:34.97,00:18:37.09
+to please the Lord.
+
+00:18:37.17,00:18:39.03
+Lashing each other?
+
+00:18:39.10,00:18:42.20
+Yes, it's a horrible sight.
+
+00:18:42.27,00:18:45.61
+You feel like hiding when they pass.
+
+00:18:47.44,00:18:51.35
+Give me a gin.[br]I've had nothing but water.
+
+00:18:51.42,00:18:54.38
+I feel as thirsty as a desert camel.
+
+00:18:54.45,00:18:57.22
+Scared after all?
+
+00:19:26.35,00:19:29.55
+I want to confess as best I can...
+
+00:19:29.62,00:19:31.55
+but my heart is void.
+
+00:19:32.49,00:19:34.98
+The void is a mirror.
+
+00:19:35.06,00:19:38.62
+I see my face...
+
+00:19:38.70,00:19:43.00
+and feel loathing and horror.
+
+00:19:49.51,00:19:54.24
+My indifference to men[br]has shut me out.
+
+00:19:56.75,00:19:59.27
+I live now in a world of ghosts...
+
+00:19:59.35,00:20:02.32
+a prisoner in my dreams.
+
+00:20:02.39,00:20:05.95
+- Yet you do not want to die.[br]- Yes, I do.
+
+00:20:06.92,00:20:09.29
+What are you waiting for?
+
+00:20:09.36,00:20:10.85
+Knowledge.
+
+00:20:11.90,00:20:13.83
+You want an guarantee.
+
+00:20:13.90,00:20:15.92
+Call it what you will.
+
+00:20:21.21,00:20:25.01
+Is it so hard to conceive God[br]with one's senses?
+
+00:20:26.24,00:20:29.64
+Why must He hide in a midst[br]of vague promises...
+
+00:20:29.71,00:20:31.84
+and invisible miracles?
+
+00:20:33.42,00:20:37.32
+How are we to believe the believers[br]when we don't believe ourselves?
+
+00:20:37.39,00:20:41.45
+What will become of us[br]who want to believe, but cannot?
+
+00:20:41.53,00:20:45.33
+And what of those[br]who neither will nor can believe?
+
+00:20:45.40,00:20:47.96
+Why can I not kill God within me?
+
+00:20:48.03,00:20:51.87
+Why does He go on living[br]in a painful, humiliating way?
+
+00:20:51.94,00:20:55.84
+I want to tear Him out of my heart...
+
+00:20:55.91,00:20:59.31
+but He remains a mocking reality...
+
+00:20:59.38,00:21:01.78
+which I cannot get rid of.
+
+00:21:01.85,00:21:04.68
+- Do you hear me?[br]- I hear you.
+
+00:21:06.38,00:21:11.18
+I want knowledge. Not belief.[br]Not surmise. But knowledge.
+
+00:21:12.62,00:21:15.32
+I want God to put out His hand...
+
+00:21:15.39,00:21:18.66
+show His face, speak to me.
+
+00:21:18.73,00:21:21.06
+But He is silent.
+
+00:21:21.13,00:21:26.83
+I cry to Him in the dark,[br]but there seems to be no one there.
+
+00:21:26.90,00:21:28.90
+Perhaps there is no one there.
+
+00:21:28.97,00:21:31.84
+Then life is a senseless terror.
+
+00:21:31.91,00:21:37.18
+No man can live with Death[br]and know that everything is nothing.
+
+00:21:37.25,00:21:40.51
+Most people think neither[br]of Death nor nothingness.
+
+00:21:40.58,00:21:44.04
+Until they stand on the edge of life[br]and see the Darkness.
+
+00:21:44.12,00:21:46.68
+Ah, that day.
+
+00:21:47.93,00:21:49.79
+I see.
+
+00:21:50.86,00:21:53.96
+We must make an idol of our fear...
+
+00:21:54.03,00:21:57.99
+and call it God.
+
+00:21:58.07,00:22:00.00
+You are uneasy.
+
+00:22:01.10,00:22:03.97
+Death visited me this morning.
+
+00:22:04.04,00:22:07.24
+We are playing chess.
+
+00:22:07.31,00:22:11.04
+This respite enables me[br]to perform a vital errand.
+
+00:22:11.11,00:22:12.55
+What errand?
+
+00:22:13.82,00:22:17.65
+My whole life has been[br]a meaningless search.
+
+00:22:23.16,00:22:28.06
+I say it without bitterness[br]or self-reproach.
+
+00:22:28.13,00:22:31.57
+I know it is the same for all.
+
+00:22:33.60,00:22:38.77
+But I want to use my respite[br]for one significant action.
+
+00:22:41.41,00:22:45.51
+So you play chess with Death?
+
+00:22:45.58,00:22:48.14
+He is a skilful tactician...
+
+00:22:48.22,00:22:52.21
+but I have not yet lost one piece.
+
+00:22:52.29,00:22:55.52
+How can you outwit Death?
+
+00:22:56.76,00:23:01.49
+By a combination[br]of bishop and knight...
+
+00:23:03.07,00:23:05.00
+I will break his flank.
+
+00:23:07.60,00:23:09.77
+I shall remember that.
+
+00:23:15.48,00:23:19.88
+Traitor! You have tricked me!
+
+00:23:23.99,00:23:26.42
+But I'll find a way out.
+
+00:23:26.49,00:23:30.98
+We will resume our game[br]at the inn.
+
+00:23:38.34,00:23:43.24
+This is my hand. I can move it.
+
+00:23:43.31,00:23:46.54
+The blood is pulsing in my veins.
+
+00:23:48.08,00:23:51.45
+The sun is still at the zenith...
+
+00:23:53.82,00:23:56.22
+and I, Antonius Block...
+
+00:23:58.22,00:24:01.19
+am playing chess with Death!
+
+00:24:03.83,00:24:07.16
+My master and I have been abroad.
+
+00:24:11.44,00:24:13.63
+The Crusades?
+
+00:24:15.47,00:24:18.24
+Ten years in the Holy Land...
+
+00:24:18.31,00:24:20.67
+bitten by snakes and flies...
+
+00:24:20.74,00:24:24.74
+slaughtered by savages,[br]poisoned by bad wine...
+
+00:24:24.82,00:24:28.48
+made lousy by women,[br]rotting with fever...
+
+00:24:28.55,00:24:32.01
+all for the glory of God.
+
+00:24:32.09,00:24:34.15
+The glory of God.
+
+00:24:35.63,00:24:38.86
+Our crusade was so stupid...
+
+00:24:38.93,00:24:42.76
+that only an idealist[br]could have thought it out.
+
+00:24:47.50,00:24:50.27
+That was horrid about the plague.
+
+00:24:50.34,00:24:53.78
+It's worse than that.
+
+00:24:55.58,00:24:59.64
+Whichever way we turn,[br]our backside's behind us.
+
+00:24:59.72,00:25:03.78
+Backside behind,[br]how true, how true.
+
+00:25:07.76,00:25:11.32
+Here's squire Jöns.[br]He grins at Death...
+
+00:25:11.40,00:25:15.23
+chuckles at the Lord,[br]laughs at himself...
+
+00:25:15.30,00:25:17.43
+and smiles at the girls.
+
+00:25:17.50,00:25:19.53
+His world exists only for himself.
+
+00:25:19.60,00:25:22.77
+Absurd to all, even to himself.
+
+00:25:22.84,00:25:26.90
+Meaningless in heaven,[br]indifferent in hell.
+
+00:25:52.94,00:25:56.03
+What's that stinking soup good for?
+
+00:25:56.11,00:25:59.47
+She has had carnal knowledge[br]of the Evil One.
+
+00:26:00.44,00:26:02.71
+And now she's in the stocks.
+
+00:26:02.78,00:26:07.65
+She's to be burnt tomorrow.[br]But we must keep the Devil away.
+
+00:26:07.72,00:26:10.28
+With the aid of that stinking muck?
+
+00:26:10.35,00:26:14.76
+Blood and gall of a black dog.
+
+00:26:14.83,00:26:19.32
+The Evil One can't stand the smell.
+
+00:26:19.40,00:26:21.33
+Nor can I.
+
+00:26:30.54,00:26:33.74
+Have you seen the Devil?
+
+00:26:33.81,00:26:36.84
+- You must not talk to her.[br]- Is that so dangerous?
+
+00:26:36.91,00:26:42.01
+She is thought to be the cause[br]of the plague.
+
+00:27:13.65,00:27:16.48
+Fate is a villain
+
+00:27:16.55,00:27:19.78
+And you're a poor wretch
+
+00:27:19.86,00:27:22.52
+Now bounding with glee
+
+00:27:22.59,00:27:25.32
+Now crawling with worms
+
+00:27:27.13,00:27:28.76
+Must you sing?
+
+00:27:28.83,00:27:30.27
+What?
+
+00:29:34.96,00:29:39.12
+Surprised that I steal from the dead?
+
+00:29:39.20,00:29:41.93
+A profitable trade nowadays.
+
+00:29:44.70,00:29:48.90
+It's no use telling tales.
+
+00:29:48.97,00:29:52.91
+It's everyone for himself.
+
+00:29:56.11,00:30:00.01
+Don't scream.[br]No one will hear you.
+
+00:30:01.08,00:30:03.08
+Isn't that surprising?
+
+00:30:09.29,00:30:12.35
+I know you.[br]You're Raval, the seminarist.
+
+00:30:16.60,00:30:20.66
+You're Doctor Mirabilis,[br]Coelestis et Diabilis.
+
+00:30:20.74,00:30:22.67
+Aren't I right?
+
+00:30:23.91,00:30:27.31
+Ten years ago[br]you persuaded my master...
+
+00:30:27.38,00:30:30.14
+to set off for the Holy Land.
+
+00:30:32.95,00:30:36.11
+Did I scare you?[br]Have you a pain in your belly?
+
+00:30:38.22,00:30:42.32
+Now I understand[br]these ten wasted years.
+
+00:30:43.39,00:30:46.45
+We were too well-off,[br]too satisfied.
+
+00:30:46.53,00:30:48.83
+The Lord wanted to chasten our pride.
+
+00:30:50.43,00:30:55.53
+So He sent you to poison[br]my master's mind.
+
+00:30:55.61,00:30:57.66
+I was in good faith.
+
+00:30:57.74,00:31:01.30
+Now you know better.[br]You've become a thief.
+
+00:31:01.38,00:31:06.01
+A more suitable occupation[br]for knaves.
+
+00:31:12.86,00:31:15.38
+Oh, I am not bloodthirsty.
+
+00:31:16.46,00:31:21.23
+But next time we meet,[br]I will brand your face as you deserve.
+
+00:31:23.57,00:31:26.40
+I came to get my water bottle filled.
+
+00:31:34.84,00:31:37.40
+Jöns is the name.
+
+00:31:37.48,00:31:39.78
+An amiable young man...
+
+00:31:39.85,00:31:44.91
+full of noble thoughts and deeds.
+
+00:31:51.26,00:31:55.60
+Farewell, my sweet.[br]I could have raped you...
+
+00:31:55.67,00:31:58.16
+but I don't believe in[br]that kind of love.
+
+00:31:58.23,00:32:00.46
+It's a little dull in the end.
+
+00:32:04.84,00:32:07.87
+Come to think of it,[br]I need a housekeeper.
+
+00:32:07.94,00:32:10.61
+Can you cook?
+
+00:32:10.68,00:32:14.17
+I hope my wife is dead by now.
+
+00:32:15.35,00:32:17.34
+So I need a housekeeper.
+
+00:32:20.42,00:32:25.42
+Well, don't stand there gaping![br]I've saved your life, you know!
+
+00:32:41.78,00:32:44.04
+Damn actors.
+
+00:34:06.13,00:34:09.50
+They're making fools of themselves.
+
+00:34:10.87,00:34:14.27
+I'm not in the first part[br]so I'll go behind the curtain.
+
+00:34:15.77,00:34:18.47
+Don't stand there gaping, ugly!
+
+00:34:20.44,00:34:24.07
+The horse is up the tree, crowing
+
+00:34:26.32,00:34:30.25
+The road is wide but the gate narrow
+
+00:34:30.32,00:34:33.81
+The Black One dances on the shore
+
+00:34:36.86,00:34:41.69
+The hen mews in a lake so dark
+
+00:34:47.04,00:34:52.10
+The day is red but the fish is dead
+
+00:34:52.18,00:34:56.74
+The Black One squats on the shore
+
+00:34:59.62,00:35:03.21
+The snake flaps high in the sky
+
+00:35:06.29,00:35:09.88
+The Virgin is pale[br]but the mouse's content
+
+00:35:09.96,00:35:13.22
+The Black One runs on the shore
+
+00:35:16.17,00:35:19.23
+The goat hisses
+
+00:35:19.30,00:35:22.74
+With his two teeth
+
+00:35:27.54,00:35:30.48
+The blast is heavy
+
+00:35:30.55,00:35:33.57
+The waves break
+
+00:35:33.65,00:35:36.98
+The Black One makes dung on the shore
+
+00:36:37.41,00:36:42.37
+The sow lays eggs and the cat grunts
+
+00:36:44.52,00:36:48.12
+The night is soot and the dark remains
+
+00:36:48.19,00:36:52.32
+The Black One stays, stays on the shore
+
+00:39:16.01,00:39:18.57
+God is punishing us.
+
+00:39:22.71,00:39:26.94
+We shall all perish[br]by the Black Death.
+
+00:39:28.99,00:39:33.45
+You there, gaping like cattle...
+
+00:39:33.52,00:39:37.52
+and you, bloated with complacency...
+
+00:39:37.59,00:39:41.76
+this might be your last hour.
+
+00:39:44.67,00:39:48.54
+Death is behind your back.
+
+00:39:53.18,00:39:57.41
+His scythe flashes above your heads.
+
+00:39:57.48,00:40:00.75
+Which of you will he strike first?
+
+00:40:02.72,00:40:06.18
+You there, with the stare of a goat...
+
+00:40:06.26,00:40:09.59
+will tonight see[br]your last twisted smile?
+
+00:40:13.83,00:40:19.20
+You, woman,[br]full of the lust of life...
+
+00:40:21.27,00:40:25.37
+will you wither before the dawn?
+
+00:40:27.51,00:40:32.74
+You, with the swollen nose...
+
+00:40:33.95,00:40:39.12
+will you pollute the earth[br]for another year?
+
+00:40:40.12,00:40:43.89
+Do you know, idiots,[br]that you are to die?
+
+00:40:43.96,00:40:47.99
+You are all doomed,[br]do you hear?
+
+00:40:52.47,00:40:54.73
+Doomed! Doomed! Doomed!
+
+00:40:56.71,00:40:59.47
+Lord, have mercy on us sinners.
+
+00:40:59.54,00:41:03.91
+Turn not away Thy face.
+
+00:41:03.98,00:41:09.51
+For the sake of Thy son, Jesus Christ!
+
+00:42:12.75,00:42:15.95
+Do they really expect modern people...
+
+00:42:16.02,00:42:20.22
+to take that drivel seriously?
+
+00:42:21.66,00:42:24.06
+You laugh at me, milord.
+
+00:42:24.13,00:42:29.76
+I've read and heard[br]all the fairy tales.
+
+00:42:32.00,00:42:37.06
+Even the ghost stories[br]about God the Father...
+
+00:42:37.14,00:42:39.87
+Jesus Christ and the Holy Ghost.
+
+00:42:41.31,00:42:42.94
+Why are you shouting?
+
+00:42:43.01,00:42:45.91
+I'm Plog, the smith,[br]and you're Jöns, the squire.
+
+00:42:45.98,00:42:49.11
+- That's possible.[br]- Have you seen my wife?
+
+00:42:49.19,00:42:52.25
+No. But if I had seen her[br]and she was like you...
+
+00:42:52.32,00:42:55.38
+I would hasten to forget her.
+
+00:42:57.56,00:42:59.82
+So you haven't seen her?
+
+00:42:59.90,00:43:02.92
+- Maybe she's run off.[br]- Do you know something?
+
+00:43:03.00,00:43:05.56
+Quite a lot.[br]But nothing about your wife.
+
+00:43:05.63,00:43:08.40
+Go inside, they'll tell you.
+
+00:43:28.82,00:43:33.73
+The plague is raging everywhere.[br]People are dying like flies.
+
+00:43:34.56,00:43:37.36
+I can't sell anything.
+
+00:43:40.14,00:43:44.90
+It's Judgement Day.[br]And the awful omens--
+
+00:43:48.14,00:43:51.64
+A woman has given birth[br]to a calf's head.
+
+00:43:51.71,00:43:55.58
+People are mad. They flee[br]and take the plague with them.
+
+00:43:55.65,00:43:59.38
+Eat, drink and be merry!
+
+00:44:01.99,00:44:06.02
+Many have purged themselves[br]with fire and died.
+
+00:44:06.10,00:44:11.73
+But better that than hell,[br]the priests say.
+
+00:44:14.94,00:44:19.60
+No one dares say it aloud,[br]but this is the End.
+
+00:44:19.68,00:44:21.94
+People are crazy with fear.
+
+00:44:22.01,00:44:23.91
+You're scared yourself!
+
+00:44:23.98,00:44:26.64
+I'll warrant I am.
+
+00:44:26.72,00:44:30.48
+Judgement Day.
+
+00:44:30.55,00:44:34.51
+The angels descend[br]and the graves will open.
+
+00:44:34.59,00:44:36.99
+It will be horrible.
+
+00:44:40.83,00:44:43.59
+Want this? You can have it cheap.
+
+00:44:44.67,00:44:46.64
+It's real silver.
+
+00:44:46.70,00:44:49.26
+Too dear for me.
+
+00:44:49.34,00:44:52.80
+Excuse me, have you seen my wife?
+
+00:44:52.88,00:44:55.54
+- Is she missing?[br]- They say she's run off.
+
+00:44:55.61,00:44:58.05
+- Run away?[br]- With an actor.
+
+00:44:58.11,00:45:01.48
+If she has such bad taste,[br]let her go.
+
+00:45:01.55,00:45:03.35
+You are right.
+
+00:45:03.42,00:45:06.79
+I thought of killing her.
+
+00:45:06.86,00:45:09.59
+Oh. Murder? That's different!
+
+00:45:09.66,00:45:12.25
+And the actor with her.
+
+00:45:12.33,00:45:13.76
+The actor?
+
+00:45:13.83,00:45:16.26
+The one she has run off with.
+
+00:45:17.87,00:45:20.17
+Dense, aren't you?
+
+00:45:20.24,00:45:22.30
+Oh, the actor!
+
+00:45:22.37,00:45:25.47
+Yes, there are far too many of them...
+
+00:45:25.54,00:45:29.88
+so you might as well kill him.
+
+00:45:29.95,00:45:33.68
+You're lying to the smith.
+
+00:45:33.75,00:45:36.01
+Me! Lying?
+
+00:45:40.66,00:45:45.79
+You're an actor too, and it's[br]your friend who has taken his wife.
+
+00:45:45.86,00:45:49.23
+Are you an actor too?
+
+00:45:50.90,00:45:52.89
+Hardly.
+
+00:45:52.97,00:45:56.13
+It's logical to kill you, too.
+
+00:45:57.64,00:45:59.11
+Funny, aren't you?
+
+00:45:59.17,00:46:02.70
+Pale, aren't you?[br]Got a bad conscience?
+
+00:46:02.78,00:46:04.27
+You are funny.
+
+00:46:04.35,00:46:07.65
+Don't you think he's funny?[br]Oh, you don't?
+
+00:46:08.85,00:46:11.62
+Suppose we brand you.
+
+00:46:14.69,00:46:17.35
+What have you done with my wife?
+
+00:46:31.74,00:46:35.73
+You're not going to hurt me?
+
+00:46:35.81,00:46:39.18
+If I've offended anyone,[br]I'll go away.
+
+00:46:42.32,00:46:45.12
+Stand up and speak louder.
+
+00:46:52.16,00:46:55.69
+Stand on your head, actor!
+
+00:47:07.14,00:47:09.77
+What have you done with my wife?
+
+00:47:12.41,00:47:14.41
+Get up and dance!
+
+00:47:14.48,00:47:16.35
+I won't. I can't.
+
+00:47:16.42,00:47:19.18
+- Imitate a bear.[br]- I can't imitate a bear.
+
+00:47:19.25,00:47:21.19
+We shall see if you can.
+
+00:48:20.75,00:48:22.88
+Up again. Good bear.
+
+00:48:23.72,00:48:25.71
+I can't go on.
+
+00:48:43.17,00:48:45.77
+You remember what I said?
+
+00:48:48.74,00:48:51.68
+I always keep my word.
+
+00:49:14.84,00:49:16.63
+What's his name?
+
+00:49:16.71,00:49:18.54
+Michael.
+
+00:49:18.61,00:49:20.10
+How old is he?
+
+00:49:20.18,00:49:22.34
+Over a year.
+
+00:49:23.58,00:49:26.17
+- Big for his age.[br]- Do you think so?
+
+00:49:28.92,00:49:33.95
+- I saw your performance today.[br]- Was it bad?
+
+00:49:34.02,00:49:37.12
+You're prettier without make-up...
+
+00:49:37.19,00:49:40.29
+and that dress suits you better.
+
+00:49:40.36,00:49:43.49
+Skat has left us in the lurch.
+
+00:49:45.37,00:49:46.86
+Your husband?
+
+00:49:48.57,00:49:50.94
+No. Joseph is my husband.
+
+00:49:53.08,00:49:55.64
+So now there's only the two of us...
+
+00:49:55.71,00:49:59.34
+and we'll have to do tricks again.
+
+00:49:59.41,00:50:00.85
+You do tricks, too?
+
+00:50:00.92,00:50:04.18
+You bet.[br]Joseph is a skilful juggler.
+
+00:50:04.25,00:50:06.72
+Is Michael going to be an acrobat?
+
+00:50:06.79,00:50:08.72
+Joseph wants him to be.
+
+00:50:08.79,00:50:10.22
+But not you?
+
+00:50:10.29,00:50:13.46
+Perhaps he will be a knight!
+
+00:50:13.53,00:50:15.90
+That's not such fun either.
+
+00:50:15.96,00:50:18.99
+- No, you don't look happy.[br]- No.
+
+00:50:19.07,00:50:21.59
+Are you tired?
+
+00:50:21.67,00:50:24.70
+- Why?[br]- I'm in boring company.
+
+00:50:24.77,00:50:28.11
+- You mean your squire?[br]- No, not him.
+
+00:50:28.18,00:50:30.84
+- Who then?[br]- Myself.
+
+00:50:32.45,00:50:34.28
+Oh, I see.
+
+00:50:34.35,00:50:36.37
+Do you really?
+
+00:50:36.45,00:50:39.28
+Yes, I do quite well.
+
+00:50:39.35,00:50:44.49
+Why do people always[br]torment themselves?
+
+00:50:46.96,00:50:50.80
+Joseph! What is it? Where have you been?
+
+00:50:52.47,00:50:55.37
+Come sit here. Where have you been?
+
+00:50:55.44,00:50:58.93
+Let me look at you.
+
+00:51:06.95,00:51:10.48
+You've been drinking[br]at the tavern.
+
+00:51:12.05,00:51:15.49
+Not a drop!
+
+00:51:15.56,00:51:18.29
+You sat boasting of your angels.
+
+00:51:21.36,00:51:23.66
+I never said a word about angels.
+
+00:51:23.73,00:51:28.10
+Then you were playing[br]the fool again.
+
+00:51:28.17,00:51:30.97
+It makes people angry.
+
+00:51:31.04,00:51:33.80
+Look what I've brought you.
+
+00:51:39.98,00:51:41.92
+Oh, but you shouldn't!
+
+00:51:41.98,00:51:43.54
+I did, anyway.
+
+00:51:47.99,00:51:51.08
+Oh, how they hit me.
+
+00:51:51.16,00:51:53.15
+Why didn't you hit back?
+
+00:51:53.23,00:51:55.36
+I got angry...
+
+00:51:55.43,00:51:57.56
+but I never got to that.
+
+00:51:57.63,00:52:02.23
+I was so angry,[br]I roared like a lion.
+
+00:52:02.30,00:52:04.24
+Were they frightened?
+
+00:52:04.31,00:52:06.30
+No, they only laughed.
+
+00:52:22.32,00:52:24.26
+Doesn't he smell nice?
+
+00:52:24.33,00:52:26.95
+And he's so big. Aren't you?
+
+00:52:27.03,00:52:29.05
+He's got a real acrobat's body.
+
+00:52:30.53,00:52:34.40
+This is my husband, Joseph.
+
+00:52:35.87,00:52:38.36
+Good evening.
+
+00:52:38.44,00:52:42.04
+I was just saying[br]what a fine son you have.
+
+00:52:42.11,00:52:44.98
+Yes, he's fine.
+
+00:52:45.05,00:52:47.95
+- Have we nothing to offer our guest?[br]- Thank you, nothing for me.
+
+00:52:50.55,00:52:53.82
+Wild strawberries[br]and fresh milk.
+
+00:52:55.39,00:52:59.02
+We shall be honoured if you will share[br]our humble meal.
+
+00:52:59.09,00:53:01.15
+Sit down and I'll get it.
+
+00:53:02.56,00:53:04.40
+Here you are.
+
+00:53:04.47,00:53:07.77
+- Where are you making for now?[br]- To Elsinore.
+
+00:53:07.84,00:53:11.93
+- I advise you not to go that way.[br]- Why?
+
+00:53:12.01,00:53:14.57
+The plague is worse in the south.
+
+00:53:14.64,00:53:16.58
+Thousands are dying.
+
+00:53:17.88,00:53:20.40
+It never rains but it pours.
+
+00:53:20.48,00:53:23.08
+Come with me through the forest.
+
+00:53:23.15,00:53:27.52
+You'll be safer at my castle.
+
+00:53:27.59,00:53:31.32
+The strawberries[br]are from the hillside.
+
+00:53:31.39,00:53:35.85
+I've never seen ones so big.[br]Smell them.
+
+00:53:37.70,00:53:39.72
+I wish you appetite, sir.
+
+00:53:39.80,00:53:42.33
+My humble thanks.
+
+00:53:42.40,00:53:46.24
+I must think over your proposal.
+
+00:53:46.31,00:53:49.44
+It would be nice to have company.
+
+00:53:49.51,00:53:53.97
+The forest is full of evil spirits[br]and robbers.
+
+00:53:54.05,00:53:57.61
+Yes, but I must think it over.
+
+00:53:57.69,00:53:59.88
+I'm responsible for the troupe now.
+
+00:54:01.29,00:54:04.38
+After all, I am the director.
+
+00:54:04.46,00:54:09.06
+"After all, I am the director."
+
+00:54:12.47,00:54:15.80
+- Would you like some strawberries?[br]- That man has saved my life.
+
+00:54:15.87,00:54:18.67
+Sit down.
+
+00:54:18.74,00:54:21.87
+The knight's squire is honoured.
+
+00:54:23.55,00:54:25.57
+Oh, how lovely.
+
+00:54:25.65,00:54:28.12
+For a little while.
+
+00:54:29.35,00:54:31.75
+No, always. One day is like another.
+
+00:54:31.82,00:54:34.25
+That's not strange, is it?
+
+00:54:34.32,00:54:38.95
+Summer is better than winter[br]because you aren't cold.
+
+00:54:39.03,00:54:41.00
+But spring is best of all.
+
+00:54:41.06,00:54:43.39
+I've written a song about the spring.
+
+00:54:43.47,00:54:46.40
+Would you like to hear it?
+
+00:54:46.47,00:54:49.06
+Our guest may not care for your songs.
+
+00:54:49.14,00:54:52.33
+- Oh, yes. I write songs myself.[br]- You see!
+
+00:54:52.41,00:54:56.54
+There's one about an enormous fish[br]which you haven't heard.
+
+00:54:56.61,00:54:59.81
+And you're not going[br]to hear it either.
+
+00:54:59.88,00:55:04.91
+Some people don't appreciate art,[br]so I won't bore you. I'm sensitive.
+
+00:55:09.22,00:55:11.72
+We worry about so much.
+
+00:55:11.79,00:55:15.52
+It's better to be two.[br]Have you no one?
+
+00:55:15.60,00:55:17.86
+- I had once.[br]- And now?
+
+00:55:17.93,00:55:20.09
+I don't know.
+
+00:55:20.17,00:55:23.76
+So solemn! Was she your beloved?
+
+00:55:23.84,00:55:28.07
+We were newly-married.[br]We played and laughed.
+
+00:55:29.34,00:55:32.64
+I wrote songs to her eyes.
+
+00:55:35.95,00:55:41.36
+We hunted, we danced,[br]the house was full of life.
+
+00:55:41.42,00:55:43.41
+Will you have some strawberries?
+
+00:55:45.23,00:55:48.32
+To believe is to suffer.
+
+00:55:48.40,00:55:51.16
+It is like loving someone[br]in the dark...
+
+00:55:51.23,00:55:54.23
+who never answers.
+
+00:55:56.67,00:56:00.80
+How unreal that is in your company.
+
+00:56:02.88,00:56:05.71
+It means nothing to me now.
+
+00:56:06.75,00:56:08.74
+You're not so solemn now.
+
+00:56:10.72,00:56:13.65
+I shall remember this hour[br]of peace...
+
+00:56:16.73,00:56:19.72
+the strawberries,[br]the bowl of milk...
+
+00:56:22.00,00:56:25.33
+your faces in the dusk.
+
+00:56:25.40,00:56:29.30
+Michael asleep,[br]Joseph with his lute.
+
+00:56:30.64,00:56:34.17
+I shall remember our words...
+
+00:56:34.24,00:56:38.54
+and shall bear this memory[br]between my hands...
+
+00:56:38.61,00:56:43.02
+as carefully as a bowl of fresh milk.
+
+00:56:49.22,00:56:52.68
+And this will be a sign...
+
+00:56:52.76,00:56:55.42
+and a great content.
+
+00:57:29.66,00:57:31.10
+I have been waiting.
+
+00:57:33.17,00:57:36.73
+Forgive me. I was delayed.
+
+00:57:36.81,00:57:40.71
+As I have given away my strategy,[br]I beat a retreat.
+
+00:57:40.78,00:57:44.18
+Here, it is your turn.
+
+00:57:44.25,00:57:45.84
+Why so pleased?
+
+00:57:45.91,00:57:48.25
+That is my secret.
+
+00:57:48.32,00:57:50.28
+Of course.
+
+00:57:50.99,00:57:52.92
+I take your knight.
+
+00:57:52.99,00:57:55.46
+As you were meant to.
+
+00:57:56.56,00:57:59.32
+Have you tricked me?
+
+00:57:59.39,00:58:03.16
+You fell into the trap.[br]Check!
+
+00:58:04.63,00:58:06.57
+Why do you laugh?
+
+00:58:06.64,00:58:09.83
+Never mind. Save your king.
+
+00:58:09.90,00:58:12.03
+You are sure of yourself.
+
+00:58:12.11,00:58:14.23
+Our game amuses me.
+
+00:58:15.58,00:58:18.81
+Your move. I am in a hurry.
+
+00:58:18.88,00:58:21.31
+I know you have much to do...
+
+00:58:21.38,00:58:24.78
+but our game must go on.
+
+00:58:24.85,00:58:30.42
+You are escorting Joseph[br]and his family tonight?
+
+00:58:36.36,00:58:38.30
+Why do you ask?
+
+00:58:40.10,00:58:41.53
+No reason.
+
+00:58:51.45,00:58:53.57
+Have you seen Jöns?[br]We must go.
+
+00:58:53.65,00:58:56.45
+I think he's inside.
+
+00:58:59.85,00:59:02.82
+Well, if it isn't the smith!
+
+00:59:05.33,00:59:07.79
+Sitting alone and crying?
+
+00:59:07.86,00:59:12.89
+Yowling like a drowning cat.
+
+00:59:12.97,00:59:16.03
+- Is it still your wife?[br]- Yes, I haven't found her.
+
+00:59:16.10,00:59:19.34
+It's hell with women[br]and hell without.
+
+00:59:19.41,00:59:23.04
+Best to kill them[br]while the fun lasts.
+
+00:59:23.11,00:59:25.64
+Nagging and pig's swill.
+
+00:59:25.71,00:59:27.34
+Babies wetting themselves.
+
+00:59:27.42,00:59:29.98
+Scratches and abuse.
+
+00:59:30.05,00:59:32.68
+A witch for a mother-in-law.
+
+00:59:32.75,00:59:35.31
+And when you get into bed--
+
+00:59:35.39,00:59:36.91
+A new song.
+
+00:59:36.99,00:59:40.79
+Tears and whining.
+
+00:59:40.86,00:59:44.46
+- "Why don't you kiss me?"[br]- "Why don't you sing?"
+
+00:59:44.53,00:59:46.76
+"You don't love me any longer!"
+
+00:59:46.84,00:59:49.36
+"You haven't seen my new dress!"
+
+00:59:49.44,00:59:53.13
+- "All you do is snore!"[br]- Oh, hell.
+
+00:59:53.21,00:59:57.17
+Oh, hell. And now she's gone.[br]Good riddance!
+
+00:59:59.98,01:00:03.51
+I'll twist their noses[br]with tongs.
+
+01:00:07.79,01:00:12.25
+I'll crack their skulls[br]on the anvil.
+
+01:00:14.76,01:00:17.36
+He's blubbing again.
+
+01:00:17.43,01:00:19.37
+Perhaps I love her.
+
+01:00:19.43,01:00:23.10
+Perhaps! Listen,[br]you greasy cuckold.
+
+01:00:23.17,01:00:27.44
+Love is nothing but lust[br]and cheating and lies.
+
+01:00:31.81,01:00:34.34
+It hurts all the same.
+
+01:00:35.95,01:00:37.88
+Love is the blackest[br]of all plagues.
+
+01:00:37.95,01:00:42.36
+But you don't even die of it,[br]and usually it passes.
+
+01:00:42.42,01:00:44.91
+No, mine isn't passing.
+
+01:00:44.99,01:00:47.26
+Of course it will.
+
+01:00:47.33,01:00:50.56
+Only fools die of love.
+
+01:00:52.07,01:00:56.94
+If everything is imperfect[br]in this world...
+
+01:00:57.01,01:01:00.37
+love is perfect in its imperfection.
+
+01:01:01.01,01:01:04.67
+You're lucky.
+
+01:01:04.75,01:01:07.41
+You believe[br]in your own twaddle.
+
+01:01:07.48,01:01:10.04
+Who says I believe it?
+
+01:01:10.12,01:01:13.09
+But I like giving advice.
+
+01:01:13.15,01:01:15.32
+I'm a man of learning.
+
+01:01:18.16,01:01:20.65
+Can I come with you?
+
+01:01:20.73,01:01:24.86
+They only laugh at me at home.
+
+01:01:26.43,01:01:29.20
+As long as you don't blubber.[br]If you do, we'll run away.
+
+01:01:41.82,01:01:44.18
+Little brother!
+
+01:01:44.25,01:01:48.21
+Look out, Jöns![br]He wants to fight.
+
+01:01:48.29,01:01:51.82
+- Well, now he's crying.[br]- I'm sorry if I hurt you.
+
+01:01:51.89,01:01:54.99
+I've got such a confounded temper.
+
+01:02:00.84,01:02:02.83
+Come to my arms!
+
+01:02:02.90,01:02:06.17
+Later perhaps.[br]We're in a hurry.
+
+01:03:00.13,01:03:04.06
+Who is that over there[br]if not my lady...
+
+01:03:05.60,01:03:09.13
+complete with actor!
+
+01:03:31.83,01:03:33.79
+Look out now!
+
+01:03:33.86,01:03:38.09
+It is the filthy smith,[br]who has insulted...
+
+01:03:38.17,01:03:40.57
+the fair Kunigunda.
+
+01:03:40.64,01:03:42.30
+What did you call her?
+
+01:03:42.37,01:03:44.84
+Kunigunda! Are you deaf?
+
+01:03:46.51,01:03:50.74
+Her name is Lisa. Strumpet-Lisa.[br]Rump-Lisa.
+
+01:03:53.98,01:03:55.47
+How coarse he is.
+
+01:03:55.55,01:04:01.15
+Or find something better,[br]you gilded pimp!
+
+01:04:01.22,01:04:02.45
+What a brute!
+
+01:04:02.52,01:04:06.08
+You scabby bastard,[br]if I were in your lousy rags...
+
+01:04:06.16,01:04:08.56
+I would be so ashamed...
+
+01:04:08.63,01:04:13.03
+that I would creep[br]into a hole and die.
+
+01:04:17.04,01:04:19.40
+Watch out, you--
+
+01:04:19.47,01:04:22.53
+Dung heap.
+
+01:04:22.61,01:04:26.64
+Dung heap, or I'll...
+
+01:04:26.71,01:04:31.01
+blow you down to hell,[br]and you can--
+
+01:04:33.55,01:04:34.99
+Juggle.
+
+01:04:35.86,01:04:40.09
+Juggle with Old Nick's guts.
+
+01:04:40.16,01:04:41.15
+Bravo, Plog!
+
+01:04:41.23,01:04:46.13
+Watch out that I don't rip open[br]your belly.
+
+01:04:47.17,01:04:49.43
+Watch out that I don't punch you[br]in the face...
+
+01:04:49.50,01:04:53.10
+so you can't perform[br]for Turks and cannibals!
+
+01:04:54.34,01:04:57.47
+Why do you laugh? It's serious.
+
+01:04:57.55,01:05:01.95
+In southern lands there are things[br]called apes.
+
+01:05:02.02,01:05:05.14
+- What about it?[br]- Nothing.
+
+01:05:05.22,01:05:07.45
+Plog, my dear little Plog.
+
+01:05:11.23,01:05:13.79
+Darling Plog, forgive me.
+
+01:05:13.86,01:05:16.76
+She'll cry in a minute.
+
+01:05:16.83,01:05:19.80
+It's all so dreadful.
+
+01:05:19.87,01:05:23.70
+He has cheated me.
+
+01:05:23.77,01:05:27.00
+Look here, Kunigunda.
+
+01:05:27.08,01:05:30.34
+It will be his favourite food next!
+
+01:05:30.41,01:05:35.51
+When we get home,[br]I'll make you pork dumplings.
+
+01:05:40.69,01:05:44.62
+I must kill him first.
+
+01:05:47.43,01:05:51.83
+Yes, kill him properly.[br]I don't like him anymore.
+
+01:05:51.90,01:05:54.39
+Lord, why did you create woman?
+
+01:05:54.47,01:05:59.91
+He's nothing but false beard,[br]false teeth...
+
+01:05:59.97,01:06:01.91
+false all over.
+
+01:06:01.98,01:06:03.91
+Kill him.
+
+01:06:05.21,01:06:11.02
+If you thought I would defend myself[br]you were wrong.
+
+01:06:11.09,01:06:14.28
+Kill me. I'll thank you afterwards!
+
+01:06:14.36,01:06:15.79
+What did you say?
+
+01:06:15.86,01:06:19.95
+The actor plays on the emotions.[br]That's half the battle.
+
+01:06:20.03,01:06:22.12
+Don't stand there gaping!
+
+01:06:22.20,01:06:25.22
+He must fight me,[br]or I can't kill him.
+
+01:06:25.30,01:06:27.60
+He must at least annoy me.
+
+01:06:28.74,01:06:32.33
+I shall plunge this dagger[br]in my heart...
+
+01:06:33.61,01:06:38.31
+and my reality will become[br]that of a corpse.
+
+01:06:40.75,01:06:44.84
+Wait! I didn't mean any harm.
+
+01:06:44.92,01:06:47.11
+I forgive you, Kunigunda.
+
+01:06:47.19,01:06:49.12
+Farewell, my friend.
+
+01:06:49.19,01:06:51.28
+Pray for me.
+
+01:07:07.86,01:07:10.73
+Oh dear, I didn't mean it like that.
+
+01:07:10.80,01:07:14.93
+Oh dear, I was beginning[br]to like him.
+
+01:07:15.01,01:07:19.81
+He's dead. The deadest actor[br]I've ever seen.
+
+01:07:19.88,01:07:24.58
+Oh well, he wanted to die.
+
+01:07:24.65,01:07:27.01
+And that's what I'm married to!
+
+01:07:27.08,01:07:29.92
+Now you've got[br]your little Lisa back.
+
+01:07:31.12,01:07:33.52
+Aren't you happy?
+
+01:07:33.59,01:07:37.05
+Jöns, between you and me,[br]isn't life--
+
+01:07:38.63,01:07:41.83
+Yes. But don't think of that now.
+
+01:07:43.67,01:07:46.10
+It's a dirty mess.
+
+01:07:54.11,01:07:56.48
+I played that scene well.
+
+01:08:02.92,01:08:07.12
+Now to find a tree[br]where I'll be safe...
+
+01:08:07.19,01:08:09.82
+from bears, wolves and ghosts.
+
+01:08:30.98,01:08:34.21
+Tomorrow I'll find Joseph[br]and Mary...
+
+01:08:34.28,01:08:37.34
+and off we go[br]to the Saints' Festival.
+
+01:08:38.46,01:08:41.25
+I'll warble like a little bird.
+
+01:08:47.03,01:08:49.26
+Workmen in the forest!
+
+01:08:56.51,01:08:59.30
+It's my tree!
+
+01:08:59.38,01:09:03.97
+Hey, you scurvy knave,[br]what are you up to?
+
+01:09:04.05,01:09:08.61
+You might at least answer.[br]Who are you?
+
+01:09:10.02,01:09:13.79
+I'm felling your tree.[br]Your time is up.
+
+01:09:13.86,01:09:16.66
+You can't. I haven't time.
+
+01:09:16.73,01:09:18.92
+You haven't time?
+
+01:09:19.00,01:09:22.29
+No, I have my performance.
+
+01:09:22.37,01:09:25.10
+Cancelled, owing to death.
+
+01:09:25.17,01:09:28.00
+- My contract?[br]- Annulled.
+
+01:09:29.14,01:09:32.11
+My family--
+
+01:09:32.18,01:09:34.44
+For shame, Skat.
+
+01:09:34.51,01:09:36.88
+Yes, I'm ashamed.
+
+01:09:40.88,01:09:43.44
+Is there no exemption for actors?
+
+01:09:43.52,01:09:45.85
+Not in your case.
+
+01:09:47.22,01:09:50.49
+No loopholes?
+
+01:10:35.47,01:10:37.63
+There's the moon.
+
+01:10:39.64,01:10:42.74
+Now we can see our way.
+
+01:10:42.81,01:10:45.71
+I don't like the moon tonight.
+
+01:10:45.78,01:10:47.72
+The trees are so still.
+
+01:10:47.78,01:10:50.69
+That's because there is no wind.
+
+01:10:50.75,01:10:54.81
+He means they're unusually still.
+
+01:10:54.89,01:10:57.88
+There's not a sound.
+
+01:10:59.06,01:11:02.23
+- If only we could hear a fox.[br]- Or an owl.
+
+01:11:02.30,01:11:05.63
+Or a human voice...
+
+01:11:05.70,01:11:07.64
+besides our own.
+
+01:11:35.93,01:11:38.09
+Where are you going?
+
+01:11:38.17,01:11:41.86
+- To the stake.[br]- Ah, yes, the witch.
+
+01:11:41.94,01:11:45.77
+Why burn her at night[br]when people need diversion?
+
+01:11:45.84,01:11:48.44
+Shut up, for God's sake.
+
+01:11:48.51,01:11:51.21
+The Devil is with her.
+
+01:11:51.28,01:11:53.77
+Then you are eight brave men.
+
+01:11:53.85,01:11:57.91
+We've been paid.[br]This is a volunteer job.
+
+01:13:36.59,01:13:38.55
+Do you hear me?
+
+01:13:40.42,01:13:43.15
+They say you've had commerce[br]with the Devil.
+
+01:13:43.23,01:13:45.16
+Why do you ask?
+
+01:13:45.23,01:13:48.72
+For very personal reasons.
+
+01:13:50.50,01:13:52.83
+I, too, want to meet him.
+
+01:13:52.90,01:13:54.73
+Why?
+
+01:13:56.04,01:13:58.91
+I must ask him about God.
+
+01:13:58.98,01:14:00.97
+Surely he knows.
+
+01:14:04.41,01:14:07.32
+You can see him any time.
+
+01:14:07.38,01:14:08.85
+How?
+
+01:14:08.92,01:14:11.28
+If you do as I say.
+
+01:14:13.56,01:14:15.46
+Look into my eyes.
+
+01:14:18.33,01:14:22.56
+Well, do you see him?
+
+01:14:22.63,01:14:26.33
+I see terror.
+
+01:14:26.40,01:14:27.84
+Nothing else.
+
+01:14:31.61,01:14:34.54
+Nothing? No one?
+
+01:14:36.95,01:14:38.68
+No.
+
+01:14:40.38,01:14:42.72
+Is he not behind you?
+
+01:14:45.59,01:14:48.92
+There is no one.
+
+01:14:52.66,01:14:54.89
+He is with me everywhere.
+
+01:14:54.96,01:14:58.66
+If I stretch out my hand,[br]I feel him.
+
+01:14:58.74,01:15:01.23
+Even now.
+
+01:15:01.30,01:15:03.27
+The fire won't hurt me.
+
+01:15:03.34,01:15:05.31
+- Has he said so?[br]- I know.
+
+01:15:05.37,01:15:09.04
+- Has he said so?[br]- I know. I know.
+
+01:15:09.11,01:15:11.88
+You must see him, too.
+
+01:15:11.95,01:15:15.54
+The priests could see him,[br]and the soldiers.
+
+01:15:15.62,01:15:18.78
+They dare not touch me.
+
+01:15:25.13,01:15:27.10
+Why have you broken her hands?
+
+01:15:27.16,01:15:29.65
+- It is not us.[br]- Who?
+
+01:15:29.73,01:15:31.67
+Ask the monk there.
+
+01:15:33.37,01:15:35.89
+What have you done to the child?
+
+01:15:40.94,01:15:43.24
+Will you never stop asking questions?
+
+01:15:44.71,01:15:48.74
+No. Never.
+
+01:15:48.82,01:15:51.25
+But you get no answer.
+
+01:16:08.81,01:16:11.80
+I did think of killing[br]the soldiers...
+
+01:16:11.87,01:16:14.07
+but she's nearly dead already.
+
+01:16:14.14,01:16:16.81
+I told you to be careful.[br]Don't go near her.
+
+01:16:28.36,01:16:31.42
+This will still the pain.
+
+01:17:32.39,01:17:35.45
+What does she see?
+
+01:17:35.52,01:17:39.09
+- She has no pain now.[br]- You don't answer.
+
+01:17:39.16,01:17:41.60
+Who will look after that child?
+
+01:17:41.66,01:17:45.40
+The angels? God? Satan?[br]Emptiness?
+
+01:17:46.50,01:17:49.87
+- No, emptiness, milord![br]- It cannot be.
+
+01:17:49.94,01:17:51.37
+Look at her eyes.
+
+01:17:51.44,01:17:54.93
+Her poor mind is making[br]a discovery.
+
+01:17:55.01,01:17:57.14
+Emptiness!
+
+01:17:57.21,01:17:59.04
+No.
+
+01:17:59.12,01:18:01.78
+We are helpless.
+
+01:18:01.85,01:18:05.41
+We see what she sees[br]and her terror is ours.
+
+01:18:06.89,01:18:09.36
+Poor child!
+
+01:18:09.43,01:18:11.36
+I can't stand it!
+
+01:19:27.07,01:19:31.97
+He sings so sweetly[br]of Jesus Christ
+
+01:19:32.04,01:19:36.14
+In heaven there is great joy
+
+01:19:38.68,01:19:41.17
+It will soon be dawn...
+
+01:19:41.25,01:19:44.19
+but the heat is stifling.
+
+01:19:44.25,01:19:47.92
+I'm so afraid.
+
+01:19:47.99,01:19:50.29
+We feel something will happen[br]to us...
+
+01:19:50.36,01:19:53.39
+but we don't know what.
+
+01:19:53.46,01:19:55.40
+Doomsday perhaps.
+
+01:19:55.46,01:19:57.06
+Doomsday.
+
+01:20:09.25,01:20:11.04
+Give me water!
+
+01:20:13.28,01:20:14.98
+I have the plague.
+
+01:20:15.05,01:20:17.82
+Keep on the other side[br]of the tree.
+
+01:20:23.86,01:20:26.19
+I am afraid to die.
+
+01:20:26.26,01:20:29.49
+I don't want to die!
+
+01:20:34.94,01:20:37.37
+Take pity on me.
+
+01:20:39.91,01:20:42.61
+Speak to me!
+
+01:20:48.32,01:20:50.25
+It is useless.
+
+01:20:53.09,01:20:55.25
+I know it is!
+
+01:20:59.63,01:21:01.79
+I am dying.
+
+01:21:06.90,01:21:09.10
+What will happen to me?
+
+01:21:13.01,01:21:15.17
+Take pity on me.
+
+01:21:18.98,01:21:20.92
+Is there no help?
+
+01:21:23.55,01:21:25.49
+It is useless.
+
+01:21:28.39,01:21:31.72
+Utterly useless!
+
+01:21:31.79,01:21:33.46
+Help me!
+
+01:21:33.53,01:21:35.76
+Do you hear? I'm consoling you.
+
+01:22:02.36,01:22:04.79
+Shall we finish our game?
+
+01:22:05.59,01:22:07.03
+Your move!
+
+01:22:15.24,01:22:17.54
+I take your queen.
+
+01:22:17.61,01:22:19.47
+I didn't see that.
+
+01:22:35.12,01:22:37.06
+I see something dreadful.
+
+01:22:37.13,01:22:39.75
+- Something I can hardly tell you.[br]- What do you see?
+
+01:22:39.83,01:22:42.96
+The knight is playing chess[br]over there.
+
+01:22:43.03,01:22:45.59
+So I see. What of it?
+
+01:22:45.67,01:22:47.60
+Don't you see who the other is?
+
+01:22:47.67,01:22:50.57
+He's alone.[br]You mustn't scare me like that.
+
+01:22:50.64,01:22:54.37
+- No, he's not alone.[br]- Who is it then?
+
+01:22:54.44,01:22:58.04
+He's playing chess with Death.
+
+01:22:58.78,01:23:00.58
+You mustn't say that.
+
+01:23:00.65,01:23:04.31
+- We must flee.[br]- Not without him.
+
+01:23:04.39,01:23:09.05
+They are so deep in their game[br]that they won't notice.
+
+01:23:15.50,01:23:18.47
+Your move, Antonius Block.
+
+01:23:22.50,01:23:24.60
+Have you lost interest?
+
+01:23:28.11,01:23:30.01
+On the contrary!
+
+01:23:30.08,01:23:33.17
+You look worried.
+
+01:23:33.25,01:23:35.88
+Are you hiding something?
+
+01:23:35.95,01:23:38.35
+Nothing escapes you.
+
+01:23:38.42,01:23:41.55
+Nothing escapes me.
+
+01:23:41.62,01:23:43.72
+No one escapes me.
+
+01:23:45.03,01:23:47.02
+I am worried, it is true.
+
+01:23:48.46,01:23:50.40
+You are afraid.
+
+01:23:58.47,01:24:00.47
+I've forgotten how[br]the pieces were.
+
+01:24:03.11,01:24:05.17
+But I have not.
+
+01:24:06.68,01:24:09.17
+You can't get off so easily!
+
+01:24:17.96,01:24:20.86
+- Ah, how interesting.[br]- What do you see?
+
+01:24:23.40,01:24:25.56
+You are mate at the next move.
+
+01:24:29.41,01:24:30.70
+True.
+
+01:24:32.68,01:24:34.67
+Did you gain by the delay?
+
+01:24:34.74,01:24:37.34
+Yes.
+
+01:24:38.18,01:24:41.31
+I am glad.
+
+01:24:41.38,01:24:43.82
+When next we meet...
+
+01:24:43.89,01:24:48.12
+the hour will strike[br]for you and your friends.
+
+01:24:52.33,01:24:54.39
+And you will reveal your secrets.
+
+01:24:55.36,01:24:57.39
+I have no secrets.
+
+01:24:57.47,01:25:00.59
+So you know nothing?
+
+01:25:01.50,01:25:03.23
+I am unknowing.
+
+01:25:26.53,01:25:28.86
+What a queer light!
+
+01:25:28.93,01:25:31.83
+It's the thunderstorm.
+
+01:25:31.90,01:25:34.66
+No. It's something terrible.
+
+01:25:34.74,01:25:36.67
+Do you hear the roar?
+
+01:25:36.74,01:25:38.71
+It's only the rain.
+
+01:25:41.21,01:25:43.74
+No. He has seen us.
+
+01:25:43.81,01:25:45.75
+He's chasing us.
+
+01:25:59.66,01:26:02.26
+Inside, Mary! Quick!
+
+01:26:08.50,01:26:11.10
+The Angel of Doom[br]is rushing past...
+
+01:26:11.17,01:26:14.90
+and he is very big.
+
+01:26:14.98,01:26:16.91
+How cold it is!
+
+01:28:20.57,01:28:24.27
+I heard you were coming home...
+
+01:28:25.54,01:28:27.60
+so I waited for you.
+
+01:28:27.68,01:28:29.84
+The others have fled[br]from the plague.
+
+01:28:36.75,01:28:39.28
+Don't you know me anymore?
+
+01:28:44.03,01:28:46.49
+You too have changed.
+
+01:28:53.67,01:28:56.14
+Now I can see it is you.
+
+01:28:57.57,01:29:00.54
+Hidden deep in your eyes...
+
+01:29:07.38,01:29:11.68
+is the boy who went away[br]so long ago.
+
+01:29:14.29,01:29:18.69
+It is over now and I am tired.
+
+01:29:18.76,01:29:21.35
+Are you sorry you went?
+
+01:29:21.43,01:29:25.30
+No. But I am tired.
+
+01:29:33.41,01:29:35.34
+I can see that.
+
+01:29:43.52,01:29:45.75
+Over there are my friends.
+
+01:29:48.66,01:29:52.56
+Ask them in.[br]I shall prepare a meal.
+
+01:29:57.83,01:30:01.83
+"And when the Lamb had opened[br]the seventh seal...
+
+01:30:01.90,01:30:06.17
+"there was silence in heaven...
+
+01:30:06.24,01:30:09.21
+"about the space of half an hour.
+
+01:30:10.51,01:30:13.04
+"And the seven angels...
+
+01:30:13.12,01:30:16.05
+"which had the seven trumpets...
+
+01:30:16.12,01:30:20.08
+"prepared themselves to sound.
+
+01:30:31.63,01:30:36.07
+"The first angel sounded,[br]and there followed...
+
+01:30:36.14,01:30:40.67
+"hail and fire mingled with blood...
+
+01:30:40.74,01:30:44.23
+"and they were cast upon the earth.
+
+01:30:49.22,01:30:53.42
+"And the third part of the trees[br]was burnt up...
+
+01:30:54.56,01:30:59.15
+"and all the green grass was burnt up.
+
+01:30:59.23,01:31:03.43
+"And the second angel sounded...
+
+01:31:04.73,01:31:09.10
+"and as it were a great mountain[br]burning with fire...
+
+01:31:09.17,01:31:12.23
+"was cast into the sea.
+
+01:31:12.31,01:31:16.68
+"And the third part of the sea[br]became blood."
+
+01:31:16.75,01:31:18.30
+Was anyone there?
+
+01:31:23.99,01:31:26.65
+No, milord. I saw no one.
+
+01:31:30.79,01:31:34.28
+"And the third angel sounded...
+
+01:31:37.07,01:31:41.97
+"and there fell a great star[br]from heaven...
+
+01:31:42.04,01:31:46.00
+"burning as if it were a lamp.
+
+01:31:46.07,01:31:50.91
+"And the name of the star[br]is called Wormwood."
+
+01:32:26.65,01:32:29.01
+Good morning, noble lord.
+
+01:32:30.65,01:32:34.32
+I am Karin, the knight's wife...
+
+01:32:34.39,01:32:37.09
+and I bid you welcome in my house.
+
+01:32:38.86,01:32:41.66
+I'm a smith by trade...
+
+01:32:41.73,01:32:44.72
+and not a bad one.
+
+01:32:44.80,01:32:47.83
+My wife Lisa.
+
+01:32:47.90,01:32:50.53
+Curtsy to the noble lord, Lisa.
+
+01:32:52.11,01:32:55.08
+Takes a bit of handling...
+
+01:32:55.14,01:32:58.94
+but we quarrel no worse[br]than others.
+
+01:33:00.28,01:33:03.91
+Out of our darkness,[br]we call to Thee, O Lord!
+
+01:33:03.99,01:33:07.32
+Oh, God, have mercy on us!
+
+01:33:07.39,01:33:10.88
+We are small and afraid[br]and without knowledge.
+
+01:33:10.96,01:33:13.66
+In the darkness[br]where you say you are...
+
+01:33:13.73,01:33:18.53
+there is none to listen to your lament.
+
+01:33:21.57,01:33:24.73
+You are reflected[br]in your own indifference.
+
+01:33:24.81,01:33:30.21
+God, you who are somewhere,[br]who must be somewhere...
+
+01:33:30.28,01:33:32.47
+have mercy on us!
+
+01:33:32.55,01:33:35.48
+I could have purged your worries[br]about eternity...
+
+01:33:35.55,01:33:37.48
+but now it's too late.
+
+01:33:37.55,01:33:42.58
+But feel, to the very end,[br]the triumph of being alive!
+
+01:33:42.66,01:33:45.13
+Quiet, quiet!
+
+01:33:45.19,01:33:48.19
+Yes, but under protest.
+
+01:34:09.72,01:34:11.88
+It is finished.
+
+01:35:06.41,01:35:08.57
+I see them, Mary!
+
+01:35:10.45,01:35:13.57
+Over there against the stormy sky.
+
+01:35:13.65,01:35:15.84
+They are all there.
+
+01:35:15.92,01:35:18.39
+The smith and Lisa,[br]the knight...
+
+01:35:18.45,01:35:21.32
+Raval, Jöns, and Skat.
+
+01:35:21.39,01:35:25.19
+And the strict master Death[br]bids them dance.
+
+01:35:26.29,01:35:28.99
+He wants them to hold hands...
+
+01:35:29.06,01:35:32.80
+and to tread the dance[br]in a long line.
+
+01:35:32.87,01:35:35.03
+At the head goes the strict master...
+
+01:35:35.10,01:35:37.59
+with the scythe and hourglass.
+
+01:35:37.67,01:35:41.13
+But the Fool brings up the rear[br]with his lute.
+
+01:35:42.48,01:35:46.81
+They move away from the dawn...
+
+01:35:46.88,01:35:49.44
+in a solemn dance...
+
+01:35:49.52,01:35:52.42
+away towards the dark lands...
+
+01:35:52.49,01:35:56.05
+while the rain cleanses[br]their cheeks...
+
+01:35:56.12,01:35:59.92
+of the salt[br]from their bitter tears.
+
+01:36:04.07,01:36:06.76
+You with your visions!

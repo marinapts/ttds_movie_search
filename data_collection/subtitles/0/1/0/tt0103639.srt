@@ -1,0 +1,1022 @@
+{538}{630}Oh I come from a land From a faraway place
+{630}{713} Where the caravan camels roam
+{714}{802}Where it's flat and immense And the heat is intense
+{803}{892}It's barbaric, but hey--it's home!
+{893}{968} When the wind's from the east and the sun's from the west
+{969}{1043}And the sand in the glass is right
+{1044}{1107}Come on down, dance, Stop on by
+{1108}{1148}Hop a carpet and fly
+{1149}{1267}To another Arabian night!
+{1268}{1348}Arabian nights
+{1349}{1443}Like Arabian days
+{1444}{1492}More often than not
+{1493}{1616}Are hotter than hot In a lot of good ways
+{1618}{1798}Arabian nights 'neath Arabian moons
+{1799}{1898}A fool off his guard Could fall and fall hard 
+{1899}{2016}Out there on the dunes.
+{2086}{2182}Ah, Salaam and good evening to you worthy friend.
+{2203}{2258}Please, please, come closer--
+{2259}{2310}Too close, a little too close.
+{2311}{2361}There.
+{2362}{2458}Welcome to Agrabah, City of mystery,
+{2463}{2608}of enchantment, and the finest merchandise  this side |of the river Jordan,on sale today, come on down!
+{2613}{2648}Look at this! Yes!
+{2649}{2687}Combination hookah and coffee maker--
+{2688}{2756}also makes Julienne fries
+{2757}{2804}Will not break
+{2805}{2852}It broke.
+{2853}{2908}Look at this!
+{2909}{3020}I have never seen one of these intact before.|This is the famous Dead Sea Tupperware
+{3021}{3104}Listen.|Ah, still good.
+{3105}{3152}Wait, don't go!
+{3153}{3243}I can see that you're only interested | in the exceptionally rare.
+{3244}{3327}I think then, you would be most rewarded to consider...
+{3328}{3375}...this
+{3376}{3437}Do not be fooled by its commonplace appearance.
+{3438}{3573}Like so many things, it is not what is outside,| but what is inside that counts.
+{3575}{3619}This is no ordinary lamp!
+{3620}{3691}It once changed the course of a young man's life.
+{3692}{3788}A young man who liked this lamp was more than what he seemed.
+{3798}{3847} A diamond in the rough.
+{3848}{3919}Perhaps you would like to hear the tale? 
+{3920}{4016}It begins on a dark night
+{4038}{4169}where a dark man waits, with a dark purpose.
+{4328}{4367}You...are late.
+{4368}{4432}A thousand apologies, O patient one.
+{4433}{4463}You have it, then?
+{4464}{4560}I had to slit a few throats but I got it!
+{4579}{4675}Ah, ah, ahhh!  The treasure!
+{4723}{4816}Trust me, my pungent friend.
+{4817}{4913}You'll get what's coming to you. |(What's coming to you!)
+{5071}{5167}Quickly, follow the trail!
+{5236}{5332}Faster!
+{5754}{5850}At last, after all my years of searching,
+{5860}{5956}the cave of wonders! |(Cave of wonders!)
+{5987}{6029}By Allah!
+{6030}{6126}Now, remember!  Bring me the lamp.
+{6128}{6248}The rest of the treasure is yours, but the lamp is mine!
+{6396}{6492}Jeez, where'd ya dig this bozo up?
+{6813}{6909}Who disturbs my slumber?
+{6952}{7048}It is I, Gazeem, a humble thief.
+{7072}{7168}Know this.  Only one may enter here.
+{7169}{7290}One whose worth lies far within.  A diamond in the rough.
+{7340}{7436}What are you waiting for?  Go on!
+{7868}{8002}Seek thee out, the diamond in the rough.
+{8133}{8223}I can't believe it.  I just don't believe it.
+{8224}{8318}We're never gonna get a hold of that stupid lamp!
+{8319}{8354}Just forget it.
+{8355}{8451}Look at this.  Look at this.  I'm so ticked off that I'm molting!
+{8463}{8543}Patience, Iago.  Patience.
+{8544}{8634}Gazeem was obviously less than worthy.
+{8635}{8701}Oh, there's a big surprise.
+{8702}{8798}That's an incred--|I think I'm gonna have a heart attack and die from not surprise!
+{8803}{8898}What're we gonna do?  We got a big problem here,a big--
+{8899}{8995}Yes.  Only one may enter.
+{9038}{9134}I must find this one, this...diamond in the rough.
+{9182}{9238}Stop, thief!
+{9239}{9333}I'll have your hands for a trophy, street rat!
+{9334}{9450}All this for a loaf of bread?
+{9668}{9738}There he is!|-You won't get away so easy!
+{9757}{9828}You think that was easy?
+{9829}{9924}You two, over that way, and you, follow me.  We'll find him.
+{9925}{9953}Morning, ladies.
+{9954}{10049}Getting into trouble a little early today, aren't we Aladdin?
+{10050}{10097}Trouble?  No way.
+{10098}{10133}You're only in trouble if you get caught--
+{10134}{10149}Gotcha!
+{10150}{10176}I'm in trouble!
+{10177}{10255}...and this time--
+{10256}{10329}Perfect timing, Abu, as usual! |-Hello!
+{10330}{10380}Come on, let's get outta here!
+{10381}{10428}Gotta keep...one jump ahead of the breadline
+{10429}{10488}One swing ahead of the sword
+{10489}{10583}I steal only what I can't afford.|That's everything!
+{10584}{10619}One jump ahead of the lawmen
+{10620}{10748}That's all, and that's no joke,|These guys don't appreciate I'm broke!
+{10764}{10859}Riffraff! Street rat!Scoundrel! Take that!
+{10860}{10945}Just a little snack, guys! 
+{10946}{11042}Rip him open, take it back guys!
+{11043}{11128}I can take a hint, gotta face the facts|You're my only friend, Abu!|-Who?!?
+{11129}{11225}Oh, it's sad Aladdin's hit the bottom
+{11228}{11312}He's become a one-man rise in crime
+{11313}{11409}I'd blame parents, except he hasn't got 'em!
+{11412}{11522}Gotta eat to live,gotta steal to eat, |Tell you all about it when I got the time!
+{11522}{11610}One jump ahead of the slowpokes|One skip ahead of my doom
+{11611}{11715}Next time gonna use a nom de plume.|-There he is!
+{11716}{11794}One jump ahead of the hitmen|One hit ahead of the flock
+{11795}{11890}I think I'll take a stroll around the block.
+{11891}{11960}Stop, thief! Vandal! Outrage! Scandal!
+{11961}{12057}Let's not be too hasty
+{12081}{12176}Still I think he's rather tasty
+{12178}{12274}Gotta eat to live, gotta steal to eat,| Otherwise we'd get along! |-WRONG!
+{12513}{12584}He's got a sword!
+{12568}{12681}You idiots--|we've ALL got swords!!
+{12825}{12872}One jump ahead of the hoofbeats!|-Vandal!
+{12873}{12920}One hop ahead of the hump!|-Street rat!
+{12921}{12963}One trick ahead of disaster!|-Scoundrel!
+{12964}{13002}They're quick--but I'm much faster |-Take that!
+{13003}{13085}Here goes, better throw my hand in|Wish me happy landin',all I gotta do is...
+{13086}{13182}jump!
+{13269}{13365}SNIENO GNOJIVO
+{13463}{13559}And now, esteemed effendi, we feast!  All right!
+{14143}{14263}Here, go on--take it.
+{14805}{14861}On his way to the palace, I suppose.
+{14862}{14958}Another suitor for the princess.
+{15006}{15089}Out of my way, you filthy brat!
+{15090}{15186}Hey, if I were as rich as you, I could afford some manners
+{15198}{15294}Oh--I teach you some manners!
+{15380}{15476}Look at that, Abu. | It's not every day you see a horse with two rear ends!
+{15533}{15578}You are a worthless street rat.
+{15579}{15675}You were born a street rat, you'll die a street rat,
+{15677}{15773}and only your fleas will mourn you.
+{15836}{15931}I'm not worthless.  And I don't have fleas.
+{15994}{16090}Come on, Abu.  Let's go home.
+{16234}{16352}Riffraff, street rat. I don't buy that.
+{16353}{16449}If only they'd look closer
+{16497}{16593}Would they see a poor boy?  No siree.
+{16668}{16898}They'd find out, there's so much more to me.
+{17032}{17127}Someday, Abu, things are gonna change.
+{17128}{17224}We'll be rich, live in a palace, and never have any problems at all.
+{17356}{17403}I've never been so insulted!
+{17404}{17489}Oh, Prince Achmed.  You're not leaving so soon, are you?
+{17490}{17546}Good luck marrying her off!
+{17547}{17643}Oh, Jasmine!  
+{17667}{17763}Jasmine! |Jasmine!  
+{17787}{17883}Confound it, Rajah!
+{17954}{18013}So, this is why Prince Achmed stormed out!
+{18014}{18121}Oh, father.  Rajah was just playing with him, weren't you Rajah.
+{18122}{18218}You were just playing with that overdressed, |self-absorbed Prince Achmed, weren't you?
+{18338}{18434}Dearest, you've got to stop rejecting every suitor that comes to call.
+{18458}{18528}The law says you...|...must be married to a prince...
+{18529}{18576}...By your next birthday.
+{18577}{18612}The law is wrong.
+{18613}{18683}You've only got three more days!
+{18685}{18771}Father,  I hate being forced into this.
+{18772}{18862}If I do marry, I want it to be for love.
+{18863}{18959}Jasmine, it's not only this law. 
+{19007}{19102}I'm not going to be around forever,...and I...
+{19138}{19249}I just want to make sure you're taken care of, provided for.
+{19273}{19369}Please, try to understand.  I've never done a thing on my own.
+{19393}{19464}I've never had any real friends.
+{19465}{19540}Except you, Rajah.
+{19541}{19612} I've never even been outside the palace walls.
+{19613}{19670}But Jasmine, you're a princess.
+{19671}{19767}Then maybe I don't want to be a princess anymore!
+{19800}{19896}Allah forbid you should have any daughters!
+{20227}{20323}I don't know where she gets it from.  |Her mother wasn't nearly so picky.
+{20395}{20491}Ah, Jafar--my most trusted advisor.
+{20510}{20590}I am in desperate need of your wisdom.
+{20591}{20662}My life is but to serve you, my lord.
+{20663}{20710}It's this suitor business.
+{20711}{20782}Jasmine refuses to choose a husband.  I'm at my wit's-end.
+{20783}{20859}Wit's-end.
+{20860}{20956}Have a cracker, pretty polly!
+{20982}{21078}Your majesty certainly has a way with dumb animals.
+{21100}{21244}Now then, perhaps I can divine a solution to this thorny problem.
+{21258}{21329}If anyone can help, it's you.
+{21330}{21426}Ah, but it would require the use of the mystic blue diamond.
+{21431}{21497}Uh, my ring?
+{21498}{21542}But it's been in the family for years.
+{21543}{21639}It is necessary to find the princess a suitor.
+{21648}{21843}Don't worry.  Everything will be fine.|- Everything will be fine.
+{21850}{21921}The diamond.
+{21922}{22005}Here, Jafar. Whatever you need 
+{22006}{22029}will be fine.
+{22030}{22113}You are most gracious, my liege.
+{22114}{22328}Now run along and play with your little toys. |Yes...that'll be...pretty good.
+{22348}{22561}I can't take it anymore! | If I gotta choke down on one more of those moldy, disgusting crackers...
+{22562}{22604}bam!
+{22605}{22693}Calm yourself, Iago.|-Then I'd grab him around the head. 
+{22694}{22888}Soon, I will be sultan, not that addlepated twit.|-And then I stuff the crackers down his throat!
+{23361}{23457}Oh, I'm sorry, Rajah.  |But I can't stay here and have my life lived for me.  
+{23540}{23636}I'll miss you.
+{23798}{23894}Good bye!
+{24086}{24182}Okay, Abu.  Go!
+{24192}{24287}Try this, your taste buds will dance and sing.
+{24331}{24404}Hey, get your paws off that.
+{24405}{24501}Why, you!  Get away from here, you filthy ape!
+{24546}{24598}Bye bye!
+{24599}{24695}Nice goin' Abu.  Breakfast is served.
+{24810}{24906}Pretty lady, buy a pot.  No finer pot in brass or silver.
+{24913}{25009}Sugar dates, sugar dates and figs!  |Sugar dates and pistachios!
+{25014}{25110}Would the lady like a necklace.  |A pretty necklace for a pretty lady.
+{25122}{25213} Fresh fish!  We catch 'em, you buy 'em!
+{25214}{25263}I don't think so.
+{25290}{25386}Oh, excuse me.
+{25441}{25537}I'm really very sorry.
+{25872}{25931}Oh, you must be hungry.
+{25932}{25955}Here you go. 
+{25956}{26044}You'd better be able to pay for that.
+{26045}{26061}Pay?
+{26062}{26128}No one steals from my cart!
+{26129}{26164} Oh, I'm sorry sir.
+{26165}{26200}I don't have any money.
+{26201}{26213}Thief!
+{26214}{26300} Please, if you let me go to the palace, |I can get some from the Sultan.
+{26301}{26380} Do you know what the penalty is for stealing?
+{26381}{26435}No, no please!
+{26436}{26492}Thank you kind sir.  I'm so glad you've found her.
+{26493}{26547}I've been looking all over for you.
+{26548}{26571}What are you doing? 
+{26572}{26612}Just play along.
+{26613}{26651}You know this girl?
+{26652}{26747}Sadly, yes.  She is my sister.  She's a little crazy.
+{26757}{26823}She said she knows the Sultan!
+{26824}{26920}She thinks the monkey is the Sultan.
+{26968}{27064}-Oh, wise Sultan.  How may I serve you?
+{27131}{27168}Tragic, isn't it?
+{27169}{27236}But, no harm done.
+{27237}{27279}Now come along sis. Time to see the doctor.
+{27280}{27346}Oh, hello doctor. How are you?
+{27347}{27408}No, no, no. Not that one.
+{27409}{27505}Come on, Sultan.
+{27519}{27574} What is it?
+{27575}{27670}Come back here, you little thieves!
+{27710}{27800} With all due respect, your rottenness, 
+{27801}{27882}couldn't we just wait for a real storm?
+{27883}{27973}Save your breath, Iago.  Faster!
+{27974}{28070}Yes, o mighty evil one.
+{28118}{28214}Ah, sands of time--reveal to me| the one who can enter the cave.
+{28257}{28352}Yes, yes!
+{28353}{28409}There he is.
+{28410}{28448}My diamond in the rough!
+{28449}{28500}That's him?!?! 
+{28501}{28558}That's the clown we've been waitin' for?
+{28559}{28667}Let's have the guards extend him |an invitation to the palace, shall we?
+{28717}{28813}Swell.
+{28861}{28957}Almost there.
+{29086}{29172}I want to thank you for stopping that man.
+{29173}{29244}Uh, forget it.
+{29245}{29341}So, uh, this is your first time in the marketplace, huh?
+{29372}{29426}Is it that obvious?
+{29427}{29523}Well, you do kinda stand out.  I mean,
+{29548}{29644}you don't seem to know how dangerous Agrabah can be.
+{29661}{29757}I'm a fast learner.
+{29834}{29914}C'mon, this way.
+{29915}{30011}Watch your head there.  Be careful.
+{30016}{30058}Is this where you live?
+{30059}{30149} Yep.  Just me and Abu.  Come and go as we please.
+{30150}{30202}That sounds fabulous.
+{30203}{30299} Well, it's not much, but it's got a great view.
+{30330}{30398}Palace looks pretty amazing, huh?
+{30399}{30446} Oh, it's wonderful.
+{30447}{30558}I wonder what it would be like to live there, |to have servants and valets...
+{30562}{30658}Oh, sure.   People who tell you |where to go and how to dress.
+{30682}{30778} It's better than here. | Always scraping for food and ducking the guards.
+{30785}{30825}You're not free to make your own choices.
+{30826}{30873}Sometimes you feel so--
+{30874}{30895}You're just--
+{30896}{30992}--trapped.
+{31080}{31125}So, where're you from?
+{31126}{31222}What does it matter? | I ran away, and I am not going back.
+{31258}{31292}Really?
+{31293}{31377}How come?
+{31378}{31429}My father's forcing me to get married.
+{31430}{31526} That's--that's awful.
+{31541}{31614}Abu!
+{31615}{31683} What?
+{31684}{31736}Abu says that--
+{31737}{31796}--that's not fair.
+{31798}{31899}Oh did he?|-Yeah, of course.
+{31900}{31976}And does Abu have anything else to say?
+{31977}{32073} Well, uh, he wishes |there was something he could do to help.
+{32126}{32222}Hmm, tell him that's very sweet.
+{32265}{32307}Here you are!
+{32308}{32321}They've found me! 
+{32322}{32355}They're after you?
+{32356}{32388}My father must have sent them--
+{32389}{32405}Do you trust me?
+{32406}{32420}What?
+{32421}{32456}Do you trust me?
+{32457}{32491}Yes.
+{32492}{32588}Then jump!
+{32675}{32771}We just keep running into each other, don't we, street rat?
+{32793}{32858}Run! |Go! Get out of here!
+{32912}{32954}It's the dungeon for you, boy.
+{32955}{32983}Hey, get off of me!
+{32984}{33009}Lethim go!
+{33010}{33106}Look what we have here, men--a street mouse. 
+{33128}{33224}Unhand him, by order of the princess.
+{33238}{33271}Princess Jasmine.
+{33272}{33323}The princess?
+{33324}{33400}What are you doing outside the palace?  |And with this street rat?
+{33401}{33462}That's not your concern.  Do as I command.  
+{33463}{33498}Release him!
+{33499}{33585}Well, I would, princess,except my orders come from Jafar.
+{33586}{33630}You'll have to take it up with him.
+{33631}{33727}Believe me, I will.
+{33847}{33894}Jafar?
+{33895}{33959}Oh, uh, princess.
+{33960}{34002}Jafar, I'm stuck!
+{34003}{34038}How may I be of service to you?
+{34039}{34135}The guards just took a boy from the market, on your orders.
+{34147}{34230}Your father's charged me with keeping peace in Agrabah. 
+{34231}{34254}The boy was a criminal.
+{34255}{34290}What was his crime?
+{34291}{34357}I can't breathe, Jafar!
+{34358}{34410}Why, kidnapping the princess, of course.
+{34411}{34481}If you could just--|--wow, that hurt!
+{34482}{34565}He didn't kidnap me! I ran away!
+{34566}{34662}Oh, dear!  Oh, how frightfully upsetting.
+{34681}{34726}Had I but known.
+{34727}{34757}What do you mean?
+{34758}{34839}Sadly, the boy's sentence has already been carried out.
+{34840}{34877}What sentence?
+{34878}{34913}Death.
+{34914}{34968}By beheading.
+{34969}{35064}No!
+{35065}{35150} I am exceedingly sorry, princess.
+{35151}{35247}How could you? 
+{35448}{35495}So, how did  it go?
+{35496}{35592}I think she took it ...|...rather well. 
+{35908}{36004}It's all my fault, Rajah.
+{36014}{36109} I didn't even know his name.
+{36551}{36647}She was the princess.  I can't believe it.
+{36651}{36747}I must have sounded so stupid to her.
+{36819}{36915} Abu!  Down here!
+{36927}{37023}Hey, c'mon--help me outta these.
+{37150}{37246}Hey, she was in trouble. Ah, she was worth it.
+{37275}{37346}Don't worry, Abu.  I'll never see her again.
+{37347}{37413}I'm a street rat, remember, and there's a law.
+{37414}{37510}She's gotta marry a prince, she deserves a prince.
+{37570}{37633}I'm a--I'm a fool
+{37634}{37729}You're only a fool if you give up, boy.
+{37730}{37765}Who are you?
+{37766}{37861}A lowly prisoner, like yourself.  But together,
+{37862}{37921}perhaps we can be more.
+{37922}{37945}I'm listening.
+{37946}{38042}There is a cave, boy.  A cave of wonders. 
+{38052}{38147}Filled with treasures beyond your wildest dreams.
+{38191}{38286}Treasure enough to impress even your princess, I'd wager.
+{38301}{38377}Jafar, can ya hurry it up? I'm dyin' in here!
+{38378}{38444}But the law says that only a prince can--
+{38445}{38496}You've heard of the golden rule, haven't you?
+{38497}{38592} Whoever has the gold makes the rules.
+{38593}{38674}So why would you share |all of this wonderful treasure with me?
+{38675}{38771}I need a young pair of legs |and a strong back to go in after it.
+{38795}{38891}Ah, one problem.  It's out there, we're in here?
+{38917}{39013}Things aren't always what they seem.
+{39047}{39142}So, do we have a deal?
+{39447}{39543}Who disturbs my slumber?
+{39588}{39684}It is I, Aladdin.
+{39696}{39792}Proceed.  Touch nothing but the lamp.
+{39852}{39948}Remember, boy--first fetch me the lamp, |and then you shall have your reward.
+{40032}{40128} C'mon, Abu.
+{40416}{40511}Would ya look at that!
+{40526}{40622}Just a handful of this stuff |would make me richer than the sultan!
+{40708}{40804}Don't...touch...anything!  We gotta find that lamp.
+{41612}{41708}Abu, will ya knock it off?
+{42212}{42308}Abu, what are you--crazy?
+{42332}{42428}A magic carpet!  C'mon.  C'mon out.
+{42442}{42538}I'm not gonna hurt you.
+{42727}{42786}Take it easy, Abu.  He's not gonna bite.
+{43003}{43099}Hey, wait a minute.Don't go. | Maybe you can help us.
+{43243}{43321}You see, we're trying to find this lamp.
+{43322}{43418}I think he knows where it is.
+{43770}{43866}Wait here!
+{44645}{44741} This is it?  This is what we came all the way down here to--
+{44753}{44815}Abu-| NO!
+{44816}{44910}Infidels!
+{44911}{45007}You have touched the forbidden treasure.
+{45070}{45166}Now you will never again see the light of day!
+{46036}{46132}Carpet, let's move!
+{46503}{46586}Abu, this is no time to panic! 
+{46587}{46683}Start panicking.
+{47366}{47389}Help me out!
+{47390}{47417}Throw me the lamp!
+{47418}{47484}I can't hold on.  Give me your hand.
+{47485}{47581}First give me the lamp!
+{47737}{47833}Yes!  At last!
+{47855}{47892}What are you doing?
+{47893}{47952} Giving you your reward.
+{47953}{48049}Your eternal reward.
+{48684}{48780}It's mine.  It's all mine!---
+{48828}{48887}where is it?  No. 
+{48888}{48984}NO!!
+{49092}{49170}Jasmine?
+{49171}{49267}Oh, dearest.  What's wrong?
+{49293}{49406}Jafar...has...done something... terrible.
+{49451}{49547}There, there, there, my dear--we'll set it right.
+{49579}{49674}Now, tell me everything.
+{49859}{49955}Oh, my head.
+{49991}{50087}We're trapped. That two faced son-of-a-jackal!
+{50111}{50207}Whoever he was, he's long gone with that lamp.
+{50274}{50354} Why, you hairy little thief!
+{50355}{50434}Looks like such a beat-up, worthless piece of junk.
+{50435}{50529}Hey, I think there's something written here,
+{50530}{50626}but it's hard to make out.
+{50861}{50957}Aaaaahhhhh!  OY! 
+{50967}{51118}Ten-thousand years will give ya such a crick in the neck!|Hang on a second!
+{51187}{51261} Whoa!  Does it feel good to be outta there!
+{51262}{51323}I'm telling ya, nice to be back, ladies and gentlemen. | Hi, where ya from?
+{51324}{51373}What's your name?
+{51374}{51400} Uh, Al--uh--Aladdin.|-Aladdin!
+{51401}{51464}Hello, Aladdin.  Nice to have you on the show.
+{51465}{51585}Can we call you 'Al?' Or maybe just 'Din?' |Or how bout Laddi? Sounds like 'Here, boy!  |C'mon, Laddi!'
+{51633}{51680}I must have hit my head harder than I thought.
+{51681}{51752}Do you smoke?  Mind if I do?
+{51761}{51824}Oh, sorry Cheetah--hope I didn't singe the fur!
+{51825}{51921}Yo, Rugman!  Haven't seen you in a few millennia!  |Slap me some tassel!
+{51993}{52099}Say, you're a lot smaller than my last master.|Either that or I'm gettin' bigger.
+{52100}{52227}Look at me from the side--do I look different to you?|-Wait a minute!  I'm--your master?
+{52228}{52324}That's right!  He can  be taught!! |What would you wish of me,  
+{52328}{52424}the ever impressive, the long contained,
+{52425}{52488}often imitated, but never duplicated--
+{52489}{52558} Duplicated, duplicated,  duplicated, duplicated,  duplicated,  duplicated, duplicated, duplicated, duplicated.
+{52559}{52656}Genie Of The Lamp!
+{52658}{52783}Right here direct from the lamp,| right here for your enjoyment wish fulfillment.Thank youuuuu!
+{52823}{52941}Wish fulfillment?|-Three wishes to be exact. | And ix-nay on the wishing for more wishes.
+{52994}{53070}Uno, dos, tres.No substitutions, exchanges or refunds.
+{53071}{53099}Now I know I'm dreaming.
+{53100}{53190}Master, I don't think you quite realize what you've got here!
+{53191}{53335}So why don't you just ruminate, |whilst I illuminate the possibilities.
+{53359}{53477}Well Ali Baba had them forty thieves|Scheherazadie had a thousand tales,
+{53478}{53587}But master you in luck 'cause up your sleeve,|You got a brand of magic never fails!
+{53588}{53717} You got some power in your corner now|Some heavy ammunition in your camp
+{53718}{53848}You got some punch, pizzazz, yahoo and how,|See all you gotta do is rub that lamp, and I'll say
+{53849}{53943}Mister Aladdin sir, What will your pleasure be?
+{53944}{54077}Let me take your order, jot it down|You ain't never had a friend like me!
+{54078}{54183}Life is your restaurant, and I'm your maitre' d!
+{54184}{54293}C'mon whisper what it is you want|You ain't never had a friend like me.
+{54294}{54429}Yes sir, we pride ourselves on service|You're the boss, the king, the shah!
+{54430}{54536}Say what you wish,  it's yours! True dish|How about a little more Baklava?
+{54553}{54652}Try some of column 'A'Try all of column 'B'
+{54652}{54820}I'm in the mood to help you dude|You ain't never had a friend like me
+{54988}{55112}Can your friends do this?|Do your friends do that?
+{55113}{55230}Do your friends pull this |out their little hat
+{55232}{55283}Can your friends go poof!
+{55284}{55366}Well looky here
+{55367}{55478}Can your friends go Abracadabra, let 'er rip|  And then make the sucker disappear?
+{55479}{55598}So don't you sit there slack jawed, buggy eyed|I'm here to answer all your midday prayers
+{55599}{55713}You got me bona fide, certified,|You got a genie for a charg d'affairs!
+{55714}{55809}I got a powerful urge to help you out |So what you wish I really want to know
+{55810}{55946}You got a list that's three miles long, no doubt, |Well So all you gotta do is rub like so, and oh!
+{55947}{56043} Mister Aladdin, sir, have a wish or two or three
+{56048}{56126}I'm on the job, you big nabob
+{56127}{56162}You ain't never had a friend, never had a friend
+{56163}{56234}You ain't never had a friend, never had a friend, You ain't
+{56235}{56265}Never...
+{56266}{56289}Had a...
+{56290}{56327}Friend...
+{56328}{56424}like...me!
+{56582}{56678}PLJESAK
+{56731}{56802}So what'll it be, master?
+{56803}{56961}You're gonna grant me any three wishes I want, right?|-Ah, almost.  There are a few provisos, a couple of quid pro quos
+{56978}{57093}Like?|-Ah, rule number one: I can't kill anybody. 
+{57094}{57268}So don't ask.|Rule number  two: I can't make anybody fall in love |with anybody else.
+{57269}{57386}You little punim, there.|Rule three: I can't bring people back from the dead.
+{57410}{57504}It's not a pretty picture, I don't like doing it!
+{57505}{57601}Other than that, you got it
+{57637}{57675}Ah, provisos?
+{57676}{57756}You mean limitations?  On wishes?
+{57757}{57852}Some all powerful genie--can't even bring people back from the dead.
+{57853}{57936}I don't know, Abu--he probably can't even get us out of this cave.
+{57937}{57994}Looks like we're gonna have to find a way out of here--
+{57995}{58082}Excuse me?  Are you lookin' at me?  
+{58083}{58118}Did you rub my lamp?
+{58119}{58198}Did you wake me up, did you bring me here?
+{58199}{58312}And all of a sudden, you're walkin' out on me?|Idon't think so, not right now.
+{58313}{58399}You're gettin' your wishes, so siddown!
+{58400}{58496}In case of emergency, the exits are here, here, here,| here,here, here, here, here, here, here, here, here, anywhere!
+{58507}{58633}Keep your hands and arms inside the carpet. | Weeee'rrrrrreee...
+{58634}{58698}outta here!
+{58703}{58774}Jafar, this is an outrage.
+{58775}{58870}If it weren't for all your years of loyal service...
+{58871}{58961}From now on, you are to discuss sentencing of prisoners with me,
+{58962}{59016}before they are beheaded.
+{59017}{59098}I assure you, your highness, it won't happen again.
+{59099}{59278}Jasmine, Jafar, now let's put this whole messy business behind us. |Please?
+{59279}{59468}My most abject and humblest apologies to you as well, princess.|-At least some good will come of my being forced to marry. 
+{59469}{59545}When I am queen, I will have the power to get rid of you.
+{59607}{59734}Well, now, that's nice.  All settled, then.|Now, Jasmine, getting back to this suitor business,
+{59735}{59818}Jasmine?|Jasmine?
+{59854}{59936}If only I had gotten that lamp!
+{59938}{60027}I will have the power to get rid of you!
+{60041}{60136}To think--we gotta keep kissing up to that scum,| and his chump daughter for the rest of our lives...
+{60137}{60232}To think--we gotta keep kissing up to that scum,| and his chump daughter for the rest of our lives...
+{60233}{60329}No, Iago.  Only until she finds a chump husband.
+{60353}{60449}Then she'll have us banished--or beheaded!
+{60523}{60648} Wait a minute!  Wait a minute! Jafar? | What if YOU were the chump husband?
+{60649}{60678}What?
+{60679}{60765} Okay, you marry the princess,all right?
+{60789}{60884}Then, uh, you become sultan!
+{60885}{60988}Marry the shrew?  I become the sultan.
+{60989}{61088}The idea has merit!|-Yes, merit! Yes! 
+{61089}{61268}And then we drop papa-in-law and the little woman off a cliff!
+{61372}{61468} Iago, I love the way your foul little mind works!
+{61675}{61771}Thank you for choosing Magic Carpet for all your travel needs.
+{61776}{61849}Don't stand until the rug has come to a complete stop.
+{61850}{61946}Thank you.  Good bye, good bye!  Thank you! Good bye!
+{61963}{62041}Well, now.  How about that, Mr.  doubting mustafa?
+{62042}{62106}Oh, you sure showed me.
+{62107}{62161}Now about my three wishes--
+{62162}{62226}Dost mine ears deceive me?  Three?
+{62227}{62298}You are down by ONE, boy!
+{62299}{62370}Ah, no--I never actually wished to get out of the cave.
+{62371}{62457}You did that on your own.
+{62477}{62521}Well, don't I feel just sheepish? 
+{62522}{62609}All right, you baaaaad boy,  but no more freebies.
+{62610}{62706}Fair deal.  So, three wishes.  I want them to be good.
+{62730}{62772}What would you wish for?
+{62773}{62869}Me?  No one's ever asked me that before.
+{62898}{62945}Well, in my case, ah, forget it.
+{62946}{63042}What?  C'mon, tell me.
+{63062}{63101}Freedom.
+{63102}{63142} You're a prisoner?
+{63143}{63192}It's all part-and-parcel, the whole genie gig.
+{63193}{63281}Phenomenal cosmic powers!
+{63282}{63329}Itty bitty living space
+{63330}{63377}Genie, that's terrible.
+{63378}{63432}But, oh--to be free.
+{63447}{63567}Not have to go "Poof! What do you need?| Poof! What do you need? Poof! What do you need?" 
+{63568}{63752}To be my own master, such a thing would be greater |than all the magic and all the treasures in all  the world!
+{63761}{63904}But what am I talking about?  Let's get real here.|It's not gonna happen. Genie, wake up and smell the hummus
+{63917}{64043}Why not?|-The only way I get outta this is if my master wishes me out.
+{64044}{64096}So you can guess how often that's happened.
+{64097}{64212} I'll do it. I'll set you free.|-Aha, yeah, right.
+{64217}{64367}No, really, I promise. After make my first two wishes, |I'll use my third wish to set you free.
+{64372}{64486}Well, here's hopin'. |Alright.|Let's make some magic! 
+{64487}{64555}So how 'bout it?|What is it you want most?
+{64556}{64629}Well, there's this girl--
+{64630}{64653}Wrong!
+{64654}{64737}I can't make anybody fall in love, remember?
+{64738}{64847}Oh, but Genie.  She's smart and fun and...
+{64848}{64886}Pretty?|- Beautiful.
+{64887}{64972}She's got these eyes that just...and this hair,
+{64973}{65061}...and her smile.
+{65062}{65126} Ami.  C'est l'amour.
+{65127}{65222}But she's the princess.  To even have a chance, I'd have to be a--
+{65223}{65246}hey,
+{65247}{65318}can you make me a prince?
+{65319}{65397}Let's see here. Uh, chicken a'la king? Nope.
+{65398}{65487}Alaskan king crab? Ow, I hate it when they do that.
+{65488}{65533}Caesar's salad? Et tu, Brute? No!
+{65534}{65687}Aha, to make a prince. Now is that an official wish?|Say the magic words!
+{65692}{65744}Genie, I wish for you to make me a prince!
+{65745}{65821}All right! 
+{65822}{65912}First, that fez and vest combo is much too third century.
+{65913}{65965}These patches--what are we trying to say--beggar?  No!
+{65966}{66049}Let's work with me here.
+{66050}{66116}I like it, muy macho!
+{66117}{66205}Now, still needs something. | What does it say to me? It says...
+{66206}{66337}mode of transportation! |Excuse me, monkey boy!  Aqui; over here!
+{66340}{66445}Here he comes,And what better way |to make your grand entrance on the streets of Agrabah, 
+{66447}{66527}than... riding your very own brand new...
+{66528}{66567}camel!  Watch out, they spit!
+{66568}{66722}Hm, not enough.|Still not enough. Let's see.  What do you need, what you need?
+{66757}{66853}Yes!!  Esalalumbo,  shimin dumbo!  
+{66901}{66997}Talk about your trunk space, check this action out!
+{67141}{67188}Abu, you look good.
+{67189}{67285}He's got the outfit, he's got the elephant,| but we're not through yet.
+{67292}{67388}Hang on to your turban, kid, we're gonna make you a star!
+{67616}{67711}Sir, I have found a solution to the problem with your daughter.
+{67788}{67811}Oh, really?
+{67812}{67859}Right here.  
+{67860}{68042}"If the princess has not chosen a husband by the appointed time,| then the sultan shall choose for her."
+{68043}{68099}But Jasmine hated all those suitors!  
+{68100}{68225}How could I choose someone she hates?|-Not to worry, my liege.There is more.  
+{68226}{68322}If, in the event a suitable prince cannot be found,
+{68367}{68532}a princess must then be wed to...|...hmm...interesting.
+{68533}{68721}What?  Who?|-The royal vizier!  Why, that would be...me!
+{68722}{68818}But, I thought the law says that only a prince |can marry a princess, I'm quite sure.
+{68842}{68938}Desperate times call for desperate measures, my lord.
+{68974}{69033}Yes...desperate measures...
+{69034}{69117}You will order the princess to marry me.
+{69118}{69214}I...will order...the princess...to...
+{69257}{69311}...but you're so old!
+{69312}{69405}The princess will marry me!
+{69406}{69500}The princess will marry...|What? What is that?  
+{69501}{69597}That music!  
+{69643}{69739}Jafar, you must come see this!
+{69765}{69861}Make way for Prince Ali!
+{69921}{70017}Say hey!  It's Prince Ali!
+{70031}{70244}Hey, clear the way in the old bazaar, |Hey you, let us through, it's a bright new star,|Oh, come, be the first on your block to meet his eye!
+{70263}{70389}Make way, here he comes, ring bells, bang the drums,|You're gonna love this guy
+{70390}{70499}Prince Ali, fabulous he, Ali Ababwa!
+{70500}{70596}Genuflect, show some respect, Down on one knee
+{70627}{70741}Now try your best to stay calm |Brush up your Sunday Salaam
+{70742}{70838}Then come and meet his spectacular coterie.
+{70862}{70950}Prince Ali, mighty is he, Ali Ababwa!
+{70951}{71047}Strong as ten regular men, definitely
+{71100}{71190}He faced the galloping hordes|A hundred bad guys with swords
+{71191}{71310}Who sent those goons to their lords, |why Prince Ali!
+{71311}{71422}He's got seventy-five golden camels! |-Don't they look lovely, June? 
+{71423}{71537}Purple peacocks, he's got fifty-three!|-Fabulous, Harry, I love the feathers! 
+{71538}{71741}When it comes to exotic type mammals|Has he got a zoo, I'm telling you |It's a world class menagerie!
+{71742}{71962}Prince Ali, Handsome is he, Ali Ababwa| That physique, how can I speak Weak at the knee
+{71963}{72082}Well, get on out in that square| Adjust your veil and prepare
+{72083}{72173}To gawk and grovel and stare at Prince Ali!
+{72174}{72292}He's got ninety-five white Persian monkeys!|(He's got the monkeys, let's see the monkeys!)
+{72293}{72402}And to view them, he charges no fee! |(He's generous, so generous)
+{72403}{72482}He's got slaves, he's got servants and flunkies!
+{72482}{72547}(Proud to work for him)|They bow to his whim, love serving him
+{72548}{72727}They're just lousy with loyalty to Ali!  |Prince Ali!
+{72730}{72826}Prince Ali! Amorous he!  Ali Ababwa
+{72874}{72978}Heard your princess was a sight lovely to see!
+{72979}{73068}And that, good people, is why |He got dolled up and dropped by
+{73085}{73180}With sixty elephants, llamas galore|With his bears and lions, A brass band and more
+{73181}{73320}With his forty fakirs, his cooks, his bakers |His birds that warble on key,|Make way
+{73349}{73444} for HIM, for HIM!!
+{73516}{73611}Splendid, absolutely marvelous.
+{73612}{73708}Your majesty, I have journeyed from afar |to seek your daughter's hand.
+{73739}{73835}Prince Ali Ababwa!  Of course.  I'm delighted to meet you.
+{73859}{73947}This is my royal vizier, Jafar.  He's delighted too.
+{73948}{74067}Ecstatic. | I'm afraid, Prince Abooboo--|--Ababwa!
+{74068}{74196}Whatever.  You cannot just parade in here uninvited and expect to--
+{74197}{74284}- By Allah, this is quite a remarkable device.
+{74305}{74386} I don't suppose I might...
+{74387}{74482}Why certainly, your majesty.  Allow me.
+{74483}{74567}Sire, I must advise against this--
+{74568}{74650}--Oh, button up, Jafar.  Learn to have a little fun.
+{74871}{74954}Just where did you say you were from?
+{74955}{75051}Oh, much farther than you've traveled, I'm sure.
+{75075}{75171}Try me. |(- Look out, Polly!)
+{75195}{75291} Hey, watch it. Watch it with the dumb rug!
+{75516}{75589}Out of the way, I'm coming in to land.  Jafar, watch this!
+{75590}{75632}Spectacular, your highness.
+{75633}{75767}Ooh, it was lovely. | Yes, I do seem to have a knack for it. 
+{75782}{75878}This is a very impressive youth. And a prince, besides.
+{75889}{75984}If we're lucky, you won't have to marry Jasmine after all.
+{75985}{76015}I don't trust him, sire.
+{76016}{76176}Nonsense.  One thing I pride myself on Jafar, |I'm an excellent judge of character.
+{76177}{76262}Oh, excellent judge, yeah, sure...|NOT!!!
+{76267}{76376}Jasmine will like this one!|-And I'm pretty sure I'll like Princess Jasmine!
+{76377}{76527}Your highness, no.  I must intercede on Jasmine's behalf.|This boy is no different from the others.
+{76528}{76712}What makes him think he is worthy of the princess?|-Your majesty, I am Prince Ali Ababwa! Just let her meet me.
+{76713}{76792}I will win your daughter!|-How dare you! 
+{76793}{76882}All of you, standing around deciding my future?
+{76883}{76958}I am not a prize to be won! 
+{76968}{77063}Oh, dear.  Don't worry, Prince Ali.
+{77064}{77135}Just give Jasmine time to cool down.
+{77136}{77232}I think it's time to say good bye to Prince Abooboo.
+{77352}{77446}What am I going to do?  Jasmine won't even let me talk to her.
+{77447}{77543}I should have known I couldn't pull off this stupid prince wish.
+{77615}{77711}So move!
+{77762}{77782}That's a good move.
+{77812}{77873}I can't believe it--I'm losing to a rug.
+{77887}{77974}Genie, I need help.|-All right, sparky, here's the deal.
+{77985}{78092}If you wanna court the little lady, |you gotta be a straight shooter, do ya got it?
+{78093}{78162}What?|-Tell her the ...
+{78163}{78287}TRUTH!!!|-No way! If Jasmine found out I was really some crummy street rat,
+{78311}{78343}she'd laugh at me.
+{78344}{78429}A woman appreciates a man who can make her laugh!
+{78430}{78593}Al, all joking aside, you really oughtta be yourself.|-Hey, that's the last thing I want to  be.
+{78594}{78777}OK, I'm gonna go see her...I just...|  I gotta be smooth, cool, confident. 
+{78787}{78851}How do I look?
+{78852}{78948}Like...|a prince.
+{79205}{79276} Princess Jasmine?
+{79297}{79447}Who's there?|-It's me--Prince Ali. | Prince Ali Ababwa.
+{79452}{79557}I do not want to see you.|-No, no, please princess. Give me a chance. 
+{79558}{79597}Just leave me alone.
+{79607}{79628}Down kitty!
+{79629}{79724}How's our beau doing?
+{79725}{79820}Good kitty, take off.  Down kitty.
+{79821}{79892} Wait, wait.  Do I know you?
+{79893}{79940}Uh, no, no.
+{79941}{80037}You remind me of someone I met in  the marketplace.
+{80049}{80145}The marketplace?  I have servants that go to the marketplace for me.
+{80181}{80347}Why I even have servants who go to the marketplace| for my servants, so it couldn't have been me you met.
+{80349}{80443}No, I guess not.
+{80444}{80491}Enough about you, Casanova.  Talk about her!
+{80492}{80588}She's smart,  fun, the hair, the eyes.|  Anything--pick a feature!
+{80612}{80752}Um, Princess Jasmine?  You're very...|-Wonderful,  magnificent, glorious, punctual!
+{80753}{80782}Punctual!|-Punctual?
+{80783}{80865}Sorry.|-Beautiful.|-Nice recovery.
+{80866}{80923} I'm rich too, you know.
+{80924}{80954}Yeah!
+{80955}{80995}The daughter of a sultan
+{80996}{81043}I know.
+{81044}{81139}A fine prize for any  prince to marry.
+{81140}{81211} Uh, right.  Right.  A prince like me.
+{81212}{81259}Warning! Warning!
+{81260}{81407} Right, a prince like you.  And every other stuffed  shirt,| swaggering, peacock I've met!
+{81408}{81486}Mayday! Mayday!
+{81487}{81534}Just go jump off a balcony!
+{81535}{81617}What?|-Stop her! Stop her!  Want me to sting her?
+{81618}{81742}Buzz off!|Okay, fine. But remember--bee yourself!
+{81743}{81782}Yeah, right!|- What!?!
+{81783}{81857}Uh, you're right.
+{81888}{81959}You aren't just some prize to be won.
+{81960}{82031}You should be free to make your own choice.
+{82032}{82053}I'll go now.
+{82054}{82072}No!
+{82073}{82120}What?  What?
+{82121}{82192}How--how are you doing that?
+{82193}{82235}It's a magic carpet.
+{82236}{82300}It's lovely. 
+{82301}{82397}You, uh, you don't want to go for a ride, do you?
+{82408}{82475}We could get out of the palace, see the world.
+{82476}{82581}Is it safe?|-Sure.  Do you trust me?
+{82592}{82687}What?|-Do you trust me?
+{82712}{82780}Yes.
+{83117}{83188}I can show you the world
+{83207}{83307}Shining, shimmering, splendid.
+{83308}{83482}Tell me princess, now when did you last |Let your heart decide?
+{83492}{83567}I can open your eyes
+{83579}{83667}Take you wonder by wonder
+{83668}{83738}Over, sideways, and under
+{83739}{83829}On a magic carpet ride
+{83830}{83908}A whole new world!
+{83909}{83997}A new fantastic point of view
+{83998}{84086} No one to tell us no
+{84087}{84141}Or where to go
+{84142}{84205}Or say we're only dreaming
+{84207}{84266}A whole new world
+{84267}{84363}A dazzling place I never knew
+{84375}{84445} But when I'm way up here
+{84446}{84469} It's crystal clear
+{84470}{84602}That now I'm in a whole new world with you!
+{84603}{84696}Now I'm in a whole new world with you!
+{84697}{84852}Unbelievable sights, Indescribable feeling
+{84853}{84937}Soaring, tumbling, freewheeling
+{84938}{85004}Through an endless diamond sky
+{85005}{85107}A whole new world!|-Don't you dare close your eyes
+{85108}{85222}A hundred thousand things to see|(-Hold your breath--it gets better!)
+{85223}{85261} I'm like a shooting star,
+{85262}{85297}I've come so far
+{85298}{85446}I can't go back to where I used to be!|-A whole new world!
+{85447}{85500}-Every turn a surprise
+{85501}{85572}With new horizons to pursue|-Every moment, red-letter
+{85573}{85668}I'll chase them anywhere,There's time to spare
+{85669}{85765}Let me share this whole new world with you
+{85851}{85947}A whole new world
+{85957}{86042}That's where we'll be
+{86043}{86257}A thrilling chase, A wondrous place |For you and me!
+{86556}{86652}It's all so magical.|-Yeah.
+{86676}{86747}It's a shame Abu had to miss this.
+{86748}{86844}Nah.  He hates fireworks.|He doesn't really like flying either.
+{86868}{86957}That is...oh no!
+{86958}{87042}You are the boy from the market!  I knew it. | Why did you lie to me?
+{87043}{87122}Jasmine, I'm sorry.|-Did you think I was stupid?|-No!
+{87123}{87217}That I wouldn't figure it out?|-No.  I mean, I hoped you wouldn't.
+{87218}{87258}No, that's not what I meant.
+{87259}{87299}Who are you?  Tell me the truth!
+{87300}{87394}The truth? 
+{87395}{87491}The truth...the truth is...
+{87500}{87665}I sometimes dress as a commoner |to escape the pressures of palace life.
+{87712}{87857} But I really am a prince!|-Why didn't you just tell me?
+{87857}{88042}Well, you know, um...royalty going out into the city in disguise, |it sounds a little strange, don't you think?
+{88077}{88150}Not that strange.
+{88656}{88727}Good night, my handsome prince.
+{88728}{88824}Sleep well, princess.
+{89328}{89423}Yes!
+{89486}{89582}For the first time in my life, things are starting to go right.
+{89687}{89783}Hold him!
+{89891}{89987}I'm afraid you've worn out your welcome, Prince  Abooboo.
+{89999}{90095}Make sure he's never found.
+{91102}{91187}Never fails.  Get in the bath and there's a rub at the lamp.
+{91188}{91284}Hello. Al?  Al!  Kid, snap out of it!
+{91342}{91412}You can't cheat on this one!  I can't help you unless you make a wish.|  You have to say
+{91413}{91509}"Genie I want you to save my life."  Got it?  Okay.  C'mon Aladdin!! 
+{91548}{91644}I'll take that as a yes. Up scope!
+{91917}{91947}Don't you scare me like that!
+{91948}{92044}Genie, I--uh, I-uh...
+{92109}{92168}Thanks, Genie.
+{92169}{92265}Oh, Al.  I'm gettin' kind of fond of you, kid.  |Not that I want to pick out curtains or anything.
+{92420}{92477} Jasmine!
+{92478}{92574}Oh, father--I just had the most wonderful time. I'm so happy.
+{92617}{92757}You should be, Jasmine. I have chosen a husband for you.|-What?
+{92760}{92851}You will wed Jafar.
+{92852}{92923}You're speechless, I see.  A fine quality in a wife.
+{92924}{93043}I will never marry you.|Father, I choose Prince Ali!
+{93044}{93074}Prince Ali left!
+{93075}{93115}Better check your crystal ball  again, Jafar!
+{93116}{93163}Prince Ali!
+{93164}{93242}How in the he--
+{93243}{93338}Tell them the truth, Jafar!  You tried to have me killed.
+{93338}{93434}What?  Ridiculous nonsense, your highness.  He is obviously lying.
+{93458}{93529}Obviously...lying.
+{93530}{93560}Father, what's wrong with you?
+{93561}{93657}I know what's wrong!
+{93697}{93761}Your highness, Jafar's been controlling you with this! 
+{93762}{93858}What?  Jafar?  You, you traitor!
+{93882}{93953}Your majesty, all of this can be explained.
+{93954}{94001}Guards! Guards!
+{94002}{94097}Well, that's it--we're dead, forget it. | Just dig a grave for both of us.  We're dead.
+{94098}{94172}Arrest Jafar at once!
+{94173}{94278}This is not done yet, boy!
+{94314}{94397}Find him, search everywhere!
+{94398}{94456}Jasmine, are you all right?
+{94457}{94528} Jafar, my most trusted counselor,
+{94529}{94624}plotting against me all this time. This is horrible, just horrible. 
+{94625}{94777} How will I ever-|Can this be true? 
+{94793}{94889}My daughter has finally chosen a suitor?
+{94903}{95042}Praise Allah!  You brilliant boy, I could kiss you!
+{95045}{95167}I won't--I'll leave that to my--.  |But you two will be wed at once!
+{95168}{95317}Yes, yes.  And you'll be happy and prosperous, |and then my boy, you will become sultan!
+{95318}{95397}Sultan?|-Yes, a fine upstanding youth like yourself,
+{95398}{95534}a person of your unimpeachable moral character |is exactly what this kingdom needs!
+{95557}{95621}We gotta get outta here!  We gotta get-- | I gotta start packing, your highness. 
+{95622}{95712}Only essentials.We gotta travel at light! |Bring the guns,the weapons, the knives!
+{95713}{95799}And how about this picture? | I don't know--I think I'm making a weird face in it.
+{95892}{95977}Oh, boy--  He's cracked.|He's gone nuts.
+{95978}{96063}Jafar? Jafar? Get a grip!
+{96094}{96124}Good grip!
+{96125}{96206}Prince Ali is nothing more than that ragged urchin Aladdin.
+{96207}{96290}He has the lamp, Iago.|-Why that miserable--
+{96291}{96350}But you are going to relieve him of it!
+{96351}{96446}  Me?
+{96458}{96554}Sultan?  They want me to be sultan?
+{96638}{96734}Hail the conquering hero!
+{96878}{96937}Aladdin, you've just won the heart of the princess.
+{96938}{97034}What are you gonna do next?
+{97149}{97267}Psst, your line is "I'm going to free the genie."  
+{97268}{97307}Anytime.
+{97310}{97345}Genie...I can't.
+{97346}{97441}Sure you can.  You just go "Genie, I wish you free." 
+{97453}{97548} I'm serious.  Look, I'm sorry--I really am.
+{97549}{97645} But they want to make me sultan--no!, |They want to make Prince Ali sultan.
+{97652}{97731}Without you, I'm just Aladdin.
+{97732}{97759}Al, you won!
+{97760}{97856}Because of you! The only reason |anyone thinks I'm worth anything is because of you.
+{97861}{97957}What if they find outI'm not really a prince?  |What if Jasmine finds out?
+{97969}{98065}I'd lose her.  Genie, I can't keep this up on my own.
+{98100}{98172}I...I can't wish you free.
+{98193}{98268}Fine, I understand.|After all, you've lied to everyone else.
+{98269}{98340}Hey, I was beginning to feel left out.
+{98341}{98436}Now, if you'll excuse me, MASTER.
+{98508}{98667}Genie, I'm really sorry...|Well, fine!! Then just stay in there!
+{98700}{98796}What are you guys looking at?
+{98842}{98988}Look, I--I'm sorry. Abu--|I'm sorry, I didn't-- wait, c'mon.
+{99131}{99257}What am I doing? |Genie's right--
+{99258}{99346}I gotta tell Jasmine the truth.
+{99347}{99442}Ali, oh Ali--will you come here?
+{99462}{99513}Well, here goes.
+{99514}{99585}Jasmine?  Where are you?
+{99586}{99706}--In the menagerie, hurry.|-I'm coming.
+{99754}{99850}Ya got a problem, pinky? 
+{99946}{100000}Boy, Jafar's gonna be happy to see you!
+{100001}{100041}Excellent work, Iago!
+{100042}{100166}Ah, go on. -No, really--on a scale of one to ten, you are eleven.
+{100169}{100265}Ah, Jafar--you're too kind.  I'm embarrassed, I'm  blushing.
+{100294}{100471}People of Agrabah, My daughter has finally chosen a  suitor!
+{100497}{100528}Jasmine?
+{100529}{100588}Ali, where have you been?
+{100589}{100645}Jasmine, there's something I've got to tell you.
+{100646}{100742}The whole kingdom has turned out for father's announcement!|No! But Jasmine, 
+{100752}{100820}listen to me, please! You don't understand--|-Good luck! 
+{100821}{100917}...Ali Ababwa!|-Oh, boy!
+{100977}{101073}Look at them, cheering that little pipsqueak.
+{101097}{101192}Let them cheer.
+{101193}{101288}You know Al, I'm getting reallyyyyyy--|I don't think you're him. 
+{101289}{101385}Tonight, the part of Al will be played by a tall, |dark and sinister ugly man.
+{101392}{101431}I am your master now.
+{101432}{101479}I was afraid of that.
+{101480}{101539}Genie, grant me my first wish.
+{101540}{101636}I wish to rule on high, as sultan!!!
+{101767}{101967}Bless my soul.  What is this?  What is going on?|-Father!
+{102032}{102103}Jafar, you vile betrayer.
+{102104}{102175}That's Sultan Vile Betrayer to you.
+{102176}{102272}Oh, yeah?  Well, we'll just see about that! |The lamp!
+{102296}{102391}Finders-keepers, Abooboo.
+{102757}{102802}Genie!  No!
+{102803}{102885}Sorry, kid--I got a new master now. 
+{102902}{102957}Jafar, I order you to stop!
+{102958}{103057}Oh, but there's a new order now--|MY order!
+{103057}{103182}Finally, YOU will bow to ME!|-We'll never bow to you!
+{103183}{103237}Why am I not surprised?
+{103238}{103381}If you will not bow before a sultan,| then you will cower before a sorcerer!
+{103382}{103496}Genie, my second wish--|I wish to be the most powerful sorcerer
+{103497}{103565}IN THE WORLD!!!
+{103587}{103661}Genie, stop!
+{103662}{103757}Ladies and gentlemen, a warm Agrabah welcome for
+{103758}{103829}Sorcerer Jafar!
+{103830}{103987}Now where were we?  Ah, yes--abject humiliation!
+{104034}{104130}Down, boy!
+{104142}{104238} Oh, princess--|--there's someone I'm dying to introduce you to.
+{104245}{104273}Jafar!  Get your hands off her!
+{104274}{104333}Prince Ali,Yes, it is he,
+{104334}{104381}But not as you know him.
+{104382}{104477}Read my lips and come to grips With reality
+{104507}{104620} Yes, meet a blast from your past| Whose lies were too good to last
+{104621}{104692}Say hello to your precious Prince Ali!
+{104693}{104764} Or should we say Aladdin?
+{104765}{104877}- Ali?|-Jasmine, I tried to tell you, I'm just--
+{104882}{105072}So Ali turns out to be merely Aladdin.|Just a con, need I go on? Take it from me
+{105097}{105202}His personality flaws.|Give me adequate cause
+{105203}{105308}To send him packing on a one-way trip, |So his prospects take a terminal dip
+{105309}{105482}His assets frozen, the venue chosen |Is the ends of the earth, whoopee! So long,
+{105483}{105632} Good bye, see ya!|-Ex-Prince Ali!
+{106234}{106330}Abu? | Abu!
+{106447}{106502} Oh, this is all my fault--|I--
+{106503}{106609}I should have freed the genie when I had the chance.| Abu!
+{106610}{106687}Are you okay?  
+{106702}{106902}I'm sorry, Abu--I made a mess of everything...somehow. | I gotta go back and set things right.
+{107085}{107162} Carpet! 
+{107222}{107318}Abu, start digging!
+{107329}{107402}That's it!
+{107792}{107842}Yeah! Alright!
+{108001}{108097}Now, back to Agrabah!  Let's go!
+{108121}{108295}Puppet ruler want a cracker? Here's your cracker. |Shove 'em all right down your throat.  Here, have lots of crackers!
+{108297}{108384}Stop it! |Jafar, Leave him alone!
+{108432}{108528} It pains me to see you reduced to this, Jasmine.
+{108567}{108726}A beautiful desert bloom such as yourself| should be on the arm of the most powerful man in the world.
+{108727}{108837}What do  you say, my dear? | Why,  with you as my queen...
+{108838}{108898}Never!
+{108899}{108995}I'll teach you some respect!
+{109043}{109152}No...|Genie, I have decided to make my final wish.
+{109175}{109322}I wish for Princess Jasmine to fall desperately in  love with me.
+{109450}{109533}Ah, master-- there are a few addendas, some quid pro quo-
+{109534}{109605}Don't talk back to me, you big blue lout! 
+{109606}{109732}You will do what I order you to do, slave!
+{109732}{109773}Jafar!
+{109774}{109927}I never realized how incredibly handsome you are.
+{110002}{110075}That's better.
+{110076}{110182}Now, pussycat, tell me more about...myself.
+{110217}{110392}You're...tall, dark...|... well dressed...
+{110397}{110493}Al!  Al, little buddy!
+{110565}{110634} Al, I can't help you--I work for senor psychopath, now. 
+{110635}{110684}What are you gonna do?
+{110684}{110780}Hey--I'm a street rat, remember?| I'll improvise.
+{110852}{110899}Go on.
+{110900}{111042}And your beard...is so...|twisted! 
+{111188}{111259}And the street rat?
+{111260}{111356}What street rat?
+{111595}{111678}That was--
+{111707}{111832}You!!  How many times do I have to kill you, boy?
+{111927}{111987}Get the lamp!
+{111988}{112042}NO!
+{112043}{112171}Princess--|Your time is up!
+{112195}{112266}Jasmine!
+{112267}{112345}Oh, nice shot, Jaf-- 
+{112357}{112442}Don't toy with me!  
+{112443}{112467}Abu!
+{112468}{112562}Things are unraveling fast, now boy.
+{112626}{112722}Get the point? 
+{112799}{112885}I'm just getting warmed up!
+{112914}{113010}Are you afraid to fight me yourself, you cowardly  snake?
+{113022}{113083}A snake, am I?
+{113084}{113190}Perhaps you'd like to see how snake-like I can be!
+{113592}{113667} Rickem, rockem, rackem, rake--stick that sword into  that snake!
+{113668}{113789}You stay out of it!|-Jafar, Jafar, he's our man--if he can't do it,|GREAT!
+{113877}{113937}Aladdin!
+{114161}{114257} Jasmine, hang on!
+{114281}{114352}You little fool! 
+{114353}{114492}You thought  you could defeat the most |powerful being on earth!
+{114493}{114568}Squeeze him, Jafar--Squeeze him like a--! 
+{114572}{114695}Without the Genie, boy, you're nothing!|-The genie!
+{114697}{114817}The genie!|The genie has more power than you'll ever have!
+{114818}{114917}What!!?|- He gave you your power, he can take it away!
+{114918}{114981}Al, what are you doing?  |Why are you bringing me into this?
+{114982}{115060}Face it, Jafar--you're still just second best!
+{115092}{115168}You're right!  His power does exceed my own!
+{115216}{115287}But not for long!
+{115288}{115347}The boy is crazy.  He's a little punch drunk.
+{115348}{115394}One too many hits with the snake
+{115395}{115491}Slave, I make my third wish!  I wish to be...
+{115494}{115590}an all powerful genie!
+{115659}{115755}All right, your wish is my command.|Way to go, Al.
+{115877}{116032}Yes! Yes! |The power!
+{116103}{116199}The absolute power!
+{116223}{116301} What have you done?|-Trust me!
+{116302}{116398}The universe is mine to command, to control!
+{116414}{116510}Not so fast, Jafar! | Aren't you forgetting something?
+{116512}{116612}You wanted to be a genie, you got it!|-What?
+{116613}{116746}And everything that goes with it!|-No!  No!
+{116747}{116802}I'm gettin' out of here! | -Phenomenal cosmic powers!
+{116803}{116877}-Come on, you're the genie, I don't want---
+{116878}{117001}-Itty bitty living space.|-Al, you little genius, you!
+{117349}{117407}Get your blasted beak out of my face!
+{117408}{117455}Oh, shut up, you moron!
+{117456}{117515}Don't tell me to shut up!|-Allow me.
+{117516}{117612} Ten- thousand years| in a cave of wonders ought to chill him out!
+{117859}{117955}Jasmine, I'm sorry I lied to you about being a prince.
+{117979}{118075}I know why you did.
+{118092}{118194}Well, I guess...|this... is goodbye? 
+{118195}{118291} Oh, that stupid law.  This isn't fair--I love you.
+{118372}{118431}Al, no problem. You've still got one wish left.
+{118432}{118492}Just say the word and you're a prince again.
+{118493}{118567}But Genie, what about your freedom?
+{118568}{118618}Hey, it's only an eternity of servitude. 
+{118619}{118690}This...is love.
+{118691}{118774}Al, you're not gonna find another girl like her in a million years.
+{118775}{118858}Believe me, I know.  I've looked.
+{118859}{119002}Jasmine, I do love you, but I've got to stop | pretending to be something I'm not.
+{119003}{119099} I understand.
+{119123}{119252} Genie, I wish for your freedom.|-One bona fide prince pedigree coming up--  I--what?
+{119253}{119363}Genie, you're free!
+{119801}{119927} I'm free. I'm free.|Quick, quick, wish for something outrageous. 
+{119928}{120009}Say  "I...I want the Nile."   Wish for the Nile.  Try that!
+{120010}{120102}-I wish for the Nile.|-No way!! 
+{120103}{120237}Oh does that feel good! | I'm free!  I'm free at last!
+{120238}{120334}I'm hittin' the road.  I'm off to see the world!  I--
+{120537}{120632}Genie, I'm--I'm gonna miss you.
+{120633}{120729}Me too, Al.
+{120732}{120872}No matter what anybody says, |you'll always be a prince to me.
+{120892}{120992}That's right.  |You've certainly proven your worth |as far as I'm concerned.
+{121017}{121082}It's that law that's the problem.
+{121092}{121162}-Father?|-Well, am I sultan or am I sultan?
+{121163}{121304}From this day forth, the princess shall marry| whomever she deems worthy.
+{121305}{121383}Him!  I choose...
+{121384}{121480}I choose you, Aladdin.
+{121496}{121591} Call me Al.
+{121592}{121688}Oh, all of ya. Come over here.  Big group hug! Group hug! 
+{121695}{121783}Do you mind if I kiss the monkey? | Ooh, hairball! 
+{121784}{121911}Well, I can't do any more damage around this popsicle stand. | I'm outta here!
+{121912}{121975}Bye, bye,  you two crazy lovebirds.
+{121976}{122072}Hey, Rugman: ciao!  I'm history! |  No, I'm mythology!
+{122096}{122192}No, I don't care what I am--I'm free!
+{122240}{122287}A whole new world
+{122287}{122356}A whole new life
+{122357}{122452}For you and me!
+{122886}{122926}Made ya look!

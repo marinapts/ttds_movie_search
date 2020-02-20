@@ -1,0 +1,7991 @@
+1
+00:01:04,100 --> 00:01:05,200
+<i>66...</i>
+
+2
+00:01:05,500 --> 00:01:06,700
+<i>67...</i>
+
+3
+00:01:07,300 --> 00:01:08,300
+<i>68...</i>
+
+4
+00:01:09,000 --> 00:01:10,100
+<i>69...</i>
+
+5
+00:01:10,600 --> 00:01:11,600
+<i>70...</i>
+
+6
+00:01:12,300 --> 00:01:13,500
+<i>71...</i>
+
+7
+00:01:14,000 --> 00:01:15,000
+<i>72...</i>
+
+8
+00:01:15,600 --> 00:01:16,800
+<i>73...</i>
+
+9
+00:01:17,400 --> 00:01:18,600
+<i>74...</i>
+
+10
+00:01:19,100 --> 00:01:20,300
+<i>75...</i>
+
+11
+00:01:20,900 --> 00:01:21,900
+<i>76...</i>
+
+12
+00:01:23,000 --> 00:01:24,000
+<i>77...</i>
+
+13
+00:01:24,600 --> 00:01:25,800
+<i>78...</i>
+
+14
+00:01:26,400 --> 00:01:27,500
+<i>79...</i>
+
+15
+00:01:28,200 --> 00:01:29,300
+<i>80...</i>
+
+16
+00:01:30,000 --> 00:01:31,100
+<i>81...</i>
+
+17
+00:01:31,800 --> 00:01:32,900
+<i>82...</i>
+
+18
+00:01:33,700 --> 00:01:35,000
+<i>83...</i>
+
+19
+00:01:35,500 --> 00:01:36,500
+<i>84...</i>
+
+20
+00:01:37,400 --> 00:01:38,600
+<i>85...</i>
+
+21
+00:01:39,700 --> 00:01:40,800
+<i>86...</i>
+
+22
+00:01:41,200 --> 00:01:42,200
+<i>87...</i>
+
+23
+00:01:42,900 --> 00:01:44,000
+<i>88...</i>
+
+24
+00:01:44,500 --> 00:01:45,600
+<i>89...</i>
+
+25
+00:01:46,500 --> 00:01:47,700
+<i>90...</i>
+
+26
+00:03:26,900 --> 00:03:30,300
+Burt. Shut that
+bloody thing up.
+
+27
+00:03:32,400 --> 00:03:34,500
+Do you know what time
+it is? Burt!
+
+28
+00:03:35,100 --> 00:03:38,000
+Burt! You stupid old bastard!
+
+29
+00:03:38,200 --> 00:03:40,000
+What do you think
+you're doing?
+
+30
+00:03:40,200 --> 00:03:42,000
+Sorry George,
+what did you say?
+
+31
+00:03:42,200 --> 00:03:43,700
+Do you know what time it is?
+
+32
+00:03:44,000 --> 00:03:46,500
+I'm sorry, I've got a heck
+of a lot to get done today.
+
+33
+00:03:46,700 --> 00:03:50,800
+And you know what they say.
+"The early bird catches the worm".
+
+34
+00:03:50,900 --> 00:03:54,700
+Well, if you do this again,
+one more time, I'm calling the cops.
+
+35
+00:03:56,700 --> 00:03:58,600
+And how about
+mowing your lawns?
+
+36
+00:03:58,600 --> 00:04:00,800
+Is a bloody disgrace
+to the neighborhood.
+
+37
+00:04:06,500 --> 00:04:07,600
+Oh, alright.
+
+38
+00:04:14,200 --> 00:04:15,400
+Hi, kid.
+
+39
+00:04:32,300 --> 00:04:34,000
+Here we are, the...
+
+40
+00:04:35,000 --> 00:04:36,500
+perfect recipe...
+
+41
+00:04:37,700 --> 00:04:39,300
+two of Chevy...
+
+42
+00:04:40,500 --> 00:04:41,700
+one of Ford.
+
+43
+00:04:45,800 --> 00:04:49,800
+I think those '36 Chevy pistons...
+
+44
+00:04:50,100 --> 00:04:52,600
+must have a touch of titanium
+or something in them.
+
+45
+00:04:52,600 --> 00:04:54,500
+They come up real good,
+you know.
+
+46
+00:04:55,600 --> 00:04:57,200
+Hey the kettle's boiling.
+
+47
+00:04:57,400 --> 00:04:59,400
+Make yourself useful,
+make some tea.
+
+48
+00:05:05,100 --> 00:05:07,100
+Can we have a biscuit too?
+
+49
+00:05:07,600 --> 00:05:10,100
+- What?
+- Can I have a Gingernut?
+
+50
+00:05:10,300 --> 00:05:12,500
+Yeah, you know where they are,
+help yourself.
+
+51
+00:05:17,200 --> 00:05:18,900
+Now you stay over there,
+stay there.
+
+52
+00:05:28,700 --> 00:05:31,400
+- Right.
+- What are you doing for Christmas, Burt?
+
+53
+00:05:31,600 --> 00:05:33,500
+Christmas? I don't know.
+Why?
+
+54
+00:05:33,700 --> 00:05:35,800
+Are you angling
+for a present or something?
+
+55
+00:05:35,800 --> 00:05:38,900
+- No, I wondered if you were going away.
+- No...
+
+56
+00:05:39,200 --> 00:05:42,800
+no time for Christmas, lad.
+Got a lot of work to do.
+
+57
+00:05:43,100 --> 00:05:46,200
+I only managed twenty seven
+test runs this year.
+
+58
+00:05:46,300 --> 00:05:49,300
+You know, twenty four on the beach
+and three on the road.
+
+59
+00:05:49,600 --> 00:05:51,200
+All illegal like.
+
+60
+00:05:53,000 --> 00:05:55,500
+I was going a bit over the speed limit,
+I'll have to admit.
+
+61
+00:05:55,700 --> 00:05:58,200
+- How fast were you going?
+- I don't know, I haven't a clue.
+
+62
+00:05:58,400 --> 00:06:01,200
+Thas why I have to get up
+to Bonneville.
+
+63
+00:06:02,300 --> 00:06:04,200
+Found out how fast she will go.
+
+64
+00:06:20,300 --> 00:06:21,600
+Now, there you go.
+
+65
+00:06:22,200 --> 00:06:24,300
+Got to get the piston out
+of the mould...
+
+66
+00:06:25,300 --> 00:06:26,500
+and Bob's your uncle.
+
+67
+00:06:27,400 --> 00:06:29,200
+Right, this is...
+
+68
+00:06:29,800 --> 00:06:32,200
+the last part
+of the operation now.
+
+69
+00:06:32,400 --> 00:06:33,700
+To chill the metal.
+
+70
+00:06:34,200 --> 00:06:37,000
+It heat treats it.
+Right, watch yourself.
+
+71
+00:06:40,500 --> 00:06:43,000
+Thas where I got the water
+for the kettle from.
+
+72
+00:06:43,300 --> 00:06:48,100
+Well, you know, it gives the tea
+a nice tang of titanium, doesn't it?
+
+73
+00:06:48,500 --> 00:06:50,300
+Now this bloke,
+he once asked me...
+
+74
+00:06:50,300 --> 00:06:54,500
+"How do you heat treat your pistons?"
+And I said: "I don't, mate"...
+
+75
+00:06:54,500 --> 00:06:58,500
+I just, you know, bung them
+in cold water and Bob's your uncle".
+
+76
+00:06:58,600 --> 00:07:01,400
+And he said:
+"Well, thas the heat treatment"...
+
+77
+00:07:01,400 --> 00:07:05,500
+and he just laughed and
+shook his head and walked away like.
+
+78
+00:07:05,800 --> 00:07:08,400
+Well, look this could be
+the perfect piston.
+
+79
+00:07:08,400 --> 00:07:11,200
+It blooming well ought to be,
+I've made hundreds of them.
+
+80
+00:07:11,400 --> 00:07:14,900
+Look at them all up there,
+all blown to smithereens.
+
+81
+00:07:16,000 --> 00:07:19,300
+- You made all those?
+- Yeah, I did. Look perfect.
+
+82
+00:07:19,800 --> 00:07:21,700
+Beautiful, no inclusions see?
+
+83
+00:07:22,200 --> 00:07:27,500
+Now Tommy, does your mother have
+a carving knife I could borrow?
+
+84
+00:07:27,500 --> 00:07:28,800
+Carving knife? Yeah?
+
+85
+00:07:29,100 --> 00:07:30,800
+Yeah.
+I need a good sharp knife.
+
+86
+00:07:39,300 --> 00:07:40,600
+Hang on.
+
+87
+00:07:41,000 --> 00:07:43,600
+- Thomas, what are you up to?
+- Nothing, Mum.
+
+88
+00:07:43,900 --> 00:07:45,100
+Can I have some bread
+and peanut butter?
+
+89
+00:07:45,100 --> 00:07:47,900
+Ok, but make sure you put everything
+away when you've finished.
+
+90
+00:07:49,100 --> 00:07:50,400
+Sorry about that.
+
+91
+00:07:59,500 --> 00:08:00,500
+Tom.
+
+92
+00:08:01,300 --> 00:08:04,100
+- Don't forget the wood.
+- No, Mum.
+
+93
+00:08:08,900 --> 00:08:10,000
+Right.
+
+94
+00:08:11,400 --> 00:08:13,200
+I hope to get as much...
+
+95
+00:08:13,600 --> 00:08:15,800
+rubber off as possible.
+
+96
+00:08:16,300 --> 00:08:18,800
+It has to be perfectly bald,
+like that, you see.
+
+97
+00:08:19,300 --> 00:08:22,800
+- Why's that?
+- Well, at high speed...
+
+98
+00:08:23,100 --> 00:08:25,300
+the centrifugal force...
+
+99
+00:08:25,700 --> 00:08:27,800
+expands the tyre and...
+
+100
+00:08:28,500 --> 00:08:31,900
+it rubs against
+the frame of the bike.
+
+101
+00:08:32,700 --> 00:08:35,800
+Have to be careful not to cut
+through the cords though.
+
+102
+00:08:38,000 --> 00:08:40,700
+- Why do you pee on your lemon tree?
+- What?
+
+103
+00:08:40,900 --> 00:08:43,300
+Why do you pee on your
+lemon tree?
+
+104
+00:08:46,300 --> 00:08:48,700
+- Who says I do that?
+- Mum says she sees you...
+
+105
+00:08:48,800 --> 00:08:51,200
+every morning and
+she goes on and on about it.
+
+106
+00:08:51,500 --> 00:08:52,700
+Does she?
+
+107
+00:08:54,500 --> 00:08:58,800
+Well, is good for it. You shouldn't
+waste anything in this world, sonny.
+
+108
+00:08:59,900 --> 00:09:02,200
+- Well, I'd better be off home.
+- Alright then.
+
+109
+00:09:02,400 --> 00:09:04,600
+Mum gets a bit cross if
+I stay over here too long.
+
+110
+00:09:04,900 --> 00:09:05,800
+She does.
+
+111
+00:09:08,000 --> 00:09:12,400
+- Are you finished with the knife?
+- Not yet, I'll drop it by later.
+
+112
+00:09:12,600 --> 00:09:15,700
+No, don't do that,
+I'll pick it up after school tomorrow.
+
+113
+00:09:16,000 --> 00:09:17,200
+Alright.
+
+114
+00:09:18,500 --> 00:09:20,400
+- Bye.
+- Cheerio.
+
+115
+00:09:29,500 --> 00:09:31,200
+- Burt Munro.
+- Yeah.
+
+116
+00:09:31,200 --> 00:09:33,500
+I believe you have
+my carving knife.
+
+117
+00:09:33,800 --> 00:09:35,800
+- Oh yes.
+- And my sharpener.
+
+118
+00:09:38,000 --> 00:09:39,700
+Hang on, here we are.
+
+119
+00:09:43,300 --> 00:09:44,600
+Well, thanks a lot, love.
+
+120
+00:09:54,800 --> 00:09:56,200
+G'day Frank. How are you?
+
+121
+00:09:56,300 --> 00:09:59,000
+Oh not bad, could be better,
+could be worse.
+
+122
+00:09:59,100 --> 00:10:02,100
+I see your front tyre's going
+a bit flat on you there, Burt.
+
+123
+00:10:02,400 --> 00:10:05,700
+Yeah, well, the good news is,
+is only flat on the bottom.
+
+124
+00:10:06,100 --> 00:10:09,000
+I'll see you tomorrow night
+for the fun and games.
+
+125
+00:10:09,000 --> 00:10:10,000
+Ill be a good one.
+
+126
+00:10:12,300 --> 00:10:13,400
+Hello, Fran.
+
+127
+00:10:14,700 --> 00:10:18,600
+- Give us the lot will you? The usual.
+- One pension check. Coming up.
+
+128
+00:10:20,000 --> 00:10:21,400
+Fran...
+
+129
+00:10:22,000 --> 00:10:25,500
+I want to ask you a question,
+the answer to which is...
+
+130
+00:10:27,100 --> 00:10:28,300
+a definite yes.
+
+131
+00:10:28,900 --> 00:10:31,000
+- Alright, Fran?
+- Alright.
+
+132
+00:10:31,700 --> 00:10:32,800
+Yes.
+
+133
+00:10:33,800 --> 00:10:35,100
+What is the question, Burt?
+
+134
+00:10:35,600 --> 00:10:38,700
+Would you feel inclined to,
+you know, accompany...
+
+135
+00:10:39,700 --> 00:10:43,500
+an impeccable young gentleman
+to a local do tomorrow night?
+
+136
+00:10:45,400 --> 00:10:47,700
+You're asking me on a date,
+Burt Munro?
+
+137
+00:10:48,700 --> 00:10:51,100
+Well, yeah, I suppose
+I am actually, aren't I?
+
+138
+00:10:52,500 --> 00:10:54,000
+- Would you?
+- You're on.
+
+139
+00:11:01,200 --> 00:11:02,900
+- Hello, son.
+- Hey, Burt.
+
+140
+00:11:04,000 --> 00:11:05,400
+Thas disgusting.
+
+141
+00:11:06,300 --> 00:11:07,800
+It is, isn't it?
+
+142
+00:11:08,500 --> 00:11:11,700
+All dressed up
+for the do tonight...
+
+143
+00:11:11,800 --> 00:11:13,600
+and I couldn't get
+my best shoes on...
+
+144
+00:11:13,600 --> 00:11:16,200
+because my toe nails had grown
+like oyster shells.
+
+145
+00:11:16,900 --> 00:11:18,200
+Alright...
+
+146
+00:11:18,600 --> 00:11:20,100
+this should do the trick.
+
+147
+00:11:21,600 --> 00:11:22,900
+There, look at that.
+
+148
+00:11:23,200 --> 00:11:24,500
+Little twinkle toes.
+
+149
+00:11:31,500 --> 00:11:33,400
+- Thanks, Burt.
+- Right on.
+
+150
+00:11:42,900 --> 00:11:44,700
+- Evening, Burt.
+- Thank you...
+
+151
+00:11:45,000 --> 00:11:47,200
+- this is Fran.
+- Hello, Fran.
+
+152
+00:11:47,500 --> 00:11:48,900
+Thank you very much.
+
+153
+00:11:49,100 --> 00:11:51,100
+- Hello, Duncan.
+- Burt.
+
+154
+00:11:51,800 --> 00:11:55,800
+Just going to say hello and be back
+in a second, love, alright?
+
+155
+00:11:57,000 --> 00:11:59,100
+- How are you?
+- Bike going well?
+
+156
+00:11:59,300 --> 00:12:00,500
+Yeah, not too bad.
+
+157
+00:12:00,900 --> 00:12:03,100
+- Happy birthday, Burt.
+- Thanks a lot, mate.
+
+158
+00:12:03,400 --> 00:12:05,400
+This is a bit of
+a surprise, isn't it?
+
+159
+00:12:06,200 --> 00:12:08,700
+Would you like to buy
+a raffle ticket or two?
+
+160
+00:12:08,700 --> 00:12:11,700
+- Whas it for?
+- Porky the Pig plus two dozen beers.
+
+161
+00:12:11,900 --> 00:12:15,600
+We're raising money to send
+Burt to the USA. Our mate, Burt.
+
+162
+00:12:17,700 --> 00:12:19,700
+Hello. Come on and dance.
+
+163
+00:12:21,200 --> 00:12:24,500
+- Whas this? The twist?
+- This is the twist. You know the twist?
+
+164
+00:12:25,100 --> 00:12:26,700
+Come twist with me.
+
+165
+00:12:29,400 --> 00:12:30,900
+See you can twist.
+
+166
+00:12:34,100 --> 00:12:36,800
+<i>- Thas it, thas it.
+- This must be it, the atomic invasion.</i>
+
+167
+00:12:37,400 --> 00:12:40,500
+Then the air clears
+and the dust settles down.
+
+168
+00:12:40,600 --> 00:12:43,300
+You look outside,
+have they leveled the town?
+
+169
+00:12:43,900 --> 00:12:46,100
+But there, in the yard...
+
+170
+00:12:46,100 --> 00:12:48,000
+so briskly alive...
+
+171
+00:12:48,200 --> 00:12:50,400
+stands Burt Munro's trusty...
+
+172
+00:12:50,800 --> 00:12:52,900
+old Indian Scout '45.
+
+173
+00:12:58,200 --> 00:13:00,500
+That was a wonderful
+tribute to Burt.
+
+174
+00:13:00,800 --> 00:13:03,600
+Now come on Burt, we want you up
+on stage, come on...
+
+175
+00:13:03,900 --> 00:13:05,300
+come on, up you come.
+
+176
+00:13:09,000 --> 00:13:12,300
+I hope all of you have bought
+a raffle ticket tonight...
+
+177
+00:13:12,600 --> 00:13:16,800
+because we believe Burt will put
+the Southland Motorcycle Club...
+
+178
+00:13:16,800 --> 00:13:17,900
+<i>on the map.</i>
+
+179
+00:13:28,600 --> 00:13:30,200
+Whas going on out there?
+
+180
+00:13:30,800 --> 00:13:32,200
+Get out of here.
+
+181
+00:13:34,200 --> 00:13:35,200
+Oh, dear.
+
+182
+00:13:42,800 --> 00:13:47,100
+Well folks, it looks like
+I've cracked it, I've um you know.
+
+183
+00:13:47,300 --> 00:13:49,000
+You Burt Munro?
+
+184
+00:13:49,700 --> 00:13:51,400
+- What did he say?
+- I said, are you Burt Munro?
+
+185
+00:13:52,100 --> 00:13:54,200
+Are you looking for old Burt?
+
+186
+00:13:54,500 --> 00:13:56,500
+I don't know,
+anyone seen Burt anywhere?
+
+187
+00:13:56,900 --> 00:13:58,500
+Anyone seen Burt?
+
+188
+00:13:58,900 --> 00:14:00,800
+- No, he's...
+- You are, you're Burt Munro.
+
+189
+00:14:01,400 --> 00:14:04,000
+You're the old codger,
+rides the Army Indian right?
+
+190
+00:14:04,200 --> 00:14:06,500
+That old joker.
+Burt Munro. Yeah.
+
+191
+00:14:07,200 --> 00:14:08,700
+Yeah, thas me I think.
+
+192
+00:14:09,700 --> 00:14:13,700
+Now the, ah, young fella,
+the army Indian is a real dog...
+
+193
+00:14:14,000 --> 00:14:15,900
+what I've got is the...
+
+194
+00:14:16,400 --> 00:14:20,500
+genuine article,
+the 1920 V twin Scout.
+
+195
+00:14:20,800 --> 00:14:24,100
+<i>- Thas the one with the pedals, right?
+- Don't put up with that, Burt.</i>
+
+196
+00:14:25,600 --> 00:14:30,600
+No, well. Well, I don't know what sort of
+push bikes you monkeys came into town on...
+
+197
+00:14:30,700 --> 00:14:35,500
+but I know my old timer would trash
+the backsides of whatever they are.
+
+198
+00:14:36,200 --> 00:14:38,300
+- I don't think so, granddad.
+- No.
+
+199
+00:14:39,400 --> 00:14:43,400
+Well, why don't you chaps
+put your money where your mouth is?
+
+200
+00:14:44,400 --> 00:14:46,100
+You're on. You old coot.
+
+201
+00:14:49,900 --> 00:14:52,100
+- Looks like they've chickened out, Burt.
+- What?
+
+202
+00:14:52,100 --> 00:14:54,700
+- Looks like they've chickened out.
+- They're here.
+
+203
+00:14:56,200 --> 00:14:57,300
+They're here.
+
+204
+00:15:01,500 --> 00:15:03,100
+Thas nice of them
+to show up isn't it?
+
+205
+00:15:11,100 --> 00:15:14,000
+A hundred says
+the Indian comes last.
+
+206
+00:15:14,300 --> 00:15:15,500
+Right.
+
+207
+00:15:38,100 --> 00:15:39,300
+Come on, Burt.
+
+208
+00:15:41,700 --> 00:15:42,900
+Ready, steady...
+
+209
+00:15:44,500 --> 00:15:45,500
+go.
+
+210
+00:15:50,000 --> 00:15:51,700
+Come on, give me a push.
+
+211
+00:15:53,500 --> 00:15:55,200
+- Come on.
+- Come on, Burt.
+
+212
+00:15:55,400 --> 00:15:57,900
+Give me a push.
+Come on, push hard.
+
+213
+00:16:00,500 --> 00:16:01,600
+Bugger it.
+
+214
+00:16:04,400 --> 00:16:05,400
+Bugger it.
+
+215
+00:16:07,100 --> 00:16:08,500
+Come on! Go!
+
+216
+00:16:52,600 --> 00:16:53,600
+Bugger!
+
+217
+00:16:53,900 --> 00:16:55,500
+Nice bike, granddad.
+
+218
+00:16:56,000 --> 00:16:57,100
+Loser.
+
+219
+00:17:15,500 --> 00:17:16,700
+Thanks, fellas.
+
+220
+00:17:16,800 --> 00:17:19,300
+- Better luck next time.
+- Better luck, Burt.
+
+221
+00:17:24,700 --> 00:17:25,700
+There you go.
+
+222
+00:17:26,100 --> 00:17:27,900
+- Well, thanks, love.
+- Careful, is hot.
+
+223
+00:17:30,200 --> 00:17:33,200
+Well, at least I gave them
+a good run for their money.
+
+224
+00:17:33,700 --> 00:17:35,300
+On the downward leg anyway.
+
+225
+00:17:36,400 --> 00:17:39,900
+Burt... Whas it going to cost
+to get over to America?
+
+226
+00:17:39,900 --> 00:17:41,400
+Sorry, love.
+What did you say?
+
+227
+00:17:41,400 --> 00:17:43,400
+How much is it gonna cost
+to get over to America?
+
+228
+00:17:44,200 --> 00:17:47,200
+I don't know,
+about two thousand I'm told.
+
+229
+00:17:47,700 --> 00:17:49,800
+And how much money
+have you got now?
+
+230
+00:17:51,200 --> 00:17:55,700
+Apart from today's disaster
+and the dough from last and you know...
+
+231
+00:17:55,700 --> 00:17:58,800
+the pension money
+I've been saving...
+
+232
+00:17:59,100 --> 00:18:04,000
+I'm about twelve hundred and 75 dollars,
+United States dollars, I reckon.
+
+233
+00:18:04,900 --> 00:18:06,800
+Well, I could lend you some money.
+
+234
+00:18:07,000 --> 00:18:11,900
+Thas very kind of you Fran love, but no.
+I couldn't do that love. No, thanks.
+
+235
+00:18:12,100 --> 00:18:14,300
+Well, there must be
+something you can do.
+
+236
+00:18:14,900 --> 00:18:17,700
+Well, I haven't told anyone
+else this, Fran, but...
+
+237
+00:18:17,900 --> 00:18:22,600
+I don't reckon I'll be gonna Bonneville.
+I reckon not this year anyway and...
+
+238
+00:18:23,300 --> 00:18:27,100
+you know, seven hundred dollars
+is a lot of money to find...
+
+239
+00:18:27,400 --> 00:18:31,600
+and the boat leaves in five days.
+
+240
+00:18:33,700 --> 00:18:38,200
+Except I would like to see
+how fast she would really go...
+
+241
+00:18:38,300 --> 00:18:43,500
+before I fall off the perch as it were.
+Before I ah, kicked the old bucket.
+
+242
+00:18:53,900 --> 00:18:55,400
+Hello, Lloyd.
+
+243
+00:18:55,800 --> 00:18:57,100
+Gidday, Burt.
+
+244
+00:18:57,300 --> 00:18:58,300
+Shame about the fall.
+
+245
+00:18:58,600 --> 00:19:00,400
+Well, I'm still
+in one piece aren't I?
+
+246
+00:19:01,400 --> 00:19:02,900
+Good,
+what are you having tonight?
+
+247
+00:19:02,900 --> 00:19:05,300
+Specialty of the house,
+pea, pie and pud.
+
+248
+00:19:05,500 --> 00:19:07,100
+- Thas five bob.
+- Alright.
+
+249
+00:19:07,500 --> 00:19:11,000
+Burt? Why don't you take out
+a mortgage on your house?
+
+250
+00:19:11,200 --> 00:19:13,000
+- What house?
+- Well, your property.
+
+251
+00:19:13,100 --> 00:19:15,000
+I mean is worth something.
+
+252
+00:19:17,000 --> 00:19:18,200
+Here you are.
+
+253
+00:19:18,200 --> 00:19:20,500
+Burt Munro,
+look at the color of your hands.
+
+254
+00:19:20,600 --> 00:19:23,200
+- Whas the matter with them.
+- You're gonna wash those mitts...
+
+255
+00:19:23,200 --> 00:19:25,000
+before you put them
+anywhere near me.
+
+256
+00:19:25,300 --> 00:19:26,600
+There we are.
+
+257
+00:20:00,400 --> 00:20:01,500
+Wakee, wakee.
+
+258
+00:20:02,300 --> 00:20:03,800
+Time to rise...
+
+259
+00:20:04,800 --> 00:20:06,300
+and shine.
+
+260
+00:20:07,800 --> 00:20:09,700
+Burt, you're a sweetie.
+
+261
+00:20:10,500 --> 00:20:13,300
+Got to get out of here before
+the neighbors spot me.
+
+262
+00:20:18,900 --> 00:20:21,600
+Burt, this tastes a bit odd.
+
+263
+00:20:22,800 --> 00:20:23,800
+Is metallic.
+
+264
+00:20:25,200 --> 00:20:29,000
+<i>You are my sunshine
+My only sunshine</i>
+
+265
+00:20:29,200 --> 00:20:30,300
+Oh, crikey!
+
+266
+00:20:30,800 --> 00:20:32,000
+What?
+
+267
+00:20:32,300 --> 00:20:33,700
+I've got a pain in my chest.
+
+268
+00:20:35,200 --> 00:20:37,000
+He's in the shed, hurry.
+
+269
+00:20:41,500 --> 00:20:44,000
+Mum, Dad,
+something's happened to Burt.
+
+270
+00:20:51,700 --> 00:20:53,300
+Burt, whas wrong with you?
+
+271
+00:20:53,500 --> 00:20:55,800
+I'll be alright Tommy,
+don't worry about me.
+
+272
+00:20:56,400 --> 00:20:58,200
+- Are you sure?
+- Yeah.
+
+273
+00:21:19,900 --> 00:21:23,500
+What are you all staring at?
+Dirty old men need love too.
+
+274
+00:21:27,900 --> 00:21:29,600
+- Mr. Munro.
+- Hello.
+
+275
+00:21:29,800 --> 00:21:32,300
+So, whas the story, Doc?
+
+276
+00:21:32,600 --> 00:21:36,700
+- I'm sorry, is not good news.
+- Oh, yeah. Well, fire away.
+
+277
+00:21:38,300 --> 00:21:40,100
+You've had an attack of angina.
+
+278
+00:21:41,300 --> 00:21:43,100
+You have arterial sclerosis.
+
+279
+00:21:43,900 --> 00:21:45,200
+And whas that?
+
+280
+00:21:45,500 --> 00:21:48,100
+Is a narrowing
+of the arteries from the heart.
+
+281
+00:21:48,300 --> 00:21:49,300
+Oh, dear.
+
+282
+00:21:49,600 --> 00:21:51,800
+Yeah, I'm afraid there's not too much
+we can do for you at your age...
+
+283
+00:21:51,900 --> 00:21:54,000
+other than suggesting you
+take it easy.
+
+284
+00:21:55,200 --> 00:21:58,400
+Look if you have another attack,
+pop one of these under your tongue...
+
+285
+00:21:58,600 --> 00:22:00,800
+let it dissolve
+and then swallow the saliva.
+
+286
+00:22:00,900 --> 00:22:03,400
+The pain should be gone
+in thirty seconds.
+
+287
+00:22:03,600 --> 00:22:06,300
+- Yeah, what do you call these things?
+- Trinitrate pills.
+
+288
+00:22:07,100 --> 00:22:09,100
+Um better known as nitro glycerine.
+
+289
+00:22:09,400 --> 00:22:12,800
+- The stuff you blow things up with.
+- Yes, but in much smaller quantities.
+
+290
+00:22:12,800 --> 00:22:13,800
+Alright.
+
+291
+00:22:15,300 --> 00:22:18,800
+Will this have any affect on
+me riding my bike?
+
+292
+00:22:20,700 --> 00:22:24,200
+Unfortunately, I think your
+motorcycling days are over.
+
+293
+00:22:24,500 --> 00:22:25,500
+Like hell they are.
+
+294
+00:22:40,200 --> 00:22:41,500
+It won't be much longer.
+
+295
+00:22:50,000 --> 00:22:51,300
+Springfield.
+
+296
+00:22:52,500 --> 00:22:56,300
+Springfield.
+Thas where the Indians come from.
+
+297
+00:22:56,400 --> 00:22:59,000
+- Indians?
+- Yeah, the Indians...
+
+298
+00:22:59,800 --> 00:23:01,500
+from Springfield,
+Massachusetts.
+
+299
+00:23:02,700 --> 00:23:04,400
+The worls greatest
+motorcycle.
+
+300
+00:23:05,400 --> 00:23:07,100
+- Is that so?
+- Thas right.
+
+301
+00:23:08,500 --> 00:23:10,900
+- You can come through now.
+- Alright, thank you.
+
+302
+00:23:11,800 --> 00:23:13,600
+Yeah, Springfield.
+
+303
+00:23:15,700 --> 00:23:18,900
+<i>The plan is for me
+to drive up to Timaru and...</i>
+
+304
+00:23:19,200 --> 00:23:24,100
+then me and my bike...
+will catch a boat to the US of A to...
+
+305
+00:23:24,200 --> 00:23:27,600
+Los Angeles,
+and the boat leaves on Saturday.
+
+306
+00:23:27,800 --> 00:23:30,400
+And I'll buy a car
+in Los Angeles...
+
+307
+00:23:30,500 --> 00:23:33,100
+and drive up to Utah,
+to the Bonneville Salt Flats.
+
+308
+00:23:33,300 --> 00:23:36,600
+- Is really important you do this trip?
+- Sure is mate, you know.
+
+309
+00:23:37,500 --> 00:23:41,100
+Ever since I was a lad I've been
+interested in things that go fast...
+
+310
+00:23:41,300 --> 00:23:43,200
+you know things
+that rolls and go and...
+
+311
+00:23:43,600 --> 00:23:46,900
+at Bonneville things go real fast.
+Is...
+
+312
+00:23:47,200 --> 00:23:50,500
+this giant dried up lake bed...
+
+313
+00:23:50,700 --> 00:23:53,400
+and it goes for miles
+and miles and is dead flat...
+
+314
+00:23:53,400 --> 00:23:57,400
+and you can drive a vehicle just
+as fast as it will go and is.
+
+315
+00:23:57,700 --> 00:24:00,700
+So is one of the few places
+on earth...
+
+316
+00:24:00,700 --> 00:24:04,900
+where you can find out just what
+you're machine is capable of.
+
+317
+00:24:05,200 --> 00:24:09,700
+In fact here I'm on the, thas me on the
+front of the New Zealand Motorcyclist.
+
+318
+00:24:10,000 --> 00:24:11,300
+Thas the Indian there.
+
+319
+00:24:11,400 --> 00:24:13,500
+- Very good!
+- Yeah, a few years ago.
+
+320
+00:24:13,900 --> 00:24:15,500
+So I'd best be off soon...
+
+321
+00:24:15,500 --> 00:24:18,100
+because I don't know how much longer
+I've got to live you see.
+
+322
+00:24:18,100 --> 00:24:20,500
+Yes, I don't think
+I heard that last statement.
+
+323
+00:24:20,500 --> 00:24:22,700
+I said I don't know
+how much longer I've got to live.
+
+324
+00:24:22,700 --> 00:24:24,300
+I heard you the first time.
+
+325
+00:24:24,600 --> 00:24:26,300
+So... tell me, Burt.
+
+326
+00:24:26,500 --> 00:24:29,400
+What are you offering
+as collateral for this loan?
+
+327
+00:24:29,500 --> 00:24:34,100
+Well, my tools, my bits and pieces, my
+trophies and a lot of things like this.
+
+328
+00:24:34,100 --> 00:24:37,200
+Well, I don't think they'd be
+of much interest to the bank...
+
+329
+00:24:37,200 --> 00:24:39,400
+I think we'd be looking for
+something more substantial.
+
+330
+00:24:39,400 --> 00:24:42,400
+Something like the deed
+of title to your property.
+
+331
+00:24:44,400 --> 00:24:48,100
+- Did you get the money?
+- Yep, I'm off on Thursday.
+
+332
+00:24:48,500 --> 00:24:51,400
+Thursday? That soon?
+I wish I could come too.
+
+333
+00:24:52,200 --> 00:24:53,500
+Oh, maybe next time.
+
+334
+00:24:55,800 --> 00:24:58,800
+Thomas. Is dinner time.
+Come home now.
+
+335
+00:24:59,000 --> 00:25:02,100
+- Nearly finished, Mrs. Jackson.
+- Yeah, Mum, we're almost finished.
+
+336
+00:25:04,800 --> 00:25:06,300
+See you after dinner, Burt.
+
+337
+00:25:07,100 --> 00:25:08,400
+Alright, lad.
+
+338
+00:25:16,500 --> 00:25:18,200
+Hey, not so fast.
+
+339
+00:25:18,400 --> 00:25:20,000
+I'm the record breaker.
+
+340
+00:25:22,900 --> 00:25:24,200
+Where are you going?
+
+341
+00:25:26,000 --> 00:25:27,700
+And thas the...
+
+342
+00:25:28,200 --> 00:25:31,400
+before I put the...
+you know, the streamliner on it.
+
+343
+00:25:35,600 --> 00:25:36,600
+Whas that one?
+
+344
+00:25:37,400 --> 00:25:41,700
+Thas a girlfriend of mine
+when I first bought the bike.
+
+345
+00:25:41,800 --> 00:25:43,400
+It was a long time ago that was.
+
+346
+00:25:46,400 --> 00:25:49,400
+Aren't you scared you'll kill
+yourself if you crash?
+
+347
+00:25:49,700 --> 00:25:50,600
+No...
+
+348
+00:25:50,900 --> 00:25:52,800
+you...
+
+349
+00:25:52,800 --> 00:25:56,300
+live more in five minutes
+on a bike like this...
+
+350
+00:25:56,600 --> 00:25:59,200
+going flat out than some people
+live in a lifetime.
+
+351
+00:26:00,000 --> 00:26:01,700
+And...
+
+352
+00:26:01,700 --> 00:26:05,900
+yeah, more in five minutes.
+Thas my Dad there.
+
+353
+00:26:07,100 --> 00:26:08,600
+And my mum.
+
+354
+00:26:10,100 --> 00:26:11,500
+They're all gone.
+
+355
+00:26:13,700 --> 00:26:15,700
+God, is gone by so fast!
+
+356
+00:26:16,600 --> 00:26:19,500
+You know,
+danger is the spice of life...
+
+357
+00:26:19,700 --> 00:26:22,800
+and you've got to take a risk every now
+and again haven't you, son?
+
+358
+00:26:23,100 --> 00:26:26,200
+You know thas
+what makes life worthwhile.
+
+359
+00:26:27,300 --> 00:26:31,100
+And you know,
+having some nice ladies around...
+
+360
+00:26:31,400 --> 00:26:33,600
+will you pick out my bike?
+
+361
+00:26:34,200 --> 00:26:37,500
+- You really don't get scared?
+- No, no.
+
+362
+00:26:39,100 --> 00:26:40,100
+You know...
+
+363
+00:26:40,500 --> 00:26:43,200
+when I was a boy
+about your age...
+
+364
+00:26:43,500 --> 00:26:46,500
+I had a little twin brother
+whose name was Ernie...
+
+365
+00:26:46,700 --> 00:26:51,100
+and one day our Dad was out
+the back cutting down a tree...
+
+366
+00:26:51,900 --> 00:26:52,900
+and...
+
+367
+00:26:53,700 --> 00:26:58,600
+suddenly it got hung up, the tree
+that is, it got stuck on something and...
+
+368
+00:26:59,600 --> 00:27:02,900
+Ernie went to go and help.
+All of a sudden the tree...
+
+369
+00:27:03,400 --> 00:27:07,400
+slipped and fell on him
+and killed him stone dead.
+
+370
+00:27:12,900 --> 00:27:14,800
+I always remember that.
+
+371
+00:27:15,100 --> 00:27:20,000
+Anyway, since then I've always tried
+never to be scared of anything.
+
+372
+00:27:20,500 --> 00:27:21,900
+Although I must say before...
+
+373
+00:27:21,900 --> 00:27:25,200
+a big bike event I do
+sometimes get nervous, you know...
+
+374
+00:27:26,900 --> 00:27:31,400
+if the butterflies
+in my stomach were cows...
+
+375
+00:27:31,700 --> 00:27:34,700
+I'd be able to start
+a dairy farm.
+
+376
+00:27:36,100 --> 00:27:37,500
+Thas funny.
+
+377
+00:27:38,600 --> 00:27:42,700
+When they took you off in the ambulance
+to the hospital. What happened?
+
+378
+00:27:43,000 --> 00:27:45,600
+I don't know, just a touch
+of indigestion I think.
+
+379
+00:27:46,000 --> 00:27:49,500
+Yeah, thas all it was. There's nothing
+wrong with me, don't you worry about me.
+
+380
+00:27:49,600 --> 00:27:51,300
+And anyway at my age...
+
+381
+00:27:51,600 --> 00:27:55,200
+any day above ground
+and vertical is a good day.
+
+382
+00:27:55,800 --> 00:27:58,900
+Listen, you take care
+of this until I get back alright?
+
+383
+00:27:59,500 --> 00:28:03,400
+- What happens if you don't come back?
+- We'll talk about that then shan't we.
+
+384
+00:28:06,000 --> 00:28:07,500
+- Hey, Burt?
+- Yeah.
+
+385
+00:28:07,500 --> 00:28:09,400
+Don't forget
+to mow your lawns will you?
+
+386
+00:28:09,500 --> 00:28:11,700
+- What?
+- Don't forget to mow your lawns.
+
+387
+00:28:11,800 --> 00:28:13,600
+My Dad goes on and on about it.
+
+388
+00:28:13,800 --> 00:28:14,900
+He does, does he?
+
+389
+00:28:15,100 --> 00:28:18,200
+He says it lowers the property
+values of the neighborhood.
+
+390
+00:28:19,700 --> 00:28:22,800
+Well, oh dear,
+we can't have that can we?
+
+391
+00:28:46,400 --> 00:28:47,400
+What are you doing?
+
+392
+00:28:47,700 --> 00:28:50,000
+Hello, son.
+I'm just getting rid of the grass.
+
+393
+00:28:52,900 --> 00:28:55,600
+Burt, what the hell
+are you doing this time?
+
+394
+00:28:55,900 --> 00:28:59,000
+Oh, like you said George
+I'm getting rid of the grass...
+
+395
+00:28:59,500 --> 00:29:02,100
+being a good neighbor
+before I leave tomorrow.
+
+396
+00:29:02,400 --> 00:29:04,800
+Tom, Tom!
+Get back inside now!
+
+397
+00:29:05,600 --> 00:29:06,800
+Now!
+
+398
+00:29:08,300 --> 00:29:09,600
+Honestly, Burt!
+
+399
+00:29:13,800 --> 00:29:16,600
+- What are they doing here?
+- It might be the fire, Burt.
+
+400
+00:29:25,600 --> 00:29:27,500
+Right, the tyre goes in first.
+
+401
+00:29:28,200 --> 00:29:29,500
+Thas it.
+
+402
+00:29:30,200 --> 00:29:32,500
+Thas it, Jeff. You've got it.
+
+403
+00:29:33,200 --> 00:29:34,700
+This goes in here.
+
+404
+00:29:36,500 --> 00:29:37,800
+Pills...
+
+405
+00:29:38,600 --> 00:29:40,000
+license, passport.
+
+406
+00:29:41,000 --> 00:29:43,500
+Right, les see,
+I've got everything?
+
+407
+00:29:44,400 --> 00:29:47,900
+Spectacles, testicles,
+watch and wallet.
+
+408
+00:29:48,000 --> 00:29:49,500
+What are you laughing at?
+
+409
+00:29:49,800 --> 00:29:51,000
+I'm on my way.
+
+410
+00:29:51,200 --> 00:29:53,600
+- Dad says to call us collect.
+- What?
+
+411
+00:29:53,700 --> 00:29:55,300
+Dad says to call us collect.
+
+412
+00:29:55,700 --> 00:29:57,800
+- Thas nice of him.
+- Tell us how you get on.
+
+413
+00:29:58,500 --> 00:29:59,500
+Thank you.
+
+414
+00:29:59,700 --> 00:30:01,200
+Thas our phone number.
+
+415
+00:30:02,600 --> 00:30:06,000
+- Do you think you'll break the record?
+- Well, I hope so.
+
+416
+00:30:06,800 --> 00:30:08,800
+Dad doesn't think
+you can do it.
+
+417
+00:30:10,900 --> 00:30:12,300
+Is that what he said?
+
+418
+00:30:12,800 --> 00:30:14,600
+He said everyone thinks that.
+
+419
+00:30:15,300 --> 00:30:16,500
+Well...
+
+420
+00:30:17,900 --> 00:30:19,000
+Except me.
+
+421
+00:30:24,400 --> 00:30:26,800
+You're a good boy, Tom.
+
+422
+00:30:31,100 --> 00:30:32,900
+I'll tell you something, son.
+
+423
+00:30:33,200 --> 00:30:37,100
+If you don't follow through on your
+dreams, you might as well be a vegetable.
+
+424
+00:30:38,900 --> 00:30:40,600
+What type of vegetable?
+
+425
+00:30:41,000 --> 00:30:42,300
+I don't know...
+
+426
+00:30:43,000 --> 00:30:43,900
+a cabbage.
+
+427
+00:30:45,000 --> 00:30:46,200
+Yeah...
+
+428
+00:30:46,400 --> 00:30:47,700
+<i>a cabbage.</i>
+
+429
+00:30:49,600 --> 00:30:51,500
+There you are.
+Don't lose it, will you?
+
+430
+00:30:51,500 --> 00:30:53,700
+- I promise I'll look after it.
+- Right.
+
+431
+00:30:55,900 --> 00:30:58,900
+So keep an eye on the place
+for me won't you, Tom.
+
+432
+00:30:59,400 --> 00:31:00,400
+And...
+
+433
+00:31:02,000 --> 00:31:03,900
+don't forget
+to feed the fowls.
+
+434
+00:31:04,000 --> 00:31:05,500
+- Thas my job.
+- Yeah.
+
+435
+00:31:05,700 --> 00:31:06,700
+And...
+
+436
+00:31:06,700 --> 00:31:09,900
+you can give
+the eggs to Mum and...
+
+437
+00:31:10,200 --> 00:31:11,700
+what else is there?
+
+438
+00:31:12,500 --> 00:31:13,500
+Oh, yes...
+
+439
+00:31:14,100 --> 00:31:18,400
+you can pee on my lemon tree
+for me if you like, while I'm away.
+
+440
+00:31:18,400 --> 00:31:21,300
+And there's nothing wrong
+with peeing on your lemon tree...
+
+441
+00:31:21,400 --> 00:31:25,300
+as Confucius used to say, is the best
+natural fertilizer in the world.
+
+442
+00:31:25,500 --> 00:31:28,000
+- Who's Confucius?
+- He's some bloke who lives up in Dunedin.
+
+443
+00:31:28,600 --> 00:31:30,100
+Thanks for you help, chaps.
+
+444
+00:31:30,300 --> 00:31:31,900
+- Good luck, Burt.
+- Thanks, Jeff.
+
+445
+00:31:32,000 --> 00:31:34,600
+- You show them over there in the States.
+- I will.
+
+446
+00:31:34,800 --> 00:31:35,800
+Take it easy, Burt.
+
+447
+00:31:35,900 --> 00:31:38,500
+Thas not one of the things
+I'm planning on doing, George.
+
+448
+00:31:38,600 --> 00:31:40,000
+Cheerio, love.
+
+449
+00:31:40,000 --> 00:31:41,100
+Good luck.
+
+450
+00:31:41,200 --> 00:31:42,500
+Cheerio, my friend.
+
+451
+00:31:42,900 --> 00:31:45,600
+If you don't go when you wanna go
+when you do go, you'll find you're gone.
+
+452
+00:31:45,700 --> 00:31:47,200
+- I'll see ya.
+- See ya, Burt.
+
+453
+00:31:47,700 --> 00:31:48,900
+Bye, Burt.
+
+454
+00:31:49,400 --> 00:31:50,800
+- Good luck.
+- Cheerio.
+
+455
+00:31:51,500 --> 00:31:52,300
+See ya, Burt.
+
+456
+00:32:05,900 --> 00:32:06,800
+Look at that!
+
+457
+00:32:17,100 --> 00:32:20,600
+Well, Fran,
+I'm finally on my way.
+
+458
+00:32:24,100 --> 00:32:27,500
+I thought some more
+of the blokes from the club...
+
+459
+00:32:27,600 --> 00:32:29,900
+would have dropped
+by to see me off.
+
+460
+00:32:30,500 --> 00:32:32,900
+Well, they probably had
+to work today.
+
+461
+00:32:33,200 --> 00:32:34,800
+Yeah. Yeah, thas right.
+
+462
+00:32:35,800 --> 00:32:38,300
+Yeah, young Tom tells me...
+
+463
+00:32:39,400 --> 00:32:41,200
+that no one thinks
+I can do it.
+
+464
+00:32:41,700 --> 00:32:45,200
+- Do you think I can do it, Fran?
+- I don't know, Burt.
+
+465
+00:32:45,400 --> 00:32:47,600
+I don't think it really matters
+one way or the other.
+
+466
+00:32:53,600 --> 00:32:56,200
+You know, I read something once,
+years ago.
+
+467
+00:32:57,500 --> 00:32:59,400
+I learnt it off by heart.
+
+468
+00:33:00,700 --> 00:33:03,900
+It was Theodore Roosevelt
+said it...
+
+469
+00:33:05,000 --> 00:33:08,800
+is not
+the critic that counts...
+
+470
+00:33:09,000 --> 00:33:13,200
+not the man who points out
+how the strong man stumbles...
+
+471
+00:33:13,400 --> 00:33:18,200
+or where the doer of deeds
+could have done them better.
+
+472
+00:33:20,500 --> 00:33:24,600
+The credit belongs to the man
+who is actually in the arena.
+
+473
+00:33:33,900 --> 00:33:35,900
+Wind your window down!
+Down.
+
+474
+00:33:36,100 --> 00:33:37,500
+What?
+
+475
+00:33:37,900 --> 00:33:39,400
+Some beer money.
+
+476
+00:33:39,400 --> 00:33:41,600
+- What?
+- Some beer money.
+
+477
+00:33:42,500 --> 00:33:44,000
+I don't drink.
+
+478
+00:33:44,900 --> 00:33:46,500
+Good luck.
+
+479
+00:33:46,700 --> 00:33:48,000
+- You go well.
+- Thanks, mate.
+
+480
+00:33:48,200 --> 00:33:49,700
+Show them Kiwi's can fly.
+
+481
+00:33:49,800 --> 00:33:52,800
+Yeah, I'll bring you back
+the Statue of Liberty.
+
+482
+00:33:53,500 --> 00:33:54,800
+Good on you mate,
+thanks a lot.
+
+483
+00:34:13,400 --> 00:34:15,000
+Hey, not so fast!
+
+484
+00:34:17,500 --> 00:34:18,600
+Crikey!
+
+485
+00:34:20,300 --> 00:34:21,700
+Take it easy, mate!
+
+486
+00:34:24,300 --> 00:34:25,700
+I thought it was a goner.
+
+487
+00:34:33,100 --> 00:34:34,500
+Better get going.
+
+488
+00:34:34,500 --> 00:34:35,700
+Yeah, alright...
+
+489
+00:34:36,300 --> 00:34:39,000
+take care of the old jalopy,
+won't you?
+
+490
+00:34:40,600 --> 00:34:42,500
+- You look after yourself.
+- I will.
+
+491
+00:34:42,500 --> 00:34:44,200
+You've got your pills
+and everything, right?
+
+492
+00:34:44,200 --> 00:34:46,100
+Yeah, yeah, right as rain.
+
+493
+00:34:51,000 --> 00:34:54,000
+- You come back in one piece.
+- I will, cheerio.
+
+494
+00:35:04,200 --> 00:35:05,500
+Where's the Captain?
+
+495
+00:35:05,600 --> 00:35:06,900
+Down below.
+
+496
+00:35:07,100 --> 00:35:08,900
+- Down the gangway there.
+- Thanks.
+
+497
+00:35:10,100 --> 00:35:11,500
+There we are.
+
+498
+00:35:11,800 --> 00:35:13,700
+I'm looking for the Captain.
+
+499
+00:35:14,200 --> 00:35:15,400
+Thas me.
+
+500
+00:35:16,600 --> 00:35:18,600
+My name's Burt Munro.
+
+501
+00:35:21,400 --> 00:35:25,200
+I'm supposed to do a job to work
+my passage to Los Angeles.
+
+502
+00:35:25,400 --> 00:35:27,800
+- Yeah, well, I hope you can cook.
+- Cook?
+
+503
+00:35:30,000 --> 00:35:32,000
+- I'll give it a go.
+- There's the galley.
+
+504
+00:35:36,700 --> 00:35:37,500
+Crikey!
+
+505
+00:35:38,900 --> 00:35:40,300
+Who does the dishes, mate?
+
+506
+00:35:41,000 --> 00:35:42,100
+You.
+
+507
+00:35:47,600 --> 00:35:49,000
+Smells good.
+
+508
+00:35:49,300 --> 00:35:50,900
+What do you have
+for us today, Burt?
+
+509
+00:35:51,200 --> 00:35:53,000
+Is good Kiwi tucker.
+
+510
+00:35:55,600 --> 00:35:58,100
+Don't let Burt see you
+doing that.
+
+511
+00:35:58,500 --> 00:36:01,200
+Here, don't spoil it
+with all that sauce.
+
+512
+00:36:01,700 --> 00:36:03,400
+- Sorry, Burt.
+- Stone the crows!
+
+513
+00:36:08,900 --> 00:36:10,200
+Are you going to watch
+the movie, Burt?
+
+514
+00:36:10,200 --> 00:36:12,900
+- Whas that?
+- Are you going to watch the movie?
+
+515
+00:36:14,000 --> 00:36:16,300
+- Whas it called?
+- Broken Barrier.
+
+516
+00:36:17,900 --> 00:36:20,900
+- Is supposed to be good.
+- Is Jane Russell in it?
+
+517
+00:36:21,600 --> 00:36:23,500
+There's a spare seat
+over here, Burt.
+
+518
+00:36:31,300 --> 00:36:32,300
+Smoke?
+
+519
+00:36:32,600 --> 00:36:35,000
+- No. Not for me, mate.
+- You don't smoke Burt?
+
+520
+00:36:35,000 --> 00:36:37,400
+No, I don't
+and thas why people say to me...
+
+521
+00:36:37,700 --> 00:36:39,700
+how do you keep going
+at your age, Burt...
+
+522
+00:36:39,700 --> 00:36:41,400
+and I say,
+well because I don't smoke...
+
+523
+00:36:41,400 --> 00:36:44,200
+so I'm telling you young monkeys,
+don't smoke.
+
+524
+00:36:44,800 --> 00:36:47,600
+You can laugh,
+but my Dad said...
+
+525
+00:36:47,800 --> 00:36:50,000
+why contaminate your lungs
+with tobacco smoke?
+
+526
+00:36:50,200 --> 00:36:53,300
+The only thing you accomplish with
+smoking is destroying your lungs...
+
+527
+00:36:53,300 --> 00:36:55,900
+- and shortening your life.
+- Kill the lights.
+
+528
+00:36:59,800 --> 00:37:00,900
+Is Jane Russell in this?
+
+529
+00:37:02,100 --> 00:37:03,400
+Go well, Burt.
+
+530
+00:37:04,800 --> 00:37:06,800
+- Thanks, mate.
+- Not for this.
+
+531
+00:37:13,600 --> 00:37:15,200
+- Good luck to you, Burt.
+- Thanks.
+
+532
+00:37:15,400 --> 00:37:17,200
+Remember what I said.
+Don't smoke.
+
+533
+00:37:18,000 --> 00:37:19,000
+I'm trying.
+
+534
+00:37:19,300 --> 00:37:20,700
+Cheerio, mates. See ya.
+
+535
+00:37:22,300 --> 00:37:24,600
+Welcome to the United States.
+Customs to the left.
+
+536
+00:37:24,700 --> 00:37:26,300
+Thank you, good to be here.
+
+537
+00:37:26,800 --> 00:37:27,800
+G'day.
+
+538
+00:37:34,300 --> 00:37:35,300
+G'day.
+
+539
+00:37:35,600 --> 00:37:38,100
+Please, stand behind the yellow line
+until you are called, sir.
+
+540
+00:37:38,200 --> 00:37:39,200
+Whas that?
+
+541
+00:37:39,300 --> 00:37:41,800
+- Behind the yellow line.
+- Yellow line?
+
+542
+00:37:52,000 --> 00:37:53,000
+G'day.
+
+543
+00:37:53,100 --> 00:37:55,600
+Passport and customs declaration,
+please sir.
+
+544
+00:37:56,900 --> 00:37:58,200
+There you are.
+
+545
+00:38:03,600 --> 00:38:05,800
+How long do you intend
+to stay in the United States?
+
+546
+00:38:06,000 --> 00:38:10,200
+However long it takes me to get
+to Bonneville and back.
+
+547
+00:38:10,400 --> 00:38:12,400
+And the purpose of your visit?
+
+548
+00:38:12,400 --> 00:38:15,800
+To set a land speed record
+on my Indian.
+
+549
+00:38:16,900 --> 00:38:17,800
+Indian?
+
+550
+00:38:18,300 --> 00:38:19,400
+Mr. Munro...
+
+551
+00:38:19,600 --> 00:38:21,700
+- So this is your first time to America?
+- Yes, sir.
+
+552
+00:38:21,900 --> 00:38:24,600
+You gave some rather odd answers
+to the Officer...
+
+553
+00:38:24,900 --> 00:38:26,700
+so we just have a few further
+questions we'd like to ask you.
+
+554
+00:38:26,800 --> 00:38:30,500
+- Well, fire away.
+- Well, les go over again what you said.
+
+555
+00:38:30,900 --> 00:38:33,600
+Now what exactly do you intend to do
+here in the United States?
+
+556
+00:38:33,900 --> 00:38:35,700
+Well, set a land speed record.
+
+557
+00:38:36,800 --> 00:38:39,900
+- And how do you intend to do that, sir?
+- On my motorcycle.
+
+558
+00:38:40,200 --> 00:38:43,500
+Is in the hold of the ship
+at the moment and...
+
+559
+00:38:43,700 --> 00:38:48,400
+they're going to unload it tomorrow.
+Is an Indian, a 1920 Indian Scout...
+
+560
+00:38:49,300 --> 00:38:50,800
+modified somewhat.
+
+561
+00:38:51,800 --> 00:38:52,700
+You know what?
+
+562
+00:38:53,300 --> 00:38:55,600
+- I think I've read about your bike.
+- Yeah?
+
+563
+00:38:55,800 --> 00:38:58,900
+Yeah, it was in Popular Mechanics,
+a couple of years ago.
+
+564
+00:38:59,100 --> 00:39:00,700
+Thas right, thas me.
+
+565
+00:39:00,900 --> 00:39:04,100
+A Leslie Hobbs from Christchurch
+sent that story.
+
+566
+00:39:04,300 --> 00:39:07,100
+What was it?
+Fastest motorcycle in Australia?
+
+567
+00:39:07,300 --> 00:39:09,100
+Yeah, and in New Zealand.
+
+568
+00:39:11,500 --> 00:39:13,600
+Well, I guess you're legitimate,
+Mr. Munro.
+
+569
+00:39:13,900 --> 00:39:16,600
+It sounds like we should be very
+honored to have you here in America.
+
+570
+00:39:16,800 --> 00:39:19,300
+- Well, thank you.
+- We're going to give you six months...
+
+571
+00:39:19,500 --> 00:39:21,500
+that should be time enough
+to get the job done.
+
+572
+00:39:23,700 --> 00:39:26,000
+- Welcome to the USA.
+- Thank you very much.
+
+573
+00:39:26,200 --> 00:39:27,900
+- Good luck, sir.
+- Thank you.
+
+574
+00:39:35,200 --> 00:39:36,700
+- Gears in the trunk.
+- What?
+
+575
+00:39:36,900 --> 00:39:38,300
+Bags in the back.
+
+576
+00:39:38,800 --> 00:39:40,200
+Bag, back!
+
+577
+00:39:40,300 --> 00:39:43,300
+Don't worry about me,
+I'll do it myself.
+
+578
+00:39:43,800 --> 00:39:45,100
+Strewth!
+
+579
+00:39:58,600 --> 00:40:00,400
+Sit in the back, in the back!
+
+580
+00:40:00,700 --> 00:40:02,700
+- What?
+- You, in the back!
+
+581
+00:40:04,300 --> 00:40:08,100
+Tell you something, mate,
+you don't want to get old around here.
+
+582
+00:40:11,100 --> 00:40:12,300
+Ta ra.
+
+583
+00:40:14,900 --> 00:40:16,500
+- Where to?
+- What?
+
+584
+00:40:16,800 --> 00:40:19,200
+- Where to?
+- Hollywood.
+
+585
+00:40:19,200 --> 00:40:22,600
+Yeah, I want to go to Hollywood,
+I want to see the film stars.
+
+586
+00:40:23,000 --> 00:40:25,200
+Okay, we go to Hollywood.
+
+587
+00:40:25,600 --> 00:40:27,200
+Where in Hollywood?
+
+588
+00:40:27,900 --> 00:40:31,400
+A motel on Sunset Boulevard...
+
+589
+00:40:32,100 --> 00:40:33,900
+I hear thas a pretty great street.
+
+590
+00:40:34,100 --> 00:40:37,100
+I don't know who you talking to lately.
+Which motel?
+
+591
+00:40:37,400 --> 00:40:38,500
+I don't know...
+
+592
+00:40:38,800 --> 00:40:39,900
+a recommended one.
+
+593
+00:40:40,200 --> 00:40:42,700
+Come on man, what do you think
+I am, an encyclopedia?
+
+594
+00:40:42,900 --> 00:40:46,600
+Drop me somewhere
+and I'll sort it out myself.
+
+595
+00:40:54,800 --> 00:40:57,000
+Must have a bit
+electricity bill here.
+
+596
+00:41:01,300 --> 00:41:02,600
+Firestone...
+
+597
+00:41:03,600 --> 00:41:04,600
+Shell.
+
+598
+00:41:06,600 --> 00:41:10,400
+Is all about cars, isn't it?
+I've never seen so many cars.
+
+599
+00:41:10,800 --> 00:41:14,400
+- You say something, man?
+- I said I've never seen so many cars.
+
+600
+00:41:14,700 --> 00:41:17,100
+Got to get around somehow.
+
+601
+00:41:21,900 --> 00:41:25,000
+Look, there's a bowling alley.
+Do you bowl?
+
+602
+00:41:31,200 --> 00:41:33,200
+Whas he honking his horn about?
+
+603
+00:41:36,500 --> 00:41:38,900
+Jesus!
+Crikey, did you see that?
+
+604
+00:41:40,000 --> 00:41:42,000
+That blokes backing into that
+geaser's car.
+
+605
+00:41:42,900 --> 00:41:44,400
+He's crazy, he's nuts.
+
+606
+00:41:45,300 --> 00:41:46,900
+He did it again.
+
+607
+00:41:48,200 --> 00:41:50,600
+Don't stare, there's a lot of
+crazy people in this town.
+
+608
+00:41:50,900 --> 00:41:52,700
+I've never seen anything
+like that before.
+
+609
+00:42:03,800 --> 00:42:05,900
+- This should do...
+- Whas the damage?
+
+610
+00:42:06,600 --> 00:42:08,000
+US$28, plus bag...
+
+611
+00:42:08,400 --> 00:42:10,200
+- US$29.
+- What?
+
+612
+00:42:11,700 --> 00:42:14,500
+Did you just say
+what I thought you said?
+
+613
+00:42:14,600 --> 00:42:16,800
+- Are you deaf?
+- What?
+
+614
+00:42:16,900 --> 00:42:20,300
+- Are you deaf?
+- Yeah, I am a bit deaf, but I'm not stupid.
+
+615
+00:42:20,400 --> 00:42:23,300
+- How much did you say it was?
+- US$29.
+
+616
+00:42:23,500 --> 00:42:27,900
+No, I don't want to buy the cab, mate.
+I just want to pay the fare, thas all.
+
+617
+00:42:27,900 --> 00:42:29,600
+- Where you from?
+- What?
+
+618
+00:42:29,800 --> 00:42:32,900
+- You a British?
+- No, you must be joking...
+
+619
+00:42:33,100 --> 00:42:35,400
+I'm no Pommie,
+I'm from New Zealand.
+
+620
+00:42:35,600 --> 00:42:37,000
+Well, this is America.
+
+621
+00:42:37,900 --> 00:42:40,800
+And the fare, right there on the meter,
+US$29.
+
+622
+00:42:41,200 --> 00:42:43,800
+Open your wallet
+and let the moths out.
+
+623
+00:42:44,000 --> 00:42:45,400
+I'm doing it, I'm doing it.
+
+624
+00:42:46,000 --> 00:42:48,600
+There you go, US$29.
+
+625
+00:42:48,800 --> 00:42:50,700
+- No, don't forget the tip.
+- What?
+
+626
+00:42:50,900 --> 00:42:53,200
+Yes, we tip in America.
+
+627
+00:42:53,500 --> 00:42:54,300
+Ten percent.
+
+628
+00:42:54,400 --> 00:42:56,200
+- How much?
+- Ten percent.
+
+629
+00:42:58,100 --> 00:42:59,600
+Oh yeah, there you go, ten cents.
+
+630
+00:43:08,300 --> 00:43:09,800
+Excuse me, sir.
+
+631
+00:43:10,000 --> 00:43:12,100
+- You look like a generous man, sir.
+- What?
+
+632
+00:43:12,300 --> 00:43:14,100
+- You look like a generous man.
+- Oh do I?
+
+633
+00:43:14,300 --> 00:43:17,600
+Yes you do. Would you like to buy
+a flower to give to someone special?
+
+634
+00:43:17,900 --> 00:43:19,900
+Well,
+sorry I don't have any cash.
+
+635
+00:43:20,200 --> 00:43:22,400
+Don't worry,
+the money goes to a good cause.
+
+636
+00:43:22,600 --> 00:43:25,200
+Is for an organization
+that helps needy people.
+
+637
+00:43:25,500 --> 00:43:27,400
+Oh alright, well, how much is it?
+
+638
+00:43:27,700 --> 00:43:30,000
+- Just give what you can afford.
+- Alright, well.
+
+639
+00:43:31,900 --> 00:43:34,000
+They all look the same to me.
+They're all green.
+
+640
+00:43:34,000 --> 00:43:36,700
+- Yes, thas why we call them green backs.
+- That looks like a one.
+
+641
+00:43:37,000 --> 00:43:38,400
+- Look there's one.
+- No, thas a ten.
+
+642
+00:43:38,500 --> 00:43:40,300
+- Thanks, you have a good day.
+- No, thas a ten.
+
+643
+00:43:40,500 --> 00:43:42,400
+Hey come on miss, thas a ten.
+
+644
+00:43:42,800 --> 00:43:44,000
+I didn't want to pay that much.
+
+645
+00:43:44,300 --> 00:43:45,700
+Hey, come back.
+
+646
+00:43:50,600 --> 00:43:52,100
+- Hey baby.
+- What do you want?
+
+647
+00:43:52,300 --> 00:43:53,600
+- You wanna go?
+- Go where?
+
+648
+00:43:54,800 --> 00:43:57,200
+- Go inside.
+- I'm going inside.
+
+649
+00:43:58,000 --> 00:43:59,900
+I'll take you around the world.
+
+650
+00:44:00,100 --> 00:44:01,900
+I've just come from halfway
+around the world.
+
+651
+00:44:02,000 --> 00:44:03,700
+15 bucks, baby.
+
+652
+00:44:03,700 --> 00:44:05,000
+15 bucks.
+
+653
+00:44:05,200 --> 00:44:07,000
+No, sorry, go away.
+
+654
+00:44:14,200 --> 00:44:15,100
+Hello.
+
+655
+00:44:20,300 --> 00:44:23,500
+- I need a room.
+- A room will cost you five bucks an hour.
+
+656
+00:44:23,500 --> 00:44:25,600
+I'm planning on staying
+a wee bit longer than that.
+
+657
+00:44:25,700 --> 00:44:28,400
+- How long?
+- I don't know, a couple of days I guess.
+
+658
+00:44:28,500 --> 00:44:30,600
+- Double occupancy?
+- What?
+
+659
+00:44:30,900 --> 00:44:32,300
+Double occupancy?
+
+660
+00:44:32,500 --> 00:44:34,900
+No, just me, myself and I.
+
+661
+00:44:35,700 --> 00:44:38,900
+Will it cost a lot because
+I can't afford a lot.
+
+662
+00:44:40,200 --> 00:44:42,300
+- You a member of Triple A?
+- What?
+
+663
+00:44:42,500 --> 00:44:44,900
+- Are you a Triple A member?
+- Never heard of them.
+
+664
+00:44:45,200 --> 00:44:46,400
+Never heard of Triple A?
+
+665
+00:44:46,600 --> 00:44:49,900
+No Miss Brittle Britches,
+I have not heard of Triple A.
+
+666
+00:44:51,400 --> 00:44:53,700
+Okay, les just say
+you are a member doll.
+
+667
+00:44:53,700 --> 00:44:55,400
+- Alright.
+- Thall save you ten percent.
+
+668
+00:44:56,700 --> 00:44:58,700
+How does 22 bucks a night sound?
+
+669
+00:44:59,100 --> 00:45:01,200
+That much? Is that cheap?
+
+670
+00:45:02,300 --> 00:45:03,700
+Honey, thas cheaper than cheap.
+
+671
+00:45:07,000 --> 00:45:09,900
+- Whas your name?
+- Tina Washington.
+
+672
+00:45:10,100 --> 00:45:11,400
+Well, Tina Washington,
+
+673
+00:45:11,400 --> 00:45:14,000
+I want you to have this,
+it might cheer you up a bit.
+
+674
+00:45:14,300 --> 00:45:16,400
+Get some of that muck
+off your pluck.
+
+675
+00:45:16,900 --> 00:45:18,200
+Well, thank you.
+
+676
+00:45:18,800 --> 00:45:21,100
+Thas the first nice thing
+thas happened round here all week.
+
+677
+00:45:21,100 --> 00:45:22,500
+You're welcome.
+
+678
+00:45:22,800 --> 00:45:25,800
+My name's Burt Munro.
+From New Zealand.
+
+679
+00:45:25,900 --> 00:45:27,400
+I'm from down under.
+
+680
+00:45:27,600 --> 00:45:29,700
+Well, hello, Burt Munro
+from New Zealand down under.
+
+681
+00:45:30,000 --> 00:45:32,100
+I tell you,
+I've had a heck of a night.
+
+682
+00:45:32,800 --> 00:45:34,400
+Welcome to Hollyweird.
+
+683
+00:46:26,300 --> 00:46:27,700
+Hello?
+
+684
+00:46:28,000 --> 00:46:29,200
+Anybody home?
+
+685
+00:46:31,300 --> 00:46:33,300
+- Hello, Tina.
+- Good morning, Burt.
+
+686
+00:46:33,600 --> 00:46:35,100
+You still here?
+
+687
+00:46:36,400 --> 00:46:39,300
+Thas why you were
+so crabby last night.
+
+688
+00:46:39,500 --> 00:46:40,800
+Don't you ever get any sleep?
+
+689
+00:46:41,100 --> 00:46:42,600
+I work a night shift.
+
+690
+00:46:42,800 --> 00:46:45,300
+I'm out of here as soon as James
+turns up and he's late.
+
+691
+00:46:46,500 --> 00:46:49,600
+Yeah, could you phone
+this number for me?
+
+692
+00:46:50,000 --> 00:46:53,400
+Yeah, is a shipping company
+and they've got a big box of mine...
+
+693
+00:46:53,700 --> 00:46:56,900
+and I want to know how
+to arrange to get it.
+
+694
+00:46:59,200 --> 00:47:01,300
+No, you talk to them,
+they'll never get my accent.
+
+695
+00:47:01,500 --> 00:47:04,000
+Okay, what do you want me
+to ask them? One moment please.
+
+696
+00:47:04,100 --> 00:47:08,800
+Ask them when a Burt Munro's box
+containing the motorcycle...
+
+697
+00:47:08,800 --> 00:47:10,000
+will be ready for pick up.
+
+698
+00:47:10,800 --> 00:47:13,300
+Hello, I'm calling
+for Mr. Burt Munro.
+
+699
+00:47:13,400 --> 00:47:16,200
+Yes, he'd like to know when the box
+containing his motorcycle...
+
+700
+00:47:16,200 --> 00:47:18,300
+<i>- will be available for pick up.
+- What ship?</i>
+
+701
+00:47:18,900 --> 00:47:21,300
+- What ship?
+- Rangatira from New Zealand.
+
+702
+00:47:21,500 --> 00:47:23,600
+The Rangatira from New Zealand.
+
+703
+00:47:23,800 --> 00:47:25,500
+<i>- Is arrived.
+- So he can claim it?</i>
+
+704
+00:47:27,500 --> 00:47:29,900
+Tomorrow from the Long Beach
+customs holding area.
+
+705
+00:47:30,200 --> 00:47:32,100
+Okay, thank you, I'll tell him.
+Bye-bye.
+
+706
+00:47:32,400 --> 00:47:34,000
+That was pretty fast.
+
+707
+00:47:34,300 --> 00:47:35,800
+You're late.
+
+708
+00:47:38,000 --> 00:47:41,400
+I can't stand another minute in
+this place. Let me buy you breakfast.
+
+709
+00:47:44,800 --> 00:47:46,100
+Well, this is great.
+
+710
+00:47:46,500 --> 00:47:50,200
+You know, I've never seen
+a menu with photographs before.
+
+711
+00:47:51,500 --> 00:47:53,000
+- Are you ready to order, sir?
+- What?
+
+712
+00:47:53,300 --> 00:47:55,100
+- Are you ready?
+- Oh yes...
+
+713
+00:47:56,300 --> 00:48:00,000
+I think the Double Delight,
+thas for me.
+
+714
+00:48:00,700 --> 00:48:02,500
+- How would you like your eggs?
+- What?
+
+715
+00:48:02,700 --> 00:48:04,300
+How would you like your eggs?
+
+716
+00:48:05,100 --> 00:48:06,300
+Well, I'd like them cooked.
+
+717
+00:48:07,200 --> 00:48:10,100
+Sunny side up? Over easy?
+
+718
+00:48:10,500 --> 00:48:13,800
+- I don't know, whatever you recommend.
+- Over easy's best.
+
+719
+00:48:14,600 --> 00:48:16,100
+Alright, eggs over easy.
+
+720
+00:48:16,400 --> 00:48:17,600
+Make that two.
+
+721
+00:48:17,900 --> 00:48:20,600
+Over easy.
+I must remember that.
+
+722
+00:48:20,800 --> 00:48:23,600
+Yeah, I like this American
+breakfast thing.
+
+723
+00:48:24,300 --> 00:48:25,300
+Is good.
+
+724
+00:48:27,000 --> 00:48:31,400
+So my girl, where's the best place
+for me to get a used car?
+
+725
+00:48:31,600 --> 00:48:32,900
+The Valley.
+
+726
+00:48:33,400 --> 00:48:35,400
+After breakfast I could
+take you there.
+
+727
+00:48:35,500 --> 00:48:36,500
+Oh Well, thank you.
+
+728
+00:48:38,500 --> 00:48:40,200
+And I'm not a girl.
+
+729
+00:48:42,300 --> 00:48:43,300
+I'm a boy.
+
+730
+00:48:48,400 --> 00:48:50,800
+I thought there was something
+a little odd about you.
+
+731
+00:48:50,800 --> 00:48:53,700
+But hey,
+you're still a sweetheart.
+
+732
+00:48:56,600 --> 00:48:57,500
+Yep.
+
+733
+00:49:11,700 --> 00:49:12,900
+Thanks a million, Tina.
+
+734
+00:49:13,200 --> 00:49:15,300
+Hey,
+there are stacks of cars here.
+
+735
+00:49:16,000 --> 00:49:18,300
+- I'll be back in the motel later on.
+- Bye.
+
+736
+00:49:19,500 --> 00:49:20,600
+Bye.
+
+737
+00:49:26,800 --> 00:49:28,200
+How may I help you, sir?
+
+738
+00:49:28,500 --> 00:49:32,400
+Yeah, I want to buy a car,
+a cheap car, a very cheap car.
+
+739
+00:49:32,400 --> 00:49:34,600
+Well, you've come
+to the right place, amigo.
+
+740
+00:49:35,000 --> 00:49:39,300
+In fact, if you can find cars like this
+any cheaper, they're probably stolen.
+
+741
+00:49:39,500 --> 00:49:42,900
+My name's Burt, Burt Munro
+from New Zealand. Nice to meet you.
+
+742
+00:49:43,200 --> 00:49:45,700
+I'm Fernando from El Salvador,
+nice to meet you, Mr. Munro.
+
+743
+00:49:45,800 --> 00:49:48,400
+- You can call me Burt.
+- Alright, Mr. Burt.
+
+744
+00:49:49,000 --> 00:49:52,200
+So how much were you looking
+to spend here Mr. Burt?
+
+745
+00:49:52,200 --> 00:49:53,500
+Not a lot Fernando...
+
+746
+00:49:53,800 --> 00:49:56,400
+I haven't got much left after
+the cab ride I took yesterday.
+
+747
+00:49:57,700 --> 00:49:59,500
+You want US$399 for this?
+
+748
+00:50:00,500 --> 00:50:02,200
+It sounds a bit sick.
+
+749
+00:50:02,400 --> 00:50:04,000
+Well, what would you offer me?
+
+750
+00:50:04,400 --> 00:50:07,300
+Listen, I'll give you US$200
+if you'll do me a favor.
+
+751
+00:50:08,100 --> 00:50:11,000
+Through in the use
+of your workshop...
+
+752
+00:50:11,200 --> 00:50:13,700
+and some of that junk
+I see lying around...
+
+753
+00:50:14,400 --> 00:50:17,100
+I've got to knock up
+a trailer...
+
+754
+00:50:17,400 --> 00:50:19,600
+to drag my bike over
+to Bonneville.
+
+755
+00:50:19,800 --> 00:50:21,800
+Thas not a favor,
+US$325 is a favor.
+
+756
+00:50:22,000 --> 00:50:24,200
+No, US$225.
+
+757
+00:50:25,200 --> 00:50:27,800
+You're a tough customer, Mr. Burt,
+but I like you...
+
+758
+00:50:28,100 --> 00:50:31,400
+I'm going to give it to you for US$250
+and you can use the workshop...
+
+759
+00:50:31,500 --> 00:50:33,900
+but only at night
+and keep the noise down.
+
+760
+00:50:33,900 --> 00:50:34,600
+What about tonight?
+
+761
+00:50:35,000 --> 00:50:36,500
+Yeah, yeah, tonighs ok.
+
+762
+00:50:36,800 --> 00:50:40,400
+Stop the car, les get
+this thing running properly.
+
+763
+00:50:54,200 --> 00:50:55,600
+There that sounds better.
+
+764
+00:50:57,500 --> 00:51:00,600
+- Let me drive.
+- Okay, come on.
+
+765
+00:51:00,800 --> 00:51:03,200
+She's singing
+like a bird now.
+
+766
+00:51:03,600 --> 00:51:05,800
+Oh, she's a good old girl,
+isn't she?
+
+767
+00:51:06,000 --> 00:51:07,400
+There we are, alright.
+
+768
+00:51:14,300 --> 00:51:17,600
+- You make a left here, Mr. Burt.
+- Alright.
+
+769
+00:51:21,400 --> 00:51:23,500
+The buggers are in the wrong lane.
+
+770
+00:51:23,700 --> 00:51:25,200
+Stop the car, stop the car.
+
+771
+00:51:27,400 --> 00:51:29,400
+Turn, turn, this way.
+
+772
+00:51:30,300 --> 00:51:31,900
+Stop, stop the car.
+
+773
+00:51:34,200 --> 00:51:36,000
+Keep your shirt on.
+
+774
+00:51:38,100 --> 00:51:41,400
+- Scoot over, you stupid old bastard.
+- Thought I was back in New Zealand...
+
+775
+00:51:41,400 --> 00:51:44,000
+we drive on the other side
+of the road over there.
+
+776
+00:51:44,300 --> 00:51:46,700
+Yeah? You're going to get
+us all killed.
+
+777
+00:51:48,200 --> 00:51:51,100
+Well, you're not in New Zealand,
+you're in America.
+
+778
+00:51:51,100 --> 00:51:53,900
+- I know it.
+- We drive on the right side of the road.
+
+779
+00:52:03,400 --> 00:52:06,500
+Burt.
+Let me give you some advice.
+
+780
+00:52:08,600 --> 00:52:11,300
+When you're driving,
+not only here in America...
+
+781
+00:52:11,400 --> 00:52:13,100
+but anywhere's around the world...
+
+782
+00:52:13,300 --> 00:52:16,600
+the driver should always
+be in the centre of the road.
+
+783
+00:52:17,000 --> 00:52:19,400
+In the centre.
+If you're not in the centre...
+
+784
+00:52:19,400 --> 00:52:22,300
+you're on the wrong side of the road.
+Okay?
+
+785
+00:52:32,100 --> 00:52:34,000
+You want this right here?
+
+786
+00:52:37,200 --> 00:52:38,400
+Thas it.
+
+787
+00:52:38,800 --> 00:52:40,000
+Yeah, good.
+
+788
+00:52:40,400 --> 00:52:41,500
+Got it.
+
+789
+00:52:42,000 --> 00:52:43,800
+Is 3 am in the morning.
+
+790
+00:52:44,000 --> 00:52:47,000
+Yeah, time flies
+when you're having fun, doesn't it?
+
+791
+00:52:48,000 --> 00:52:51,000
+You know, when I told you that
+you could use the workshop at night...
+
+792
+00:52:51,000 --> 00:52:53,000
+I didn't mean all night.
+My wife's gonna kill me.
+
+793
+00:52:53,600 --> 00:52:56,300
+You take yourself off home
+and I'll have a snooze...
+
+794
+00:52:56,300 --> 00:52:58,900
+in the back of the car
+and you know, mate...
+
+795
+00:52:59,100 --> 00:53:01,500
+I'll lock up the place
+before I go to sleep.
+
+796
+00:53:01,500 --> 00:53:05,000
+Seems to me a whole lot of effort
+to sell a lousy US$250 motorcar.
+
+797
+00:53:05,600 --> 00:53:08,500
+Okay, Mr. Burt, you pull the door down.
+Have a good night.
+
+798
+00:53:09,600 --> 00:53:14,400
+Fernando.
+Where do I take a leak around here?
+
+799
+00:53:15,200 --> 00:53:16,700
+- Leak?
+- Yeah, a pee...
+
+800
+00:53:17,000 --> 00:53:19,000
+trouble with the old prostrate,
+you know.
+
+801
+00:53:19,300 --> 00:53:22,600
+Yeah, go straight through those doors,
+there's a door there that says Caballero...
+
+802
+00:53:23,100 --> 00:53:24,000
+Alright.
+
+803
+00:53:25,000 --> 00:53:27,000
+Well, I'll see you in the morning,
+early okay?
+
+804
+00:53:27,100 --> 00:53:28,300
+Good night.
+
+805
+00:53:29,100 --> 00:53:29,900
+Where were we?
+
+806
+00:53:34,100 --> 00:53:34,700
+Burt?
+
+807
+00:53:37,000 --> 00:53:38,600
+Good morning, Mr. Burt.
+
+808
+00:53:42,100 --> 00:53:44,400
+- So did you get it all finished?
+- Yeah.
+
+809
+00:53:44,600 --> 00:53:48,700
+All I need to do is find a couple
+of wheels and I'll be ready to roll.
+
+810
+00:53:49,000 --> 00:53:51,900
+Well, you know, I have some wheels
+in the back you can have...
+
+811
+00:53:51,900 --> 00:53:54,200
+- if you just do me a favor.
+- Say the word.
+
+812
+00:53:57,600 --> 00:53:59,100
+Crank her now, Fernando.
+
+813
+00:54:00,200 --> 00:54:01,200
+Good.
+
+814
+00:54:02,800 --> 00:54:03,900
+- Burt?
+- Yeah?
+
+815
+00:54:04,300 --> 00:54:05,400
+You're a god damned genius.
+
+816
+00:54:05,600 --> 00:54:06,500
+Thank you.
+
+817
+00:54:06,700 --> 00:54:08,800
+Hey listen, why you gotta go?
+
+818
+00:54:09,000 --> 00:54:10,800
+Why don't you stick around here a while?
+I'll pay you well.
+
+819
+00:54:11,000 --> 00:54:13,300
+Sorry, mate, I've got to get
+to Bonneville by the 23rd...
+
+820
+00:54:13,500 --> 00:54:17,300
+thas when speed week starts and
+you know, gotta hit the road.
+
+821
+00:54:17,600 --> 00:54:20,600
+- Well, you've always got a job here.
+- Thanks mate, I'll see ya.
+
+822
+00:54:20,900 --> 00:54:22,600
+- Best of luck to you.
+- Ta ra.
+
+823
+00:54:23,800 --> 00:54:25,700
+This guy is really good.
+
+824
+00:54:37,400 --> 00:54:38,800
+Hello, love.
+
+825
+00:54:39,000 --> 00:54:40,800
+I was worried about you.
+
+826
+00:54:41,100 --> 00:54:44,100
+Housekeeping said you didn't
+sleep in your bed all night.
+
+827
+00:54:44,400 --> 00:54:45,900
+Do I get a discount for that?
+
+828
+00:54:46,500 --> 00:54:47,500
+I doubt it.
+
+829
+00:54:47,500 --> 00:54:50,000
+I need you to show me on a map
+how to get to Long Beach...
+
+830
+00:54:50,100 --> 00:54:53,000
+- so I can pick up my bike today.
+- I'm finished here in 15 minutes.
+
+831
+00:54:53,100 --> 00:54:54,100
+I'll come with you.
+
+832
+00:54:57,800 --> 00:55:00,700
+Not a bad set of wheels
+for 250 bucks eh?
+
+833
+00:55:00,800 --> 00:55:03,000
+- You sure ill make it to Utah?
+- Yeah.
+
+834
+00:55:03,600 --> 00:55:06,400
+This old girl will get you
+to New Zealand and back.
+
+835
+00:55:06,900 --> 00:55:08,000
+Here...
+
+836
+00:55:08,300 --> 00:55:10,100
+- hop in my fair, lady.
+- Thank you.
+
+837
+00:55:12,800 --> 00:55:15,200
+The bloke who sold me this car,
+he gave me a good tip...
+
+838
+00:55:15,300 --> 00:55:18,700
+he said always remember
+that the driver, thas me...
+
+839
+00:55:18,800 --> 00:55:21,300
+should be on the centre
+of the road.
+
+840
+00:55:21,400 --> 00:55:22,900
+- Look out, look out!
+- Alright.
+
+841
+00:55:23,200 --> 00:55:27,000
+In New Zealand we always drive
+on the other side of the street.
+
+842
+00:55:28,100 --> 00:55:30,200
+- You do?
+- Yeah, sorry about that.
+
+843
+00:55:31,800 --> 00:55:33,000
+Do you want me to drive?
+
+844
+00:55:33,000 --> 00:55:35,300
+No, is alright,
+I have to get used to it, haven't I?
+
+845
+00:55:38,500 --> 00:55:40,300
+This should be customs
+right here.
+
+846
+00:55:40,300 --> 00:55:41,300
+Right.
+
+847
+00:55:47,700 --> 00:55:49,600
+- Hello.
+- May I help you, sir?
+
+848
+00:55:49,800 --> 00:55:53,600
+Yeah, my name's Burt Munro and
+I've come to pick up my motorcycle...
+
+849
+00:55:53,900 --> 00:55:56,400
+I came into port two days ago
+from New Zealand...
+
+850
+00:55:56,700 --> 00:55:59,700
+and on a freighter
+called Rangatira...
+
+851
+00:55:59,900 --> 00:56:02,400
+and I was told to come here
+to clear it through customs.
+
+852
+00:56:03,700 --> 00:56:05,700
+- Mr. Munro.
+- Yeah, Munro...
+
+853
+00:56:06,000 --> 00:56:07,500
+M U N R O.
+
+854
+00:56:10,300 --> 00:56:12,500
+- Wait here a moment, sir.
+- Thank you.
+
+855
+00:56:16,000 --> 00:56:18,700
+Mr. Munro is here
+for that damaged shipment.
+
+856
+00:56:21,900 --> 00:56:23,900
+- Mr. Moonro.
+- Munro.
+
+857
+00:56:24,100 --> 00:56:26,600
+- Come with me please, to the storage area.
+- Is there a problem?
+
+858
+00:56:26,600 --> 00:56:28,600
+Your consignment
+has suffered some damage.
+
+859
+00:56:29,300 --> 00:56:30,600
+Oh, no.
+
+860
+00:56:31,200 --> 00:56:34,500
+Why the heck did I bother to paint
+these arrows on the side of it then?
+
+861
+00:56:35,400 --> 00:56:37,900
+Thas the way it was
+delivered here unfortunately.
+
+862
+00:56:37,900 --> 00:56:39,300
+Well, what happened to it?
+
+863
+00:56:39,500 --> 00:56:41,700
+My information is that
+ten tons of fertilizer...
+
+864
+00:56:41,700 --> 00:56:43,300
+was inadvertently
+loaded on top of your box...
+
+865
+00:56:43,400 --> 00:56:45,900
+while it was in the hold. If I was
+you I'd sue the shipping company.
+
+866
+00:56:46,000 --> 00:56:49,400
+Sue? I haven't got time to waste
+my bloomin' life suing anybody.
+
+867
+00:56:49,400 --> 00:56:51,600
+Get some of your blokes to pull...
+
+868
+00:56:51,600 --> 00:56:54,000
+this right side up so
+we can get into the motorcycle...
+
+869
+00:56:54,000 --> 00:56:56,400
+and see what damage
+has been done.
+
+870
+00:56:57,800 --> 00:56:59,800
+Alright, fellows,
+les get it unwrapped.
+
+871
+00:57:03,700 --> 00:57:05,000
+The tail looks alright.
+
+872
+00:57:10,100 --> 00:57:12,000
+No damage so far.
+
+873
+00:57:13,800 --> 00:57:15,400
+Oh no damage at all.
+
+874
+00:57:15,700 --> 00:57:16,700
+Good.
+
+875
+00:57:16,900 --> 00:57:19,900
+- Lucky it was packed so well.
+- Yes, is a blimmin' miracle.
+
+876
+00:57:22,000 --> 00:57:25,700
+Well, the old Indian lives
+to fight another day.
+
+877
+00:57:32,700 --> 00:57:34,300
+Well, thanks a million, Tina.
+
+878
+00:57:34,400 --> 00:57:36,900
+I don't know what I would have done
+without you today...
+
+879
+00:57:36,900 --> 00:57:38,600
+you're the real salt of the earth,
+you know?
+
+880
+00:57:39,000 --> 00:57:41,800
+Are you sure you wouldn't like
+to come home for dinner tonight?
+
+881
+00:57:41,800 --> 00:57:43,500
+- I can't, love.
+- I could cook you a meal.
+
+882
+00:57:43,600 --> 00:57:46,300
+I've got to get this show on the road,
+get out of Dodge as they say.
+
+883
+00:57:46,800 --> 00:57:49,000
+Okay, my good friend
+from Kiwi land.
+
+884
+00:57:49,200 --> 00:57:51,200
+- You stay in touch, won't you?
+- I will.
+
+885
+00:57:51,700 --> 00:57:53,100
+Here's my phone number.
+
+886
+00:57:53,500 --> 00:57:56,100
+- Call me and tell me how you're doing.
+- I will. Can I call collect?
+
+887
+00:57:56,800 --> 00:57:58,000
+You can try.
+
+888
+00:58:04,500 --> 00:58:07,400
+- Is a good job I think you're a woman.
+- I am a woman.
+
+889
+00:58:07,600 --> 00:58:10,000
+Yeah, right. Ta ra love, see ya.
+
+890
+00:58:37,900 --> 00:58:39,300
+- Morning.
+- Morning.
+
+891
+00:58:41,700 --> 00:58:43,300
+Fill her up, would you please?
+
+892
+00:58:43,400 --> 00:58:44,800
+Regular or Ethol?
+
+893
+00:58:45,900 --> 00:58:47,300
+Who's Ethol?
+
+894
+00:58:48,100 --> 00:58:49,600
+Alright...
+
+895
+00:58:50,200 --> 00:58:51,500
+I'll take Ethol.
+
+896
+00:58:57,600 --> 00:58:59,500
+- Hello, young fella.
+- Hello.
+
+897
+00:58:59,700 --> 00:59:02,200
+- Is this a rocket ship?
+- What?
+
+898
+00:59:02,400 --> 00:59:04,000
+Is this a rocket ship?
+
+899
+00:59:04,600 --> 00:59:05,800
+I hope so.
+
+900
+00:59:45,400 --> 00:59:46,500
+Oh Gosh.
+
+901
+00:59:53,300 --> 00:59:55,000
+Whas happened to you?
+
+902
+00:59:59,900 --> 01:00:00,900
+Oh well.
+
+903
+01:00:04,600 --> 01:00:06,100
+Les have a look at ya.
+
+904
+01:00:22,500 --> 01:00:23,700
+Got ya!
+
+905
+01:00:26,400 --> 01:00:27,600
+Come on!
+
+906
+01:00:38,900 --> 01:00:41,100
+I thought we were going
+to make it you and me...
+
+907
+01:00:42,100 --> 01:00:43,800
+and now look whas happened.
+
+908
+01:01:36,900 --> 01:01:38,800
+- Hello, mate.
+- Got a problem?
+
+909
+01:01:39,000 --> 01:01:40,900
+Yeah. Am I glad to see you.
+
+910
+01:01:41,200 --> 01:01:45,000
+Yeah, I've lost a wheel, help me get
+my rig back on the road, will you?
+
+911
+01:01:45,200 --> 01:01:46,700
+Okay, I'll see.
+
+912
+01:01:47,300 --> 01:01:49,400
+My name's Burt, Burt Munro.
+
+913
+01:01:50,500 --> 01:01:51,500
+Jake.
+
+914
+01:01:51,800 --> 01:01:53,500
+- You Indian?
+- Yes.
+
+915
+01:01:54,400 --> 01:01:57,500
+Well, this here could be
+the worls fastest Indian.
+
+916
+01:01:57,600 --> 01:01:59,200
+Well, at least until just now.
+
+917
+01:01:59,500 --> 01:02:01,100
+She's a bit heavy mind you.
+
+918
+01:02:01,300 --> 01:02:03,900
+So les take it easy,
+one, two, three.
+
+919
+01:02:05,600 --> 01:02:07,300
+Right.
+You live around here, Jake?
+
+920
+01:02:24,600 --> 01:02:27,200
+What do you want to ride
+that contraption for?
+
+921
+01:02:27,700 --> 01:02:29,200
+Thas a good question.
+
+922
+01:02:31,300 --> 01:02:35,100
+Well, I guess the reward
+is in the doing of it.
+
+923
+01:02:37,000 --> 01:02:40,100
+Jake, I'm dying for a pee.
+Where do I go?
+
+924
+01:02:40,300 --> 01:02:42,200
+There's a little building
+right there.
+
+925
+01:02:42,300 --> 01:02:44,800
+I've got a touch of prostrate
+trouble now.
+
+926
+01:02:45,100 --> 01:02:46,700
+I have similar problems.
+
+927
+01:02:47,400 --> 01:02:49,400
+I thought you blokes would have...
+
+928
+01:02:49,400 --> 01:02:51,400
+some magic cures
+for that sort of thing.
+
+929
+01:02:51,600 --> 01:02:52,900
+Well, we have.
+
+930
+01:02:53,500 --> 01:02:56,800
+One old remedy is ground up
+dog balls...
+
+931
+01:02:57,000 --> 01:03:00,300
+- but I prefer prostrate trouble.
+- Yeah, I bet you do, mate.
+
+932
+01:03:03,800 --> 01:03:05,000
+I got you!
+
+933
+01:03:06,900 --> 01:03:09,900
+Jake, gotta get going,
+gotta hit the road.
+
+934
+01:03:10,200 --> 01:03:12,800
+- Burt, I have something for you.
+- Whats that then?
+
+935
+01:03:14,400 --> 01:03:15,800
+Whats this?
+
+936
+01:03:16,200 --> 01:03:18,300
+- For good luck.
+- Oh yeah?
+
+937
+01:03:18,500 --> 01:03:22,100
+I've never worn jewellery before.
+Thanks, mate.
+
+938
+01:03:22,200 --> 01:03:24,600
+I've got something for you too,
+hang on about.
+
+939
+01:03:26,300 --> 01:03:27,400
+Right...
+
+940
+01:03:27,900 --> 01:03:29,100
+lets see.
+
+941
+01:03:33,100 --> 01:03:35,600
+I've got this, is a spare one,
+I made it myself.
+
+942
+01:03:36,400 --> 01:03:39,000
+- What do I do with this?
+- You got a hacksaw?
+
+943
+01:03:39,200 --> 01:03:41,700
+Just slice the top of it,
+through where the gudgeon pin goes...
+
+944
+01:03:41,700 --> 01:03:43,100
+and ill make a great ash tray.
+
+945
+01:03:43,200 --> 01:03:45,100
+Not that I approve of smoking,
+mind you.
+
+946
+01:03:45,200 --> 01:03:47,200
+- Thank you very much.
+- Thanks a lot, mate. So long.
+
+947
+01:03:47,200 --> 01:03:50,500
+- Sorry we couldn't fix your trailer.
+- Thas alright, I'll get there somehow.
+
+948
+01:03:51,100 --> 01:03:52,200
+Burt?
+
+949
+01:03:52,500 --> 01:03:53,800
+What?
+
+950
+01:03:54,100 --> 01:03:55,400
+For the prostrate.
+
+951
+01:03:55,800 --> 01:03:57,600
+Use with water,
+plenty of water.
+
+952
+01:03:58,300 --> 01:04:00,100
+It tastes bad. Really bad.
+
+953
+01:04:00,300 --> 01:04:01,800
+Dogs balls huh?
+
+954
+01:04:02,300 --> 01:04:04,500
+Well, thanks a lot mate.
+See ya.
+
+955
+01:05:06,300 --> 01:05:07,200
+Hello.
+
+956
+01:05:11,000 --> 01:05:12,400
+Anyone home?
+
+957
+01:05:20,800 --> 01:05:21,600
+Hello.
+
+958
+01:05:21,700 --> 01:05:23,000
+Hello, there.
+
+959
+01:05:25,800 --> 01:05:29,100
+I've got a spot of bother
+with my trailer, lost a wheel.
+
+960
+01:05:31,000 --> 01:05:33,900
+- You're not from around these parts.
+- No, I'm from down there.
+
+961
+01:05:34,700 --> 01:05:37,100
+- What?
+- I'm from down under...
+
+962
+01:05:37,500 --> 01:05:39,600
+The other side of the world,
+New Zealand.
+
+963
+01:05:39,700 --> 01:05:41,500
+Southern most city
+in the British Empire.
+
+964
+01:05:41,900 --> 01:05:43,300
+Called Invercargill.
+
+965
+01:05:43,500 --> 01:05:45,800
+One of the most beautiful
+cities on Earth.
+
+966
+01:05:46,500 --> 01:05:48,000
+Name's Burt Munro.
+
+967
+01:05:48,200 --> 01:05:49,600
+Burt? Ada.
+
+968
+01:05:49,800 --> 01:05:51,100
+- What?
+- Ada.
+
+969
+01:05:52,700 --> 01:05:53,800
+There she is.
+
+970
+01:06:00,500 --> 01:06:02,600
+We got some problems here,
+yes sirree.
+
+971
+01:06:03,700 --> 01:06:05,600
+I tell you what you need to do.
+
+972
+01:06:05,700 --> 01:06:09,200
+Cannibalize the stuffed axel
+out of that old Ford right there.
+
+973
+01:06:09,500 --> 01:06:11,400
+Lucky for you
+I've got some welding gear.
+
+974
+01:06:11,400 --> 01:06:13,600
+- We'll get a new wheel on there pronto.
+- Good.
+
+975
+01:06:23,200 --> 01:06:24,500
+Thas got it.
+
+976
+01:06:26,200 --> 01:06:27,600
+When you are...
+
+977
+01:06:28,700 --> 01:06:29,700
+finished there...
+
+978
+01:06:30,400 --> 01:06:32,800
+I've got something that
+I want to show you.
+
+979
+01:06:33,200 --> 01:06:34,700
+Yeah, whas that?
+
+980
+01:06:36,800 --> 01:06:38,200
+Never you mind.
+
+981
+01:06:38,500 --> 01:06:40,200
+You just get that wheel on
+there right.
+
+982
+01:06:53,400 --> 01:06:55,100
+Why'd you bring me out here?
+
+983
+01:06:55,300 --> 01:06:57,700
+I want to show you this.
+
+984
+01:06:58,500 --> 01:06:59,500
+What?
+
+985
+01:06:59,600 --> 01:07:00,700
+Right here.
+
+986
+01:07:07,300 --> 01:07:11,600
+I laid my old boy to rest
+twelve years ago next week.
+
+987
+01:07:11,800 --> 01:07:13,400
+I sure miss him.
+
+988
+01:07:13,600 --> 01:07:15,700
+I sure do miss the old boy.
+
+989
+01:07:16,700 --> 01:07:18,300
+He did his level best.
+
+990
+01:07:19,600 --> 01:07:20,900
+He did.
+
+991
+01:07:21,300 --> 01:07:23,500
+I always figured a man's
+like a blade of grass...
+
+992
+01:07:23,700 --> 01:07:26,300
+he grows up in the spring,
+strong and healthy and green...
+
+993
+01:07:26,500 --> 01:07:31,100
+and then he reaches middle age
+and he ripens as it were and...
+
+994
+01:07:32,200 --> 01:07:35,200
+in the autumn they,
+like a blade of grass...
+
+995
+01:07:35,500 --> 01:07:38,800
+he finishes just fades away
+and he never comes back.
+
+996
+01:07:39,400 --> 01:07:41,400
+Just like a blade of grass.
+
+997
+01:07:41,600 --> 01:07:44,400
+I think when you're dead,
+you're dead.
+
+998
+01:07:44,900 --> 01:07:47,700
+I've always thought that,
+since I grew up.
+
+999
+01:07:48,000 --> 01:07:50,200
+Is that your philosophy?
+
+1000
+01:07:50,400 --> 01:07:51,900
+Well, I don't know,
+yeah, I suppose it is...
+
+1001
+01:07:52,000 --> 01:07:56,800
+when you get to my age these
+thoughts cross your mind sometimes.
+
+1002
+01:07:58,300 --> 01:07:59,600
+Jump!
+
+1003
+01:08:00,300 --> 01:08:01,700
+Jump!
+
+1004
+01:08:02,300 --> 01:08:04,600
+Sideways, you fool,
+sideways!
+
+1005
+01:08:05,400 --> 01:08:08,100
+My God, man, haven't you ever
+seen a snake before?
+
+1006
+01:08:08,400 --> 01:08:10,000
+No, we don't get snakes
+in New Zealand.
+
+1007
+01:08:10,100 --> 01:08:12,200
+Good God,
+I ought to move there.
+
+1008
+01:08:13,100 --> 01:08:14,800
+- Where's he going?
+- Damn rattlers!
+
+1009
+01:08:15,400 --> 01:08:18,300
+- Any more around here? Oh, God.
+- Fancy this?
+
+1010
+01:08:18,600 --> 01:08:23,100
+You come all this way
+to bite the dust up at Boot Hill?
+
+1011
+01:08:24,900 --> 01:08:27,300
+That would be a laugh,
+wouldn't it?
+
+1012
+01:08:27,600 --> 01:08:29,000
+Be a laugh.
+
+1013
+01:08:29,200 --> 01:08:30,400
+There you go, there you go.
+
+1014
+01:08:31,900 --> 01:08:33,000
+Oh, my God!
+
+1015
+01:08:39,600 --> 01:08:41,500
+Where you gonna sleep tonight?
+
+1016
+01:08:43,300 --> 01:08:45,200
+I don't know, I've no idea.
+
+1017
+01:08:48,000 --> 01:08:48,900
+I don't know.
+
+1018
+01:09:09,100 --> 01:09:11,200
+I had a strange dream
+last night.
+
+1019
+01:09:13,500 --> 01:09:15,300
+I dreamt about my late...
+
+1020
+01:09:16,600 --> 01:09:19,100
+twin brother, Ernie.
+
+1021
+01:09:21,000 --> 01:09:24,400
+I thought he was in the room here
+looking down on us.
+
+1022
+01:09:26,500 --> 01:09:30,200
+I guess is all
+that fun and games...
+
+1023
+01:09:30,200 --> 01:09:32,200
+at the graveyard.
+
+1024
+01:09:35,300 --> 01:09:36,500
+I suppose.
+
+1025
+01:09:36,800 --> 01:09:37,800
+Oh, well.
+
+1026
+01:09:38,700 --> 01:09:42,600
+Getting old ain't for the faint
+of heart I'll tell you that.
+
+1027
+01:09:42,700 --> 01:09:45,200
+Oh, God. What have you done
+to my back, Ada?
+
+1028
+01:09:49,000 --> 01:09:50,400
+I am getting old.
+
+1029
+01:09:52,400 --> 01:09:55,800
+Come on old girl, make me a cup of tea,
+I've got to hit the road.
+
+1030
+01:09:56,500 --> 01:09:59,800
+Ada, come on, you haven't died
+in our sleep, have you, old girl?
+
+1031
+01:10:00,100 --> 01:10:03,100
+- Make me a cup of tea.
+- Come here, lover boy.
+
+1032
+01:10:03,700 --> 01:10:05,300
+I'll make it myself.
+
+1033
+01:10:05,800 --> 01:10:07,100
+Thanks.
+
+1034
+01:10:11,100 --> 01:10:14,200
+Now Burt, you promise me you're going
+to pop in on your way back...
+
+1035
+01:10:14,400 --> 01:10:17,300
+because I can always use
+another little cuddle.
+
+1036
+01:10:17,300 --> 01:10:19,800
+Yeah, thas what I said, Ada,
+thas what I intend to do.
+
+1037
+01:10:20,000 --> 01:10:23,100
+There's many good tune played on
+an old Banjo as they say.
+
+1038
+01:10:23,500 --> 01:10:27,100
+- And what we don't use, we lose.
+- Well, thas what they say.
+
+1039
+01:10:28,100 --> 01:10:29,400
+See ya. Ta ra, darling.
+
+1040
+01:10:29,900 --> 01:10:33,700
+And you have good luck
+with your Indian.
+
+1041
+01:10:33,900 --> 01:10:35,700
+You should say
+break a leg.
+
+1042
+01:10:37,400 --> 01:10:38,500
+See ya.
+
+1043
+01:10:58,700 --> 01:10:59,700
+Gidday.
+
+1044
+01:11:00,200 --> 01:11:01,700
+Boy is it hot out there.
+
+1045
+01:11:03,600 --> 01:11:05,300
+I bet the birds fly backwards
+around here...
+
+1046
+01:11:05,400 --> 01:11:07,800
+to keep the dust out
+of their eyes.
+
+1047
+01:11:08,000 --> 01:11:11,600
+- What can I get you?
+- I'd like a cup of tea, please.
+
+1048
+01:11:11,900 --> 01:11:13,700
+- Cup of tea?
+- Yeah, best drink...
+
+1049
+01:11:13,700 --> 01:11:16,600
+for quenching the thirst
+when the weather's hot.
+
+1050
+01:11:17,000 --> 01:11:19,500
+We haven't seen a cup of tea
+in here ever.
+
+1051
+01:11:19,800 --> 01:11:23,700
+We got Coors, we got Schlitz
+or Miller or Coke and whiskey.
+
+1052
+01:11:25,900 --> 01:11:28,000
+Well, I'll have coke then.
+
+1053
+01:11:32,500 --> 01:11:35,100
+You know smoking's bad for you,
+don't you?
+
+1054
+01:11:35,800 --> 01:11:37,700
+- Is that so?
+- Yeah.
+
+1055
+01:11:37,900 --> 01:11:40,300
+Personally I don't smoke
+and I don't drink.
+
+1056
+01:11:40,500 --> 01:11:42,700
+I had the right education
+from my dad on that one.
+
+1057
+01:11:42,900 --> 01:11:46,800
+He was like King James the first,
+great anti-smoking man.
+
+1058
+01:11:47,600 --> 01:11:50,100
+Sounds like you're on a one
+man crusade there grandpa.
+
+1059
+01:11:50,400 --> 01:11:53,700
+Yeah, well, you're born with one
+pair of lungs so why destroy...
+
+1060
+01:11:53,700 --> 01:11:55,300
+them with that muck?
+
+1061
+01:11:56,300 --> 01:11:57,900
+Where are you from?
+Where's your home town?
+
+1062
+01:11:58,400 --> 01:12:00,400
+- You English?
+- Heavens no...
+
+1063
+01:12:00,600 --> 01:12:03,500
+I'm no Pommie,
+I'm from Invercargill in New Zealand.
+
+1064
+01:12:03,800 --> 01:12:05,900
+- Where?
+- Invercargill.
+
+1065
+01:12:06,200 --> 01:12:09,900
+L-N-V-E-R-C-A-R-G-l-L-L.
+
+1066
+01:12:10,100 --> 01:12:14,000
+I spell it with one L
+sometimes to save ink.
+
+1067
+01:12:17,100 --> 01:12:21,300
+- Got any of those critters over there?
+- Oh yes, much bigger though...
+
+1068
+01:12:21,500 --> 01:12:23,900
+we breed them down there
+on big farms...
+
+1069
+01:12:24,400 --> 01:12:27,400
+and we cut off their antlers and
+send them over to Hong Kong and they...
+
+1070
+01:12:27,500 --> 01:12:31,100
+grind the antlers into dust
+and they eat that stuff...
+
+1071
+01:12:32,100 --> 01:12:35,100
+must be some sort of aphrodisiac
+or something.
+
+1072
+01:12:35,900 --> 01:12:37,700
+Puts lead in your pencil.
+
+1073
+01:12:38,400 --> 01:12:41,000
+You could do with some
+of that, Leroy.
+
+1074
+01:12:44,000 --> 01:12:45,600
+Your girlfriend?
+
+1075
+01:12:46,200 --> 01:12:47,200
+Wife.
+
+1076
+01:12:48,900 --> 01:12:50,300
+Oh, dear!
+
+1077
+01:12:56,200 --> 01:12:57,500
+You alright?
+
+1078
+01:13:31,600 --> 01:13:34,600
+Did you decide to leave Jackie
+a tip after all?
+
+1079
+01:13:39,100 --> 01:13:42,000
+Look sir, if you're not feeling well
+you should drop in to the hospital...
+
+1080
+01:13:42,000 --> 01:13:43,200
+in the next town.
+
+1081
+01:13:44,200 --> 01:13:45,400
+Alright.
+
+1082
+01:14:23,600 --> 01:14:25,100
+Roll down your window.
+
+1083
+01:14:25,300 --> 01:14:26,500
+What?
+
+1084
+01:14:31,100 --> 01:14:32,300
+Whas the problem?
+
+1085
+01:14:32,500 --> 01:14:34,400
+You're parked illegally.
+
+1086
+01:14:34,900 --> 01:14:37,900
+- You're a danger to the passing traffic.
+- Am I?
+
+1087
+01:14:38,500 --> 01:14:41,100
+- Les see your driver's license.
+- Yeah, alright.
+
+1088
+01:14:43,700 --> 01:14:44,800
+Here you are.
+
+1089
+01:14:51,900 --> 01:14:54,000
+- Where are you from?
+- From New Zealand.
+
+1090
+01:14:54,300 --> 01:14:58,200
+Thas the land of the
+long white cloud. Aotearoa.
+
+1091
+01:14:58,600 --> 01:15:00,200
+Home of the kiwi bird.
+
+1092
+01:15:00,500 --> 01:15:03,600
+Well, I don't care if you're from Mars,
+you cannot stop here.
+
+1093
+01:15:04,000 --> 01:15:05,000
+Alright.
+
+1094
+01:15:05,000 --> 01:15:08,700
+You cannot stop on the side of this road,
+you're parked illegally.
+
+1095
+01:15:08,800 --> 01:15:13,300
+Okay, well, sorry, I was having
+a bit of a heart attack and...
+
+1096
+01:15:13,800 --> 01:15:15,700
+well recovering
+from one anyway.
+
+1097
+01:15:16,000 --> 01:15:18,400
+Yeah, well, next time,
+how about we stop at a proper rest area.
+
+1098
+01:15:18,600 --> 01:15:20,000
+Yeah, alright, okay.
+
+1099
+01:15:20,300 --> 01:15:23,400
+Name's Burt Munro.
+Sorry about that.
+
+1100
+01:15:30,800 --> 01:15:32,300
+Oil's OK.
+
+1101
+01:15:32,500 --> 01:15:34,100
+- Thank you.
+- Thas alright, sir.
+
+1102
+01:15:34,600 --> 01:15:35,700
+Excuse me.
+
+1103
+01:15:36,000 --> 01:15:37,300
+- Hi, there.
+- Hi.
+
+1104
+01:15:37,400 --> 01:15:40,800
+Listen, I was wondering
+if I could catch a ride?
+
+1105
+01:15:41,000 --> 01:15:44,900
+My car, she just broke down and I'm
+really trying to get to Salt Lake City.
+
+1106
+01:15:45,400 --> 01:15:48,100
+I'm only going as far as Wendover,
+thas where I'm stopping.
+
+1107
+01:15:48,300 --> 01:15:50,400
+Well, anything would be
+better than nothing.
+
+1108
+01:15:50,400 --> 01:15:53,500
+- Ain't that the truth? Hop in, mate.
+- Hey, thank you.
+
+1109
+01:15:55,400 --> 01:15:58,000
+I'm going to go see
+my girlfriend...
+
+1110
+01:15:58,200 --> 01:16:00,400
+she just moved from LA
+to Salt Lake, so.
+
+1111
+01:16:01,400 --> 01:16:03,600
+I'm home on leave from 'Nam.
+
+1112
+01:16:03,900 --> 01:16:05,300
+- What?
+- Vietnam?
+
+1113
+01:16:05,500 --> 01:16:06,700
+Oh, yeah.
+
+1114
+01:16:07,200 --> 01:16:09,800
+Hey, what is that you've
+got strapped on back there?
+
+1115
+01:16:10,200 --> 01:16:13,500
+That, young fellow,
+is an Indian.
+
+1116
+01:16:15,000 --> 01:16:16,000
+Motorcycle.
+
+1117
+01:16:17,200 --> 01:16:19,000
+So what are you doing
+in Vietnam?
+
+1118
+01:16:19,100 --> 01:16:21,000
+I'm involved
+in operation ranch hand.
+
+1119
+01:16:21,300 --> 01:16:23,800
+Oh, whas that?
+Farming or something?
+
+1120
+01:16:24,200 --> 01:16:27,000
+No, not exactly,
+we just started this program...
+
+1121
+01:16:27,400 --> 01:16:31,100
+we are spraying the jungle
+from the air with herbicides...
+
+1122
+01:16:31,300 --> 01:16:34,500
+so the enemy, the Vietcong,
+don't have any place to hide.
+
+1123
+01:16:34,900 --> 01:16:39,100
+Agent Orange we call this stuff,
+it comes in these big old orange drums.
+
+1124
+01:16:41,100 --> 01:16:43,000
+How is it working out?
+
+1125
+01:16:44,100 --> 01:16:48,200
+Well, I'm home on two months leave
+and I've got to get my arse back there.
+
+1126
+01:16:48,400 --> 01:16:52,500
+We should have this war done in 6 months
+or so, thas what they keep telling us.
+
+1127
+01:16:52,700 --> 01:16:55,100
+Can't wait to get my arse out of there
+to tell you the truth.
+
+1128
+01:16:55,400 --> 01:16:58,900
+Yeah, I remember
+the Great War in 1914...
+
+1129
+01:16:59,200 --> 01:17:03,500
+I was about your age and
+thas what they kept telling everyone.
+
+1130
+01:17:04,400 --> 01:17:06,300
+Soon be over.
+
+1131
+01:17:06,600 --> 01:17:09,700
+20 million dead and four years later
+it was still going on.
+
+1132
+01:17:10,800 --> 01:17:13,300
+Not as bad
+as the big flu epidemic though.
+
+1133
+01:17:14,000 --> 01:17:17,000
+Killed 21 million, that did.
+Maybe more.
+
+1134
+01:17:17,900 --> 01:17:19,800
+Every day,
+when I left to go to work...
+
+1135
+01:17:19,900 --> 01:17:23,200
+my mum would spray some formalin
+on my shirt...
+
+1136
+01:17:24,300 --> 01:17:26,900
+and maybe thas why
+I didn't catch it.
+
+1137
+01:17:27,500 --> 01:17:30,200
+Or maybe I was just lucky.
+You never know.
+
+1138
+01:17:32,400 --> 01:17:34,400
+- Knock on wood.
+- Yep.
+
+1139
+01:17:36,500 --> 01:17:38,300
+You know,
+life's a funny thing...
+
+1140
+01:17:38,300 --> 01:17:40,600
+you never know
+whas around the corner, do you?
+
+1141
+01:17:43,000 --> 01:17:44,500
+Your shaving brush.
+
+1142
+01:17:45,500 --> 01:17:46,700
+Has had is day.
+
+1143
+01:17:47,100 --> 01:17:49,000
+It won't achieve.
+
+1144
+01:17:49,800 --> 01:17:51,400
+The Modern way.
+
+1145
+01:17:53,300 --> 01:17:55,100
+Burma Shave.
+
+1146
+01:17:56,900 --> 01:18:00,100
+"She doesn't kiss ya
+like she used to?
+
+1147
+01:18:00,500 --> 01:18:03,600
+Has she seen
+some smoother rooster?
+
+1148
+01:18:04,600 --> 01:18:06,100
+Burma Shave.
+
+1149
+01:18:06,600 --> 01:18:09,800
+These signs we dedicate...
+
+1150
+01:18:10,400 --> 01:18:11,600
+to men...
+
+1151
+01:18:11,800 --> 01:18:14,600
+who've had no date of late.
+
+1152
+01:18:15,200 --> 01:18:16,700
+Burma Shave".
+
+1153
+01:18:17,300 --> 01:18:20,200
+Yeah, thas us.
+Well, you anyway.
+
+1154
+01:18:26,700 --> 01:18:28,300
+Look at that.
+
+1155
+01:18:28,700 --> 01:18:30,900
+Thas a cowboy and a half.
+
+1156
+01:18:33,500 --> 01:18:35,500
+I was thinking I'd come out
+to the Salt with you.
+
+1157
+01:18:35,600 --> 01:18:37,600
+I'd like to be there
+the first time you see it...
+
+1158
+01:18:37,600 --> 01:18:39,400
+is only a couple of miles
+up the road so.
+
+1159
+01:18:39,400 --> 01:18:41,300
+Yeah, alright then,
+that sounds good.
+
+1160
+01:18:41,600 --> 01:18:44,100
+Looks like there's a lot of people
+in town for speed week, huh?
+
+1161
+01:18:44,400 --> 01:18:45,800
+Yeah, looks like it.
+
+1162
+01:18:48,600 --> 01:18:51,900
+This is it, Burt.
+We're gonna take a left right up here.
+
+1163
+01:19:04,200 --> 01:19:05,700
+Bonneville...
+
+1164
+01:19:06,200 --> 01:19:07,700
+I mean I can't believe it.
+
+1165
+01:19:08,000 --> 01:19:10,300
+I mean I'm here, I've made it.
+
+1166
+01:19:11,700 --> 01:19:13,000
+I've made it.
+
+1167
+01:19:41,000 --> 01:19:43,900
+You know, all my life
+I wanted to do something big.
+
+1168
+01:19:45,000 --> 01:19:47,500
+Something better and bigger
+than all the other jokers.
+
+1169
+01:19:49,400 --> 01:19:50,900
+This is it, Bonneville.
+
+1170
+01:19:52,100 --> 01:19:55,800
+This is the place
+where big things happen.
+
+1171
+01:19:59,300 --> 01:20:03,100
+Do you realize, Rusty, the fastest
+man has ever gone on land is here?
+
+1172
+01:20:04,300 --> 01:20:06,000
+Right here, where we are now.
+
+1173
+01:20:09,600 --> 01:20:13,000
+Malcolm Campbell did it here,
+with a Bluebird.
+
+1174
+01:20:13,900 --> 01:20:16,000
+First guy to go
+over 300 mile an hour...
+
+1175
+01:20:16,100 --> 01:20:19,100
+and then later his son, Donald Campbell
+was here with Proteus.
+
+1176
+01:20:19,200 --> 01:20:23,000
+He crashed at 350 mile an hour
+and lived to tell the tale.
+
+1177
+01:20:24,900 --> 01:20:26,400
+John Cobb was here.
+
+1178
+01:20:27,500 --> 01:20:30,500
+First guy
+to go over 400 mile an hour.
+
+1179
+01:20:31,500 --> 01:20:33,500
+All the great attempts.
+
+1180
+01:20:34,000 --> 01:20:36,800
+George Easton with Thunderbolt and...
+
+1181
+01:20:37,300 --> 01:20:40,300
+Mickey Thompson
+with Challenger.
+
+1182
+01:20:43,600 --> 01:20:46,300
+I'm telling you, Rusty,
+this place is holy ground, mate.
+
+1183
+01:20:47,700 --> 01:20:48,900
+Holy ground.
+
+1184
+01:20:50,400 --> 01:20:52,500
+And I made it here.
+
+1185
+01:21:21,800 --> 01:21:23,000
+Well, Burt.
+
+1186
+01:21:23,600 --> 01:21:24,700
+Thanks a million.
+
+1187
+01:21:25,000 --> 01:21:26,300
+I'll be looking for you
+in the record books.
+
+1188
+01:21:26,400 --> 01:21:28,800
+You take care out there in Vietnam,
+won't you?
+
+1189
+01:21:28,800 --> 01:21:29,800
+I'll be trying.
+
+1190
+01:21:30,300 --> 01:21:31,600
+- Okay, mate.
+- Drive safe.
+
+1191
+01:21:31,900 --> 01:21:33,400
+- See ya
+- See ya.
+
+1192
+01:22:51,300 --> 01:22:52,400
+God.
+
+1193
+01:23:20,500 --> 01:23:21,900
+Jesus.
+
+1194
+01:23:54,700 --> 01:23:56,300
+- Gidday.
+- Hey, there.
+
+1195
+01:23:59,300 --> 01:24:01,200
+- Is going to be a great day.
+- Yeah.
+
+1196
+01:24:01,700 --> 01:24:04,200
+Still... no wind.
+
+1197
+01:24:04,900 --> 01:24:06,500
+Lovely day for a run.
+
+1198
+01:24:08,300 --> 01:24:10,000
+Sals in good shape.
+
+1199
+01:24:10,000 --> 01:24:11,800
+Yeah. Firm and dry.
+
+1200
+01:24:12,100 --> 01:24:14,300
+Dead flat. No soft patches.
+
+1201
+01:24:14,900 --> 01:24:16,600
+Not like the beach.
+
+1202
+01:24:17,700 --> 01:24:19,600
+I can do it here.
+
+1203
+01:24:20,200 --> 01:24:21,300
+Yep.
+
+1204
+01:24:21,900 --> 01:24:24,200
+This week.
+Is what we're here for.
+
+1205
+01:24:28,900 --> 01:24:30,000
+Wow, is that yours?
+
+1206
+01:24:31,100 --> 01:24:32,000
+Yep.
+
+1207
+01:24:32,900 --> 01:24:34,700
+Gosh, she's a beauty.
+
+1208
+01:24:35,700 --> 01:24:37,700
+I bet she goes fast.
+
+1209
+01:24:38,600 --> 01:24:41,000
+- That yours?
+- Yeah, thas an old Indian.
+
+1210
+01:24:41,700 --> 01:24:43,500
+My name's Munro, Burt Munro.
+
+1211
+01:24:43,700 --> 01:24:46,600
+- From down under, New Zealand.
+- A long way from home.
+
+1212
+01:24:46,800 --> 01:24:49,300
+Jim Moffatt, San Jose,
+California.
+
+1213
+01:24:49,500 --> 01:24:51,300
+- Nice to meet you, Burt.
+- Good to meet you, Jim.
+
+1214
+01:24:51,500 --> 01:24:53,300
+<i>Les get to the start line.</i>
+
+1215
+01:24:53,600 --> 01:24:58,200
+<i>The race is about to start
+and all the racers are excited.</i>
+
+1216
+01:24:58,600 --> 01:25:02,600
+This car is driven by Jim Moffatt,
+San Jose, California.
+
+1217
+01:25:02,900 --> 01:25:06,300
+The other pilots are...
+
+1218
+01:25:16,800 --> 01:25:19,300
+- Come on, guys, 15 minutes.
+- Come on.
+
+1219
+01:25:19,800 --> 01:25:21,500
+Come on, les go.
+
+1220
+01:25:30,000 --> 01:25:32,000
+- Morning.
+- Hello, Burt Munro.
+
+1221
+01:25:32,300 --> 01:25:33,700
+- Mike.
+- Hi, Mike.
+
+1222
+01:25:34,700 --> 01:25:37,100
+- Are you checked in?
+- No, not yet.
+
+1223
+01:25:38,100 --> 01:25:41,900
+Well, you've got to remove the shell
+before we do the tech inspection.
+
+1224
+01:25:42,100 --> 01:25:44,400
+- Where do I check in?
+- Is just over there.
+
+1225
+01:25:44,600 --> 01:25:46,500
+- Thanks, fellas.
+- Okay.
+
+1226
+01:25:48,900 --> 01:25:50,100
+I gotta see this.
+
+1227
+01:25:50,400 --> 01:25:54,000
+Hello, I've come to check in.
+Munro, Burt Munro.
+
+1228
+01:25:54,300 --> 01:25:55,900
+Registration number?
+
+1229
+01:25:56,700 --> 01:25:57,900
+What?
+
+1230
+01:25:58,100 --> 01:26:01,000
+Registration number.
+I don't see your number here.
+
+1231
+01:26:01,200 --> 01:26:04,100
+No, is number 35.
+
+1232
+01:26:04,300 --> 01:26:08,200
+Is on the side of my motorcycle
+over there, thas my lucky number.
+
+1233
+01:26:08,500 --> 01:26:09,800
+Have you registered?
+
+1234
+01:26:11,400 --> 01:26:13,900
+No, thas what
+I've come over for.
+
+1235
+01:26:13,900 --> 01:26:16,200
+These two blokes sent me over here,
+Mike and someone else.
+
+1236
+01:26:16,500 --> 01:26:18,900
+Sir, registration closed
+last month.
+
+1237
+01:26:19,100 --> 01:26:22,500
+If you haven't registered,
+I'm sorry, you just can't run.
+
+1238
+01:26:25,400 --> 01:26:27,100
+I can't run?
+
+1239
+01:26:28,500 --> 01:26:31,700
+Well, how was I supposed to know
+I should have pre-registered?
+
+1240
+01:26:31,700 --> 01:26:34,200
+I've come a heck of a long way
+to ride my bike.
+
+1241
+01:26:34,200 --> 01:26:36,100
+I'm not going anywhere
+until I've done just that.
+
+1242
+01:26:36,100 --> 01:26:39,000
+I've come all the way from New Zealand,
+you know. Is a long way.
+
+1243
+01:26:39,400 --> 01:26:41,000
+Look, mister,
+we don't make the rules.
+
+1244
+01:26:41,300 --> 01:26:44,700
+An event like this doesn't just happen
+in one day, rules are rules.
+
+1245
+01:26:44,700 --> 01:26:46,700
+Entries closed July 31st.
+
+1246
+01:26:46,700 --> 01:26:50,500
+Well, crikey, I live in Invercargill,
+is half way round the bloody earth.
+
+1247
+01:26:51,000 --> 01:26:53,700
+How was I supposed to know these things?
+I didn't know all this stuff.
+
+1248
+01:26:53,700 --> 01:26:55,000
+Sir, is not our problem.
+
+1249
+01:26:55,100 --> 01:26:58,100
+I thought I could just turn up here
+and have my bike timed.
+
+1250
+01:26:58,100 --> 01:27:00,300
+- You don't have to call me...
+- Well, you thought wrong.
+
+1251
+01:27:10,000 --> 01:27:12,100
+Jim Moffatt!
+
+1252
+01:27:12,600 --> 01:27:14,900
+Is Burt, Burt Munro.
+Can you come over here, mate?
+
+1253
+01:27:15,700 --> 01:27:17,000
+I'll be right back.
+
+1254
+01:27:17,800 --> 01:27:19,400
+I need a bit of help.
+
+1255
+01:27:19,700 --> 01:27:21,200
+Hey, Burt. Whas up?
+
+1256
+01:27:21,600 --> 01:27:25,300
+Well, I have these blokes telling
+me I can't run my bike...
+
+1257
+01:27:25,500 --> 01:27:27,500
+because I'm not pre-registered.
+
+1258
+01:27:27,800 --> 01:27:30,300
+- You didn't register?
+- No, I didn't know anything about it.
+
+1259
+01:27:30,400 --> 01:27:32,900
+You know how it is Jim,
+rules are rules.
+
+1260
+01:27:33,200 --> 01:27:36,300
+- You should have registered months ago.
+- I didn't know.
+
+1261
+01:27:37,800 --> 01:27:40,300
+I'll have a talk with these guys later,
+see if I can change their minds.
+
+1262
+01:27:40,500 --> 01:27:43,900
+- Your bloos worth bottling.
+- I don't know about that.
+
+1263
+01:27:44,100 --> 01:27:46,100
+Look,
+we can talk about this later.
+
+1264
+01:27:46,100 --> 01:27:47,900
+Maybe you can let him go
+through tech inspection.
+
+1265
+01:27:48,100 --> 01:27:51,500
+Get that out of the way?
+Just in case we can let him ride.
+
+1266
+01:27:52,400 --> 01:27:54,200
+You're asking a lot.
+
+1267
+01:27:55,400 --> 01:27:56,500
+Alright.
+
+1268
+01:28:00,500 --> 01:28:02,000
+- Okay.
+- Alright.
+
+1269
+01:28:02,300 --> 01:28:04,400
+- Make me proud.
+- Thanks a lot.
+
+1270
+01:28:04,700 --> 01:28:06,700
+You give me a bit
+of a fright there.
+
+1271
+01:28:11,500 --> 01:28:14,400
+You know these don't look
+like high speed tyres.
+
+1272
+01:28:14,700 --> 01:28:16,300
+Well, they are high speed tyres.
+
+1273
+01:28:17,100 --> 01:28:20,400
+Look at these hairline cracks,
+these tyres have got to be 25 years old.
+
+1274
+01:28:20,800 --> 01:28:22,500
+- What happened to the tread?
+- What?
+
+1275
+01:28:22,700 --> 01:28:24,800
+I said,
+what happened to the tread?
+
+1276
+01:28:24,800 --> 01:28:26,200
+Well, I cut it off,
+thas what happened to the tread...
+
+1277
+01:28:26,300 --> 01:28:27,700
+I cut it off with a carving knife...
+
+1278
+01:28:27,700 --> 01:28:30,100
+otherwise it wouldn't be
+a high speed tyre, would it?
+
+1279
+01:28:30,500 --> 01:28:31,900
+What are you talking about?
+
+1280
+01:28:31,900 --> 01:28:35,100
+Well, you've got to keep the weight in
+otherwise when you get to a high speed...
+
+1281
+01:28:35,100 --> 01:28:37,400
+the centrifugal force will
+the tread right off, wouldn't it?
+
+1282
+01:28:37,800 --> 01:28:41,700
+I run them on 65 pounds of air and
+that tyre's safe up to 300 miles an hour.
+
+1283
+01:28:41,900 --> 01:28:44,300
+I guarantee it. These are high
+speed tyres and I made them.
+
+1284
+01:28:44,500 --> 01:28:46,400
+Well, you're going to have
+to replace them.
+
+1285
+01:28:46,700 --> 01:28:48,300
+The suspension here is
+a leaf spring...
+
+1286
+01:28:48,600 --> 01:28:49,700
+I mean can we pass that?
+
+1287
+01:28:50,000 --> 01:28:53,000
+Geez, last leaf spring on a motorcycle
+must have been in the 1920s.
+
+1288
+01:28:53,300 --> 01:28:54,600
+Well, it is 42 years old.
+
+1289
+01:28:54,900 --> 01:28:58,800
+- These brakes look completely inadequate.
+- Well, I'm planning on going, not stopping.
+
+1290
+01:28:58,900 --> 01:29:01,800
+Well, the brakes were old
+fashioned 40 years ago.
+
+1291
+01:29:02,500 --> 01:29:04,300
+Is this a hinge of a gate post?
+
+1292
+01:29:04,500 --> 01:29:06,600
+No, thas from an old kitchen door.
+
+1293
+01:29:08,500 --> 01:29:12,200
+Let me just ask you what is this?
+
+1294
+01:29:12,400 --> 01:29:15,400
+Is a cork, what does it look like?
+Is a cork from a brandy bottle.
+
+1295
+01:29:15,600 --> 01:29:20,000
+You know, the thing is is all about
+weight. The less weight, the faster you go.
+
+1296
+01:29:20,100 --> 01:29:21,200
+And where's your chute?
+
+1297
+01:29:21,400 --> 01:29:23,300
+- What?
+- Where's your parachute?
+
+1298
+01:29:23,400 --> 01:29:25,300
+I'm not planning on bailing out.
+
+1299
+01:29:25,400 --> 01:29:27,800
+No wait,
+you've got to have a safety chute.
+
+1300
+01:29:27,800 --> 01:29:29,300
+Well, I can't afford one.
+
+1301
+01:29:29,300 --> 01:29:32,000
+These forks, if they give out we've
+got ourselves some real problems.
+
+1302
+01:29:32,200 --> 01:29:34,500
+I think I'd have a bit of
+a problem that way, wouldn't I?
+
+1303
+01:29:35,200 --> 01:29:36,700
+- Where's your fire suit?
+- What?
+
+1304
+01:29:37,000 --> 01:29:38,400
+Where's your fire suit?
+
+1305
+01:29:38,400 --> 01:29:40,800
+Good heavens, man,
+I don't intend to burst into flames.
+
+1306
+01:29:41,000 --> 01:29:43,800
+Always wear me old suit pants
+for good luck.
+
+1307
+01:29:43,800 --> 01:29:45,300
+If they were good enough
+to get married in...
+
+1308
+01:29:45,300 --> 01:29:47,600
+they're good enough to ride
+this old girl in and no...
+
+1309
+01:29:47,900 --> 01:29:50,000
+I tuck the legs of my pants
+into my socks like this...
+
+1310
+01:29:50,200 --> 01:29:53,300
+stop them getting caught
+in the chain and Bob's your uncle.
+
+1311
+01:29:53,700 --> 01:29:56,000
+You've got your suit pants,
+what are you gonna wear on top?
+
+1312
+01:29:56,000 --> 01:29:56,800
+What?
+
+1313
+01:29:56,900 --> 01:29:59,900
+You've got your suit pants,
+what do you intend to wear on top?
+
+1314
+01:30:00,100 --> 01:30:04,500
+Yes, a black woolen shirt, New Zealand
+wool, water resistant, fire resistant...
+
+1315
+01:30:04,600 --> 01:30:06,200
+and me bash hat.
+
+1316
+01:30:06,900 --> 01:30:08,400
+Bash hat?
+
+1317
+01:30:09,100 --> 01:30:10,100
+Yeah, crash helmet.
+
+1318
+01:30:10,100 --> 01:30:13,600
+You're crazy, you've got to wear
+at least a leather jacket on top.
+
+1319
+01:30:13,600 --> 01:30:16,700
+You put the bike down on the salt,
+is like coarse sand paper...
+
+1320
+01:30:16,700 --> 01:30:18,100
+is going to rub
+your head right off.
+
+1321
+01:30:18,100 --> 01:30:19,900
+I couldn't get into the shell...
+
+1322
+01:30:19,900 --> 01:30:23,000
+with anything bulkier than the shirt on
+my back. Is a very tight fit in there.
+
+1323
+01:30:23,200 --> 01:30:24,300
+Straight out of the ark.
+
+1324
+01:30:25,400 --> 01:30:27,400
+- What did you say?
+- Straight out of the ark.
+
+1325
+01:30:27,600 --> 01:30:30,500
+Don't be so cheeky.
+Whas your name, young man?
+
+1326
+01:30:31,100 --> 01:30:33,000
+McFarlane. Mike McFarlane.
+
+1327
+01:30:33,200 --> 01:30:36,300
+I knew a McFarlane, he used to sell
+milking machines in Timaru.
+
+1328
+01:30:36,500 --> 01:30:38,900
+You must be related to him
+because he was a total prick.
+
+1329
+01:30:40,100 --> 01:30:42,200
+Look here, you don't even have
+a fire extinguisher installed.
+
+1330
+01:30:42,400 --> 01:30:47,000
+Mike McFarlane used to give me milking
+machine parts to make my sprockets with.
+
+1331
+01:30:47,100 --> 01:30:48,200
+How old are you?
+
+1332
+01:30:48,200 --> 01:30:49,900
+I don't know,
+he was about 35 when I knew him.
+
+1333
+01:30:50,100 --> 01:30:51,300
+No how old are you?
+
+1334
+01:30:51,300 --> 01:30:54,700
+His brother owned a general store
+down in a place called Bulls...
+
+1335
+01:30:55,000 --> 01:30:57,600
+- thas a town in New Zealand.
+- Sir, your machine is not safe.
+
+1336
+01:30:58,000 --> 01:31:00,800
+I've been doing this for 43 years
+and I'm still here to tell the tale.
+
+1337
+01:31:01,000 --> 01:31:04,200
+Time's change, we started taking
+airplanes instead of riding horseback.
+
+1338
+01:31:04,400 --> 01:31:06,300
+- Horse power?
+- Horse back. Horse back.
+
+1339
+01:31:06,300 --> 01:31:07,600
+Horse back, yeah.
+I got you, yeah.
+
+1340
+01:31:08,600 --> 01:31:09,900
+You're too old.
+
+1341
+01:31:10,300 --> 01:31:13,200
+Bollocks. I may have this saggy skin
+on the outside...
+
+1342
+01:31:13,200 --> 01:31:14,700
+but on the inside
+I'm still 18 years old...
+
+1343
+01:31:14,900 --> 01:31:16,900
+and I'll give you a run for your money,
+young fella.
+
+1344
+01:31:18,400 --> 01:31:20,000
+You need some help?
+
+1345
+01:31:20,300 --> 01:31:21,400
+Hello.
+
+1346
+01:31:22,500 --> 01:31:25,400
+Rollie Free, Marty Dickerson,
+we're a couple of bike fans.
+
+1347
+01:31:25,700 --> 01:31:28,600
+- Burt Munro from Kiwi land.
+- Pleasure, Burt.
+
+1348
+01:31:31,000 --> 01:31:32,800
+You got me good there.
+
+1349
+01:31:33,000 --> 01:31:34,500
+Where are you staying?
+
+1350
+01:31:34,700 --> 01:31:36,700
+Thas my salubrious
+accommodation...
+
+1351
+01:31:36,700 --> 01:31:38,900
+I usually sleep at night
+in the back seat.
+
+1352
+01:31:39,200 --> 01:31:40,800
+Salubrious you say Munro, huh?
+
+1353
+01:31:42,000 --> 01:31:43,800
+We've been hearing a lot about you.
+
+1354
+01:31:44,000 --> 01:31:46,100
+Sounds like you're cutting
+your finances mighty fine.
+
+1355
+01:31:46,400 --> 01:31:47,900
+Yeah, you could say that again.
+
+1356
+01:31:48,100 --> 01:31:50,300
+We'll we're up at the Western Ridge,
+why don't you drop by...
+
+1357
+01:31:50,500 --> 01:31:52,500
+it looks as though you could
+use a good shower...
+
+1358
+01:31:52,600 --> 01:31:55,600
+and everybody's staying there and
+I bet that there's a spare bed there too.
+
+1359
+01:31:55,900 --> 01:31:58,300
+Thanks a lot, you yanks
+are classic you know that?
+
+1360
+01:31:58,500 --> 01:32:00,400
+You don't catch me that easily.
+
+1361
+01:32:06,400 --> 01:32:07,700
+Hey, Burt.
+
+1362
+01:32:08,000 --> 01:32:09,200
+Hello.
+
+1363
+01:32:11,300 --> 01:32:13,200
+The front forks could
+go at any time...
+
+1364
+01:32:13,300 --> 01:32:15,600
+the suspension is right out
+of the 1920s.
+
+1365
+01:32:15,800 --> 01:32:18,100
+Got hairline cracks all
+over his tyres...
+
+1366
+01:32:18,200 --> 01:32:21,100
+he's got no fire extinguisher,
+no safety chute.
+
+1367
+01:32:21,300 --> 01:32:24,700
+I told you, if is a time problem, the
+old guy's welcome to use some of my time.
+
+1368
+01:32:24,900 --> 01:32:27,200
+Is not a time problem,
+is a bike problem.
+
+1369
+01:32:27,500 --> 01:32:28,900
+Well, I think we ought
+to let him run.
+
+1370
+01:32:29,500 --> 01:32:31,500
+He came all the way from
+New Zealand to do this.
+
+1371
+01:32:31,700 --> 01:32:34,200
+Jim, have you had a good look
+at his machine?
+
+1372
+01:32:34,300 --> 01:32:36,100
+All I know is the man's
+the genuine article.
+
+1373
+01:32:36,400 --> 01:32:38,400
+Yeah, but the bike is
+the genuine dinosaur.
+
+1374
+01:32:38,700 --> 01:32:41,600
+Look, we carry the cans
+for the decisions around here.
+
+1375
+01:32:41,600 --> 01:32:44,600
+And if he kills himself and there's
+about a 100 to 1 that he will.
+
+1376
+01:32:44,600 --> 01:32:47,300
+Are gonna have a hell
+of a lot of trouble on our hands.
+
+1377
+01:32:47,400 --> 01:32:52,100
+Yeah, sounds like we're a bunch
+of chicken shits if you want my opinion.
+
+1378
+01:32:52,200 --> 01:32:55,900
+His bike didn't even come close
+to passing tech inspection, Jim.
+
+1379
+01:33:05,700 --> 01:33:06,400
+Burt.
+
+1380
+01:33:07,300 --> 01:33:08,700
+Hello, Jim. Come in.
+
+1381
+01:33:09,300 --> 01:33:11,200
+Rollie Free said
+I could find you here.
+
+1382
+01:33:11,200 --> 01:33:14,200
+Rollie Free, he's the best,
+he's a real gentleman.
+
+1383
+01:33:14,400 --> 01:33:16,800
+He set me up in this place
+for nothing.
+
+1384
+01:33:20,300 --> 01:33:21,400
+What are you doing?
+
+1385
+01:33:21,900 --> 01:33:25,300
+Well, the soft shoe polish
+fills in the cracks makes the tyres...
+
+1386
+01:33:25,500 --> 01:33:27,700
+Iook spick and span,
+good as new.
+
+1387
+01:33:27,900 --> 01:33:29,400
+Cheaper than new ones anyway.
+
+1388
+01:33:29,700 --> 01:33:30,900
+I didn't see that.
+
+1389
+01:33:33,600 --> 01:33:35,600
+Well? Can I run?
+
+1390
+01:33:38,400 --> 01:33:39,700
+I'm sorry, Burt.
+
+1391
+01:33:46,900 --> 01:33:49,000
+Who the heck
+do they think they are?
+
+1392
+01:33:49,800 --> 01:33:53,300
+Crikey Jim, you know, I'm not trying
+to run a mile in four minutes...
+
+1393
+01:33:53,400 --> 01:33:56,200
+all I've got to do is sit there
+and open up the throttle...
+
+1394
+01:33:56,300 --> 01:33:59,700
+I mean, after all
+is my ruddy life, isn't it?
+
+1395
+01:34:00,700 --> 01:34:02,300
+Can't you do anything?
+
+1396
+01:34:02,300 --> 01:34:06,900
+I mean, I just want to try and get her
+to go over 200 just once thas all...
+
+1397
+01:34:07,000 --> 01:34:08,900
+once I've cracked 200
+I'll be quite happy...
+
+1398
+01:34:08,900 --> 01:34:11,500
+to piss off back home to New Zealand
+and Bob's your uncle.
+
+1399
+01:34:12,100 --> 01:34:16,100
+You're a well respected man around here,
+can you talk to them?
+
+1400
+01:34:16,400 --> 01:34:17,600
+I tried.
+
+1401
+01:34:18,400 --> 01:34:21,400
+You've got as much chance
+of writing yourself off as I have...
+
+1402
+01:34:21,400 --> 01:34:24,200
+you know that.
+Just talk to them again.
+
+1403
+01:34:25,500 --> 01:34:27,700
+I know they'll listen to you, mate.
+
+1404
+01:34:30,100 --> 01:34:32,900
+Okay Burt, I'll try.
+See you tomorrow.
+
+1405
+01:34:33,200 --> 01:34:34,300
+Okay.
+
+1406
+01:34:37,400 --> 01:34:41,100
+I mean I'm half the age of some
+of those characters out there.
+
+1407
+01:34:47,000 --> 01:34:48,400
+Whas that?
+
+1408
+01:34:48,700 --> 01:34:50,400
+Thas just indigestion.
+
+1409
+01:34:56,100 --> 01:35:01,000
+Everyone wants us old buggers
+to curl up in some quiet corner and die.
+
+1410
+01:35:01,900 --> 01:35:05,700
+Well, Burt Munro's not ready to finish
+yet, I'll tell you that, mate.
+
+1411
+01:35:08,400 --> 01:35:10,800
+I'll give it a shot
+but I'm not promising anything.
+
+1412
+01:35:11,500 --> 01:35:13,400
+Thanks, mate.
+Thanks a lot.
+
+1413
+01:35:18,800 --> 01:35:21,700
+<i>The famous Challenger One...</i>
+
+1414
+01:35:31,700 --> 01:35:33,400
+What is he doing?
+
+1415
+01:35:33,700 --> 01:35:36,100
+- Didn't Jim tell him?
+- He says he did.
+
+1416
+01:35:36,600 --> 01:35:39,400
+- Well, then whas he doing here?
+- Why won't you let him run?
+
+1417
+01:35:39,400 --> 01:35:41,900
+Hey, he's too old
+and his bike's too old.
+
+1418
+01:35:42,200 --> 01:35:44,400
+He's come half way round the world
+to ride that cycle.
+
+1419
+01:35:44,700 --> 01:35:45,900
+Yeah, come on.
+
+1420
+01:35:46,200 --> 01:35:50,200
+- Wendy, if he was to kill himself.
+- So? Is his life.
+
+1421
+01:35:51,100 --> 01:35:52,800
+Keep an eye out
+for those officials.
+
+1422
+01:35:52,900 --> 01:35:55,500
+You sure you want to do this?
+I'm not sure is a good idea.
+
+1423
+01:35:55,500 --> 01:35:58,200
+Hurry up. If we're going to do
+this thing you've got to hurry.
+
+1424
+01:35:58,300 --> 01:36:00,300
+Alright, les go,
+here's your helmet.
+
+1425
+01:36:02,300 --> 01:36:03,600
+Here's your goggles.
+
+1426
+01:36:03,900 --> 01:36:05,800
+- Come on, Burt. We've got to go.
+- Yeah, right.
+
+1427
+01:36:05,900 --> 01:36:07,500
+Come on, put them on.
+
+1428
+01:36:12,300 --> 01:36:13,500
+Go, go, come on.
+
+1429
+01:36:17,800 --> 01:36:19,100
+Okay, les go, push.
+
+1430
+01:36:19,700 --> 01:36:21,100
+Push, go fast.
+
+1431
+01:36:21,400 --> 01:36:22,600
+Hey, you can't. Hey...
+
+1432
+01:36:23,200 --> 01:36:25,300
+- you can't do that.
+- Come on, come on!
+
+1433
+01:36:26,900 --> 01:36:28,200
+Hang on!
+
+1434
+01:36:32,900 --> 01:36:34,500
+Hey, where are you going with that?
+
+1435
+01:36:39,800 --> 01:36:41,800
+Stop, stop, stop, stop.
+
+1436
+01:36:42,700 --> 01:36:45,800
+What the hell are you doing, Burt?
+What the hell are you doing?
+
+1437
+01:36:46,200 --> 01:36:48,100
+Just getting her warmed up, Bob.
+
+1438
+01:36:48,100 --> 01:36:49,600
+Didn't look like you were
+getting her warmed up.
+
+1439
+01:36:49,800 --> 01:36:52,100
+Jesus, he was going to take
+the thing for a freakin' run.
+
+1440
+01:36:52,100 --> 01:36:53,400
+Bob.
+
+1441
+01:36:53,400 --> 01:36:54,300
+Oh, boy.
+
+1442
+01:36:56,400 --> 01:37:00,000
+That is the most determined man
+I have ever seen in my entire life.
+
+1443
+01:37:00,700 --> 01:37:02,600
+I kind of feel sorry
+for the old cooty.
+
+1444
+01:37:04,200 --> 01:37:05,700
+Coming all this way.
+
+1445
+01:37:06,200 --> 01:37:08,800
+Isn't there some way
+we can accommodate him?
+
+1446
+01:37:08,800 --> 01:37:10,500
+I mean there can't be
+much risk there...
+
+1447
+01:37:10,600 --> 01:37:13,500
+his bike will be
+lucky if it does 70.
+
+1448
+01:37:13,700 --> 01:37:17,000
+What do you say? What if we bend
+the rules this once, huh?
+
+1449
+01:37:19,500 --> 01:37:20,500
+Jesus!
+
+1450
+01:37:23,700 --> 01:37:25,300
+Bob and I had a little chat...
+
+1451
+01:37:25,500 --> 01:37:28,800
+and we're thinking we're gonna
+organize a handling run for you.
+
+1452
+01:37:29,700 --> 01:37:32,500
+- You are? What?
+- A handling run.
+
+1453
+01:37:32,900 --> 01:37:35,200
+All the officials,
+we're gonna get into our vehicles and...
+
+1454
+01:37:35,200 --> 01:37:36,400
+- You're joking, huh?
+- No, I'm not.
+
+1455
+01:37:36,400 --> 01:37:38,500
+We're going to follow
+along behind you...
+
+1456
+01:37:38,500 --> 01:37:40,500
+and we're going to see
+if you're okay to ride this beast.
+
+1457
+01:37:40,500 --> 01:37:41,600
+Of course I'm okay to ride it.
+
+1458
+01:37:41,600 --> 01:37:44,800
+First thing tomorrow morning, alright?
+Bright and early.
+
+1459
+01:37:46,800 --> 01:37:48,100
+Well, thanks fellas.
+
+1460
+01:37:49,100 --> 01:37:51,200
+Hey. My luck's in then.
+
+1461
+01:37:54,000 --> 01:37:55,800
+- You alright?
+- Yeah.
+
+1462
+01:37:55,900 --> 01:37:57,300
+Don't hurt yourself.
+
+1463
+01:38:08,900 --> 01:38:12,200
+Okay, everyone listen up.
+This is what we're gonna do.
+
+1464
+01:38:12,600 --> 01:38:15,000
+Burt, you're gonna get rolling...
+
+1465
+01:38:15,100 --> 01:38:18,900
+ride slowly along. We'll all jump in
+our vehicles, follow you down the track.
+
+1466
+01:38:18,900 --> 01:38:21,300
+- See if you can handle this thing.
+- I'll handle her alright.
+
+1467
+01:38:21,600 --> 01:38:23,200
+Alright. Everybody got that?
+
+1468
+01:38:23,500 --> 01:38:26,000
+Okay, everybody,
+les get in the cars.
+
+1469
+01:38:49,800 --> 01:38:52,100
+Hope that old man doesn't make
+a fool of himself.
+
+1470
+01:38:57,300 --> 01:38:58,400
+Here we go.
+
+1471
+01:38:59,300 --> 01:39:00,900
+I'm ready, les go.
+
+1472
+01:39:01,500 --> 01:39:02,500
+Push it!
+
+1473
+01:39:02,900 --> 01:39:04,400
+Faster, boys.
+
+1474
+01:39:06,500 --> 01:39:07,700
+Go, Burt!
+
+1475
+01:39:32,200 --> 01:39:33,300
+Sixty.
+
+1476
+01:39:33,900 --> 01:39:35,400
+Sixty-five, seventy.
+
+1477
+01:39:37,100 --> 01:39:38,300
+That a boy, Burt.
+
+1478
+01:39:38,500 --> 01:39:39,500
+Seventy-five.
+
+1479
+01:39:40,200 --> 01:39:43,000
+There he goes up to eighty,
+eighty, eighty five.
+
+1480
+01:39:47,600 --> 01:39:48,500
+Ninety.
+
+1481
+01:39:55,900 --> 01:39:58,500
+Ninety-five,
+look at that thing go.
+
+1482
+01:40:09,300 --> 01:40:12,000
+- Holy smoke.
+- He's leaving them behind!
+
+1483
+01:40:12,300 --> 01:40:14,100
+What the hell is
+that old guy up to?
+
+1484
+01:40:14,100 --> 01:40:15,900
+Nobody told him
+he could give it everything.
+
+1485
+01:40:16,100 --> 01:40:18,500
+I guess that solves the question
+of whether or not he can handle it.
+
+1486
+01:40:18,700 --> 01:40:20,900
+We were doing ninety-five
+and he left us in the dust.
+
+1487
+01:40:21,100 --> 01:40:22,500
+Look at him go!
+
+1488
+01:40:22,700 --> 01:40:23,900
+That a boy, go, Burt.
+
+1489
+01:41:03,300 --> 01:41:05,200
+Hold her firm.
+
+1490
+01:41:05,400 --> 01:41:06,500
+Hold her firm.
+
+1491
+01:41:06,800 --> 01:41:08,800
+Got it? Don't let it go.
+
+1492
+01:41:10,200 --> 01:41:11,700
+That was a disaster!
+
+1493
+01:41:12,700 --> 01:41:15,700
+- Hey, Burt. How'd it go.
+- Not good.
+
+1494
+01:41:20,200 --> 01:41:21,700
+So, whas the verdict?
+
+1495
+01:41:22,000 --> 01:41:24,900
+When you opened up there in top
+gear you sure left us in the dust.
+
+1496
+01:41:25,000 --> 01:41:27,500
+I couldn't even get her out
+of second gear, Earl.
+
+1497
+01:41:27,900 --> 01:41:31,800
+The plugs were oiling up, I had to feed
+her more juice up the revs a little.
+
+1498
+01:41:32,000 --> 01:41:35,000
+Well, I guess we'll see if you're
+telling us the truth, Munro.
+
+1499
+01:41:36,900 --> 01:41:40,000
+Are you telling me I can officially run
+on the track and have it timed?
+
+1500
+01:41:40,200 --> 01:41:41,800
+Thas what I'm saying, Burt.
+
+1501
+01:41:44,500 --> 01:41:46,800
+You'll never know what
+this means to me, Otto.
+
+1502
+01:41:46,900 --> 01:41:49,900
+25 years I've lived for this day,
+25 years.
+
+1503
+01:41:50,200 --> 01:41:53,900
+Sometimes you've got to bend the rules
+a little, today's one of those days.
+
+1504
+01:41:54,400 --> 01:41:57,500
+- Thank you from the bottom of my heart.
+- Thank you.
+
+1505
+01:42:03,400 --> 01:42:06,100
+- What did they say?
+- What happened?
+
+1506
+01:42:07,800 --> 01:42:09,500
+They said I could run.
+
+1507
+01:42:10,400 --> 01:42:11,600
+Thas great!
+
+1508
+01:42:12,200 --> 01:42:14,600
+- So why the long face then?
+- Well, I don't know...
+
+1509
+01:42:14,700 --> 01:42:18,100
+is just starting to sink in
+and I've got a problem a big problem.
+
+1510
+01:42:18,300 --> 01:42:21,700
+As soon as I go over a hundred and
+ten it starts to wobble like heck...
+
+1511
+01:42:21,800 --> 01:42:23,300
+a bad speed wobble.
+
+1512
+01:42:23,300 --> 01:42:26,800
+Well, it did look like you were
+about as stable as my last wife.
+
+1513
+01:42:28,500 --> 01:42:31,100
+I've got a theory
+and I think I'm right.
+
+1514
+01:42:31,200 --> 01:42:34,000
+I need about twenty car batteries.
+
+1515
+01:42:34,100 --> 01:42:35,000
+Twenty?
+
+1516
+01:42:35,900 --> 01:42:38,000
+Is it ok to steel
+these batteries, Burt?
+
+1517
+01:42:38,300 --> 01:42:40,100
+We're not steeling them Marty,
+we're souveniring them.
+
+1518
+01:42:40,200 --> 01:42:42,000
+Careful of that acid there.
+
+1519
+01:42:42,400 --> 01:42:44,000
+What do we do
+with them now?
+
+1520
+01:42:44,200 --> 01:42:46,900
+Well, we're going to talk someone
+into lending us a painter's blow torch.
+
+1521
+01:42:47,200 --> 01:42:48,600
+A painter's blow torch?
+
+1522
+01:42:51,000 --> 01:42:53,500
+What are we going to do
+with all this metal, Burt?
+
+1523
+01:42:54,000 --> 01:42:59,000
+Well, when this cools down,
+we'll have ourselves a lead brick.
+
+1524
+01:42:59,300 --> 01:43:03,100
+- What do you do with a lead brick?
+- Place it in the front of the motorcycle.
+
+1525
+01:43:03,800 --> 01:43:05,900
+- And thas your plan?
+- Yeah.
+
+1526
+01:43:07,000 --> 01:43:11,500
+Well, you must get the center
+of pressure behind the center of gravity...
+
+1527
+01:43:11,600 --> 01:43:14,800
+and if you don't get it right
+then she'll start to fish tail...
+
+1528
+01:43:14,800 --> 01:43:17,600
+- when you get her wound up.
+- What do you mean by fish tail?
+
+1529
+01:43:17,800 --> 01:43:21,200
+Well, like a fish's behind you know.
+Ill start doing that.
+
+1530
+01:43:21,200 --> 01:43:23,700
+And thas what happened today
+when I had the handling run.
+
+1531
+01:43:23,900 --> 01:43:27,600
+And so in a panic I lifted my head up
+from behind the screen...
+
+1532
+01:43:27,900 --> 01:43:31,600
+and suddenly the bike started
+to go straight and...
+
+1533
+01:43:31,900 --> 01:43:36,200
+I knew I'd solved the problem somehow
+by sticking my head up into the wind.
+
+1534
+01:43:37,300 --> 01:43:38,800
+- I don't get it.
+- Me neither.
+
+1535
+01:43:39,100 --> 01:43:41,200
+Well, I'll show you.
+Let me have that.
+
+1536
+01:43:42,400 --> 01:43:44,100
+What are you doing?
+
+1537
+01:43:44,300 --> 01:43:47,900
+Lmagine the cigar
+is my streamliner.
+
+1538
+01:43:48,000 --> 01:43:49,600
+Don't poke holes in the cigar.
+
+1539
+01:43:49,900 --> 01:43:53,000
+Now if I hold it in the middle
+and blow on it. Like so.
+
+1540
+01:43:54,800 --> 01:43:56,600
+See how unstable it is?
+
+1541
+01:43:56,800 --> 01:43:58,100
+Now if I...
+
+1542
+01:43:59,400 --> 01:44:01,100
+- shift the...
+- Not again!
+
+1543
+01:44:01,400 --> 01:44:03,900
+Center of pressure here.
+And blow on it.
+
+1544
+01:44:08,800 --> 01:44:10,300
+See is much more stable.
+
+1545
+01:44:10,500 --> 01:44:14,700
+Just the center of pressure
+is behind the center of gravity...
+
+1546
+01:44:15,000 --> 01:44:17,800
+and thas what I'm trying to fix
+with the lead brick you see.
+
+1547
+01:44:18,000 --> 01:44:19,600
+You're quite clever,
+did you know that, Burt?
+
+1548
+01:44:19,900 --> 01:44:23,400
+Now all I need to do is to test
+my theory before I run on the salt...
+
+1549
+01:44:23,600 --> 01:44:24,500
+and I was thinking of,
+you know...
+
+1550
+01:44:24,500 --> 01:44:28,100
+crossing over the state line
+from here in Utah to Nevada...
+
+1551
+01:44:28,300 --> 01:44:32,400
+where there's no speed limit and running
+with a lead brick in the front of it.
+
+1552
+01:45:22,700 --> 01:45:24,200
+- Good morning.
+- Morning.
+
+1553
+01:45:24,600 --> 01:45:26,600
+Do you know how fast you were
+going back there?
+
+1554
+01:45:26,700 --> 01:45:28,000
+Yeah, about...
+
+1555
+01:45:28,500 --> 01:45:30,900
+150, 160 miles an hour.
+
+1556
+01:45:33,800 --> 01:45:35,900
+Yeah, that sounds about right.
+
+1557
+01:45:36,900 --> 01:45:38,600
+How's he going to talk
+his way out of this one?
+
+1558
+01:45:39,500 --> 01:45:42,600
+He sure got his arse
+in a sling this time, don't he?
+
+1559
+01:45:42,900 --> 01:45:46,600
+So whas the situation with this thing?
+You don't have any license plates on it.
+
+1560
+01:45:46,800 --> 01:45:50,100
+- Is registered in New Zealand.
+- New Zealand?
+
+1561
+01:45:50,200 --> 01:45:52,500
+Yeah, thas where I come from.
+
+1562
+01:45:55,800 --> 01:45:57,500
+Alright, you mean to tell me...
+
+1563
+01:45:57,500 --> 01:46:00,200
+that this contraption of yours
+is registered for the road?
+
+1564
+01:46:01,300 --> 01:46:04,500
+- Yeah, in New Zealand.
+- New Zealand, right.
+
+1565
+01:46:05,000 --> 01:46:08,300
+Well, how about taking it easy
+here in Nevada?
+
+1566
+01:46:08,600 --> 01:46:10,600
+Just because we don't have
+a speed limit don't mean...
+
+1567
+01:46:10,600 --> 01:46:14,100
+- we want people killing themselves.
+- No, sounds fair enough to me.
+
+1568
+01:46:15,000 --> 01:46:18,000
+- Right, you have a good day then.
+- I will, thank you.
+
+1569
+01:46:18,000 --> 01:46:19,300
+Burt, everything OK?
+
+1570
+01:46:21,000 --> 01:46:24,800
+Well, fellows, we're going to have
+to give the lead brick...
+
+1571
+01:46:24,900 --> 01:46:26,900
+the old Spanish archer.
+
+1572
+01:46:27,200 --> 01:46:30,200
+- Spanish archer?
+- Yeah, the big elbow, you know.
+
+1573
+01:46:31,100 --> 01:46:33,000
+The lead brick has got to go.
+
+1574
+01:46:33,300 --> 01:46:35,600
+Who's stupid idea was that anyway?
+
+1575
+01:46:35,800 --> 01:46:36,600
+It was yours.
+
+1576
+01:46:36,700 --> 01:46:41,500
+Yeah. Well, I'm just going to have
+to ride her, the way she is.
+
+1577
+01:46:41,900 --> 01:46:43,200
+What about that speed wobble?
+
+1578
+01:46:43,500 --> 01:46:46,800
+Well, I'll cross that bridge
+when I get there.
+
+1579
+01:46:47,200 --> 01:46:49,700
+- I've got another problem too.
+- Yeah, what now?
+
+1580
+01:46:50,000 --> 01:46:52,500
+Well, when I get her going...
+
+1581
+01:46:52,700 --> 01:46:56,400
+there's an enormous amount of heat
+comes off the exhaust pipe...
+
+1582
+01:46:56,700 --> 01:47:00,000
+and I hope
+it doesn't cook my leg.
+
+1583
+01:47:00,800 --> 01:47:05,000
+Maybe you can wrap some asbestos cloth
+around it, that should fix it right.
+
+1584
+01:47:05,000 --> 01:47:06,300
+Thas a good idea.
+
+1585
+01:47:06,900 --> 01:47:09,400
+So you got any more problems
+you want to tell us about?
+
+1586
+01:47:09,400 --> 01:47:11,500
+Yes, yes, my old ticker.
+
+1587
+01:47:12,300 --> 01:47:14,800
+- You've got a bad heart?
+- Yes, I have.
+
+1588
+01:47:18,800 --> 01:47:20,800
+I've got a little surprise
+for you.
+
+1589
+01:47:21,300 --> 01:47:24,100
+- What?
+- Close your eyes and give me your hand.
+
+1590
+01:47:24,300 --> 01:47:26,800
+- What?
+- Just close your eyes. Come on.
+
+1591
+01:47:27,100 --> 01:47:29,600
+- What for?
+- Because I said so, mister, come on.
+
+1592
+01:47:32,400 --> 01:47:33,800
+Keep walking.
+
+1593
+01:47:33,900 --> 01:47:37,500
+Wendy, you're not going to make
+a fool of an old man I hope.
+
+1594
+01:47:37,600 --> 01:47:39,200
+I'd never do that, Burt.
+
+1595
+01:47:39,400 --> 01:47:40,500
+Never.
+
+1596
+01:47:40,800 --> 01:47:42,200
+Never. Okay. Okay.
+
+1597
+01:47:42,500 --> 01:47:44,000
+Now turn around.
+
+1598
+01:47:44,600 --> 01:47:45,900
+Alright.
+
+1599
+01:47:45,900 --> 01:47:47,800
+Now, hold your hands out.
+
+1600
+01:47:48,400 --> 01:47:50,000
+Put that in your pocket.
+
+1601
+01:47:50,100 --> 01:47:51,200
+Alright.
+
+1602
+01:47:51,400 --> 01:47:52,500
+There we go good.
+
+1603
+01:47:53,800 --> 01:47:55,300
+You can open them.
+
+1604
+01:48:10,400 --> 01:48:12,200
+What are you all staring at?
+
+1605
+01:48:14,000 --> 01:48:16,000
+- What is this?
+- Burt...
+
+1606
+01:48:16,200 --> 01:48:20,000
+we've unanimously voted you here on
+the Salt planes, sportsman of the year...
+
+1607
+01:48:20,200 --> 01:48:23,600
+because we figured nobody has
+ever traveled as far as you have...
+
+1608
+01:48:23,600 --> 01:48:24,900
+to be here for speed week...
+
+1609
+01:48:25,000 --> 01:48:28,700
+so normally we would present
+a trophy or something like that...
+
+1610
+01:48:29,000 --> 01:48:31,900
+but considering your case
+we thought a few extra dollars...
+
+1611
+01:48:31,900 --> 01:48:34,800
+would be more appreciated
+so we past the hat around.
+
+1612
+01:48:38,600 --> 01:48:39,900
+My goodness!
+
+1613
+01:48:42,900 --> 01:48:44,600
+There are no words.
+
+1614
+01:48:58,300 --> 01:48:59,900
+Well, thank you all.
+
+1615
+01:49:00,700 --> 01:49:02,800
+Thank you all very much.
+
+1616
+01:49:04,500 --> 01:49:06,900
+I'm sorry,
+I don't know what to say.
+
+1617
+01:49:08,500 --> 01:49:11,400
+Oh dear, is quite
+overwhelming you know...
+
+1618
+01:49:11,700 --> 01:49:14,200
+is 25 years dream
+to come here.
+
+1619
+01:49:17,200 --> 01:49:22,100
+I should try
+to justify you, your respect and...
+
+1620
+01:49:23,200 --> 01:49:28,100
+you know the original speed
+of my old bike was 54 miles an hour.
+
+1621
+01:49:31,100 --> 01:49:35,400
+And today I'm hoping to,
+you know, improve it a little.
+
+1622
+01:49:45,600 --> 01:49:48,900
+<i>The cars are at the start line now.
+The next one is the 86...</i>
+
+1623
+01:49:49,200 --> 01:49:52,600
+<i>On the bucket seat
+the pilot is ready to be pushed out.</i>
+
+1624
+01:50:02,300 --> 01:50:04,000
+<i>Next competitor is Burt Munro.</i>
+
+1625
+01:50:04,800 --> 01:50:07,800
+<i>All the way from Invercargill,
+New Zealand.</i>
+
+1626
+01:50:09,000 --> 01:50:12,300
+<i>Burt Munro's entry
+was approved just yesterday.</i>
+
+1627
+01:50:20,700 --> 01:50:22,300
+Burt, where'd you get this stuff?
+
+1628
+01:50:22,400 --> 01:50:24,500
+- What?
+- I say, where'd you get this stuff?
+
+1629
+01:50:24,800 --> 01:50:28,600
+I tore an old electric blanket apart
+and got the asbestos cloth out of it.
+
+1630
+01:50:29,100 --> 01:50:31,200
+You got those heart pills?
+
+1631
+01:50:31,200 --> 01:50:33,500
+- Are you okay?
+- Better take one, yeah.
+
+1632
+01:50:33,800 --> 01:50:35,300
+They're almost ready.
+
+1633
+01:50:35,300 --> 01:50:36,900
+Guys, come on, les go.
+
+1634
+01:50:38,000 --> 01:50:40,400
+You know the bottle says
+that they may cause drowsiness...
+
+1635
+01:50:40,400 --> 01:50:42,800
+- do not operate machinery.
+- I know that.
+
+1636
+01:50:43,400 --> 01:50:45,200
+Well, you're not supposed
+to take two of them anyway.
+
+1637
+01:50:45,500 --> 01:50:47,600
+One for me
+and one for the old girl.
+
+1638
+01:50:47,900 --> 01:50:49,400
+Nitroglycerine.
+
+1639
+01:50:49,600 --> 01:50:51,100
+Should make it go faster.
+
+1640
+01:50:51,700 --> 01:50:53,200
+Have some of this, love.
+
+1641
+01:50:57,200 --> 01:50:58,400
+There you go.
+
+1642
+01:51:04,900 --> 01:51:07,500
+- Yeah, we're almost there.
+- Alright, here we go.
+
+1643
+01:51:08,200 --> 01:51:09,600
+- Hold her still.
+- Your goggles.
+
+1644
+01:51:09,700 --> 01:51:10,600
+- What?
+- Goggles.
+
+1645
+01:51:10,700 --> 01:51:13,000
+- Put your goggles on.
+- I know, calm down.
+
+1646
+01:51:16,800 --> 01:51:21,500
+I can't get my leg in because
+of the asbestos cloth on it.
+
+1647
+01:51:29,600 --> 01:51:30,900
+Let me take it off.
+
+1648
+01:51:31,200 --> 01:51:34,800
+- What about your leg in that heat?
+- Screw it, I've got a spare one.
+
+1649
+01:51:36,900 --> 01:51:38,500
+Right, Burt.
+
+1650
+01:51:38,700 --> 01:51:40,100
+Get those goggles.
+
+1651
+01:51:41,200 --> 01:51:43,600
+- Ready?
+- Alright, you know the way.
+
+1652
+01:51:43,900 --> 01:51:44,800
+Make sure you come back.
+
+1653
+01:51:45,000 --> 01:51:46,200
+Come on, les go!
+
+1654
+01:51:46,500 --> 01:51:47,700
+Right, push!
+
+1655
+01:51:48,700 --> 01:51:50,500
+Come on, fellas. Push faster!
+
+1656
+01:51:52,600 --> 01:51:53,800
+Keep running.
+
+1657
+01:51:57,300 --> 01:51:59,100
+Keep it straight, buddy.
+
+1658
+01:52:00,800 --> 01:52:03,000
+Bring it in, Burt. Come on.
+Go, go, go...
+
+1659
+01:52:03,400 --> 01:52:04,600
+Les go, Burt!
+
+1660
+01:52:10,400 --> 01:52:11,300
+Come on, Burt!
+
+1661
+01:52:12,000 --> 01:52:13,600
+You can do it, Burt.
+
+1662
+01:52:13,900 --> 01:52:16,100
+He's got no parachute,
+he's got no brakes.
+
+1663
+01:52:35,600 --> 01:52:37,500
+158.647.
+
+1664
+01:52:38,000 --> 01:52:41,400
+Mile one,
+158.647 miles per hour.
+
+1665
+01:52:41,600 --> 01:52:42,900
+Go, Burt!
+
+1666
+01:52:43,200 --> 01:52:45,000
+- Go on!
+- Go, Burt!
+
+1667
+01:52:45,500 --> 01:52:47,600
+- Make us proud, honey!
+- Burt!
+
+1668
+01:53:02,600 --> 01:53:04,600
+167.921.
+
+1669
+01:53:04,800 --> 01:53:08,400
+Mile two,
+167.921 miles per hour.
+
+1670
+01:53:08,600 --> 01:53:11,200
+Break it, Burt.
+Come on! Go, go, go!
+
+1671
+01:53:11,300 --> 01:53:12,300
+Come on, Burt.
+
+1672
+01:53:22,400 --> 01:53:26,300
+<i>Mile three,
+171.371 miles per hour.</i>
+
+1673
+01:53:26,500 --> 01:53:28,000
+Come on, come on, come on!
+
+1674
+01:53:39,600 --> 01:53:42,900
+Mile four,
+172.485 miles per hour.
+
+1675
+01:53:43,700 --> 01:53:44,600
+Yeah!
+
+1676
+01:53:44,900 --> 01:53:45,800
+Come on!
+
+1677
+01:53:47,400 --> 01:53:50,300
+<i>Mile five,
+183.694 miles per hour.</i>
+
+1678
+01:54:10,300 --> 01:54:12,200
+<i>193.728.</i>
+
+1679
+01:54:12,500 --> 01:54:15,300
+Mile six,
+193.728 miles per hour.
+
+1680
+01:54:16,400 --> 01:54:18,400
+Come on, come on!
+
+1681
+01:54:23,400 --> 01:54:25,700
+Come on, Burt.
+You can do it!
+
+1682
+01:54:25,900 --> 01:54:27,000
+Come on, Burt!
+
+1683
+01:54:27,500 --> 01:54:31,000
+<i>Mile seven,
+194.211 miles per hour.</i>
+
+1684
+01:54:31,600 --> 01:54:34,100
+- Go, Burt!
+- Burt, go!
+
+1685
+01:55:18,900 --> 01:55:19,700
+What is it?
+
+1686
+01:55:20,700 --> 01:55:22,700
+201.851.
+
+1687
+01:55:23,100 --> 01:55:27,700
+Mile eight,
+201.851 miles per hour.
+
+1688
+01:55:35,400 --> 01:55:38,000
+Ladies and gentlemen,
+thas a new record...
+
+1689
+01:55:38,200 --> 01:55:42,300
+201.851 miles per hour.
+
+1690
+01:55:44,800 --> 01:55:46,900
+Burt, I hope you're going
+to stop soon.
+
+1691
+01:55:47,300 --> 01:55:50,100
+- He's gone back!
+- Back where?
+
+1692
+01:55:50,400 --> 01:55:54,400
+Back to whatever planet he came from
+because he sure ain't from this one.
+
+1693
+01:56:48,500 --> 01:56:50,400
+I really did toast my leg.
+
+1694
+01:56:56,100 --> 01:56:57,300
+I did it.
+
+1695
+01:56:58,100 --> 01:56:59,200
+I did it.
+
+1696
+01:57:29,300 --> 01:57:32,000
+Tom, can you get that,
+my hands are wet.
+
+1697
+01:57:37,400 --> 01:57:38,600
+Hello?
+
+1698
+01:57:38,600 --> 01:57:42,300
+<i>This is the United States calling I have
+a collect call from Mr. Burt Munro...</i>
+
+1699
+01:57:42,500 --> 01:57:43,800
+<i>will you accept the charge?</i>
+
+1700
+01:57:43,900 --> 01:57:48,200
+- Mum, is Burt calling collect.
+- It is? Accept the call, accept the call!
+
+1701
+01:57:48,500 --> 01:57:49,800
+My mum said we can accept the call.
+
+1702
+01:57:49,900 --> 01:57:52,700
+<i>- Go ahead, sir.
+- Hello Tom, is that you?</i>
+
+1703
+01:57:52,900 --> 01:57:55,000
+<i>- Yes.
+- Is me, Burt.</i>
+
+1704
+01:57:55,200 --> 01:57:58,700
+<i>I did it Tom,
+she's the worls fastest Indian.</i>
+
+1705
+01:57:58,800 --> 01:57:59,700
+She is?
+
+1706
+01:58:00,000 --> 01:58:01,200
+Dad, dad!
+
+1707
+01:58:01,800 --> 01:58:04,700
+Dad! He did it! Burt did it!
+
+1708
+01:58:05,000 --> 01:58:06,400
+He set a new record.
+
+1709
+01:58:25,100 --> 01:58:26,100
+How is it going?
+
+1710
+01:58:26,200 --> 01:58:27,600
+Hello, mate!
+
+1711
+01:58:27,700 --> 01:58:29,100
+- Hey, Duncan.
+- Congratulations, Burt.
+
+1712
+01:58:29,100 --> 01:58:30,500
+Hello, Frank.
+How are you?
+
+1713
+01:58:30,700 --> 01:58:32,700
+- Welcome home, Burt.
+- Hello, George.
+
+1714
+01:58:32,800 --> 01:58:36,100
+My goodness, you've made
+this place look spiffing, mate.
+
+1715
+01:58:36,400 --> 01:58:37,600
+You did us proud.
+
+1716
+01:58:37,600 --> 01:58:41,100
+- You put Invercargill on the map.
+- Well, I reckon so, yeah.
+
+1717
+01:58:41,200 --> 01:58:43,900
+- What have you got planned now?
+- Right now I've a lot of work to do...
+
+1718
+01:58:44,000 --> 01:58:46,800
+if I'm to get back to Bonneville
+next year, you know.
+
+1719
+01:58:46,900 --> 01:58:49,100
+So, more early mornings then?
+
+1720
+01:58:49,200 --> 01:58:51,100
+Yeah, more early mornings.
+
+1721
+01:58:51,300 --> 01:58:52,500
+Hello, love.
+
+1722
+01:58:52,500 --> 01:58:54,800
+- Welcome home.
+- Nice to be back.
+
+1723
+01:58:56,000 --> 01:58:57,900
+- Hello, Tom.
+- Hey, Burt.
+
+1724
+01:58:58,200 --> 01:58:59,800
+How are you, son?
+
+1725
+01:59:00,200 --> 01:59:01,500
+Good to see ya.
+
+1726
+01:59:01,800 --> 01:59:03,400
+You're growing up a bit, huh?
+
+1727
+01:59:04,000 --> 01:59:06,000
+I looked after your lemon tree
+just like you told me.
+
+1728
+01:59:06,100 --> 01:59:07,400
+You did, yeah.
+
+1729
+01:59:07,600 --> 01:59:08,900
+Is doing well isn't it?
+
+1730
+01:59:09,400 --> 01:59:10,600
+Yeah, is beautiful.
+
+1731
+01:59:11,900 --> 01:59:13,900
+- I fed the chickens.
+- You did?
+
+1732
+01:59:14,100 --> 01:59:16,000
+- And mum cooked all the eggs.
+- Oh, yeah...
+
+1733
+01:59:16,300 --> 01:59:18,300
+- did they taste good?
+- Yep.
+
+1734
+01:59:18,500 --> 01:59:20,400
+- Yeah, good. Have you got my key?
+- Here it is.
+
+1735
+01:59:20,400 --> 01:59:21,800
+- Right thanks.
+- I took good care of it.
+
+1736
+01:59:22,200 --> 01:59:24,700
+- I knew you would.
+- How fast did you go?
+
+1737
+01:59:24,900 --> 01:59:28,200
+Mighty fast. In one of my runs
+I did over 200 miles an hour.
+
+1738
+01:59:28,500 --> 01:59:31,400
+What would happen if you opened
+your mouth at that speed?
+
+1739
+01:59:31,700 --> 01:59:34,000
+Well, you'd blow the backside
+out of your pants I reckon.
+
+1740
+01:59:36,200 --> 01:59:37,400
+Right, lets see.
+
+1741
+01:59:40,000 --> 01:59:42,900
+Its nice to be home.
+Back in my shed.
+
+1742
+01:59:43,900 --> 00:00:00,000

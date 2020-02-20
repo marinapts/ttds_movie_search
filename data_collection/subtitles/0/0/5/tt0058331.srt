@@ -1,0 +1,1736 @@
+{2713}{2799}CHim cHiminy, CHim cHiminy|CHim cHim cHeree
+{2800}{2901}A sweep is as lucky as lucky can be
+{2903}{2991}CHim cHiminy, CHim cHiminy|CHim cHim cHeroo
+{2992}{3096}Good luck will rub off|wHen He sHakes Hands witH you
+{3098}{3195}CHim cHiminy|CHim cHim cHeree, cHim cHeroo
+{3196}{3228}Rum diddly-diddly-diddly|Rum diddle-die
+{3229}{3276}Rum diddly-diddly-diddly|Rum diddle-die
+{4900}{4952}All right, ladies and gents...
+{4954}{5016}comical poems suitable|for the occasion...
+{5017}{5107}extemporized and thought up|before your very eyes.
+{5108}{5160}All right, here we go.
+{5161}{5256}Room Here for everyone|GatHer around
+{5257}{5314}The constables|"responstable.
+{5316}{5374}Now, how does that sound?
+{5479}{5576}Hello, Miss Lark|I got one for you
+{5578}{5694}Miss Lark likes to walk|in the park with Andrew.
+{5735}{5798}Hello, Andrew.
+{5844}{5956}AH, Mrs Cory|a story for you
+{5957}{6012}Your daughters|were shorter than you...
+{6028}{6085}but they grew.
+{6251}{6307}Dear Miss Persimmon--
+{6347}{6420}Yes?
+{6421}{6480}Winds in tHe east
+{6481}{6552}Mist comin in.
+{6554}{6658}Like sometHing is brewin|About to begin
+{6715}{6844}Cant put me finger|on wHat lies in store
+{6846}{6910}But I feel whats to happen...
+{6912}{6987}all happened before.
+{7043}{7095}Im sorry. Where was I?
+{7704}{7772}Thank you, one and all,|for your kind support.
+{7871}{7946}Ah, Miss Lark, thank you.
+{7994}{8070}Crikey. Bless you, guv.
+{8071}{8135}Generosity itself,|thats what you are.
+{8137}{8188}No charge.
+{8246}{8309}Oh, its you! Hello.
+{8361}{8443}Number 1 7 Cherry Tree Lane,|you say?
+{8445}{8495}All right.|Come along with me.
+{8532}{8578}This heres Cherry Tree Lane.
+{8613}{8698}Nice little spot,|you might say.
+{8700}{8763}Number 1 7s just down a bit.
+{8854}{8923}Now, this imposing edifice|what first greets the eye...
+{8925}{8987}is the home|of Admiral Boom...
+{8989}{9039}late of His Majestys Navy.
+{9041}{9087}Likes his house|shipshape, he does...
+{9089}{9172}shipshape and bristol fashion|at all times.
+{9314}{9398}- Time gun ready?|- Ready and charged, sir.
+{9400}{9472}- Three minutes and six seconds.|- Aye, aye, sir.
+{9474}{9572}What hes famous for|is punctuality.
+{9574}{9631}The whole world takes|its time from Greenwich.
+{9632}{9728}But Greenwich, they say, takes|its time from Admiral Boom.
+{9729}{9769}What cheer, Admiral?
+{9771}{9850}Good afternoon to you,|young man. Where are you bound?
+{9852}{9935}Number 1 7. Got some parties here|in tow what wants to see it.
+{9936}{10005}- Enter that in the log.|- Aye, aye, sir.
+{10007}{10058}A word of advice, young man:
+{10059}{10131}Storm signals are up|at Number 1 7.
+{10133}{10190}Bit of heavy weather|brewing there.
+{10191}{10250}Thank you, sir.|Keep an eye skinned.
+{10305}{10387}Here we are.|Number 1 7 Cherry Tree Lane.
+{10389}{10455}Residence of|George Banks, Esquire.
+{10491}{10567}Hello, hello, hello.|The Admirals right.
+{10568}{10671}Heavy weather brewin|at Number 1 7, and no mistake.
+{10673}{10715}- Leave her alone!|- Shut up!
+{10716}{10780}Ill show you. Dont you be trying|to stop the wretched creature!
+{10782}{10837}Let her go, thats what I say,|and good riddance!
+{10839}{10889}I never liked her from the|moment she set foot in the door.
+{10891}{11007}But who gets stuck with|the children with no nanny|in the house? Me, thats who!
+{11008}{11063}Her and her high|and mighty ways!
+{11064}{11111}And that face of her that would|stop a coal barge, it would.
+{11113}{11193}Indeed, Mrs Brill! I wouldnt|stay in this house another minute...
+{11195}{11259}not if you heap me with|all the jewels in Christendom.
+{11261}{11323}No, no, Katie Nanna, dont go!
+{11325}{11357}Stand away from that door,|my girl!
+{11359}{11421}But what am I gonna tell|the master about the children?
+{11423}{11543}Its no concern of mine.|Those little beasts have run|away from me for the last time.
+{11544}{11619}They must be somewhere. Did you|look around the zoo in the park?
+{11621}{11665}You know how Jane|and Michael is.
+{11667}{11739}Coo! You dont think the lion|couldve got at them, do ya?
+{11741}{11802}You know how fond they was|of hangin around the cage.
+{11803}{11855}I said my say,|and thats all Ill say.
+{11856}{11921}Ive done with this house forever.
+{11923}{11963}Well, hip, hip, hooray!
+{11965}{12036}And dont stumble|on the way out, dearie.
+{12038}{12101}Now, now, Katie Nanna!
+{12147}{12227}Mrs Banks! Shes home!
+{12228}{12310}Our daugHters daugHters will adore us|and well sing in grateful cHorus
+{12311}{12359}Well done,|Sister Suffragette
+{12361}{12413}Good evening,|Katie Nanna, Ellen.
+{12415}{12467}We had the most|glorious meeting!
+{12469}{12573}Mrs Whitbourne-Allen chained|herself to the wheel of|the Prime Ministers carriage.
+{12575}{12632}- You shouldve been there.|- Mrs Banks, I would like|a word with you.
+{12634}{12695}And Mrs Ainslie, she was|carried off to prison...
+{12697}{12747}singing and scattering pamphlets|all the way!
+{12749}{12821}Im glad youre home, madam. Ive|always given the best thats in me--
+{12823}{12861}Oh, thank you, Katie Nanna.
+{12877}{12922}I always knew you were one of us.
+{12944}{13039}Were clearly soldiers|in petticoats
+{13040}{13135}And dauntless crusaders|for womens votes
+{13136}{13233}THougH we adore men|individually
+{13235}{13347}We agree tHat as a group|tHeyre ratHer stupid
+{13349}{13458}- Mrs Banks.|- Cast off tHe sHackles of yesterday
+{13459}{13544}SHoulder to sHoulder|into tHe fray
+{13546}{13634}Our daugHters daugHters|will adore us
+{13636}{13737}And tHeyll sing|in grateful cHorus
+{13739}{13812}Well done|Sister Suffragette
+{13814}{13890}Being that as it may, I do not|wish to offend, but I--
+{13892}{13984}From Kensington to Billingsgate|one Hears tHe restless cries
+{13985}{14078}From every corner of tHe land|womankind arise
+{14080}{14173}Political equality|and equal rigHts witH men
+{14175}{14283}Take Heart for Mrs PankHurst|Has been clapped in irons again
+{14284}{14428}No more tHe meek and mild|subservients we
+{14429}{14540}Were figHting for our rigHts|militantly
+{14542}{14580}Never you fear
+{14581}{14672}If I may have a word, Mrs Banks.
+{14673}{14773}- So cast off tHe sHackles of yesterday|- Mrs Banks!
+{14775}{14860}And sHoulder to sHoulder|into tHe fray
+{14862}{14968}Our daugHters daugHters|will adore us
+{14970}{15080}And tHeyll sing|in grateful cHorus
+{15082}{15132}- Well done|- Mrs Banks.
+{15134}{15177}- Well done|- Mrs Banks.
+{15179}{15236}- Well done, Sister Suf--|- Mrs Banks!
+{15238}{15365}- What is it, Katie Nanna?|- Mrs Banks, I have something|to say to you.
+{15367}{15449}- Where are the children?|- The children, madam...
+{15451}{15499}to be precise,|are not here.
+{15500}{15547}Theyve disappeared again.
+{15548}{15603}Katie Nanna, this is really|too careless of you.
+{15604}{15652}Doesnt it make|the third time this week?
+{15653}{15747}The fourth, madam. And I for one|have had my fill of it.
+{15748}{15782}Im not one to speak ill|of the children, but--
+{15784}{15841}Oh, please, when do you|expect them home?
+{15843}{15937}I really couldnt say.|And now if youd be good enough|to compute my wages, Ill--
+{15939}{16043}Oh, gracious, Katie Nanna! Youre not|leaving? What will Mr Banks say?
+{16044}{16128}Hes going to be cross enough|as it is to come home and find|the children missing.
+{16129}{16212}Ellen, put these things away. You know|how the cause infuriates Mr Banks.
+{16214}{16259}Yes, maam.
+{16260}{16334}Katie Nanna, I beseech you.|Please reconsider.
+{16336}{16398}Think of the children.|Think of Mr Banks.
+{16400}{16464}He was just beginning|to get used to you.
+{16541}{16577}Posts, everyone!
+{16743}{16863}Four, three, two, one. Fire!
+{17175}{17271}-Katie Nanna, I do beseech you--|-My wages, if you please.
+{17361}{17410}Bit early tonight,|arent you, Admiral?
+{17411}{17490}Nonsense.|Bang on the dot, as usual.
+{17491}{17547}How are things in|the world of finance?
+{17549}{17655}Never better. Moneys sound.|Credit rates are moving up, up, up.
+{17657}{17727}And the British pound is|the admiration of the world.
+{17728}{17784}- Good man.|- How do things look|from where you stand?
+{17786}{17847}Bit chancy, Id say.
+{17849}{17911}The winds coming up|and the glass is falling.
+{17913}{17980}- Dont like the look of it.|- Good, good, good.
+{17982}{18097}Banks, shouldnt wonder if you werent|steering into a nasty piece of weather.
+{18099}{18166}Banks! Do you hear me?
+{18226}{18283}Hello, Katie Nanna.|That must be heavy.
+{18284}{18335}Allow me.
+{18377}{18421}Hmph!
+{18423}{18470}What a very pretty hat.
+{18643}{18738}I feel a surge|of deep satisfaction
+{18739}{18832}MucH as a king astride His noble steed|Thank you.
+{18834}{18939}WHen I return from daily strife|to HeartH and wife
+{18940}{19009}How pleasant is|tHe life I lead
+{19011}{19066}- Dear, its about the children.|- Yes, yes, yes.
+{19067}{19159}I run my Home|precisely on scHedule
+{19160}{19254}At 6::0 1 I marcH|tHrougH my door
+{19255}{19349}My slippers, sHerry and pipe|are due at 6::02
+{19351}{19419}Consistent is|tHe life I lead
+{19421}{19495}- George, theyre missing.|- Splendid. Splendid.
+{19496}{19587}Its grand to be|an EnglisHman in 1 9 1 0
+{19589}{19671}King Edwards on tHe tHrone|Its tHe Age of Men
+{19673}{19767}Im tHe lord of my castle|THe sovereign, tHe liege
+{19769}{19853}I treat my subjects, servants|cHildren, wife
+{19855}{19913}WitH a firm but gentle Hand|Noblesse oblige
+{19915}{20006}Its 6::03 and tHe Heirs|to my dominion
+{20007}{20097}Are scrubbed and tubbed|and adequately fed
+{20099}{20195}And so Ill pat tHem on tHe Head|and send tHem off to bed
+{20197}{20320}AH, lordly is|tHe life I lead
+{20364}{20458}- Winifred, where are the children?|- Theyre not here, dear.
+{20459}{20543}What? Well, of course theyre here!|Where else would they be?
+{20545}{20626}- I dont know, George.|- You dont know?
+{20627}{20719}Well, theyre missing. Katie|Nanna has looked everywhere.
+{20720}{20775}Very well. Ill deal|with this at once.
+{20879}{20930}Give me the police station,|quickly, please.
+{20931}{21019}I dont think we need bother the police,|dear. The facts of the matter--
+{21021}{21068}Kindly do not attempt to|cloud the issue with facts.
+{21070}{21169}One fact, and one fact alone|is crystal clear! Katie Nannas|faltered at her post.
+{21171}{21248}Shes let the family down.|And I shall bring her to bo--
+{21274}{21360}Oh. Shes left us,|hasnt she?
+{21361}{21417}Yes, dear, only just.
+{21419}{21472}What, uh-- Yes.|George Banks here.
+{21474}{21579}Yes. 1 7 Cherry Tree Lane.|Its a matter of some urgency.
+{21580}{21662}I should like you to send|a policeman around immediately.
+{21664}{21703}The policemans here, George!
+{21704}{21803}What? Oh, how very prompt.|What wonderful service.
+{21804}{21872}Thank you so much. Good night.
+{21874}{21923}- Come in, Constable. Come in.|- Thank you, sir.
+{21924}{21989}While going about my duties|on the other side of the park...
+{21991}{22039}I noted some valuables|that had gone astray.
+{22040}{22099}- I believe theyre yours, sir.|- Valuables?
+{22100}{22155}Come along, now. Come along.
+{22210}{22288}Jane! Michael!
+{22290}{22331}Winifred, please dont|be emotional.
+{22332}{22436}Oh, I wouldnt be too hard on em, sir.|Theyve had a long, weary walk today.
+{22438}{22496}Children, come here at once.
+{22616}{22695}- Well?|- Im sorry we lost Katie Nanna, Father.
+{22696}{22793}- You see, it was windy.|- And the kite was too strong for us.
+{22795}{22889}In a manner of speaking, sir, it was the|kite that ran away, not the children.
+{22891}{22950}Thank you, Constable.|I think I can manage this.
+{22952}{23067}Actually it wasnt a very good kite.|We made it ourselves.
+{23068}{23112}Perhaps if you helped us|to make one--
+{23114}{23209}Ah, thats the ticket, sir.|Kites are skittish things.
+{23211}{23252}Why, only last week with|me own youngsters--
+{23254}{23316}Im very grateful to you,|Constable, for returning the children.
+{23318}{23421}And Im sure that|if you go to the kitchen,|Cookll find you a plate of something.
+{23423}{23503}Thank you, sir.|I shall now return to my duties.
+{23504}{23558}Thank you, Constable.
+{23560}{23660}Good night, miss. Good night, maam.|Good night, sir.
+{23661}{23717}Cookll find me something.|I never--
+{23791}{23867}Im awfully sorry|about this, George.
+{23868}{23921}Ill expect youll want|to discuss it.
+{23923}{23975}I would indeed!
+{23977}{24034}Ellen, take Jane and Michael|upstairs straightaway.
+{24036}{24115}Yes, sir.
+{24116}{24236}I knew it. When alls|said and done, who bears|the brunt of everything around here?
+{24238}{24276}Me, thats who!
+{24277}{24365}They dont want an honest,|hard-workin girl around here.
+{24367}{24420}They need a ruddy zookeeper.
+{24452}{24528}Im sorry, dear, but when|I chose Katie Nanna...
+{24530}{24578}I thought she would be|firm with the children.
+{24580}{24628}She looked|so solemn and cross.
+{24629}{24714}Winifred, never confuse efficiency|with a liver complaint.
+{24716}{24762}Ill try to do better next time.
+{24764}{24836}Next time? My dear, youve engaged|six nannies in the last four months!
+{24838}{24928}- And theyve all been|unqualified disasters.|- I quite agree.
+{24929}{25002}Choosing a nanny for the children|is an important and delicate task.
+{25004}{25134}It requires insight, balanced judgment,|and an ability to read character.
+{25136}{25243}Under the circumstances,|I think it might be apropos|to take it upon myself to, uh...
+{25244}{25293}select the next person.
+{25295}{25356}- Oh, would you, George?|- Obviously the way to find|a proper nanny...
+{25357}{25405}is to go about it|in a proper fashion.
+{25407}{25476}I shall put an advertisement in|the Times: Take this down please.
+{25478}{25524}- Yes, of course, dear.|- Wanted.
+{25526}{25579}Uh, no. Uh, required.
+{25580}{25704}Nanny: firm, respectable,|no nonsense.
+{25705}{25797}A BritisH nanny|must be a general
+{25799}{25884}THe future empire|lies witHin Her Hands
+{25886}{25984}And so tHe person tHat we need|to mould tHe breed
+{25986}{26060}Is a nanny|wHo can give commands
+{26062}{26116}- You getting this, Winifred?|- Oh, yes, dear. Every word.
+{26118}{26208}A BritisH bank|is run witH precision
+{26210}{26298}A BritisH Home|requires notHing less
+{26299}{26416}Tradition, discipline and rules|must be tHe tools
+{26418}{26526}WitHout tHem, disorder|catastropHe, anarcHy
+{26527}{26585}In sHort you Have|a gHastly mess
+{26620}{26674}Splendid, George! Inspirational.
+{26675}{26723}The Times will be so pleased.
+{26724}{26784}- Father?|- Yes?
+{26789}{26845}Weve discussed everything...
+{26847}{26904}and were very sorry|about what we did today.
+{26906}{26959}I should certainly think so.
+{26961}{27025}- It was wrong to run away|from Katie Nanna.|- It was indeed.
+{27027}{27081}And we do so want to get on|with the new nanny.
+{27083}{27157}Very sensible. I shall be glad|to have your help in the matter.
+{27159}{27232}We thought you would. Thats why|we wrote this advertisement.
+{27234}{27291}- Advertisement for what?|- For the new nanny.
+{27292}{27359}- You wrote an advert--|- George, I think we should listen.
+{27361}{27462}- You said you wanted our help.|- But, I-- Oh, very well.
+{27463}{27546}"Wanted: a nanny|for two adorable children.
+{27547}{27611}"Adorable. Well, thats|debatable, I must say.
+{27612}{27717}If you want tHis cHoice position
+{27719}{27821}Have a cHeery disposition
+{27823}{27931}-Jane, I dont--|- Rosy cHeeks, no warts
+{27933}{28048}- Thats the part I put in.|- Play games, all sorts
+{28050}{28167}You must be kind|You must be witty
+{28168}{28263}Very sweet|and fairly pretty
+{28265}{28295}- Well, of all the ridic--|- George, please!
+{28296}{28399}Take us on outings|Give us treats
+{28400}{28490}Sing songs|Bring sweets
+{28492}{28564}Never be cross or cruel
+{28565}{28707}Never give us|castor oil or gruel
+{28708}{28800}Love us as a son and daugHter
+{28801}{28920}And never smell of barley water
+{28921}{29003}I put that in too.
+{29004}{29113}If you wont scold|and dominate us
+{29115}{29253}We will never you give you|cause to Hate us
+{29255}{29374}We wont Hide your spectacles|so you cant see
+{29376}{29510}Put toads in your bed|or pepper in your tea
+{29512}{29592}Hurry, Nanny
+{29594}{29710}Many tHanks|Sincerely
+{29712}{29807}Jane and MicHael Banks
+{29833}{29880}Thank you. Most interesting.
+{29881}{29923}And now I think weve had|quite enough of this nonsense.
+{29924}{29997}Please return|to the nursery.
+{30284}{30340}They were only trying to help.|Theyre just children.
+{30342}{30390}Im well aware theyre|just children, Winifred.
+{30392}{30459}I only congratulate myself that|I decided to step in and take a hand.
+{30460}{30544}"Play games, sing songs,|give treats.
+{30545}{30631}Ridiculous. Theres no question|in my mind whatsoever.
+{30632}{30686}Now is the time for action.
+{30729}{30823}Give me the Times, please.|No, I do not know the number.
+{30824}{30888}Oh, George, youre always|so forceful.
+{30889}{30940}The Times?|George Banks here.
+{30942}{31043}1 7 Cherry Tree Lane. I wish to place|an advertisement in your column.
+{31466}{31538}- Time gun ready?|- Ready and charged, sir.
+{31540}{31601}Ill take the report,|Mr Binnacle.
+{31603}{31698}The wind has changed, sir. Seems|to be comin in from a new quarter.
+{31700}{31765}- So it is.|- Sir?|- What is it?
+{31767}{31841}Bit of somethin or other|taking place off the port bow.
+{31900}{31985}Ghastly looking crew,|I must say!
+{32154}{32254}Coo! Theres a fair queue of nannies|outside, sir. Shall I show em in?
+{32256}{32337}Ellen, I said 8:00, and|8:00 it shall jolly well be.
+{32339}{32386}You see?|Twelve seconds to go.
+{32388}{32459}- Ten, nine, eight--|- Posts!
+{32460}{32545}Seven, six, five, four...
+{32547}{32604}three, two, one!
+{32629}{32687}Ellen, it is now 8:00.
+{32760}{32789}Yes, sir.
+{32791}{32859}But I have told you|time and time again, Ellen...
+{32860}{32926}I dislike being hurried|into things.
+{32928}{33036}I dont understand. Theyre not|what we advertised for at all.
+{34233}{34273}Michael, look!
+{34426}{34470}Perhaps its a witch.
+{34472}{34529}Of course not.|Witches have brooms.
+{34917}{35016}Its her. Its the person. Shes|answered our advertisement.
+{35018}{35098}Rosy cheeks and everything.
+{35203}{35270}Ellen, you may now show them in,|one at a time.
+{35271}{35318}Yes, sir.
+{35379}{35475}- You may come in one at a time.|- Thank you.
+{35476}{35523}Oh.
+{35604}{35675}You are the father of Jane|and Michael Banks, are you not?
+{35729}{35795}I said, you are the father|of Jane and Michael Banks.
+{35796}{35858}Well, well ye--|Yes, of course, I mean. Uh--
+{35859}{35909}You brought your references,|I presume. May I see them?
+{35911}{35962}Oh, I make it a point|never to give references.
+{35964}{36013}A very old-fashioned idea|to my mind.
+{36015}{36084}Is that so? Well have to see|about that then, wont we?
+{36086}{36169}Now then, the qualifications.
+{36171}{36236}"Item one:|a cheery disposition.
+{36237}{36284}I am never cross.
+{36285}{36357}"Item two: rosy cheeks.
+{36359}{36396}Obviously.
+{36397}{36489}"Item three:|Play games, all sorts.
+{36491}{36553}Well, Im sure the children will find|my games extremely diverting.
+{36555}{36639}May I? Eh, this paper? Where did you|get it from? I thought I tore it up.
+{36640}{36736}Excuse me. Item four:|You must be kind.
+{36738}{36815}I am kind,|but extremely firm.
+{36816}{36870}- Have you lost something?|- Ah! Yeah.
+{36871}{36942}That paper, you see.|I thought that I--
+{36944}{37005}- You are George Banks, are you not?|- What?
+{37007}{37080}And you did advertise|for a nanny, did you not?
+{37082}{37147}- George Banks.|- Very well then.
+{37176}{37244}I tore it up,|turned it over.
+{37245}{37299}Tore it up again|and threw it in there. Yes.
+{37300}{37349}I beg your pardon.|Are you ill?
+{37375}{37440}I hope not.
+{37441}{37520}Now, about my wages.|The reference here is very obscure.
+{37521}{37584}- Very obscure.|- We must be very clear on|that point, mustnt we?
+{37586}{37650}- Yes, we must indeed.|- I shall require|every second Tuesday off.
+{37652}{37705}Every Tuesday.
+{37790}{37863}On second thoughts, I believe|a trial period would be wise.
+{38023}{38121}Hmm. Ill give you one week.|Ill know by then.
+{38189}{38246}Ill see the children now.|Thank you.
+{38601}{38683}Close your mouth please,|Michael. We are not a codfish.
+{38747}{38816}Well, dont stand there staring.|Best foot forward.
+{38818}{38866}Spit spot!
+{38931}{38966}- George?|- Aah!
+{38967}{39015}George, what on earth|are you doing?
+{39016}{39093}- I thought you were|interviewing nannies.|- I was! I was!
+{39095}{39138}You mean youve|selected one already?
+{39140}{39206}- Yes, its done. Its, its all done.|- Well, where is she?
+{39208}{39271}What? Well, eh, shes in|the nursery of course, I mean.
+{39272}{39334}-I put her to work straightaway, I mean.|-How clever of you!
+{39336}{39408}I would have muddled|the whole thing.
+{39409}{39512}Tell me, is she everything|that wed hoped shed be?
+{39514}{39606}Well, i-it all happened rather|quickly. I mean, I-- I, uh--
+{39608}{39665}Will she be firm?|Will she give commands?
+{39667}{39751}Will she mould our young breed?
+{39752}{39814}You know, Winifred,|I think she will.
+{39842}{39894}- I think she will.|- In that case...
+{39896}{39972}perhaps youd better tell Ellen|to dismiss the others.
+{39974}{40084}- The others? Oh, yes. Ellen?|- Y-Yes, sir?
+{40086}{40161}Tell the other applicants they may go.|The position has been filled.
+{40163}{40241}- The others, sir?|- Yes, the others.
+{40293}{40360}How many nannies does she|think we need in this house?
+{40422}{40501}The position|has been filled.
+{40646}{40717}Im afraid the nursery|isnt very tidy.
+{40719}{40772}It is rather like|a bear pit, isnt it?
+{40774}{40835}- Thats a funny sort of bag.|- Carpet.
+{40837}{40887}- You mean to carry carpets in?|- No. Made of.
+{40889}{40993}This is your room, and theres|a lovely view of the park.
+{40995}{41061}Hmm.
+{41063}{41122}Well, its not exactly|Buckingham Palace.
+{41193}{41264}Still, its clean.
+{41266}{41328}Yes, I think it will be|quite suitable.
+{41330}{41376}Just needs a touch|here and there.
+{41415}{41472}Well, first things first.
+{41474}{41566}I always say, the place|to hang a hat is on a hat stand.
+{41917}{41988}Ah! This will never do!
+{42125}{42205}I much prefer seeing|all of my face at the same time.
+{42237}{42302}There-- But there was|nothing in it.
+{42303}{42378}Never judge things|by their appearance.
+{42379}{42441}Even carpetbags.|Im sure I never do.
+{42587}{42663}A thing of beauty|is a joy forever.
+{42775}{42853}Mmm, a little more light, perhaps.
+{43123}{43185}We better keep an eye|on this one.
+{43187}{43252}- Shes tricky.|- Shes wonderful.
+{43254}{43316}Much better!
+{43336}{43391}Now, let me see.
+{43527}{43631}Thats funny. I always carry it with me.|It must be here somewhere.
+{43633}{43679}- What?|- My tape measure.
+{43680}{43756}- What do you want it for?|- I want to see how you two measure up.
+{43895}{43975}Well, thats the funniest thing I ever|saw. I know its down here somewhere.
+{43976}{44046}Ah, ha-ha, ha-ha!|Here it is.
+{44047}{44128}Good. Come along, then. Quickly.
+{44153}{44197}Head up, Michael. Dont slouch.
+{44281}{44352}Just as I thought.|Extremely stubborn and suspicious.
+{44354}{44424}- I am not!|- See for yourself.
+{44472}{44539}"Extremely stubborn|and sus--
+{44540}{44600}Suspicious.
+{44602}{44653}Now you,Jane.
+{44705}{44799}Mmm. "Rather inclined to giggle.|Doesnt put things away.
+{44822}{44884}How bout you?
+{44886}{44949}Very well. Hold this for me.
+{45064}{45123}As I expected. "Mary Poppins.
+{45124}{45199}Practically perfect|in every way.
+{45200}{45295}Mary Poppins! Is that your name?|Its lovely.
+{45296}{45354}Thank you.|Ive always liked it.
+{45356}{45414}- Now, shall we get on with it?|- Get on with what?
+{45416}{45495}In your advertisement, did you|not specifically request to play games?
+{45496}{45533}- Oh, yes!|- Very well, then.
+{45547}{45625}Our first game is called|"Well Begun Is Half Done.
+{45627}{45661}I dont like|the sound of that.
+{45663}{45739}Otherwise entitled,|"Lets Tidy Up the Nursery.
+{45740}{45795}I told you|she was tricky.
+{45843}{45938}- Shall we begin?|- It is a game, isnt it, Mary Poppins?
+{45940}{46005}Well, it depends on|your point of view.
+{46007}{46072}You see, in every job|that must be done...
+{46073}{46125}there is an element of fun.
+{46127}{46207}You find the fun, and snap!
+{46209}{46263}The jobs a game.
+{46265}{46379}And every task you undertake|becomes a piece of cake
+{46381}{46435}A lark, a spree
+{46437}{46529}Its very clear to see
+{46531}{46642}THat a spoonful of sugar
+{46644}{46706}Helps tHe medicine go down
+{46708}{46805}THe medicine go down|Medicine go down
+{46807}{46925}Just a spoonful of sugar|Helps tHe medicine go down
+{46927}{47029}In a most deligHtful way
+{47118}{47237}A robin featHering His nest|Has very little time to rest
+{47239}{47337}WHile gatHering His bits|of twine and twig
+{47339}{47448}THougH quite intent in His pursuit|He Has a merry tune to toot
+{47449}{47579}He knows a song|will move tHe job along
+{47813}{47933}For a spoonful of sugar|Helps tHe medicine go down
+{47934}{48038}THe medicine go down|Medicine go down
+{48040}{48151}Just a spoonful of sugar|Helps tHe medicine go down
+{48153}{48257}In a most deligHtful way
+{49719}{49826}THe Honeybees tHat fetcH tHe nectar|from tHe flowers to tHe comb
+{49828}{49917}Never tire of ever buzzing|to and fro
+{49918}{50034}Because tHey take a little nip|from every flower tHat tHey sip
+{50036}{50096}-And Hence|-And Hence
+{50097}{50154}- THey find|- THey find
+{50156}{50272}THeir task is not a grind
+{50495}{50525}Cheeky.
+{50584}{50648}Dont be all day|about it, please.
+{51313}{51377}Let me out!|Let me out!
+{51651}{51720}Let me out!
+{51721}{51768}Well, that was very--
+{51800}{51833}Thank you now--
+{51862}{51916}When youve quite finished!
+{51940}{52008}Thank you.
+{52067}{52161}That will be quite sufficient.|Hats and coats, please.
+{52162}{52205}Its time for our outing|in the park.
+{52206}{52291}I dont want an outing. I want|to tidy up the nursery again.
+{52293}{52349}Enough is as good as a feast.|Come along, please.
+{52350}{52429}Let me look at you. Well, youre not|as well turned out as Id like.
+{52430}{52490}Still, theres time.|Theres time.
+{52492}{52588}Spit spot! And off we go.
+{52589}{52689}For a spoonful of sugar|Helps tHe medicine go down
+{52690}{52782}THe medicine go down|Medicine go down
+{52784}{52870}Just a spoonful of sugar|Helps tHe medicine go down
+{52872}{52957}In tHe most|deligHtful way
+{53707}{53793}CHim cHiminy, CHim cHiminy|CHim cHim cHeroo
+{53794}{53866}I does wHat I likes|And I likes
+{53902}{53957}WHat I do
+{53981}{54029}Hello, art lovers.
+{54030}{54113}Today Im a screever|and as you can see
+{54114}{54183}A screevers an artist
+{54217}{54268}Of HigHest degree
+{54269}{54370}And its all me own work|from me own memory
+{54407}{54467}Well, not Royal Academy,|I suppose.
+{54469}{54508}Still theyre better than|a finger in your eye, aint they?
+{54509}{54606}CHim cHiminy, CHim cHiminy|CHim cHim cHeroo
+{54608}{54705}I draws wHat I likes|and I likes wHat I drew
+{54777}{54865}No remuneration|do I ask of you
+{54867}{54958}But me cap would be glad|of a copper or two
+{54960}{55059}Me cap would be glad|of a copper or two
+{55265}{55323}Wait! Dont move.
+{55325}{55401}Dont move a muscle.
+{55402}{55484}Stay right where you are.
+{55485}{55625}Id know that silhouette|anywhere! Mary Poppins!
+{55627}{55726}Its nice to see you again, Bert.|I expect you know Jane and Michael.
+{55728}{55817}Well, Ive seen em here and about.|Chasin a kite last time, werent it?
+{55818}{55895}Mary Poppins is|taking us to the park.
+{55897}{56002}To the park?|Not if I know Mary Poppins.
+{56004}{56053}Other nannies take children|to the park.
+{56055}{56161}When youre with Mary Poppins,|suddenly youre in places|youve never dreamed of.
+{56162}{56210}And quick as you can say|"Bobs your uncle...
+{56212}{56278}the most unusual things|begin to happen.
+{56279}{56339}Im sure I havent the faintest|idea what youre talking about.
+{56341}{56429}Well mind, its not my place to say,|but what shes probably got in mind...
+{56430}{56500}is a jolly holiday|somewheres or other.
+{56502}{56583}Something along these lines,|I shouldnt be surprised.
+{56585}{56666}"Punting on the Thames. Thats|always good if you like an outing.
+{56667}{56715}Here we go.
+{56975}{57056}The circus. How about a lovely|circus? Lions and tigers.
+{57058}{57133}World-famous artistes performing|death-defyin feats...
+{57134}{57199}of dexterity and skill|before your very eyes.
+{57215}{57262}Ta-da!
+{57714}{57759}Ta-da!
+{57841}{57938}Oh, thats lovely. If you please,|Id much rather go there.
+{57940}{58012}Beautiful, aint it?|A typical English countryside...
+{58014}{58074}as done by a true|and lovin hand.
+{58075}{58144}Though you cant see it,|theres a little country fair...
+{58146}{58226}down that road and|uh, over the hill.
+{58227}{58284}I dont see any road.
+{58286}{58333}What? No road?
+{58385}{58478}Just wants a bit|of somethin here...
+{58543}{58628}and a bit of somethin there.
+{58630}{58746}There. A country road suitable|for travel and high adventure.
+{58748}{58808}Please may we go,|Mary Poppins? Please?
+{58809}{58899}Such a lovely place. Dont you|think its lovely, Mary Poppins?
+{58901}{58964}Nows the time, Mary Poppins.|No ones lookin.
+{58965}{59017}- Please, Mary Poppins. Please!|- Please, Mary Poppins. Please!
+{59018}{59110}I have no intention of making|a spectacle of myself, thank you.
+{59112}{59184}All right, Ill do it myself.
+{59209}{59261}- Do what?|- Bit of magic.
+{59262}{59312}- A bit of magic?|- Its easy.
+{59313}{59375}Lets see. You think.
+{59403}{59458}You wink.
+{59460}{59509}You do a double blink.
+{59545}{59613}You close your eyes and jump.
+{59737}{59790}Is something|sposed to happen?
+{59792}{59871}Bert, what utter nonsense!
+{59915}{59989}Why do you always complicate things|that are really quite simple?
+{59991}{60045}Give my your hand, please,|Michael. Dont slouch.
+{60047}{60097}One, two.
+{60481}{60575}Mary Poppins,|you look beautiful.
+{60577}{60674}- Do you really think so?|- Cross my heart you do.|Like the day I met ya.
+{60676}{60732}You look fine too, Bert.
+{60735}{60789}I thought you said|there was a fair.
+{60790}{60870}So I did. Down the road|behind the hill, remember?
+{60872}{60950}Come on! I hear|the merry-go-round.
+{60952}{61025}- Tell em Bert sent ya.|- Dont fall and smudge the drawing.
+{61142}{61191}Aint it a glorious day
+{61192}{61242}RigHt as a mornin in May
+{61244}{61320}I feel like I could fly
+{61321}{61401}Now, Bert.|None of your larking about.
+{61403}{61508}Have you ever seen|tHe grass so green
+{61509}{61602}Or a bluer sky
+{61648}{61766}OH, its a jolly Holiday witH Mary
+{61768}{61873}- Mary makes your Heart so ligHt|- You havent changed a bit, have you?
+{61875}{61976}WHen tHe day is grey|and ordinary
+{61977}{62072}- Mary makes tHe sun sHine brigHt|- Oh, honestly!
+{62073}{62187}OH, Happiness is bloomin|all around Her
+{62188}{62288}THe daffodils are|smilinat tHe dove
+{62289}{62392}WHen Mary Holds your Hand|you feel so grand
+{62393}{62498}Your Heart starts beatin|like a big brass band
+{62563}{62704}- You are lightheaded.|- Its a jolly Holiday witH Mary
+{62705}{62784}No wonder tHat its Mary|tHat we love
+{63132}{63237}OH, its a jolly Holiday|witH Mary
+{63239}{63337}Mary makes your Heart so ligHt
+{63339}{63436}WHen tHe day is grey|and ordinary
+{63437}{63540}Mary makes tHe sun|sHine brigHt
+{63541}{63655}OH, Happiness is bloomin|all around Her
+{63656}{63747}THe daffodils are smiling at tHe dove|Oink, oink.
+{63748}{63863}WHen Mary Holds your Hand|you feel so grand
+{63864}{63968}Your Heart starts beatin|like a big brass band
+{64026}{64122}Its a jolly Holiday witH Mary
+{64124}{64218}No wonder tHat its Mary|tHat we love
+{66560}{66647}- Thank you.|- Our pleasure, Mary Poppins.
+{66767}{66880}OH, its a jolly Holiday|witH you, Bert
+{66881}{66984}- Gentlemen like you are few|- A vanishing breed, thats me.
+{66986}{67091}THougH yourejust|a diamond in tHe rougH, Bert
+{67092}{67191}- UnderneatH your blood is blue|- Common knowledge.
+{67193}{67295}You d never tHink of pressing|your advantage
+{67296}{67400}- Forbearance is|tHe Hallmark of your creed|- True.
+{67402}{67503}A lady neednt fear|wHen you are near
+{67504}{67608}Your sweet gentility|is crystal clear
+{67610}{67715}OH, its a jolly Holiday|witH you, Bert
+{67716}{67819}Ajolly, jolly Holiday witH you
+{68104}{68128}Waiter!
+{68153}{68177}Waiter!
+{68653}{68705}Now then, whatd be nice?
+{68707}{68764}Well start witH raspberry ice
+{68766}{68877}And tHen some cakes and tea
+{68879}{68973}- Order wHat you will|- THerell be no bill
+{68975}{69041}Its complimentary
+{69043}{69077}Youre very kind.
+{69079}{69151}Anything for you,|Mary Poppins.
+{69152}{69199}Youre our favourite person.
+{69201}{69307}Right you are. Its true that--|Mavis and Sybil|Have ways tHat are winnin
+{69309}{69358}And Prudence and Gwendolyn|set your Hearts spinnin
+{69359}{69396}PHoebes deligHtful|Maude is disarming
+{69398}{69452}-Janice|- Felicia|- Lydia|- CHarming
+{69454}{69525}CyntHias dasHing, Vivians sweet|StepHanies smasHing, Priscilla a treat
+{69527}{69576}- Veronica|- Millicent|-Agnes|-And Jane
+{69578}{69618}Convivial company|time and again
+{69619}{69675}Dorcas and PHyllis|and Glynis are sorts
+{69677}{69710}Ill agree tHeyre|tHreejolly good sports
+{69711}{69747}But cream of tHe crop|Tip of tHe top
+{69748}{69818}Is Mary Poppins|and tHere we stop
+{72171}{72275}WHen Mary Holds your Hand|you feel so grand
+{72277}{72362}Your Heart starts beatin|like a big brass band
+{72424}{72515}Its a jolly Holiday witH Mary
+{72517}{72610}No wonder tHat|its Mary tHat we love
+{72611}{72701}No wonder tHat|its Mary tHat we love
+{72703}{72838}No wonder tHat|its Mary tHat we love
+{74151}{74195}Ya-hoo!
+{74244}{74291}Ya-hoo!
+{74463}{74525}Ya-hoo! Ya-hoo!
+{74527}{74613}- Ya-hoo!|- Our own private merry-go-round.
+{74615}{74707}Very nice.|Very nice, indeed...
+{74708}{74748}if you dont wanna go nowhere.
+{74750}{74837}Who says were not|going anywhere?
+{74839}{74873}Oh, guard!
+{74893}{74969}Righto, Mary Poppins.
+{74971}{75014}Thank you.
+{75319}{75386}Theyre off! Its Mary Poppins|leadin by two lengths.
+{75387}{75437}Jane is second by a length.|Michael third.
+{76003}{76058}My horse is the fastest.
+{76059}{76145}Do you hear that, mate?|Do you wanna put up with that?
+{76147}{76250}Thats the ticket! Come on, my lad.|Is that the best you can do?
+{76251}{76284}Hurry up, boy. Hurry up!
+{76286}{76384}Not so fast, please. Michael!
+{76386}{76447}Now really, Bert.|Youre as bad as the children.
+{76472}{76521}Sorry. Whoa, boy! Whoa!
+{76523}{76621}- Whoa.|- Easy, boy. Whoa. Whoa.
+{76666}{76746}Just a bit of high spirits,|Mary Poppins.
+{76747}{76846}Please control yourself.|We are not on a racecourse.
+{76980}{77039}Follow me, please.
+{77401}{77473}- Good morning.|- Oh, yes, quite. Wha--
+{77559}{77617}I say!
+{77619}{77687}Have you ever?
+{77719}{77753}Never!
+{77949}{78027}View Halloo!
+{78028}{78089}Oh, yes, definitely.|A view Halloo.
+{78091}{78138}View Halloo?
+{78228}{78300}Faith and begorra!|Tis them Redcoats again!
+{78302}{78392}View Halloo!|View Halloo!
+{78394}{78440}View Halloo!
+{78442}{78487}Oh, musha, musha.
+{78489}{78563}Poor litl bloke.|Lets give him a hand.
+{78585}{78645}Saints preserve us!
+{78647}{78693}Yikes!
+{78738}{78794}Tally ho! Da-doo, da-doo!
+{78988}{79068}Up you go. Now hang on.
+{79147}{79245}Would you look at that now?|Tis an elegant merry-go-round horse.
+{79295}{79352}Come on and fight,|you dirty omadhauns.
+{79354}{79415}I can lick|the lot of yas.
+{79417}{79495}Faster, me beauty! Faster!
+{80691}{80774}Oh, riders, would you be|so kind as to let me pass?
+{80775}{80843}Certainly, maam.
+{80845}{80903}- Thank you.|- Not at all, maam.
+{81267}{81314}Excellent time, gentlemen.
+{81315}{81383}- Oh, yes, quite.|- Perfect day for it, of course.
+{81440}{81502}Oh. Oh, how nice.
+{81536}{81626}Hooray! Hooray! Hooray!
+{81627}{81712}Hooray! Hooray! Hooray! Hooray!
+{81714}{81775}Hold still, now.|Watch for the dickie bird.
+{81811}{81877}Uh, how does it feel,|Mary Poppins, winning the race?
+{81878}{81932}- Oh, well I--|- Gaining fame and fortune.
+{81934}{81998}- Uh, Yes.|- Having your picture taken|for the newspaper.
+{81999}{82034}Uh, oh, actually,|Im delighted.
+{82036}{82096}Besides having your extreme|good looks, if I may say so.
+{82098}{82178}- Oh, well, I wouldnt go--|- There probably arent words|to describe your emotions.
+{82180}{82241}Now, now, now, now,|gentlemen, please.
+{82242}{82301}On the contrary,|theres a very good word.
+{82302}{82362}- Am I right, Bert?|- Tell em what it is.
+{82364}{82410}Right!
+{82412}{82521}Its supercalifragilistic-expialidocious
+{82522}{82597}Even tHougH tHe sound of it|is sometHing quite atrocious
+{82598}{82674}If you say it loud enougH|youll always sound precocious
+{82675}{82749}Supercalifragilistic-expialidocious
+{82750}{82826}Um diddle diddle diddle, Um diddle ay|Um diddle diddle diddle, Um diddle ay
+{82828}{82894}Um diddle diddle diddle, Um diddle ay|Um diddle diddle diddle, Um diddle ay
+{82895}{82976}Because I was afraid to speak|wHen I was just a lad
+{82978}{83051}Me fatHer gave me nose a tweak|and told me I was bad
+{83053}{83128}But tHen one day I learned|a word tHat saved me acHinnose
+{83130}{83194}THe biggest word you ever Heard|and tHis is How it goes
+{83195}{83279}OH, supercalifragilistic-expialidocious
+{83281}{83350}Even tHougH tHe sound of it|is sometHing quite atrocious
+{83352}{83423}If you say it loud enougH|youll always sound precocious
+{83425}{83495}Supercalifragilistic-expialidocious
+{83497}{83566}Um diddle diddle diddle, Um diddle ay|Um diddle diddle diddle, Um diddle ay
+{83568}{83637}Um diddle diddle diddle, Um diddle ay|Um diddle diddle diddle, Um diddle ay
+{83638}{83710}Hes travelled all around|tHe world and everywHere He went
+{83712}{83774}He d use His word and all would say|THere goes a clever gent
+{83776}{83854}WHen dukes and maHarajaHs|pass tHe time of day witH me
+{83855}{83921}I d say me special word and|tHen tHey d ask me out to tea
+{83922}{83999}OoH, supercalifragilistic-expialidocious
+{84001}{84070}Even tHougH tHe sound of it|is sometHing quite atrocious
+{84072}{84142}If you say it loud enougH|youll always sound precocious
+{84144}{84215}Supercalifragilistic-expialidocious
+{84217}{84280}Um diddle diddle diddle, Um diddle ay|Um diddle diddle diddle, Um diddle ay
+{84282}{84321}You know, you can say it|backwards, which is...
+{84322}{84376}dociousaliexpiistic-fragilcalirupus.
+{84378}{84436}- But thats going a bit too far,|dont you think?|- Indubitably.
+{84438}{84493}So wHen tHe cat Has got your tongue|tHeres no need for dismay
+{84494}{84574}- Here, here!|-Just summon up tHis word and|tHen youve got a lot to say
+{84576}{84643}But better use it carefully|or it could cHange your life
+{84645}{84681}- For example.|- Yes?
+{84682}{84766}One night I said it to me girl,|and now me girls me wife.
+{84768}{84875}Ow! And a lovely thing|she is too.
+{84877}{84974}SHes|supercalifragilistic-expialidocious
+{84976}{85033}Supercalifragilistic-expialidocious
+{85034}{85093}Supercalifragilistic-expialidocious
+{85094}{85198}Supercalifragilistic-expialidocious
+{85402}{85454}Jane! Michael!
+{85545}{85611}Stay close now.
+{85679}{85758}Oh, Bert,|all your fine drawings.
+{85759}{85837}Well, theres more|where they came from.
+{85838}{85934}Meantime, Im changing businesses. This|here is lovely hot chestnut weather.
+{85935}{85992}- Come along, children.|- Bye, Bert.
+{85994}{86062}- Bye-bye.|- Bye, Bert. Bye.
+{86063}{86112}- Bye,Jane and Michael.|- Bye, Bert.
+{86114}{86203}CHim cHiminy, cHim cHiminy|CHim cHim cHeroo
+{86205}{86301}La dum da da dum|da da da da dum
+{86681}{86762}No, no, I wont take|your nasty medicine!
+{86833}{86883}Do we have to, Mary Poppins?
+{86885}{86966}People who get their feet wet|must learn to take their medicine.
+{87061}{87140}- I dont want it. Im not gonna--|- Oh!
+{87397}{87451}Lime cordial! Delicious!
+{87453}{87519}Strawberry! Mmm!
+{87632}{87689}R-R-Rum punch.
+{87690}{87739}Quite satisfactory.
+{87807}{87866}Mary Poppins, you wont|ever leave us, will you?
+{87867}{87945}- Do you have a handkerchief|under your pillow?|- Mm-hmm.
+{87946}{87989}Will you stay|if we promise to be good?
+{87990}{88084}Och! Thats a piecrust promise.|Easily made, easily broken.
+{88086}{88150}Whatever would|we do without you?
+{88151}{88221}I shall stay|until the wind changes.
+{88222}{88277}But, Mary Poppins,|how long will that be?
+{88278}{88330}Silence, please.|Its time to go to sleep.
+{88332}{88434}Oh, we couldnt possibly go to sleep! So|many lovely things have happened today.
+{88435}{88504}- Did they?|- Yes! When we jumped into|Berts chalk picture.
+{88506}{88572}And we rode the merry-go-round,|and all the horses jumped off, and--
+{88574}{88626}And we all went riding|in the countryside!
+{88628}{88721}- Tally Ho! Tchunga! Tchunga! Yikes!|- Really?
+{88722}{88802}Mary Poppins, dont you remember?|You won the horse race!
+{88803}{88902}A respectable person like me in a horse|race? How dare you suggest such a thing.
+{88903}{88962}But I saw you do it!
+{88964}{89050}Now, not another word or I shall have|to summon the policeman. Is that clear?
+{89051}{89100}It did happen! I saw it!
+{89102}{89178}- Go to sleep.|- No, I dont want to go to sleep.
+{89179}{89242}Mary Poppins,|were much too excited!
+{89244}{89277}Very well, suit yourselves.
+{89324}{89394}Stay awake
+{89396}{89512}Dont rest your Head
+{89514}{89595}Dont lie down
+{89597}{89721}Upon your bed
+{89722}{89832}WHile tHe moon drifts
+{89834}{89949}In tHe skies
+{89950}{90062}Stay awake
+{90064}{90275}Dont close your eyes
+{90277}{90347}THougH tHe world
+{90349}{90462}Is fast asleep
+{90463}{90566}THougH your pillows
+{90567}{90668}Soft and deep
+{90670}{90762}Youre not sleepy
+{90763}{90868}As you seem
+{90870}{90994}Stay awake
+{90995}{91062}Dont nod
+{91064}{91198}And dream
+{91199}{91315}Stay awake
+{91346}{91449}Dont nod
+{91480}{91569}And
+{91570}{91673}Dream
+{91976}{92052}Glorious day, Mr Binnacle.|Glorious!
+{92054}{92147}No one sleeps this morning.|Put in a double charge of powder.
+{92149}{92206}A double charge?|Aye, aye, sir.
+{92208}{92281}Shake things up a bit, what?
+{92318}{92394}- Lovely, lovely morning, Ellen.|- Indeed it is, maam.
+{92396}{92471}- Have you put the spoiled eggs|in my carryall?|- Yes, maam.
+{92473}{92547}After our meeting at the Albert Hall,|were all going to Downing Street...
+{92549}{92630}to throw things|at the Prime Minister.
+{92632}{92710}Oh, how distinguished|you look this morning, George.
+{92711}{92765}Whats all that fearful|caterwauling in the kitchen?
+{92766}{92855}- Its Cook singing.|- Cook singing? Whats wrong with her?
+{92857}{92938}Shes happy as a cricket.|As a matter of fact...
+{92939}{93010}since you hired Mary Poppins,|the most extraordinary thing...
+{93012}{93064}- seems to have come over the household.|- Is that so?
+{93066}{93142}Take Ellen for instance.|She hasnt broken a dish all morning.
+{93144}{93205}- Really? Well, that is extraordinary.|- And another thing.
+{93206}{93302}She and Cook usually fight like|cats and dogs, but today--
+{93304}{93391}- Let me hold the door|for you, Ellen dear.|- Thanks ever so, ducks.
+{93579}{93643}Ellen, stop making|that offensive noise!
+{93684}{93747}And shut the window!|That birds giving me a headache.
+{93749}{93810}Yes, sir.
+{93922}{93994}Quiet! Youre giving|the master an headache.
+{94058}{94126}Im so sorry youre not feeling|well this morning, George.
+{94127}{94188}Who said Im not feeling well?|Im fit as a fiddle.
+{94190}{94258}I just dont understand why everyones|so confoundedly cheerful!
+{94259}{94333}Supercalifragilistic-expialidocious
+{94334}{94425}Supercalifragilistic-expialidocious
+{94426}{94516}- Supercalifragilistic-expialidocious|- How lovely. Thank you, my darling.
+{94518}{94603}Supercalifragilistic-expialidocious
+{94605}{94658}Supercalifragilistic-expialidocious
+{94659}{94720}- Stop! Stop! Stop!|- Good morning, Father.
+{94722}{94790}- Good morning.|- Mary Poppins taught us|the most wonderful words.
+{94791}{94867}Supercalifragilistic-expialidocious
+{94869}{94936}What on earth are you|talking about? Supercali--
+{94938}{94982}Super-- Or whatever|the infernal thing is.
+{94984}{95037}Its something to say|when you dont know what to say.
+{95038}{95103}Yes, well, I always know what to say.|Go on, hurry along, please.
+{95105}{95219}Yes, Father.|Supercalifragilistic-expialidocious
+{95221}{95332}Winifred, will you be good enough|to explain this unseemly hullabaloo?
+{95334}{95399}I dont think theres anything|to explain. Do you?
+{95401}{95460}Its obvious that youre|out of sorts this morning.
+{95462}{95508}The children just came in|to make you feel better.
+{95510}{95572}I should like to make one thing|quite clear, once and for all.
+{95574}{95652}I am not out of sorts.|I am in a perfectly equable mood.
+{95654}{95721}I do not require|being made to feel better!
+{95722}{95808}But youre always saying that you wanted|a cheerful and pleasant household.
+{95810}{95877}Winifred, I should like to make|a slight differentiation...
+{95878}{95940}between the word cheerful and|just plain giddy irresponsibility.
+{95942}{96042}Excuse me, dear.|Posts, everyone, please!
+{96044}{96106}I have no objection to anyone|being cheerful or pleasant.
+{96107}{96154}But I do expect|a certain decorum.
+{96155}{96225}I can tell you one thing, Winifred.|I dont propose standing idly by...
+{96226}{96309}and letting that woman, Mary Poppins,|undermine the discipline and--
+{96355}{96417}Theres something odd,|I may say extremely odd...
+{96418}{96480}about the behaviour of this household|since that woman arrived.
+{96482}{96566}- And I want you to know|that Ive noticed it!|- Yes, dear.
+{96636}{96698}- One thing more.|- Yes, dear?
+{96699}{96746}I suggest you have|this piano repaired.
+{96748}{96822}When I sit down to an instrument,|I like to have it in tune.
+{96824}{96895}But, George, you dont play.
+{96897}{96986}Madam, that is entirely|beside the point!
+{97305}{97405}Now, let me see. First of all,|we must go to the piano tuners.
+{97406}{97470}And then we go to Mrs Corys sh--
+{97472}{97558}Mrs Corys shop for some gingerbread.|Ah, gingerbread!
+{97560}{97620}And then we go to the fishmongers,|I think, for a nice dover sole...
+{97622}{97656}and a pint of prawns.
+{97658}{97728}Uh, Michael,|stop stravaging along behind.
+{97730}{97794}Ahoy, there! Ahoy!
+{97833}{97902}- Good day to you!|- Good morning, Admiral.
+{97904}{98030}Michael, what fine adventure|are we off upon today?
+{98032}{98122}Going to fight the Hottentots?|Dig for buried treasure?
+{98123}{98176}Were going to buy some fish.
+{98178}{98258}Very good! Proceed at flank speed.
+{98260}{98308}Aye, aye, sir.
+{98310}{98359}Lets put our backs|into it, lad.
+{98361}{98450}More spit and polish.|Thats whats wanted around here.
+{98499}{98550}Its Andrew!
+{98615}{98686}Uh, not so fast, please. I cant|understand a word youre saying.
+{98751}{98847}Again? Och!|Oh, the poor man!
+{99046}{99097}Bless you.
+{99162}{99244}Well, yes, of course. Theres not|a moment to lose. Ill go straightaway.
+{99246}{99314}And thank you very much.
+{99315}{99370}- What did he say?|- He said, "Youre welcome.
+{99372}{99450}-What else did he say?|-I dont think he said anything.
+{99452}{99503}You know best, as usual.
+{99505}{99622}- I thought we were gonna buy some fish.|- Theres been a change of plans.
+{99670}{99739}Come along, please.|Dont straggle.
+{99961}{100021}Andrew, worrying|wont help anyone.
+{100023}{100068}Why dont you go home|and put your feet up?
+{100356}{100432}- Oh, Bert, Im glad youre here.|- I came over the moment I heard.
+{100434}{100482}Well, how is he?
+{100484}{100552}- Ive never seen him as bad|as this, and thats the truth.|- Oh!
+{100554}{100607}How about them?|Its contagious, you know.
+{100608}{100673}- Shall we get spots?|- Oh, highly unlikely.
+{100718}{100818}- Oh, Uncle Albert!|- Oh, bless me. Bless my soul.
+{100820}{100903}Its Mary Poppins!|Im delight--
+{100904}{100985}- Im delighted to see you, Mary.|- Uncle Albert, you promised!
+{100987}{101054}Oh, I kn-- I know, I--
+{101056}{101145}But I tried.|Really, I did, my dear. I--
+{101147}{101238}But I so enjoy laughing,|you know? And, well--
+{101240}{101327}And when I start,|its all up with the--
+{101328}{101395}Thats what happens to me.
+{101396}{101471}I love to laugh!|Oh, my goodness!
+{101472}{101557}I cant help it. You can see that.
+{101559}{101648}I just like laughing,|thats all.
+{101650}{101744}Jane, dont you dare!|Youll only make him worse.
+{101746}{101856}- Its really quite serious!|- Yes, whatever you do,|keep a straight face.
+{101858}{101936}Last time, it took us|three days to get him down.
+{101994}{102043}I love to laugH
+{102087}{102175}Loud and long and clear
+{102177}{102227}I love to laugH
+{102275}{102325}Its getting worse every year
+{102360}{102438}THe more I laugH
+{102440}{102513}THe more I fill witH glee
+{102514}{102573}- Youre no help at all.|- THe more tHe glee
+{102620}{102675}THe more Im a merrier me
+{102705}{102753}Its embarrassing.
+{102755}{102833}THe more Im a merrier me
+{102980}{103067}Some people laugH|tHrougH tHeir noses
+{103069}{103125}Sounding sometHing like tHis
+{103175}{103233}Dreadful!
+{103235}{103335}Some people laugH tHrougH|tHeir teetH, goodness sakes
+{103337}{103397}Hissing and fizzing like snakes
+{103429}{103506}Not at all attractive|to my way of thinking.
+{103508}{103550}Some laugH too fast
+{103609}{103691}Some only blast
+{103734}{103799}OtHers, tHey twitter like birds
+{103865}{103915}You know, youre as bad as he is.
+{103917}{104014}THen tHeres tHat kind|wHat cant make up tHeir mind
+{104173}{104262}WHen tHings|strike me as funny
+{104264}{104334}I cant Hide it inside and squeak
+{104370}{104454}As tHe squeakelers do
+{104456}{104597}Ive got to let go|witH a Ho Ho Ho Ho
+{104626}{104702}And laugH
+{104704}{104741}Too
+{104742}{104789}How nice!
+{104790}{104870}I was hoping youd turn up.
+{104872}{104932}- Turn up!|- We always have such a jolly time.
+{104980}{105052}We love to laugH
+{105102}{105185}Loud and long and clear
+{105186}{105277}We love to laugH
+{105279}{105361}So everybody can Hear
+{105362}{105426}THe more you laugH
+{105428}{105489}Whoops, dont you two start.|Come back down here.
+{105491}{105546}THe more you fill witH glee
+{105548}{105638}THe more tHe glee
+{105640}{105729}THe more were a merrier we
+{105837}{105940}Oh, welcome, children! Welcome!|Make yourselves comfortable.
+{105941}{106012}Thats right.|Pull up a chair.
+{106013}{106056}Oh, pull up--
+{106057}{106133}I must say, youre a sight,|the lot of you!
+{106135}{106226}Speaking of sight,|it reminds me of me brother.
+{106228}{106285}Hes got a nice cushy job|in a watch factory.
+{106286}{106337}In a watch factory?|What does he do?
+{106339}{106417}He stands about all day|and makes faces!
+{106491}{106567}He makes faces|in a watch fact--
+{106596}{106661}You made that up. I know.
+{106743}{106803}Thats so good!
+{106805}{106876}Such behaviour!
+{106985}{107081}Well, its the most|disgraceful sight Ive ever seen,|or my name isnt Mary Poppins.
+{107083}{107163}Speaking of names, I know a man|with a wooden leg named Smith.
+{107165}{107248}Whats the name|of his other leg?
+{107249}{107327}Wasnt that funny?|Whats the name of his other--
+{107329}{107387}Now, then, children,|its time for tea.
+{107389}{107446}I will not have|my schedule interrupted.
+{107448}{107541}Oh, please stay. Look, I have|a splendid tea all ready for you.
+{107543}{107595}And its getting cold!
+{107597}{107689}Well, I had hoped that maybe,|that you would just, that--
+{107765}{107824}Splendid! Thank you very much!
+{107825}{107907}Keep your feet back. Mind the bread|and butter. Now, watch it, children.
+{107909}{108005}I knew she could bring it off.|And a proper tea it is too.
+{108007}{108089}Next thing, I suppose,|youll be wanting me to pour out.
+{108090}{108161}Oh, well. If I must, I must.
+{108197}{108295}If youll just stop behaving|like a pack of laughing hyenas!
+{108297}{108342}- Two lumps, Uncle Albert?|- Yes, please.
+{108344}{108422}-Uh, Bert?|-Uh, no, no, thank you. No sugar for me.
+{108424}{108511}Im so glad you came.|It wouldnt be any fun without you.
+{108513}{108590}Here, and you may pour some milk|for Michael and yourself.
+{108592}{108642}Nice weather were having this|time of year, dont you think?
+{108644}{108701}Oh, yeah.|Uh, speaking of weather...
+{108703}{108754}the other day|when it was so cold...
+{108756}{108843}a friend of mine went to buy|some long underwear, you know.
+{108845}{108922}The shopkeeper said to him,|"How long do you want it?
+{108924}{109009}And my friend said,|"Well, from about September to March.
+{109117}{109181}Jane! Control yourself!
+{109223}{109331}Children, will you please|sit up properly at the table?
+{109333}{109407}- Your tea, Uncle Albert.|- Oh, thank you, my dear.
+{109409}{109540}Im having such a good time. I wish that|you could all stay up here all the time.
+{109541}{109609}Well jolly well have to.|Theres no way to get down.
+{109611}{109673}Oh, no, there is a way.
+{109674}{109735}Frankly I,|I dont like to mention it...
+{109737}{109789}because you have to think|of something sad.
+{109791}{109844}Then do get on with it, please!
+{109845}{109915}Let me see.
+{109917}{109975}Ive got the very thing.
+{109977}{110089}Yesterday when the lady|next door answered the bell,|there was a man there.
+{110091}{110213}And the man said to the lady,|"Im terribly sorry.|I just ran over your cat.
+{110215}{110304}- Oh, thats sad.|- The poor cat.
+{110306}{110384}And then the man said,|"Id like to replace your cat.
+{110385}{110465}And the lady said,|"Thats all right with me, but|how are you at catching mice?
+{110575}{110659}Well, you know I started out sad.|I, I try, really I do.
+{110661}{110770}But, but everything ends up|so hilarious, I cant--
+{110772}{110815}I cant help--
+{110875}{110965}That will be quite enough of that!
+{110966}{111023}Its time to go home.
+{111025}{111067}- Oh, that is sad.|- Oh, no!
+{111069}{111155}Oh, thats sad. Thats|the saddest thing I ever heard.
+{111188}{111236}Come along, children. Spit spot!
+{111237}{111301}Must you really go?
+{111303}{111370}You know, people come to see me|all the time, you know.
+{111372}{111473}And, and we have such a lovely time,|and then they have to go home.
+{111474}{111573}And, and Im very, very sad|about the whole thing.
+{111575}{111638}Dont worry.|Well come back soon.
+{111640}{111688}We had a lovely time.
+{111689}{111750}Uh, keep an eye on Uncle Albert,|will you, Bert?
+{111752}{111873}- Ill sit with him a while.|- Thank you. Come on.
+{111874}{111989}Uncle Albert, I got a jolly joke|I saved for just such an occasion.
+{111991}{112072}- Would you like to hear it?|- Id be so grateful.
+{112073}{112158}Righto. Well,|its about me granddad, see?
+{112160}{112218}And one night,|he had a nightmare, he did.
+{112220}{112290}- So scared that he chewed|his pillow to bits.|- Yes.
+{112292}{112342}- To bits.|- Yes.|- Next morning I says...
+{112344}{112379}- "How do you feel, Granddad?|- Yes.
+{112381}{112478}He says, "Oh, not bad.|A little down in the mouth!
+{112610}{112657}Yeah, I always say theres|nothing like a good joke.
+{112659}{112759}No. And that was nothing|like a good joke! That--
+{113145}{113195}Bit late tonight,|arent you, Banks?
+{113240}{113336}I say, Banks!|Is anything the matter, Banks?
+{113337}{113396}Banks!
+{113536}{113608}- Oh, Father, were so glad youre home!|- Want to hear a joke?
+{113610}{113673}We had the most wonderful|afternoon with Mary Poppins.
+{113675}{113736}Speaking of afternoons,|the joke goes like this.
+{113737}{113790}I know a man with a wooden leg|named Smith.
+{113792}{113864}Smith? We dont know anyone|called Smith.
+{113865}{113979}And there was a second chap,|and the second chap says,|"Whats the name of his other leg?
+{113980}{114052}And we had a lovely tea party|on the ceiling!
+{114053}{114096}Oh, children,|please be quiet.
+{114098}{114167}Mary Poppins says if were good,|shell take us there again.
+{114168}{114276}Oh. Oh, Mary Poppins|said that, did she?
+{114277}{114344}Will you please return|to your room.
+{114345}{114432}Mary Poppins, will you|be kind enough to come with me?
+{114434}{114481}As you wish.
+{114538}{114632}Mary Poppins, I very much regret|what I must say to you.
+{114732}{114817}- Good evening, George.|Is anything the matter?|- Im afraid there is.
+{114819}{114902}I, Id love to stay, but I have|to dress for my rally in Hampstead.
+{114904}{114955}Winifred, it is my wish|that you be present!
+{114956}{115003}Oh, yes, George,|of course.
+{115004}{115102}Mary Poppins, I must confess I am|extremely disappointed in you.
+{115104}{115192}Shes for it now. Ive heard|the master do this speech before.
+{115193}{115267}I dont deny that I am partially|responsible for allowing the children...
+{115268}{115363}to spend their days on worthless|frivolity to the exclusion of all else!
+{115364}{115432}But it is high time they learned|the seriousness of life!
+{115434}{115484}But, George,|theyre only children.
+{115486}{115536}Precisely. And in the light|of what has happened--
+{115537}{115594}George, are you certain|you know what youre doing?
+{115596}{115645}I believe I do, Winifred.
+{115647}{115737}A BritisH bank|is run witH precision
+{115739}{115830}A BritisH Home|requires notHing less
+{115832}{115933}Tradition, discipline and rules|must be tHe tools
+{115935}{116012}WitHout tHem disorder, cHaos
+{116014}{116064}Moral disintegration
+{116065}{116153}- In sHort you Have a gHastly mess|- I quite agree.
+{116155}{116247}THe cHildren must be moulded|sHaped and taugHt
+{116248}{116331}THat lifes a looming battle|to be faced and fougHt
+{116332}{116398}In short, I am disturbed to hear|my children talking about...
+{116400}{116444}popping in and out|of chalk pavement pictures...
+{116445}{116525}consorting with racehorse|persons, fox hunting.
+{116527}{116580}Yes, well I dont mind|that quite so much.
+{116582}{116620}At any rate,|its traditional.
+{116622}{116682}But tea parties on the ceiling?|I ask you.
+{116684}{116802}Having tea parties on the|ceiling and highly-questionable|outings of every other kind!
+{116803}{116907}If tHey must go on outings|THese outings ougHt to be
+{116908}{116979}FraugHt witH purpose|Yes, and practicality
+{116980}{117023}THese silly words like
+{117024}{117107}Superca-- Super--
+{117109}{117188}- Superca--|- Supercalifragilistic-expialidocious.
+{117190}{117230}Yes, well done. You said it.
+{117232}{117288}And popping tHrougH pictures
+{117290}{117383}Have little use|Fulfil no basic need
+{117384}{117441}THeyve got to learn|tHe Honest trutH
+{117443}{117498}Despite tHeir youtH|THey must learn
+{117500}{117592}- About tHe life you lead|- Exactly.
+{117594}{117720}THey must feel tHe tHrill|of totting up a balanced book
+{117721}{117821}- A tHousand cipHers neatly in a row|- Quite right.
+{117822}{117913}WHen gazing at a grapH|tHat sHows tHe profits up
+{117915}{118018}-THeir little cup ofjoy sHould overflow|-Precisely!
+{118020}{118128}- Its time tHey learned|to walk in your footsteps|- My footsteps.
+{118129}{118221}- To tread your straigHt|and narrow patH witH pride|- With pride.
+{118223}{118318}Tomorrow just as you suggest|Pressed and dressed
+{118320}{118405}Jane and MicHael|will be at your side
+{118407}{118473}Splendid!|You hit the nail right on the--
+{118475}{118535}At my side?|Where are we going?
+{118537}{118582}To the bank, of course,|exactly as you proposed.
+{118584}{118635}- I proposed?|- Of course.
+{118637}{118700}Now, if youll excuse me. Tomorrows|an important day for the children.
+{118701}{118789}I shall see they have a proper|nights sleep. Good night.
+{119041}{119131}Winifred, did I say that I was going|to take the children to the bank?
+{119133}{119204}- It certainly sounded that way, dear.|- Oh.
+{119205}{119260}And why not?|A capital idea!
+{119261}{119337}Just the medicine they need|for all this slipshod, sugary...
+{119339}{119395}female thinking they get|around here all day long.
+{119397}{119437}Quite right. Good idea.|Quite right.
+{119439}{119497}Good idea. Quite right.
+{119540}{119609}Mary Poppins,|we wont let you go!
+{119611}{119659}Go? What on earth|are you talking about?
+{119661}{119765}- Didnt you get sacked?|- Sacked? Certainly not!|I am never sacked!
+{119767}{119835}- Oh, Mary Poppins!|- Hurrah, hurray, hurray,
+{119836}{119897}- hurray, hurray, hurray--|- Neither am I a maypole.|Kindly stop spinning about me.
+{119899}{119973}- But?|- Goats butt, birds fly...
+{119975}{120050}and children who are going on an outing|with their father must get some sleep.
+{120051}{120101}- Come along, please.|- An outing with Father?
+{120103}{120151}- Yes.|- I dont believe it.
+{120152}{120275}- Hes never taken us|on an outing before.|- Hes never taken us anywhere.
+{120277}{120320}- However did you manage it?|- Manage what?
+{120322}{120386}You mustve put the idea|in his head somehow.
+{120388}{120444}What an impertinent thing to say!
+{120446}{120511}Me putting ideas into|peoples heads? Really!
+{120512}{120572}- Wheres he taking us?|- To the bank.
+{120573}{120688}Oh, Michael, the city!|And well see all the sights,|and Father can point them out to us.
+{120689}{120736}Well, most things he can.
+{120769}{120852}But sometimes a person we love|through no fault of his own...
+{120854}{120955}- cant see past the end of his nose.|- Past the end of his nose?
+{120956}{121053}Yes. Sometimes a little thing|can be quite important.
+{121055}{121104}Oh, look! The cathedral.
+{121105}{121184}Father passes that every day.|He sees that.
+{121185}{121330}Early eacH day|to tHe steps of St Pauls
+{121332}{121466}THe little old|bird woman comes
+{121489}{121568}In Her own special way
+{121569}{121673}To tHe people sHe calls
+{121675}{121747}Come buy my bags
+{121748}{121844}Full of crumbs
+{121846}{121923}Come feed tHe little birds
+{121924}{122004}SHow tHem you care
+{122005}{122164}And youll be glad|if you do
+{122165}{122245}THeir young ones are Hungry
+{122247}{122324}THeir nests are so bare
+{122325}{122552}All it takes is tuppence from you
+{122578}{122664}Feed tHe birds
+{122666}{122745}Tuppence a bag
+{122747}{122825}Tuppence, tuppence
+{122827}{122915}Tuppence a bag
+{122916}{122995}Feed tHe birds
+{122996}{123080}THats wHat sHe cries
+{123082}{123148}WHile overHead
+{123150}{123244}Her birds fill tHe skies
+{123246}{123379}All around tHe catHedral|tHe saints and apostles
+{123380}{123528}Look down as sHe sells Her wares
+{123530}{123608}AltHougH you cant see it
+{123610}{123695}You know tHey are smiling
+{123696}{123778}EacH time someone sHows
+{123780}{123928}THat He cares
+{123929}{124009}THougH Her words
+{124011}{124103}Are simple and few
+{124105}{124182}Listen, listen
+{124184}{124302}SHes calling to you
+{124304}{124378}Feed tHe birds
+{124380}{124471}Tuppence a bag
+{124472}{124577}Tuppence, tuppence
+{124579}{124673}Tuppence a bag
+{125396}{125464}THougH Her words
+{125465}{125557}Are simple and few
+{125559}{125641}Listen, listen
+{125643}{125764}SHes calling to you
+{125766}{125849}Feed tHe birds
+{125851}{125961}Tuppence a bag
+{125963}{126104}Tuppence, tuppence
+{126106}{126154}Tuppence
+{126156}{126319}A bag
+{126808}{126907}Now remember that a bank is|a quiet and decorous place,|so we must be on our best behaviour.
+{126908}{126981}- But I thought it was your bank.|- Yes, well, Im one|of the younger officers...
+{126983}{127041}so in a sense it is, sort of.
+{127043}{127108}Michael, look!
+{127142}{127190}- Its her!|- Who?
+{127192}{127295}- Its who?|- The bird woman.Just where|Mary Poppins said she would be.
+{127296}{127363}- You do see her, dont you, Father?|- Well, of course I can see her.
+{127364}{127414}Do you think I cant see|past the end of my nose?
+{127416}{127468}Listen, Father,|shes saying it.
+{127495}{127579}Feed the birds.|Tuppence a bag.
+{127580}{127660}Well, of course shes saying it.|What else would she be saying?
+{127661}{127716}- Please may we feed the birds?|- Whatever for?
+{127717}{127792}- I have tuppence from my money box.|-Just this once, please?
+{127794}{127876}Waste your money on a lot of|ragamuffin birds? Certainly not.
+{127877}{127970}- But Mary Poppins--|- I am not interested|in what Mary Poppins says.
+{127972}{128042}Nor do I wish to keep hearing|her name for the remainder|of the day. Now come along!
+{128044}{128092}But its my tuppence!
+{128094}{128178}Michael, I will not permit you|to throw your money away!
+{128180}{128276}When we get to the bank,|I shall show you what may be|done with your tuppence.
+{128278}{128352}And I think youll find it|extremely interesting.
+{129182}{129252}Hello, Banks.|Whats all this about?
+{129253}{129313}- These are my children, Mr Dawes.|- Well, so I assumed.
+{129315}{129394}- But why are they here?|- They wish to open an account, sir.
+{129396}{129432}- Oh, indeed?|- Yes.
+{129433}{129496}And just how much money|do you have, young man?
+{129497}{129575}- Tuppence. But I want it|to feed the birds.|- Shh, shh, shh, shh, shh.
+{129576}{129640}Tuppence?
+{129641}{129728}Tuppence? Precisely how I started.
+{129850}{129930}Thats the chairman of the bank,|the elder Mr Dawes.
+{129932}{129975}A giant in the world of finance.
+{129976}{130012}- A giant?|- Shh, shh, shh.
+{130014}{130094}Uh, Father, these|are Bankss children.
+{130096}{130186}- They want to open an account.|- Oh, they do, do they, boy?
+{130188}{130253}Excellent. Excellent.
+{130255}{130316}We can al-always use...
+{130317}{130435}al-always use more money to, to put|to work for the bank, cant we, boy?
+{130480}{130544}So, you have tuppence?
+{130545}{130595}May I be permitted to see it?
+{130596}{130652}No. I want it to feed the birds!
+{130654}{130764}Fiddlesticks, boy! Feed the birds|and what have you got? Fat birds!
+{130799}{130923}But if you invest your tuppence
+{130924}{130981}Wisely in tHe bank
+{130983}{131059}Safe and sound
+{131095}{131230}Soon tHat tuppence|safely invested in tHe bank
+{131232}{131301}Will compound
+{131348}{131498}And youll acHieve|tHat sense of conquest
+{131500}{131617}As your affluence expands
+{131658}{131715}In tHe Hands
+{131716}{131832}Of tHe directors
+{131833}{131896}WHo invest
+{131897}{132038}As propriety demands
+{132064}{132141}- May I, sir?|- Carry on, Banks.
+{132176}{132231}You see, Michael,|youll be part of...
+{132232}{132324}- Railways tHrougH Africa|- Exactly!
+{132325}{132416}- Dams across tHe Nile|- The ships. Tell them about the ships.
+{132417}{132504}- Fleets of ocean greyHounds|- More, tell them more!
+{132505}{132560}Majestic self-amortizing canals
+{132561}{132616}How it fires the imagination!
+{132617}{132702}Plantations of ripening
+{132704}{132816}Tea
+{132817}{132880}All from
+{132882}{132990}Tuppence prudently|tHriftily, frugally
+{132992}{133094}- Invested in tHe|- To be specific
+{133096}{133215}In tHe Dawes, Tomes|Mousley, Grubbs
+{133216}{133284}Fidelity Fiduciary Bank
+{133572}{133680}- Very well, my boy, give me the money.|- No, I wont! I want it|to feed the birds.
+{133681}{133762}- Banks!|- Yes, sir. Now, Michael.
+{133764}{133883}WHen you deposit tuppence|in a bank account
+{133884}{133972}- Go on!|- Soon youll see
+{133974}{134105}- Tell him more!|- THat it blooms into credit|of a generous amount
+{134107}{134202}Semiannually
+{134204}{134327}And youll acHieve|tHat sense of stature
+{134328}{134446}As your influence expands
+{134448}{134565}To tHe HigH financial strata
+{134567}{134689}THat establisHed credit|now commands
+{134691}{134775}You can purchase|first and second trust deeds.
+{134776}{134816}Think of the foreclosures!
+{134817}{134908}Bonds, chattels,|dividends, shares.
+{134909}{134955}- Bankruptcies.|- Debtor sales.
+{134956}{135039}- Opportunities.|- All manner of private enterprise.
+{135040}{135088}- Shipyards.|- The mercantile.
+{135089}{135128}- Collieries.|- Tanneries.
+{135130}{135210}- Corporations.|- Amalgamations.|- Banks!
+{135212}{135296}While stand|the banks of England...
+{135297}{135337}England stands.
+{135339}{135396}Oh, oh, oh, oh!
+{135490}{135556}When fall|the banks of England...
+{135558}{135610}England falls!
+{135688}{135778}You see, Michael?|All for the lack of...
+{135780}{135864}Tuppence|patiently, cautiously
+{135866}{135954}trustingly|invested in tHe
+{135956}{136016}To be specific|In tHe
+{136017}{136140}Dawes, Tomes,|Mousley, Grubbs
+{136142}{136236}Fidelity Fiduciary Bank
+{136237}{136322}Welcome to our|joyful family of investors.
+{136324}{136392}Give it back!|Gimme back my money!
+{136394}{136436}- Michael, behave.|- Banks!|- Give it to me!
+{136437}{136504}- Michael, behave.Jane!Jane!|- Gimme back my money!
+{136506}{136568}Jane! Michael!|Michael! Michael!
+{136570}{136633}- Gimme back my money!|- Michael!
+{136635}{136704}Theres something wrong. The bank|wont give someone their money!
+{136705}{136784}Well, Im going to get mine! Come along,|young man! I want every penny!
+{136785}{136841}- And mine too!|- And give me mine too!
+{136947}{137020}Stop all payments.|Stop all payments.
+{137438}{137490}- Michael!Jane!|- Give me my money!
+{137857}{137916}- Children, come back here.|- Stop those children.|-Jane! Michael!
+{138033}{138094}Gimme my money back!|I want my money!
+{138096}{138138}Come on.
+{138199}{138271}Stop those children!
+{138371}{138431}Stop those children!
+{138879}{138936}Come with me, my dears.|Grannyll hide you!
+{139393}{139485}-Here, here, half a mo.|-Leave her alone! Leave my sister alone!
+{139487}{139545}Easy, now. Your old friend|aint gonna hurt ya.
+{139596}{139641}Bert, its you!
+{139643}{139730}In the flesh,|and at your service.
+{139731}{139825}- Youre filthy!|- Oh, perhaps a smudge or two.
+{139827}{139883}It so happens that today|Im a chimney sweep.
+{139885}{139943}Oh, Bert, were so frightened.
+{139944}{139999}Now, now, dont take on so.
+{140001}{140072}Bertll take care of you|like I was your own father.
+{140074}{140128}- Now, whos after you?|- Father is.
+{140130}{140204}- What?|- He brought us to see his bank.
+{140206}{140284}I dont know what we did,|but it mustve been something dreadful.
+{140286}{140365}He sent the police after us,|and the Army and everything.
+{140367}{140414}Michael, dont exaggerate.
+{140416}{140486}Well, now, there must be|some mistake.
+{140488}{140542}Your dads a fine gentleman|and he loves ya!
+{140544}{140640}I dont think so. You shouldve|seen the look on his face.
+{140641}{140687}He doesnt like us at all.
+{140688}{140762}Well, now that|dont seem likely, does it?
+{140764}{140841}Its true.
+{140843}{140891}Lets sit down.
+{140892}{140956}You know, begging your pardon...
+{140958}{141036}but the one my heart|goes out to is your father.
+{141037}{141133}There he is in that cold,|heartless bank day after day...
+{141135}{141225}hemmed in by mounds|of cold, heartless money.
+{141227}{141272}I dont like to see|any living thing caged up.
+{141273}{141337}Father in a cage?
+{141339}{141412}They makes cages in all|sizes and shapes, you know.
+{141414}{141463}Bank-shaped some of em,|carpets and all.
+{141464}{141540}Fathers not in trouble. We are.
+{141541}{141617}Oh, sure about that, are you?
+{141619}{141705}Look at it this way. Youve got|your mother to look after you.
+{141707}{141800}And Mary Poppins,|and Constable Jones and me.
+{141802}{141872}Who looks after your father?|Tell me that.
+{141873}{141943}When something terrible happens,|what does he do?
+{141944}{141996}Fends for himself, he does.
+{141998}{142072}Who does he tell about it? No one!
+{142073}{142124}Dont blab his troubles at home.
+{142126}{142236}He just pushes on at his job,|uncomplaining and alone and silent.
+{142238}{142337}- Hes not very silent!|- Michael, be quiet.
+{142339}{142409}Bert, do you think Father|really needs our help?
+{142436}{142507}Well, not my place to say.
+{142508}{142598}I only observe that a father can|always do with a bit of help.
+{142600}{142657}Come on, Ill take you home.
+{142843}{142921}CHim cHiminy, cHim cHiminy|CHim cHim cHeree
+{142923}{143006}A sweep is as lucky|as lucky can be
+{143008}{143084}CHim cHiminy, cHim cHiminy|CHim cHim cHeroo
+{143085}{143165}Good luck will rub off|wHen I sHakes Hands witH you
+{143167}{143226}Or blow me a kiss
+{143251}{143313}And tHats lucky too
+{143358}{143433}Now as tHe ladder of life|Has been strung
+{143435}{143516}You migHt tHink a sweeps|on tHe bottommost rung
+{143517}{143596}THougH I spends me time|in tHe asHes and smoke
+{143598}{143684}In tHis wHole wide world|tHeres no Happier bloke
+{143686}{143760}CHim cHiminy, cHim cHiminy|CHim cHim cHeree
+{143761}{143845}A sweep is as lucky|as lucky can be
+{143847}{143922}CHim cHiminy, cHim cHiminy|CHim cHim cHeroo
+{143924}{144010}Good luck will rub off|wHen I sHakes Hands witH you
+{144012}{144088}CHim cHiminy, cHim cHiminy|CHim cHim cHeree
+{144090}{144172}A sweep is as lucky|as lucky can be
+{144174}{144250}CHim cHiminy, cHim cHiminy|CHim cHim cHeroo
+{144252}{144340}Good luck will rub off|wHen I sHakes Hands witH you
+{144443}{144510}Oh, Ellen, see who that is,|and send them away.
+{144512}{144580}- Im dreadfully late!|- Yes, maam.
+{144581}{144658}-Well, Ill be gettin along now.|-Oh, please stay till Father comes home.
+{144660}{144771}Hell feel much better|if you shake hands with him.
+{144772}{144857}- Its the children, maam.|- Oh, I thought they were|with their father.
+{144859}{144935}You havent been running off again, have|you? You know how terribly it upsets me.
+{144936}{144987}Oh, they havent exactly|been running away, maam.
+{144988}{145048}They have had bit of a fright, though.|Need someone to look after em.
+{145049}{145144}Oh, of course!|Mary Poppins will.
+{145146}{145205}Oh, no, its her day off!
+{145207}{145312}- Ellen, I wonder if you would--|- No, maam. I havent done|me brasses yet.
+{145314}{145387}- Well, will you ask Mrs Brill?|- Not for a hundred quid, maam.
+{145388}{145479}This here is baking day,|and you know how Cook is!
+{145517}{145558}What about you, sir?
+{145560}{145623}Youve been so kind|in looking after the children.
+{145624}{145684}Wh-- Uh, me, maam? W-Well, well,|I-I-I have to be moving along.
+{145685}{145732}The Lord Mayors got|a stopped-up chimney.
+{145733}{145798}Chimney. How clever of you to know.
+{145800}{145932}Our drawing room chimneys in the most|ghastly condition. Smokes incessantly.
+{145933}{145975}- W-W--|- Thank you so much!
+{145976}{146088}- But--|- Besides, itll amuse the children.
+{146089}{146136}The Lord Mayors gonna be|terrible put out.
+{146138}{146208}Oh, thank you so much.|I do appreciate it.
+{146209}{146355}I must hurry. Our gallant ladies|in prison are waiting for me|to lead them in song!
+{146356}{146422}Goodbye, my darlings.|See you soon.
+{146585}{146669}I cHoose me bristles|witH pride, yes, I do
+{146671}{146776}A broom for tHe sHaft|and a brusH for tHe flue
+{146806}{146882}Oh, its awfully dark|and gloomy up there.
+{146884}{146955}There now. You see|how wrong people can be?
+{146956}{147076}That there is what you might call|a doorway to a place of enchantment.
+{147078}{147194}Up wHere tHe smoke|is all billowed and curled
+{147196}{147264}Tween pavement and stars
+{147266}{147324}Is tHe cHimney sweep world
+{147360}{147424}WHen tHeres Hardly no day
+{147426}{147498}Nor Hardly no nigHt
+{147500}{147600}THeres tHings Half in sHadow
+{147602}{147656}And Halfway in ligHt
+{147681}{147790}On tHe rooftops of London
+{147816}{147894}Coo, what a sight.
+{147896}{147956}I do wish we could go up there.
+{147957}{148011}So do I! I like chimneys.
+{148012}{148132}Oh, rightly so!|A chimney is a wondrous thing.
+{148133}{148192}Shes built tall|right up there on the roof.
+{148193}{148276}When the wind is just right,|it blows across her top...
+{148277}{148341}then draws the smoke|right up the flue.
+{148343}{148434}Here. Feel the pull|on the end of that brush.
+{148436}{148500}Its like I got a whale on|the end of the line, aint it?
+{148501}{148592}Michael, be careful. You never know|what may happen around a fireplace.
+{148645}{148692}Oh, bother!
+{148756}{148864}Michael! Michael,|come back down here.
+{148865}{148923}Michael! Michael, where are you?
+{148924}{148959}Well, thats a bit awkward.|I must say!
+{148960}{149026}Bert, Ill thank you to stop|putting ideas in their heads!
+{149074}{149127}- There goes the other one.|- Shall I go after em?
+{149128}{149225}Well, we cant have them gallivanting|up there like kangaroos, can we?
+{149227}{149292}Michael, dont be frightened.|Everythings going--
+{149461}{149508}Will you put your things on at once?
+{149592}{149643}Hurry up, please. Spit spot!
+{149644}{149726}- Here you are! I thought youd left us.|- We didnt mean to.
+{149728}{149793}Well, no harm done.|The truth is...
+{149795}{149882}this is what you might call|a fortuitous circumstance.
+{149884}{149927}Look there.
+{149928}{150056}A trackless jungle|just waiting to be explored.
+{150058}{150124}- Why not, Mary Poppins?|- Oh, please, Mary Poppins?|- Please!
+{150160}{150246}Oh, well. If we must, we must.
+{150360}{150381}Fall in.
+{150392}{150469}Look lively, look lively.|Jump to it!Jump to it!
+{150471}{150548}Get in line. Attention!
+{150568}{150641}A-show arms!
+{150643}{150716}A-right turn!
+{150874}{150953}Quick march!
+{151628}{151681}Hello there!
+{151789}{151844}Its just good, clean soot, Michael.
+{151990}{152061}- As far as we go, right?|- Not at all.
+{153252}{153338}What did I tell ya?|Theres the whole world at your feet.
+{153380}{153486}And who gets to see it, but the birds,|the stars and the chimney sweeps?
+{153749}{153816}Quite nice, but we should|all get in out of the night air.
+{153817}{153874}Follow me, please.
+{154104}{154204}CHim cHiminy, cHim cHiminy|CHim cHim cHeree
+{154205}{154307}WHen youre witH a sweep|youre in glad company
+{154308}{154400}NowHere is tHere|a more Happier crew
+{154401}{154500}THen tHem wHat sings|cHim cHim cHeree, cHim cHeroo
+{154502}{154571}CHim cHiminy cHim cHim
+{154572}{154680}CHeree cHim cHeroo
+{154681}{154752}- Cheroo!|- Cheroo!|- Cheroo!|- Cheroo!
+{154753}{154816}- Cheroo!|- Cheroo!
+{154821}{154878}Its all me pals!
+{154880}{154938}Step in time!|Step in time!
+{154940}{155021}- Step in time!|- Step in time!|- Step in time!
+{155023}{155060}Step in time!
+{155061}{155158}Step in time, step in time|Come on, mateys, step in time
+{155196}{155268}Step in time
+{155269}{155343}Step in time, step in time|step in time, step in time
+{155344}{155448}Never need a reason, Never need a rHyme|We step in time, we step in time
+{155450}{155512}- Kick your knees up!|- Kick your knees up, Step in time
+{155514}{155588}Kick your knees up, step in time|Never need a reason, Never need a rHyme
+{155590}{155660}Kick your knees up|step in time
+{155662}{155721}- Round the chimney!|- Round tHe cHimney, Step in time
+{155723}{155793}Round tHe cHimney, step in time|Never need a reason, Never need a rHyme
+{155795}{155853}Round tHe cHimney|We step in time
+{155855}{155906}- Clap like a birdie.|- Clap like a birdie, Step in time
+{155908}{155984}Clap like a birdie, step in time|Never need a reason, Never need a rHyme
+{155985}{156032}Clap like a birdie|In time
+{156033}{156104}- Up on the railing.|- Up on tHe railing, Step in time
+{156106}{156180}Up on tHe railing, step in time|Never need a reason, Never need a rHyme
+{156181}{156220}Up on tHe railing|Step in time
+{156221}{156280}- Over the rooftops!|- Over tHe rooftops, Step in time
+{156282}{156379}Over tHe rooftops, step in time|Never need a reason, Never need a rHyme
+{156380}{156428}Step it time, over tHe rooftops|over tHe rooftops
+{156429}{156489}Link your elbows!
+{156491}{156561}Link your elbows, step in time|Link your elbows, step in time
+{156563}{156618}Link your elbows|link your elbows, link your elbows
+{156693}{156766}Step in time, step in time|Step in time, step in time
+{156768}{156900}Never need a reason, Never need a rHyme|WHen you step in time, You step in time
+{158437}{158480}Mary Poppins, step in time!
+{158482}{158538}There you go, Mary Poppins!
+{158579}{158628}Lucky old Bert!
+{158746}{158819}Come on, Mary Poppins!
+{158820}{158888}Here we go, mate!
+{158889}{158933}Here we go!
+{158969}{159032}Make room for her! Go!
+{159351}{159424}- Aint she marvellous?|- Aint she beautiful?
+{159426}{159473}Lovely. Tell your mum!
+{159506}{159552}Hello, hello, hello!
+{159766}{159844}- More! More!|- Mary, do it again!|- Come on, Mary, do it again.
+{160697}{160745}Here we go.
+{162545}{162612}- Were being attacked by Hottentots!|- Aye, aye, sir.
+{162613}{162686}Cheeky devils!|Give em what for!
+{162688}{162762}- Empty the shot lockers!|- Aye, aye, sir!
+{162906}{163016}Move along, Mr Binnacle.|Handsomely now.|Teach the beggars a lesson.
+{163149}{163227}- Gun ready, sir.|- Stand by.
+{163228}{163269}Fire!
+{163731}{163767}Fire!
+{163896}{163965}Well hit, sir!|Very well hit!
+{164454}{164498}Aah! Theyre at it again!
+{164500}{164584}THeyre at it again, Step it time|At it again, Step in time
+{164660}{164728}THeyre at it again|Step in time
+{164834}{164903}- Ow!|- Ow, step in time
+{164904}{164978}Ow, step in time|Never need a reason, Never need a rHyme
+{164980}{165040}- Whoa!|- Step in time
+{165108}{165180}Oh, Ellen,|when you have a second.
+{165182}{165248}Votes for women, step in time|Votes for women, step in time
+{165250}{165298}Oh, no, really,|not at the moment.
+{165300}{165373}- Votes for women|- Votes for women!
+{165648}{165747}- Its the master!|- Its tHe master, step in time|Its tHe master, step in time
+{165748}{165798}- Whats all this?|- WHats all tHis|- Whats all this?|- WHats all tHis
+{165800}{165857}WHats all tHis|WHats all tHis, WHats all tHis
+{165859}{165895}- Link your elbows, step in time|- Whats all this?
+{165896}{165943}- Kick your knees up|- Whats all this?|- Step in time
+{165944}{165997}- Kick your knees up, Kick your knees up|- Bert.|- Kick your knees up
+{165999}{166054}Kick your knees up in time
+{166116}{166200}- Good luck, guvnor.|- Lovely time!
+{166202}{166252}Had an elegant time, guvnor.
+{166411}{166471}Good luck, guvnor.
+{167388}{167452}Oh, Father, every one|of those sweeps shook your hand.
+{167454}{167513}Youre going to be the|luckiest person in the world!
+{167515}{167585}- Come along, children. Spit spot.|-Just a moment, Mary Poppins.
+{167587}{167660}What is the meaning of this outrage?
+{167662}{167767}- I beg your pardon?|- Will you be good enough|to explain all this?
+{167768}{167827}First of all, I would like|to make one thing quite clear.
+{167829}{167892}Yes?
+{167894}{167946}I never explain anything.
+{168108}{168172}Yes. Banks here.
+{168174}{168268}Mr Dawes! Im most dreadfully|sorry, sir, about what happened|at the bank today.
+{168270}{168375}I can assure you that--|Tonight, sir?
+{168376}{168464}Yes, Banks. Well expect you|at 9:00 precisely.
+{168465}{168534}- Without fail.|- Without fail.
+{168566}{168620}Why, yes, Banks.
+{168621}{168661}Its extremely serious.
+{168663}{168714}We regret this course of action.
+{168716}{168752}We regret this course of action.
+{168753}{168823}After all, you have been with us|a good many years.
+{168824}{168908}- After all, you have been|with us a good many years.|- As was your father before you.
+{168909}{168981}As was your father before you.
+{168983}{169072}Yes, Mr Dawes.|I shall be there at 9:00.
+{169598}{169704}A man has dreams|of walking with giants.
+{169747}{169880}To carve his niche|in the edifice of time.
+{169882}{170003}Before tHe mortar of His zeal
+{170004}{170096}Has a cHance to congeal
+{170097}{170156}The cup is dashed from his lips!
+{170158}{170213}The flame is snuffed a-borning.
+{170215}{170269}Hes brought to wrack|and ruin in his prime.
+{170334}{170416}Life is a rum go, guvnor.|And thats the truth.
+{170418}{170489}You know what I think?|Its that woman Mary Poppins.
+{170491}{170575}From the moment she stepped into this|house, things began to happen to me!
+{170576}{170655}- Mary Poppins?|- Yes, yes, of course.
+{170656}{170755}My world was calm
+{170756}{170838}Well-ordered|Exemplary.
+{170869}{170944}THen came tHis person
+{170945}{171024}WitH cHaos in Her wake
+{171068}{171197}And now my lifes ambitions go
+{171199}{171316}WitH one fell blow
+{171317}{171455}Its quite a bitter pill
+{171500}{171535}To take.
+{171536}{171588}Its that Poppins woman!|She did it!
+{171590}{171649}I know the very person you mean.
+{171651}{171704}Mary Poppins.|Shes the one what sings...
+{171705}{171777}A spoonful of sugar
+{171779}{171863}THat is all it takes
+{171864}{171924}It cHanges bread and water
+{171926}{171996}Into tea and cakes
+{171997}{172036}You see? Thats exactly what I mean!
+{172038}{172109}Changing bread and water|into tea and cakes! Indeed!
+{172111}{172184}No wonder everythings|higgledy-piggledy here.
+{172185}{172248}A spoonful of sugar
+{172250}{172330}Goes a long, long way
+{172332}{172404}Have yourself a HealtHy Helpin
+{172405}{172472}Every day
+{172473}{172512}An healthy helpin of trouble,|if you ask me.
+{172514}{172567}Do you know what she did?|I realize it now.
+{172568}{172632}She tricked me into taking|Jane and Michael to the bank.
+{172633}{172690}Thats how all the trouble started.
+{172692}{172752}- Tricked you into taking|the children on an outing?|- Yes.
+{172753}{172796}Outrageous!
+{172798}{172896}A man with all the important|things you have to do. Shameful!
+{172934}{173024}Youre a man|of high position.
+{173026}{173097}Esteemed by your peers.
+{173099}{173183}And wHen your little|tykes are cryin
+{173185}{173283}You Havent time|to dry tHeir tears
+{173284}{173379}And see tHem|grateful little faces
+{173380}{173466}Smilinup at you
+{173467}{173520}Because tHeir dad
+{173522}{173633}He always knows just wHat to do
+{173635}{173705}- Well, I mean, look, I,|I dont think I ca--|- Like you say, guvnor.
+{173737}{173845}Youve got|to grind, grind, grind
+{173847}{173930}At tHat grindstone
+{173931}{173995}THougH cHildHood slips
+{173996}{174082}Like sand tHrougH a sieve
+{174127}{174244}And all too soon|tHeyve up and grown
+{174246}{174357}And tHen tHeyve flown
+{174359}{174422}And its too late
+{174424}{174529}For you to give
+{174600}{174728}Just tHat spoonful of sugar
+{174729}{174830}To Help tHe medicine go down
+{174832}{174935}THe medicine go down
+{174936}{175010}Medicine go down
+{175012}{175090}Well, goodbye, guvnor.|Sorry to have troubled you.
+{175408}{175466}Father?
+{175468}{175535}Were sorry about the tuppence.
+{175536}{175616}We didnt know it would|cause you so much trouble.
+{175775}{175851}Here, Father,|you can have the tuppence.
+{176176}{176246}Will that make everything all right?
+{176288}{176348}Thank you.
+{180458}{180512}Come in!
+{180725}{180764}Take your hat off, Banks.
+{181112}{181168}Good evening, gentlemen.
+{181240}{181288}Well, get on with it. Go on.
+{181289}{181343}Uh, yes, Father.
+{181425}{181522}In 1 773, an official|of this bank...
+{181524}{181584}unwisely loaned|a large sum of money...
+{181585}{181688}to finance a shipment of tea|to the American colonies.
+{181689}{181782}- Do you know what happened?|- Yes, sir. Yes, I think I do.
+{181784}{181833}Uh, uh, as the ship lay|in Boston Harbor...
+{181835}{181900}uh, a party of the colonists|dressed as red Indians...
+{181901}{182023}uh, boarded the vessel,|behaved very rudely, and,|and threw all the tea overboard.
+{182024}{182094}This made the tea|unsuitable for drinking...
+{182096}{182161}even for Americans.
+{182277}{182371}Precisely.|The loan was defaulted.
+{182372}{182437}Panic ensued within these walls.
+{182439}{182514}There was a run on the bank!
+{182516}{182565}From that time to this, sir...
+{182567}{182651}there has not been|a run on this bank...
+{182712}{182763}until today!
+{182764}{182886}A run, sir, caused by the|disgraceful conduct of your son.
+{182887}{182974}- Do you deny it?|- I do not deny it, sir.
+{182975}{183075}And I shall be only too glad|to assume responsibility for my son.
+{183164}{183263}- What are you waiting for?|Get on with it!|- Uh, y-yes, Father.
+{183727}{183783}- No, not that!|- Steady on.
+{184275}{184342}Well, do you have|anything to say, Banks?
+{184343}{184439}Well, sir,|they do say that...
+{184441}{184549}when theres nothing to say,|all you can say i--
+{184634}{184707}Confound it, Banks! I said,|do you have anything to say?
+{184783}{184852}-Just one word, sir.|- Yes?
+{184854}{184912}Supercalifragilistic-expialidocious.
+{184961}{184988}What?
+{184990}{185062}Supercalifragilistic-expialidocious.
+{185064}{185143}Mary Poppins was right.|Its extraordinary.|It does make you feel better!
+{185180}{185232}What are you talking about, man?|Theres no such word.
+{185234}{185316}Oh, yes. It is a word.|A perfectly good word, actually.
+{185318}{185356}Do you know what theres|no such thing as?
+{185358}{185439}It turns out, with due respect,|when all is said and done...
+{185440}{185512}that theres|no such thing as you!
+{185514}{185559}- Impertinence, sir!|- Speaking of impertinence...
+{185560}{185620}would you like to hear|a perfectly marvellous joke?
+{185622}{185687}- A real snapper!|-Joke? Snapper?
+{185688}{185767}Yes. There are these two wonderful|young people,Jane and Michael.
+{185768}{185852}And they meet one day on the street,|and Jane says to Michael...
+{185853}{185920}"I know a man with|a wooden leg named Smith.
+{185921}{186023}And Michael says, "Really?|Whats the name of his other leg?
+{186083}{186142}The mans gone mad.|Call the guard!
+{186144}{186229}Supercalifragilistic-expialidocious.|Im feeling better all the time!
+{186231}{186282}Banks, dont you dare|strike my father!
+{186284}{186344}Theres the tuppence.|The wonderful, fateful...
+{186345}{186418}supercalifragilistic-expialidocious|tuppence.
+{186420}{186495}- Guard it well. Goodbye!|- Banks, where are you going?
+{186496}{186566}I dont know. I might pop|through a chalk pavement picture,
+{186568}{186605}and go for an outing|in the country.
+{186607}{186690}Or I might seize a horse off|a merry-go-round, and win the Derby!
+{186691}{186791}Or I might just fly a kite!|Only Poppins would know!
+{186792}{186891}- Poppins?|- My nanny. Shes the one who|sings that ridiculous song.
+{186892}{186999}A spoonful of sugar|makes tHe medicine go down
+{187000}{187047}THe medicine go down
+{187048}{187108}THe medicine go down|THe medicine--
+{187172}{187241}Mad as a March hare.
+{187243}{187316}A wooden leg named Smith.
+{187368}{187459}A wooden leg named Smith.
+{187507}{187564}A wooden le--
+{187887}{187967}Father? Father!
+{187969}{188017}Father, come down!
+{188019}{188117}Daddy! Daddy, come back!
+{188332}{188431}Winds come around,|blowing dead on from the west!
+{188488}{188542}She doesnt care|what happens to us.
+{188543}{188670}She only promised to stay till the wind|changed. Isnt that right, Mary Poppins?
+{188671}{188743}Will you bring me|my hat stand, please?
+{188795}{188889}Mary Poppins,|dont you love us?
+{188941}{189008}And what would happen to me,|may I ask...
+{189010}{189095}if I loved all the children|I said goodbye to?
+{189165}{189238}Yes, sir, thats right.|George W. Banks.
+{189239}{189297}1 7 Cherry Tree Lane.
+{189299}{189356}About six foot one,|Id say, sir.
+{189358}{189441}Oh, yes, we rang up his bank|first thing this morning.
+{189443}{189538}The only thing we discovered was,|hed been discharged last night.
+{189539}{189615}No telling what he might do|in a fit of despondency.
+{189617}{189666}Wouldnt hurt to have them|drag the river.
+{189667}{189764}Theres a nice spot there by|Suffolk Bridge. Popular with jumpers.
+{189766}{189832}Really, Ellen!
+{189834}{189910}He seemed to have been|a fine, stable gentleman, sir.
+{189912}{189987}No hanky-panky,|if you know what I mean.
+{189988}{190071}- Oh, regular habits, sir.|Well, far as anyone knows.|- THe medicine go down
+{190072}{190124}THe medicine go down
+{190126}{190188}-Just a spoonful of sugar|- Its him!
+{190190}{190244}- Helps tHe medicine|- Or something that sounds like him.
+{190245}{190294}- Go down|- Mrs Banks, could we have|a little less noise...
+{190296}{190416}- on the premises? I cant make|out what the inspectors sayin.|- In tHe most deligHtful way
+{190418}{190478}Just a spoonful of sugar
+{190480}{190564}- Makes tHe medicine go down|- George!
+{190566}{190625}Oh, George, you didnt jump|in the river.
+{190627}{190680}How sensible of you.
+{190681}{190763}Its all right, sir.|Hes been found!
+{190764}{190815}No, alive!
+{190816}{190913}Or so I presume.|Hes a-kissin a-Mrs. Banks.
+{190915}{190970}Ive been so worried.|What happened at the bank?
+{190972}{191042}Ive been sacked, discharged,|flung into the street.
+{191044}{191151}A spoonful of sugar|makes tHe medicine go down
+{191152}{191238}Gone off his crumpet.|Thats what hes done.
+{191240}{191316}- THe medicine go down|- Dotty as you please.
+{191318}{191399}George, what on earth|were you doing in the cellar?
+{191400}{191493}Youll see in a moment.|Where are the children? Jane? Michael?
+{191495}{191576}- Your fathers calling you.|- It doesnt sound like Father.
+{191577}{191667}-Jane? Michael?|- Run along. Spit spot!
+{191790}{191865}You wont go, Mary Poppins,|will you?
+{191867}{191932}Spit spot.
+{192164}{192219}He mended it!
+{192335}{192422}- Its wonderful!|- However did you manage it?
+{192424}{192500}WitH tuppence for paper and strings
+{192501}{192579}You can Have|your own set of wings
+{192580}{192709}WitH your feet on tHe ground|Youre a bird in fligHt
+{192711}{192798}WitH your fist Holding tigHt
+{192800}{192853}To tHe string of your kite
+{192855}{192917}OH, oH, oH
+{192919}{193003}Lets go fly a kite
+{193004}{193088}Up to tHe HigHest HeigHt
+{193090}{193169}Lets go fly a kite
+{193171}{193260}And send it soaring
+{193262}{193342}Up tHrougH tHe atmospHere
+{193343}{193428}Up wHere tHe air is clear
+{193430}{193528}OH, lets go fly a kite
+{193571}{193630}A proper kite needs a proper tail,|dont you think?
+{193631}{193752}Thats what I said, sir.|Go fly a kite!
+{193754}{193852}Oh, no, sir. No,|I, I dont mean you personally.
+{193854}{193939}Lets go fly a kite
+{193940}{194018}Up to tHe HigHest HeigHt
+{194020}{194100}Lets go fly a kite
+{194102}{194192}And send it soaring
+{194193}{194272}Up tHrougH tHe atmospHere
+{194274}{194360}Up wHere tHe air is clear
+{194362}{194461}OH, lets go fly a kite
+{194510}{194599}WHen you send it flying up tHere
+{194600}{194679}All at once|youre ligHter tHan air
+{194680}{194801}You can dance on tHe breeze|over Houses and trees
+{194803}{194886}WitH your fist Holding tigHt
+{194888}{194944}To tHe string of your kite
+{194945}{194996}- OH, oH, oH|- Now!
+{194998}{195092}Lets go fly a kite
+{195093}{195180}Up to tHe HigHest HeigHt
+{195181}{195258}Lets go fly a kite
+{195260}{195348}And send it soaring
+{195349}{195406}Oh, there you are, Banks.
+{195408}{195458}I want to congratulate you.
+{195460}{195556}Capital bit of humour.|Wooden leg named Smith.
+{195557}{195613}Or Jones or whatever it was.
+{195615}{195689}Father died laughing.
+{195691}{195806}- Oh, Im so sorry, sir.|- Oh, no, nonsense.|Nothing to be sorry about.
+{195808}{195865}Never seen him happier|in his life.
+{195867}{195922}He left an opening|for a new partner.
+{195924}{195980}Congratulations.
+{195981}{196066}Thank you, sir.|Thank you very much indeed, sir.
+{196068}{196144}Up tHrougH tHe atmospHere
+{196146}{196228}Up wHere tHe air is clear
+{196229}{196341}OH, lets go
+{196343}{196368}Fly a kite
+{196457}{196507}Thats gratitude for you.
+{196508}{196593}- Didnt even say goodbye.|- No, they didnt.
+{196595}{196736}Look at them. You know, they think more|of their father than they do of you.
+{196737}{196846}- Thats as it should be.|- Well, dont you care?
+{196848}{196943}Practically perfect people never permit|sentiment to muddle their thinking.
+{196944}{197078}Is that so? Well, Ill tell you|one thing, Mary Poppins,|you dont fool me a bit.
+{197080}{197188}- Oh, really?|- Yes, really. I know exactly how|you feel about these children.
+{197189}{197299}And if you think Im gonna keep|my mouth shut any longer, I--
+{197300}{197368}That will be quite enough|of that, thank you.
+{197916}{197994}Goodbye, Mary Poppins.|Dont stay away too long.
+{199119}{199179}OH, oH, oH
+{199180}{199260}Lets go fly a kite
+{199261}{199347}Up to tHe HigHest HeigHt
+{199348}{199424}Lets go fly a kite
+{199426}{199518}And send it soaring
+{199520}{199601}Up tHrougH tHe atmospHere
+{199603}{199685}Up wHere tHe air is clear
+{199687}{199804}OH, lets go
+{199806}{199890}Fly a kite

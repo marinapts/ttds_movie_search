@@ -1,0 +1,1917 @@
+{2465}{2529}KRIS: You've got them mixed up.
+{2530}{2607}You're making a mistake.
+{2608}{2707}You're making a mistake|with the reindeer.
+{2708}{2738}Tsk tsk tsk.
+{2822}{2893}Would you mind stepping out|for a moment?
+{2894}{2930}Open the door!
+{3042}{3078}STOREKEEPER: I'm sorry.|The store isn't open today.
+{3080}{3114}KRIS: I don't want|to buy anything...
+{3116}{3163}and I'm sorry|to interrupt your work...
+{3164}{3231}but I wanted to tell you|you're making a serious mistake.
+{3232}{3287}- Huh?|- With the reindeer, I mean.
+{3288}{3344}You've got Cupid|where Blitzen should be.
+{3345}{3431}And Dasher should be|on my right-hand side.
+{3432}{3474}STOREKEEPER: He should, huh?
+{3475}{3519}KRIS: Yes. And another thing...
+{3519}{3595}Donner's antlers have got|four points instead of three.
+{3596}{3663}Still, I don't suppose anybody|would notice except myself.
+{3664}{3719}STOREKEEPER:|No. I don't suppose so.
+{3720}{3763}- Well, bye. Thanks.|- Not at all.
+{3764}{3828}Glad to have helped you. Bye.
+{3829}{3855}Yes.
+{3856}{3912}[Band playing "Jingle Bells"]
+{3993}{4088}[Singing] Jingle bells,|jingle bells...
+{4633}{4691}DORIS:|You're on float number three.
+{4692}{4750}You're on the Pilgrim float.
+{4751}{4822}You're on the pirate float.|You follow the van.
+{4823}{4870}SHELLHAMMER: Mrs. Walker,|something's got to be done.
+{4871}{4918}That three-men-in-a-tub float|isn't big enough.
+{4919}{4954}We can get|the butcher and the baker...
+{4955}{4992}DORIS: I'm awfully sorry...
+{4993}{5039}but I've got enough to do|to take care of the people.
+{5039}{5082}SHELLHAMMER:|I was hoping you could... George!
+{5628}{5677}KRIS: I beg your pardon, sir.
+{5678}{5746}You seem to have got mixed up|with this whip of yours.
+{5747}{5821}Allow me, will you?|It's quite simple, really.
+{5822}{5877}- You don't mind if I show you?|- No, sir.
+{5878}{5906}KRIS: Now, then.
+{5974}{6045}- See? It's all in the wrist.|- Is that so?
+{6046}{6080}KRIS: Yes, of course.|If you follow through.
+{6081}{6117}DRUNK: Is that so?
+{6118}{6165}KRIS: It's just like|throwing a ball.
+{6166}{6248}If you were to... [Sniffs]|You've been drinking.
+{6249}{6297}DRUNK: Well, it's cold.
+{6298}{6357}A man's got to do something|to keep warm.
+{6358}{6393}KRIS: You ought|to be ashamed of yourself.
+{6393}{6460}Don't you realize there are|thousands of children...
+{6461}{6519}lining the streets|waiting to see you...
+{6519}{6584}children who have been dreaming|of this moment for weeks?
+{6585}{6633}You're a disgrace to|the tradition of Christmas...
+{6634}{6693}and I refuse to have you|malign me in this fashion.
+{6693}{6741}Disgusting.
+{6742}{6789}Tell me, who's in charge|of this parade?
+{6790}{6848}MAN: When you find out, tell me.
+{6849}{6926}These pants are gonna fall off|in Columbus Circle.
+{7006}{7088}KRIS: I beg your pardon.|Who's in charge here?
+{7089}{7171}GIRL: Mrs. Walker.|There she is, down there.
+{7172}{7219}- Thank you.|- You're welcome.
+{7220}{7281}DORIS: You two ought to be|over on 81st Street.
+{7282}{7349}KRIS: Mrs. Walker,|one of the men in your parade...
+{7350}{7399}DORIS: What are you doing|out of costume?
+{7400}{7449}Get back and get dressed...|Oh, I'm terribly sorry.
+{7450}{7498}I thought|you were our Santa Claus.
+{7499}{7542}KRIS: Your Santa Claus|is intoxicated.
+{7542}{7595}- Oh, no!|- Yes. It's disgraceful.
+{7596}{7661}How can you allow a man|to get into such a position?
+{7693}{7770}[Singing]|Jingle bells, jingle bells...
+{7771}{7808}DORIS: Stop that!|What do you mean by drinking?
+{7810}{7855}You know it's not allowed.
+{7856}{7911}DRUNK: A man's got to do|something to keep warm.
+{7912}{7968}KRIS: I'll warm you.|I ought to take this cane...
+{7969}{8042}DORIS: Somebody, Julian,|get some black coffee...
+{8043}{8071}plenty of it, too.
+{8072}{8102}JULIAN: Yes, Mrs. Walker.
+{8103}{8165}DRUNK:|Black with a little cream.
+{8166}{8218}Wake me up|when the parade starts.
+{8219}{8290}[Singing]|Jingle bells, jingle bells
+{8291}{8362}Jingle all the way
+{8455}{8535}Shameful! Absolutely shameful!
+{8536}{8594}Could you be Santa Claus?
+{8595}{8639}Have you had any experience?
+{8640}{8671}KRIS: Oh, a little.
+{8672}{8724}DORIS: Oh, please.|You've got to help me out.
+{8725}{8773}KRIS: I am not in the habit|of substituting...
+{8774}{8822}for spurious Santa Clauses.
+{8823}{8863}- Oh, please.|- No, I...
+{8909}{8980}Well, the children|mustn't be disappointed.
+{8981}{9023}All right, I'll do it.
+{9024}{9089}DORIS: Oh, good. Thank you.|Come right this way.
+{9090}{9141}Get that costume.
+{9298}{9345}[Marching band|playing parade music]
+{10022}{10062}SHELLHAMMER: Wonderful!|He's the best we've ever had...
+{10063}{10099}and he didn't need any padding.
+{10099}{10126}DORIS: What?
+{10127}{10182}He didn't need padding.|Where did you find him?
+{10183}{10223}DORIS: I just turned round,|and there he was.
+{10224}{10288}SHELLHAMMER:|I'm glad you turned round.
+{10289}{10341}Just think if Mr. Macy|had seen the other one!
+{10342}{10415}DORIS: Just think if Mr. Gimbel|had seen the other one.
+{10416}{10469}SHELLHAMMER: You want to ride|in the motorcycle or a car?
+{10470}{10514}DORIS: No. I'm going home|and get in a hot tub...
+{10515}{10554}and I might stay there|until next Thanksgiving.
+{10555}{10611}SHELLHAMMER: You should see it.|You worked so hard.
+{10612}{10648}DORIS:|If I want to, which I doubt...
+{10649}{10709}I can see it from|the roof of my apartment.
+{10710}{10751}SHELLHAMMER: That's right,|you live down the...
+{10752}{10787}Mrs. Walker!
+{10877}{10933}[Band playing|"Santa Claus Is Coming To Town"]
+{11571}{11599}Susan!
+{11740}{11779}Susan?
+{11879}{11929}- Hello, Cleo.|- Hello, Mrs. Walker.
+{11930}{11971}DORIS: What a beauty.|Where's Susan?
+{11972}{12021}CLEO: She's watching the parade.
+{12022}{12069}DORIS: Where? With whom?
+{12070}{12153}CLEO: With that Mr. Gailey|in the front apartment.
+{12154}{12190}DORIS: Oh, yes.
+{12251}{12288}CLEO: I've been keeping|an eye on her.
+{12289}{12337}DORIS: She can see everything|from there.
+{12338}{12372}That's the 50 yard line.
+{12372}{12423}CLEO:|He's so very fond of Susan.
+{12424}{12473}When he asked me,|I didn't think you'd mind.
+{12476}{12526}DORIS:|Well, I guess it's all right.
+{12527}{12581}I'll go on in a minute.
+{12582}{12644}GAILEY: Looks like they're|having a little trouble...
+{12645}{12677}with the baseball player.
+{12678}{12719}SUZIE: He was a clown last year.
+{12720}{12778}They just changed the head|and painted him different.
+{12779}{12812}My mother told me.
+{12813}{12892}He certainly is a giant,|isn't he?
+{12893}{12961}Not really.|There are no giants, Mr. Gailey.
+{12962}{13027}Maybe not now, Suzie...
+{13028}{13090}but in olden days,|there were a lot of...
+{13159}{13205}What about the giant|that Jack killed?
+{13206}{13285}SUZIE: Jack? Jack who?
+{13286}{13314}GAILEY: Jack...
+{13384}{13429}Jack!
+{13430}{13477}"Jack and the Beanstalk."
+{13478}{13524}SUZIE: I never heard of that.
+{13525}{13569}GAILEY: You must've heard that.|You've just forgotten.
+{13570}{13611}It's a fairy tale.
+{13612}{13691}SUZIE: Oh, one of those.|I don't know any.
+{13692}{13801}GAILEY: Your mother and father|must have told you a fairy tale.
+{13802}{13853}SUZIE: No. My mother thinks|they're silly.
+{13854}{13920}I don't know whether my father|thinks they're silly or not.
+{13921}{13965}I never met my father.
+{13966}{14044}My father and mother were|divorced when I was a baby.
+{14135}{14202}Well, that baseball player|looks like a giant to me.
+{14203}{14291}People sometimes grow very big,|but that's abnormal.
+{14291}{14355}I'll bet your mother|told you that, too.
+{14379}{14409}[Doorbell buzzes]
+{14548}{14599}DORIS: Hello.|I'm Susan's mother.
+{14600}{14648}GAILEY: Yes, I know.|Won't you come in?
+{14649}{14708}Suzie's told me quite a lot|about you. I'm Fred Gailey.
+{14709}{14736}DORIS: Yes, I know.
+{14737}{14784}Susan's told me quite|a lot about you, too.
+{14785}{14866}- Hello, Mother!|- Hello, dear.
+{14866}{14954}GAILEY: A cup of coffee?|You must be half frozen.
+{14955}{15017}- Oh, don't bother.|- It's all ready.
+{15018}{15088}DORIS: In that case, thanks.|What do you think of my parade?
+{15088}{15135}SUZIE: It's much better|than last year's.
+{15136}{15176}DORIS: Well, I hope|Mr. Macy agrees with you.
+{15177}{15255}GAILEY: Sugar? Cream?|Both? Neither?
+{15256}{15307}DORIS: Just one sugar, please.
+{15368}{15409}This is very kind of you,|Mr. Gailey.
+{15410}{15440}GAILEY: Sit down.
+{15441}{15489}DORIS: I want to thank you|for being so kind to Susan.
+{15490}{15567}Cleo tells me you took them|to the zoo yesterday.
+{15568}{15619}GAILEY: That's right,|but I must confess.
+{15620}{15685}It's part of a deep-dyed plot.
+{15686}{15814}I'm fond of Suzie, very fond,|but I also wanted to meet you.
+{15814}{15876}I read someplace the surest way|to meet the mother...
+{15877}{15918}is to be kind to the child.
+{15919}{15969}DORIS: What a horrible trick.
+{15970}{16018}GAILEY: It worked.
+{16019}{16070}SUZIE: There goes Santa Claus.
+{16071}{16139}DORIS: Oh, don't even|mention the name.
+{16139}{16195}SUZIE: He's much better|than last year's.
+{16196}{16253}At least this one|doesn't wear glasses.
+{16254}{16304}DORIS: This one was|a last-minute substitute.
+{16305}{16351}The one I hired I fired.
+{16352}{16384}SUZIE: Why?
+{16385}{16454}DORIS: You remember|the janitor last New Year's?
+{16455}{16508}SUZIE: Ohh, yes.
+{16509}{16582}DORIS: Well,|this one was much worse.
+{16584}{16613}SUZIE: Oh.
+{16614}{16679}GAILEY: I see she doesn't|believe in Santa Claus, either.
+{16680}{16747}No Santa Claus,|no fairy tales...
+{16748}{16824}no fantasies of any kind,|is that it?
+{16825}{16891}DORIS: That's right.|We should be realistic...
+{16892}{16940}and completely truthful|with our children...
+{16940}{16976}and not have them growing up|believing in...
+{16977}{17076}a lot of legends and myths|like Santa Claus, for example.
+{17077}{17108}GAILEY: I see.
+{17109}{17191}SUZIE: That's the end.|The acrobats were good.
+{17192}{17240}DORIS: They ought to be|at those prices.
+{17241}{17284}Thanks for the coffee.
+{17285}{17338}SUZIE: And thank you|for inviting me in.
+{17339}{17397}GAILEY:|It was a pleasure, missy.
+{17398}{17433}SUZIE: Mother, I was thinking...
+{17434}{17482}we've got such|a big turkey for dinner...
+{17483}{17530}and there are only two of us.
+{17531}{17606}Couldn't we invite Mr. Gailey?
+{17607}{17652}GAILEY: Oh, don't even|think about it.
+{17653}{17704}I'll have a sandwich|or something.
+{17705}{17752}It's an awful big turkey.
+{17753}{17782}DORIS: That's not it, dear...
+{17783}{17847}but I'm sure Mr. Gailey|has other plans.
+{17848}{17899}No, he hasn't. Have you?
+{17900}{17980}GAILEY: To be quite honest|and truthful with the child...
+{17981}{18020}I must admit|I haven't any other plans.
+{18021}{18074}SUZIE: Please, Mother!
+{18075}{18112}Did I ask all right?
+{18113}{18142}GAILEY: Hmm?
+{18257}{18313}Didn't I ask all right,|Mr. Gailey?
+{18314}{18376}GAILEY: That all depends.
+{18416}{18455}DORIS: Dinner's at 3:00.
+{18456}{18504}GAILEY: Thanks.
+{18505}{18562}Suzie, honey,|you asked just right.
+{18563}{18607}I'll see you at 3:00.
+{18631}{18691}- It worked.|- Yes.
+{18798}{18860}SHELLHAMMER: I tell you,|Mrs. Walker, he's stupendous.
+{18861}{18912}Everybody's crazy about him.|So is Mr. Macy.
+{18914}{18959}DORIS: Well, hire him,|by all means.
+{18960}{18997}It's perfectly|all right with me.
+{18998}{19077}It'll save me a frantic search|in the morning.
+{19126}{19175}Yes. That's right.
+{19176}{19226}I'll take care of it as soon|as he gets through.
+{19227}{19255}You'll love him.
+{19256}{19297}I just know that|with that man on the throne...
+{19298}{19347}my department will sell|more toys than it ever has.
+{19348}{19395}He's a born salesman.|I just feel it.
+{19396}{19426}DORIS: Yes, yes, yes.
+{19427}{19477}We'll talk about it|in the morning. Good-bye.
+{19478}{19506}Good-bye.
+{19543}{19654}And you'll find toys|of all kinds at Macy's.
+{19965}{20021}ALFRED: Gee, that sure is|an elegant costume.
+{20022}{20126}KRIS: Yes. I've had it|for years and years.
+{20127}{20195}ALFRED: Sure makes a bum|out of the one they gave you.
+{20196}{20243}Even that one's better|than the one I wear.
+{20245}{20275}KRIS: You, Alfred?
+{20276}{20346}ALFRED: I play Santa Claus|over at the "Y" near our block.
+{20346}{20374}KRIS: No kidding!
+{20375}{20422}Started about three years ago.
+{20423}{20523}They had a costume,|but it didn't have no padding...
+{20524}{20583}and since I carry my own|padding around with me...
+{20584}{20621}I got the job, see?
+{20622}{20659}[Chuckles]
+{20660}{20708}You enjoy impersonating me?
+{20708}{20780}- Oh, yeah.|- Why?
+{20781}{20835}I don't know. It's...
+{20836}{20893}When I give packages|to little kids...
+{20894}{20958}I like to watch|their faces get that...
+{20959}{21007}that Christmas look|all of a sudden.
+{21008}{21076}It makes me feel|kind of good and important.
+{21184}{21220}WOMAN: Pardon me!
+{21220}{21262}BUSINESSMAN: I bought|a 23-pound turkey.
+{21263}{21340}I had my daughter and her kids|over for dinner yesterday.
+{21415}{21464}SHELLHAMMER: There you are.
+{21465}{21492}KRIS: Good morning.
+{21493}{21555}SHELLHAMMER: Oh, my,|what a striking costume!
+{21556}{21607}Before you go up on the floor,|I want to give you...
+{21608}{21658}a few tips on how to be|a good Santa Claus.
+{21661}{21691}KRIS: Go right ahead.
+{21691}{21760}SHELLHAMMER: Here's a list|of toys that we have to push.
+{21761}{21824}You know, things|that we're overstocked on.
+{21825}{21860}Now, you'll find|that a great many children...
+{21861}{21919}will be undecided as to what|they want for Christmas.
+{21920}{22026}When that happens,|you suggest one of these items.
+{22027}{22054}You understand?
+{22055}{22096}KRIS: I certainly do.
+{22097}{22168}SHELLHAMMER: Good.|You memorize that list...
+{22169}{22216}Oh, no. 9:50.
+{22217}{22276}When you've finished,|come up to the seventh floor.
+{22276}{22310}I'll be waiting for you.
+{22373}{22416}KRIS: Lmagine...
+{22417}{22485}making a child take something|it doesn't want...
+{22486}{22560}just because he bought|too many of the wrong toys.
+{22561}{22634}That's what I've been|fighting against for years...
+{22635}{22683}the way they|commercialize Christmas.
+{22684}{22760}ALFRED: A lot of bad "isms"|floating around this world...
+{22761}{22807}but one of the worst|is commercialism.
+{22808}{22848}Make a buck. Make a buck.
+{22849}{22896}Even in Brooklyn,|it's the same.
+{22897}{22949}Don't care what Christmas|stands for.
+{22950}{23009}Just make a buck.
+{23010}{23059}Oh, don't bother.|I'll put it away for you.
+{23060}{23112}KRIS: Eh?|Oh, thank you, Alfred.
+{23160}{23193}And what should I do|with these?
+{23193}{23242}Throw them on the floor.
+{23243}{23296}I get kind of tired|just sweeping up dust.
+{23297}{23326}KRIS: Mm-hmm.
+{23355}{23424}- Thanks.|- Well, thank you, Alfred.
+{23591}{23679}KRIS: Yes, yes, yes.|Peter's a fine name.
+{23680}{23712}What do you want|for Christmas, Peter?
+{23713}{23795}PETER: A fire engine, just like|the big ones only smaller...
+{23796}{23844}that has a real hose|that squirts real water.
+{23845}{23911}I won't do it in the house,|only in the backyard.
+{23912}{23949}I promise.
+{23951}{23990}WOMAN: Psst! Psst!
+{23991}{24064}Macy's ain't got any.|Nobody's got any.
+{24065}{24126}KRIS: Well, Peter,|I can tell you're a good boy.
+{24127}{24157}You'll get your fire engine.
+{24158}{24226}PETER:|Oh, thank you very much!
+{24227}{24305}You see?|I told you he'd get me one.
+{24306}{24353}WOMAN: That's fine.|That's just dandy.
+{24354}{24390}Listen, you wait over there.
+{24391}{24474}Mama wants to thank|Santa Claus, too.
+{24475}{24533}Say, listen,|what's the matter with you?
+{24534}{24570}Don't you understand English?
+{24571}{24642}I tell you nobody's got any.
+{24643}{24698}I've been all over.|My feet are killing me.
+{24699}{24747}A fine thing, promising the kid.
+{24747}{24827}KRIS: You don't think I would've|said that unless I'm sure?
+{24827}{24920}You can get those fire engines|at Schoenfeld's on Lexington.
+{24921}{24967}Only 8.50. A wonderful bargain.
+{24968}{25024}WOMAN: Schoenfeld's?|I don't get it.
+{25025}{25093}KRIS: I keep track of|the toy market pretty closely.
+{25094}{25126}Does that surprise you so?
+{25127}{25165}WOMAN: Surprise me?
+{25166}{25225}Macy's sending people|to other stores?
+{25225}{25257}Are you kidding me?
+{25258}{25329}KRIS: The only important thing|is to make the children happy.
+{25330}{25403}Who sells the toy|doesn't make any difference.
+{25404}{25441}Don't you feel that way?
+{25442}{25502}Who, me? Oh, yeah, sure.
+{25503}{25543}Only I didn't know Macy's did.
+{25544}{25586}KRIS:|As long as I'm here, they do.
+{25587}{25633}WOMAN: I don't get it.
+{25634}{25718}No, I just don't get it.
+{26216}{26252}KRIS: I quite understand.
+{26252}{26294}Your little girl|would like some skates.
+{26295}{26333}But of course,|you must get her the best...
+{26334}{26393}'cause their little ankles|want protecting.
+{26394}{26474}Our skates are very good,|but not quite good enough.
+{26475}{26524}You go to Gimbels.
+{26525}{26561}They'll have exactly what|you're looking for.
+{26562}{26619}There you are, dear.|That's for you.
+{26620}{26647}Merry Christmas.
+{26648}{26675}SHELLHAMMER: Gimbels.
+{26676}{26765}KRIS: Hello, my little girl.|How old are you?
+{26817}{26870}Gimbels.
+{26871}{26923}Gimbels!
+{26924}{26968}WOMAN: Pardon me.|The guard said to speak to you.
+{26969}{27005}You're the head|of the toy department?
+{27005}{27039}SHELLHAMMER: Yes, madam...
+{27040}{27105}WOMAN: Listen. I want to|congratulate you and Macy's...
+{27106}{27167}on this wonderful new stunt|you're pulling.
+{27169}{27230}Imagine, sending people|to other stores.
+{27231}{27271}I don't get it. Why, it's...
+{27272}{27334}- It certainly is.|- You said it.
+{27334}{27385}Imagine a big outfit|like Macy's...
+{27386}{27446}putting the spirit of Christmas|ahead of the commercial.
+{27448}{27491}It's wonderful.
+{27492}{27542}I never done|much shopping here before...
+{27543}{27643}but from now on, I'm going|to be a regular Macy customer.
+{27644}{27678}All right, dear.
+{27679}{27717}SHELLHAMMER: Thank you, madam.
+{27799}{27869}SECRETARY: There are six more|women who want to thank you.
+{27870}{27948}Not now. I've got|to think this thing over.
+{27949}{28024}Personally, I think|it's a wonderful idea, too.
+{28025}{28094}You think so.|Those women think so.
+{28095}{28164}The point is,|will Mr. Macy think so?
+{28243}{28317}SUZIE: This seems awfully silly,|Mr. Gailey.
+{28318}{28385}GAILEY: I thought as long|as we're in the store...
+{28386}{28437}you might as well|say hello to Santa Claus.
+{28438}{28474}SUZIE: Why?
+{28475}{28526}GAILEY: Because when|you talk to him...
+{28527}{28575}you might feel|differently about him.
+{28711}{28782}KRIS: Good-bye, Elmer.|Be a good boy now.
+{28783}{28812}Merry Christmas!
+{28838}{28875}Well, young lady,|what's your name?
+{28876}{28926}SUZIE: Susan Walker.|What's yours?
+{28927}{28981}KRIS: Mine? Kris Kringle.
+{28982}{29029}I'm Santa Claus.
+{29030}{29110}Oh, you don't believe that,|do you?
+{29111}{29207}SUZIE: My mother's Mrs. Walker,|the lady who hired you.
+{29209}{29244}KRIS: Oh.
+{29245}{29318}SUZIE: But I must say,|you're the best one I've seen.
+{29319}{29349}KRIS: Really?
+{29350}{29412}SUZIE: Your beard doesn't have|those things over your ears.
+{29413}{29488}KRIS: That's because it's real,|like I'm really Santa Claus.
+{29518}{29566}Oh, go ahead, pull it.
+{29597}{29628}Ouch.
+{29694}{29741}CLERK: All right, folks,|don't crowd.
+{29742}{29782}You have all day|to see Santa Claus.
+{29783}{29839}Now, children, behave.|This way, please.
+{29840}{29874}Get back in the line there.
+{29875}{29947}KRIS: What would you like me|to bring you for Christmas?
+{29948}{29994}SUZIE: Nothing, thank you.
+{29995}{30047}KRIS: Oh, come now.|You must want something.
+{30048}{30104}SUZIE: Whatever I want,|my mother will get for me...
+{30105}{30164}if it's sensible and doesn't|cost too much, of course.
+{30165}{30192}Hello, Mother.
+{30193}{30227}DORIS: Hello, Susan, Mr. Gailey.
+{30228}{30308}I think you've taken up enough|of this gentleman's time.
+{30309}{30388}GAILEY: The explanation for this|is all very simple.
+{30389}{30427}Cleo's mother|sprained her ankle.
+{30428}{30488}She had to go home and asked me|to bring Suzie down to you.
+{30489}{30548}DORIS: Yes, Cleo called me.|I was wondering where you were.
+{30550}{30613}GAILEY: As long as we're here,|we should say hello to Santa.
+{30614}{30704}SUZIE: He's a nice old man,|and those whiskers are real.
+{30705}{30775}DORIS: Yes, dear. Many men|have long beards like that.
+{30775}{30819}Susan, would you stand|over here a minute?
+{30820}{30880}I want to talk to Mr. Gailey.
+{30881}{30952}GAILEY: I shouldn't have brought|Suzie to see Santa Claus?
+{30953}{31023}DORIS: You're making me feel|like the proverbial stepmother.
+{31024}{31076}GAILEY: I'm sorry, but I just|couldn't see any harm...
+{31077}{31123}in just saying hello|to the old fellow.
+{31124}{31167}DORIS:|But I think there is harm.
+{31168}{31231}I tell her Santa Claus is|a myth, you bring her here...
+{31232}{31283}and she sees hundreds|of gullible children...
+{31284}{31354}meets a very convincing|old man with real whiskers.
+{31355}{31432}This sets up a very harmful|mental conflict within her.
+{31433}{31497}What is she going to think?|Who is she going to believe?
+{31634}{31669}And by filling them|full of fairy tales...
+{31670}{31752}they grow up considering life|a fantasy instead of a reality.
+{31753}{31824}They keep waiting for|Prince Charming to come along.
+{31825}{31872}And when he does,|he turns out to be a...
+{31873}{31939}GAILEY: We were talking|about Suzie, not about you.
+{31940}{31984}DORIS:|Whether you agree or not...
+{31985}{32063}I must ask you to respect|my wishes regarding Susan.
+{32063}{32106}She's my responsibility...
+{32107}{32152}and I must bring her up|as I see fit.
+{32153}{32180}GAILEY: OK.
+{32368}{32415}- Say "Thank you."|- Thank you.
+{32416}{32458}KRIS: Bye. Merry Christmas!
+{32519}{32570}Well, young lady,|what's your name?
+{32571}{32622}MOTHER: I'm sorry.|She doesn't speak English.
+{32623}{32689}She's Dutch. She just came over.
+{32689}{32740}She's been living|in an orphans home...
+{32741}{32804}in Rotterdam ever since...
+{32805}{32834}We've adopted her.
+{32835}{32895}I told her you wouldn't|be able to speak to her...
+{32896}{32943}but when she saw you|in the parade yesterday...
+{32944}{33007}she said you were|"Sinter Claes"...
+{33008}{33054}and you could talk to her.
+{33055}{33082}I didn't know what to do.
+{33083}{33154}KRIS: Hello. [Speaking Dutch]
+{33155}{33212}[Speaking Dutch]
+{33718}{33789}[Singing in Dutch]
+{34263}{34302}DORIS: Now do you understand?
+{34303}{34346}SUZIE: Yes, I see what|you mean, Mother.
+{34347}{34377}DORIS: Good.
+{34378}{34459}SUZIE: But when he spoke Dutch|to that girl, he was so...
+{34460}{34543}DORIS: Susan, I speak French,|but I'm not Joan of Arc.
+{34544}{34615}What I'm trying|to explain is... Come in.
+{34615}{34660}KRIS: They said you wanted|to see me, Mrs. Walker.
+{34661}{34696}DORIS: Come right in.
+{34697}{34734}KRIS: Hello there!|Good to see you again.
+{34735}{34768}SUZIE: It's nice to see you.
+{34769}{34803}KRIS: You're awfully lucky,|Mrs. Walker.
+{34803}{34845}Lovely little girl|you have here.
+{34846}{34916}DORIS: Thank you. Susan's why|I asked you to drop down.
+{34917}{34947}She's a little confused...
+{34948}{34985}and I thought you could help|straighten her out.
+{34987}{35016}KRIS: Oh, glad to.
+{35017}{35109}Would you please tell her|you're not really Santa Claus...
+{35110}{35174}that there actually|is no such person?
+{35175}{35221}KRIS: I'm sorry to disagree|with you, Mrs. Walker.
+{35222}{35290}Not only is there such a person,|but here I am to prove it.
+{35291}{35340}No, you misunderstand.
+{35341}{35412}I want you to tell her|the truth. What's your name?
+{35412}{35461}Kris Kringle. I'll bet|you're in the first grade.
+{35462}{35489}SUZIE: Second.
+{35490}{35529}I mean your real name.
+{35530}{35584}That is my real name.|Second grade?
+{35585}{35619}SUZIE:|It's a progressive school.
+{35620}{35684}KRIS: Oh,|it's a progressive school.
+{35685}{35742}DORIS: May I have this man's|employment card, please?
+{35743}{35770}WOMAN: Yes, Mrs. Walker.
+{35771}{35806}KRIS: This dress is very cute.
+{35807}{35851}Where did you get|such a lovely outfit?
+{35852}{35917}SUZIE: Here at Macy's.|We get 10% off.
+{35918}{35990}DORIS: Please don't feel|you have to pretend for Susan.
+{35990}{36037}She's a very|intelligent child...
+{36038}{36088}and always wants to know|the absolute truth.
+{36089}{36135}KRIS: Good, because I always|tell the absolute truth.
+{36135}{36207}About your school...|What's the name of your teacher?
+{36208}{36258}SUZIE: Mrs. Haley.
+{36259}{36322}- Here it is, Mrs. Walker.|- Thank you.
+{36323}{36379}KRIS: What else do you do|besides read and play games?
+{36380}{36456}SUZIE: We have rest periods|for one half-hour.
+{36457}{36507}KRIS: I don't suppose|you care for that, eh?
+{36508}{36582}SUZIE: No. We're not allowed|to talk or anything.
+{36583}{36666}SUZIE: Tuesday, Chester Richards|kept talking all the time.
+{36667}{36717}KRIS: My, that was bad, eh?
+{36718}{36802}SUZIE: Mrs. Haley made him rest|all alone for nearly an hour.
+{36803}{36903}DORIS: Susan, would you go out|and talk to Miss Adams?
+{36904}{36943}I'll be right with you.
+{36944}{36979}SUZIE: All right. Good-bye.
+{36980}{37023}KRIS: Good-bye, young lady.|Hope to see you again.
+{37024}{37079}SUZIE: Thank you.|I hope so, too. Bye.
+{37080}{37107}KRIS: Good-bye.
+{37108}{37191}DORIS:|I'm sorry, Mr., uh... Mr...
+{37191}{37223}KRIS: Kringle.
+{37224}{37271}DORIS: I'm sorry, but we're|going to have to make a change.
+{37272}{37299}KRIS: Change?
+{37300}{37351}DORIS: The Santa Claus|that we had two years ago...
+{37352}{37402}is back in town,|and I feel we owe it to him...
+{37403}{37439}KRIS:|Have I done something wrong?
+{37440}{37489}DORIS: Oh, no, no.
+{37491}{37529}Well...
+{37530}{37567}[Buzz]
+{37568}{37595}DORIS: Yes?
+{37596}{37658}WOMAN: Mr. Macy wants|to see you immediately.
+{37659}{37694}DORIS: I'll be right up.
+{37742}{37782}DORIS: Would you sit down...
+{37783}{37857}and I'll be right back|and sign your pay voucher.
+{37898}{37934}SECRETARY: Yes, indeed.
+{37934}{38019}Go right in.|Mr. Macy's waiting.
+{38055}{38114}MACY: The effect this will|have on the public is...
+{38115}{38149}Come in, Mrs. Walker.
+{38150}{38241}- Hello, Mrs. Walker.|- Sit over here.
+{38242}{38316}MACY: I've been telling these|gentlemen the new policy...
+{38317}{38358}you and Mr. Shellhammer|initiated.
+{38359}{38425}I can't say that I approve|of your not consulting...
+{38426}{38470}the advertising department|first...
+{38471}{38552}but in the face of this|tremendous public response...
+{38553}{38600}I can't be angry with you.
+{38601}{38657}- What's he talking about?|- Tell you later.
+{38658}{38691}MACY:|Now, to continue, gentlemen.
+{38691}{38783}I admit this plan sounds|idiotic and impossible.
+{38783}{38871}Imagine Macy's Santa Claus|sending customers to Gimbels.
+{38872}{38982}Ho ho. But, gentlemen,|you cannot argue with success.
+{38983}{39031}Look at this.
+{39032}{39079}Telegrams,|messages, telephone calls.
+{39080}{39128}The governor's wife,|the mayor's wife...
+{39129}{39176}over 500 thankful parents...
+{39177}{39230}expressing|undying gratitude to Macy's.
+{39231}{39289}Never in my entire career...
+{39290}{39347}have I seen such a tremendous|and immediate response...
+{39347}{39390}to a merchandising policy.
+{39391}{39479}And I'm positive, Frank,|if we expand our policy...
+{39480}{39527}we'll expand|our results as well.
+{39528}{39588}Therefore, from now on...
+{39589}{39647}not only will our Santa Claus|continue in this manner...
+{39648}{39714}but I want every salesperson|in this store...
+{39714}{39757}to do precisely the same thing.
+{39758}{39829}If we haven't got exactly|what the customer wants...
+{39832}{39882}we'll send him|where he can get it.
+{39883}{39930}No high pressuring|and forcing a customer...
+{39930}{39969}to take something|he doesn't really want.
+{39970}{40050}We'll be known|as the helpful store...
+{40051}{40115}the friendly store,|the store with a heart...
+{40116}{40204}the store that places|public service ahead of profits.
+{40205}{40276}And, consequently, we'll make|more profits than ever before.
+{40277}{40345}Yes, I know it's late,|and we're all tired...
+{40345}{40378}and we want to go to dinner...
+{40379}{40433}so we'll continue first thing|in the morning.
+{40433}{40487}In the meantime,|you fellas get together...
+{40488}{40539}and figure out the best way|to promote this thing.
+{40540}{40593}ADVERTISING EXECUTIVE:|We'll do that. Good night, R.H.
+{40594}{40621}MACY: Good night.
+{40622}{40699}I want to thank you two again.
+{40700}{40740}And in your|Christmas envelopes...
+{40741}{40804}you'll find a more practical|expression of my gratitude.
+{40805}{40832}SHELLHAMMER:|Thank you, Mr. Macy.
+{40834}{40881}MACY: Tell that Santa|I won't forget him, either.
+{40882}{40928}SHELLHAMMER: Yes, Mr. Macy.
+{41014}{41078}SHELLHAMMER: Lmagine, a bonus!
+{41079}{41157}He just assumed it was our idea.|What's the matter?
+{41158}{41206}- I fired him.|- Who?
+{41207}{41261}- Santa Claus.|- What?
+{41262}{41313}DORIS: He's crazy.|He thinks he is Santa Claus.
+{41314}{41368}SHELLHAMMER: I don't care if|he thinks he's the Easter Bunny.
+{41369}{41397}Get him back.
+{41398}{41434}DORIS: He's insane, I tell you.
+{41435}{41494}We'll hire somebody else|and have him do the same thing.
+{41495}{41555}SHELLHAMMER: You heard Mr. Macy.|We've got to keep him.
+{41556}{41608}DORIS: What if he should have|a sudden fit?
+{41609}{41662}Oh, no.|I've got to tell Mr. Macy.
+{41663}{41721}SHELLHAMMER: But maybe|he's only a little crazy...
+{41722}{41770}like painters or composers...
+{41770}{41816}or some of those men|in Washington.
+{41817}{41863}We can't be sure|until he's been examined.
+{41864}{41944}If you fire him, and we find out|he wasn't really crazy...
+{41945}{42026}Mr. Macy will have us|examined and fired.
+{42027}{42083}DORIS: I suppose|we ought to be sure.
+{42084}{42128}We could if Mr. Sawyer|talked to him.
+{42129}{42170}SHELLHAMMER: Of course.|He's a psychologist.
+{42171}{42229}He's paid to examine employees.
+{42230}{42297}Until we get his report,|we won't say a word.
+{42298}{42356}DORIS: I'll get in touch|with him right away.
+{42357}{42400}SHELLHAMMER: First,|get that Santa Claus back!
+{42401}{42458}The examination is worthless|without the patient.
+{42489}{42554}DORIS: It was just because|I felt we owed it to him...
+{42555}{42617}but Mr. Macy suggested|that we find something else...
+{42618}{42693}for the other Santa Claus|and keep you on by all means.
+{42693}{42766}KRIS: Oh, well, thanks.|That's mighty good news.
+{42768}{42826}DORIS: You'll be here|in the morning then?
+{42826}{42854}KRIS: Certainly I will.
+{42855}{42922}Mrs. Walker, this is|quite an opportunity for me.
+{42923}{42969}For the past 50 years or so...
+{42970}{43022}I've been getting more|worried about Christmas.
+{43023}{43112}Seems we're all so busy trying|to beat the other fellow...
+{43113}{43185}in making things go faster,|look shinier, and cost less...
+{43185}{43262}that Christmas and I are sort of|getting lost in the shuffle.
+{43263}{43330}DORIS: I don't think so.|Christmas is still Christmas.
+{43331}{43382}KRIS:|Christmas isn't just a day.
+{43383}{43456}It's a frame of mind.|That's what's been changing.
+{43457}{43533}That's why I'm glad I'm here.|Maybe I can do something.
+{43534}{43574}And I'm glad|I met you and your daughter.
+{43575}{43624}You two are a test case for me.
+{43625}{43655}DORIS: We are?
+{43656}{43718}KRIS: Yes. You're sort of|the whole thing in miniature.
+{43719}{43791}If I can win you over,|there's still hope.
+{43791}{43882}If not,|then I guess I'm through.
+{43883}{43958}But I'm warning you,|I don't give up easily.
+{43959}{43996}Good night.
+{43997}{44024}DORIS: Good night.
+{44025}{44080}Oh, Mr. Kringle,|first thing in the morning...
+{44081}{44136}would you report|to Mr. Sawyer's office?
+{44137}{44203}He'll give you|a little examination.
+{44204}{44270}Oh, we do it|with all our employees.
+{44271}{44314}KRIS: A mental examination?
+{44343}{44392}Well...
+{44393}{44457}KRIS: I don't mind.|I've taken dozens of them.
+{44458}{44532}Never failed one yet.|Know them by heart.
+{44533}{44621}- How many days in the week?|- Seven.
+{44622}{44684}- How many fingers do you see?|- Four.
+{44684}{44732}Muscular coordination test.
+{44838}{44880}No damage|to the nervous system.
+{44881}{44939}Who was the first president|of the United States?
+{44940}{44972}George Washington.
+{44973}{45051}Who was vice president|under John Quincy Adams?
+{45075}{45131}Daniel D. Tompkins.
+{45132}{45188}I'll bet your Mr. Sawyer|doesn't know that.
+{45189}{45217}Good night.
+{45531}{45577}Miss Adams, would you get me...
+{45578}{45656}the Brooks' Memorial Home|in Great Neck?
+{45657}{45719}It's a home for old people.|That's right.
+{45720}{45781}I want to talk|to the doctor in charge.
+{45989}{46052}- How many days in the week?|- Seven.
+{46053}{46113}SAWYER: The first president|of the United States?
+{46114}{46141}KRIS: George Washington.
+{46142}{46174}SAWYER: Three times five?
+{46174}{46237}You asked me that before.|The answer's at the bottom...
+{46238}{46290}I'm conducting this examination.
+{46291}{46334}How much is three times five?
+{46335}{46404}Same as before... 15.
+{46478}{46554}You're rather nervous,|aren't you, Mr. Sawyer?
+{46555}{46594}Do you get enough sleep?
+{46595}{46643}SAWYER: My personal habits|are of no concern to you.
+{46644}{46719}KRIS: Oh, I'm sorry.|I hate to see someone tied up...
+{46720}{46783}- How many fingers do you see?|- Three.
+{46784}{46843}You bite your nails, too.|Tsk tsk tsk.
+{46844}{46925}I want you to stand|with your feet together...
+{46926}{46974}and your arms extended.|Then I want you to...
+{46975}{47010}KRIS:|Muscular coordination test?
+{47011}{47092}Surely. Be glad to. Ha ha.
+{47147}{47230}KRIS: Sometimes the cause|of nervous habits like yours...
+{47231}{47286}is not obvious. No.
+{47287}{47355}Often they're the result|of an insecurity.
+{47356}{47396}Are you happy at home?
+{47397}{47431}SAWYER: That will be all!
+{47432}{47485}The examination's over.|You may go.
+{47486}{47513}KRIS: Thank you.
+{47514}{47545}SAWYER:|You may go out that way.
+{47621}{47669}And it may|interest you to know...
+{47670}{47727}that I've been happily|married for 26 years.
+{47727}{47800}Really? Delighted to hear it.
+{47801}{47834}Good-bye.
+{47945}{47972}Get me Mrs. Walker.
+{47973}{48039}Yes, sir. Your wife's on 672.
+{48040}{48083}She says it's very important.
+{48127}{48220}How many times have I told you|not to bother me at the office?
+{48221}{48292}No. Not a penny.|I give you a liberal allowance.
+{48293}{48334}It's up to you|to run the house on it.
+{48335}{48382}If your stupid brother|would get a job...
+{48383}{48434}you wouldn't have to|pester me all the time.
+{48435}{48495}[Buzz]
+{48495}{48577}Mrs. Walker, I'd like to talk|to you about this Kringle.
+{48578}{48652}Oh, yes. Dr. Pierce|from the Brooks' home is here.
+{48654}{48698}It would be a good time|to settle the matter.
+{48699}{48749}Sorry, Doctor,|but that was Mr. Sawyer...
+{48750}{48797}the gentleman|I was telling you about.
+{48798}{48851}He's just down the hall.
+{48851}{48935}I can't tell you how|we appreciate your time.
+{48936}{49013}PIERCE: Matter of fact,|I was going to call you today.
+{49014}{49104}I had a feeling about now|you'd be wondering about Kris.
+{49105}{49175}DORIS: Dr. Pierce, Mr. Sawyer.
+{49176}{49207}PIERCE: How do you do?
+{49208}{49275}SAWYER: After giving this man|a comprehensive examination...
+{49275}{49324}it's my opinion he should|be dismissed immediately.
+{49325}{49406}Really? He failed|to pass the examination?
+{49407}{49467}- Yes.|- He didn't answer correctly?
+{49468}{49539}SAWYER: Yes, he did,|but he lacked concentration.
+{49540}{49598}He kept changing the subject.|Even questioned me.
+{49599}{49646}I don't think|there's any doubt about it.
+{49646}{49694}He should be placed|in a mental institution.
+{49694}{49767}PIERCE: I don't agree.|People are institutionalized...
+{49768}{49821}to prevent them from|harming themselves or others.
+{49825}{49869}Mr. Kringle|is incapable of either.
+{49870}{49905}His is a delusion for good.
+{49906}{49952}He only wants|to be friendly and helpful.
+{49953}{49999}SHELLHAMMER:|That's what I feel, too.
+{49999}{50049}PIERCE: Thousands of people|have similar delusions...
+{50050}{50096}living perfectly normal lives|in every other respect.
+{50097}{50166}A famous example|is that fellow...
+{50167}{50226}I can't think of his name.
+{50227}{50284}For years, he's insisted|he's a Russian prince.
+{50285}{50333}There's been much evidence|to prove him wrong...
+{50334}{50379}but nothing|has shaken his story.
+{50380}{50416}Is he in an institution?
+{50417}{50472}No. He owns a famous restaurant|in Hollywood...
+{50473}{50504}and is a highly|respected citizen.
+{50505}{50583}SAWYER: I've made a great study|of abnormal psychology...
+{50584}{50664}and I've found from experience|when a delusion is challenged...
+{50665}{50702}the deluded|is apt to become violent.
+{50703}{50751}PIERCE: I'll have to disagree|with you again.
+{50751}{50818}If you tell Kris|there is no Santa Claus...
+{50819}{50878}I grant he'll argue the point,|but he'll not become violent.
+{50879}{50932}His whole manner|suggests aggressiveness!
+{50933}{51002}Look how he carries that cane!|He's never without it.
+{51003}{51060}I know Kris|always carries a cane...
+{51060}{51119}but surely you're not implying|he'd use the cane as a weapon?
+{51120}{51218}SAWYER: Mrs. Walker, naturally|I can't discharge this man.
+{51219}{51305}That's up to you.|But you asked my opinion.
+{51306}{51351}So when he exhibits his latent|maniacal tendencies...
+{51352}{51398}which I assure you he will...
+{51399}{51462}please realize|the responsibility is yours.
+{51593}{51647}Speaking of delusions...
+{51648}{51704}Now we're right back|where we started.
+{51705}{51740}No, we're not.
+{51740}{51799}After listening to Dr. Pierce,|I feel perfectly confident.
+{51800}{51871}But if anything happens,|you won't get blamed. I will.
+{51872}{51935}PIERCE:|Nothing's going to happen.
+{51936}{51999}Please don't feel what I've said|was prompted by affection.
+{52000}{52047}My specialty is geriatrics.
+{52048}{52079}Huh?
+{52080}{52117}PIERCE: Treatment|of the diseases of old age.
+{52118}{52167}I've had quite a bit|of experience...
+{52168}{52268}and I assure you Kris has|no latent maniacal tendencies.
+{52269}{52309}You'll want to discuss this|with Mr. Shellhammer...
+{52310}{52371}so I'll be on my way.|May I see Kris?
+{52372}{52408}DORIS: Why, certainly, Doctor.
+{52409}{52454}Use the employees' elevator.|It's much quicker.
+{52455}{52489}SHELLHAMMER:|The same one you came up on.
+{52490}{52547}- Where is that?|- I'll show you.
+{52548}{52590}PIERCE: That isn't necessary.|I'll find my way.
+{52591}{52650}DORIS: You understand|my position, Doctor.
+{52651}{52689}If there's the slightest|possibility...
+{52690}{52751}of him becoming violent|or getting into trouble...
+{52752}{52798}SHELLHAMMER:|What trouble could he get into?
+{52799}{52864}DORIS: All that's got to happen|is a policeman to ask his name.
+{52865}{52933}A big argument.|Clang, clang! Bellevue!
+{52934}{52981}PIERCE: You can prevent that|very simply.
+{52982}{53032}If he could|stay with an employee...
+{53033}{53086}they could ride|to and from work together.
+{53087}{53161}I'd prefer he didn't take the|train to Great Neck twice a day.
+{53162}{53197}SHELLHAMMER:|That would solve everything.
+{53198}{53248}They could steer him away|from trouble.
+{53249}{53284}DORIS:|Sort of take custody of him.
+{53284}{53322}Do you think|he'd agree to that?
+{53323}{53363}PIERCE: I'll talk to him.|I'm sure he will.
+{53364}{53399}DORIS:|In that case, he can stay.
+{53399}{53438}PIERCE: Good. Thank you.
+{53439}{53508}DORIS: It's the seventh floor,|and thank you very much.
+{53509}{53537}- Bye, Doctor.|- Bye.
+{53574}{53635}SHELLHAMMER: I'm sure|you made a wise decision.
+{53636}{53703}Now, let's see...|who could rent him a room?
+{53704}{53731}DORIS: You.
+{53733}{53795}Your son's away at school.|What about his room?
+{53796}{53868}Well, I don't mind.|I'd be glad to.
+{53869}{53928}I'm positive Mrs. Shellhammer|wouldn't like it.
+{53929}{53967}She's a little...
+{53968}{54015}Say, I have an idea.
+{54016}{54062}We always have martinis|before dinner.
+{54063}{54125}I'll make them|double-strength tonight.
+{54126}{54198}I'll bet after a couple of them,|she'll be more receptive.
+{54199}{54239}But Kris is through work|at 6:00.
+{54240}{54282}What about|the in-between time?
+{54283}{54324}Take him home to dinner.
+{54325}{54398}I'll call soon as my wife's|plastered... feeling gay.
+{54399}{54432}DORIS: Oh, no.
+{54432}{54470}SHELLHAMMER: If I'm willing|to let my wife...
+{54471}{54517}have a big headache|in the morning...
+{54517}{54562}you can have|a little headache tonight.
+{54563}{54604}DORIS: All right.
+{54605}{54660}SHELLHAMMER: Won't take an hour.|Everything will be OK.
+{54684}{54746}KRIS: Good. Very good.
+{54747}{54832}What sort of games do you play|with the other children?
+{54833}{54922}I don't play much with them.|They play silly games.
+{54923}{54953}They do?
+{54954}{55018}Like today. They were|in the basement playing zoo...
+{55019}{55070}and all of them were animals.
+{55071}{55150}When I came down, Homer...|he was the zookeeper...
+{55151}{55226}he said, "What animal are you?"
+{55227}{55304}I said,|"I'm not an animal, I'm a girl."
+{55305}{55354}And he said,|"Only animals allowed."
+{55355}{55400}So I came upstairs.
+{55401}{55454}Why didn't you tell him|you were a lion or a bear?
+{55455}{55501}SUZIE: Because|I'm not a bear or a lion.
+{55502}{55572}KRIS: But the other children|were only children...
+{55573}{55620}and they were pretending|to be animals.
+{55621}{55677}SUZIE: That's what makes|the game so silly.
+{55678}{55707}KRIS: I don't think so.
+{55708}{55766}Sounds like|a wonderful game to me.
+{55767}{55899}Of course, in order to play it,|you need an imagination.
+{55899}{55960}Do you know|what the imagination is?
+{55961}{55991}Oh, sure.
+{55992}{56056}That's when you see things,|but they're not really there.
+{56057}{56143}That can be caused|by other things, too.
+{56144}{56229}No, to me the imagination|is a place all by itself...
+{56230}{56277}a separate country.
+{56278}{56352}You've heard of the French|or the British nation.
+{56353}{56400}Well, this is|the lmagine nation.
+{56401}{56452}It's a wonderful place.
+{56453}{56603}How would you like to make|snowballs in the summertime?
+{56604}{56703}Or drive a big bus|right down 5th Avenue?
+{56704}{56765}How would you like to have|a ship all to yourself...
+{56767}{56862}that makes daily trips|to China and Australia?
+{56863}{56925}How would you like to be|the Statue of Liberty...
+{56926}{56981}in the morning,|and in the afternoon...
+{56982}{57026}fly south with a flock of geese?
+{57082}{57163}It's very simple.|Of course, it takes practice.
+{57164}{57272}The first thing you've got|to learn is how to pretend.
+{57274}{57369}And the next time Homer says,|"What kind of animal are you?"
+{57370}{57417}Tell him you're a monkey.
+{57418}{57465}I don't know how to be a monkey.
+{57466}{57524}Sure you do.|Here, I'll show you.
+{57525}{57573}Now just bend|your body over a little.
+{57573}{57621}Let your arms hang loose, see?
+{57621}{57682}Now put your right hand|up here... under here.
+{57684}{57767}Now scratch yourself, see?|That's right.
+{57768}{57838}Put your tongue under your lips,|over your teeth.
+{57839}{57910}- Like this?|- That's right.
+{57911}{57957}Now scratch yourself|and chatter, see?
+{57958}{58034}- Bla bla bla!|- Eeek!
+{58035}{58068}Eeek erp!
+{58069}{58148}Haislip, Haislip, Sherman,|Mackenzie, and Haislip...
+{58149}{58185}have been very kind to me.
+{58186}{58271}But being an exceptional lawyer,|I want to open my own office.
+{58272}{58332}DORIS: Put this in|Susan's place for me, please.
+{58333}{58387}GAILEY: Take the meat out.|It should be done.
+{58441}{58484}KRIS: Don't forget to scratch.
+{58485}{58545}Put your tongue up|in front of your teeth.
+{58545}{58603}Talk to the other monkeys.
+{58604}{58659}GAILEY: What's going on here?
+{58660}{58711}KRIS: We're having|our first lesson in pretending.
+{58712}{58760}Doing quite well at it, too.
+{58761}{58832}That's right.|Call the other monkeys.
+{58833}{58941}No. You mustn't be a goose.|Be a monkey.
+{58942}{59008}- Mr. Kringle...|- Yes?
+{59009}{59058}Mrs. Walker|just happened to mention...
+{59059}{59110}that they're looking|for a room for you.
+{59111}{59143}KRIS: That's right.
+{59144}{59206}Dr. Pierce doesn't want me|making the long trip daily.
+{59207}{59251}GAILEY: I was just thinking.
+{59251}{59322}I'm all alone in my apartment.
+{59323}{59382}Twin beds, plenty of room.
+{59383}{59455}If you'd like|to move in with me...
+{59456}{59503}I'd be only too happy|to have you.
+{59504}{59543}KRIS:|That's awfully nice of you.
+{59544}{59613}You could ride to and from|work with Mrs. Walker.
+{59614}{59691}Yes. That would|give me a chance...
+{59692}{59754}to really talk things|over with her.
+{59758}{59812}[Suzie chattering]
+{59813}{59910}KRIS: Don't forget to scratch.|You're not scratching.
+{59911}{59976}Besides, I could see|Suzie now and then.
+{59977}{60020}Mr. Gailey, it's a deal.
+{60021}{60055}- Good!|- [Telephone rings]
+{60055}{60135}We'll get your things|after dinner.
+{60136}{60190}Hello.|Oh, yes, just a moment.
+{60191}{60227}It's a Mr. Shellhammer.
+{60228}{60255}DORIS: Thanks.
+{60281}{60324}Hello, Mr. Shellhammer.
+{60324}{60375}Yes. Just a moment.
+{60376}{60429}Mrs. Shellhammer|wants to talk to you.
+{60461}{60523}I made the martinis|triple-strength...
+{60524}{60571}and she feels wonderful.
+{60603}{60643}Here, my pet.
+{60644}{60686}MRS. SHELLHAMMER: Ha ha.
+{60687}{60722}Hello?
+{60759}{60793}Hello?
+{60793}{60841}SHELLHAMMER: No, no. No, dear.
+{60841}{60897}MRS. SHELLHAMMER:|Thank you, darling.
+{60898}{60941}[Giggles]
+{60942}{60987}Hello?
+{60987}{61054}SHELLHAMMER:|No, no, dear. There.
+{61055}{61131}MRS. SHELLHAMMER:|Oh, darling, how silly of me!
+{61171}{61211}Hello!
+{61253}{61362}We'd love to have Santa Claus|come and stay with us.
+{61363}{61406}[Giggles]
+{61407}{61484}I think it would be|simply charming.
+{61485}{61541}Oh, and so do I,|Mrs. Shellhammer.
+{61542}{61589}Just a moment.
+{61590}{61661}It's Mrs. Shellhammer.|They have the loveliest room.
+{61663}{61713}They'd be so happy|if you'd stay with them.
+{61714}{61761}That's very sweet of them.
+{61762}{61794}Please thank them very much...
+{61795}{61878}but I'm going to stay|with Mr. Gailey.
+{61879}{61906}DORIS: Mr. Gailey.
+{61907}{61971}I think|I'd better get the meat.
+{62038}{62077}KRIS: Yes, I understand that...
+{62078}{62129}but there must be something|you want for Christmas...
+{62130}{62189}something you haven't|even told your mother.
+{62190}{62244}Oh, come on, now.
+{62245}{62292}Why don't you give me a chance?
+{62330}{62378}Well...
+{62781}{62834}SUZIE: That's what|I want for Christmas.
+{62835}{62874}KRIS:|A doll's house like this?
+{62875}{62937}No, a real house.
+{62938}{62990}If you're really Santa Claus,|you can get it for me.
+{62991}{63020}And if you can't...
+{63021}{63085}you're only a nice man with|a white beard, like mother said.
+{63086}{63124}Now wait a minute, Suzie.
+{63125}{63181}Just because every child|can't get his wish...
+{63182}{63217}doesn't mean|there isn't a Santa Claus.
+{63218}{63274}That's what I thought you'd say.
+{63274}{63317}But don't you see, dear?
+{63318}{63388}Some children wish for things|they couldn't possibly use...
+{63389}{63453}like real locomotives|or B-29s.
+{63454}{63539}But this isn't like|a locomotive or a B-29.
+{63540}{63602}It's awful big|for a little girl like you.
+{63602}{63668}What could you do|with a house like this?
+{63669}{63713}SUZIE:|Live in it with my mother.
+{63713}{63767}KRIS: But you've got|this lovely apartment.
+{63768}{63807}I don't think it's lovely.
+{63808}{63914}I want a backyard with a great|big tree to put a swing on...
+{64000}{64046}I guess you can't get it, huh?
+{64046}{64104}I didn't say that.
+{64105}{64141}Well...
+{64253}{64324}Well, it's a tall order...
+{64325}{64372}but I'll do my best.
+{64373}{64411}May I keep this picture?
+{64413}{64453}Mm-hmm.
+{64454}{64536}Thank you. Good night, Susan.
+{64537}{64584}SUZIE: Good night, Mr. Kringle.
+{65727}{65774}KRIS:|Nice place you've got here.
+{65775}{65822}GAILEY: Was I lucky to get it!
+{65823}{65904}KRIS: You like living|in Manhattan?
+{65905}{65952}GAILEY: It's all right.
+{65953}{66009}Someday I'd like to get|a place on Long Island.
+{66010}{66042}Not a big house.
+{66043}{66120}One of those junior-partner|deals around Manhasset.
+{66121}{66205}KRIS: I know just|the kind of place you mean.
+{66207}{66287}One of those|little Colonial houses.
+{66288}{66346}GAILEY: Either that or Cape Cod.
+{66347}{66407}KRIS:|You're right about Mrs. Walker.
+{66408}{66456}A little more effort|on your part...
+{66457}{66528}and she might crawl out|of that shell.
+{66529}{66576}Take her to dinner, the theater.
+{66577}{66616}GAILEY: I've tried that.
+{66617}{66671}She's always too busy|with her job.
+{66672}{66736}KRIS: Try a little harder.|Those two are lost souls.
+{66737}{66781}It's up to us to help them.
+{66781}{66853}I'll take care of Suzie|if you take care of her mother.
+{66854}{66901}- It's a deal.|- Ready?
+{66902}{66960}Oh, no, you don't.|I'm not gonna be cheated.
+{66961}{67011}All my life|I've wondered something.
+{67013}{67060}Now's my chance to find out.
+{67061}{67119}It's a question that's puzzled|the world for centuries.
+{67120}{67235}Does Santa Claus sleep|with his whiskers outside or in?
+{67236}{67283}KRIS:|Always sleep with them out.
+{67284}{67332}Cold air makes them grow.
+{67486}{67524}MAN: Joe, we're running|out of books.
+{67525}{67563}JOE: I'll get some right away.
+{67564}{67608}WOMAN:|I need some more Wanamakers.
+{68184}{68242}SALESMAN:|Yes, I know just what you want.
+{68243}{68315}We don't carry that brand,|but I think Gimbels does.
+{68315}{68399}Let me see. Yes, here it is.
+{68400}{68462}I thought I noticed it before.|2.98.
+{68463}{68507}Looks like|an exceptional bargain.
+{68508}{68555}WOMAN: Yes, it does. Thank you.
+{68556}{68599}SALESMAN: Not at all.
+{68804}{68854}Why didn't one of you|think of this idea?
+{68855}{68938}It's the greatest|goodwill policy I ever heard of.
+{68938}{68985}Every shopper|in New York City...
+{68986}{69059}suddenly thinks of Macy|as a benevolent soul...
+{69060}{69132}thinking only of the welfare|of the public.
+{69133}{69177}And what does that make Gimbel?
+{69178}{69225}Nothing but a profiteering|moneygrubber.
+{69226}{69273}Two can play at this game.
+{69274}{69345}From now on, if we haven't got|what the customer wants...
+{69346}{69381}send him back to Macy's.
+{69382}{69440}And what's more, we'll do|the same thing in our stores...
+{69441}{69504}in Philadelphia,|Milwaukee, and Pittsburgh.
+{69505}{69552}Get to work on it right away.
+{69599}{69664}MACY: So, Gimbel's doing it|in Philadelphia...
+{69665}{69705}Pittsburgh, and Milwaukee, eh?
+{69706}{69741}MAN: And very successfully.
+{69742}{69791}MACY: Well, we can cover|the country, too.
+{69792}{69840}Notify our stores|in San Francisco...
+{69841}{69924}Atlanta, Toledo, and Newark|to get going right away.
+{69925}{69960}MEN: All right, Mr. Macy.
+{69989}{70064}- Look this way, Mr. Gimbel.|- Hold it, Mr. Gimbel.
+{70064}{70106}One more.
+{70107}{70150}That's fine.
+{70151}{70208}GIMBEL: Now we'll take some|at my store.
+{70209}{70244}MACY: Just a minute.
+{70245}{70327}I have something I'd like|to give our friend here.
+{70328}{70423}This is a little something|to show my appreciation...
+{70423}{70451}for all you've done.
+{70452}{70505}KRIS: Thank you, Mr. Macy.
+{70506}{70576}Ooh! That's very kind of you.
+{70577}{70651}I didn't think|you were that generous.
+{70652}{70699}That's a bit of money.
+{70700}{70747}What are you going|to do with it?
+{70748}{70836}Well, I have a friend.
+{70837}{70904}A doctor.|He's been very kind to me.
+{70905}{70952}He needs an x-ray machine.
+{70953}{71010}MACY: I don't think|that's going to be enough.
+{71014}{71076}GIMBEL:|I'll make up the difference.
+{71077}{71125}MACY: Buy it through the store.|Get 10% discount.
+{71125}{71183}I can get it for cost.
+{71333}{71375}CLEO: Good night, Susan.
+{71376}{71417}SUZIE: Good night, Cleo.
+{71418}{71500}KRIS: Like me to sing you|a good night song?
+{71502}{71549}SUZIE: If you want to.
+{71550}{71621}KRIS: Doesn't your mother|ever sing to you at night?
+{71622}{71687}SUZIE: Uh-uh. Why should she?
+{71688}{71804}Oh, no reason.|I just think it's kind of nice.
+{71805}{71884}- Do you like "Market"?|- All right.
+{71885}{71982}[Singing] To market, to market|to buy a fat pig
+{71983}{72060}Home again, home again,|jiggidy jig
+{72061}{72143}To market, to market|to buy a fat hog
+{72144}{72236}Home again, home again,|jiggidy...
+{72348}{72406}Amazing.
+{72406}{72458}Do you happen|to have a spare piece?
+{72459}{72490}SUZIE: Mm-hmm.
+{72731}{72775}Well, here goes.
+{72945}{72973}[Loud pop]
+{73044}{73108}Oh!
+{73483}{73528}- Hello, Alfred.|- Hello, Kris.
+{73528}{73595}KRIS: How about a game|of checkers after lunch?
+{73596}{73671}ALFRED: Leave us not today.|I don't feel like it.
+{73672}{73716}KRIS: Oh? What's the matter?
+{73716}{73758}ALFRED: Nothing. Nothing.
+{73759}{73822}KRIS: Something is wrong.|What is it?
+{73860}{73928}ALFRED: Well,|remember I was telling you...
+{73928}{74008}how I like to play Santa|at the "Y" on Christmas...
+{74009}{74064}and give out packages|to the young kids?
+{74065}{74124}I was telling that|to Mr. Sawyer, see...
+{74125}{74193}and he says that's very bad.
+{74194}{74235}KRIS: Sawyer. You mean, uh...
+{74236}{74307}ALFRED: That's the one.|He's a psychologist.
+{74308}{74379}KRIS: Ohh,|that's a debatable poin...
+{74380}{74425}Why is it bad, does he say?
+{74425}{74535}ALFRED: He says guys who dress|like Santa Claus, see...
+{74536}{74571}and give presents away...
+{74572}{74619}do it because|when they was young...
+{74620}{74655}they must have|did something bad...
+{74656}{74690}and they feel guilty about it.
+{74691}{74742}So now they do something|they think is good...
+{74743}{74773}to make up for it.
+{74774}{74841}It's what he calls|a guilt complex.
+{74894}{74936}KRIS: How old are you, Alfred?
+{74937}{74973}ALFRED: Seventeen.
+{74974}{75026}KRIS: Seventeen.
+{75027}{75090}Doesn't seem you've had time|to be guilty of anything...
+{75091}{75127}except overeating.
+{75128}{75182}It's nothing to laugh about.
+{75183}{75233}It's pretty serious, he says.
+{75234}{75288}It's a lot of rubbish, Alfred.|Don't listen.
+{75289}{75337}Oh, he knows|what he's talking about.
+{75338}{75405}He's been studying that stuff|for a long time.
+{75406}{75494}KRIS: Well, what's the basis|of this guilt complex...
+{75495}{75534}you're supposed to have?
+{75535}{75571}Does he say that?
+{75572}{75650}Well, he ain't found out yet.
+{75651}{75733}It's probably way down|inside of me someplace, see?
+{75734}{75811}Maybe something that happened|when I was a baby, he says.
+{75812}{75886}It takes time,|but he'll do it, he says.
+{75887}{75955}KRIS: You mean|you're going to him again?
+{75956}{76030}ALFRED: Sure.|I go every day after lunch.
+{76031}{76087}Oh, he don't soak me nothin'.
+{76088}{76175}He's doing it for free|'cause I'm an interesting case.
+{76176}{76205}KRIS: Yes.
+{76206}{76275}What else has he found|wrong with you, Alfred?
+{76301}{76346}Anything else?
+{76347}{76421}No. Oh, just|that I hate my father.
+{76422}{76493}I didn't know it,|but he says I do.
+{76494}{76550}And he sees you every day?
+{76551}{76634}Yeah. I say anything|that comes into my head.
+{76635}{76680}Excuse me, Alfred.
+{76681}{76720}A few things|have just come into my head...
+{76721}{76759}and I'm going to say them.
+{77035}{77078}SAWYER:|Why are you busting in here?
+{77079}{77129}KRIS:|Are you a licensed psychiatrist?
+{77130}{77182}SAWYER:|What business is it of yours?
+{77183}{77231}KRIS: I have great respect|for psychiatry...
+{77233}{77304}and great contempt for amateurs|who go around practicing it.
+{77305}{77352}You have no more right|to analyze Alfred...
+{77353}{77408}than a dentist has|to remove a gallbladder!
+{77409}{77440}SAWYER: I beg your pardon.
+{77440}{77519}KRIS: Your job here, I gather,|is to give intelligence tests.
+{77520}{77565}Passing yourself off|as a psychologist.
+{77566}{77619}You ought to be horsewhipped...
+{77620}{77674}taking a normal, impressionable|boy like Alfred...
+{77675}{77718}and filling him with complexes.
+{77719}{77774}SAWYER: I'm better equipped|to judge that than you are.
+{77775}{77831}KRIS: Just because the boy|wants to be kind to children...
+{77831}{77879}you tell him|he has a guilt complex.
+{77880}{77921}SAWYER: Sharing his delusion,|you couldn't understand.
+{77922}{77978}Alfred's definitely maladjusted,|and I'm helping.
+{77979}{78014}KRIS: Maladjusted?!|You talk about maladjusted.
+{78015}{78071}It seems to me the patient|is running the clinic here.
+{78072}{78130}SAWYER: I won't stand...|Leave this office immediately.
+{78131}{78183}KRIS: Now either|you stop analyzing Alfred...
+{78184}{78219}or I go straight to Mr. Macy...
+{78220}{78274}and tell him what a contemptible|fraud you are.
+{78275}{78315}SAWYER:|Leave or I'll call security.
+{78316}{78410}KRIS: There's only one way|to handle a man like you.
+{78410}{78468}You won't listen to reason.|You're heartless.
+{78469}{78495}You have no humanity.
+{78496}{78549}SAWYER: Are you going to leave?
+{78550}{78579}KRIS: Yes.
+{78799}{78830}- Kris.|- Mr. Sawyer!
+{78831}{78891}DORIS: Mr. Sawyer,|are you all right?
+{78891}{78920}SHELLHAMMER: Look at that bump!
+{78921}{78950}Mr. Sawyer...|He's unconscious!
+{78951}{78997}Better get a wet towel.
+{78998}{79032}DORIS: No, better get a doctor.
+{79033}{79093}DORIS: You must have done|something to him.
+{79094}{79141}I tell you|we were merely talking...
+{79142}{79219}but when I mentioned Santa Claus|and attacked his delusion...
+{79219}{79248}he became violent.
+{79249}{79309}I told you he had|latent maniacal tendencies.
+{79310}{79357}Well, I think this proves it.
+{79358}{79417}SHELLHAMMER: Have Dr. Pierce|give him another examination.
+{79418}{79445}SAWYER: Dr. Pierce...
+{79446}{79500}He doesn't know anything|about this sort of thing.
+{79501}{79537}He's a general practitioner.
+{79538}{79585}SHELLHAMMER: You must admit|this is rather serious.
+{79586}{79620}Perhaps we'd better get|a competent psychiatrist.
+{79621}{79681}DORIS: But he's taken dozens|of those examinations...
+{79682}{79717}and passed them all 100%.
+{79717}{79782}SAWYER: It's possible|his condition has changed.
+{79783}{79837}SHELLHAMMER: I don't think|we can take any chances.
+{79838}{79885}I can't see any harm in it.
+{79886}{79946}If he passes the test,|he can return to work at once...
+{79947}{80005}and if he doesn't,|it's better if we find out.
+{80006}{80064}SAWYER: You better have|the examination right away...
+{80065}{80137}before he tells Mr. Ma...|before Mr. Macy finds out.
+{80137}{80164}SHELLHAMMER: Oh, my, yes.
+{80166}{80233}You explain to Mr. Kringle.|After all, you're his friend.
+{80233}{80296}DORIS: I won't do it.|I've grown very fond of him.
+{80297}{80377}This would be like telling him|I thought he was insane.
+{80378}{80436}SAWYER: You don't call this|acting normal, do you?
+{80437}{80473}DORIS: Of course I don't...
+{80474}{80531}but there are thousands|of elderly who aren't normal.
+{80532}{80604}This will hurt Kris deeply,|and I don't want to do it!
+{80792}{80839}SHELLHAMMER:|That wouldn't be fair to him.
+{80840}{80875}I'll tell him the truth.
+{80876}{80927}I believe in being truthful|with people.
+{80929}{80983}SAWYER: If he sees me|or you mention psychiatrist...
+{80984}{81047}it's more or less attacking|his delusion again.
+{81048}{81083}He's apt to become violent.
+{81084}{81119}SHELLHAMMER:|But in front of the children?
+{81120}{81155}Oh, that would be terrible.
+{81156}{81223}SAWYER: Get him out of the store|on some other pretext.
+{81224}{81275}Then once outside,|I'll explain it to him.
+{81276}{81324}SHELLHAMMER: If you think|it's better that way.
+{81361}{81430}CLERK: Keep a straight line.|All day long to see Santa Claus.
+{81492}{81523}Oh!
+{81588}{81619}- Mr. Kringle.|- Yes?
+{81620}{81659}SHELLHAMMER: Mrs. Walker|wanted you to know...
+{81660}{81707}that we're going to take|some publicity pictures...
+{81708}{81775}this afternoon|down at the city hall...
+{81776}{81803}you and the mayor.
+{81804}{81840}KRIS: Good. Like to meet him.
+{81840}{81897}A few things|I'd like to discuss with him.
+{81898}{81982}Oh, but I made an appointment|with Mr. Macy at 4:00.
+{81982}{82029}I want to tell him|about something.
+{82030}{82090}SHELLHAMMER: You'll be back|in plenty of time.
+{82091}{82125}There's a car waiting|downstairs.
+{82126}{82172}It's starting to drizzle.|You'll need a coat.
+{82173}{82200}I'll get it.
+{82201}{82236}KRIS: Thanks. Be right with you.
+{82237}{82306}I just want to take care|of a few kiddies first.
+{82307}{82342}SHELLHAMMER: All right.
+{82901}{82937}CABBY: Where to?
+{82938}{82973}SAWYER: Bellevue.
+{82973}{83003}KRIS: Bellevue?!
+{83215}{83257}Did she know about this?
+{83260}{83328}SAWYER: Yes.|We all discussed it.
+{83542}{83576}The second party shall...
+{83577}{83624}in consideration|of the property...
+{83625}{83672}agree to be conveyed|by the first party to...
+{83673}{83735}[Telephone ringing]|Excuse me, Gertrude. Telephone.
+{83793}{83829}Hello.
+{83830}{83878}Yes. Yes.
+{83902}{83960}Why, yes,|we share an apartment together.
+{84015}{84042}Bellevue?
+{84043}{84111}But why, Doctor? What did he...
+{84112}{84158}Oh, he's quite comfortable.
+{84159}{84230}He's going to be with us|for a few days...
+{84230}{84301}and wondered if you could bring|his personal things.
+{84302}{84385}Yes, in view|of his examination...
+{84386}{84488}I'm afraid I shall have|to recommend commitment.
+{84489}{84536}Yes, I know, Mr. Gailey...
+{84537}{84582}but I'd rather speak to you|in person.
+{84583}{84621}I'll be right over, Doctor.
+{84668}{84696}[Buzz]
+{84788}{84828}ATTENDANT:|To see the new patient.
+{84829}{84868}- Thanks.|- Not at all.
+{85096}{85137}GAILEY: Hello, Kris.
+{85138}{85183}KRIS: Fred.
+{85184}{85253}GAILEY: Why'd you do it, Kris?
+{85254}{85325}You deliberately failed|that examination, didn't you?
+{85373}{85404}Why?
+{85405}{85501}KRIS: Because the last few days|I've had great hope.
+{85502}{85586}I had a feeling Doris was|beginning to believe in me.
+{85587}{85669}And now I find out she was just|humoring me all the time.
+{85670}{85705}GAILEY: I just telephoned her.
+{85706}{85771}She didn't know anything about|taking pictures with the mayor.
+{85772}{85819}That was Sawyer's idea.
+{85820}{85860}KRIS: Well, I'm glad of that.
+{85861}{85946}But why didn't she come to me|and explain the whole thing?
+{85947}{86006}GAILEY:|She didn't want to hurt you.
+{86007}{86083}KRIS: Only because I was a nice,|kind old man she felt sorry for.
+{86084}{86119}GAILEY: That's not true.
+{86120}{86165}KRIS: Yes, it is.|She had doubts.
+{86166}{86196}That's why she was just sorry.
+{86197}{86243}If you'd been dragged off here|instead of me...
+{86244}{86282}she wouldn't have been sorry.
+{86283}{86316}She'd have been furious.
+{86317}{86390}GAILEY: All right,|she had doubts. Why not?
+{86391}{86451}She hasn't really believed|in anything for years.
+{86451}{86498}You can't expect her|to suddenly...
+{86499}{86566}KRIS: Oh, it's not just Doris.|There's Mr. Sawyer.
+{86567}{86686}He's contemptible, dishonest,|selfish, deceitful, vicious...
+{86688}{86750}Yet he's out there|and I'm in here.
+{86751}{86808}He's called normal and I'm not.
+{86809}{86858}Well, if that's normal,|I don't want it.
+{86859}{86930}That's why|I answered incorrectly.
+{86931}{87001}GAILEY: But, Kris, you can't|just think of yourself.
+{87002}{87077}What happens to you matters|to a lot of people.
+{87078}{87162}People like me, who believe|in what you stand for...
+{87163}{87242}and people like Suzie,|who are just beginning to.
+{87243}{87318}You can't quit.|You can't let them down.
+{87319}{87365}KRIS: No, I suppose I shouldn't.
+{87366}{87434}GAILEY: Who knows, maybe someday|the Sawyers will be in here...
+{87435}{87469}instead of out there.
+{87470}{87542}KRIS: You're right.|I ought to be ashamed of myself.
+{87543}{87627}Even if we can't win,|we can go down swinging.
+{87628}{87674}Let's get out of here.
+{87675}{87710}GAILEY: Now, wait a minute.
+{87711}{87784}You're forgetting you flunked|your examination but good.
+{87785}{87832}KRIS: Oh, yes, I forgot.
+{87833}{87889}I said Calvin Coolidge|was the first president.
+{87890}{87974}I can imagine what they're|thinking of me for saying that.
+{87975}{88022}But you'll get me out of this.
+{88023}{88059}You'll think of something.
+{88060}{88095}GAILEY:|It's not gonna be easy, Kris.
+{88095}{88131}KRIS: It will be for you.
+{88132}{88190}I believe you're the greatest|lawyer since Darrow.
+{88191}{88251}GAILEY: Just a second, Kris.|You're putting me in a bad spot.
+{88252}{88326}KRIS: But I believe in you.|You can't let me down.
+{88327}{88374}GAILEY:|But you don't understand. It...
+{88431}{88493}I'll do everything I can, Kris.
+{88494}{88521}KRIS: Thank you.
+{88522}{88576}- Good-bye.|- Good-bye.
+{88684}{88739}MACY: That's a lot of nonsense!|Dangerous, my foot!
+{88740}{88791}I don't care|if he failed ten examinations.
+{88792}{88827}You had no right to do it!
+{88828}{88887}You get the case|dropped tomorrow...
+{88888}{88983}or you might have another lump|to match the one Kris gave you!
+{88983}{89017}SAWYER: Yes, Mr. Macy.
+{89376}{89412}HARPER: Age unknown.
+{89413}{89448}Old man, huh?
+{89449}{89496}MARRAH: Very old, Your Honor.
+{89497}{89561}HARPER: I suppose|I'll have to read all this.
+{89563}{89618}Take my word for it.|Just routine commitment papers.
+{89619}{89654}Cut and dried.
+{89655}{89700}The man calls himself|Kris Kringle...
+{89701}{89742}thinks he's Santa Claus.
+{89743}{89774}Uh-oh.
+{89809}{89836}[Knock on door]
+{89837}{89868}Come in.
+{89895}{89949}Mr. Gailey to see you,|Your Honor.
+{89950}{89981}He represents Mr. Kringle.
+{90016}{90049}Better show him in.
+{90117}{90149}GAILEY: Good morning.
+{90150}{90212}Your Honor, there seems to be|undue haste in this case.
+{90213}{90271}I wish to protect my client's|rights, as I'm sure you do.
+{90272}{90299}HARPER: Of course.
+{90300}{90352}GAILEY:|I request a formal hearing...
+{90353}{90392}to which I may bring witnesses.
+{90393}{90457}- This is cut and dried?|- That's what I was told.
+{90458}{90503}I didn't know anything|about a protest.
+{90504}{90573}GAILEY: Of course, you may sign|the commitment papers now...
+{90574}{90613}but I'll bring|a habeas corpus later.
+{90614}{90673}There's no point in signing.
+{90674}{90786}We'll have a hearing|on Monday morning at 10:00.
+{90787}{90835}GAILEY: Thank you. Good day.
+{90948}{90984}Thank you.
+{91106}{91137}SAWYER: That man...
+{91137}{91212}I heard him say something|about Mr. Kringle before.
+{91213}{91249}Who is he?
+{91250}{91284}MARRAH: His name is Gailey,|Kringle's lawyer.
+{91285}{91357}Probably grabbed the case|to get some cheap publicity.
+{91357}{91429}SAWYER: We can't have that.|Mr. Macy would rather drop this.
+{91429}{91465}MARRAH: It can't be done.|It's too late now.
+{91465}{91525}Kringle has been examined by|city hospital psychiatrists.
+{91526}{91563}It has to follow due process.
+{91564}{91611}SAWYER: We must avoid publicity.
+{91612}{91648}I, uh... Oh.
+{91859}{91923}SAWYER: Mr. Gailey,|I represent Mr. Macy.
+{91924}{91957}My name's Sawyer.
+{91958}{91993}GAILEY: Oh, so you're Sawyer.
+{91994}{92043}SAWYER: Yes.|Regarding this Kringle matter...
+{92044}{92095}We're very anxious|to avoid any publicity.
+{92096}{92125}GAILEY: Naturally.
+{92126}{92203}SAWYER: So if you would agree|to put this through quietly...
+{92204}{92282}we'd surely find a generous way|to express our appreciation.
+{92283}{92310}GAILEY: Very interesting.
+{92311}{92354}SAWYER: Then you'll cooperate?
+{92355}{92423}GAILEY: Very interesting.|Publicity. Hmm.
+{92424}{92466}That's not a bad idea.
+{92467}{92511}If I'm going to win this case...
+{92512}{92567}I'll have to have plenty|of public opinion.
+{92567}{92623}And publicity's|just the way to do it.
+{92679}{92738}Thanks, Mr. Sawyer.
+{92739}{92826}SAWYER:|Oh, Mr. Gailey, wait a minute.
+{92827}{92887}Mr. Gailey, one moment, please!
+{93494}{93561}HARPER: I don't see what|they're making a fuss about.
+{93562}{93597}After all, he's an old man.
+{93598}{93645}CHARLEY:|How've you been feeling lately?
+{93646}{93685}You look a little run-down.
+{93686}{93757}HARPER: Me? Why, I feel fine.|Never better.
+{93758}{93817}CHARLEY: Why not see the doc?|Take a few weeks off.
+{93817}{93889}Go fishing, go hunting.|Go anyplace.
+{93890}{93937}HARPER: Why should I?
+{93938}{93985}CHARLEY: Because|this Kringle case is dynamite.
+{93986}{94058}Let some judge handle it that|isn't coming up for reelection.
+{94059}{94092}HARPER: I can't do that.
+{94093}{94129}CHARLEY:|I'm no legal brain trust.
+{94130}{94198}I don't know|a habeas from a corpus.
+{94199}{94257}But I do know politics.|That's my racket.
+{94258}{94298}I got you elected, didn't I?
+{94298}{94349}And I'm gonna try|to get you reelected.
+{94350}{94441}HARPER: I appreciate everything|that you've done for me.
+{94442}{94485}CHARLEY: Then get off this case.
+{94485}{94521}HARPER: But why?
+{94522}{94599}CHARLEY: You're a Pontius Pilate|the minute you start.
+{94600}{94662}Oh, I don't believe it.
+{94663}{94701}I'm an honest man...
+{94702}{94749}and nobody's going|to hold it against me...
+{94750}{94796}for doing my duty as I see it.
+{94819}{94866}CHILDREN: Grandma!
+{94867}{94897}Grandma!
+{94898}{94934}Grandma!
+{94935}{94971}MRS. HARPER: Good night, Terry.
+{94972}{95007}Good night, Alice.
+{95008}{95043}Now, straight to bed.
+{95044}{95102}I promised your mother|you'd be in bed by 8:00...
+{95103}{95130}and it's way past.
+{95131}{95174}ALICE: Aren't you coming, too?
+{95175}{95237}MRS. HARPER: I'll be up soon|to tuck you in. Now, scoot!
+{95238}{95345}How about a great big kiss|for Grandpa, hmm?
+{95397}{95423}ALICE: Hmmph!
+{95424}{95452}TERRY: Hmmph!
+{95476}{95536}HARPER: Fine way|to treat their grandfather!
+{95537}{95576}No hug, no kiss, no anything.
+{95577}{95611}MRS. HARPER: I don't blame them.
+{95612}{95674}Any man who'd put Santa Claus|on trial for lunacy.
+{95705}{95750}CHARLEY: See what I mean?
+{95877}{95916}POLICEMAN: Hey.
+{96294}{96322}KRIS: Don't worry about me.
+{96323}{96367}I've got the best lawyer|in the world.
+{96368}{96410}SAWYER: How long do you think|this will take?
+{96411}{96440}MARRAH: Maybe a week.
+{96441}{96482}SAWYER:|A week?! That seems impossible!
+{96483}{96530}MARRAH: That lawyer|won't be stupid enough...
+{96531}{96593}to let him admit anything.|He'll deny everything.
+{96594}{96643}I'll bring witnesses,|and he'll bring witnesses.
+{96644}{96672}[Gavel pounds]
+{96673}{96713}BAILIFF: Hear ye, hear ye.
+{96714}{96761}All persons having business...
+{96762}{96869}with the supreme court|of the county of New York...
+{96871}{96935}draw near, give attendance,|and ye shall be heard.
+{96994}{97077}MARRAH: You have Kris Kringle's|commitment papers.
+{97078}{97161}I'd like to call|the first witness.
+{97162}{97246}Mr. Kringle,|will you take the stand?
+{97531}{97566}KRIS: Good morning, Your Honor.
+{97567}{97615}BAILIFF:|You do solemnly swear...
+{97616}{97710}the testimony you'll give|shall be the whole truth...
+{97710}{97758}so help you God?
+{97759}{97787}KRIS: I do.
+{97787}{97861}HARPER: Before you begin, I want|to explain to the witness...
+{97862}{97903}this is a hearing, not a trial.
+{97904}{97940}Mr. Kringle...
+{97942}{97998}you don't have to answer|against your wishes...
+{97999}{98062}or even testify at all.
+{98063}{98105}We have no objection,|Your Honor.
+{98147}{98205}I'll be glad to answer|any questions I can.
+{98254}{98302}What is your name?
+{98302}{98330}Kris Kringle.
+{98370}{98405}Where do you live?
+{98405}{98465}That's what this hearing|will decide.
+{98466}{98518}[Audience laughing]
+{98519}{98559}[Gavel pounding]
+{98600}{98661}A very sound answer,|Mr. Kringle.
+{98705}{98757}MARRAH: Do you believe|that you're Santa Claus?
+{98758}{98798}KRIS: Of course.
+{98926}{98986}The state rests, Your Honor.
+{99171}{99206}Well, Mr. Gailey...
+{99207}{99266}do you wish to cross-examine|the witness?
+{99267}{99319}I believe he was employed|to play Santa Claus.
+{99320}{99382}Perhaps he didn't understand|the question correctly.
+{99383}{99446}Oh, I understood perfectly,|Your Honor.
+{99548}{99608}No further questions|at this time.
+{99692}{99730}Thank you.
+{99812}{99851}HARPER:|In view of this statement...
+{99852}{99923}do you still wish|to put in a defense?
+{99924}{99971}GAILEY: I do, Your Honor.
+{99972}{100051}I'm fully aware|of my client's opinions.
+{100052}{100083}That's the entire case|against him.
+{100084}{100169}All these complicated tests|boil down to this:
+{100170}{100222}Mr. Kringle is not sane...
+{100223}{100267}because he believes himself|to be Santa Claus.
+{100267}{100299}An entirely logical...
+{100300}{100362}and reasonable assumption,|I'm afraid.
+{100363}{100443}It would be if the clerk,|Mr. Marrah, or I...
+{100444}{100481}believed we were Santa Claus.
+{100482}{100546}Anyone who thinks|he's Santa Claus is not sane.
+{100547}{100584}GAILEY: Not necessarily.
+{100585}{100644}You believe yourself|to be Judge Harper...
+{100645}{100723}yet no one questions your sanity|because you are Judge Harper.
+{100724}{100788}I know all about myself,|young man.
+{100789}{100832}Mr. Kringle is the subject|of this hearing.
+{100833}{100861}GAILEY: Yes, Your Honor...
+{100862}{100933}and if he is the person|he believes himself to be...
+{100934}{101009}just as you are,|then he's just as sane.
+{101010}{101038}Granted, but he isn't.
+{101039}{101065}GAILEY: Oh, but he is.
+{101066}{101109}HARPER: Is what?
+{101111}{101182}I intend to prove|that Mr. Kringle is Santa Claus.
+{101225}{101275}MARRAH: He's crazy, too!
+{101276}{101324}[Gavel banging]
+{101509}{101538}[Doorbell buzzes]
+{101538}{101573}[Doorbell buzzes]
+{101574}{101632}GAILEY: Hi, darling.
+{101633}{101701}Sorry I'm late. Get your coat.|I reserved our table at Luigi's.
+{101702}{101729}We're gonna celebrate.
+{101730}{101765}DORIS: What are we celebrating?
+{101765}{101824}GAILEY: Read all about it.|"Gailey Throws Court Bombshell."
+{101825}{101872}DORIS: Yes, I read that.
+{101873}{101944}GAILEY: I didn't see this...|Front page! Good. Good.
+{101945}{101992}DORIS:|You're not serious about this?
+{101992}{102027}GAILEY: Of course I am.
+{102028}{102088}DORIS: But you can't possibly|prove he's Santa Claus.
+{102088}{102148}GAILEY: Why not? You saw Macy|and Gimbel shaking hands.
+{102149}{102208}That wasn't possible either,|but it happened.
+{102209}{102243}It's the best defense I can use.
+{102244}{102304}Completely logical|and completely unexpected.
+{102305}{102340}DORIS: And completely idiotic.
+{102341}{102376}What about your bosses...
+{102376}{102420}Haislip and Mackenzie|and the rest?
+{102421}{102447}What do they say?
+{102448}{102495}GAILEY: That I'm jeopardizing|the prestige and dignity...
+{102496}{102543}of an old, established|law firm...
+{102544}{102604}and either I drop this|impossible case immediately...
+{102604}{102639}or they will drop me.
+{102640}{102677}I beat them to it. I quit.
+{102678}{102713}DORIS: Fred, you didn't.
+{102714}{102766}GAILEY: Of course I did.|I can't let Kris down.
+{102767}{102833}He needs me,|and all the rest of us need him.
+{102834}{102876}DORIS: Darling,|he's a nice old man...
+{102877}{102970}and I admire you|for wanting to help him...
+{102971}{103031}but you've got to be realistic|and face facts.
+{103031}{103078}You can't just|throw your career away...
+{103079}{103120}because of a sentimental whim.
+{103121}{103168}GAILEY: But I'm not|throwing my career away.
+{103169}{103216}DORIS:|If Haislip feels that way...
+{103217}{103264}so will every other law firm.
+{103265}{103323}GAILEY: I'm sure they will.|I'll open my own office.
+{103324}{103383}DORIS:|What kind of cases will you get?
+{103384}{103455}GAILEY: Probably people like|Kris who are being bullied.
+{103456}{103503}That's the only fun in law|anyway.
+{103504}{103573}If you believe in me|and have faith in me...
+{103574}{103617}everything will...
+{103653}{103729}You don't have any faith in me,|do you?
+{103730}{103818}It's not about faith.|It's just common sense.
+{103862}{103914}Faith is believing in things...
+{103915}{103982}when common sense|tells you not to.
+{103983}{104044}It's not just Kris|that's on trial.
+{104045}{104082}It's everything he stands for.
+{104083}{104132}It's kindness, joy, love,|and all other intangibles.
+{104132}{104177}DORIS: Fred,|you're talking like a child.
+{104177}{104213}You're living|in a realistic world!
+{104214}{104249}Those lovely intangibles|aren't worth much.
+{104249}{104286}You don't get ahead that way.
+{104287}{104354}GAILEY: That all depends|on what you call getting ahead.
+{104355}{104402}Evidently,|we have different definitions.
+{104403}{104461}DORIS: We've talked|about wonderful plans.
+{104462}{104513}Then you go|on an idealistic binge.
+{104514}{104581}You give up your job,|throw away your security...
+{104582}{104658}and then you expect me|to be happy about it!
+{104659}{104738}GAILEY: Yes,|I guess I expected too much.
+{104739}{104789}Someday,|you're going to find out...
+{104790}{104834}that your way of facing|this realistic world...
+{104834}{104870}just doesn't work.
+{104871}{104905}And when you do...
+{104905}{104948}don't overlook|those lovely intangibles.
+{104949}{104992}You'll discover|they're the only things...
+{104993}{105025}that are worthwhile.
+{105228}{105289}MARRAH: These reporters make me|look like a sadistic monster...
+{105290}{105325}who likes to drown cats...
+{105326}{105372}and tear the wings|off butterflies.
+{105372}{105400}Why, this old man...
+{105401}{105484}MRS. MARRAH: Tommy, go get|mother's scissors, will you?
+{105485}{105533}They're in the bedroom.
+{105533}{105581}That's a good boy.
+{105615}{105675}I don't want to discuss|this case in front of him.
+{105676}{105720}It'll break his heart.
+{105721}{105769}While we're on the subject,|I agree with the reporters.
+{105769}{105817}Mr. Kringle seems|to be a nice old man.
+{105817}{105876}I don't see why you have|to keep persecuting him.
+{105877}{105924}MARRAH: Firstly,|I am not persecuting him.
+{105925}{105960}I am prosecuting him.
+{105961}{106024}And secondly,|I like the old man, too.
+{106025}{106080}I wish|I'd never gotten into this.
+{106081}{106140}But it's too late now. There's|nothing I can do about it.
+{106141}{106189}It's up to the state|of New York.
+{106189}{106224}I'm their duly appointed|legal representative.
+{106225}{106272}Kringle has been declared|a menace to society...
+{106273}{106312}by competent doctors.
+{106313}{106366}It's my duty to protect|the state of New York...
+{106367}{106406}and see that he's put away.
+{106407}{106453}No matter what they say|about me...
+{106453}{106491}I've got to do it.
+{106492}{106570}Sometimes I wish I'd married|a butcher or a plumber.
+{106571}{106634}MARRAH: Well, my dear,|if I lose this case...
+{106635}{106690}it's very possible|that you'll get your wish.
+{106980}{107013}Hello, Kris.
+{107299}{107335}GAILEY: Your name?
+{107336}{107369}MACY: R.H. Macy.
+{107370}{107397}GAILEY: You are the owner...
+{107398}{107433}of one of the biggest|department stores...
+{107433}{107463}in New York City?
+{107464}{107491}MACY: The biggest.
+{107492}{107574}Who is the gentleman|seated there?
+{107574}{107603}MACY: Kris Kringle.
+{107604}{107639}- Your employee?|- Yes.
+{107640}{107678}GAILEY: Do you believe him|to be truthful?
+{107679}{107707}MACY: Yes.
+{107708}{107759}GAILEY: You believe him to be|of sound mind?
+{107759}{107784}MACY: I certainly do.
+{107785}{107829}MARRAH:|Mr. Macy, you're under oath.
+{107830}{107881}You really believe|this man is Santa Claus?
+{107882}{107938}Well, I...
+{108050}{108112}Well, he gives|every indication...
+{108112}{108193}MARRAH: Do you really believe|he's Santa Claus?
+{108393}{108430}MACY: I do.
+{108431}{108458}MARRAH: You do?
+{108459}{108494}GAILEY: That's all.
+{108495}{108527}[Gavel pounding]
+{108798}{108838}MACY: Psychologist!
+{108839}{108913}Where'd you graduate from,|a correspondence school?
+{108938}{108974}You're fired.
+{109016}{109065}Your Honor,|I object to this testimony.
+{109066}{109113}It's ridiculous, irrelevant,|and immaterial.
+{109114}{109165}Mr. Gailey is making|a circus of this court.
+{109166}{109208}There is no such person|as Santa Claus...
+{109209}{109243}and everybody knows it.
+{109244}{109304}GAILEY: I submit|it's purely a matter of opinion.
+{109305}{109361}Can Mr. Marrah disprove|Santa's existence?
+{109362}{109403}MARRAH: No. I don't intend to.
+{109404}{109463}This isn't a nursery. It's the|New York State Supreme Court.
+{109464}{109523}I'll not waste this court's time|with such nonsense!
+{109524}{109571}GAILEY: Mr. Marrah seems to have|appointed himself judge.
+{109572}{109642}He's ruling on what testimony|I may introduce.
+{109643}{109710}MARRAH: We request an immediate|ruling from this court.
+{109711}{109772}Is there or is there not|a Santa Claus?
+{109823}{109859}Well...
+{109859}{109903}CHARLEY: Ahem!
+{110040}{110122}The court will take a recess|to consider the matter.
+{110193}{110264}I don't care what you do|with old whisker puss...
+{110265}{110323}but if you rule|that there's no Santa Claus...
+{110324}{110383}you better start looking|for that chicken farm.
+{110384}{110467}We won't even be able|to put you in the primaries.
+{110468}{110516}HARPER:|But, Charley, listen to reason.
+{110517}{110564}I'm a responsible judge.
+{110565}{110612}I've taken an oath.
+{110613}{110685}How can I seriously rule|there is a Santa Claus?
+{110686}{110734}CHARLEY: Why don't you...
+{110770}{110805}All right.
+{110805}{110889}Tell them the New York|State Supreme Court rules...
+{110890}{110925}there's no Santa Claus.
+{110926}{110955}It's all over the papers.
+{110956}{111009}The kids don't hang up|their stockings.
+{111010}{111065}Now, what happens|to all the toys...
+{111065}{111116}that are supposed to be|in those stockings?
+{111117}{111152}Nobody buys them.
+{111153}{111212}The toy manufacturers|are going to like that.
+{111213}{111289}So they have to lay off|a lot of their employees...
+{111290}{111337}union employees.
+{111338}{111426}Now you got the C.I.O.|And the A.F.L. Against you.
+{111427}{111487}And they're gonna adore you|for it.
+{111490}{111564}And they're gonna say it|with votes.
+{111565}{111635}And the department stores|will love you, too...
+{111636}{111699}and the Christmas card makers...
+{111700}{111735}and the candy companies.
+{111736}{111851}Oh, Henry, you're going to be|an awful popular fellow.
+{111852}{111908}And what about|the Salvation Army?
+{111909}{111969}Why, they got a Santa Claus|on every corner...
+{111971}{112010}and they take in a fortune.
+{112011}{112043}But you go ahead, Henry.
+{112044}{112097}You do it your way.
+{112098}{112158}You go on back in there|and tell them...
+{112159}{112232}that you rule|there's no Santa Claus.
+{112256}{112313}But if you do, remember this:
+{112314}{112358}You can count on getting|just two votes...
+{112359}{112425}your own and that|district attorney's out there.
+{112487}{112538}The district attorney's|a Republican.
+{112539}{112567}[Pounds]
+{112568}{112596}BAILIFF: All rise!
+{113003}{113050}HARPER:|Before making a ruling...
+{113051}{113148}this court has consulted|the highest authority available.
+{113200}{113249}The question of Santa Claus...
+{113250}{113304}seems to be largely|a matter of opinion.
+{113305}{113374}Many people|firmly believe in him.
+{113375}{113422}Others do not.
+{113423}{113498}The tradition|of American justice demands...
+{113499}{113594}a broad, unprejudiced view|of such a controversial matter.
+{113596}{113715}This court, therefore,|intends to keep an open mind.
+{113717}{113759}I'll hear all the evidence.
+{113760}{113804}MARRAH: He's crazy, too.
+{113845}{113919}The burden of proof for this|ridiculous contention...
+{113920}{113956}clearly rests with my opponent.
+{113957}{114028}Can he produce evidence|to support his views?
+{114029}{114076}GAILEY:|If Your Honor pleases, I can.
+{114077}{114111}Will Thomas Marrah|please take the stand?
+{114111}{114139}MARRAH: Who, me?
+{114140}{114189}GAILEY: Thomas Marrah, Jr.
+{114464}{114500}Hello, Daddy.
+{114559}{114607}GAILEY: Here you are, Tommy.
+{114670}{114730}HARPER: Tommy,|you know the difference...
+{114730}{114791}between telling the truth|and telling a lie, right?
+{114792}{114877}TOMMY: Everybody knows you|shouldn't tell a lie...
+{114878}{114926}especially in court.
+{114927}{114965}[Audience laughing]
+{114966}{114998}HARPER: Proceed, Mr. Gailey.
+{114999}{115041}GAILEY:|Do you believe in Santa Claus?
+{115042}{115088}TOMMY: Sure I do.
+{115089}{115187}He gave me a brand-new|flexible flyer sled last year.
+{115188}{115268}GAILEY:|And what does he look like?
+{115269}{115328}TOMMY:|There he is, sitting there.
+{115329}{115367}Your Honor, I protest!
+{115400}{115448}Overruled.
+{115483}{115514}GAILEY: Tell me, Tommy...
+{115515}{115592}why are you so sure|there's a Santa Claus?
+{115593}{115663}TOMMY:|Because my daddy told me so.
+{115664}{115703}Didn't you, Daddy?
+{115704}{115754}[Laughter]
+{115755}{115801}GAILEY: You believe your daddy,|don't you?
+{115802}{115843}He's a very honest man.
+{115844}{115872}Of course he is.
+{115873}{115945}My daddy wouldn't tell me|anything that wasn't so.
+{115946}{115993}Would you, Daddy?
+{115994}{116029}[Laughter]
+{116058}{116091}GAILEY: Thank you, Tommy.
+{116180}{116207}Good-bye, Daddy.
+{116208}{116235}[Laughter]
+{116236}{116289}Your Honor...
+{116290}{116361}TOMMY: Don't forget.|A real official football helmet.
+{116362}{116427}KRIS: Don't worry, Tommy.|You'll get it.
+{116428}{116489}[Laughter]
+{116859}{116894}Your Honor,|the state of New York...
+{116895}{116951}concedes the existence|of Santa Claus.
+{117098}{117180}But we ask that Mr. Gailey|cease presenting...
+{117181}{117228}personal opinion as evidence.
+{117229}{117297}We could bring witnesses|with opposite opinions...
+{117298}{117353}but we desire|to shorten this hearing...
+{117354}{117397}rather than prolong it.
+{117398}{117446}I request that Mr. Gailey...
+{117446}{117482}now submit|authoritative proof...
+{117483}{117521}that Mr. Kringle...
+{117522}{117584}is the one-and-only Santa Claus.
+{117615}{117660}Your point's well taken.
+{117661}{117725}I'm afraid we must agree.
+{117842}{117937}Mr. Gailey, can you show that|Mr. Kringle is Santa Claus...
+{117938}{117992}on the basis|of competent authority?
+{118033}{118080}Not at this time, Your Honor.
+{118081}{118143}I ask for an adjournment|until tomorrow.
+{118144}{118212}Court stands adjourned|till tomorrow afternoon, 3:00.
+{118346}{118406}ALFRED:|Well, I guess that's that.
+{118406}{118448}DORIS: There's a way, Alfred.
+{118449}{118486}There's got to be!
+{118622}{118669}DORIS: It's hard to explain.
+{118670}{118741}They're having a trial|about him.
+{118741}{118788}SUZIE: You mean like for murder?
+{118789}{118836}DORIS: No, it isn't that kind|of a trial.
+{118837}{118897}It's just because|he says he's Santa Claus.
+{118898}{118970}SUZIE: I've got a feeling|he is Santa Claus.
+{118971}{119041}DORIS: Some people don't|believe that. That's why...
+{119042}{119113}SUZIE: But he's so kind|and nice and jolly.
+{119114}{119173}He's not like anyone else.
+{119173}{119221}He must be Santa.
+{119221}{119275}DORIS: I think|perhaps you're right, Suzie.
+{119276}{119351}SUZIE: Is Mr. Kringle sad now,|Mother?
+{119352}{119399}DORIS: I'm afraid he is.
+{119400}{119460}I'm sure he misses you.
+{119461}{119548}SUZIE: Then I'll write him|a letter and cheer him up.
+{121272}{121327}WORKER: Hey, Lou, come here!
+{121328}{121355}LOU: Yeah?
+{121356}{121391}WORKER: Here's a new one.
+{121392}{121439}I seen them write|to Santa Claus...
+{121440}{121499}North Pole, South Pole,|and every other place.
+{121500}{121535}This kid writes...
+{121536}{121582}"Kris Kringle,|New York County Courthouse."
+{121584}{121654}LOU: The kid's right.|They got him on trial there.
+{121655}{121746}He claims he's Santa Claus,|and the D.A. Claims he's nuts.
+{121747}{121824}Read it for yourself.|Right on the front page.
+{121908}{121999}WORKER: Hey, Lou,|how many Santa Claus letters...
+{122000}{122040}we got|at the dead-letter office?
+{122041}{122076}LOU: I don't know.
+{122077}{122124}There must be|about 50,000 of them.
+{122125}{122170}Bags and bags|all over the joint.
+{122171}{122231}And there's more coming in|every day.
+{122231}{122266}WORKER: Yeah. Hey, Lou.
+{122267}{122374}It'd be nice|to get rid of them, huh?
+{122375}{122422}LOU: Yeah, but...
+{122423}{122482}Hey, that's a wonderful idea!
+{122483}{122555}WORKER: Why should we be|bothered with all that stuff?
+{122555}{122613}Why not get some trucks?|Big ones right away.
+{122614}{122686}Load them with Santa Claus mail|and deliver it...
+{122687}{122746}to Mr. Kringle|at the courthouse.
+{122746}{122814}Let somebody else|worry about it, huh?
+{122815}{122868}[Singing]|Hey! Jingle bells, jingle bells
+{122869}{122905}Jingle all the way
+{123238}{123273}Hello, Kris.
+{123274}{123309}KRIS: Fred.
+{123310}{123406}GAILEY: Kris, I'm afraid|I've got bad news for you.
+{123407}{123490}I've tried every way to get|some competent authority.
+{123491}{123545}I've wired the governor,|the mayor. I even...
+{123546}{123591}KRIS:|This is worth more to me...
+{123592}{123648}than all the governors|and mayors in the world.
+{123649}{123700}MARRAH:|It's all over. Look at him.
+{123701}{123745}He hasn't got a thing.
+{124138}{124214}MARRAH: And furthermore,|the defense has yet to offer...
+{124215}{124274}one concrete|piece of evidence...
+{124275}{124335}to substantiate|this preposterous claim.
+{124335}{124411}Not one authoritative proof|that this man is Santa Claus.
+{124412}{124442}In view of these facts...
+{124443}{124502}and especially since|today is Christmas Eve...
+{124503}{124567}we're, naturally,|all anxious to get home...
+{124568}{124615}I ask that you sign|the commitment papers...
+{124616}{124645}without further delay.
+{124646}{124699}Mr. Gailey...
+{124700}{124759}have you anything further|to offer?
+{124759}{124795}Yes, I have, Your Honor.
+{124796}{124868}I'd like to submit the following|facts in evidence.
+{124869}{124913}It concerns|the Post Office Department...
+{124914}{124996}an official agency|of the United States government.
+{124997}{125057}"The Post Office Department|was created...
+{125058}{125105}"by the Second|Continental Congress...
+{125106}{125140}"on July 26, 1776.
+{125141}{125207}"The first postmaster general|was Benjamin Franklin.
+{125208}{125249}"The Post Office...
+{125250}{125314}"is one of the world's|largest business concerns.
+{125315}{125362}"Last year,|under Robert Hannigan...
+{125363}{125508}"it did a gross business|of $1,112,877,174."
+{125509}{125579}We're all gratified to know...
+{125580}{125627}the Post Office|is doing nicely...
+{125628}{125690}but it hardly has|any bearing on this case.
+{125691}{125766}It has a great deal, Your Honor,|if I may be allowed to proceed.
+{125766}{125828}By all means, Mr. Gailey.
+{125863}{125932}Your Honor, the figures|I have just quoted...
+{125933}{126006}indicate an efficiently run|organization.
+{126007}{126081}United States postal laws|and regulations...
+{126082}{126160}make it a criminal offense|to willfully misdirect mail...
+{126161}{126225}or intentionally deliver it|to the wrong party.
+{126226}{126256}Consequently...
+{126257}{126309}the Department uses|every possible precaution.
+{126310}{126438}The state of New York|admires the Post Office.
+{126439}{126494}It is efficient, authoritative,|and prosperous.
+{126495}{126570}We're happy to concede|Mr. Gailey's claims.
+{126571}{126603}GAILEY: For the record?
+{126604}{126673}MARRAH: For the record.|Anything to get this case going.
+{126674}{126717}GAILEY: Then I want|to introduce this evidence.
+{126718}{126774}I'll take them, please.
+{126775}{126873}GAILEY: I have three letters|addressed simply "Santa Claus."
+{126874}{126909}No other address whatsoever.
+{126910}{126984}Yet these were just now|delivered to Mr. Kringle...
+{126985}{127049}by bona fide employees|of the Post Office.
+{127050}{127104}I offer them|as positive proof that...
+{127105}{127189}MARRAH: Uh, three letters|are hardly positive proof.
+{127190}{127279}I understand the Post Office|receives thousands of these.
+{127280}{127362}GAILEY: I have further exhibits,|but I hesitate to produce them.
+{127364}{127411}MARRAH:|We'll be very happy to see them.
+{127412}{127459}Yes, yes.|Produce them, Mr. Gailey.
+{127460}{127510}Put them here on my desk.
+{127511}{127559}But, Your Honor...
+{127560}{127605}HARPER:|Put them here on the desk.
+{127606}{127650}Put them here.
+{127651}{127699}GAILEY: Yes, Your Honor.
+{128331}{128358}[Pounding gavel]
+{128359}{128394}MARRAH: Your Honor!
+{128442}{128478}Your Honor!
+{128730}{128775}Your Honor...
+{128776}{128849}every one of these letters|is addressed to Santa Claus.
+{128850}{128898}The Post Office|has delivered them.
+{128899}{128933}Therefore, the Post Office...
+{128934}{128987}a branch|of the federal government...
+{128988}{129046}recognizes this man,|Kris Kringle...
+{129047}{129104}to be the one-and-only|Santa Claus!
+{129281}{129339}Since the United States|government...
+{129339}{129394}declares this man|to be Santa Claus...
+{129395}{129435}this court will not dispute it.
+{129436}{129468}Case dismissed.
+{129761}{129806}MARRAH: I've got to get|that football helmet!
+{129953}{130001}KRIS: Thank you so much,|Your Honor...
+{130002}{130051}and a very merry Christmas|to you.
+{130052}{130120}Thank you, Mr. Kringle,|and the same to you.
+{130121}{130156}Thank you.
+{130432}{130464}Kris.
+{130465}{130501}KRIS: I had to wait to tell you.
+{130502}{130560}I got your note.|It made me very happy.
+{130561}{130596}DORIS: Oh, I'm so glad.
+{130597}{130640}We're having|a big Christmas party...
+{130641}{130681}at the Brooks' Home|tomorrow morning.
+{130682}{130716}Breakfast, a beautiful tree.
+{130717}{130784}I'd like to have you and Susan.
+{130785}{130825}Oh, thank you.
+{130826}{130898}There's no one I'd rather|spend Christmas with.
+{130901}{130972}Would you like|to come to dinner tonight?
+{130972}{131020}KRIS: Tonight? Oh, I can't.
+{131021}{131055}It's Christmas Eve.
+{131056}{131091}DORIS: Oh, I forgot.
+{131092}{131120}KRIS: Bye.
+{131548}{131608}[Big band Christmas music|playing on record player]
+{131724}{131787}KRIS: Oh, my dear sir...
+{131788}{131848}you know my assistant Alfred,|Mr. Macy?
+{131849}{131896}MACY: Merry Christmas, Alfred.
+{131897}{131932}ALFRED: Mr. Macy!
+{131933}{131968}DORIS: Hello, Alfred.
+{131969}{132003}Mr. Macy!
+{132370}{132430}PIERCE: Kris, all I can say|is the state supreme court...
+{132430}{132494}declared you|to be Santa Claus...
+{132495}{132531}and personally|and professionally...
+{132531}{132562}I agree with them.
+{132647}{132705}DORIS: But there are lots|of presents there for you.
+{132706}{132745}SUZIE: Not the one I wanted.
+{132746}{132790}Not the one Mr. Kringle|was going to get for me.
+{132791}{132823}DORIS: Well, what was that?
+{132824}{132871}SUZIE: It doesn't matter.|I didn't get it.
+{132872}{132939}I knew it wouldn't be here...
+{132940}{132996}but I thought|there'd be a letter.
+{132997}{133070}KRIS: I don't suppose|you even want to talk to me.
+{133071}{133118}DORIS:|Something about a present.
+{133118}{133165}KRIS: Yes, I know.|I'm sorry, Suzie.
+{133166}{133226}I tried my best, but...
+{133226}{133294}SUZIE: You couldn't get it|because you're not Santa.
+{133295}{133366}You're just a nice old man|with whiskers...
+{133367}{133403}like my mother said...
+{133404}{133458}and I shouldn't have|believed you.
+{133491}{133563}DORIS: I was wrong|when I told you that.
+{133564}{133645}You must believe in Mr. Kringle|and keep right on doing it.
+{133646}{133680}You must have faith in him.
+{133680}{133740}SUZIE:|But he didn't get me the...
+{133741}{133787}That doesn't make sense, Mommy.
+{133788}{133843}DORIS:|Faith is believing in things...
+{133844}{133894}when common sense|tells you not to.
+{133895}{133932}SUZIE: Huh?
+{133933}{133991}DORIS: Just because things|don't turn out...
+{133992}{134040}the way you want them to|the first time...
+{134041}{134100}you've still got to believe|in people.
+{134101}{134148}I found that out.
+{134149}{134184}SUZIE: You mean like...
+{134185}{134266}"If at first you don't succeed,|try, try again"?
+{134267}{134294}DORIS: Yes.
+{134295}{134340}SUZIE: I thought so.
+{134422}{134469}GAILEY: May I drive you home?
+{134470}{134497}DORIS: Thank you.
+{134498}{134567}KRIS: If you'll go this way,|you'll miss a lot of traffic.
+{134567}{134619}You go along Maplewood|until you've come to Ashley...
+{134620}{134715}I believe. I believe.|It's silly, but I believe.
+{134716}{134780}GAILEY: Thanks, Kris.|Merry Christmas.
+{134781}{134810}KRIS: Merry Christmas to you.
+{134811}{134879}And to you, my dear,|and many of them.
+{134880}{134927}Good-bye, my dear.
+{134928}{134975}ALFRED: Good-bye, Mrs. Walker.
+{134976}{135011}DORIS: Good-bye, Alfred.
+{135012}{135047}KRIS: Good-bye, Suzie.
+{135132}{135202}DORIS:|This must be the turn here.
+{135202}{135249}That's right. Ashley.
+{135250}{135322}Now you go straight|for four blocks.
+{135353}{135444}I believe. I believe.
+{135528}{135584}Stop, Uncle Fred! Stop!
+{135584}{135632}Stop! Stop!
+{135719}{135748}DORIS: Suzie!
+{135773}{135801}Suzie!
+{135853}{135892}Suzie, where are you going?
+{135893}{135929}GAILEY: What is she doing?
+{135930}{135978}- Suzie!|- Suzie!
+{136033}{136091}GAILEY: Suzie, where are you?
+{136092}{136126}SUZIE: I'm upstairs!
+{136127}{136174}DORIS: You shouldn't run around|in other people's houses.
+{136175}{136210}You know better than that.
+{136211}{136307}SUZIE: But this is my house,|the one I asked Mr. Kringle for.
+{136308}{136351}It is! I know it is!
+{136352}{136422}My room upstairs is like|I knew it would be!
+{136423}{136451}You were right, Mommy.
+{136452}{136550}Mommy said if things|don't turn out right at first...
+{136551}{136600}you've still got to believe.
+{136601}{136647}I kept believing.|You were right, Mommy!
+{136648}{136705}Mr. Kringle is Santa Claus!
+{136706}{136748}DORIS: Where are you going?
+{136749}{136785}SUZIE:|To see if there's a swing!
+{136818}{136864}There is one! There is one!
+{136978}{137026}GAILEY: You told her that?
+{137241}{137329}The sign outside|said it's for sale.
+{137330}{137371}We can't let her down.
+{137416}{137462}DORIS:|I never really doubted you.
+{137463}{137528}It was just|my silly common sense.
+{137529}{137601}GAILEY: It even makes sense|to believe in me now.
+{137601}{137661}I must be a pretty good lawyer.
+{137661}{137697}I take a little old man...
+{137698}{137745}and legally prove|that he's Santa Claus.
+{137746}{137781}Now, you know that...
+{138032}{138091}DORIS: Oh, no. It can't be.
+{138092}{138155}It must have been left|by the people that moved out.
+{138180}{138208}GAILEY: Maybe.
+{138238}{138343}Maybe I didn't do such|a wonderful thing after all.

@@ -1,0 +1,1543 @@
+{771}{853}{y:i}[Wind Howling]
+{771}{853}{y:i}[Wind Howling]
+{913}{976}{y:i}[Man Narrating]|{y:i}This is a simple story...
+{913}{976}{y:i}[Man Narrating]|{y:i}This is a simple story...
+{979}{1043}{y:i}but not an easy one to tell.
+{979}{1043}{y:i}but not an easy one to tell.
+{1045}{1092}{y:i}Like a fable, there is sorrow...
+{1045}{1092}{y:i}Like a fable, there is sorrow...
+{1095}{1187}{y:i}and, like a fable,|{y:i}it is full of wonder and happiness.
+{1095}{1187}{y:i}and, like a fable,|{y:i}it is full of wonder and happiness.
+{1281}{1356}I sing what I see. Nothing gets by me.
+{1281}{1356}I sing what I see. Nothing gets by me.
+{1359}{1400}" Here I am," said I to chaos.
+{1359}{1400}" Here I am," said I to chaos.
+{1403}{1464}"I am your slave!"|And he: "Good."
+{1403}{1464}"I am your slave!"|And he: "Good."
+{1467}{1519}" or what?" said l.
+{1467}{1519}" or what?" said l.
+{1521}{1625}Free in the end, I am!|What good is a caress when bliss...
+{1521}{1625}Free in the end, I am!|What good is a caress when bliss...
+{1628}{1669}this man came to possess?
+{1672}{1717}Here I am, ready.
+{1628}{1669}this man came to possess?
+{1672}{1717}Here I am, ready.
+{1720}{1788}The trains are gone,|the brakes are gone.
+{1720}{1788}The trains are gone,|the brakes are gone.
+{1789}{1873}And I can resist no more.|Go, sweet Bacchus, take me.
+{1789}{1873}And I can resist no more.|Go, sweet Bacchus, take me.
+{1876}{1949}The brakes are gone!|The brakes are gone!
+{1876}{1949}The brakes are gone!|The brakes are gone!
+{1952}{1984}I heard you.
+{1952}{1984}I heard you.
+{1985}{2039}- No, they're really gone!|- Hit the brakes!
+{1985}{2039}- No, they're really gone!|- Hit the brakes!
+{2041}{2088}Werent you reciting a poem?
+{2041}{2088}Werent you reciting a poem?
+{2132}{2189}It doesn't work!
+{2132}{2189}It doesn't work!
+{2191}{2259}[ Both Yelling, Shouting ]
+{2191}{2259}[ Both Yelling, Shouting ]
+{2291}{2332}Brake!
+{2333}{2415}We're going to die!|The woods!
+{2291}{2332}Brake!
+{2333}{2415}We're going to die!|The woods!
+{2544}{2593}Brake!
+{2544}{2593}Brake!
+{2712}{2749}The king is coming!
+{2712}{2749}The king is coming!
+{2752}{2809}- ** [ Marching Band ]|- There he is!
+{2752}{2809}- ** [ Marching Band ]|- There he is!
+{2812}{2848}[ Crowd Cheering ]
+{2812}{2848}[ Crowd Cheering ]
+{2849}{2901}It's full of people down there.|Straight.
+{2849}{2901}It's full of people down there.|Straight.
+{2904}{2943}We have no brakes!
+{2904}{2943}We have no brakes!
+{2945}{3009}We have no brakes! Move!
+{2945}{3009}We have no brakes! Move!
+{3047}{3097}[ Crowd Cheering, Shouting ]
+{3047}{3097}[ Crowd Cheering, Shouting ]
+{3460}{3531}[ Car Horns Honking ]
+{3460}{3531}[ Car Horns Honking ]
+{3536}{3617}** [ Music Fades ]
+{3536}{3617}** [ Music Fades ]
+{3687}{3749}Go for a walk.
+{3687}{3749}Go for a walk.
+{3752}{3805}Otherwise,|we'll get there tomorrow.
+{3752}{3805}Otherwise,|we'll get there tomorrow.
+{3808}{3857}I found the screw.
+{3808}{3857}I found the screw.
+{3884}{3925}Now what do you need?
+{3884}{3925}Now what do you need?
+{3928}{4000}Nothing.|I need ten minutes alone.
+{3928}{4000}Nothing.|I need ten minutes alone.
+{4001}{4068}All right,|I'll leave you alone.
+{4001}{4068}All right,|I'll leave you alone.
+{4071}{4125}Do you want the screw|from before?
+{4071}{4125}Do you want the screw|from before?
+{4128}{4181}No, I want to be alone.
+{4128}{4181}No, I want to be alone.
+{4459}{4505}Do I toss out the screw|if I find it?
+{4459}{4505}Do I toss out the screw|if I find it?
+{4508}{4580}I need ten minutes alone.
+{4508}{4580}I need ten minutes alone.
+{4583}{4663}I'm washing my hands.
+{4583}{4663}I'm washing my hands.
+{4845}{4924}Pretty girl! How's it going?
+{4845}{4924}Pretty girl! How's it going?
+{4927}{4967}What are you doing?
+{4927}{4967}What are you doing?
+{4969}{5029}Did your mom put this stuff here?
+{4969}{5029}Did your mom put this stuff here?
+{5032}{5076}No, the landlady did.
+{5032}{5076}No, the landlady did.
+{5077}{5144}Is it a market? It's beautiful.
+{5077}{5144}Is it a market? It's beautiful.
+{5147}{5197}How much is it?|How old are you?
+{5147}{5197}How much is it?|How old are you?
+{5229}{5284}- What's your name?|- Eleonora.
+{5229}{5284}- What's your name?|- Eleonora.
+{5285}{5340}Nice to meet you.|I'm Prince Guido.
+{5285}{5340}Nice to meet you.|I'm Prince Guido.
+{5341}{5439}- Prince?|- I'm a prince, I am.
+{5341}{5439}- Prince?|- I'm a prince, I am.
+{5441}{5487}All this is mine.
+{5441}{5487}All this is mine.
+{5489}{5544}Here starts the prince's principate.
+{5489}{5544}Here starts the prince's principate.
+{5545}{5603}I'll call this place Addis Ababa.
+{5545}{5603}I'll call this place Addis Ababa.
+{5605}{5605}I'll change it all.|Out go the cows, in come the camels.
+{5605}{5719}I'll change it all.|Out go the cows, in come the camels.
+{5722}{5771}Camels?
+{5773}{5827}Even a few hippopotamus.
+{5829}{5880}I must go.|I'm meeting with the princess.
+{5883}{5946}- When?|- Now!
+{5948}{5982}{y:i}[Woman Yelling]
+{6058}{6108}Good morning, Princess!
+{6111}{6194}How frightening.|I almost killed myself. Did I hurt you?
+{6196}{6236}I've never been better.
+{6238}{6278}Do you always leave|the house like this?
+{6280}{6348}I wanted to burn that wasps nest,|but I got stung.
+{6351}{6410}A wasp stung you? There?|Allow me.
+{6412}{6444}Hold still, Princess.
+{6447}{6532}A wasp's poison is very dangerous.
+{6534}{6575}You have to get it out.
+{6577}{6659}- Lie down. It'll take a while.|- No, thank you.
+{6722}{6788}- Did you get stung anywhere else?|- No, thank you.
+{6790}{6852}What a place here!|It's beautiful!
+{6854}{6926}Pigeons fly, women fall from the sky.|I'm moving here!
+{6928}{7023}It's all his! He wants to fill it|with camels! He's a prince!
+{7025}{7071}Exactly.
+{7073}{7150}-Prince Guido at your service, Princess.|-[ Car Horn Honking ]
+{7152}{7196}I'm coming!
+{7198}{7248}Good-bye, then.
+{7250}{7334}- How can I thank you?|- There's no need.
+{7336}{7387}If you really want|to thank me...
+{7389}{7471}I'll take some eggs to make|a nice omelet for my squire.
+{7473}{7524}Take whatever you want.|It's all yours.
+{7526}{7556}Thank you!
+{7559}{7656}I'll take two-- six.|All right? I'll make a nice omelet.
+{7659}{7735}Good-bye, Eleonora!|My regards, Princess.
+{7781}{7834}- Farewell.|- [ Car Engine Starting ]
+{7836}{7936}Here I am, Nuvolari!|Tonight's special: omelet!
+{7938}{7987}All camels here!
+{8188}{8288}- Where is this house?|- Turn left. We're almost there.
+{8291}{8340}Is your uncle sleeping with us?
+{8343}{8420}He's lived in the hotel for 30 years.|He's the head maitre.
+{8423}{8496}He's lending us the house.|He uses it for storage.
+{8498}{8528}There. We're here.
+{8559}{8611}That's Robin Hood,|my uncle's horse.
+{8613}{8664}Here's my uncle's buggy|and my uncle's house.
+{8666}{8713}And inside is my uncle.
+{8741}{8804}Hello, dear uncle! Here we are!|Hurry, it's late.
+{8807}{8853}Here we are.|The car broke down!
+{8855}{8922}- [ Glass Breaking ]|- [ Shouting ]
+{8990}{9040}Uncle!
+{9164}{9216}- Barbarians.|- Who were they?
+{9218}{9272}- Barbarians.|- Why didnt you cry for help?
+{9275}{9340}Silence is|the most powerful cry.
+{9342}{9388}Is he your poet friend?
+{9390}{9448}My name is Ferruccio.|I'm also an upholsterer.
+{9483}{9566}Here you are. It's an old storehouse|full of odds and ends.
+{9568}{9652}An old passion--|an odd and end in itself!.
+{9655}{9712}What's all this stuff for?
+{9714}{9816}You can stay as long as you want.|It's not easy to be a waiter.
+{9819}{9896}That's the bed.|Legend has it Garibaldi slept there.
+{9899}{9948}Nothing is more necessary|than the unnecessary.
+{9950}{9983}Barbarians.
+{9985}{10072}The town hall is on Via Sestani,|to the right after the colonnade.
+{10075}{10162}The bathroom, equipped|with the invention of Mr. Bidet.
+{10164}{10258}There are a few books here,|{y:i}among which The Life of Petrarch.
+{10260}{10380}The kitchen is in there. This is|a velocipede, commonly called a bike.
+{10383}{10484}I have to get back to the hotel.|There's only one key. Don't lose it.
+{10504}{10607}- It's so good to see you.|I'm coming, Robin Hood!|- [ Horse Whinnying ]
+{10691}{10728}What an uncle!
+{10770}{10819}Look at this!
+{10857}{10954}Didn't I tell you? We're in a city.|You can do whatever you want.
+{10956}{11024}If you want to do something,|you do it.
+{11026}{11087}You want to let yourself go?|You want to yell? Yell!
+{11152}{11198}Stop it!|What are you, crazy?
+{11200}{11271}You can't act|like you do in the country.
+{11274}{11360}You've been yelling like a madman.|You cant yell!
+{11363}{11407}Mary! The key!
+{11409}{11476}{y:i}[Key Bouncing On Ground]
+{11504}{11551}See? You cant yell.
+{11554}{11644}Understand? If you stopped thinking|so much about poetry...
+{11647}{11740}you'd make your father happier|and you'd make more money than him.
+{11743}{11794}That's right, Oreste.|That's what I tell him too.
+{11796}{11850}You have to settle down!
+{11852}{11918}What a nice hat.|How does it look?
+{11920}{11984}- Nice. How does it look?|- Nice, but it's mine.
+{11986}{12036}When do I start working?
+{12039}{12095}You're already late.|Right away!
+{12097}{12162}Get that armchair|and take it to the workshop.
+{12164}{12266}- That one?|- That one. And be careful!
+{12268}{12338}Good. I'm going to the town hall.|Good-bye.
+{12340}{12408}Good-bye,|and behave yourselves...
+{12411}{12472}because these are hard times.
+{12474}{12515}Hard, hard times!
+{12517}{12564}They're hard times?
+{12566}{12640}Why, what are your|political views?
+{12642}{12720}Benito! Adolph!|Be good!
+{12722}{12768}What did you say?
+{12799}{12872}I said, how are things going?
+{12875}{12923}Good-bye, then.
+{12925}{12964}Careful!|You'll break the legs!
+{13005}{13034}Good-bye!
+{13177}{13286}He pulled it off.|He took my hat. I'll find him though.
+{13288}{13344}Benito,|you're going to get a slap!
+{13392}{13487}I need to do the whole bureaucratic|procedure to open a bookstore.
+{13489}{13547}- Does it take a long time?|- Years.
+{13549}{13595}Then we'd better|open a file now.
+{13597}{13684}First you apply, and|the department head has to sign it.
+{13756}{13843}I almost scrambled my eggs.|I've had them since yesterday.
+{13845}{13919}I forgot about them.|Thank God they didn't break. Take note.
+{13921}{13964}I, the undersigned,|Guido Orefice...
+{13967}{14036}- am applying to open--|- He can't sign it now!
+{14065}{14115}What's going on?
+{14117}{14178}I need your signature|to open a bookstore.
+{14180}{14254}- Miss, what's going on?|- Mr. Rodolfo, I told him.
+{14256}{14315}-Just one signature.|- No, I can't.
+{14318}{14379}My substitute will be here|in an hour. Ask him.
+{14381}{14470}- All I need is a signature.|- We close at one here!
+{14472}{14522}It's ten to one.
+{14524}{14559}File a complaint.
+{14591}{14662}Boy, is he nasty.
+{14664}{14751}To sign a paper, open a file,|all he had to do was--
+{14753}{14828}Now I have to wait one hour|for his substitute.
+{14830}{14890}I'm filing a complaint.|Write, "I, the undersigned--"
+{14921}{14968}[ Groaning ]
+{14972}{15018}What a wallop!
+{15098}{15164}Are you hurt?|I'll help you.
+{15167}{15208}Come here.|I didn't do it on purpose.
+{15210}{15248}Don't touch me!
+{15280}{15352}You can forget|about your bookshop!
+{15378}{15408}No, the eggs!
+{15477}{15534}You scoundrel!|I'll kill you!
+{15666}{15719}[ Bell Ringing ]
+{15754}{15794}Out of the way!
+{15825}{15883}- [ Screams ]|- [ All Laughing ]
+{15959}{16019}Good morning, Princess.
+{16047}{16123}I wonder if well ever bump|into each other standing up.
+{16126}{16191}Excuse me,|but I've got to run.
+{16194}{16257}Farewell, Princess!
+{16579}{16641}- Chicken.|- That's easy.
+{16642}{16710}It's served whole,|bottom down on the plate.
+{16713}{16758}"Will you cut it for me?"|" Naturally."
+{16759}{16846}I stick the blade under the wing,|then I rip off the drumstick.
+{16849}{16915}I cut the meat along|the bottom of the breastbone.
+{16918}{16982}- Off go the wings, breast and skin.|- Lobster.
+{16985}{17043}Piece of cake, Uncle.
+{17046}{17119}I stick the wing under the leg.
+{17122}{17181}Off goes the leg.|I rip off the lobster, stick the--
+{17183}{17237}Lobster is a crustacean.
+{17286}{17369}Off goes the crust...|of the crustacean.
+{17371}{17497}Off go the crust and antennae.|Who eats the antennae?
+{17498}{17567}Off go the antennae,|off goes the lobster.
+{17570}{17606}There's nothing left.
+{17609}{17678}We're out of lobster,|but the chicken is delicious.
+{17709}{17811}- I don't remember how to do lobster.|- You serve it as is.
+{17814}{17863}There's no need to touch it!
+{17866}{17922}That's too easy.|That's why I didn't remember.
+{17923}{17966}- Continue.|- Behavior!
+{17969}{18019}Stand by.|Still, like this.
+{18022}{18066}"Waiter?"|"Yes?"
+{18067}{18126}In position.|Stand by behavior. Waiter!
+{18131}{18217}[ Continues In Italian ]
+{18327}{18390}Why only me?|There must be other waiters, right?
+{18442}{18494}Bowing!|Piece of cake.
+{18546}{18614}You bow down, further.
+{18615}{18711}Like this, at a 45 degree angle,|just like a champagne bottle.
+{18714}{18786}45 degrees, even 50, 55.
+{18789}{18859}90 degrees.|A right angle. 1 80.
+{18862}{18943}How far do I bow down?|1 80 degrees? Like this?
+{18946}{19017}Think of a sunflower.|They bow to the sun.
+{19019}{19081}But if you see some|that are too bowed down...
+{19083}{19122}it means they're dead!
+{19125}{19182}You're serving.|You're not a servant.
+{19185}{19237}Serving is a supreme art.
+{19239}{19299}God is the first servant.
+{19302}{19378}God serves men,|but he's not a servant to men.
+{19381}{19479}- There was no button here.|- It doesn't go there, silly.
+{19483}{19561}I have to take the car back to Pop.|He's counting on it.
+{19562}{19611}You'll take it back|in a month or so.
+{19614}{19683}No, I've got to get it back soon.|You know why?
+{19714}{19751}Why?
+{19846}{19902}Ferruccio? Ferruccio?
+{19911}{19993}- What? What time is it?|- Were you sleeping?
+{19994}{20051}Of course I was.
+{20054}{20122}You fell asleep|while talking to me!
+{20125}{20182}- How did you do that?|- Schopenhauer.
+{20183}{20226}Who?
+{20229}{20315}Schopenhauer says that with willpower,|you can do anything.
+{20318}{20363}"I am what I want to be."
+{20366}{20441}Right now I want to sleep,|so I was saying to myself...
+{20443}{20498}"I'm sleeping, sleeping,"|and I fell asleep.
+{20534}{20579}Amazing.|And it's simple too.
+{20582}{20659}I want to try too.|I'm sleeping, sleeping, sleeping--
+{20662}{20718}[ Continues ]
+{20721}{20785}Don't move your hands.|You're not a juggler.
+{20786}{20869}It's a matter of thought.|It's serious, and it takes time.
+{20870}{20918}We'll talk about it tomorrow.
+{20942}{20987}Amazing, though.
+{21027}{21070}Wake up.
+{21073}{21135}Wake up.
+{21186}{21231}What is it now?|What are you doing?
+{21234}{21287}- It totally works!|- What works?
+{21290}{21386}Schopenhauer.|You know what I just said? "Wake up."
+{21389}{21469}Bam, you woke up.|This theory is incredible.
+{21470}{21530}- How does it work?|- You were yelling in my ear!
+{21533}{21601}That's why I woke up.
+{21602}{21683}- So I should say it quieter.|- Don't say it at all!
+{21771}{21822}It's deep.|You have to think it.
+{21929}{21978}Why are you running?|Slow down!
+{21981}{22017}Hurry up. It's late!
+{22018}{22119}- Mary, the key!|- [ Key Bouncing On Ground ]
+{22123}{22167}Every morning,|she throws the key.
+{22170}{22202}Look!
+{22205}{22273}There's that teacher.|Boy, is she pretty.
+{22274}{22354}I even dreamt about her.|Come with me. I'll introduce you.
+{22357}{22430}- Holy smokes! Stay still!|- What is it?
+{22433}{22466}Don't move!
+{22467}{22567}The one in the car.|He's that jerk the eggs fell on.
+{22570}{22625}He'll kill me if he sees me.|Be good.
+{22626}{22679}- What's he doing?|- He's talking.
+{22682}{22731}- What's he saying?|- How do I know?
+{22734}{22818}- What's he doing?|- He's saying good-bye.
+{22821}{22905}He's got a car just like mine!|There he is!
+{22906}{22975}Don't move.|He'll kill me if he sees me!
+{22978}{23013}Stay still, Ferruccio.
+{23101}{23161}Good morning, Princess!
+{23202}{23279}It's you again.|How do you do this?
+{23282}{23369}This is the princess|who fell from the sky into my arms.
+{23370}{23450}Is he the one who sucked|the stinger out of your thigh?
+{23451}{23526}Yes. We keep meeting like this.|You just suddenly show up.
+{23529}{23609}We could make plans to meet.
+{23610}{23671}- Tonight at 8:00?|- No, it's nicer this way.
+{23674}{23713}Let's go, Dora.|You'll be late.
+{23770}{23830}I hope we meet again|suddenly.
+{23833}{23909}Farewell, Princess!
+{23911}{23963}Did you see her?|She's pretty, huh?
+{23966}{24022}She likes it|when I suddenly appear.
+{24217}{24275}I don't believe it.
+{24278}{24335}"Obscurity."
+{24338}{24377}You're a genius!
+{24379}{24451}"The bigger it is,|the less you see it."
+{24454}{24494}Solution: obscurity.
+{24497}{24561}Marvelous.|Did you make that riddle up?
+{24563}{24675}No, but you solved it in five minutes.|It took me eight days.
+{24678}{24717}Obscurity!
+{24719}{24786}Salmon, salad|and a glass of white wine.
+{24789}{24841}Listen to this one, Guido.
+{24866}{24941}If I may, it's my turn.
+{24942}{24993}My pop told me this|when I was a wee boy.
+{24994}{25057}"The dwarves and Snow White|sit down for a bite.
+{25059}{25167}How fast can you guess|what she serves her guests next?"
+{25249}{25303}It sounds refined.
+{25306}{25357}I want to solve it right now.
+{25358}{25439}- Eat first or it'll get cold.|- I don't want to. It's too late.
+{25442}{25493}Salad, salmon, white wine.|It's light.
+{25495}{25542}The dwarves...
+{25574}{25615}and Snow White.
+{25638}{25686}- Guido?|{y:i}- Si?
+{25699}{25771}- Is the kitchen closed?|- Everybody's gone. Why?
+{25774}{25849}A gentleman from Rome is here|from the Ministry. He wants to eat.
+{25850}{25889}The kitchen is closed.
+{25891}{25951}Oh, well, he would have|given you a good tip.
+{25954}{25999}The kitchen is open.
+{26018}{26055}Come right in.
+{26118}{26165}{y:i}- Prego.|{y:i}- Grazie.
+{26274}{26330}Doctor, you're not eating anything?
+{26394}{26433}- "The dwarves and Snow White--"|{y:i}- Buonasera.
+{26482}{26569}I know the kitchen is closed.|Maybe a cold dish.
+{26570}{26683}- It's all delicious. Take your pick.|- Something light.
+{26686}{26755}Well, we've got meat,|a nice heavy steak...
+{26758}{26838}Iamb, kidneys,|some greasy breaded liver.
+{26841}{26899}- Otherwise, there's fish.|- Fish.
+{26902}{26982}We have...|a nice fatty turbot...
+{26985}{27062}eel stuffed with fatty sausage|and greased with Grand Marnier...
+{27065}{27106}or some lean salmon--
+{27109}{27166}The salmon, thank you.
+{27167}{27229}- Side dish?|- There's a side dish too?
+{27262}{27330}Of course.|We have very, very fried mushrooms...
+{27331}{27419}buttered potatoes in Nancy butter|with a flaky sauce--
+{27422}{27538}Is there a small, light salad?|If not, nothing.
+{27539}{27655}A light salad? What a pity.|The very, very fried mushrooms...
+{27658}{27721}were out of this world.|So, a light salad...
+{27722}{27782}a lean salmon|and a glass of white wine.
+{27785}{27839}Perfect.|As soon as possible.
+{27842}{27887}I'll do my best.
+{28055}{28101}{y:i}Prego.
+{28278}{28340}" How fast can you guess|what she serves her guests next?"
+{28342}{28373}Right.
+{28408}{28472}- "The dwarves and Snow White."|- Good night, Doctor.
+{28474}{28526}Good night, genius.
+{28573}{28666}What did he say? The dwarves?|What is he, drunk?
+{28668}{28710}It's a riddle.|"Seven seconds."
+{28774}{28850}"Seven seconds" is the solution.|"The dwarves and Snow White."
+{28852}{28906}If there are seven dwarves dining...
+{28908}{28965}and she serves seconds,|that means "seven seconds."
+{29000}{29082}Doctor Lessing is a physician,|a very serious person.
+{29084}{29162}But he's obsessed with riddles.|He loses sleep over them.
+{29236}{29296}Excuse me.|The " Francesco Petrarca" school.
+{29336}{29416}The elementary school? A friend|of mine teaches there. It's beautiful.
+{29418}{29474}It's not far from here. Why?
+{29476}{29536}Good. I can sleep|an extra half-hour.
+{29537}{29620}Do you have to go|to that school tomorrow morning?
+{29622}{29664}They're expecting me at 8:30.
+{29830}{29898}Please, children, silence!|A moment of attention.
+{29900}{29974}The inspector from Rome|will be here shortly.
+{29976}{30027}I want to make|a good impression on him.
+{30029}{30117}Listen very quietly|and carefully to what he says.
+{30120}{30197}He'll tell us some very important|things about our beautiful country.
+{30228}{30288}The inspector is here, ma'am.
+{30290}{30354}He's already here?|He's early!
+{30356}{30395}Sit down, Roberto!
+{30397}{30498}- [ Footsteps Approaching ]|- [ Woman Claps ]
+{30504}{30564}All rise!
+{30664}{30712}Good morning, Princess.
+{30784}{30870}Good morning, Mr. Inspector.|I'm the principal.
+{30872}{30926}These are some of our teachers.
+{30988}{31022}Good.
+{31076}{31110}Therefore--|[ Mumbling ]
+{31160}{31243}How many years have you taught|in this school district?
+{31245}{31280}Sixteen.
+{31332}{31402}Are you up to date|with the ongoing...
+{31404}{31456}school program approved|by the Ministry this year?
+{31458}{31492}Yes.
+{31537}{31640}Did you read the bulletin|regarding childhood hygiene?
+{31641}{31688}Of course.
+{31740}{31797}What are you doing on Sunday?
+{31800}{31914}No, I mean, Sunday is St. Mary's Day.|What are you doing?
+{31916}{31973}I'm going to the theater.
+{32021}{32078}- To see what?|- Offenbach.
+{32080}{32130}Right,|they're playing Offenbach.
+{32216}{32261}Fine. Well--
+{32285}{32356}Thank you very much, and good-bye.|I just came to--
+{32357}{32393}We know.
+{32396}{32450}As you know, the inspector...
+{32452}{32520}came from Rome to talk to us|about the race manifesto...
+{32521}{32604}signed by the most well versed|Italian scientists.
+{32605}{32682}He will, and we're very honored...
+{32684}{32744}demonstrate to us that our race...
+{32745}{32792}is a superior race--
+{32793}{32846}the best of all.
+{32848}{32892}Take your seats.
+{32936}{32999}Go ahead, Inspector.
+{33001}{33066}- Our race--|- Is superior.
+{33068}{33102}Naturally!
+{33132}{33182}Our race is superior.
+{33184}{33270}Ive just come from Rome,|right this minute...
+{33272}{33352}to come and tell you in order|that youll know, children...
+{33354}{33400}that our race|is a superior one.
+{33402}{33448}I was...
+{33449}{33550}chosen, I was,|by racist Italian scientists...
+{33552}{33598}in order to demonstrate...
+{33600}{33664}how superior our race is.
+{33666}{33756}Why did they pick me, children?
+{33800}{33856}Must I tell you?
+{33921}{33968}Where can you find...
+{33969}{34045}someone more handsome than me?
+{34048}{34141}Justly so, there is silence.|I'm an original "superior race"...
+{34144}{34177}pure Aryan.
+{34180}{34222}Children.
+{34224}{34296}Let's start with something that|one says: "What's so big about that?"
+{34298}{34406}The ear. Look at|the perfection of this ear.
+{34408}{34469}Left auricle...
+{34472}{34533}with a pendant|little bell at the end.
+{34536}{34605}Check it out.|Movable cartilage.
+{34608}{34646}Bendable.
+{34648}{34717}Find two ears more beautiful|than these and I'll leave!
+{34720}{34812}But you have to show me them.|They dream about these in France!
+{34814}{34886}Races exist, children.|You bet they do!
+{34888}{34964}But let's continue.|I want to show you something else.
+{34966}{35007}Pay attention.
+{35037}{35088}He said Inspector?
+{35090}{35137}From Rome?
+{35172}{35270}- The belly button!|- [ Laughing ]
+{35272}{35349}Take a look at this belly button!|What a knot!
+{35352}{35406}But you can't untie it,|not even with your teeth!
+{35408}{35478}Those racist scientists tried it.|Not a chance!
+{35480}{35552}This is an Italian belly button.|It's part of our race!
+{35554}{35603}Check out this style!
+{35605}{35721}Look at these muscles:|ceps, biceps, triceps!
+{35724}{35794}Look at this beauty!|Admire this hip!
+{35833}{35890}** [ Humming ]
+{35902}{35970}Just look at the movement!
+{35972}{36001}Gentlemen!
+{36060}{36107}I must say good-bye now.
+{36109}{36182}I have to go.|I have an appointment.
+{36184}{36249}I'll make my Aryan exit|and bid you farewell.
+{36252}{36296}Farewell!|The belly button!
+{36297}{36352}[ Laughter Continues ]
+{36356}{36424}I'll see you in Venice, Princess.
+{36460}{36526}** [ Classical ]
+{37005}{37076}** [ Opera In French ]
+{37936}{37984}I can only hear|out of this ear.
+{38429}{38505}Look at me, Princess.
+{38508}{38553}Go on, I'm down here.
+{38600}{38665}Look at me, Princess.
+{39048}{39113}Turn around, Princess.
+{39144}{39204}Turn around, around--
+{39206}{39252}[ Continues In Italian ]
+{40095}{40176}- Can we get a chocolate ice cream?|- Yes, but we'll have to be quick.
+{40179}{40207}Why?
+{40209}{40310}We have to be at the Prefect's at eight.|We were invited to dinner.
+{40312}{40355}- Where?|- At the Prefect's.
+{40384}{40450}Have pity on me, Lord.|Let it not be true.
+{40452}{40527}- Another dinner at the Prefect's?|- Your mother is coming too.
+{40529}{40563}Bingo!
+{40565}{40677}Let's us just go to dinner.|We'll stop by the Prefect's for coffee.
+{40679}{40729}I'm not coming!
+{40731}{40793}All right, I heard you!|I'll tell him we're not going.
+{40795}{40849}It'll just be me and you.
+{40879}{40956}- Good evening, Rodolfo!|- Good evening, Mr. Prefect.
+{40985}{41048}I'll see you later at my house.|I'll expect you at 8:00.
+{41051}{41096}We'll be there at 8:00 sharp.
+{41151}{41197}[ Groans ]
+{41201}{41257}Where is she?|Did you see her?
+{41259}{41316}- She has to be here.|- You're here?
+{41355}{41417}On time tomorrow, got it?
+{41419}{41477}Did you take that stuff|out of the car?
+{41479}{41542}It's silk. Don't ruin it.|Be very careful.
+{41585}{41645}- What an opera.|- Beautiful!
+{41705}{41773}Is that one of your curtains?
+{41775}{41849}No, it must be|one of my colleague's.
+{41911}{41959}He took my hat again!
+{41983}{42038}- Let's go.|- Dont you see how it's raining?
+{42040}{42105}- You go get the car.|- It's right around the corner.
+{42107}{42164}All right, you wait here.
+{42167}{42247}- I'll pull up right here and toot.|- [ Thunderclap ]
+{42273}{42327}Give me the key!
+{42329}{42381}Not the house key!|The car key!
+{42419}{42471}The car key?|Are you crazy?
+{42473}{42537}Keep him busy, you know,|the jerk the eggs fell on.
+{42539}{42599}Keep him busy as long as you can.|I'll see you tonight.
+{42601}{42654}Inside the car there's--|Go slow!
+{42805}{42872}[ Horn Honking ]
+{43067}{43124}The least you could have done|is come get me with the umbrella.
+{43127}{43196}Youre just plain rude.|Look what a mess I am.
+{43199}{43295}Plus, dinner at the Prefect's|gets me so nervous!
+{43297}{43389}[ Hiccupping ]|I knew it. I've got the hiccups.
+{43391}{43491}I always get them when I'm made|to do something I don't want to.
+{43493}{43567}Dont you know that it takes|so little to make me happy?
+{43569}{43635}A chocolate ice cream is enough!|Even two!
+{43637}{43721}A nice walk together|and then whatever happens happens.
+{43723}{43777}Instead you--|[ Yells ]
+{43803}{43849}Good morning, Princess!
+{43895}{43962}This is incredible.|You owe me an explanation.
+{43964}{44033}No, you're the one|who owes me an explanation!
+{44035}{44107}I stop under a roof and you fall|from the sky into my arms.
+{44108}{44178}I fall off my bicycle|and end up in your arms.
+{44180}{44273}I do an inspection at school,|and there you are again!
+{44275}{44330}You even turn up in my dreams.
+{44332}{44448}Will you leave me alone?|You've really got a crush on me.
+{44451}{44496}I don't blame you, but--
+{44499}{44582}All right. At this point,|I give in. You win.
+{44584}{44659}Where shall we go, Princess?|To the sea! Do you like the sea?
+{44661}{44737}Yes, but they're waiting for me|at the theater. Take me back.
+{44764}{44795}What's happening?
+{44797}{44888}Princess, do you know how|to turn on the windshield wipers?
+{44891}{44937}Step on the brakes!
+{44983}{45045}Have no fear!|Hang on to me!
+{45047}{45093}It's broken!
+{45095}{45144}When did you learn to drive?
+{45147}{45204}- Ten minutes ago.|- I thought it was less than that.
+{45207}{45279}- The top doesn't close.|- The door wont open.
+{45281}{45348}Wait! We're stuck!
+{45351}{45413}We'll get out of here.|I'll take care of it.
+{45415}{45467}The important thing is that|you don't get wet.
+{45469}{45520}Cover yourself with this.
+{45523}{45572}Take it.|We'll get out of here now.
+{45596}{45654}I'll take care of everything.
+{45695}{45741}Here we go.
+{45767}{45822}Step right out, Princess.
+{45893}{45944}There!|Step right out!
+{45985}{46071}There's a huge puddle!|You'll get your feet wet! Wait!
+{46169}{46203}Here!
+{46343}{46388}- Go ahead, Princess.|- Where are we?
+{46391}{46460}We've already been here.
+{46463}{46550}- Me and you? When?|- Dont you remember?
+{46552}{46595}The night it was raining...
+{46597}{46656}and I made you an umbrella|out of a pillow!
+{46659}{46755}It was a beautiful night. I put|the steering wheel on my shoulder...
+{46757}{46845}did a little waltz,|and when I stopped in front of you...
+{46847}{46877}you kissed me.
+{46879}{46946}** [ Humming ]
+{47149}{47203}Princess, your behind|is blowing in the wind.
+{47235}{47294}[ Gasps ]
+{47301}{47391}It depends on the person.|My pop was like that.
+{47393}{47464}He had the ability|to make me do anything.
+{47467}{47524}He understood me.|He knew how to deal with me.
+{47527}{47577}I was like putty in his hand.
+{47579}{47644}I always, always, always said yes.
+{47675}{47744}So, all these treasures|you're hiding--
+{47747}{47861}there is a way to open this treasure|chest and always get you to say yes!
+{47863}{47917}It's easier than you think.
+{47919}{47978}- All you need is the right key.|- And where exactly is it?
+{47980}{48039}Heaven knows.
+{48041}{48084}It's clearing up.
+{48087}{48147}So, you were saying...
+{48149}{48234}the key that always makes you say yes|has to come from heaven.
+{48236}{48264}Yes.
+{48267}{48320}I'll give it a try.
+{48323}{48433}If the Virgin Mary tosses|it down to me-- You never know.
+{48435}{48484}Mary, the key!
+{48555}{48597}Is this it?
+{48647}{48722}Do you really have to go home?|What about the chocolate ice cream?
+{48724}{48771}- Let's get it right now.|- No, not now.
+{48773}{48831}- Then when?|- I don't know.
+{48833}{48905}Are we going to let heaven|decide that too?
+{48907}{49002}No, leave Mary alone.|Don't bother her over an ice cream!
+{49004}{49093}No, it's way too important.|We can't decide when to have it.
+{49095}{49158}I have to ask her.
+{49160}{49211}Mary, send someone to find out...
+{49213}{49280}how long before|we can have the ice cream!
+{49315}{49362}Seven seconds!
+{49488}{49560}- This is my house.|- I've gone by here a thousand times.
+{49563}{49611}I've always asked myself:|Who lives there?
+{49613}{49671}I wanted to open|my store right out front.
+{49673}{49740}- The bookshop?|- Yes. I'll see you every day.
+{49743}{49781}Good-bye then.
+{49783}{49866}You've been so nice to me.|All I want now is a hot bath.
+{49868}{49924}I forgot to tell you.
+{49955}{49992}Go ahead.
+{49995}{50063}You can't imagine how much|I feel like making love to you.
+{50095}{50170}But I'll never tell anyone,|especially not you.
+{50172}{50221}They'd have to torture me|to make me say it.
+{50223}{50322}- Say what?|- That I want to make love to you.
+{50324}{50378}Not just once.|Over and over again!
+{50380}{50421}But I'll never tell you that.
+{50423}{50510}I'd have to be crazy to tell you|I'd even make love to you now...
+{50512}{50558}right here,|for the rest of my life.
+{50581}{50621}[ Thunderclap ]
+{50623}{50681}You'd better run or youll get wet.|It's going to rain again.
+{50683}{50728}Princess.
+{50751}{50823}- You're all wet.|- My suit is no big deal.
+{50825}{50892}It's that hat that bothers me.
+{50895}{50977}I need a dry hat,|but where can I find one?
+{50979}{51065}How did it go?|Right, it's easy!
+{51067}{51163}Mary, send someone|to give my friend a dry hat.
+{51365}{51417}Good night, Princess.|Farewell.
+{51419}{51486}** [ Singing In French ]
+{51708}{51785}- ** [ Classical ]|- [ Indistinct Chatter]
+{51896}{51976}- Excuse me, where's the restroom?|- Straight ahead to the left.
+{52169}{52238}If you don't get up|immediately...
+{52240}{52335}I swear on your father's deathbed|I'll never speak to you again.
+{52337}{52377}For the rest of my life!
+{52411}{52457}I'm going to count|to three now.
+{52459}{52517}If you don't get up,|I'll force you to get up.
+{52523}{52629}{y:i}Uno, due...
+{52663}{52693}{y:i}tre.
+{52745}{52815}[ Hiccupping ]
+{52852}{52907}Good girl.
+{52910}{52965}Do you know|who's getting married?
+{52967}{53038}Didn't I tell you?|That jerk the eggs fell on!
+{53121}{53175}- Who's he marrying?|- I don't know.
+{53177}{53229}But she hasn't even|shown up yet.
+{53231}{53284}Everybody's waiting.
+{53286}{53338}I've looked everywhere for you!
+{53340}{53392}- Your uncle.|- My uncle?
+{53394}{53442}Something's happened.|Come with me!
+{53444}{53490}Outside! The horse!
+{53548}{53605}What's that?
+{53607}{53658}Is that your horse?
+{53660}{53724}What a sight!|What did they write on him?
+{53726}{53799}{y:i}"Achtung, Jewish horse."
+{53801}{53904}The usual barbarians, vandals.|It's sad. What nonsense.
+{53906}{53939}"Jewish horse"!
+{53941}{54043}Don't get upset.|They just did it to--
+{54045}{54117}They didn't do it "to."|They did it "to."
+{54144}{54199}You'll have to get|used to it, Guido.
+{54201}{54267}- They'll start with you too.|- With me?
+{54269}{54325}What could possibly happen to me?
+{54327}{54392}The worst they can do is undress me,|paint me yellow and write...
+{54394}{54445}{y:i}'Achtung, Jewish waiter."
+{54476}{54523}I didn't even know|this horse was Jewish.
+{54526}{54585}Let's go. I'll clean him up|in the morning.
+{54587}{54633}Take him back to the stall.
+{55074}{55133}Look, there, in front of you!
+{55195}{55226}[ Guido ]|Dora.
+{55272}{55318}Wait. I'll surprise her.
+{55459}{55553}Dora. Dora.
+{55558}{55636}Come with me. I'd like to|introduce you to Fido Giovanardi.
+{55768}{55840}- Guido!|- Hey!
+{55878}{55959}Doctor Lessing!|Where are you going?
+{55961}{56060}Urgent telegram.|I must go to Berlin immediately.
+{56086}{56156}- What are these flowers?|- They're for your departure.
+{56158}{56206}[ Both Chuckling ]
+{56208}{56248}I'll take just one.
+{56280}{56330}I'll take it to my wife:|Guido's flower.
+{56366}{56433}I truly enjoyed myself with you.
+{56435}{56481}You're the most ingenious...
+{56483}{56547}waiter I've ever come across.
+{56549}{56626}Thank you. You're the customer with|the most culture I've ever served.
+{56628}{56668}Thank you.
+{56670}{56716}Good-bye, Doctor Lessing.
+{56718}{56764}By the way.
+{56810}{56882}"If you say my name...
+{56884}{56945}I'm not there anymore.|Who am l?"
+{56990}{57091}If you say my name,|I'm not there anymore.|** [ Humming ]
+{57148}{57194}What is it?|What did he say?
+{57266}{57306}"Silence!"
+{57308}{57414}Beautiful. If you say the word,|it's not there anymore. Silence.
+{57468}{57559}I'm not talking about Berlin,|in the outskirts. Imagine that!
+{57585}{57656}Third grade.|Listen to this problem.
+{57658}{57728}I remember it|because it shocked me.
+{57730}{57806}A lunatic costs the state|four marks a day.
+{57808}{57863}A cripple,|four and a half marks.
+{57865}{57932}An epileptic,|three marks and a half.
+{57934}{58018}Considering that the average|is four marks a day...
+{58020}{58103}and there are 300,000 patients,|how much would the state save...
+{58105}{58172}if these individuals|were eliminated?
+{58174}{58232}I can't believe this!
+{58234}{58298}That was my exact reaction.
+{58300}{58375}I can't believe|a seven-year-old child...
+{58377}{58424}has to solve|this kind of equation.
+{58426}{58526}It's a difficult calculation.|Proportions, percentages.
+{58528}{58583}They need at least some algebra|to do those equations.
+{58585}{58631}That's high school material for us.
+{58633}{58732}No, all it takes is multiplication.|You said there are 300,000 cripples?
+{58756}{58803}300,000 times four.
+{58806}{58885}If we killed them all,|we'd save 1 ,200,000 marks a day.
+{58887}{58950}- It's easy!|- Exactly!
+{58952}{59059}But youre an adult. They make seven-|year-old children do this in Germany!
+{59061}{59107}It's truly another race.
+{59194}{59222}"Good morning, Princess."
+{59265}{59340}- What did you say?|- It's here, on the cake.
+{59419}{59505}[ Footsteps Approaching ]
+{59507}{59575}** [ Classical ]
+{59811}{59881}Why are you just standing there?|Let's go!
+{59883}{59930}Let's dance.
+{60524}{60592}- [ Music Stops ]|- [ Crowd Applauding ]
+{60704}{60783}[ Man Speaking In Italian ]
+{60785}{60861}Just a few words.|You already know it all by now...
+{60863}{60914}and you've known|for several years.
+{60916}{60992}Dora and I were born|on the same street.
+{60994}{61062}We went to school together,|we had the same friends.
+{61124}{61166}Dora is the woman of my life...
+{61168}{61250}and I'm the man in her life,|therefore...
+{61252}{61316}we've decided to get married|within the year.
+{61318}{61387}You're all officially invited|on April the 9th...
+{61389}{61453}to the Basilica of|Santa Maria del Pellegrino.
+{61455}{61559}And then we'll celebrate till dawn|all together, right here...
+{61561}{61641}-just as happy as we are now.|- [ Crowd Applauding ]
+{61646}{61707}- Kiss her! Kiss her!|- ** [ Music Resumes ]
+{61709}{61816}[ Crowd Chanting In Italian ]
+{61972}{62026}- What's wrong with you?|- Nothing.
+{62028}{62075}- Are you all right?|- Fine.
+{62078}{62137}Who put this armchair here?
+{62169}{62200}Are you all right?
+{62202}{62252}- I'm fine.|- I'm sorry.
+{62254}{62305}- I didn't get hurt.|- No, I was talking about--
+{62307}{62361}- Are you enjoying yourself?|- It's going fine.
+{62363}{62413}Go back to your table.
+{62415}{62461}Go on. I can do this.
+{62646}{62676}- Guido.|{y:i}- Si?
+{62678}{62724}Are you all right?
+{62726}{62845}Fine! Why are you all asking me that?|Is there something wrong?
+{62847}{62916}No, nothing is wrong.
+{62918}{62991}But--|Go to the kitchen.
+{63015}{63058}- Guido!|{y:i}-Si?
+{63096}{63155}The kitchen.
+{63157}{63213}They moved everything|around tonight.
+{63215}{63267}Look where they put the kitchen.
+{63495}{63559}Peek-a-boo!|Guess who?
+{63585}{63642}It's me!|What, have you gone soft?
+{63672}{63702}Miss.
+{63704}{63771}We finally meet, Dora.
+{63773}{63880}He never introduced us.|You were scared to, werent you?
+{63882}{63972}Now you don't need to come|with us to the brothel anymore!
+{63974}{64054}I apologize if I've disrupted you.|Happiness and best wishes to all.
+{64056}{64103}You sly old dog!
+{64135}{64171}What a jolly fellow!
+{64280}{64354}Everything is just fine.|I'll pick it all up.
+{64356}{64403}I apologize.
+{64662}{64707}Princess!
+{64709}{64755}You're here too?
+{65091}{65137}Take me away.
+{65366}{65412}[ Drum roll ]
+{65502}{65560}And now, ladies and gentlemen...
+{65562}{65654}a magnificent surprise|offered by the Grand Hotel.
+{65656}{65717}The Ethiopian cake!
+{65719}{65799}- ** [ Middle Eastern ]|- [ Crowd Applauding ]
+{66546}{66614}[ Horse Whinnying ]
+{66642}{66719}- [ Music Stops ]|- [ Crowd Murmuring ]
+{67009}{67111}- Thank you! Music, maestro!|- ** [ Music Resumes ]
+{67189}{67245}- Congratulations.|- Thank you.
+{67282}{67322}Right this way, Princess.
+{67354}{67389}But youre--
+{67421}{67459}Quickly, Princess.
+{67958}{67994}But he's--
+{68106}{68152}He's that jerk with the eggs!
+{68430}{68508}[ Man Shouting ]|Dora!
+{69006}{69044}Ferruccio!
+{69046}{69124}He's got the keys to the house,|darn it all!
+{69246}{69319}Some wire.|I can open it if I find some wire.
+{69346}{69426}I'm a whiz with wire.|My pop taught me.
+{69428}{69509}I used to make toys out of wire|when I was a kid.
+{69627}{69677}[ Grunting ]
+{69689}{69733}I opened it.
+{70326}{70396}[ Birds Twittering ]
+{70405}{70439}Joshua!
+{70497}{70555}Let's go. You're going|to make Mommy late.
+{70665}{70719}I lost my tank.
+{70721}{70778}Don't worry.|We'll find it.
+{70780}{70842}Where did you leave the tank?
+{70844}{70900}- It's on the stairs.|- I'll get it.
+{70902}{70965}Hold the bicycle.|I'll get it.
+{71039}{71073}Here.
+{71099}{71131}Let's go.
+{71157}{71230}- Go, Pop!|- Go slow!
+{71232}{71298}You're late for school! Go!
+{71300}{71362}- There's a horse! Two horses!|- [ Bicycle Bell Ringing ]
+{71429}{71484}Stop ringing that bell!|It's driving me mad!
+{71486}{71572}- It's not me, its Joshua.|- It's not me, it's Pop!
+{71574}{71620}Stop it! Let me off!.
+{71865}{71904}Here we are.
+{71906}{71945}See you tonight.
+{71980}{72031}{y:i}Ciao, Dora. Ciao.
+{72037}{72085}Go fast, Pop!
+{72089}{72149}{y:i}Uno, due, tre!
+{72193}{72284}- [ Whistle Blowing ]|- [ Man Shouting Commands In German ]
+{72356}{72402}Can we buy this for Mommy?
+{72404}{72477}- How much does it cost?|- Fifteen lire.
+{72479}{72561}It's a fake. It's probably|a fake cake, like your tank.
+{72563}{72603}Let's go, Joshua.
+{72605}{72662}"No Jews or dogs...
+{72664}{72733}allowed."
+{72774}{72878}Why arent Jews or dogs|allowed to go in?
+{72880}{72939}They just don't want|Jews or dogs to go in.
+{72941}{72995}Everybody does what they want to.
+{72997}{73047}There's a hardware store there.
+{73049}{73120}They don't let Spanish people|or horses into his store.
+{73122}{73168}Further ahead, there's a drugstore.
+{73170}{73252}I was with a Chinese friend of mine|yesterday who had a kangaroo.
+{73254}{73330}I said, "May we?" " No, we don't want|any Chinese or kangaroos here."
+{73332}{73383}They don't like them.|What can I tell you?
+{73385}{73449}We let everybody|into our bookshop.
+{73451}{73497}No. From now on,|we'll write it too.
+{73499}{73559}- Is there anybody you don't like?|- Spiders. What about you?
+{73561}{73621}I don't like Visigoths.|Starting tomorrow we'll write...
+{73623}{73693}" No spiders and Visigoths allowed."
+{73695}{73766}I'm sick and tired|of these Visigoths.
+{73770}{73811}** [ Humming ]
+{73972}{74006}Good morning.
+{74008}{74060}Everything's half price.
+{74062}{74139}- Guido Orefice?|- That's me.
+{74141}{74227}- You have to come to the Prefect's.|- Again?
+{74229}{74278}- He already went.|- Let's go.
+{74280}{74305}Why?
+{74381}{74443}- Is that man with you?|- Yes. Let's go.
+{74445}{74478}All right.
+{74480}{74522}- I'm coming too.|- No.
+{74524}{74582}You stay here.|It won't take long, will it?
+{74584}{74630}Not long at all.
+{74652}{74716}Joshua, make sure|you treat the customers good!
+{74718}{74784}I'll be right back.
+{74786}{74830}{y:i}Buongiorno.
+{75535}{75587}{y:i}- Buongiorno.|{y:i}- Buongiorno.
+{76276}{76353}- I'll take this one.|- It costs five lire.
+{76355}{76443}No, it says ten lire.
+{76445}{76512}Everything's half price.
+{76565}{76669}Give this to your mom|and tell her it's from Grandma.
+{76671}{76757}I've never seen|my grandma before.
+{76759}{76823}- Would you like to meet her?|- Yes.
+{76853}{76896}You'll meet her tomorrow.
+{76898}{76948}- Tomorrow?|- Yes.
+{76950}{77005}Because tomorrow|is your birthday...
+{77007}{77061}and your grandma will come|and bring you a nice present.
+{77063}{77138}A new tank?
+{77156}{77192}No, a surprise.
+{77194}{77240}Give the letter to your mom.
+{77276}{77317}Bye, Joshua.
+{77319}{77362}You forgot your change,|Grandma.
+{77525}{77550}Thank you.
+{77576}{77632}- When are you coming?|- In an hour or so.
+{77634}{77701}I'm going to stop by my uncle's to see|if hell bring some leftovers.
+{77733}{77804}- Then what did Grandma say?|- She's coming tomorrow.
+{77866}{77898}It's about time!
+{77900}{77950}J EWISH STORE
+{77953}{78018}- It's time for your bath now.|- I don't want to take one.
+{78020}{78090}- Go take a bath.|- I took one on Friday.
+{78091}{78130}He's right.
+{78132}{78179}You change your shirt.
+{78180}{78239}- I changed it on Thursday!|- Don't forget the flowers!
+{78240}{78299}They're outside.|I already picked them.
+{78302}{78397}- I'll come with you, Pop!|- You have to take a bath, stubborn!
+{78399}{78460}I don't want to take one!
+{78463}{78508}Hurry up.|I have to go pick Grandma up.
+{78687}{78768}- Where do you want the flowers?|- Set them down. I'll be right there.
+{78799}{78864}[ Hiccupping ]
+{79016}{79066}I took one on Friday!
+{79084}{79131}[ Dora ]|Joshua!
+{79134}{79179}Joshua!
+{79190}{79236}Do you know where Joshua is?
+{79239}{79288}He must be in there.
+{79291}{79336}Will you put those things|in order?
+{79339}{79391}Why dont you show me the flowers?|They look so beautiful.
+{79394}{79458}They are. I'll bring them right over.|You want to see the flowers?
+{79460}{79562}I'll make them come right over.|Come, flowers!
+{79566}{79606}Come, nightstand!
+{79609}{79680}Schopenhauer, willpower,|I want the nightstand to come here.
+{79682}{79744}Nightstand, come.
+{79778}{79837}Stop, nightstand!
+{79839}{79917}The nightstand seems|very dirty to me.
+{79919}{79998}Good morning, Princess!
+{80000}{80065}[ Hoof beats Approaching ]
+{80103}{80153}He can already read and write?
+{80155}{80218}- For over a year now.|- You did a good job.
+{80220}{80270}We're here.
+{80272}{80321}I'll help you get out.
+{80323}{80369}No, I can do it myself.
+{80791}{80844}Dora, what's wrong?
+{81331}{81377}Are we there?
+{81379}{81437}No, it's a crossing.
+{81483}{81568}- [ Meowing ]|- Will you tell me|where we're going now?
+{81570}{81629}What do you mean, where?
+{81631}{81702}You asked me a thousand times.|We're going...
+{81704}{81766}to the place--|What's it called?
+{81769}{81810}We're going--
+{81812}{81866}Where are we going?
+{81868}{81962}What day is it today?|Today is your birthday!
+{81964}{82025}You've always said|you wanted to go on a trip!
+{82027}{82102}It took me months|to plan this whole thing.
+{82132}{82186}You know where we're going?
+{82189}{82254}I can't tell you.|I promised Mom I wouldn't tell.
+{82257}{82301}You know how she is.|She'll get mad.
+{82303}{82354}It makes me laugh.
+{82356}{82438}My pop planned something like this|for me when I was little too.
+{82504}{82554}It was so--|Boy, it was funny!
+{82650}{82733}I'm not going to tell you.|I want you to see for yourself.
+{82736}{82819}It's a surprise.|You know, it's really--
+{82821}{82857}It really makes me laugh.
+{82860}{82918}- [ Meowing ]|- I'm tired.
+{82920}{82967}Go to sleep.
+{83108}{83179}Where are we going?|Where are they taking us?
+{83585}{83630}[ Man Shouting In German ]
+{83652}{83744}What time is it?|We're leaving right on time.
+{83746}{83788}What organization!
+{83790}{83854}- You've never taken a train, huh?|- No. Is it nice?
+{83856}{83892}It's really nice!
+{83894}{83972}It's all wooden inside. Everybody|stands up. There's not one seat.
+{83974}{84054}- There aren't any seats?|- What? Seats on a train?
+{84056}{84109}It's obvious|you've never been on one!
+{84111}{84189}No, everybody|stands real close together.
+{84191}{84292}Do you see this line?|I got the last tickets just in time!
+{84294}{84374}Hurry up, Uncle Eliseo.|I don't want them to say, "Too late.
+{84377}{84416}It's full.|Go back home."
+{84418}{84502}Wait up. We've got a reservation!|Leave some room for us!
+{84505}{84551}Look at this line!
+{84593}{84660}Here we are!|We made a reservation!
+{84721}{84774}Thank you!
+{84836}{84950}- May I help you?|- There's been a mistake.
+{84953}{85013}What mistake?
+{85016}{85082}My husband and son|are on that train.
+{85109}{85154}What's your husband's name?
+{85156}{85209}Guido Orefice.
+{85355}{85398}Joshua Orefice...
+{85400}{85497}and Eliseo Orefice|are on that train too.
+{85499}{85545}There's no mistake.
+{85589}{85637}I want to get|on that train too.
+{85684}{85774}- We're all ready.|- Send them off then.
+{85776}{85809}Go, leave!
+{85863}{85942}- [ Whistle Blowing ]|- Go back home, ma'am.
+{85944}{85982}I want to get on that train.
+{85985}{86030}[ Train Whistle Blowing ]
+{86196}{86262}Let me get on that train!
+{86386}{86460}- [ Speaking German ]|- [ Whistle Blows ]
+{86515}{86582}[ Brakes Hissing ]
+{87002}{87026}Mom's here!
+{87075}{87186}- Dora.|- They stopped the train|to let Mom get on.
+{87212}{87261}[ German ]
+{87571}{87665}- [ Shouting In German ]|- [ Whistle Blowing ]
+{87759}{87829}[ Train Whistle Blowing ]
+{88177}{88247}[ Door Unlocking ]
+{88402}{88472}[ Engine Chugging ]
+{89147}{89217}[ Brakes Screeching ]
+{89350}{89417}- [ Woman Shouting In German ]|- [ Man Shouting In German ]
+{90143}{90180}Uncle Eliseo.
+{90525}{90572}Dora!
+{90640}{90696}Dora!
+{90745}{90805}[ Shouting In German ]
+{91144}{91225}Are you happy? Did you see this place?|Are you tired?
+{91228}{91309}- I didn't like the train.|- Me either.
+{91312}{91364}We'll take the bus back.
+{91367}{91469}We're taking the bus back!|The one with the seats in it!
+{91472}{91540}- I told them.|- It's better.
+{91568}{91644}You see?|It's all organized!
+{91647}{91753}Did you see that line?|People are lined up to get inside!
+{91756}{91840}- Everybody wants to get in!|- What game is this?
+{91843}{91884}That's it!
+{91887}{91947}It's that game where--
+{91948}{92005}It's the game--
+{92008}{92053}We're all players.
+{92088}{92151}It's all organized.|The game is...
+{92152}{92228}the men are over here,|the women are over there.
+{92231}{92307}Then there's the soldiers.|They give us our schedule.
+{92308}{92368}It's hard, you know.|It's not easy.
+{92371}{92460}If somebody makes a mistake,|they get sent right home.
+{92463}{92511}That means you have to be|very careful.
+{92512}{92596}But if you win,|you get first prize!
+{92599}{92653}What's the prize?
+{92656}{92703}First prize!
+{92739}{92812}- It's a tank.|- I already have one.
+{92815}{92903}This one's a real tank!|Brand new!
+{92905}{92957}Real?
+{92960}{93025}Yes!|I didn't want to tell you.
+{93071}{93141}[ German ]
+{93205}{93252}Where's Uncle Eliseo going?
+{93255}{93316}He's on another team.|It's all organized.
+{93319}{93369}Bye, Uncle!
+{93436}{93496}A real tank.
+{93828}{93872}What did I tell you?
+{93895}{93933}Fabulous!
+{93936}{93984}What a place!
+{93987}{94087}Hurry up or they'll steal our places.|We've got a reservation. Two singles!
+{94112}{94168}Coming through!
+{94171}{94227}There's our place!
+{94351}{94400}This is our bed.|We'll sleep real close.
+{94451}{94537}It's ugly here. It smells.|I want to be with Mommy.
+{94540}{94588}We will be!
+{94591}{94656}- I'm hungry!|- We'll eat!
+{94659}{94737}Plus they're really mean here!|They yell!
+{94740}{94836}They yell because everybody wants|first prize. They have to be tough.
+{94839}{94956}- Can I see Mommy?|- When the game's over.
+{94957}{94989}When's it over?
+{95039}{95096}You have to get|a thousand points.
+{95131}{95193}Whoever gets a thousand points|wins a tank.
+{95196}{95264}I don't believe you.|Are we getting a snack?
+{95265}{95325}A snack?
+{95328}{95396}Just ask.|We're all friends here.
+{95397}{95465}- Look whos here. What's his name?|- Bartolomeo.
+{95468}{95519}Let me ask you something.
+{95521}{95597}Did the guy who hands out|the bread and jam already come by?
+{95631}{95716}Darn it all!|We missed him by a second!
+{95719}{95803}He'll come back again though,|won't he?
+{95804}{95869}He's coming back.
+{95928}{95991}[ German ]
+{96020}{96092}- What did he say?|- He asked if anyone speaks German.
+{96095}{96147}He's going to explain|the camp's rules.
+{96229}{96283}- Do you speak German?|- No.
+{96447}{96496}[ German ]
+{96511}{96592}The game starts now. Whoever's here|is here, whoever's not is not.
+{96595}{96647}[ German Continues ]
+{96679}{96768}The first one to get a thousand points|wins. The prize is a tank!
+{96795}{96820}Lucky him!
+{97028}{97124}Every day well announce who's in|the lead from that loudspeaker.
+{97127}{97196}The one with the least points|has to wear a sign saying "jackass"...
+{97197}{97229}right here on his back.
+{97232}{97339}[ German Continues ]
+{97399}{97468}We play the part|of the real mean guys who yell.
+{97469}{97504}Whoever's scared loses points.
+{97872}{97956}You'll lose your points|for three things.
+{97959}{98031}One, if you cry.
+{98032}{98103}Two, if you want|to see your mommy.
+{98104}{98187}Three, if youre hungry|and you want a snack.
+{98189}{98227}Forget about it!
+{98435}{98496}It's easy to lose points|for being hungry.
+{98499}{98551}Just yesterday|I lost 40 points...
+{98553}{98620}because I absolutely had|to have a jam sandwich.
+{98655}{98740}Apricot jam!|He wanted strawberry.
+{98923}{98988}Don't ask for any lollipops.|You won't get any.
+{98991}{99029}We eat them all!
+{99080}{99116}I ate 20 of them yesterday!
+{99143}{99231}What a stomachache.|But they sure were good.
+{99257}{99283}You bet.
+{99492}{99560}Sorry if I'm going so fast,|but I'm playing hide-and-seek.
+{99561}{99608}I have to go now|or they'll find me.
+{99609}{99671}- [ Indistinct Chattering ]|- [ Door Shuts ]
+{99848}{99944}Don't ask me anything.|Ask Bartolomeo. He knows everything.
+{99947}{100004}Don't forget to tell me|what he said too.
+{100005}{100052}A thousand points?
+{100055}{100111}I told you we're going|to have fun!
+{100115}{100168}These guys are crazy!
+{100171}{100264}This has to weigh a hundred kilos!|It's got to be 3,000 degrees in here!
+{100267}{100327}Vittorino, I can't cope anymore!
+{100328}{100397}- After only the first one?|- Why, are there more to move?
+{100400}{100455}We're here until tonight!
+{100456}{100537}Bartolomeo, what happened?|Where are they taking you?
+{100540}{100604}To the hospital.|I hurt my arm.
+{100640}{100691}We're going to die here!
+{100719}{100791}I can't take it anymore!|I'm putting this down.
+{100792}{100852}I'll tell them I can't do it.|What can they do to me?
+{100855}{100916}They'll kill you!
+{100975}{101024}- Where does this thing go?|- Down there.
+{101027}{101091}Good Lord!|I'll never make it!
+{101288}{101343}It's got to be|1 0,000 degrees in here!
+{101828}{101899}[ Footsteps Approaching ]
+{102071}{102103}Pop!
+{102475}{102547}Look here! See?|It's nice, huh?
+{102606}{102658}We're signed up.
+{102659}{102739}When I got there to sign up...
+{102742}{102808}the referee was there|and he said...
+{102811}{102876}" No, you and your son|aren't on the list.
+{102879}{102935}You didn't pay your dues."
+{102938}{102986}I almost fell over.
+{102988}{103064}He said, "You can go home."|I said, " No, you go home!
+{103067}{103132}Joshua and I signed up.
+{103135}{103254}Give me my number!"|In fact, they gave me one. Look.
+{103255}{103344}I had them put it here, too,|just in case.
+{103347}{103396}See what a nice place...
+{103423}{103472}your pop takes you to?
+{103523}{103590}Did you play with|the other kids?
+{103591}{103655}Yes, but they don't|know the rules.
+{103676}{103746}They said it isn't true that|first prize is a tank.
+{103747}{103800}They don't know anything|about the points.
+{103803}{103887}Did you fall for that?|They're as sly as foxes.
+{103890}{103938}They want to beat you!|Are you joking?
+{103940}{104027}There's no tank?|Dont you believe them!
+{104030}{104099}How many points|did we get today?
+{104102}{104147}Fifty.
+{104148}{104219}Forty-eight. They took two points|away from me because...
+{104220}{104274}I tripped while I was...
+{104275}{104330}playing hopscotch.
+{104358}{104398}We...
+{104400}{104491}Laughed like crazy today!|I died laughing!
+{104494}{104539}Boy, did I have fun!
+{104542}{104599}I can't wait to start|all over again tomorrow!
+{104602}{104691}Hopscotch, tug-of-war|and ring-around-the-rosy.
+{104694}{104748}Every game.|I don't even remember all of them.
+{104751}{104839}"You guys are obsessed! Stop!|I'm tired!" I said.
+{104842}{104887}Listen.
+{104890}{104975}- Did you eat something?|- Yes, but I didn't ask for a snack.
+{104978}{105074}Good boy!|That means you got 1 2 points too!
+{105076}{105132}Forty-eight for me, 1 2 for you.
+{105135}{105166}Sixty points.
+{105167}{105244}This is what you get|when you get up to 60.
+{105247}{105327}A plain piece of bread,|no jam.
+{105330}{105380}Here, eat this.
+{105383}{105440}{y:i}Grazie.
+{105443}{105530}- Is 60 points a lot?|- Are you kidding?
+{105531}{105568}It sure is!
+{105659}{105719}Look whos here!|Bartolomeo!
+{105722}{105747}How'd it go?
+{105779}{105851}Any worse than this--|I got 20 of them.
+{105942}{106006}We got more than him.
+{106007}{106064}Don't tell him that.|We're in the lead!
+{106299}{106362}I already told you:|no children or old ladies!
+{106363}{106435}Back inside!|You don't work!
+{106438}{106499}The rest, downstairs!
+{106502}{106572}Let's go, girls, quickly.|Come on. This way!
+{106604}{106670}That one's new.|She learned right away.
+{106672}{106756}The lady at the door,|she seemed nice when she first came.
+{106759}{106803}She's the worst of all!
+{106804}{106871}At least she didn't send|the old ladies and children to work.
+{106874}{106959}They don't send old people and kids|to work because they kill them!
+{106962}{107027}One of these days|they'll call them to take a shower.
+{107030}{107074}"Children, shower time!"
+{107075}{107160}The truth is, they make them|shower there in the gas chamber.
+{107338}{107378}Downstairs!
+{107470}{107538}How can I do this?
+{107539}{107578}Vittorino!
+{107612}{107671}Where'd they find|all these anvils?
+{107674}{107719}Pop!
+{107759}{107819}Why are you here?|You're not supposed to be here!
+{107822}{107863}Go away!
+{107866}{107923}Why arent you with|the other kids?
+{107924}{107967}They said...
+{107970}{108044}all us kids have to take|a shower today, and I don't want to.
+{108083}{108131}- Go take a shower!|- No!
+{108156}{108204}I'm not going to.
+{108207}{108243}Go take a shower!
+{108270}{108307}What are you doing here?
+{108362}{108475}We're making... a tank.
+{108478}{108555}We're building the tank.|We're still working on the tracks.
+{108558}{108603}We're running slow.
+{108643}{108716}You can't stay here.|Go take your shower!
+{108719}{108791}I don't want to!
+{108794}{108883}You stubborn thing! I'll tell Mom!|Ten points off for you!
+{108886}{108963}Hide behind there.|We'll go back together when I'm done.
+{108966}{109011}Don't let anyone see you!
+{109014}{109059}This sure is fun.
+{109126}{109195}[ Shouting In German ]
+{109198}{109267}[ Child Crying ]
+{109398}{109432}Everything!
+{109435}{109496}Take everything off!.|Hang it up there!
+{109499}{109575}You'll get it back|after the shower.
+{109578}{109608}Forward!
+{109655}{109715}Remember your number|to get your clothes back!
+{109800}{109876}Women and children|will shower together.
+{109879}{109927}Are you hurt?
+{110188}{110235}Thanks, Bartolomeo.
+{110238}{110307}From now on, you have to|hide here the whole day.
+{110310}{110371}If they see us now it's over.|We're disqualified.
+{110374}{110416}What do I have to do?
+{110419}{110475}You have to stay.|Vittorino, help me out.
+{110478}{110526}You have to hide here all day.
+{110528}{110634}Don't let anyone see you,|especially those mean guys who yell.
+{110635}{110667}Remember.
+{110670}{110715}Stay hidden!
+{110716}{110780}This is the hardest part.
+{110783}{110892}If we get this right, the tank is ours.|It's worth 1 20 points a day.
+{110895}{110963}I'll take you with me.|I'll hide you. You're gone.
+{110966}{111035}Who's ever seen you before?|Who are you? Where is he?
+{111038}{111071}Got it?
+{111072}{111107}Joshua?
+{111196}{111226}Gotya!
+{111270}{111303}Good boy!
+{111935}{112006}[ Meowing ]
+{112064}{112140}[ Man On P.A. Speaking In German ]
+{112330}{112400}[ Hiccupping ]
+{113148}{113210}Anybody here?|Am I disturbing?
+{113276}{113371}- [ Hiccupping ]|-Joshua!
+{113406}{113456}Come here!
+{113459}{113506}Quick as lightning!
+{113650}{113691}Good morning, Princess!
+{113694}{113791}{y:i}Last night,|{y:i}I dreamt about you all night!
+{113794}{113899}{y:i}We were going to the movies.|{y:i}You were wearing that pink suit...
+{113900}{113940}{y:i}that I really like.
+{113943}{113999}{y:i}You're all I think about,|{y:i}Princess.
+{114002}{114064}{y:i}I always think about you.|{y:i}And now--
+{114067}{114103}{y:i}Mommy!
+{114106}{114202}{y:i}Pop wheelsmein the wheelbarrow,|{y:i}but he doesn't know how to drive!
+{114204}{114239}{y:i}We laugh like crazy!
+{114242}{114334}{y:i}We're in the lead!|{y:i}How many points do we have today?
+{114335}{114415}{y:i}Run! The mean guys|{y:i}who yell are behind us!
+{114416}{114476}{y:i}- Where?|{y:i}- Over here! Come on!
+{114560}{114619}{y:i}[Guido's Voice Fading]
+{114804}{114890}- [ Rain Falling ]|- Are they dry?
+{114892}{114930}They're dry.
+{114933}{114974}Catch.
+{114977}{115045}- Get dressed.|- [ Thunderclap ]
+{115356}{115442}What happened to Vittorino,|Alfonso and the others?
+{115444}{115500}They didn't make it.
+{115550}{115607}[ German ]
+{115953}{116028}[ Thunderclap ]
+{116599}{116661}[ Muttering ]
+{116754}{116840}- "If you say my name,|I'm not there anymore."|- [ Woman Yells ]
+{116842}{116874}Silence.
+{117010}{117068}The Grand Hotel.
+{117178}{117224}Guido.
+{117315}{117362}[ Sighs ]
+{117419}{117480}[ Shouts ]
+{117539}{117586}[ German ]
+{117643}{117734}Guido. Thank goodness. I was|getting scared. What happened to you?
+{117737}{117790}They're half crazy!
+{117849}{117902}The man who does the checkups,|the captain--
+{117905}{117972}He's a friend of mine.|I met him when I was a waiter.
+{117974}{118074}He said they're having a dinner|with all the officials and their wives.
+{118077}{118159}He asked me if I wanted to|wait tables at the dinner.
+{118161}{118255}Maybe he wants to help me.|He might get us out of here.
+{118287}{118333}Joshua?
+{118408}{118460}Have you seen Joshua?
+{118462}{118557}- What do you mean, no? Joshua?|- [ Hiccupping ]
+{118560}{118605}Joshua!
+{118684}{118734}What are you doing?|Come here!
+{118736}{118838}- No.|- I told you to come.
+{118840}{118878}No? Come on out!
+{118904}{118963}Come out! Look here.|You're all dirty.
+{118989}{119021}Where have you been?
+{119051}{119111}I had to finish playing rummy.
+{119134}{119210}They make buttons and soap|out of us.
+{119264}{119351}- What are you saying?|- They burn us all in the oven.
+{119375}{119432}Who told you that?
+{119434}{119550}A man was crying. He said they make|buttons and soap out of us.
+{119552}{119598}[ Chuckling ]
+{119613}{119665}You fell for that?
+{119667}{119720}Again?
+{119722}{119802}I thought you were a sharp boy--|cunning, intelligent.
+{119805}{119899}Buttons and soap out of people?|That'll be the day!
+{119901}{119961}You believed that?
+{119981}{120079}Just imagine. Tomorrow morning,|I wash my hands with Bartolomeo...
+{120081}{120121}a good scrub.
+{120123}{120190}Then I'll button up|with Francesco.
+{120192}{120222}Darn it all!
+{120224}{120286}Look! I just lost Giorgio!
+{120288}{120343}Does this look like a person?
+{120345}{120418}Come on! They were teasing you!|And you fell for it!
+{120420}{120474}What else did they tell you?
+{120477}{120522}That we get cooked in the oven.
+{120579}{120666}- [ Laughing ]|- They burn us up in the oven.
+{120754}{120829}You fell for that too!|You just eat everything up!
+{120831}{120886}I've heard of a wood oven...
+{120888}{120937}but I've never seen|a man oven before.
+{120959}{121050}"I'm made of wood!"|"Take this lawyer!"
+{121053}{121112}"This lawyer doesn't burn.|He's not dry enough.
+{121114}{121154}Look at that smoke!"
+{121191}{121258}Buttons, soap,|we get burned in the oven.
+{121260}{121310}Let's be serious now.
+{121312}{121379}I have a bag race|with the bad guys tomorrow.
+{121381}{121466}That's enough.|I want to go home.
+{121510}{121574}- Now?|- Right now.
+{121576}{121654}It's raining now. You'll come down|with a terrible fever!
+{121656}{121701}I don't care.|Let's go.
+{121732}{121793}All right.|If you want to go--
+{121823}{121869}I'll get our stuff|and we'll leave.
+{121899}{121954}- We can leave?|- Naturally.
+{121956}{122016}What do you think they do,|force people to stay here?
+{122018}{122067}That'll be the day.
+{122069}{122142}Wouldn't that be great?|Let's go. We'll pack our bags...
+{122144}{122208}and get out of here.
+{122210}{122301}What a shame. We were in the lead.|We're quitting. Off the list we go.
+{122303}{122376}Some other kid|will win the real tank.
+{122378}{122450}There aren't any other kids.|I'm the only one left.
+{122452}{122530}There aren't any more kids?|It's chock-full of them here!
+{122532}{122569}Where are they then?
+{122571}{122638}They're all hiding.|Nobody's supposed to see them.
+{122640}{122736}- This is a serious game!|- I just don't get it.
+{122738}{122786}How many points do we have?
+{122788}{122839}Almost 687.
+{122841}{122889}I told you a thousand times.
+{122908}{122943}Let's go, though.
+{122945}{123017}- We're winning, but if you want--|- We're winning?
+{123019}{123126}We're first, I told you.|But we'll quit if you want.
+{123146}{123218}I saw the chart yesterday.|We'll go anyway, though.
+{123220}{123266}Bye, Bartolomeo.|Joshua and I are leaving.
+{123268}{123312}We're fed up here.
+{123352}{123414}The tank is done.|It's ready.
+{123416}{123486}Clean the spark plugs off|before you start it.
+{123488}{123553}Open the throttle...
+{123555}{123630}otherwise the cannon will|get stuck with the tracks.
+{123632}{123733}And the gun. Did you see|how nice it is? It came out beautiful!
+{123735}{123826}Lift the emergency brake off|before you move! We're going.
+{123828}{123878}Joshua wants to quit.
+{123880}{123964}We could have gone back with a tank|soon, but we'll take the bus today.
+{123966}{124022}Joshua and I are leaving.|So long, everybody!
+{124024}{124070}We're tired of this place.
+{124072}{124138}Let's go or well miss the bus.
+{124278}{124313}Let's go, Joshua.
+{124395}{124486}It's raining. I'll come down|with a terrible fever!
+{124640}{124769}[ Man On P.A. Speaking German ]
+{125088}{125158}- [ Man On P.A. Continues ]|- [ Boy Speaking German ]
+{125183}{125247}[ Counting In German ]
+{125314}{125409}- [ Boy Continues ]|- [ Crowd Cheering On P.A. ]
+{125550}{125609}[ Footsteps Marching ]
+{125659}{125730}[ Shouting In German ]
+{126122}{126169}Joshua?
+{126173}{126228}It's me, Pop!
+{126230}{126306}I have to tell you|something important! Come here!
+{126308}{126373}That little rascal's been|running away all morning.
+{126375}{126440}- Is there really a kid?|- There must be two thousand!
+{126442}{126493}They're like mice.|They hide all over the place!
+{126495}{126562}Those creeps want our tank!|Stop!
+{126564}{126598}Wait.
+{126642}{126689}I might have spotted him.
+{126691}{126750}I think he's nearby.
+{126752}{126849}Look. Go see if hes hiding in there.|I'll wait here.
+{126851}{126900}I'll keep a watch out.
+{126943}{127031}[ German ]
+{127056}{127096}He's there, Pop!
+{127098}{127149}- What'd he look like? Blond?|- Yes.
+{127151}{127215}That's him then.|His name is... Schwanz.
+{127217}{127270}He's been in there|for three weeks.
+{127272}{127333}He was the runner-up.|We beat him, though!
+{127336}{127405}Sooner or later,|I'll find the others too.
+{127407}{127469}- How many are there?|- It's swarming, I told you.
+{127472}{127513}They're all hidden.
+{127516}{127563}[ Shouting In German ]
+{127739}{127810}- Look, Pop!|- There's a hideout!
+{127858}{127905}Gotya, got ya, got ya!|You're out! Let's go.
+{127967}{128016}Come here! Come here!
+{128083}{128164}- Holy smokes! She saw us!|- Are we out?
+{128166}{128225}She's coming over for you.
+{128227}{128273}Now it's time for|the "be quiet" game.
+{128275}{128345}You're never to speak.
+{128347}{128389}Swear it!
+{128415}{128465}- Swear it!|- I swear.
+{128538}{128597}They all talk strange.|You can't understand a word.
+{128599}{128661}If we get through this,|the first prize is ours.
+{128663}{128736}They're rounding up everyone in|first place. It's the silence game.
+{128738}{128769}Not a word, got it?
+{128959}{129005}Why are you here|with the children?
+{129007}{129053}Quiet!|You're never to speak.
+{129087}{129118}I swear.
+{129507}{129578}[ Children Shouting ]
+{129720}{129777}[ Man Shouting In German ]
+{130463}{130534}I have to talk to you.|Very important.
+{130536}{130609}- Where? When?|- I'll signal you. Later.
+{130925}{130957}Thank you.
+{131095}{131142}[ German ]
+{131710}{131819}- [ Guido Speaking Italian ]|{y:i}- [ Children ] "Grazie. "
+{131821}{131933}{y:i}- "Grazie. Grazie. "|{y:i}-[Together] "Grazie. Grazie. "
+{132013}{132059}[ Shouts ]
+{132070}{132129}I told you not to talk|to the children.
+{132144}{132257}[ German ]
+{132354}{132424}** [ Classical ]
+{132516}{132569}[ Woman Speaking German ]
+{132798}{132864}Doctor, my wife is here too.
+{132969}{133039}[ Man Speaking German ]
+{133405}{133441}Slowly.
+{133443}{133505}Eat slowly.|It's bad for you.
+{133507}{133605}We're in the lead.|We just might leave early.
+{133607}{133661}The game finishes early.
+{133663}{133735}Don't make a mistake|now that we're in the lead.
+{133737}{133771}Slowly.
+{134304}{134350}So.|Pay attention.
+{134487}{134582}" Fat, fat, ugly, ugly,|all yellow in reality.
+{134623}{134673}If you ask me what I am...
+{134675}{134741}I answer, 'Cheep, cheep, cheep.'
+{134878}{134963}Walking along I go,|'Poopoo'.
+{134965}{135025}Who am l?|Tell me true."
+{135133}{135177}A duckling, right?
+{135251}{135297}Is it a duckling?
+{135335}{135397}It's not!
+{135421}{135501}A veterinarian friend of mine|sent it to me from Vienna.
+{135503}{135563}I can't send him mine...
+{135565}{135625}until I solve this one.
+{135651}{135701}I thought...
+{135703}{135757}duck-billed platypus...
+{135759}{135808}but it doesn't go,|"Cheep, cheep, cheep."
+{135810}{135866}A duck-billed platypus goes--
+{135868}{135914}[ Blowing ]
+{136003}{136093}I translated it into Italian|for you last night.
+{136140}{136186}Well, what do you say?
+{136239}{136297}Everything points|to a duckling.
+{136351}{136393}Help me.
+{136480}{136531}For heaven's sake...
+{136533}{136585}help me.
+{136587}{136641}I can't even sleep.
+{137043}{137102}It's the duckling!
+{137104}{137168}- [ Music Stops ]|- [ Indistinct Chattering ]
+{138260}{138330}** [ Opera ]
+{139399}{139468}** [ Woman Singing Opera In French ]
+{139728}{139782}** [ Opera Continues ]
+{140594}{140635}Come here!
+{140690}{140754}- I'm tired.|- Come here.
+{140898}{140943}Where are we here?
+{140946}{141015}I might have taken|the wrong way.
+{141016}{141091}Good boy, sleep.|Dream sweet dreams.
+{141094}{141151}Maybe it's only a dream!
+{141152}{141203}We're dreaming, Joshua.
+{141206}{141266}Tomorrow morning|Mommy will come wake us up...
+{141268}{141371}and bring us two nice cups|of milk and cookies.
+{141374}{141424}First, we'll eat.
+{141427}{141498}Then I'll make love to her|two or three times...
+{141518}{141555}if I can.
+{141690}{141760}- ** [ Music Fades ]|- [ Wind Howling ]
+{142344}{142456}- [ Man On P.A. Speaking German ]|- [ Shouting ]
+{142459}{142528}- [ Gunfire ]|- [ Dogs Barking ]
+{142734}{142786}Excuse me, Bartolomeo.
+{142787}{142874}They've called those two officers|20 times. I bet they escaped.
+{142876}{142979}- Did you understand anything else?|- It's clear enough.
+{142982}{143046}The war is over.|They're running all over the place.
+{143047}{143107}Where are those trucks going?
+{143110}{143176}The important thing is|not to get on those trucks.
+{143179}{143231}They leave full|and come back empty.
+{143234}{143279}You know where they're going?
+{143316}{143371}What about the women?|What's going on?
+{143372}{143443}Let's get out of this dump|and split up.
+{143444}{143496}We don't even have|to pack our bags!
+{143499}{143562}- [ Gunfire Continues ]|- I've been hearing|only dogs and machine guns.
+{143563}{143642}- They want to get rid of everything.|- I'm leaving.
+{143644}{143728}See you in Viareggio.|We'll start an anvil factory!
+{143731}{143764}So long, guys.|I'm leaving.
+{143767}{143859}- [ Shouting In German ]|- [ Vehicles Departing ]
+{144183}{144224}Come see.
+{144227}{144292}Look how mad they are!|Furious!
+{144323}{144379}You see?|They're looking for you.
+{144382}{144432}Just for you.|All this is over you!
+{144435}{144483}You're the last one!|The last one to find!
+{144486}{144563}They're even looking|under the rocks!
+{144566}{144632}The game is over tomorrow.|They'll give the award.
+{144635}{144714}If they don't find you tonight,|it's worth 60 points!
+{144715}{144759}How many points do we have?
+{144760}{144834}We've got 940 points.|Plus 60?
+{144836}{144891}- A thousand!|- First place! We win!
+{144894}{144952}They're looking|all over for you.
+{144955}{145011}No mistakes tonight.|This is it!
+{145014}{145096}- Go hide in that box, quick!|- Schwanz is in there.
+{145099}{145143}Who?
+{145144}{145200}The blond boy.
+{145255}{145315}They got him yesterday.|He was eliminated.
+{145318}{145384}It's the safest place to hide.|Nobody will look.
+{145387}{145455}Let's go, quick as lightning.|Come on!
+{145540}{145586}Inside!
+{145588}{145659}Take this blanket|in case you get cold.
+{145660}{145715}I'll be back soon.
+{145716}{145799}I'll put them on the wrong track.|I think I saw him over there!
+{146063}{146123}[ Woman Shouting In German ]
+{146507}{146588}Pop, you scared me to death!
+{146591}{146640}Give me the blanket.|Are you cold?
+{146643}{146688}Give me your sweater then.
+{146691}{146764}I'll throw it on a tree|and put them off-track.
+{146767}{146838}They're looking all over for you!
+{146840}{146903}Everybody's yelling,|"Wheres Joshua?"
+{146906}{146994}They're even cursing.|They're really, really mad!
+{146995}{147075}No one will find you.|Bye, now. I'll be back later.
+{147099}{147142}Listen...
+{147143}{147219}if Im really late coming back...
+{147222}{147267}dont you move.
+{147268}{147347}Don't come out.|You're not to come out...
+{147348}{147432}until it's completely quiet...
+{147435}{147487}and nobody is in sight,|just to be safe.
+{147490}{147523}Say it!
+{147524}{147604}I won't come out|until nobody is around.
+{147607}{147655}Good boy, stubborn.
+{147715}{147760}{y:i}Ciao. Ciao.
+{148031}{148100}[ Dog Barking ]
+{148350}{148384}Leave!
+{148387}{148438}Go away, dog!
+{148439}{148488}Go, dog!
+{148491}{148524}Leave.
+{148835}{148874}Good job, Ferruccio.
+{148875}{148923}It works.
+{149059}{149130}[ Woman Shouting ]
+{149487}{149566}Dora? Is there anyone|called Dora here?
+{149567}{149612}Dora? Dora?
+{150477}{150522}Dora?
+{150525}{150574}Dora, are you here?|It's Guido.
+{150601}{150678}I know someone is hiding here.|Is there a Dora here?
+{150681}{150705}[ Woman ]|No.
+{150909}{150981}Is there a Dora here?|She's Italian. She's my wife.
+{150982}{151054}Yes, there's a Dora here.
+{151077}{151123}It's me, Dora!
+{151157}{151211}It's not her!|Is there another Dora?
+{151213}{151269}Jump out of the truck|as soon as you can!
+{151270}{151327}Get off! Jump out!
+{151329}{151377}[ Shouts ]
+{151407}{151459}- [ Whistle Blowing ]|- [ German ]
+{152227}{152297}[ Man Shouting In German ]
+{152327}{152397}[ German ]
+{152603}{152673}[ Yelling In German ]
+{152713}{152762}[ Dogs Barking ]
+{153091}{153161}[ Giggling ]
+{153291}{153361}[ Yelling Continues ]
+{153827}{153927}[ Bombs Exploding ]
+{154035}{154106}[ Gunfire ]
+{154474}{154545}- [ Shouting In German ]|- [ Vehicles Departing ]
+{155478}{155549}[ Footsteps Approaching ]
+{158247}{158301}[ Vehicle Approaching ]
+{158957}{159005}It's true!
+{159238}{159281}Hi, boy.
+{159351}{159427}You all alone?|What's your name?
+{159475}{159523}You don't understand|what I'm sayin', do ya?
+{159525}{159574}We'll give you a lift.|Come on!
+{159577}{159622}Come on.|Get up here.
+{159729}{159775}[ Man ]|This way. Come on!
+{159777}{159823}Come on!
+{159825}{159877}- [ Men Shouting ]|- Here ya go.
+{159879}{159927}Whoop!
+{160922}{160958}Mommy!
+{160994}{161041}Stop!
+{161087}{161135}Mama!
+{161235}{161337}{y:i}- This is mystery.|- Mama!
+{161339}{161404}{y:i}This is the sacrifiice|{y:i}my father made.
+{161406}{161457}Joshua!
+{161459}{161515}{y:i}This was his gift to me.
+{161517}{161575}- We won!|- Yes, we won!
+{161626}{161699}A thousand points|to laugh like crazy about!
+{161725}{161815}We came in first!|We're taking the tank home!
+{161817}{161875}We won!

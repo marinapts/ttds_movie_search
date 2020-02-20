@@ -1,0 +1,570 @@
+{1017}{1087}The Straight Story
+{4454}{4559}-Hey, Rose.|-Hey, Dorothy.
+{7545}{7610}I'm gonna go over there.
+{7885}{7951}We're waitin'.
+{8430}{8525}Alvin! Alvin Straight!
+{8525}{8629}Rose left a couple of hours ago.
+{8648}{8760}Did you hear me hollerin' for|Rose? I wasn't lookin' for Rose.
+{8760}{8875}-- I haven't seen Alvin today.|- Did I ask?
+{8875}{8985}Straight, you're late!
+{9240}{9301}Alvin!
+{9383}{9443}Alvin!
+{9520}{9565}Alvin!
+{9565}{9680}-Come in, Bud.|- What the hell, Alvin?!
+{9680}{9775}Where the hell are you?|I can't see a thing.
+{9775}{9850}Over here, Bud. Watch your step.
+{9850}{9903}What the hell's going on here?
+{9903}{10028}What are you doin'|layin' on the floor? You nuts?
+{10028}{10090}Supposed to be down|at Davmar's one hour ago.
+{10090}{10133}What's going on?
+{10133}{10250}-Oh, my God!|-Hey, Dorothy.
+{10270}{10340}-What's the number for 911?|-Let the phone down, Dorothy.
+{10340}{10467}What you doin'? I'll call the bar|and tell 'em we're not comin'.
+{10467}{10568}Are you crazy?|We have a stricken man here.
+{10568}{10679}-Are you stricken, Alvin?|-Dorothy! Put the phone down!
+{10680}{10798}Dad, what's all the yellin'?
+{10849}{10919}Wh-what...uh,|have you done to my dad?
+{10920}{10980}Oh, for cry eye!
+{10980}{11138}-Are you OK, Dad?|-I just need a little help gettin' up, honey.
+{11848}{11935}I'm goin' to Davmar's.|I'll be right back.
+{11935}{11965}OK, Bud.
+{12218}{12300}-I'm not goin'.|-Dad...
+{12300}{12389}-I'm not goin'.|-You promised me, Dad.
+{12750}{12855}OK, Mr Straight, you need to take off all your closes|except your underwear and put this robe on.
+{12855}{12923}Just bring me the doctor.
+{13571}{13630}You like birds.
+{13681}{13791}I build...uh, birdhouses...|uh, for bluebirds.
+{13791}{13847}Oh, that's nice.
+{13866}{13891}Yeah,...
+{13891}{14023}Yeah, it's Pete...uh, Pete sells my...|uh, birdhouses...at the Ace Hardware.
+{14032}{14116}-I'll look for them next time.|-Yeah?
+{14116}{14171}No operation.
+{14179}{14286}This morning you fall and can't|get up, that's your hips, Alvin.
+{14286}{14400}-And you'll need a walker now.|-No walker.
+{14427}{14481}Fine, a second cane, then.
+{14481}{14576}You say you're having trouble seeing.|That could be a diabetes-related problem.
+{14576}{14739}-I'd like to run some tests.|-No tests and no X-rays.
+{14801}{14931}Well, I see and hear that you smoke.|My guess is you're in the early stages of emphysema.
+{14931}{15090}And Alvin, you have circulation problems|and I'm worried about your diet.
+{15106}{15247}If you don't make some changes quickly,|there will be some serious consequences.
+{16421}{16561}-It has a... a red roof.|-Another pretty one, Rose.
+{16561}{16711}-I want to...uh, paint the...uh, next one blue.|-That's a good idea.
+{16896}{16981}What ...uh, did the doctor say?
+{17041}{17129}He said|I was gonna live to be 100.
+{17986}{18061}I think I'll go|and mow the lawn.
+{18081}{18191}-Uh, I can ...uh, cut it for you, Dad.|-I got it, sweetheart.
+{19031}{19082}God darn!
+{19566}{19656}No, we'll...|we won't be mowin' today.
+{19674}{19773}Storm's comin' in.
+{20007}{20077}I love a lightnin' storm.
+{20077}{20138}Uh, me too, Dad.
+{20669}{20692}Hello?
+{20742}{20796}This is... is Rose.
+{20827}{20892}Yeah... Yeah... Uh-huh.
+{20892}{20997}Lyle? Oh, no...
+{21002}{21052}When?
+{21072}{21122}OK... right... right...
+{21172}{21192}I'll tell him.
+{21205}{21262}Yeah... OK...
+{21262}{21302}Bye.
+{21484}{21552}Uh, that was...Bobby.
+{21577}{21652}Uncle Lyle...had a...
+{21652}{21684}..a stroke.
+{21875}{21925}Dad?
+{22552}{22632}No, Bobby,|he... he didn't say much.
+{22632}{22741}Uh, they've both... uh, been so... uh, stubborn.
+{22762}{22832}No, no,|it was longer, I remember.
+{22832}{22970}It was...uh, July, uh, 7th,|19...88, uh, Bobby.
+{22970}{23051}Bobby, I always...remember the dates.
+{23102}{23152}Yeah.
+{23215}{23291}I don't know...uh,|what he'll do.
+{24847}{24908}Rose, darlin'?
+{24966}{25070}Rose, I'm gonna go back on the road.
+{25093}{25188}I've gotta go see Lyle.
+{25213}{25263}But, Dad...
+{25296}{25355}How are you...?
+{25408}{25510}Well, I...haven't quite|got that figured yet.
+{25878}{26003}One, your eyes are bad.|That's why you don't... uh, drive your car.
+{26003}{26098}Uh, two, Uncle Lyle...|uh, lives in...uh, Wisconsin,
+{26098}{26201}which is...uh, 317 miles away.
+{26201}{26293}You would have to...uh,|stay all night...in Des Moines.
+{26293}{26403}Then there's no...|uh, bus...to Zion.
+{26403}{26593}Three, you can hardly...uh, stand...|for two minutes...
+{26593}{26713}And when you...uh, do stand up...|this...is the sound you make...
+{26718}{26786}when you...stand.
+{26979}{27067}Uh, four, uh,|you are...uh, 73 years old...
+{27078}{27201}You were...uh, born|when, uh, Calvin...uh, Coolidge
+{27202}{27297}was president...of America.
+{27320}{27408}Uh, you are...|uh, 73 years old, Dad.
+{27408}{27489}And...I cannot drive you there.
+{27500}{27586}Rose, darlin', I'm not dead yet.
+{27678}{27759}Uh, what are we...|uh, building, Dad?
+{27819}{27933}-Havin' a party?|-Oh, jeez,... I love...uh, parties.
+{27943}{27982}Oh, me too.
+{27988}{28043}And so...where's it at?
+{28043}{28166}-Where's what at?|-Your...uh, party.
+{28203}{28332}I'm not havin' a party.|I thought YOU were havin' a party.
+{28338}{28453}-I am? -Well, yeah.|Look at all that Braunschweiger.
+{28468}{28526}Oh, yeah,|it's a lot of Braunschweiger.
+{28526}{28673}It's...uh, for my dad,uh, for his...his trip.|Uh, my dad... he's going to...uh, Wisconsin.
+{28683}{28768}I...asked him how|he's...uh, going to get there...
+{28768}{28833}Uh...but he...|uh, won't say nothing.
+{28833}{28939}-Wisconsin? That is a real party state.|-Yeah.
+{28988}{29100}I...uh, hate... uh, Braun...uh...schweiger.|Yeah.
+{29808}{29923}Alvin, you've got three|five-gallon cans there.
+{29923}{29994}15 gallons of gas.
+{29998}{30079}What do you need|so much gas for, Alvin?
+{30093}{30163}Sig, you're one nosey|son of a gun.
+{30163}{30213}You got that right.
+{30238}{30301}I wanna buy that.
+{30304}{30382}-What?|-The grabber.
+{30503}{30613}Oh, jeez, Alvin.|That's MY grabber, Alvin.
+{30613}{30667}Well?
+{30783}{30888}Oh, jeez, Alvin. I don't...|I...I do have two of them...
+{30888}{30975}I think five dollars is right.
+{30979}{31064}That's a darn good grabber,|Alvin.
+{31064}{31124}-I...I...|- Well?
+{31124}{31304}They're hard to come by, Alvin. It's gonna take me |two months to get another one on order.
+{31499}{31593}-Jeez, Alvin, ten dollars.|-Ring her up.
+{32464}{32579}-What do you need that grabber for, Alvin?|-Grabbin'.
+{33879}{34034}Oh, jeez, Dad. Oh, jeez, Dad.
+{34419}{34505}Listen to that|old grain elevator.
+{34524}{34643}It's...uh, harvest time.
+{34864}{35020}Uh, that...uh, trailer is too|h-heavy for...for that. It's a lawn mower.
+{35020}{35147}You're going to... drive a...|a lawn mower to another state?
+{35269}{35356}Rosie, I've...|I've gotta go see Lyle.
+{35374}{35462}And I...I've gotta make|this trip on my own.
+{35474}{35551}I know you understand.
+{35673}{35725}I guess so.
+{36004}{36071}Look up at the sky, Rosie.
+{36359}{36462}The sky is sure full|of stars tonight.
+{36955}{37072}Crimenetto, it's Alvin|and he's driving his lawn mower.
+{37246}{37344}Alvin! What are you settin' out|to do here? For cry eye, Alvin!
+{37408}{37536}Alvin, you're gonna get blown|right off the road, that's what I'm afraid!
+{37784}{37854}He'll never make it|past The Grotto.
+{41614}{41690}The Grotto.|8 km
+{45046}{45126}I'm havin'|a little engine trouble.
+{45126}{45201}What the heck is that|you're driving there?
+{45201}{45306}It's a Rehds. Could you|give me a lift into town?
+{45306}{45396}Yeah, to The Grotto. This|is the Sun Ray Tour. Get in.
+{45396}{45515}- I'll get you help there.|- I'd appreciate that.
+{45999}{46086}My Edward loved|his riding mower.
+{46871}{46916}Hey, come here, hurry.
+{46916}{46966}Hurry up.
+{47301}{47358}Poor Alvin.
+{47539}{47673}So the man...in a...pick-up,|he brought my dad back.
+{47723}{47794}Ohh...mm, I must've been|at the beauty shop.
+{47841}{47917}What kinda pick-up?
+{48346}{48402}A Ford.
+{48461}{48564}-But what's your dad doin' with that gun?|-I don't know.
+{48759}{48837}I gave you that old Rehds|last time, right?
+{48837}{48872}That you did.
+{48907}{48968}You tradin' in that Rehds today?
+{48978}{49060}No, I don't believe I will.
+{49060}{49166}Pete told me you used that rider|in a real interestin' way.. You still plannin' to do that?
+{49167}{49225}Still plannin it, Tom.
+{49225}{49332}I know not to talk you out of|somethin' you set your mind to,
+{49332}{49448}but Alvin, you've always|struck me as smart.
+{49448}{49492}Well, that's appreciated.
+{49492}{49550}Until now.
+{49716}{49784}-What year?|-'66.
+{49784}{49906}Has Kohler engine. We've used it for parts|but I always replace them.
+{49906}{50053}The guts are good. It's got the old transmission.|Nothing fancy.
+{50053}{50148}- Is it a good machine?|- It's good machine.
+{50148}{50253}Tom, I got $325.|That's a fact.
+{50253}{50343}That's sounds good to me, Alvin.|Let's go settle up with Alice.
+{50343}{50503} One more thing, sometime you can find out | about these old machines, if you know who run 'em.
+{50503}{50603}-Do you know who owned it?|-You bet... Me.
+{50603}{50668}All right.
+{55689}{55750}I couldn't get a ride.
+{55884}{55949}Are you hungry?
+{55969}{56029}Whaddaya got?
+{56029}{56069} Weeners.
+{56109}{56149} Weeners?
+{56169}{56268} Weeners. Wanna try one?
+{56649}{56719} Here's a good stick for you.
+{57629}{57704} What a hunk of junk.
+{57704}{57779} Eat your dinner, missy.
+{59079}{59147} So,...how long you been|out on the road?
+{59159}{59258} Well, I been travellin'|most of my life.
+{59301}{59401}- Where you from?|- Laurens.
+{59457}{59533} Got a wife back there? Kids?
+{59569}{59709} My wife, Francis delivered|14 babies. Seven of 'em made it.
+{59749}{59824} My daughter,|Rose lives with me.
+{59871}{59956} Francis died in '81.
+{60109}{60171} Where's your family?
+{60284}{60366} Are you runnin' away?
+{60565}{60640} How far along are ya?
+{60705}{60780} Five months.
+{61095}{61205} Well, I'm headin'|to see my brother Lyle.
+{61265}{61320} Huh?
+{61320}{61457} I said I'm goin' to see|my brother Lyle in Mount Zion.
+{61457}{61540}- Where's that?|- Wisconsin.
+{61540}{61595} Oh...|- Just across the state line.
+{61595}{61640} Cheddar Heads.
+{61660}{61770} Aren't those the dumbest things you ever seen|somebody stick on their head?
+{61827}{61938} I hear that's|a real party place - Wisconsin.
+{62005}{62085} Guess I'll never|get to find out.
+{62270}{62370} There's a blanket in the trailer.|Why don't you go get it?
+{63500}{63580} My family hates me.
+{63660}{63747} They'll really hate me|when they find out.
+{63820}{63921}- You didn't tell 'em?|- No.
+{63945}{64089} No one knows.|Not even my boyfriend.
+{64240}{64365} Well, they may be mad, but I don't think they're|mad enough to wanna lose you.
+{64365}{64433} or your little problem.
+{64465}{64500} I don't know about that.
+{64500}{64540} Well, of course, neither do I, but...
+{64540}{64645} a warm bed and a roof sounds a might better than...
+{64645}{64785}... eatin' a hot dog on a stick with an old geezer|that's travellin' on a lawn mower.
+{64980}{65030} My daughter Rose is...
+{65055}{65150} Some people call her|a little bit slow but she's not.
+{65180}{65300} She's got a mind|like a bear trap for facts.
+{65310}{65405} She keeps everything|organised around the house.
+{65430}{65560} She was a real good mom.| She had four kids.
+{65580}{65750} One night, somebody else|was watchin' the kids and there was a fire.
+{65770}{65850} Her second boy|got burned real bad.
+{65890}{65960} Rose had nothin'|to do with it but, ah...
+{65975}{66070}..on account of the way Rose is,|the State figured she
+{66070}{66200} wasn't competent to take care of them kids | and they took 'em all away from her.
+{66220}{66311} There isn't a day goes by that|she don't pine for them kids.
+{66826}{66941} When my kids were real little,|I used to play a game with 'em.
+{66946}{67061} I'd give each one of 'em a stick and| - one for each one of 'em -
+{67061}{67161} then I'd say ''you break that.''|'Course they could, real easy.
+{67186}{67316} Then I'd say ''tie them sticks in|a bundle and try to break that''.
+{67316}{67371}'Course they couldn't.
+{67386}{67531} Then I'd say ''that bundle - that's family.''
+{67896}{67956} Why don't you sleep|in the trailer?
+{67971}{68071} This chair's just fine|for me tonight.
+{68123}{68201} No, I'll be fine|sleepin' out here.
+{68206}{68281} Lookin' at the stars|helps me think.
+{68791}{68821} Thank you.
+{76467}{76497} What that?
+{76532}{76562} Thanks.
+{76592}{76622} What the hell?
+{77382}{77442}- Doin' good.
+{78478}{78513} Hey, Irene.
+{78543}{78679}-You don't think about gettin' old when you're young.|-You shouldn't.
+{78888}{78973} Must be something good|about gettin' old.
+{79018}{79173} Well, I can't imagine anything|good about being blind and lame| at the same time, but... 
+{79173}{79313} still at my age, I've seen about all|that life has to dish out.
+{79333}{79533} I know to separate the wheat from the chaff|and let the small stuff fall away.
+{79543}{79663} Let's go, man.
+{79673}{79773} So, ah...what's the worst part|about being old, Alvin?
+{79823}{79983}The worst part of being old is|rememberin' when you was young.
+{82843}{82893}Can I help you, lady?
+{82893}{82983}No, you can't help me.|No one can help me.
+{82983}{83123}I've tried driving with my lights on,|I've tried sounding my horn! I scream, 
+{83123}{83283} I roll the window down and bang on the door|and play Public Enemy real loud!
+{83293}{83408} I've prayed to St Francis|of Assisi, St Christopher too! What the heck!
+{83408}{83548} I've tried everything and still|every week I hit at least one deer!
+{83548}{83685} I have hit 13 deer in seven|weeks driving down this road!
+{83693}{83778} And I HAVE to drive|down this road
+{83778}{83893} every day, 40 miles to work and back.
+{83893}{84010} I HAVE to drive to work|and I HAVE to drive home!
+{84129}{84211} Where do they come from?
+{84514}{84585} Oh...he's dead.
+{84629}{84710} And I LOVE deer.
+{87864}{87964} Well, they sure picked the right|place to practise a burn on.
+{88284}{88378} That Rumelthanger place|was an eyesore.
+{89474}{89534} What do you suppose...?
+{89534}{89564} Is that a lawn mower?
+{90335}{90404} Mister, you OK?
+{90545}{90619} Jeez, mister, you're lucky|she didn't roll on you.
+{90822}{90875} I guess the belt broke.
+{90875}{90995} I wouldn't be surprised. You don't have|brakes on that trailer, right?
+{91015}{91155} I worked for John Deere for 30 years, and I can tell|you shouldn't be hauling a rig behind a mower.
+{91155}{91225} At least not down|a hill like that.
+{91281}{91331} I'm Danny Riordan.
+{91365}{91423}Alvin Straight.
+{91424}{91554} Alvin, let's get you and this rig off the road|and see what the damage is.
+{91865}{91908} Let's get this off the road.| Sure you're OK?
+{92890}{92925} OK.
+{92960}{93059} You OK? Everything all right?|I'm going back to the exercise.
+{93060}{93115} Thanks. Appreciate it.
+{93308}{93355} Well,...let's|take a look at this mower.
+{93375}{93475}- This is what '65, '66?|- '66.
+{93669}{93760} Well,...tell you right now, Alvin,| you won't be going anywhere tonight.
+{93760}{93905} Aside from your, ah, drive belt being busted,|you got transmission problems.
+{93905}{93991}- Where you headed?|- Mount Zion.
+{93995}{94068} Mount Zion, Wisconsin?|Past Prairie du Chien?
+{94069}{94174}- That's 60 more miles of hills.|- That's across the Mississippi.
+{94178}{94275}- What's in Mount Zion, Alvin?|- My brother lives there.
+{94275}{94387}- Why didn't you take your car?|- I'm not licensed.
+{94388}{94485}- Couldn't he visit?|- He's had a bad stroke.
+{94485}{94590}- Where are you coming from?|- Back a piece.
+{94590}{94640} West Union?
+{94672}{94726}-- Hawkeye?|- Nope.
+{94740}{94829} Well, not New Hampton?|You haven't come that far.
+{94840}{94920} You've come a long ways, haven't you?
+{94920}{95015} Yeah, I have. Laurens, Iowa.
+{95015}{95100}- Laurens?!|- That's west of The Grotto.
+{95100}{95215}- How long have you been on the road?|- What's the date?
+{95215}{95270} October eighth.
+{95335}{95465} Five weeks. I left Laurens|on the fifth of September.
+{95465}{95586}- You been bunkin' in that?|- That's my rollin' home.
+{95586}{95702}- Where you been settin' up camp?|- In the fields. I pull off.
+{95702}{95757} I don't travel at night.
+{95757}{95895} Haven't you been scared, being alone?| There are weird people everywhere.
+{95906}{95991} Well, ma'am, I fought|in the trenches in World War II.
+{95991}{96098} Why should I be scared|of an Iowa cornfield?
+{96117}{96228} Well, um... till we get|this mower fixed,...
+{96252}{96416} why don't you...ah, bivouac in our yard here?|There's a bathroom in the garage you can use.
+{96457}{96506} Well, that's|awful generous of you
+{96523}{96581} and I'm sure my machine here|is agreeable to that too.
+{96677}{96767} Sure wanna thank you folks|for helping me today.
+{96767}{96907} There's a lot of rain forecast.|Sure don't want to get stuck in that trailer?
+{96907}{97005} I...I do a little woodwork.|I thought you'd like a few fish.
+{97006}{97085} My daughter does woodwork.|She makes birdhouses.
+{97086}{97161} Oh, that's nice.
+{97306}{97362}- You finished there?|- I believe I am.
+{99532}{99607}- I'm in need of a phone.|- Sure. Come in.
+{99607}{99709} I wanna call my daughter|about my recent travels.
+{99710}{99737} Sure. Come in.
+{99737}{99867} If it's all the same with you,|do you have a cordless phone?
+{99867}{99981}- Door's wide open, come...|- I can call from out here.
+{100202}{100237} Here you go.
+{100237}{100382} You're welcome to sit in the kitchen.| We can leave, if you're lookin' for privacy.
+{100382}{100507} Out here's fine.|Is the area code still 712 here?
+{100507}{100597} No, Alvin.|That hill rolled you into 319.
+{100598}{100687} You need to dial one|and your area code.
+{100687}{100752}712, thank you.
+{101102}{101167}-'Hello?'|- Rose?
+{101167}{101251} Dad?...Dad...
+{101252}{101343} Uh, I'm...so glad to hear you.
+{101547}{101683} It's gonna cost him a bundle to fix that mower.| I don't think he's got that kinda money.
+{101683}{101813} I wouldn't drive that thing to Excelsior.|It's a lawn mower, for God's sake.
+{101833}{101948} Uh, your social security cheque?|Ah...it's here, Dad.
+{101948}{102018} Rose, can you send me my cheque?
+{102018}{102053} Uh, yeah.
+{102063}{102198}He's damn lucky he made it down that hill.|- He could've died easily. - Yeah.
+{102238}{102372} He's none too strong.| Did you see how he has to walk with the canes?
+{102383}{102443} OK, OK, Dad, OK.
+{102708}{102773} I...I have a pencil, Dad.
+{102794}{102874} The hills just get worse|the closer you get to the Mississippi.
+{102973}{103084} Go ahead and drive him, honey.| Mount Zion can't be half a day. It's fine.
+{103126}{103190} You're a good man,|Danny Riordan.
+{103198}{103300} And that's why I married you,|despite what my mother said.
+{103393}{103488} I miss you, Dad.
+{103501}{103582}- I love you, Rosie.|- I love you too, Dad.
+{103600}{103650}-Uh, bye, Dad 
+{103670}{103720}-Bye...Dad.
+{104523}{104633}- What are you cookin' there, Alvin?|- Oh, I'm makin' my Mexican coffee.
+{104633}{104753}- Ah. Mind if I join you?|- Get you a chair... that iron one there.
+{104823}{104909} You'll be a guest|in your own back yard.
+{105020}{105096} Amm, I talked to the Olsen|twins, and,
+{105106}{105253} ah...they estimate it'll cost around 250 dollars|to get your mower fixed.
+{105253}{105383} Well, that's twice what it oughta be,|I guess it's cos they're twins, huh?
+{105446}{105561} I'd be happy to drive you the|rest of the way to Mount Zion.
+{105562}{105623} Be a nice Sunday drive.
+{105623}{105738} We enjoy crossin' the river,|especially now with the trees in colour.
+{105738}{105880} Well, I appreciate that, but...|I wanna finish this one my own way.
+{106165}{106223} Try this.
+{106321}{106374} Thank you.
+{106408}{106553} Well, you know, Alvin, there's a lotta hills|bigger than Clairmont's between here and Zion.
+{106553}{106687} Even if you get that mower runnin' again,|it may still break down.
+{106688}{106778} Well, you're a kind man|talkin' to a stubborn man.
+{106778}{106867} I still wanna finish this|the way I started.
+{107028}{107053} Hi, Verlyn.
+{107078}{107103} How the heck you doin'?|- Fine.
+{107153}{107178} Wonderful.
+{107548}{107619} Well...they gave you|a plate of her brownies.
+{107619}{107658} How's that for timing?
+{107679}{107725} Janet makes the best brownies...
+{107726}{107776}... in Lafayette county.
+{107777}{107849} She won prizes every year|at the county fair.
+{107859}{107889} Mmm...help yourself.|- Thank you.
+{108064}{108189} Mmm...I've been doin' errands and I'm heading for a beer.|I thought you'd like to join me.
+{108189}{108324} Well, I don't drink any more, but...|I'm always up for a change of scenery.
+{108324}{108354} Well, come on.
+{108579}{108639} Well, I'm ridin' a little higher|and a little faster.
+{108639}{108720} Except when you came down|that hill.
+{108933}{109027} I picked up a mournful taste|for liquor in France.
+{109027}{109124} When I came back,|I couldn't drink enough of it.
+{109124}{109179} I wasn't worth a stick|of stove wood...
+{109214}{109258} I was mean.
+{109309}{109436} A preacher helped me put some distance|between me and the bottle.
+{109464}{109589} And he helped me see... the reason I was drinkin',|I was seein' all them things here,
+{109589}{109662} that I'd seen over there.
+{109922}{110013} Lots of men came back drinkin' hard.
+{110089}{110159} Well...everyone|tryin' to forget.
+{110174}{110239} I can see it|in a man right away.
+{110314}{110364} Yup.
+{110771}{110829} There was one time...
+{110879}{110929}... when we just...
+{110959}{111096}... Were waiting for|the first warm meal in ten days.
+{111234}{111339} We...thought|we'd seen the worst.
+{111354}{111453} We hadn't had|much trouble from the air.
+{111523}{111579} I was on the rise...
+{111604}{111736}... with the quartermaster,|workin' on more coffee for me and my buddies.
+{111807}{111914} A stray Fokker|came over the treetops...
+{111915}{112026} and dropped|an incendiary on the mess tent.
+{112027}{112077} All my buddies...
+{112149}{112263} The Kraut banked right in front|of me on that hill...
+{112280}{112379} and now I can...|see the...Swastika.
+{112674}{112772} That is one thing|that I can't shake loose...
+{112773}{112873} All my buddies faces|are still young.
+{112922}{113066} And the thing is, the more years|I have, the more they've lost.
+{113111}{113240} And it's not always buddies faces that I see,|sometime they're German faces.
+{113299}{113420} Near the end we were shootin'|moon-faced boys.
+{113550}{113604} I was a sniper.
+{113620}{113724} Where I grew up, you learned|how to shoot to hunt food.
+{113735}{113884} They'd post me up front.|Darn near ahead of the lines.
+{113910}{114004} And I'd sit...forever.
+{114020}{114124} It's an amazing thing what you|can see while you're sittin'.
+{114151}{114221} I'd look for the officers, the 
+{114222}{114322} radio guys or artillery spotter.
+{114337}{114455} Sometime I'd spot|a gun nest by the smoke 
+{114455}{114510}... and I'd fire into it.
+{114528}{114619}Sometime it was just|a movement in the woods.
+{114750}{114810}We had a scout,
+{114831}{114939}a little fella, name of Katz.
+{114980}{115061}He was a Polish boy|from Milwaukee.
+{115125}{115231}He'd always take recon|and he was darn good at it.
+{115234}{115344}We went by his word and he saved|our skin many a time.
+{115415}{115480}He was a little fella...
+{115615}{115710}We'd broken|out of the hedgerows...
+{115720}{115815}We were makin'|a run across the open
+{115820}{115880}and we come upon a woods.
+{115930}{116000}We started drawin' fire.
+{116015}{116096}I took my usual position...
+{116120}{116229}and I saw somethin' movin',|real slow like.
+{116258}{116411}I waited ten minutes,|it moved again and I shot.
+{116427}{116489}The movement stopped.
+{116525}{116650}The next day|we found Katz...head shot.
+{116677}{116768}He'd been workin'|his way back toward our lines.
+{116815}{116951}Everyone in the unit thought|a German sniper had taken him...
+{117000}{117085}Everyone, all these years.
+{117105}{117163}Everyone but me.
+{118569}{118649}See, Harald...brainiac...
+{118688}{118779}Got the mower assembly free with|this here little old wrench...
+{118780}{118880}You said it wouldn't work.|I'd say it worked pretty good.
+{118885}{118920}Wouldn't you?
+{119010}{119099}So help me slide her out.|We can get settled up.
+{119796}{119907}Uh...I got parts and labour|that add up to $247.80.
+{119996}{120146}Well, I'd say that's a little heavy for light work.|Don't you think?
+{120156}{120313}I've got an old man's eyes,|but, ah... I'm noticin' some new tyre here.
+{120314}{120455}Well, now...ah, we got those off a resell,|but the treads are good!
+{120461}{120572}Well, friend, are you chargin'|me for good or for new?
+{120631}{120689}Ahhhh...Thorvald?
+{120701}{120801}Ahh...we can make|an adjustment there.
+{120801}{120926}Well, I think the adjustment|should be about thirty dollars.
+{120926}{120981}Is that what|your pencil's sayin'?
+{120991}{121090}And, ah...about the labour...
+{121101}{121219}I appreciate that you boys have|done some real time on this...
+{121219}{121316}of course, a man's gotta ask|when he's workin' with twins -
+{121317}{121381}especially a bickerin' pair -
+{121406}{121491}-how much workin' was fightin'?|-He got that right.
+{121492}{121546}Shut up, Danny.
+{121547}{121661}If I was to judge by this joyous|affair I saw today,
+{121661}{121751}I would calculate maybe 20|per cent taken off the labour.
+{121771}{121825}Anything else, mister?
+{121871}{121951}Well, I'm not from these parts,|but where I come from,
+{121956}{122096}I would say that that was a|little rich for Iowa oil.
+{122097}{122141}Take the oil, no charge.
+{122141}{122261}Well, that's a splendid offer|and I do appreciate it.
+{122281}{122326}What's the tally?
+{122336}{122371}Ah...ahhh...
+{122551}{122601}Hundred and eighty even?
+{122601}{122636}Done.
+{122681}{122807}Thanks to you boys, I'm gonna|get this rig back on the road.
+{122808}{122968}I've drove it all the way across Iowa|and I'm hopin' it holds on till I get to Wisconsin.
+{122968}{123072}My brother lives there.|I haven't seen him in ten years.
+{123101}{123231}There's no one knows your life better|than a brother that's near your age.
+{123231}{123351}He knows who and what you are|better than anyone on Earth.
+{123366}{123511}My brother and I said some...|unforgivable things the last time we met,
+{123551}{123631}but, I'm tryin' to put that behind me.
+{123661}{123781}And this trip is a hard|swallow... of my pride,
+{123804}{123887}I just hope I'm not too late.
+{124080}{124149}A brother's a brother.
+{124401}{124531}Well,... Guess I'll be turnin' in.
+{124549}{124648}I'll, ah...see you in the|morning, then, before you go.
+{124648}{124718}I'm gonna leave awful early.
+{125177}{125283}I wanna thank you for your|kindness to a stranger.
+{125295}{125382}It's been a genuine pleasure|havin' you here, Alvin.
+{125382}{125442}Write to us, sometime.
+{125442}{125495}I will.
+{132361}{132437}I noticed your campfire.
+{132438}{132544}I brought you some dinner...|Mashed potatoes, meat loaf.
+{132545}{132630}Well, thank you kindly.|I've had my dinner, but...
+{132630}{132716}-...would you join me for a while?|-Sure.
+{132890}{132923}Thank you.
+{133123}{133243}-I hope you don't mind me trespassin'.|-Oh, no, not at all.
+{133243}{133408}Made a fine choice. You're camped next to|one of the oldest cemeteries in the Midwest.
+{133408}{133461}French Catholic trappers.
+{133462}{133559}-The Marquette party?|-Two of his men.
+{133610}{133803}I couldn't help but notice|the rather unusual mode of transport.
+{133804}{133896}Well, you're not the first|person to notice that, Padre.
+{133923}{134003}My eyes are bad. I can't drive.
+{134003}{134153}I don't like someone else drivin' the bus,|and I need to get to my brother's.
+{134153}{134223}Fair enough. Where is he?
+{134223}{134346}Well, he's so close, I can practically feel him.|Mount Zion.
+{134358}{134454}-What's his name?|-Lyle Straight.
+{134478}{134608}Is he that fella that came in|with a stroke some weeks ago?
+{134608}{134671}Thats right. Do you know him?
+{134678}{134793}I work at the hospital in Boscobel.|I remember him comin' in.
+{134793}{134873}Caught my attention|because...he lives in my parish.
+{134873}{134983}-Well, he's a Baptist.|-Oh, I believe he told me that.
+{134993}{135088}Told me a few things,|matter of fact, but...
+{135088}{135165}he didn't|mention having a brother.
+{135197}{135312}Well, neither one of us has had|a brother for quite some time.
+{135406}{135483}So, you saw him?|Is he all right?
+{135483}{135624}I only saw him that once and|I haven't heard anything more.
+{135921}{136048}Well, Lyle and I grew up|as close as brothers could be.
+{136048}{136168}We were raised on a farm|in Moorhead, Minnesota.
+{136173}{136232}We worked hard.
+{136245}{136377}My mom and dad darn near killed themselves|tryin' to make that farm work.
+{136398}{136507}And me and Lyle would|make games out of our chores.
+{136528}{136628}We'd dream up somethin'|about racin' and wagerin'
+{136628}{136758}do anything to keep our mind off the cold.|Lord, it was cold.
+{136773}{136863}He and I used|to sleep out in the yard
+{136863}{136938}every summer night,|if it wasn't pourin'.
+{136938}{137033}Nine months of winter,|we couldn't get enough summer.
+{137055}{137179}We'd bunk down|when the sun went down.
+{137179}{137253}We'd talk to each other|until we went to sleep.
+{137258}{137352}We'd talk about the stars...
+{137353}{137489}...and whether there might be|somebody else like us out in space,...
+{137489}{137555}...places we wanted to go and...
+{137559}{137647}it made our trials seem smaller.
+{137684}{137787}Yeah, we pretty much talked|each other through growin' up.
+{137933}{138033}Oh, whatever happened|between you two?
+{138090}{138204}Story as old as the Bible.|Cain and Abel.
+{138224}{138302}Anger, vanity.
+{138339}{138424}You mix that together|with liquor, and...
+{138424}{138541}you've got two brothers who|haven't spoken in ten years.
+{138594}{138720}Well, whatever it was|that made me and Lyle so mad...
+{138759}{138826}don't matter any more.
+{138834}{138973}I wanna make peace.|I wanna sit with him,
+{138984}{139094}look up at the stars... like we used to do
+{139124}{139180}so long ago.
+{139384}{139441}I say ''Amen'' to that.
+{140819}{140877}Howdy.
+{141294}{141419}I haven't had a drink in a lot of years.|Now I'm gonna have me a cold beer.
+{141419}{141464}What flavour?
+{141464}{141534}What does|a Miller's Lite taste like?
+{141799}{141834}There you go.
+{141944}{142024}-How's it taste?|- It's good.
+{142024}{142095}-Keep the change.|- Thank you.
+{142130}{142244}It's an interesting rig you got|outside. Get up the hill OK?
+{142244}{142334}That hill and 200 more|just like it.
+{142334}{142419}- How far did ya come?|- From Iowa.
+{142420}{142474} I'm headed|for Lyle Straight's place.
+{142474}{142599} Iowa! My God,|you must be thirsty.
+{143681}{143769}- Another beer?|- This will do me fine.
+{143769}{143910}I wonder could you point me to Lyle's place?| I haven't seen him in an awful long time.
+{143934}{144046}Well, you just...ah,|cross 61 here, on ''W'',
+{144046}{144156} Take ''W'' on down to Weed Road|and then on to Remington Road.
+{144156}{144233}On your right|will be Lyle's place.
+{144254}{144310}If he's there that is.
+{147706}{147796}-How you doin'...?|-Not too good.
+{147876}{147941}This thing's just tired.
+{148056}{148126}Is there anything|I can do to help you?
+{148146}{148276}-Well, I don't know. It just quit on me.|-Why don't you try her again?
+{148396}{148436}I'm headin' to Lyle Straight's place.
+{151466}{151516}Lyle!
+{151612}{151666}Lyle!
+{151879}{151929} Alvin?
+{152887}{152948} Sit down, Alvin.
+{154162}{154263} Did you ride that thing all|the way out here to see me?
+{154322}{154387} I did, Lyle.
+{156273}{156353} DVD Subtitles by|European Captioning Institute
+{156418}{156498} Ripped by Rozetti

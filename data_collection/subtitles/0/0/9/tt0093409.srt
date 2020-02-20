@@ -1,0 +1,1182 @@
+{6681}{6733}Surprise!
+{6739}{6839}Happy birthday, Daddy!
+{7029}{7067}Make a wish!
+{7073}{7123}I wish...|I'm not going to tell you.
+{7129}{7211}Come on, blow them out!
+{7296}{7339}Give me some sugar, girl.
+{7345}{7453}One more candle and the smoke alarm|would've gone off.
+{7521}{7594}The big 5-0.
+{7600}{7685}You know, your beard's getting gray.|Kind of makes you look old.
+{7691}{7763}It's all right. I still love you.
+{7769}{7839}Bye, Pa.
+{10393}{10458}Good morning!
+{10464}{10556}- Where's Rianne?|- She's upstairs.
+{10562}{10602}Good morning.
+{10608}{10656}- That's my bacon!|- It's mine now.
+{10662}{10713}Don't you close doors around here?
+{10719}{10790}Baby, what's this on my tie?
+{10796}{10834}That is an ugly spot.
+{10840}{10894}Thanks. Sharp as a tack.
+{10900}{10966}I'm thinking of going on "Jeopardy".
+{10972}{11067}Just don't take any questions|about cooking.
+{11136}{11203}Don't step in the egg!
+{11209}{11329}What am I thinking? I should have|checked the floor for egg!
+{11336}{11458}Do you know a man named|Michael Hunsaker?
+{11493}{11543}Jesus! Michael Hunsaker!
+{11549}{11597}- What did he want?|- Your office called.
+{11603}{11654}He's tried to reach you|for three days.
+{11660}{11741}I haven't talked to him in...
+{11747}{11793}...12 years!
+{11799}{11830}Wait a minute.
+{11836}{11902}That would make me...
+{11908}{11950}...50!
+{11956}{12011}That means that you're...
+{12017}{12054}We're not gonna discuss it.
+{12060}{12137}Forget the eggs.
+{12188}{12244}How come I never heard|of Michael Hunsaker?
+{12250}{12291}Just never talked about him.
+{12297}{12334}Vietnam buddy?
+{12340}{12425}Eat your own cake. Vietnam buddy.
+{12433}{12476}Nick and the kids|left without me.
+{12482}{12564}He left without you? Come on,|I never get enough of my baby.
+{12570}{12658}This is my New Year's Eve dress.|Do you like it? Isn't it cool?
+{12664}{12734}It's beautiful.
+{12743}{12824}Have a good birthday.
+{12992}{13069}Goddamn heartbreaker!
+{13822}{13920}{y:i}A lot of people think|{y:i}this is a Superbowl. They're wrong.
+{13926}{14008}{y:i}How much would you expect to pay|{y:i}for something like this?
+{14014}{14063}{y:i}I'm offering you a Superbowl offer.
+{14069}{14129}{y:i}A Superbowl of value|{y:i}on selected items.
+{14135}{14208}{y:i}How much would you pay...?
+{14801}{14882}I'll buy you a new one.
+{16099}{16219}Perfect. Happy fiftieth, Rog.
+{16272}{16354}{y:i}Shooting in progress.
+{16360}{16447}{y:i}Three down. Code three.
+{16491}{16588}Four-King-32,|en route to the sniper call.
+{17044}{17122}Get down!
+{17181}{17245}Look who's here.
+{17370}{17434}- What do you got here?|- Sniper, sir.
+{17440}{17496}Shooting kids, one officer down.
+{17502}{17586}He's a nightmare. He's still inside.|We can't get to him.
+{17592}{17643}- You got a SWAT team coming?|- No ETA.
+{17649}{17699}I'll see you around.
+{17705}{17792}Let me through! Let me through!
+{17856}{17928}Nine years old!
+{17934}{18002}Nine?
+{18016}{18054}How good a shot is he?
+{18060}{18135}- What do you mean?|- Is he random or specific?
+{18141}{18170}He shot at random.
+{18176}{18210}- You make the weapon?|- Automatic.
+{18216}{18301}- Hostages or anything like that?|- Not that we know of.
+{18307}{18376}Where you going?
+{18389}{18472}Get the hell back here.
+{18524}{18636}Get down. You're in the line of fire.|Get down.
+{18751}{18852}Get out of here. He'll shoot you!
+{18882}{18972}Hello, Mr. Sniper, sir.
+{18978}{19047}Get away!
+{19315}{19390}I'm still here, asshole.
+{19391}{19454}Or do you only do kids?
+{19460}{19533}Shut up!
+{19847}{19927}Go on, move, move!
+{20073}{20187}You're one psycho son of a bitch,|but you're good.
+{21021}{21106}Happy birthday, Rog!
+{21300}{21334}We got a hooker.
+{21340}{21430}No, it's Dixie. Would you please|tell these bozos to lay off?
+{21436}{21462}You bozos, lay off.
+{21468}{21534}Had a jumper here last night.|She saw it happen.
+{21540}{21586}Get her statement, send her home.
+{21592}{21667}Thanks. I'm beat.|You know how it is.
+{21673}{21731}All dressed up, no one to blow.
+{21737}{21805}You're hilarious!|I can't believe you damn cops!
+{21811}{21888}The jumper's name is Amanda Hunsaker.
+{21894}{21934}Age 22.
+{21940}{22035}Prostitute. One arrest,|no convictions. Born in Tennessee.
+{22041}{22107}- Parents...|- What was the name?
+{22113}{22170}The parents.
+{22176}{22236}Michael and Claire.
+{22242}{22291}You know them?
+{22297}{22370}Right. Find out who bought it,|who's paying the bills.
+{22376}{22475}- That will take some looking into.|- So look!
+{23087}{23143}Hello, honey.
+{23149}{23210}Give me the number|for Michael Hunsaker.
+{23216}{23279}{y:i}The man we talked about?|{y:i}Your Vietnam buddy?
+{23285}{23360}- You just mentioned him this morning.|{y:i}- What's wrong?
+{23366}{23458}His daughter just dove out a window.
+{23538}{23605}I got it.
+{24033}{24116}Good, huh? Tasty? Smooth?
+{24153}{24231}- Yeah, that's good.|- You better fucking believe it.
+{24237}{24277}Let's do it. How much?
+{24283}{24336}How much for how much?
+{24342}{24370}For all of it.
+{24376}{24449}You want it all? He wants it all.
+{24455}{24538}- All right!|- Maybe a nice tree to put it under.
+{24544}{24579}You want a tree?
+{24585}{24623}I'll tell you what.
+{24629}{24707}I'll give you the best tree|on the lot for nothing.
+{24713}{24775}But the shit's gonna cost you...
+{24781}{24810}...a hundred.
+{24816}{24838}That much?
+{24844}{24923}That's a fair price.
+{24943}{24988}You only live once.
+{24994}{25054}Get this together here.
+{25060}{25100}20, 40...
+{25106}{25133}...50, 70...
+{25139}{25241}- What the fuck?|- Hey, man!
+{25247}{25284}Shut up, I'm losing count.
+{25290}{25355}93, 94, 95, 96...
+{25361}{25401}Forget it, dumbshit!
+{25407}{25451}One hundred thousand!
+{25457}{25543}One hundred thousand dollars!
+{25549}{25587}A hundred thousand?
+{25593}{25703}I can't afford that. Not on my salary.|But look, I got a better idea.
+{25709}{25836}Let me say I take the whole stash|off your hands for free...
+{25842}{25950}...and you assholes go to jail.|What do you say?
+{25957}{26094}I could read you your rights, but you|already know what your rights are.
+{26148}{26188}This badge ain't real.
+{26194}{26220}You ain't real.
+{26226}{26321}You sure are a crazy son of a bitch.
+{26342}{26386}I'm crazy?
+{26392}{26440}You think I am crazy?
+{26446}{26522}I'll show you...
+{26573}{26669}That's a real badge, I'm a real cop|and this is a real gun.
+{26675}{26701}Okay, pal.
+{26707}{26783}Noses in the dirt, assholes!
+{27042}{27110}Where's your buddy?
+{27172}{27195}What do you got?
+{27201}{27280}Three down and one loose.|He's got a red shirt.
+{27286}{27357}Okay, let's go.
+{27369}{27455}Freeze! Give me the gun! Up, up!
+{27461}{27510}How's it feel, sucker?
+{27516}{27539}Shoot him!
+{27545}{27568}Drop it!
+{27574}{27616}Shoot him! Shoot him!
+{27622}{27703}- Shut the fuck up!|- Shoot this prick!
+{27709}{27771}Shoot him! Somebody|shoot this prick!
+{27777}{27811}Shoot me.
+{27817}{27874}Shut up! Put them down!
+{27880}{27953}- I warn you! I'm going to shoot you!|- Shoot him!
+{27959}{28002}Shut the fuck up! Shut up!
+{28008}{28096}Shoot me! Shoot him!
+{28240}{28303}Get him out of there.
+{28309}{28382}It ain't worth it.
+{28840}{28895}Come on, Sam. Thattaboy.
+{28901}{28977}Hey, guys.
+{28999}{29097}Up you go, Sam. Come on.
+{29131}{29183}How you been there, Sam?
+{29189}{29228}Been catching mice today?
+{29234}{29274}What kind of a day did you have?
+{29280}{29346}You haven't been doing anything,|lazy son of a bitch.
+{29352}{29477}I'll get you a sandwich,|because that's all there is.
+{29496}{29553}Beer for me.
+{29559}{29654}Looks like turkey.|I got us a surprise.
+{29660}{29790}Thirteen-inch color TV set.|We can watch reruns of "Lassie".
+{29796}{29868}Hey, wait up already!
+{33362}{33439}{y:i}Merry Christmas!
+{34080}{34160}I miss you...
+{34187}{34264}...Victoria Lynn.
+{34562}{34647}That's silly, isn't it?
+{34749}{34829}I'll see you later.
+{34836}{34919}I'll see you much later.
+{35030}{35111}Once more with feeling on three.
+{35117}{35250}Damn it, Cooley. Do it on three,|or go on the street.
+{35324}{35404}{y:i}Silent night
+{35410}{35475}Are you telling me|Riggs is playing a game?
+{35481}{35563}Sure. He wants the cash.|But he'll come around.
+{35569}{35623}That's a very dangerous|attitude to take.
+{35629}{35744}Remember, his wife of 11 years|was just killed in a car accident.
+{35750}{35841}- He pulls his gun when he shouldn't.|- I know all about him.
+{35847}{35875}He's a tough bastard.
+{35881}{35958}He's on the edge. I'm telling you,|he may be psychotic.
+{35964}{36010}That's a bunch of psych bullshit.
+{36016}{36087}You're making a mistake|by keeping him in the field.
+{36093}{36133}The man is suicidal.
+{36139}{36207}You're sure of that diagnosis?|You have no doubts?
+{36213}{36253}There are no absolutes in life.
+{36259}{36323}End of discussion.|We're going to wait.
+{36329}{36391}If he offs himself,|then we'll know I was wrong.
+{36397}{36514}You're making a mistake,|because if you're wrong...
+{36649}{36696}Asshole!
+{36702}{36765}Roger, you're|way behind the times.
+{36771}{36868}The guys in the '80s aren't tough.|They're sensitive people.
+{36874}{36983}They show emotions around women,|shit like that.
+{36988}{37025}I think I'm an '80s man.
+{37031}{37067}How do you figure?
+{37073}{37111}Last night...
+{37117}{37202}...I cried in bed. How's that?
+{37238}{37283}Were you with a woman?
+{37289}{37372}I was alone. Why do you think|I was crying? Merry Christmas.
+{37378}{37443}Sounds like an '80s man to me.
+{37449}{37505}- News on the Hunsaker case.|- That was quick.
+{37511}{37602}So was the autopsy.|They're not calling it a suicide.
+{37608}{37713}Surprise, surprise. The coroner|found evidence she used barbiturates.
+{37719}{37754}Brilliant detective work.
+{37760}{37802}There were pills all over.
+{37808}{37866}Right. That's not the surprise.
+{37872}{37939}The surprise is|the pills were doctored.
+{37945}{38004}The capsules were loaded|with drain cleaner.
+{38010}{38038}She'd have died anyway.
+{38044}{38068}This case stinks.
+{38074}{38173}You know,|you looked younger with the beard.
+{38179}{38249}Thanks, captain.
+{38256}{38287}You shaved the beard.
+{38293}{38330}Some detective.
+{38336}{38383}Two more things.
+{38389}{38450}The condition|of the sheets indicates...
+{38456}{38527}...someone else was|in bed with Amanda. That's "A".
+{38533}{38558}What's "B"?
+{38564}{38645}"B" is, you're breaking in|a new partner on this.
+{38651}{38675}Partner again?
+{38681}{38766}Some cat on loan from Dope.|Real burnout, on the edge.
+{38772}{38834}Perfect.
+{38860}{38920}Gun!
+{39049}{39127}Rog, meet your new partner.
+{39181}{39282}I'm too old for this shit.
+{39348}{39407}There are those who|say you're a good cop.
+{39413}{39457}I try.
+{39463}{39596}I heard about the little|stunt yesterday. Pretty heroic.
+{39613}{39655}I pulled your file.
+{39661}{39750}Said you worked in the Phoenix|project in Vietnam. That right?
+{39756}{39833}Assassination stuff.|It's over, you know.
+{39839}{39881}What is?
+{39887}{39911}The war.
+{39917}{39957}Yes, I know.
+{39963}{40040}Just thought I'd remind you.
+{40054}{40139}That's some serious shit you carry.
+{40145}{40222}Be my guest.
+{40301}{40393}9mm Beretta. Takes 15 in the mag,|one up the pipe...
+{40399}{40489}...wide ejection port, no feed jams.
+{40495}{40521}What have you got?
+{40527}{40591}Four-inch Smith.
+{40591}{40654}Six-shooter?
+{40655}{40730}A lot of old-timers carry those.
+{40798}{40861}File also said you're heavy|into martial arts.
+{40867}{40950}Tai chi and all that killer stuff.
+{40956}{41049}I suppose we have to register you|as a lethal weapon.
+{41055}{41147}Let's just cut the shit.|We both know why I was transferred.
+{41153}{41257}Everybody thinks I'm suicidal,|so nobody wants to work with me.
+{41263}{41322}Some think I'm faking|to draw psycho pension...
+{41328}{41422}...so nobody wants to work with me.|Basically, I'm fucked.
+{41428}{41457}Guess what?
+{41463}{41497}I don't want to work with you.
+{41503}{41525}Then don't.
+{41531}{41628}Ain't got no choice.|Looks like we both got fucked.
+{41634}{41694}Terrific.
+{41758}{41821}God hates me is what it is.
+{41827}{41917}Hate him back. It works for me.
+{42314}{42373}- Good afternoon, Mr. Mendez.|- How you doing?
+{42379}{42409}Did you pat him down?
+{42415}{42481}- We went through this already.|- Go through it again.
+{42487}{42518}Who are you?
+{42524}{42595}That's hardly important,|but you may call me Mr. Joshua.
+{42601}{42625}Let's go.
+{42631}{42724}Great, swell. Mr. Joshua, huh?
+{42801}{42884}General, Mr. Mendez is here.
+{42935}{43029}You call this music? I can get|a better band for half the price.
+{43035}{43160}I don't want to hear any of this shit.|Let's get it right.
+{43177}{43231}Mr. Mendez, how are you?
+{43237}{43274}I'm fine.
+{43280}{43338}Where did you get him?|Psychos "R" Us?
+{43344}{43377}I don't think you're funny.
+{43383}{43449}I don't think this whole|goddamn setup is funny.
+{43455}{43523}You're using mercenaries.|Tell me I'm wrong!
+{43529}{43561}You're not wrong.
+{43567}{43622}And you expect me to trust these bozos?
+{43628}{43685}My people are loyal to me.
+{43691}{43730}Bullshit.
+{43736}{43763}Do you smoke?
+{43769}{43817}What does that have to do with it?
+{43823}{43881}Do you smoke?!
+{43898}{43936}Give me your lighter.
+{43942}{43989}- My lighter?|- Your lighter!
+{43995}{44036}Okay. Right here.
+{44042}{44067}Here. Take it.
+{44073}{44141}What the fuck is wrong with you guys?
+{44147}{44178}Shut your mouth!
+{44184}{44221}Shut up!
+{44227}{44296}And don't move.
+{44359}{44457}Mr. Joshua, your left arm, please.
+{44631}{44733}Hey, you guys are fucking gone.|You know what I am saying?
+{44739}{44805}Jesus Christ, man!
+{44811}{44928}You guys are fucking|crazy, man. Come on!
+{45005}{45093}Have Endo look at that, Mr. Joshua.
+{45106}{45166}Yes, sir.
+{45172}{45223}You wish to do business with us, yes?
+{45229}{45257}Jesus Christ!
+{45263}{45346}You wish to make a purchase, yes?
+{45352}{45441}Yes, yes! Jesus Christ, yes.
+{45461}{45545}You guys are out there like|fucking Pluto, man. You're gone!
+{45551}{45651}The heroin will be here Friday night.|We'll make delivery at that time.
+{45657}{45709}Have the money ready, and no tricks.
+{45715}{45817}If you try anything,|you'll have to talk to Mr. Joshua.
+{45823}{45897}Right. Joshua. I got you.
+{45903}{45938}Merry Christmas.
+{45944}{46052}Yeah, right. You too, pal.
+{46297}{46349}Mike...
+{46355}{46486}...the autopsy report showed|that Amanda was poisoned.
+{46492}{46586}Even if she hadn't jumped,|she'd still be dead.
+{46591}{46692}She was murdered.
+{46761}{46832}Jesus!
+{46902}{47009}I can't take this.|I just can't take this.
+{47068}{47156}Why did you try|to get in touch with me?
+{47211}{47285}I heard that you were...
+{47291}{47396}Somebody told me you were|working out here.
+{47413}{47466}I thought you could get her out.
+{47472}{47547}Get her out of what?
+{47580}{47699}Get her out of the stuff she was into.|She was making...
+{47705}{47776}...videotapes.
+{47784}{47841}Pornographic...
+{47847}{47897}...videotapes.
+{47903}{48037}I thought maybe you could just|get her out. Help her.
+{48331}{48400}Easy, Mike.
+{48530}{48594}You owe me, Roger.
+{48600}{48661}Remember?
+{48802}{48848}I remember.
+{48854}{48953}I want you to find whoever's|responsible for this...
+{48959}{49052}...however many of them there are.
+{49080}{49174}I know you can do it.|Just find them and kill them.
+{49180}{49213}I'm a police officer.
+{49219}{49295}I don't give a shit|that you're a police officer!
+{49301}{49366}Kill them! Just kill them!
+{49372}{49414}Wait. Wait, Rog.
+{49420}{49480}Come on. You find them|and you kill them.
+{49486}{49597}You can do that. You owe me.
+{49657}{49726}I owe you.
+{49740}{49817}Gotta go, man.
+{49961}{50026}What did he mean|when he said you owed him?
+{50032}{50091}We served together in 1965.
+{50097}{50186}La Drang Valley. Saved my life.|Took a bayonet in the lungs.
+{50192}{50258}- That was nice of him.|- I thought so.
+{50264}{50339}- Want me to drive?|- You're supposed to be suicidal.
+{50345}{50410}Anybody who drives|in this town is suicidal.
+{50416}{50515}{y:i}All units, possible jumper|{y:i}at Santa Monica and Orlando.
+{50521}{50606}{y:i}7-A-21, handle code two.
+{50612}{50696}{y:i}- All units, come in, please.|- Gotcha!
+{50702}{50760}- What's the number of the car?|- 3-William-56.
+{50766}{50861}3-William-56 en route.|I love this job! It's so exciting!
+{50867}{50968}{y:i}Copy.|{y:i}Police psychologist on the way.
+{50969}{51065}Hey, boss, can we put the sirens on?
+{51380}{51421}Guys, I'm glad you're here.
+{51427}{51485}- Where's the psychologist?|- Stuck in traffic.
+{51491}{51515}Who's this guy?
+{51521}{51624}Name's McCleary. He was at an|office party and just went outside.
+{51630}{51721}- You think he'll go?|- Seems serious enough. Who knows?
+{51727}{51775}- I can handle this.|- Are you qualified?
+{51781}{51850}- I've done it before.|- You're elected.
+{51856}{51934}- No guns, just bring him down.|- Roger.
+{51940}{52009}10-4.
+{52376}{52423}- Who are you?|- Riggs, Homicide.
+{52429}{52510}He's over there on the ledge.
+{52746}{52795}Merry Christmas.
+{52801}{52856}Leave me alone!
+{52862}{52889}What are you doing?
+{52895}{52941}None of your damn business!
+{52947}{52994}Fair enough.
+{53000}{53065}I'm just going to|come out there, okay?
+{53071}{53169}Don't!|You touch me, I'm gonna jump!
+{53172}{53222}Take it easy, for chrissake!
+{53228}{53296}I don't like this|any better than you do.
+{53302}{53345}I can't stand heights.
+{53351}{53380}This makes me dizzy.
+{53386}{53482}Just give me a chance|to talk to you.
+{53511}{53565}I'm gonna stand|on the ledge with you.
+{53571}{53646}Don't go. Not out on the ledge.
+{53652}{53734}You're not the first guy|to think of this, you know.
+{53740}{53819}A lot of people got problems|during this season.
+{53825}{53895}- You know shit!|- No, you're wrong, pal.
+{53901}{53958}You know nothing! Don't touch me!
+{53964}{54002}I didn't do anything wrong!
+{54008}{54078}I know that. It's not like|you're murdering anyone.
+{54084}{54135}- That's right!|- That's right.
+{54141}{54200}The only one I hurt is me! Me!
+{54206}{54291}That's right. I know|you're hurting. I get it.
+{54297}{54337}Don't come near me!
+{54343}{54400}Give me a break.|My boss is watching me.
+{54406}{54489}I got to make it look|like I'm trying to save you.
+{54495}{54552}Come on.
+{54554}{54646}I'm just gonna stand here|and talk to you. That's all.
+{54652}{54711}You won't try nothing?
+{54717}{54776}I'm square with you.|I won't try a thing.
+{54782}{54904}You think I want to fall off?|I promise, I'll just talk to you.
+{54910}{54944}All right.
+{54950}{55064}Here, you want a cigarette?|Come on, let's smoke, okay?
+{55070}{55096}Go on, take it.
+{55102}{55195}Take our time and both die of cancer.
+{55548}{55588}See this key?
+{55594}{55630}Bye-bye!
+{55636}{55661}You're crazy!
+{55667}{55762}You can jump, but you'd take me|with you, making you a murderer.
+{55768}{55820}- You bastard!|- You'd be killing a cop.
+{55826}{55863}Yeah, a psycho nut cop!
+{55869}{55920}I'm still a cop.|You coming in?
+{55926}{55988}- I'm jumping!|- Do you really want to jump?
+{55994}{56077}Do you want to?|That's fine with me. Come on!
+{56083}{56121}Let's do it, asshole.
+{56127}{56203}I want to do it.
+{56475}{56543}Shit!
+{56685}{56723}You want to go up again?
+{56729}{56807}Come on, it was great.
+{56826}{56889}Help me! Help me loose!
+{56895}{56937}He's trying to kill me!
+{56943}{57024}Did you see that?|He's out of his mind! He's crazy!
+{57030}{57084}I want my cuffs back.
+{57090}{57164}- Don't you touch me!|- What the fuck did you just do?
+{57170}{57246}I controlled the jump!|You wanted him down? He's down!
+{57252}{57284}Come here!
+{57290}{57364}Come here with me!
+{57590}{57649}Get in here!
+{57731}{57826}Okay, no bullshit!|You want to kill yourself?
+{57832}{57897}Shut up! Yes or no?|You want to die?
+{57903}{57945}I got the job done!
+{57951}{57994}Just answer the question!
+{58000}{58045}What do you want to hear, man?
+{58051}{58140}That sometimes I think about|eating a bullet?
+{58146}{58176}Well, I do!
+{58182}{58261}I got a special one for the occasion,|with a hollow point.
+{58267}{58351}Make sure it blows|the back of my goddamn head out!
+{58357}{58431}Every day I wake up and think|of a reason not to do it.
+{58437}{58501}Every single day.
+{58507}{58586}And you know why I don't?|This is gonna make you laugh.
+{58592}{58673}The job. Doing the job.|That's the reason.
+{58679}{58766}- You want to die!|- I don't. I'm not afraid of it.
+{58772}{58863}Here, take my gun. Don't nibble|on the barrel, pull the trigger.
+{58869}{58930}Be my guest!|Go ahead, if you're serious!
+{58936}{58991}You shouldn't tempt me.
+{58997}{59091}In your mouth. Bullet may go|through your ear and not kill you.
+{59097}{59182}Under the chin's just as good!
+{59552}{59663}You're not trying|to draw a psycho pension.
+{59667}{59752}You really are crazy.
+{59821}{59958}I'm hungry. I'm gonna go|and get something to eat.
+{60180}{60304}{y:i}I don't know. He's hurting. There's|{y:i}something eating away at this guy.
+{60310}{60420}{y:i}I think he's on the edge.|{y:i}I think Riggs has a death wish.
+{60426}{60540}Terrific. So you're|saying I should worry?
+{60546}{60585}I think you should worry.
+{60591}{60646}{y:i}When he goes,|{y:i}you don't want to be near him.
+{60652}{60725}Thank you, doctor.|You've been very helpful.
+{60731}{60802}You're welcome.
+{60882}{60977}I'm too old for this shit.
+{61006}{61035}You hungry?
+{61041}{61089}No! I'm not hungry.
+{61095}{61156}- Want me to drive?|- No! I'll drive!
+{61162}{61188}Get in that side!
+{61194}{61262}You drive.
+{61395}{61514}You get a bad personal call? What|is it? Did the stock market crash?
+{61520}{61612}Don't worry. Here, have a French fry.
+{61730}{61832}Fifty years old. What a birthday.|Fifty years old!
+{61838}{61956}Been on the force 20 years, not|a scratch on me. Got a wife, kids...
+{61962}{62078}...house, boat. I can kiss it all|goodbye because of your death wish.
+{62084}{62108}My life is over.
+{62114}{62153}Would you just shut up here?
+{62159}{62267}Why are you talking to me anyway?|I'm a dead man!
+{62271}{62397}I was driving before you were|an itch in your daddy's pants.
+{62471}{62511}- I didn't know that.|- Know what?
+{62517}{62584}That it was your birthday today.
+{62590}{62640}It was yesterday.
+{62646}{62752}Well, happy birthday for yesterday.
+{62791}{62841}Sincerely. Happy birthday, man.
+{62847}{62911}Thanks.
+{62938}{63067}Maybe we'll stay alive long enough|for me to buy you a present.
+{63085}{63128}Don't thank me now.
+{63134}{63267}It's the least I can do after|all the kindness you've shown me.
+{63532}{63610}Are you gonna tell me|where we're going?
+{63616}{63669}Are we together on this?
+{63675}{63780}Beverly Hills. We got an address|on Amanda Hunsaker's meal ticket.
+{63786}{63846}Remember, he's not a suspect yet.
+{63852}{63909}So we question him, not damage him.
+{63915}{63976}I won't hurt. You do all the talking.
+{63982}{64016}Let me do all the talking.
+{64022}{64106}Experience counts here.
+{64134}{64243}- You're not going to smoke in the car.|- Well, I am.
+{64244}{64289}What? Does this bother you?
+{64295}{64316}It bothers me.
+{64322}{64397}- Does it?|- Yeah.
+{64401}{64441}I'll open a window.
+{64447}{64576}That's not the point. I have to watch|out for my lungs, take care of myself.
+{64582}{64635}4241 coming up.
+{64641}{64697}Bingo.
+{64703}{64805}- Do we have a warrant?|- We don't need one with the gate club.
+{64811}{64897}Didn't take them long, huh?
+{64957}{65027}Hey, guys, go on in!|Make yourselves at home!
+{65033}{65101}Merry Christmas!
+{65124}{65217}Don't need a warrant|with an invitation.
+{65222}{65342}I saw this place on|"Lifestyles of the Rich and Shameless".
+{65542}{65613}Get the door.
+{65862}{65947}Nice and easy.
+{65978}{66083}- Looks like the Garden of Eden.|- Look at this!
+{66089}{66161}Paradise.
+{66202}{66245}Isn't that sweet?
+{66251}{66345}I'm thinking probable cause.
+{66608}{66672}Get the girls!
+{66678}{66721}Okay, asshole!
+{66727}{66769}Move! Come on! Get out!
+{66775}{66843}Fast! Move!
+{66849}{66919}Get your hands on that tree|and face each other!
+{66925}{66961}Hands in front of you!
+{66967}{67063}- My leg...|- Don't move it, or I'll break your arm.
+{67069}{67127}Got them!
+{67168}{67208}Show me your hands!
+{67214}{67258}Right now!
+{67264}{67345}Put your hands out there!
+{67426}{67457}See how easy that was?
+{67463}{67549}Boom! Still alive.|Now we question him. You know why?
+{67555}{67633}Because I didn't shoot him|or jump off a building with him.
+{67639}{67673}The building guy lived.
+{67679}{67721}The point being, no killing.
+{67727}{67776}- No killing, right.|- Right.
+{67782}{67831}Piece of cake. Now I'm happy.
+{67837}{67938}Read him his rights.|I'll stand here being happy.
+{67962}{68025}He's got a gun!
+{69038}{69138}You ever met anybody you didn't kill?
+{69177}{69270}Well, I haven't killed you yet.
+{69290}{69332}Don't do me no favors.
+{69338}{69412}Don't you worry.
+{69662}{69788}The coroner gave the body|a ride downtown.
+{69801}{69886}I guess we can get out of here.
+{69970}{70066}I'm sorry about that shit|I said out there.
+{70077}{70178}You saved my life. Thank you.
+{70293}{70365}I bet that hurt to say.
+{70389}{70456}You'll never know.
+{70469}{70504}Let's get a bite to eat.
+{70510}{70579}Get my shoes on.
+{70805}{70908}- Mom, Rog is coming.|- Okay, Carrie.
+{71090}{71186}Here's my welcoming committee!|Where's my daughter? Which one...?
+{71192}{71288}- Come on, Daddy.|- This one's my daughter!
+{71294}{71359}Home, both of you. Dinnertime.
+{71365}{71399}How are you doing?
+{71405}{71443}I am doing all right.
+{71449}{71495}Is that a crook?
+{71501}{71599}No, this is my new partner, Martin.
+{71655}{71710}I'm glad you're home|at a sensible hour.
+{71716}{71784}Well, I try to be a sensible dad.
+{71790}{71843}Come on in, Martin.
+{71849}{71905}Yeah, close the door.
+{71911}{72043}Hello, Nick. Get your legs|off the arm of the couch.
+{72048}{72179}How you doing? Is Mommy|in the kitchen? Let's sneak up on her.
+{72268}{72339}Hello, baby!|I want you to meet...
+{72345}{72412}I'd like you to meet|Daddy's new partner.
+{72418}{72456}- Martin Riggs.|- How are you?
+{72462}{72534}- This is my wife, Trish.|- Pleased to meet you.
+{72540}{72591}Martin's going to join us for dinner.
+{72597}{72671}- Roast okay with you?|- What's for dinner?
+{72677}{72747}We'll see what's for dinner.
+{72753}{72827}This is a brown, sticky...
+{72833}{72867}It's roast.
+{72873}{72930}How about a brown|roast-like substance?
+{72936}{73007}- Roger, you're being an asshole.|- I try not to be.
+{73013}{73054}- Want a drink?|- What do you got?
+{73060}{73124}We have Canadian Mist...
+{73130}{73253}- You like Canadian Mist?|- Honey, it's in the back.
+{73269}{73351}How come we didn't have fish?|I thought we had fish tonight.
+{73357}{73395}Don't worry about the fish.
+{73401}{73450}Getting defensive...|Ever go fishing?
+{73456}{73564}Not since I was a kid.|I used to go spearfishing.
+{73573}{73643}All I caught was a cold.
+{73665}{73706}I got that boat out there.
+{73712}{73763}Rianne, get the dessert.
+{73769}{73845}Rianne! Your mother said|get the dessert.
+{73851}{73927}- Get the dessert. Get to it!|- Shut up.
+{73933}{74044}Catalina Island. Nothing exciting,|but I catch my allotment.
+{74050}{74192}You can catch a few things out there.|I caught my wife out there.
+{74192}{74232}Nice fishing out there.
+{74238}{74280}Mr. Riggs, care for a tart?
+{74286}{74363}Thank you, yes. Call me Martin.
+{74370}{74412}Mr. Riggs.
+{74418}{74473}Sit down.
+{74479}{74581}Rianne, it's not the first time|we've had company.
+{74681}{74775}{y:i}My name is Carrie, I'm no fairy|{y:i}My sister's cherry
+{74781}{74864}{y:i}She's in love with a guy|{y:i}named Martin...
+{74870}{74893}Nicholas!
+{74899}{74964}Come on. It was really good!
+{74970}{75032}Yeah, Dad! Why don't you try it?
+{75038}{75097}It was good.
+{75122}{75159}Yeah, there you go.
+{75165}{75227}{y:i}I'm gonna find a partner|{y:i}My name is Roger
+{75233}{75332}{y:i}And I need to be modger|{y:i}And a secret hodger
+{75338}{75373}You need some help.
+{75379}{75450}I am awful!
+{75753}{75851}Hey, sarge! Thanks for|taking out the garbage.
+{75857}{75962}But, honey,|I'm entertaining our guest.
+{76012}{76056}What do you think?
+{76062}{76128}It's nice. You know|anything about boats?
+{76134}{76205}- I know what they cost.|- Can you sail this?
+{76211}{76288}What's wrong with you?|It's not a sailboat.
+{76294}{76327}That's what I thought.
+{76333}{76450}There's no trick. That's the front,|that's the back, water all around.
+{76456}{76557}Why you gotta make things|so complicated?
+{76617}{76712}I don't. Things get complicated|all by themselves.
+{76718}{76773}You mean Amanda Hunsaker's|murder, huh?
+{76779}{76847}Did I mention that? I didn't.
+{76853}{76938}Didn't have to.|I can read your mind.
+{76946}{77007}What's the matter with you?
+{77013}{77066}- Why is there a problem?|- There's no problem.
+{77072}{77125}You got one dead girl|and one dead guy.
+{77131}{77241}The guy kills the girl. We kill him|because he wants us to be dead guys.
+{77247}{77315}That's easy for you to say.
+{77321}{77366}A sugar daddy is dealing drugs.
+{77372}{77456}She said, did or saw something|she wasn't supposed to.
+{77462}{77561}He pitches her off the balcony|into the sweet by-and-by.
+{77567}{77621}That's why he came at us|with a shotgun today.
+{77627}{77727}I'm sorry. It's just a little|too neat. I can't swallow it.
+{77733}{77855}Of course it's neat.|What's wrong with neat? I like neat.
+{77861}{77955}By neat, you mean simple.
+{77981}{78031}- You okay?|- Watch out!
+{78037}{78095}What button did you push?
+{78101}{78171}Where's my manual?
+{78177}{78232}Is this what you're|looking for, captain?
+{78238}{78283}You asshole!
+{78289}{78395}Didn't mean to interrupt one of those|intellectual conversations...
+{78401}{78457}Mark asked me to a club|tomorrow night.
+{78463}{78536}- You're grounded. You know that.|- Please, Daddy?
+{78542}{78569}Which one is Mark?
+{78575}{78639}- The blond one.|- With pits in his face?
+{78645}{78677}Those are dimples.
+{78683}{78787}Pits. When he smiles, I can see|through his head. The answer is no.
+{78793}{78821}Have a heart, Rog.
+{78827}{78911}Hey, buddy. She smoked pot|in the house. She's grounded.
+{78917}{79006}Why can I have a beer|and I can't smoke a joint?
+{79012}{79042}It's not coke, you know.
+{79048}{79143}I'll tell you why.|Because now, at this moment...
+{79149}{79229}...beer is legal, grass ain't.|Right or wrong?
+{79235}{79258}It's wrong.
+{79264}{79321}Right.
+{79431}{79533}They sit there drinking six-packs|and I get grounded.
+{79536}{79587}I'm gonna go home.
+{79593}{79650}Did we resolve anything here tonight?
+{79656}{79724}Yeah, we resolved plenty.
+{79730}{79790}We know your wife|takes out the garbage...
+{79796}{79887}...your daughter smokes grass|and it's illegal...
+{79893}{79998}...and you don't know|a lot about boats.
+{80066}{80124}You got a hell of a nice family there.
+{80130}{80170}Thank you.
+{80176}{80224}I enjoyed the meal. Thanks a lot.
+{80230}{80346}Bullshit. But thanks anyway.
+{80460}{80532}You don't trust me at all, do you?
+{80538}{80652}I tell you what. You make it through|tomorrow without killing anybody...
+{80658}{80790}...especially me or yourself,|then I'll start trusting you.
+{80808}{80878}Fair enough.
+{80964}{81009}I do it real good, you know.
+{81015}{81073}Do what?
+{81116}{81222}When I was 19, I did a guy|in Laos from 1000 yards out.
+{81228}{81318}A rifle shot in high wind.
+{81340}{81383}Maybe eight...
+{81389}{81502}...or even 10 guys in the world|could have made that shot.
+{81574}{81673}It's the only thing I was ever good at.
+{81698}{81762}See you tomorrow.
+{81771}{81848}Yeah, see you.
+{81977}{82063}You really like my wife's cooking?
+{82184}{82230}No.
+{82236}{82303}See you tomorrow.
+{83368}{83422}- You looking for something?|- Aren't we all?
+{83428}{83553}You affiliated with any|law enforcement organization?
+{83677}{83716}How old are you?
+{83722}{83771}- Twenty-two.|- Bullshit.
+{83777}{83841}- Why? You like them younger?|- Yeah.
+{83847}{83923}Sixteen.
+{84001}{84067}A hundred bucks?|What'd you have in mind?
+{84073}{84167}I want you to come home|and watch television with me.
+{84173}{84289}- That's all?|- Yeah, "Three Stooges" are coming on.
+{84295}{84418}- Are you serious?|- Sure, I'm serious.
+{84793}{84878}Get out of there, Burbank.
+{85312}{85395}This is cute.
+{85449}{85550}What have we got here?|"Police evidence".
+{87862}{87932}Morning, Roger.|Here, have some coffee.
+{87938}{88055}I've been doing a lot of thinking|about the night Amanda Hunsaker died.
+{88061}{88105}- How did you get in?|- Trish let me in.
+{88111}{88163}- What time is it?|- Daytime.
+{88169}{88239}The night Amanda Hunsaker died, she...
+{88245}{88316}What was the name of that hooker|who witnessed the jump?
+{88322}{88407}Come on, we got to get up|and catch bad guys today.
+{88413}{88450}I'll get a shower.
+{88456}{88521}What was the name of that hooker?
+{88527}{88607}- Century City isn't her usual turf.|- Her name is Dixie!
+{88613}{88726}Give me that cup.|And get out of here!
+{88810}{88884}Someone was in bed with Amanda|the night she died.
+{88890}{88944}Until now, we assumed it was a man.
+{88950}{88990}Suppose it was Dixie.
+{88996}{89096}Disgusting, but okay. Let's say Dixie|put the drain cleaner in her pills.
+{89102}{89137}Say someone paid her.
+{89143}{89265}She thinks, "Amanda swallows a couple|downers and she's dead." Then Dixie...
+{89271}{89295}If it was her.
+{89301}{89423}If it was her. She's got time|to spritz the place up and get out.
+{89429}{89480}But Amanda jumps out the window.
+{89486}{89530}Or Dixie pushes her.
+{89536}{89606}She has to make a quick exit|because the body's public.
+{89612}{89648}So she hauls ass downstairs.
+{89654}{89702}People are saying, "What happened?"
+{89708}{89768}Somebody spots her,|and she says, "Shit!"
+{89774}{89825}That's right, she says, "Shit!"
+{89831}{89940}The point being that now|she has to cover her ass.
+{89950}{90088}So she grabs a flatfoot and says,|"Officer, I saw the whole thing."
+{90094}{90163}Right.
+{90218}{90256}That's pretty fucking thin.
+{90262}{90294}That's very thin.
+{90300}{90340}Thin's my middle name.
+{90346}{90432}Your wife's cooking, I'm not surprised.
+{90438}{90478}- What?|- Nothing.
+{90484}{90570}Those remarks won't get you|invited to Christmas dinner.
+{90576}{90678}My luck's changing|for the better every day.
+{90694}{90791}All right, baby, come to Roger.
+{90810}{90883}Center mass.
+{90994}{91076}Read them and weep.
+{91118}{91177}Do you sleep with that thing?
+{91183}{91222}I would if I slept.
+{91228}{91320}Step back. Let me show|what an old man can do.
+{91326}{91416}Just warming up,|just warming up.
+{91562}{91637}Watch carefully.
+{91926}{92016}Hey! Look at that, will you?|Not bad for an old man.
+{92022}{92111}Step aside, old man.
+{93421}{93501}Have a nice day.
+{93601}{93672}Shit!
+{93721}{93795}Uh-oh! The policemen are here!
+{93801}{93918}Yeah, you're right.|Hello, policemen!
+{94005}{94054}- How you doing?|- Fine.
+{94060}{94124}Are you going to bust Dixie?
+{94130}{94196}We're just going over there|for a cup of coffee.
+{94202}{94254}We're going over here|to have breakfast.
+{94260}{94313}You're gonna bust Dixie!
+{94319}{94416}You're gonna bust Dixie!
+{94508}{94621}- Like I said, thin.|- Probably nothing.
+{94895}{94990}Did you see that? Wasn't that great?
+{95041}{95076}What are you, a fag?
+{95082}{95160}Your coat's on fire!
+{95228}{95345}- Probably nothing.|- Thin. Very thin.
+{95361}{95428}You guys okay? Got all|your fingers and toes?
+{95434}{95486}Three-William-56.
+{95492}{95563}We got a fire and explosion|at 111 th and Larch.
+{95569}{95643}Request ambulance and fire department.
+{95649}{95707}Do it again! Do it again!
+{95713}{95783}- Give me a break, guys.|- Enough, enough!
+{95789}{95880}Do you think Dixie was home?
+{96108}{96164}What you got?
+{96170}{96204}Part of the device.
+{96210}{96268}This is artwork.|This is goddamn artwork.
+{96274}{96426}This is real pro stuff. I haven't seen|anything like this since the war.
+{96432}{96513}The CIA used to hire mercs.|They used the exact same setup.
+{96519}{96626}Mercury switches, gaflooey!|That's heavy shit.
+{96627}{96735}We got something.|The detective wants to see you.
+{96942}{96968}Okay, here it is.
+{96974}{97015}Some kids playing this morning...
+{97021}{97072}...one saw a guy checking the meter.
+{97078}{97129}- Where?|- Here at Dixie's.
+{97135}{97239}He was playing under the porch.|Says he saw the guy pretty good.
+{97245}{97327}- It could be a break.|- Those kids are 6 years old.
+{97333}{97395}- You call the gas company?|- Sure did.
+{97401}{97515}No one's supposed to check|that meter for at least a month.
+{97521}{97593}- Let me handle this.|- Be my guest.
+{97599}{97676}He's the little fellow|that saw the guy.
+{97682}{97753}My name is Detective Murtaugh.|What's yours?
+{97759}{97839}- Don't tell him your name.|- He'll put you in jail.
+{97845}{97876}You won't see your mom.
+{97882}{97973}It's all right. I won't|put you in jail. What's your name?
+{97979}{98059}- Don't tell him, Alfred.|- Alfred!
+{98065}{98145}This is Alfred! Hey, meet Alfred.|This is Alfred.
+{98151}{98217}Alfred, hi! How old are you?
+{98223}{98254}Six.
+{98260}{98346}Six years old. I bet you like Go-Bots.
+{98352}{98391}Is that a real gun?
+{98397}{98449}Yeah, this is a real gun.
+{98455}{98484}Do you kill people?
+{98490}{98593}No. If some guy is hurting someone,|I try to shoot him in the leg...
+{98599}{98631}...just to stop him.
+{98637}{98698}Mama says policemen|shoot black people.
+{98704}{98749}- Is it true?|- Yeah, is it true?
+{98755}{98835}Is that true?
+{98861}{98919}Maybe we ought to get|the kids some...
+{98925}{98958}Ice cream.
+{98964}{99026}You like ice cream?
+{99145}{99245}No, not you, Alfred.
+{99309}{99389}The man you saw,|did you get a good look at him?
+{99395}{99460}- I saw him.|- Great!
+{99466}{99576}Picture him in your head.|Close your eyes.
+{99582}{99638}Think what he looks like.
+{99644}{99676}Got it?
+{99682}{99747}Can you draw him?
+{99753}{99830}Give me some drawing paper|and crayons.
+{99836}{99891}- This is good.|- Can it, man.
+{99897}{99956}We're gonna put out|an APB on Big Bird.
+{99962}{100032}"All units. Large|yellow bird, silly voice."
+{100038}{100105}You're hilarious, Martin. It's enough.
+{100111}{100176}Tell me what he looks like.
+{100182}{100231}Was he black?
+{100237}{100299}Was he white?
+{100334}{100381}Was he tall?
+{100387}{100423}Tall like me?
+{100429}{100503}What color was his hair? Brown?
+{100509}{100551}Black?
+{100557}{100591}Blond?
+{100597}{100654}His hair was blond.
+{100660}{100741}What did he have on?|Did he have jeans on?
+{100747}{100777}It was paint.
+{100783}{100823}Pained?
+{100829}{100890}I don't know.
+{100916}{100962}Painted?
+{100968}{101050}Painted. A tattoo?
+{101052}{101151}Like Popeye?|A tattoo like Popeye? No?
+{101157}{101222}It was that.
+{101245}{101290}Like that?
+{101296}{101369}Exactly like that?
+{101372}{101426}I saw it good. This is it.
+{101432}{101470}I remember.
+{101476}{101514}Are you sure?
+{101520}{101588}It had a knife, even.
+{101828}{101914}Roger, that's a Special Forces tattoo.
+{101920}{101985}Really?
+{101989}{102109}A Special Forces tattoo,|mercury switches...
+{102168}{102267}What the hell|have we gotten into here?
+{102300}{102417}Wonder if there's an opening|in the fire department.
+{102625}{102659}Want to tell me about it?
+{102665}{102722}- About what?|- Don't bullshit me.
+{102728}{102810}Your daughter wasn't killed|for something she was into.
+{102816}{102906}She was killed|for something you're into.
+{102911}{102966}Stop me if I'm wrong.
+{102972}{103043}I don't know what you mean.
+{103049}{103129}Keep your hands|away from your pocket, okay?
+{103135}{103154}Easy, man.
+{103160}{103217}Fuck easy.
+{103253}{103346}You called me the other day|to blow the whistle, right?
+{103352}{103389}Blow the whistle on what?
+{103395}{103474}You were going to tell all,|so they killed your daughter.
+{103480}{103546}Tell me if I'm wrong.|Talk to me!
+{103552}{103605}They killed your daughter.
+{103611}{103685}They paid off a hooker to poison|your little girl.
+{103691}{103740}Chrissake!|I've got another daughter.
+{103746}{103831}- She'll be protected.|- You don't know these people.
+{103837}{103917}Acquaint me with them.
+{103965}{104043}It goes back to the war.
+{104083}{104222}I worked with a group called|"Air America". CIA front.
+{104240}{104314}They secretly ran|the entire war out of Laos.
+{104320}{104422}I was with a special unit called|"Shadow Company". Trained killers.
+{104428}{104512}When Charlie brought in heroin|to finance the VC government...
+{104518}{104590}...Shadow Company burned|the whole thing down.
+{104596}{104677}We killed everybody.
+{104761}{104807}We also formed a plan.
+{104813}{104877}Keep talking.
+{104989}{105074}A few years ago, Shadow Company|got together again.
+{105080}{105138}The war was over.
+{105144}{105231}But we still had our sources in Asia.
+{105237}{105289}We've been bringing it in|ever since.
+{105295}{105346}Bringing in what?
+{105352}{105390}Heroin.
+{105396}{105487}Two major shipments a year.
+{105532}{105602}It's all run by ex-CIA.
+{105608}{105670}Soldiers, mercs.
+{105676}{105725}You son of a bitch!
+{105731}{105824}If you had cold feet, why did|they kill Amanda? Why not you?
+{105830}{105888}- They can't. They need me.|- Why?
+{105894}{106052}My company is a perfect front. Makes|everything look great on tax reports.
+{106104}{106197}This is big business, Roger.
+{106276}{106334}Not anymore.
+{106340}{106387}I'm gonna burn it down.
+{106393}{106445}You can't. It's too big.
+{106451}{106529}These people are trained,|expert killers.
+{106535}{106633}Tell me about your next shipment:|Where it's coming in, how many...
+{106639}{106714}I can't tell you that, Roger.|I can't.
+{106720}{106868}I have another daughter. You can't|protect her. I'm in this too deep.
+{107293}{107417}Heroin.|You got off easy, you son of a bitch!
+{107876}{107907}You through?
+{107913}{107962}I haven't even started.
+{107968}{108083}{y:i}Gen. McAllister, this is Delta One.|{y:i}We're coming in. Over.
+{108089}{108147}- So your mission is accomplished?|{y:i}- Yes, sir.
+{108153}{108206}{y:i}Mr. Hunsaker is dead, sir.
+{108212}{108281}{y:i}I'm afraid, however,|{y:i}that another problem exists.
+{108287}{108325}{y:i}What is it? Explain.
+{108331}{108380}{y:i}Hunsaker spoke to the police.
+{108386}{108465}{y:i}- Are they dead?|{y:i}- No, I missed the opportunity.
+{108471}{108563}{y:i}Very disappointing. So the police|{y:i}may know the whole operation?
+{108569}{108618}{y:i}That is correct, sir.
+{108624}{108681}Joshua, it's time|we turned up the heat.
+{108687}{108758}Come on home.
+{109160}{109229}What's a nice Irish girl|like you doing out here?
+{109235}{109308}I'm looking for a guy,|had this girl in his stable.
+{109314}{109389}- Never seen her.|- She's in your line of work. You sure?
+{109395}{109454}- Sure. Why?|- I'm a police officer.
+{109460}{109561}Don't worry, I won't drag your|ass to jail...
+{110184}{110237}You wore your vest!
+{110243}{110336}That was smart, kid. Come on.
+{110352}{110445}Hold on! I'm on your side.
+{110472}{110540}Son of a bitch, that hurts!
+{110546}{110642}I'm pissed, Roger! Now I'm pissed.
+{110649}{110685}Look at your face!
+{110691}{110741}Two inches higher,|he'd have hit your head.
+{110747}{110808}Two inches lower,|I'd be a falsetto for life.
+{110814}{110897}I bet you'd sound nice too.
+{110902}{110987}- Where's my gun?|- Here.
+{111024}{111079}Oh, shit! Roger!
+{111085}{111144}The guy who shot me...
+{111150}{111232}The same albino jackrabbit|son of a bitch that did Hunsaker.
+{111238}{111262}You sure?
+{111268}{111330}I'm sure, man.|I never forget an asshole.
+{111336}{111388}I got an idea.
+{111394}{111480}We fly first class to Detroit|and lay low for a couple weeks.
+{111486}{111542}Come on, be serious.|What do we do?
+{111548}{111575}What else?
+{111581}{111644}We bury the fuckers.|And you know what else?
+{111650}{111762}We do this right, we get famous.|Do shaving ads. Girls. Money.
+{111768}{111831}With our luck, we'll do|Forest Lawn commercials.
+{111837}{111912}Bullshit! We got the edge.
+{111918}{112042}Roger, they think I'm dead.|I'm a corpse.
+{112155}{112226}Brilliant.
+{112238}{112317}Brilliant shit!
+{112351}{112392}{y:i}We got a body for you.
+{112398}{112482}He was at Hunsaker's place.|I saw him, he saw me.
+{112488}{112538}Get someone else to do it, okay?
+{112544}{112649}{y:i}Captain says give it to you.|{y:i}About two blocks from your house.
+{112655}{112746}Yeah, sure. He's probably blond|with big dimples.
+{112752}{112845}{y:i}How did you know that, sarge?
+{112853}{112905}Get in here!
+{112911}{112973}Trouble.
+{113016}{113146}They just gave a description|of the kid my daughter's dating.
+{113768}{113857}Let's be dark and quiet.
+{114811}{114901}The bastards got my daughter.
+{115139}{115174}What is it?
+{115180}{115199}Nothing.
+{115205}{115242}- What is it?!|- Nothing!
+{115248}{115351}Get back in your room.|Back in your room!
+{115729}{115775}{y:i}You have a beautiful daughter.
+{115781}{115901}{y:i}I'd stick by the phone to find out|{y:i}where to meet us.
+{116008}{116087}They got my kid.
+{116092}{116179}Bastards took my baby.
+{116705}{116782}{y:i}Sgt. McCaskey, pick up line three.
+{116788}{116829}Homicide, McCaskey speaking.
+{116835}{116866}This is KCOP news.
+{116872}{116977}We heard an officer was shot tonight.|Can you give us more information?
+{116983}{117072}Sgt. Martin Riggs was shot and killed.|Who is this?
+{117078}{117162}We'll send somebody right over.
+{117233}{117298}Bingo! Riggs is out of the picture.
+{117304}{117353}I want Murtaugh taken alive.
+{117359}{117418}He may not talk.
+{117424}{117507}We have his little girl.|He'll talk.
+{117856}{117961}You know they're gonna kill her,|don't you?
+{118003}{118111}And if you want her back,|you'll have to take her away from them.
+{118117}{118185}I know.
+{118278}{118378}We do this my way.|You shoot and you shoot to kill.
+{118384}{118490}Get as many as you can.|All you got to do is just not miss.
+{118496}{118570}I won't miss.
+{118581}{118688}We're going to get bloody on this one.
+{118751}{118829}Are you really crazy?
+{118858}{118950}Or are you as good|as you say you are?
+{118964}{119046}You're gonna have to trust me.
+{119105}{119174}Here we go.
+{119298}{119399}{y:i}We don't want your daughter.|{y:i}We want to know what Hunsaker told you.
+{119405}{119539}{y:i}Dry Lake. Victorville.|{y:i}Sunrise tomorrow. Be there.
+{123938}{123979}Murtaugh!
+{123985}{124019}Yes, that's right.
+{124025}{124074}Show me my daughter!
+{124080}{124185}Let me see her,|then I'll come quietly.
+{124315}{124354}He wants to see the girl.
+{124360}{124427}Get out.
+{124522}{124558}Daddy!
+{124564}{124626}Okay, baby! I'm here.
+{124632}{124678}Okay, it's all right.
+{124684}{124726}Simple exchange.
+{124732}{124818}You come with us,|the girl takes a walk.
+{124824}{124896}Let her go now.
+{124913}{124998}As I say, take your hands|out of your pockets.
+{125004}{125081}Sure thing, pal.
+{125136}{125197}It's alive.
+{125220}{125297}Let her go now, or we all die.
+{125303}{125331}Take him!
+{125337}{125367}He has a grenade!
+{125373}{125457}He's bluffing!|He wouldn't risk killing his daughter.
+{125463}{125500}If she's gonna die...
+{125506}{125625}...she's gonna die with me.|My way, not yours.
+{125712}{125817}Come on, Roger, get out of the way.|Move to your left. Come on!
+{125823}{125864}Put the pin back in.
+{125870}{125964}Officer Murtaugh, don't be foolish.|Look at the hardware.
+{125970}{126046}Move to your left.
+{126145}{126232}Look at the firepower.|You're grounded. Riggs is gone.
+{126238}{126289}Put the pin back in the grenade.
+{126295}{126339}If you come closer...
+{126345}{126377}...then we all die.
+{126383}{126490}No! I don't think so.
+{126645}{126725}Come on, honey.
+{126738}{126762}Just a smoker.
+{126768}{126825}Bingo.
+{126921}{126941}Where is he?
+{126947}{127004}It's Riggs.
+{127025}{127118}Rianne, get in the car!
+{127121}{127199}Get in the fucking car!
+{127593}{127631}Go, Rianne, go!
+{127637}{127732}Come on, cottontail,|stick your head up.
+{127738}{127835}That's it, you son of a bitch.|Good night.
+{127886}{127988}Don't try it, son.|You're not that fast.
+{127999}{128042}{y:i}Hello, Joshua. Hello, Joshua.
+{128048}{128103}- Yes, sir.|{y:i}- I got Riggs.
+{128109}{128211}He's got Riggs. Go get the girl!
+{129023}{129071}Throw your weapon down!
+{129077}{129170}Put your hands behind your head!
+{129231}{129323}You're Gen. Peter McAllister,|commander of Shadow Company.
+{129329}{129392}I see we've heard of each other.
+{129398}{129499}Yep. It'll almost be a shame|when I nail you.
+{129505}{129610}I ran into some of those Shadow Company|pussies in Saigon in '69.
+{129616}{129684}You did, did you?
+{130777}{130858}Leave me alone!
+{131462}{131521}Save your strength.|You'll need it.
+{131527}{131573}Who's the Chin?
+{131579}{131662}Endo, meet Mr. Martin Riggs.
+{131668}{131738}Endo has forgotten more|about dispensing pain...
+{131744}{131811}...than we'll ever know.
+{131819}{131860}See, we have a problem.
+{131866}{131916}Since we have Murtaugh...
+{131922}{131955}...we don't need you.
+{131961}{132079}- I believe in being thorough.|- I've heard that about you.
+{132095}{132171}Our problem, and yours too...
+{132177}{132248}...is we have a shipment|of merchandise to deliver.
+{132254}{132336}Why don't you just call it heroin?
+{132339}{132413}It's rather large, this shipment.
+{132419}{132464}It would be unfortunate...
+{132470}{132546}...if we showed up|to deliver our heroin...
+{132552}{132593}...and were surrounded by 50 cops.
+{132599}{132628}That would be too bad.
+{132634}{132688}Yes, it would be.
+{132694}{132763}So we have to find out|all the cops know.
+{132769}{132877}We don't know shit.|You did Hunsaker before he could say...
+{132897}{133019}I wish I could believe you.|Unfortunately, I don't.
+{133105}{133174}Now, if you tell me|everything you know...
+{133180}{133272}...I promise you I'll kill you quick.
+{133287}{133366}I told you everything I know.
+{133501}{133575}What is that thing?
+{133584}{133634}I'll tell you.
+{133640}{133726}It's electric shock treatment.
+{133737}{133848}We're in for a long night,|because I don't know shit.
+{133867}{133937}We'll see.
+{134110}{134169}Hit him again!
+{134375}{134432}Again!
+{134525}{134599}Tell me about the shipment!
+{134620}{134681}I'm gonna fucking kill both of you!
+{134687}{134781}Very funny.|What about the shipment?
+{134880}{134935}The shipment, Mr. Murtaugh.
+{134941}{135011}Go spit!
+{135017}{135076}Salt.
+{135411}{135517}Go spit, you son of a bitch.|Fuck you!
+{135523}{135561}This is getting nowhere.
+{135567}{135632}Mr. Large.
+{135769}{135800}He knows shit. We're safe.
+{135806}{135886}He'd have told us.|Nobody can take that.
+{135892}{135923}Fine.
+{135929}{136000}Badass soldier, huh?
+{136314}{136379}Get her up.
+{136465}{136528}Untie me and I'll kill|all of you bastards!
+{136534}{136575}Tell me what you know.
+{136581}{136683}Fuck you, bastard!|I'll kill you!
+{136825}{136905}Sorry, pal.|Say good night.
+{137392}{137469}That's a real good-looking|young woman...
+{137475}{137569}...you got there, Mr. Murtaugh.
+{137602}{137630}I've told you everything.
+{137636}{137671}We'll soon know, won't we?
+{137677}{137720}I'm warning you.
+{137726}{137751}Don't.
+{137757}{137816}Spare me, son. It's over.
+{137822}{137918}There's no more heroes|left in the world.
+{138012}{138079}Kill that son of a bitch!
+{138317}{138357}That asshole's getting away!
+{138363}{138416}Who's fucking next?
+{138422}{138459}McAllister!
+{138465}{138530}Who's next?
+{138567}{138605}Pretty thin, huh?
+{138611}{138683}Anorexic.
+{138826}{138880}- Let's do what the shepherd did.|- What?
+{138886}{138966}Get the flock out of here.
+{139215}{139250}Is it him?
+{139256}{139344}No. It's not Joshua.
+{141151}{141194}Halt! Stop! Stop!
+{141200}{141303}Get out of the fucking car!|Come on, now!
+{141334}{141397}Police officers!
+{141757}{141912}I'm a police officer. Give me|some backup and take care of the girl.
+{142596}{142640}He's going for the freeway!
+{142646}{142703}You okay?
+{142774}{142907}Cut over the 3rd Street bridge!|You'll get ahead of him.
+{142945}{143026}General McAllister...
+{143029}{143115}...time for you to die.
+{144239}{144304}Hold it!
+{144812}{144891}Get back in your car!
+{145384}{145472}Mind if I test drive your Audi?
+{145522}{145612}Stop the son of a bitch!
+{145697}{145756}Shit!
+{145770}{145839}He got my car!
+{145870}{145957}- Get back!|- Hey, man, I'm cool.
+{146187}{146263}Let's get out of here!
+{146325}{146386}Open the door!
+{146591}{146683}Kill that cop son of a bitch!
+{146704}{146799}No way you live. No way.
+{148826}{148878}- Gangway!|- Hold it now.
+{148884}{148972}- Police officer.|- Go ahead.
+{149066}{149142}Well, shit!|What now, kid?
+{149148}{149218}First thing, we get you to a hospital.
+{149224}{149279}Come on. Let's go.
+{149285}{149352}Don't breathe this stuff.|You'll see pink elephants.
+{149358}{149405}The slippery son of a bitch got away!
+{149411}{149512}- What do you mean he got away?|- Hey, fire me.
+{149551}{149581}Where you going?
+{149587}{149632}Sarge, I'm commandeering your car.
+{149638}{149668}What's the matter?
+{149674}{149735}My home!|The bastard knows where I live.
+{149741}{149805}I'll drive, Cochise.
+{149811}{149912}- I gotta look at him!|- He's all right.
+{149956}{150022}3-W-30 en route to|Sgt. Murtaugh's residence.
+{150028}{150120}Requesting additional units.
+{150893}{150943}Excuse me, sir.|May we help you?
+{150949}{151010}No, thank you.
+{151629}{151697}{y:i}Good morning, sir.
+{151703}{151782}{y:i}Tell me, what day is it?
+{151788}{151865}Goddamn Christmas!
+{151865}{151961}I'll give you a home|to come back to.
+{152358}{152448}Crazy son of a bitch!
+{152880}{152956}Give me that. Drop it.
+{153152}{153217}Looking for the general?
+{153223}{153352}He's barbecuing his nuts|on Hollywood Boulevard.
+{153501}{153563}What do you say, Jack?
+{153569}{153629}Like a shot at the title?
+{153635}{153712}Don't mind if I do.
+{154075}{154194}Okay, men! I'm Sgt. Murtaugh.|My responsibility here!
+{154200}{154240}{y:i}Watch commander is en route.
+{154246}{154366}{y:i}Until then, Sgt. Murtaugh|{y:i}is in charge on-site.
+{154429}{154516}Just keep the citizens clear.
+{154766}{154845}Keep everyone back!
+{155006}{155076}It's Sgt. Riggs' arrest.|I take full responsibility!
+{155082}{155176}The son of a bitch|killed two of our men!
+{155281}{155354}Get him, kid!|He's yours!
+{155675}{155754}Come on, Riggs! Come on!
+{155922}{156024}You want to quit now?|You want to quit?
+{156216}{156301}Give me your nightstick!
+{156504}{156543}Come on!
+{156549}{156620}Show me what you got!
+{156749}{156822}Eat this, sucker!
+{157401}{157445}Let them take him!
+{157451}{157524}Let me take him!
+{157539}{157614}No! Back off!
+{158507}{158577}Break his fucking neck!
+{158737}{158794}It's not worth it.
+{158904}{158973}You lose.
+{159143}{159232}Get that shit off my lawn!
+{159318}{159388}How you doing, kid?
+{159965}{160002}I got you.
+{160008}{160080}I got you, partner.
+{160927}{161016}Merry Christmas, Victoria Lynn.
+{161021}{161089}I love you.
+{161655}{161693}How are you?
+{161699}{161758}I'm going to be all right. You?
+{161764}{161832}I'm good.
+{161871}{161918}Give this to your dad, okay?
+{161924}{162013}It's a present for him.|Tell him I won't need it anymore.
+{162019}{162105}- It's a bullet.|- Yeah, it's a bullet.
+{162111}{162185}He'll understand.
+{162189}{162276}You want to come in?|We're building.
+{162286}{162370}No, I gotta go.
+{162389}{162446}You have a nice Christmas, though.
+{162452}{162503}Okay. You too.
+{162509}{162533}Okay. Bye.
+{162539}{162604}Bye.
+{162927}{162976}After all we've been through...
+{162982}{163083}...if you think I'm gonna eat|the world's worst turkey by myself...
+{163089}{163137}...you're crazy.
+{163143}{163211}- I'll tell you a little secret.|- What?
+{163217}{163286}I'm not crazy.
+{163312}{163350}I know.
+{163356}{163420}Oh, good. Let's eat.
+{163421}{163457}Hey, you know something?
+{163463}{163510}I think your daughter likes me.
+{163516}{163573}- If you touch her, I'll kill you.|- You'll try.
+{163579}{163694}- You mind if I bring a friend?|- Of course, bring a friend.
+{163859}{163912}I don't think the cat|will like this.
+{163918}{164004}I'll put five on the mutt.
+{164181}{164271}I'm too old for this.

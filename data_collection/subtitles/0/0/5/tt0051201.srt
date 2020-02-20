@@ -1,0 +1,1633 @@
+{285}{318}(gavel)
+{321}{389}Silence. Be upstanding in court.
+{392}{479}All persons who have|anything to do before my lords,
+{482}{603}the queen's justices of oyer and terminer|and general jail delivery
+{606}{686}for the jurisdiction|of the Central Criminal Court
+{689}{800}draw near and give your attendance.|God save the queen.
+{2942}{3040}What a beautiful day. I've been hoping|for a bit of sun for our homecoming.
+{3043}{3189}It's worth having the fog just to appreciate|the sunshine. Is there a draught?
+{3193}{3312}- Shall I roll up the window?|- Roll up your mouth. You talk too much.
+{3315}{3399}If I'd known how much you talked|I'd never have come out of my coma.
+{3403}{3458}- This thing weighs a ton.|- Now, now.
+{3461}{3596}We've been flat on our back|for two months, we'd better be careful.
+{3836}{3964}Lovely, lovely. It must be perfectly lovely|to live and work in the lnns of Court.
+{3967}{4027}How lucky you lawyers are.
+{4053}{4140}I almost married a lawyer.|I was in attendance for his appendectomy
+{4144}{4209}and we became engaged|as soon as he could sit up.
+{4212}{4285}And then peritonitis set in|and he went like that.
+{4288}{4362}He certainly was a lucky lawyer.
+{4646}{4739}Teeny-weeny steps, now. Remember|we had a teeny-weeny heart attack.
+{4742}{4794}Oh, shut up!
+{4797}{4846}Williams, my cane.
+{4996}{5045}Here he comes!
+{5314}{5411}Good afternoon. Thank you very much.|Everybody back to work.
+{5414}{5513}Sir Wilfrid, if you don't mind, I'd like|to read you a poem to welcome you back.
+{5516}{5616}Very touching. You can recite it|after office hours in your own time.
+{5619}{5679}Now back to work.|What's the matter with you?
+{5682}{5757}Nothing. I'm just happy|that you're your old self again.
+{5760}{5861}Any more sentimentality around here,|I shall go back to the hospital!
+{5864}{5950}They won't take him back.|He wasn't really discharged, you know,
+{5953}{6034}he was expelled for conduct|unbecoming a cardiac patient.
+{6037}{6148}Put these in water, blabbermouth!|Come on in, Carter.
+{6277}{6386}Look at this room.|It's ugly, old and musty.
+{6389}{6483}But I never knew|I could miss anything so much.
+{6486}{6564}- Missed you too, you musty old buzzard.|- Oh, thank you, sir.
+{6567}{6677}I'm not a religious man, but when they|carted you off, I went out and lit a candle.
+{6680}{6770}- Why, thank you, Carter.|- Actually, sir, I was lighting it for myself.
+{6774}{6865}If anything happened to you,|what would happen to me, after 37 years?
+{6868}{6943}37 years! Has it been all that long?
+{6946}{7066}Yes, sir. This is 1952, that was in October|191 5. The Shepherd's Bush murder.
+{7069}{7187}The chemist accused of putting|cyanide in his uncle's toothpaste.
+{7190}{7310}My first murder trial.|I was more frightened than the defendant.
+{7313}{7428}First time I rose to make an objection,|my wig fell off. Where's my wig?
+{7432}{7481}Right here.
+{7512}{7603}- I've guarded it with me life.|- I hope it still fits.
+{7606}{7675}I lost 30lbs in that wretched hospital.
+{7678}{7766}Still, I suppose my head isn't any smaller.
+{7887}{7937}What's all this?
+{7940}{8050}- We've put it in mothballs.|- Mothballs? Am I not to practise again?
+{8053}{8136}Of course. The solicitors|have been breaking down our doors.
+{8140}{8229}- I've got some interesting briefs for you.|- That's better.
+{8232}{8343}Divorce case, a tax appeal,|and an important marine insurance claim.
+{8346}{8426}- Nice smooth matters with excellent fees.|- No, Carter.
+{8429}{8534}I'm sorry, but you're not to undertake|any criminal cases. Your doctors have...
+{8537}{8645}Doctors! They've deprived me of alcohol,|tobacco, female companionship.
+{8648}{8711}If only they'd let me do|something worthwhile!
+{8714}{8739}Sorry, sir.
+{8742}{8830}Might as well get a bigger box,|more mothballs, put me away too.
+{8833}{8924}- 2.30, Sir Wilfrid. Time for our little nap!|- Oh, get out!
+{8928}{9030}Beddy-bye. We'd better go upstairs now,|get undressed and lie down.
+{9033}{9123}- We? What a nauseating prospect.|- Upstairs, please.
+{9126}{9187}Are you aware that, while on my sickbed,
+{9191}{9320}I seriously considered strangling you|with one of your own rubber tubes.
+{9323}{9466}I would then have admitted the crime,|retained myself for the defence.
+{9469}{9617}My lord, members of the jury, I hereby|enter a plea of justifiable homicide.
+{9620}{9741}For four months this alleged|angel of mercy has pored, probed,
+{9744}{9843}punctured, pillaged and plundered|my helpless body
+{9846}{9946}while tormenting my mind|with a steady drip of baby talk.
+{9949}{10012}Come along now, like a good boy. Oh, no.
+{10015}{10082}Take your hands off me,|or I'll strike you with my cane.
+{10085}{10168}- You wouldn't, it might break your cigars.|- What cigars?
+{10171}{10252}- The ones you're smuggling in your cane.|- Cane?
+{10420}{10497}You could be jailed for this.|You had no search warrant.
+{10500}{10580}In hospital he'd hide cigars and brandy|all over the place.
+{10583}{10649}We called him Wilfrid the fox.
+{10652}{10754}- I'm confiscating these.|- Can't I have just one?
+{10757}{10813}No. Upstairs.
+{10840}{10909}A few puffs after meals? Please.
+{10941}{11039}I'll do it. Some dark night when her back|is turned, I'll snatch her thermometer
+{11042}{11136}and plunge it between|her shoulder blades. So help me, I will.
+{11139}{11294}Oh, no, sir. You mustn't walk up. We've|installed something for you here. It's a lift.
+{11298}{11390}A lift? I'm sick of this plot|to make me a helpless invalid.
+{11394}{11491}I think it's a splendid idea.|Let's try it, shall we?
+{11494}{11610}Out of there. I'll try it.|It's my lift because it was my heart attack.
+{11613}{11705}Here you are. Simply press this button|for up and this one for down.
+{11708}{11782}Carter, I warn you,|if this contraption should collapse,
+{11785}{11887}if the barrister|should fall off the bannister...
+{12065}{12129}Remarkable.|Smoothest flight I've had in years.
+{12132}{12250}- Upsy-daisy!|- Once more to get the feel of the controls.
+{12587}{12650}Good afternoon.|Is it possible to see Sir Wilfrid?
+{12653}{12720}I didn't make an appointment,|but this is urgent.
+{12723}{12837}If it's about a brief, I'm sorry, but we're|full. Sir Wilfrid has all that he can handle.
+{12840}{12892}I'm sure he'll want this brief.
+{12895}{12957}Serious criminal matter.
+{13008}{13088}Absolutely not, Mr Mayhew.|Sir Wilfrid is still convalescent.
+{13091}{13165}He can't accept anything|of an overstimulating nature.
+{13169}{13246}Put me on a diet of bland civil suits.|Hello, Mayhew.
+{13249}{13310}Hello. Distressing news about your health.
+{13313}{13401}It's tragic. You'd better get|a man with younger arteries.
+{13404}{13497}If you could just give us a few minutes.|This is Mr Leonard Vole.
+{13500}{13632}- He's in rather a ghastly mess, I'm afraid.|- How do you do, Mr Vole?
+{13635}{13709}Well, according to Mr Mayhew,|I'm not doing at all well.
+{13712}{13776}Sir Wilfrid! Sir Wilfrid!
+{13780}{13857}- You're dawdling again!|- Oh, shut up!
+{13860}{13959}Sorry, Mayhew. Try me again when|you've something not too stimulating.
+{13962}{14036}Like a postman bitten by a stray dog.
+{14179}{14305}I wish you could help us, Wilfrid, but|I quite understand. Take care of yourself.
+{14331}{14408}Mayhew! Mayhew!
+{14411}{14477}Oh, no. Sir Wilfrid, please.
+{14480}{14565}Don't worry, we won't take the brief,|but an old friend needs help.
+{14569}{14637}Surely I can give him a word of advice.
+{14640}{14734}Come on, I'll give you five minutes.|No, no, I don't want you, just Mayhew.
+{14738}{14802}Our nap! Sir Wilfrid! Our nap!
+{14806}{14870}You go ahead. Start it without me.
+{14895}{14965}This is your fault.|You should not have permitted it.
+{14968}{15058}It is not my fault. I distinctly told|Sir Wilfrid no criminal cases.
+{15061}{15120}Well, if it's anyone's fault,|I expect it's mine.
+{15124}{15200}Seems silly to me,|but Mr Mayhew thinks it's very urgent.
+{15204}{15298}- He thinks I may be arrested any minute.|- Arrested for what?
+{15302}{15352}Well, for murder.
+{15355}{15393}Oh!
+{15396}{15485}It's the case of Emily French.|You've probably seen reports in the press.
+{15489}{15580}Middle-aged widow, well-off,|living with a housekeeper at Hampstead.
+{15583}{15635}Mr Vole had been with her earlier.
+{15638}{15708}When the housekeeper returned,|she found her dead,
+{15711}{15765}struck on the back of the head|and killed.
+{15768}{15844}Vole seems caught|in a web of circumstantial evidence.
+{15847}{15940}Perhaps if I gave you the details you'd|suggest the strongest line of defence.
+{15943}{16030}- I'd probably think better with a cigar.|- Of course.
+{16033}{16130}No previous convictions. He's of good|character with an excellent war record.
+{16133}{16236}- You'd like him a lot.|- They've confiscated the matches. A light.
+{16239}{16340}The defence may turn on establishing|an alibi for the night of the murder.
+{16344}{16457}- I haven't got any. Let me get you some.|- Lord, no! You don't know Miss Plimsoll.
+{16460}{16524}This will take all our cunning.
+{16640}{16687}Young man!
+{16690}{16735}Come here, please.
+{16738}{16840}Your solicitor and I feel you may be able|to enlighten me on an important point.
+{16843}{16894}- Yes. Thank you.|- Sir Wilfrid!
+{16897}{16971}You're not in bed yet? Upstairs!
+{17051}{17109}- Give me a match.|- Sorry, I never carry them.
+{17112}{17183}- What? You said I'd like him.|- But I do have a lighter.
+{17186}{17268}You're quite right, Mayhew,|I do like him. Thank you.
+{17272}{17379}Can you imagine Miss Plimsoll's face|if she saw me now?
+{17382}{17486}Then let's make absolutely sure|that she doesn't.
+{17490}{17587}Splendid. All the instincts|of a skilled criminal.
+{17590}{17658}- Thank you, sir.|- Here.
+{17766}{17825}Whether or not you murdered|a middle-aged widow,
+{17828}{17919}you certainly saved the life|of an elderly barrister.
+{17922}{17976}I haven't murdered anybody. It's absurd.
+{17980}{18079}Christine, that's my wife, she thought|I may be implicated and needed a lawyer.
+{18082}{18159}That's why I went to see Mr Mayhew.|Now he thinks he needs a lawyer
+{18162}{18225}and now I have two lawyers.|It's rather silly.
+{18228}{18281}I am a solicitor. Sir Wilfrid is a barrister.
+{18284}{18359}Only a barrister can actually|plead a case in court.
+{18362}{18460}- Oh, I see.|- She shall not even find the ashes.
+{18532}{18602}- Sit down.|- Thank you.
+{18605}{18701}I saw in the paper that Mrs French had|been found dead with her head bashed in.
+{18704}{18822}It also said the police were anxious to|interview me since I visited that evening.
+{18825}{18919}- Naturally, I went to the police station.|- Did they caution you?
+{18922}{19009}I don't quite know.|They asked if I'd like to make a statement
+{19013}{19118}and said they'd write it down and it might|be used against me. Is that a caution?
+{19121}{19174}Well, it can't be helped now.
+{19177}{19282}- They seemed quite satisfied.|- They seemed satisfied, Mr Vole.
+{19285}{19377}He thinks that he made a statement|and that's the end of it. Isn't it obvious
+{19380}{19498}that you will be regarded as the principal|suspect? I'm afraid you'll be arrested.
+{19501}{19556}I've done nothing!|Why should I be arrested?
+{19559}{19661}This is England! You don't get arrested|or convicted for crimes you haven't done.
+{19665}{19727}We try not to make a habit of it.
+{19747}{19816}But it does happen, though, doesn't it?
+{19819}{19931}Of course. There was that case of|that fellow, whatshisname, Adolph Beck.
+{19934}{20012}In jail for years and they|suddenly found it was another chap.
+{20015}{20103}- He'd been innocent!|- Unfortunate, but restitution was made.
+{20106}{20208}He received a pardon, a bounty from the|crown, and was restored to normal life.
+{20211}{20302}That's all right for him. What if|it had been murder? What if he'd hanged?
+{20306}{20382}How would they have restored him|to his normal life then?
+{20385}{20490}Mr Vole, you must not take|such a morbid point of view.
+{20494}{20591}It's just when you say these things|are closing in on me, it's like a nightmare.
+{20594}{20706}Relax. You're in the hands of the finest,|most experienced barrister in London.
+{20709}{20795}Let's get this straight. I may have done|something highly unethical.
+{20798}{20886}I've taken your cigar|but I'm not taking your case. I can't.
+{20889}{21012}I'm forbidden. My doctors would never|allow it. I'm truly sorry, young man.
+{21015}{21085}But if you'd like the case|handled by these chambers,
+{21088}{21180}- I'd recommend Mr Brogan-Moore.|- Yes. A very able man.
+{21183}{21316}- I second Sir Wilfrid's recommendation.|- All right, sir, if you say so.
+{21393}{21442}Hold this.
+{21522}{21550}Carter?
+{21553}{21647}I would like to see Brogan-Moore here|as soon as he comes in from court.
+{21650}{21721}Sir Wilfrid, I have never|known such insubordination.
+{21723}{21779}Not even as a nurse during the war.
+{21782}{21873}What war was that?|The Crimean War, no doubt.
+{21897}{21980}You'll like Brogan-Moore,|he's had excellent training. Under me.
+{21984}{22078}This morning I had no lawyers at all|and now suddenly I have three.
+{22082}{22147}We should explain|that I have very little money.
+{22150}{22206}I shan't be able to pay|all the costs and fees.
+{22210}{22264}We'll get a fourth lawyer to sue you.
+{22267}{22342}He won't get very much.|I haven't had a job in four months.
+{22345}{22418}- What sort of work do you do?|- Well, uh...
+{22422}{22552}My last job was as a mechanic.|The foreman kept riding me all the time.
+{22555}{22635}- I took it as long as I could, then I quit.|- And before that?
+{22638}{22742}I worked in a department store, in toys,|demonstrating children's building sets.
+{22745}{22863}Of course, it lasted only during Christmas.|Before that I tested electric blankets.
+{22866}{22979}- Electric blankets?|- I suppose you think I'm a bit of a drifter.
+{22983}{23044}It's true, in a way,|but I'm really not like that.
+{23047}{23157}My army service unsettled me. That and|living abroad. I was stationed in Germany.
+{23160}{23224}It was fine there, though.|That's where I met my wife.
+{23228}{23338}She was an actress, and a good one.|She's a wonderful wife to me, too.
+{23341}{23406}But I haven't been much of a provider,|I'm afraid.
+{23409}{23520}Somehow, I just don't seem able to settle|down now I've come back to this country.
+{23523}{23621}- If I could just put my eggbeater across.|- Eggbeater?
+{23634}{23759}Yes, sir. I, uh, I'm a bit of an inventor.|Nothing big, just little household things.
+{23762}{23839}Pocket pencil sharpeners,|key chain flashlights.
+{23842}{23896}But my best is really this eggbeater.
+{23899}{23982}It not only beats,|it also separates the yolk from the white.
+{23986}{24043}Is that really desirable?
+{24046}{24108}If you were a housewife,|you'd see it right away.
+{24111}{24188}The trouble is, I need money|for manufacturing and promotion.
+{24191}{24288}I was really hoping that's what Mrs|French might do for me after I met her.
+{24291}{24420}- Exactly how did you meet Mrs French?|- That's rather funny in itself.
+{24424}{24514}It was 3 September. I remember|because it's my wife's birthday.
+{24517}{24585}I was window-shopping in Oxford Street,
+{24588}{24707}daydreaming about what I'd buy for her,|if I had any money.
+{25834}{25884}- You really like this one?|- Very much.
+{25888}{25948}- You don't think it's too mad?|- Mad?
+{25951}{26059}Not at all. Daring, perhaps. I wouldn't|recommend it to every woman. But you?
+{26062}{26130}- Why shouldn't you attract attention?|- You think so?
+{26134}{26215}Absolutely. But if I could|suggest one little thing.
+{26218}{26322}Perhaps we could tip it and bring it back|a bit like that. Show more of your face.
+{26325}{26354}(squealing brakes)
+{26357}{26425}- My bus. Goodbye.|- Good...
+{26451}{26511}You buy that hat. I insist.
+{26533}{26648}Actually, it was a ridiculous sort of hat -|a silly thing with ribbons and flowers.
+{26651}{26757}I'm constantly surprised that women's|hats do not provoke more murders.
+{26760}{26793}Go on, please.
+{26796}{26857}I was only trying to be nice|to make her feel good.
+{26860}{26916}I never dreamed I'd see her again.|Or the hat.
+{26919}{26972}- But you did?|- Yes, a few weeks later.
+{26975}{27112}Again, by accident. I was peddling my|eggbeaters and business was a little slow.
+{27171}{27236}(gunfire and action-sequence music)
+{27675}{27748}Would you mind, madam? Your hat.
+{27751}{27807}- Oh, it's you!|- Hello!
+{27810}{27892}It's your fault, you know.|You chose it yourself.
+{27895}{27948}- May l?|- Sure, if you like.
+{28042}{28153}Thank you. It's such a bother|taking it off and putting it back on again.
+{28156}{28277}That chap is Jesse James. They've led|him into an ambush. It's not at all cricket.
+{28281}{28340}- Don't worry, he shoots his way out.|- He does?
+{28343}{28410}- I've seen it. I got to the movies a lot.|- You do?
+{28413}{28541}I get restless so I go out. Then I find|I've no place to go so I go to the movies.
+{28544}{28645}Sometimes I see the same one|two or three times. Ooh.
+{28649}{28711}- Toffee?|- Oh, yes, please.
+{28714}{28786}At this time you had no idea|that Mrs French was well-off?
+{28789}{28865}No. Absolutely not.|We were sitting in the cheap seats.
+{28869}{28960}All I knew was she seemed to be|very lonely, had no friends whatsoever.
+{28964}{29030}She and her husband|lived abroad in British Nigeria.
+{29033}{29143}He was in the colonial service.|He died in '45, of a heart attack.
+{29146}{29225}Please, Mayhew, not when I'm smoking.|Go on, young man.
+{29228}{29306}Well, they finally|polished off Jesse James,
+{29309}{29391}and after we left the movie|she invited me to her house for tea.
+{29394}{29443}(Mrs French laughs)
+{29486}{29580}I think it's the most fascinating thing|I've ever seen. Janet, come and look.
+{29584}{29632}I've seen eggbeaters before, ma'am.
+{29635}{29709}But this beats so quickly|and it separates too!
+{29712}{29785}It must be cen-trifugal|or centrifugal, which is it?
+{29788}{29851}It's specific gravity,|but it whips cream too.
+{29854}{29929}Did you hear that, Janet?|It whips cream too.
+{29932}{29993}We must have one. Is it expensive?
+{29996}{30078}Compliments of the inventor,|manufacturer and sole distributor.
+{30081}{30177}Thank you. We'll use it constantly,|won't we, Janet?
+{30180}{30291}Come, we'd better get out of here.|Janet doesn't like visitors in her kitchen.
+{30456}{30494}Ha!
+{30542}{30620}It's a bit chilly in here, isn't it?|Shall we have a fire?
+{30624}{30673}Why not?
+{30676}{30739}This is a charming room.
+{30742}{30846}Hubert and I collected all these things|when we lived in Africa.
+{30849}{30902}Hubert was my husband.
+{30928}{30995}Well, now, there's a loveable chap.
+{30998}{31057}That's the mask of the witch doctor.
+{31060}{31120}He wore it when he pulled|our servants' teeth.
+{31123}{31214}So Hubert used to call him a witch dentist.
+{31237}{31316}- Hubert was so witty.|- Yes, I can see that.
+{31319}{31372}Oh, here's tea.
+{31431}{31544}- Let's use our good silver and china.|- Oh, no, don't bother, Mrs French.
+{31547}{31619}- This is perfectly all right.|- Lemon or milk, please?
+{31622}{31681}- I don't really care.|- Would you prefer sherry?
+{31684}{31733}- That'd be fine.|- We've no' got any.
+{31736}{31840}Oh, but we have. There's that bottle,|the one we bought last Christmas.
+{31843}{31963}If you care for an eggnog there's a wasted|egg in the kitchen ready and separated.
+{31967}{32083}Do sit down. Don't mind Janet, Mr Vole.|It's just that she's terribly Scotch.
+{32086}{32171}Oh, is she? I thought|she came with the collection.
+{32197}{32292}You know, maybe|I'll take a glass of sherry myself.
+{32295}{32363}I feel like Christmas, somehow.
+{32392}{32504}After that I saw her once or twice a week.|She always kept a bottle of sherry for me.
+{32507}{32580}We'd talk, play canasta,|listen to gramophone records,
+{32583}{32635}Gilbert and Sullivan mostly.
+{32638}{32742}It's so weird to think of her now,|lying in that living room, murdered.
+{32745}{32854}I assure you she's been moved by now.|To leave her would be unfeeling, unlawful,
+{32857}{32906}and unsanitary.
+{32969}{33033}Tell Sir Wilfrid about|the evening of the murder.
+{33051}{33115}I went around to see her|about eight o'clock.
+{33118}{33189}She fixed a sandwich,|we talked, listened to The Mikado.
+{33192}{33290}I left about nine. I walked home.|I got there about half past.
+{33293}{33392}I can prove that. I can swear to it, in or out|of court, in the witness box, anywhere!
+{33394}{33459}How much money did you get|from Mrs French?
+{33462}{33511}- Nothing.|- The truth. How much?
+{33515}{33605}- Why should she give me any money?|- Because she was in love with you.
+{33608}{33657}That's ridiculous. She liked me.
+{33660}{33732}She pampered me like an aunt.|But that's all, I swear.
+{33735}{33802}- Why didn't you tell her you had a wife?|- I did!
+{33805}{33884}But you never took your wife along|when you went there. Why not?
+{33887}{33931}- Because...|- Because what?
+{33934}{34021}Because she was under the impression|we didn't get along too well.
+{34024}{34081}- Is that true?|- No! We love each other.
+{34084}{34179}- Then how did she get that impression?|- She just seemed to want to believe it.
+{34182}{34265}- You never corrected her. Why?|- I was afraid she'd lose interest.
+{34268}{34348}Because she was rich,|and you were after her money.
+{34351}{34401}Well, yes, in a way.
+{34417}{34533}I was hoping for a loan for my new|invention. Just a few hundred pounds.
+{34536}{34614}An honest business proposition, that's all.|Is that so wicked?
+{34617}{34669}You knew it was|the housekeeper's day off?
+{34672}{34737}- Well, yes.|- You went there because she'd be alone?
+{34740}{34802}No, because I thought|she might be lonely.
+{34805}{34895}All right, lonely. You and the rich|lonely widow all alone in that house
+{34899}{34967}with a gramophone blaring The Mikado.
+{34971}{35034}Perhaps you turned up|the volume to drown her cries.
+{35037}{35149}- When I left her she was alive!|- When Janet came back she was dead.
+{35151}{35246}The house had been ransacked! It said|in the papers. It must've been a burglar.
+{35249}{35329}I didn't do it. No matter|how bad things look, I didn't do it!
+{35332}{35437}You must believe me.|You do believe me, don't you?
+{35461}{35512}I do now, but I wasn't sure.
+{35515}{35598}That's why I subjected your eyes|and my arteries to that ordeal.
+{35601}{35657}- I'm sorry.|- That's all right.
+{35660}{35754}As for things looking bad, they|don't look bad, Mr Vole, they look terrible.
+{35757}{35860}- Apparently you've no alibi at all.|- But I have. I left Mrs French's at nine.
+{35863}{35943}- By bus or underground?|- No, I walked. It was a fine night.
+{35947}{36020}- Did anyone see you?|- Christine saw me when I got home.
+{36023}{36146}It was 9.26. I know because I went right to|work on a clock I've been tinkering with.
+{36150}{36216}- My wife will tell you.|- Your wife loves you, yes?
+{36219}{36274}Very much.|We're devoted to each other.
+{36277}{36403}You realise, Mr Vole, the testimony of a|devoted wife does not carry much weight.
+{36406}{36472}People might think|Christine would lie on my account?
+{36475}{36570}It has been known, Mr Vole.|Blood is thicker than evidence.
+{36599}{36714}- Ah, Brogan-Moore. Come in, come in.|- So good to have you out of hospital.
+{36717}{36834}I didn't get a full pardon, I'm out on|parole. You know Mr Mayhew, I believe.
+{36837}{36904}- This is his client, Mr Leonard Vole.|- How do you do?
+{36908}{36964}- How do you do?|- The Emily French murder.
+{36967}{37025}- Oh, how do you do?|- Badly, thank you.
+{37028}{37125}A mass of circumstantial evidence.|No alibi whatsoever. It's a hot potato.
+{37128}{37183}- Tossing it into your lap.|- Much obliged.
+{37186}{37261}Your line of defence,|however, will be lack of motive.
+{37265}{37340}You will agree that we can rule out|a crime of passion, hm?
+{37343}{37409}That leaves us with a murder for profit.
+{37413}{37512}If Mr Vole had been sponging off Mrs|French, why cut off the source of supply?
+{37515}{37625}Or, if he'd been hoping for a golden egg,|why kill the goose before it was laid?
+{37628}{37701}No motive. No motive whatsoever.
+{37738}{37858}- You find some flaw in this reasoning?|- No, no, it's very sound as far as it goes.
+{37861}{37966}Well, it's all yours. You'll find Mr Vole|very responsive and quite candid.
+{37969}{38051}So candid, he's already told me|we'll have to sue him for our fees.
+{38054}{38146}Oh, we'll simply put a lean|on Mr Vole's 80,000.
+{38149}{38254}- What 80,000?|- The 80,000 Mrs French left you.
+{38257}{38285}Left me?
+{38288}{38413}They opened Mrs French's|bank vault today and found her will.
+{38432}{38537}- Congratulations.|- 80,000!
+{38540}{38625}And I was worried about a couple|of hundred for that silly eggbeater.
+{38628}{38677}I must call Christine.
+{38775}{38811}Oh.
+{38814}{38886}This doesn't make things|look any better for me, does it?
+{38889}{38972}- No. I wouldn't think so.|- So now they'll say I did have a motive.
+{38976}{39108}They will indeed. 80,000 makes for|a very handsome motive.
+{39111}{39176}I thought you were crazy|but now they will arrest me!
+{39179}{39227}It's not unlikely.
+{39252}{39311}(car pulls up)
+{39403}{39485}As a matter of fact, it's quite likely.|They're on their way up now.
+{39489}{39597}I knew nothing about that will. I'd no idea|she'd any intention of leaving me money.
+{39600}{39707}- If I didn't know, how can it be a motive?|- We'll certainly bring that out in court.
+{39710}{39818}- It's our old friend lnspector Hearne.|- Chief lnspector as of last month.
+{39821}{39909}Chief lnspector? They must think|a lot of you at Scotland Yard.
+{39912}{39977}You're getting the de luxe treatment.
+{39980}{40108}- Oh, in here, Chief lnspector.|- Sorry to disturb you in your chambers.
+{40111}{40201}That's perfectly all right.|I never object to the actions of the police
+{40204}{40297}- except once in a great while in court.|- Yes, sir, I still have the scars.
+{40300}{40358}You know Mr Mayhew, Mr Brogan-Moore.
+{40361}{40471}This is Leonard Vole. You'd better search|him, he may be armed with an eggbeater.
+{40474}{40539}- Is your name Leonard Vole?|- Yes, it is.
+{40542}{40678}I have a warrant for your arrest|on the charge of murdering Emily French.
+{40681}{40801}I must warn you that anything you say|may be taken down and used in evidence.
+{40805}{40875}Well, I'm ready. Must I be handcuffed?
+{40879}{40938}That won't be necessary, sir.
+{40941}{41027}I've never been arrested before,|not even for walking a dog off a lead
+{41030}{41122}- or having a beer after hours.|- There's no disgrace in being arrested.
+{41125}{41253}Kings, prime ministers, archbishops,|even barristers have stood in the dock.
+{41360}{41456}- Somebody better call my wife.|- I will, don't worry.
+{41459}{41513}I'll go too, see you're properly charged.
+{41516}{41586}- You will see to it that he is well-treated?|- We will.
+{41589}{41679}Would you like a cigar? Pardon me.
+{41705}{41824}- That's very kind of you, Sir Wilfrid.|- I'd better not. It would constitute a bribe.
+{41864}{41912}We ought to be going, Mr Vole.
+{42015}{42111}One thing I've learned for sure, never|look in a window with women's hats.
+{42114}{42163}Good day, sir.
+{42210}{42265}Makes a very nice impression,|doesn't he?
+{42268}{42372}- Yes, rather. Give him the monocle test?|- Passed with flying colours.
+{42375}{42459}I hope he does as well in the dock.|This is sticky, you know.
+{42462}{42554}Of course. The prosecution will|blast in with their heaviest artillery.
+{42557}{42667}All you'll have is one little popgun,|an alibi furnished by his wife.
+{42670}{42719}Isn't that an intriguing challenge?
+{42722}{42818}I think I'd like it more if it was less|of a challenge and less intriguing.
+{42840}{42963}Miss Plimsoll has issued an ultimatum.|In bed in one minute or she'll resign.
+{42966}{43047}Splendid. Give her a month's pay|and kick her down the stairs.
+{43051}{43126}Either you take care of yourself|or l, too, shall resign.
+{43129}{43190}This is blackmail.|But you're quite right.
+{43193}{43292}For my first day this has already|been rather hectic. I should be in bed.
+{43389}{43483}I'd better get in touch with Mrs Vole|and have her come over. Will you sit in?
+{43486}{43635}Thank you, no. I'm in no condition to cope|with emotional wives drenched in tears.
+{43659}{43786}Miss Plimsoll, how alluring you look,|waiting like a hangman on the scaffold.
+{43789}{43842}Take me, I'm yours.
+{43894}{43909}Oh!
+{43912}{44021}About Mrs Vole. Handle her gently,|especially when you tell her of the arrest.
+{44024}{44138}Bear in mind she's a foreigner, so prepare|for hysterics, even a fainting spell.
+{44141}{44241}Better have smelling salts ready,|box of tissues and a nip of brandy.
+{44244}{44329}(woman) I do not think|that will be necessary.
+{44403}{44464}I never faint in case I don't fall gracefully,
+{44468}{44559}and I never use smelling salts|because they puff up the eyes.
+{44562}{44622}I'm Christine Vole.
+{44625}{44689}How do you do?|This is Mr Brogan-Moore.
+{44692}{44741}How do you do?
+{44744}{44816}- I am Wilfrid Robarts.|- How do you do?
+{44819}{44890}My dear Mrs Vole, I'm afraid|we have bad news for you.
+{44892}{45012}- Don't be afraid, I'm quite disciplined.|- There's nothing to be alarmed about yet.
+{45015}{45102}Leonard has been arrested|and charged with murder. Is that it?
+{45105}{45187}- Yes.|- I knew he would be, I told him so.
+{45190}{45254}I'm glad you're showing such fortitude.
+{45257}{45330}Call it what you like.|What is the next step?
+{45344}{45407}Your husband will have|to stand trial, I'm afraid.
+{45410}{45535}Will you explain the procedure?|Mr Brogan-Moore will lead the defence.
+{45538}{45572}Oh?
+{45575}{45643}- You will not defend Leonard?|- Regrettably not.
+{45646}{45707}My health, or, rather,|the lack of it, forbids me.
+{45710}{45841}It is regrettable. Mr Mayhew described|you as champion of the hopeless cause.
+{45917}{46012}Is it, perhaps,|that this cause is too hopeless?
+{46182}{46302}I'll have a serious talk with Dr Harrison. It|was a mistake to let you come back here.
+{46305}{46367}I should have taken you|to a rest-home or a resort.
+{46370}{46429}Some place quiet, far off, like Bermuda.
+{46432}{46503}Shut up. You just want|to see me in those nasty shorts.
+{46506}{46585}Come now, Sir Wilfrid,|you must not think of it.
+{46588}{46684}You must get ready for sleep,|think beautiful thoughts.
+{46705}{46837}Now, let's get undressed. Put these on,|tops and bottoms, while I make your bed.
+{46840}{46913}After your rest|we'll have a nice cup of cocoa.
+{46916}{46990}Then perhaps|we'll have a walk around the square.
+{46992}{47057}You know, I feel sorry|for that nice Mr Vole.
+{47060}{47168}And not just because he was arrested,|but that wife of his. She must be German.
+{47171}{47283}That's what happens when we let our|boys cross the Channel. They go crazy.
+{47286}{47397}The government should do something|about foreign wives. Like an embargo.
+{47400}{47493}How else can we take care of our own|surplus. Don't you agree, Sir Wilfrid?
+{47497}{47554}All right. Hop in!
+{47580}{47638}Sir Wilfrid?
+{47705}{47747}Sir Wilfrid!
+{47750}{47794}Come back!
+{47802}{47916}Yes, of course I knew that Leonard had|been seeing Mrs French quite frequently.
+{47919}{47947}Go on.
+{47950}{48040}I knew when he came home with a pair|of green socks she'd knitted for him.
+{48043}{48120}That's quite natural.|I'm sure a jury will find it endearing.
+{48123}{48219}Leonard can be very endearing.|He hates that particular shade of green
+{48222}{48274}and the socks were two sizes too large,
+{48278}{48342}but he wore them just the same|to give her pleasure.
+{48345}{48394}Leonard has a way with women.
+{48398}{48536}I only hope he has an all-woman jury.|They will carry him from court in triumph.
+{48539}{48660}A simple acquittal will do. Now, you know|Mrs French left your husband money?
+{48663}{48713}Yes. A lot of money.
+{48717}{48833}Of course, your husband had|no previous knowledge of this bequest?
+{48837}{48890}Is that what he told you?
+{48894}{48953}Surely you're not suggesting different?
+{48956}{49053}Oh, no, no. I do not suggest anything.
+{49057}{49197}Clearly, she had come to look upon your|husband as a son or favourite nephew.
+{49213}{49305}You think Mrs French looked|upon Leonard as a son? Or a nephew?
+{49308}{49395}I do. An entirely natural|and understandable relationship.
+{49399}{49479}What hypocrites you are in this country.
+{49523}{49579}Pardon me, Brogan-Moore.
+{49582}{49694}- Do you mind if I ask you a question?|- Go right ahead, Sir Wilfrid.
+{49697}{49794}You realise your husband's entire|defence rests on his word and yours?
+{49797}{49878}- I realise that.|- And that the jury will be quite sceptical
+{49881}{49980}of the word of a man accused of murder|when supported only by that of his wife?
+{49983}{50051}- I realise that too.|- Let us, then, at least make sure
+{50054}{50146}- the two are not in conflict.|- By all means, let's.
+{50149}{50214}I assume you want to help your husband?
+{50216}{50353}Of course I want to help Leonard. I want|to help Mr Brogan-Moore and to help you.
+{50356}{50455}There. Isn't that|more comfortable for you?
+{50469}{50549}Now, Mrs Vole. This is very important.
+{50552}{50646}On the night of the murder your husband|came home before 9.30. Correct?
+{50649}{50730}Precisely. Isn't that|what he wants me to say?
+{50733}{50780}Isn't it the truth?
+{50783}{50828}Of course.
+{50831}{50901}But when I told the police,|I do not think they believed me.
+{50904}{50981}Maybe I didn't say it well.|Maybe because of my accent.
+{50984}{51040}My dear Mrs Vole, in our courts
+{51043}{51121}we accept the evidence|of witnesses who speak only Bulgarian
+{51124}{51187}and who must have an interpreter.
+{51191}{51269}We accept the evidence|of deaf-mutes who cannot speak at all,
+{51272}{51330}as long as they tell the truth.
+{51333}{51413}You're aware that when you're|in the witness box you will be sworn
+{51416}{51490}- and you will testify under oath?|- Yes.
+{51493}{51586}Leonard came home at 9.26 precisely|and did not go out again.
+{51589}{51713}The truth, the whole truth|and nothing but the truth. Is that better?
+{51750}{51873}- Mrs Vole, do you love your husband?|- Leonard thinks I do.
+{51876}{51967}- Well, do you?|- Am I already under oath?
+{51970}{52049}Whatever your gambit may be,|do you know that, under British law,
+{52052}{52149}you cannot be called to give testimony|damaging to your husband?
+{52152}{52206}How very convenient.
+{52209}{52260}We are dealing with a capital crime.
+{52264}{52355}The prosecution|will try to hang your husband.
+{52381}{52444}He is not my husband.
+{52597}{52656}Leonard and I went through|a form of marriage,
+{52659}{52753}but I had a husband living somewhere|in East Germany, in the Russian zone.
+{52756}{52851}- Did you tell Leonard?|- I did not. It would have been stupid.
+{52854}{52953}He would not have married me and|I'd have been left to starve in the rubble.
+{52956}{53019}But he did marry you|and brought you safely here.
+{53022}{53077}Don't you think you should be grateful?
+{53080}{53131}One can get very tired of gratitude.
+{53135}{53199}Your husband loves you|very much, does he not?
+{53202}{53282}Leonard?|He worships the ground I walk on.
+{53285}{53337}And you?
+{53340}{53397}You want to know too much.
+{53400}{53459}Auf Wiedersehen, gentlemen.
+{53486}{53615}Thank you for coming in, Mrs Vole.|Your visit has been most reassuring.
+{53618}{53731}Do not worry, Sir Wilfrid. I will give him|an alibi and I shall be very convincing.
+{53734}{53854}There will be tears in my eyes when I say|"Leonard came home at 9.26 precisely."
+{53857}{53950}You're a very remarkable woman,|Mrs Vole.
+{53976}{54035}And you're satisfied, I hope?
+{54068}{54202}- I'm damned if I'm satisfied!|- Care for a whiff of those smelling salts?
+{54205}{54266}That woman's up to something. But what?
+{54269}{54366}The prosecution will break her down|in no time when she's in the witness box.
+{54369}{54454}This case is going to be rather|like the charge of the Light Brigade
+{54457}{54547}or one of those Japanese suicide pilots.|Quite one-sided.
+{54551}{54608}With the odds all on the other side.
+{54611}{54673}I haven't got much to go on, have l?
+{54676}{54737}The fact is, I've got nothing.
+{54763}{54816}Let me ask you something.
+{54820}{54903}Do you believe Leonard Vole is innocent?
+{54975}{55023}Do you?
+{55056}{55115}Do you?
+{55118}{55167}I'm not sure.
+{55170}{55255}Oh, I'm sorry, Wilfrid.|Of course, I'll do my best.
+{55259}{55325}It's all right, Brogan-Moore.
+{55328}{55392}I'll take it from here.
+{55423}{55544}I have called Dr Harrison and given him|a report on your shocking behaviour.
+{55547}{55607}- Give me a match, Miss Plimsoll.|- Sir Wilfrid!
+{55610}{55682}Did you hear me? A match!
+{56444}{56588}Mr Mayhew. Sir Wilfrid. I'm told you are|going to represent me. I'm very grateful.
+{56591}{56720}I struck a bargain with my doctors. They|exile me to Bermuda as soon as we finish.
+{56724}{56786}- Thank you.|- There's hope that we'll both survive.
+{56789}{56843}- Get into these. We need a photograph.|- Why?
+{56847}{56896}This is what you were wearing that night.
+{56899}{56993}We'll circulate a photo on the chance|that someone saw you on your way home.
+{56996}{57054}Over here against the wall, please.
+{57115}{57183}Hold it.|One more in profile, please.
+{57187}{57271}Do we really need this? My wife knows|what time I came home that night.
+{57274}{57339}A disinterested witness|may be of more value.
+{57343}{57412}Yes, of course,|Christine is an interested witness.
+{57415}{57469}I'll pick up the negatives later. Thank you.
+{57472}{57571}I don't understand it.|Why hasn't she come to see me?
+{57599}{57684}Won't they let her see me?|I mean, it's been two weeks now.
+{57687}{57751}Mayhew, give me the reports.
+{57754}{57829}Have you been talking to her?|Is there something the matter?
+{57832}{57955}I want to read a portion of the evidence|of Janet McKenzie, the housekeeper.
+{58052}{58139}"Mr Vole helped Mrs French|with her business affairs,
+{58142}{58193}particularly her income tax returns."
+{58196}{58266}Oh, yes, I did. Some of those forms|are very complicated.
+{58269}{58347}There's also a hint you may|have helped her draft her new will.
+{58350}{58422}Well, that's not true!|If Janet said that she's lying.
+{58425}{58490}She was always against me,|I don't know why!
+{58493}{58642}It's obvious. You threw an eggbeater into|the wheels of her Victorian household.
+{58645}{58735}Now, this cut in your wrist.|You say you cut yourself with a knife?
+{58738}{58827}Well, that's true, I did.|I was cutting bread and the knife slipped.
+{58831}{58991}But that was two days after. Christine|was there. She'll tell them in her evidence.
+{59022}{59121}Are you keeping something from me?|Is she ill? Was she shocked?
+{59125}{59222}All things considered, she took it well.|Though that may be only on the surface.
+{59224}{59308}Wives are often profoundly|disturbed at such a time.
+{59312}{59384}Yes, it must be hard.|We've never been separated before.
+{59387}{59490}- Not since our first meeting.|- How did you meet your wife, Mr Vole?
+{59493}{59542}In Germany in 1945.
+{59569}{59706}It's rather funny. The very first time|I saw her, the ceiling fell right in on me.
+{59709}{59799}I was stationed outside Hamburg,|with an RAF maintenance unit.
+{59802}{59934}I'd just installed a shower in the officers'|billet, so they gave me a weekend pass.
+{59937}{59986}(music and cheers)
+{60016}{60040}(woman) Come on!
+{60044}{60080}# Join the party
+{60083}{60157}# Have a hearty glass of rum
+{60160}{60247}# Don't ever think about tomorrow
+{60250}{60324}# For tomorrow may never come
+{60352}{60431}# When I find me a happy place
+{60435}{60508}# That's where I wanna stay
+{60511}{60675}# Time is nothing|as long as I'm living it up this way
+{60679}{60794}# I may never go home any more
+{60797}{60880}# Dim the lights|and start locking the door
+{60883}{60961}# Give your arms to me|Give your charms to me
+{60964}{61051}# After all that's what sailors are for
+{61054}{61173}# I've got kisses and kisses galore
+{61176}{61255}# That have never been tasted before
+{61258}{61337}# If you treat me right|This could be the night
+{61340}{61376}# I may never go home
+{61382}{61418}# I may never go home
+{61424}{61464}# I may never go home
+{61470}{61506}# I may never go home
+{61510}{61593}# I may never go home any more
+{61688}{61801}# I may never go home any more
+{61804}{61880}Hey, Fraulein, show us some legs.
+{61883}{61981}They rob you blind|and then throw you a ruddy sailor!
+{61984}{62070}- Come on, let's see 'em.|- We want legs!
+{62087}{62164}Come help the cabaret out of her trousers!
+{62168}{62248}All right, Fraulein,|if you won't show 'em, I will.
+{62250}{62299}(cheering)
+{62501}{62550}(whistle)
+{62891}{62995}All right, outside, everybody.|Come on, let's go.
+{63325}{63351}Come on.
+{63397}{63466}Bring him round to the other truck.
+{63564}{63637}We'll be back, baby! We'll be back!
+{64533}{64582}Gesundheit.
+{64746}{64813}- What are you looking for?|- My accordion.
+{64815}{64865}Oh, let me help you.
+{64868}{64917}(discordant noise)
+{64943}{65039}- I think I found it.|- Step on it again, it's still breathing.
+{65042}{65078}(discordant noise)
+{65081}{65138}I'm terribly sorry.
+{65141}{65197}You better go. We've had trouble enough.
+{65200}{65297}Well, it's your own fault. That costume|in the picture gave the boys ideas
+{65300}{65404}- then those trousers let them down hard.|- That costume went in the first raid.
+{65407}{65492}Then raid by raid, my other dresses,|and now you've bombed my trousers.
+{65496}{65544}Cigarette? Gum?
+{65760}{65814}You're burning my nose.
+{65817}{65878}- Oh, I'm sorry.|- That's all right.
+{65881}{65941}How about a cup of coffee?|I've got a tin of coffee.
+{65944}{65982}How much?
+{65985}{66036}I don't know.|What's the rate of exchange?
+{66039}{66134}- Depends whether it's fresh or powdered.|- It's instant coffee.
+{66137}{66186}Got any hot water at your place?
+{66189}{66272}- Sometimes.|- Let's take a chance. Where do you live?
+{66275}{66313}Nearby.
+{66334}{66378}Come.
+{66531}{66582}Sorry, it's the maid's night off.
+{66586}{66672}This is pretty horrible.|In a gemutlich sort of way.
+{66675}{66762}Oh, it's fine now.|I used to have a roommate. A dancer.
+{66765}{66845}She had luck, she married a Canadian.|She now lives in Toronto.
+{66848}{66914}She has a Ford automobile.
+{66917}{66991}Make yourself comfortable,|the stove is slow these days.
+{66994}{67072}That's all right, I've got a weekend pass.
+{67076}{67162}No, not that chair. It holds up the|beam and that holds up the ceiling.
+{67165}{67223}You'd better sit down on the cot.
+{67226}{67266}The cot?
+{67270}{67354}Getting more gemutlich all the time.|Are you married?
+{67357}{67403}- Why?|- Well, the, um...
+{67406}{67470}Oh, that. No, no, I'm not married.
+{67473}{67567}I just wear it when I'm working.|Gives a little protection with all the men.
+{67570}{67683}- Didn't work too well tonight, did it?|- No, tonight was bad.
+{67687}{67740}But it's getting better.
+{67829}{67906}- Where's the coffee?|- Ah, coffee, ja voll.
+{67909}{68057}Finest Brazilian blend. The same brand|that Field Marshal Montgomery drinks.
+{68458}{68518}Is that a fair rate of exchange?
+{68522}{68571}Very fair.
+{68593}{68695}Would you be interested|in having the whole tin?
+{68698}{68747}I would.
+{68964}{69058}- How are you fixed for sugar?|- I could use some.
+{69062}{69104}Milk?
+{69107}{69151}Sure.
+{69192}{69247}Milk. Sugar.
+{69275}{69332}It's a pleasure to do business with you.
+{69335}{69379}Yeah.
+{69501}{69597}I also carry biscuits, powdered eggs,
+{69600}{69709}- bacon, marmalade.|- I don't know if I can afford it.
+{69713}{69812}Don't worry, we'll work out something,|like an instalment plan.
+{69815}{69898}# I may never go home any more
+{70045}{70117}I'm terribly sorry.|Now you have no ceiling.
+{70120}{70214}- Maybe I can fix it, I'm good at it.|- Why fix it? It's not raining.
+{70217}{70250}Ooh.
+{70253}{70327}- Are you all right?|- I think so. My head aches a little.
+{70330}{70384}Maybe I can fix it.
+{70387}{70436}I'm good at it.
+{70583}{70653}I had a weekend pass,|a month's pay in my pocket.
+{70656}{70748}- And she already had a wedding ring.|- Yes, that's right.
+{70751}{70830}We got married. When I got out|of the service I brought her here.
+{70834}{70926}It was wonderful.|I rented a little flat, Edgware Road.
+{70929}{71013}First time she saw it, she was so happy|she broke down and cried.
+{71016}{71130}Naturally. She had a solid roof|over her head and a British passport.
+{71133}{71266}You don't know her, how she feels about|me. You will when she gives evidence.
+{71269}{71387}Mr Vole, I must tell you|I am not putting her in the witness box.
+{71410}{71458}You're not? Why not?
+{71461}{71551}She's a foreigner, unfamiliar|with the subtleties of our language.
+{71554}{71612}The prosecution could easily trip her up.
+{71616}{71691}I hear it may be Mr Myers for the crown.|We can't take chances.
+{71694}{71795}Quite. We'd better be going. Miss Plimsoll|is waiting in the car with her pills
+{71797}{71881}- and a Thermos of lukewarm cocoa.|- Officer.
+{71885}{71996}- But Christine must give evidence.|- Mr Vole, you must learn to trust me.
+{71999}{72115}For no other reason than I'm a mean,|ill-tempered old man who hates to lose.
+{72118}{72183}Let us wish each other luck.
+{72310}{72450}Look, I can't face this without Christine.|I tell you, I need her. Without her I'm sunk.
+{72481}{72565}Touching, isn't it?|The way he counts on his wife.
+{72569}{72687}Yes. Like a drowning man|clutching at a razor blade.
+{73056}{73184}Leonard Stephen Vole, you are|charged on indictment for that you,
+{73188}{73286}on the 14th day of October,|in the county of London,
+{73289}{73359}murdered Emily Jane French.
+{73362}{73428}How say you, Leonard Stephen Vole?
+{73431}{73504}Are you guilty or not guilty?
+{73556}{73591}Not guilty.
+{73595}{73635}(murmuring)
+{73638}{73689}Members of the jury,
+{73693}{73807}the prisoner stands indicted for that he,|on the 1 4th day of October,
+{73810}{73879}murdered Emily Jane French.
+{73882}{73972}To this indictment|he has pleaded not guilty.
+{73975}{74066}And it is your charge to say,|having heard the evidence,
+{74069}{74141}whether he be guilty or not.
+{74243}{74324}Members of the jury,|by the oath which you have just taken,
+{74328}{74412}you have sworn|to try this case on the evidence.
+{74415}{74478}You must shut out|from your minds everything
+{74482}{74567}except what will take place in this court.
+{74571}{74655}You may proceed|for the prosecution, Mr Myers.
+{74658}{74744}May it please you, my lord.|Members of the jury,
+{74747}{74860}I appear in this case with my learned|friend, Mr Barton, for the prosecution.
+{74864}{74957}And my learned friends|Sir Wilfrid Robarts and Mr Brogan-Moore
+{74961}{75010}appear for the defence.
+{75105}{75161}I trust we are not to be deprived
+{75165}{75235}of the learned and stimulating|presence of Sir Wilfrid?
+{75238}{75341}My lord, may I assure my learned friend|that Sir Wilfrid is in the Old Bailey.
+{75344}{75421}He's slightly incapacitated,|but will be in his seat presently.
+{75425}{75549}My lord, may I express my regret that|Sir Wilfrid is even slightly incapacitated.
+{75552}{75681}You may, Mr Myers. You may also|proceed with the case for the prosecution.
+{75684}{75738}Thank you, my lord.
+{75742}{75836}The facts in this case are simple|and, to a point, not in dispute.
+{75840}{75939}You will hear how the prisoner made|the acquaintance of Mrs Emily French,
+{75942}{75979}a woman of 56.
+{75982}{76088}How he was treated by her|with kindness and even affection.
+{76092}{76153}On the night of October 14 last,
+{76157}{76252}between 9.30 and 10,|Mrs French was murdered.
+{76279}{76339}Medical testimony|will be introduced to prove
+{76342}{76422}that death was caused by a blow|from a blunt and heavy instrument,
+{76426}{76488}and it is the case for the prosecution
+{76491}{76568}that the blow was dealt|by the prisoner, Leonard Vole.
+{76572}{76621}That's not true! I didn't do it!
+{76624}{76647}(murmuring)
+{76684}{76751}Among the witnesses,|you will hear police evidence,
+{76753}{76846}also the evidence of Mrs French's|housekeeper, Janet McKenzie,
+{76849}{76916}and from the medical|and laboratory experts,
+{76919}{77054}and the evidence of the murdered|woman's solicitor, who drew her final will.
+{77057}{77148}I now call Chief lnspector Hearne,|Criminal lnvestigation Department,
+{77151}{77219}- New Scotland Yard.|- (man) Chief lnspector Hearne.
+{77222}{77296}- Chief lnspector Hearne.|- Chief lnspector Hearne.
+{77727}{77838}This is ridiculous. Just nervous heartburn.|I always get it the first day of a trial.
+{77842}{77905}240 above 1 30.|You shouldn't be here at all.
+{77908}{77983}- I should be in court, the trial's begun.|- Syringe, please.
+{77986}{78044}Be a good, brave boy, Sir Wilfrid.
+{78047}{78140}It may interest you to know|that I am descended from a warrior family
+{78143}{78271}which traces its brave past|back to Richard the Lion-Hearted.
+{78328}{78382}You're to have a calcium injection daily,
+{78385}{78478}- tranquillising pill every hour.|- I'll set my wristwatch alarm.
+{78481}{78577}Any pain or shortness of breath,|pop one of these nitroglycerin tablets
+{78580}{78645}under your tongue.|Oh, and I'll leave you some...
+{78649}{78750}That's enough, Doctor.|The judge will be asking for a saliva test.
+{78754}{78863}Carter, I'd better take|that Thermos of cocoa with me.
+{78867}{78934}- Helps me wash down the pills.|- Let me see it, please.
+{78937}{79067}My learned patient is not above|substituting brandy for cocoa.
+{79070}{79130}It is cocoa. So sorry.
+{79133}{79206}If you were a woman, Miss Plimsoll,|I would strike you.
+{79210}{79273}Take care of this, Carter.
+{79314}{79401}Now, Sir Wilfrid, in the courtroom,|you must avoid overexcitement.
+{79405}{79438}Yes, Doctor, yes, yes.
+{79441}{79507}Watch your temper.|Keep your blood pressure down.
+{79510}{79618}Thank you, Doctor, I shall be quite safe,|what with the pills and the cocoa.
+{79621}{79670}Come along, Carter.
+{79699}{79771}From the body temperature|and other factors,
+{79774}{79863}we placed the time of death|at between 9.30 and 1 0pm,
+{79866}{79999}approximately 30 minutes before Janet|McKenzie returned home and called us.
+{80014}{80148}Death was instantaneous, caused by one|blow from a heavy and blunt instrument.
+{80151}{80203}Were there any signs of a struggle?
+{80206}{80262}None. Just the one blow.
+{80266}{80360}Would that indicate that the murderer|had taken Mrs French by surprise?
+{80364}{80442}My lord, I must object.
+{80463}{80551}My learned friend refers|to the assailant as "the murderer".
+{80554}{80639}We have not yet determined whether|the assailant was a man or a woman.
+{80642}{80713}It could quite conceivably|have been "the murderess".
+{80716}{80859}Mr Myers, Sir Wilfrid has joined us just in|time to catch you on a point of grammar.
+{80862}{80914}Please rephrase your question.
+{80918}{81062}Yes, my lord. Inspector,|is it your opinion that the assailant,
+{81066}{81166}whether he, she or it,|had taken Mrs French by surprise?
+{81169}{81221}My lord, I am taken by surprise
+{81224}{81341}that my learned friend should try to solicit|from the witness an opinion, not a fact.
+{81344}{81414}Quite so. You'll have|to do better than that, Mr Myers.
+{81417}{81473}My lord, I withdraw the question entirely.
+{81476}{81540}- Is that better?|- That's much better.
+{81543}{81592}(murmuring)
+{81681}{81726}Silence! Silence!
+{81729}{81778}(gavel)
+{81805}{81875}Very well, lnspector,|let us proceed with the facts.
+{81878}{81983}After establishing the cause and the time|of death, what did you then do?
+{81986}{82078}A search was made, photographs were|taken and the premises fingerprinted.
+{82081}{82181}- What fingerprints did you discover?|- I found the fingerprints of Mrs French,
+{82184}{82292}those of Janet McKenzie, and some which|later proved to be those of Leonard Vole.
+{82294}{82347}- No others?|- No others.
+{82350}{82465}Did you say the room had the appearance|that a robbery had been committed?
+{82468}{82597}Yes. Things were strewn about and the|window had been broken near the catch.
+{82600}{82696}There was glass on the floor,|and fragments were found outside.
+{82700}{82830}The glass outside was not consistent with|the window being forced from the outside.
+{82833}{82995}You're saying that someone made it look|as if it had been forced from the outside?
+{82998}{83102}My lord, I must object. My learned friend|is putting words in the witness' mouth.
+{83105}{83175}After all, if he insists|on answering his own questions,
+{83178}{83261}the presence of the witness|would seem superfluous.
+{83264}{83322}Quite. Don't you think so, Mr Myers?
+{83325}{83374}Yes, my lord.
+{83401}{83436}Inspector,
+{83439}{83525}did you ascertain if any of the murdered|woman's property was missing?
+{83528}{83603}According to the housekeeper,|nothing was missing.
+{83606}{83740}In your experience, lnspector,|when burglars or burglaresses
+{83743}{83837}break into a house,|do they leave without taking anything?
+{83840}{83867}No, sir.
+{83870}{83940}- Do you produce a jacket, lnspector?|- Yes, sir.
+{83943}{83997}Is that the jacket?
+{84075}{84167}- Yes, sir.|- That is exhibit P1, my lord.
+{84170}{84219}Where did you find this, lnspector?
+{84222}{84283}That is the jacket|found in the prisoner's flat,
+{84287}{84346}which I handed to our lab|to test for bloodstains.
+{84349}{84409}- And did you find any bloodstains?|- Yes.
+{84412}{84473}Though an attempt|had been made to wash them out.
+{84476}{84521}What tests were made?
+{84524}{84625}First to determine|if the stains were human blood,
+{84629}{84686}then to classify it by group or type.
+{84689}{84754}And was the blood|of a particular group or type?
+{84757}{84827}Yes, sir. It is type O.
+{84830}{84908}And did you subsequently|test the blood of the dead woman?
+{84911}{84967}- Yes, sir.|- What type was that?
+{85002}{85059}- The same. Type O.|- (murmuring)
+{85062}{85153}Thank you, lnspector.|No further questions.
+{85156}{85277}Inspector, you say the only fingerprints|you found were those of Mrs French,
+{85280}{85339}Janet McKenzie and Leonard Vole.
+{85342}{85461}In your experience, when a burglar breaks|in, does he usually leave fingerprints
+{85464}{85520}- or does he wear gloves?|- He wears gloves.
+{85523}{85580}So the absence|of fingerprints in a robbery
+{85583}{85636}- would hardly surprise you?|- No, sir.
+{85639}{85734}Can't we surmise the burglar might have|entered a presumably empty house,
+{85737}{85803}suddenly encountered|Mrs French and struck her,
+{85806}{85885}then, realising she was dead,|fled without taking anything?
+{85888}{85950}I submit, my lord,|that it is entirely impossible
+{85954}{86063}to guess what went on in the mind|of some entirely imaginary burglar.
+{86066}{86121}With or without gloves.
+{86124}{86218}Let us not surmise, Sir Wilfrid,|but confine ourselves to facts.
+{86274}{86375}Inspector, when you questioned|the prisoner as to the stains on his jacket,
+{86378}{86475}did he not show you|a recently-healed scar on his wrist,
+{86478}{86592}- saying he had cut himself slicing bread?|- Yes, sir, that is what he said.
+{86595}{86662}And were you not told|the same thing by his wife?
+{86664}{86757}- Yes, sir. But afterwards...|- Just a simple yes or no, please.
+{86761}{86817}Did the prisoner's wife show you a knife
+{86820}{86917}and tell you that her husband|had cut his wrist while slicing bread?
+{86920}{87031}- Yes, sir.|- I will ask you to examine this knife.
+{87132}{87221}Just test the edge of it|with your finger. Carefully!
+{87224}{87320}You agree that the point|and the cutting edge are razor-sharp?
+{87323}{87381}- Yes, sir.|- Now, if such a knife were to slip,
+{87384}{87457}might it not inflict a cut|that would bleed profusely?
+{87461}{87489}Yes, sir, it might.
+{87493}{87615}Inspector, you stated that the bloodstains|on the prisoner's jacket were analysed,
+{87618}{87737}as was the blood of Mrs French, and|they were both found to be of group O.
+{87740}{87799}- That is correct.|- However,
+{87803}{87885}if the prisoner's blood|were also of this same group,
+{87888}{87954}then the stains on his jacket|may well have resulted
+{87957}{88022}from the household accident|he described to you.
+{88025}{88082}Yes, sir.
+{88085}{88176}Did you examine|the prisoner's blood, lnspector?
+{88179}{88217}No, sir.
+{88257}{88326}I have here a certificate
+{88329}{88432}stating that Leonard Stephen Vole|is a blood donor
+{88435}{88491}at the North London Hospital.
+{88494}{88575}And that his blood is group O.
+{88578}{88627}(murmuring)
+{88688}{88746}Thank you, lnspector.
+{88817}{88931}Inspector, granted that the cut|on the wrist was caused by that knife,
+{88934}{89007}is there anything to show|whether it was an accident
+{89010}{89108}or done deliberately after the murder|to account for the bloodstains?
+{89111}{89178}- Oh, really, my lord!|- I withdraw the question.
+{89181}{89215}You may stand down.
+{89284}{89356}- Call Janet McKenzie.|- Janet McKenzie.
+{89359}{89428}- Janet McKenzie.|- Janet McKenzie.
+{89987}{90054}I swear by Almighty God|that the evidence...
+{90058}{90106}(buzzer)
+{90114}{90196}..the truth, the whole truth|and nothing but the truth.
+{90199}{90275}Carter. Carter. Pill. Pill.
+{90278}{90362}- Your name is Janet McKenzie?|- Aye, that's my name.
+{90366}{90485}- When did you first come to London?|- That was many years ago. 28 years ago.
+{90489}{90596}- Where do you live?|- Now that Mrs French, poor soul, is dead,
+{90599}{90690}I've moved in with my niece|at 19 Glenister Road.
+{90693}{90770}You were companion-housekeeper|to the late Mrs Emily French?
+{90773}{90849}I was her housekeeper!|I've no opinion of companions,
+{90852}{90931}poor feckless bodies, afraid|of a bit of honest domestic work.
+{90935}{91059}I meant you were on friendly terms, not|altogether those of mistress and servant.
+{91062}{91137}Aye. Ten years I was with her|and looked after her.
+{91140}{91205}She knew me and she trusted me.
+{91207}{91276}Many's the time|I prevented her doing a foolish thing.
+{91279}{91397}Please tell us, in your own words, about|the events of the evening of October 14.
+{91413}{91510}It was a Friday and my night out. I was|going to see my niece at Glenister Road,
+{91514}{91620}which is about five minutes' walk.|I left the house at half past seven.
+{91623}{91725}I promised to take her|a dress pattern that she admired.
+{91728}{91815}- Och, is this thing necessary?|- An excellent question.
+{91818}{91924}However, it has been installed at|considerable expense to the taxpayers,
+{91928}{92015}so let us take advantage of it.|Please continue.
+{92018}{92109}Well, when I got to my niece's,|I found I'd left the pattern behind.
+{92112}{92194}So after supper I slipped|back to get it as it was no distance.
+{92198}{92276}I got back to the house at 25 past 9.
+{92279}{92335}I let myself in|and went upstairs to my room.
+{92338}{92463}As I passed the sitting room, I heard the|prisoner in there, talking to Mrs French.
+{92467}{92566}- No, it wasn't me! It wasn't my voice!|- (court murmurs)
+{92569}{92618}Talking and laughing they were.
+{92621}{92705}But it was no business of mine,|so I went upstairs to fetch my pattern.
+{92709}{92790}Now, let us be very exact as to the time.
+{92793}{92887}You say that you|re-entered the house at 25 past 9?
+{92890}{92996}Aye. The pattern was on a shelf in my|room next to my clock so I saw the time.
+{92999}{93107}- And it was 25 past 9.|- Go on, please.
+{93110}{93254}I went back to my niece. Och,|she was delighted with the pattern. Si...
+{93299}{93450}Simply delighted. I stayed until 20 to 1 1,|then I said good night and I come home.
+{93453}{93544}I went into the sitting room to see|if the mistress wanted anything
+{93548}{93596}before she went to bed.
+{93599}{93708}And there she was, dead.|And everything tossed hither and thither.
+{93712}{93781}Did you really think|that a burglary had been committed?
+{93785}{93834}My lord, I must protest!
+{93837}{93936}I will not allow that question|to be answered, Mr Myers.
+{93940}{94034}Miss McKenzie, were you aware|that Leonard Vole was a married man?
+{94037}{94106}No, indeed.|And neither was the mistress.
+{94109}{94157}- Janet!|- My lord, I must object.
+{94160}{94279}What Mrs French knew or did not know is|pure conjecture on Janet McKenzie's part.
+{94315}{94373}Let me put it this way.|You formed the opinion
+{94376}{94459}that Mrs French thought|Leonard Vole was a single man?
+{94462}{94547}- Have you any facts to support this?|- The books that she ordered.
+{94550}{94667}A life of the Baroness Burdett-Coutts,|and the one about Disraeli and his wife.
+{94670}{94767}Both of them about women that married|men years younger than themselves. Oh!
+{94770}{94858}- I knew what she was thinking.|- I'm afraid we cannot admit that.
+{94861}{94923}- Why?|- (laughter)
+{94926}{95051}Members of the jury, it is possible|for a woman to read The Life of Disraeli
+{95055}{95154}without contemplating marriage|with a man younger than herself.
+{95157}{95208}(laughter)
+{95211}{95339}Were you aware of the arrangements Mrs|French made to dispose of her money?
+{95342}{95427}She had her old will revoked|and a new one drawn up.
+{95429}{95487}I heard her calling Mr Stokes,|her solicitor.
+{95490}{95561}He was there at the time.|The prisoner, I mean.
+{95574}{95656}You heard Mrs French|and the prisoner discussing her new will?
+{95659}{95727}Yes. He was to have all her money,|she told him,
+{95730}{95837}as she had no near relations nor anybody|that meant to her what he did.
+{95840}{95921}- When did this take place?|- On October 8.
+{95924}{96003}One week to the day|before she was murdered.
+{96007}{96085}Thank you.|That concludes my examination.
+{96107}{96170}Not just yet, Miss McKenzie.
+{96196}{96272}Would you...? Thank you.
+{96276}{96380}Miss McKenzie, you have|given evidence about two wills.
+{96383}{96432}In the old will, that which was revoked,
+{96435}{96527}were you not to receive|the bulk of Mrs French's estate?
+{96530}{96559}That's so.
+{96562}{96666}Whereas in the new will, except for|a bequest to you of a small annuity,
+{96669}{96756}the principal beneficiary|is the prisoner, Leonard Vole.
+{96759}{96850}It'll be a wicked injustice|if he ever touches a penny of that money.
+{96853}{96958}It is entirely understandable|that you are antagonistic to the prisoner.
+{96961}{97022}I'm not antagonistic to him.
+{97025}{97121}He's a shiftless, scheming rascal.|But I'm not antagonistic to him.
+{97124}{97143}(laughter)
+{97146}{97195}I suggest you formed this opinion
+{97198}{97289}because his friendship with Mrs French|cost you the bulk of her estate.
+{97292}{97392}- I've never liked him.|- Your candour is refreshing.
+{97395}{97460}Now. On the night of October 14
+{97463}{97543}you say you heard the prisoner|and Mrs French talking together.
+{97546}{97628}- What did you hear them say?|- I didn't hear what they actually said.
+{97631}{97693}You mean you only heard the voices?
+{97696}{97764}- The murmur of voices?|- They were laughing.
+{97767}{97841}What makes you say|the man's voice was Leonard Vole's?
+{97845}{97949}- I know his voice well enough.|- The door was closed, was it not?
+{97952}{98035}- Aye, that's so.|- You were in a hurry to get the pattern
+{98039}{98109}so you probably walked|quickly past the closed door,
+{98112}{98176}yet you are sure|you heard Leonard Vole's voice?
+{98180}{98246}I was there long enough|to hear what I heard.
+{98249}{98399}Come, I'm sure you don't wish to suggest|to the jury that you were eavesdropping.
+{98402}{98462}It was him in there.|Who else could it have been?
+{98465}{98569}What you mean is that you wanted it to|be him. That's the way your mind worked.
+{98572}{98670}Now, tell me, did Mrs French sometimes|watch television in the evening?
+{98673}{98745}Yes. She was fond|of a talk or a good play.
+{98748}{98825}Wasn't it possible when you|returned home and passed the door,
+{98828}{98880}what you really heard was the television
+{98883}{98945}and a man and woman's|voices and laughter?
+{98948}{99055}There was a play called Lover's Leap|on the television that night.
+{99084}{99189}- It was not the television.|- Oh, why not?
+{99192}{99313}Because the television was away|being repaired that week, that's why.
+{99316}{99358}(laughter)
+{99495}{99545}(gavel)
+{99568}{99613}Silence! Silence!
+{99654}{99729}Odd. It's not time yet.
+{99732}{99805}If my learned friend has no further|questions, I'd like...
+{99808}{99882}I have not quite finished.
+{99885}{99996}You are registered, are you not,|under the National Health lnsurance Act?
+{99999}{100089}Aye, that's so.|Four and sixpence I pay out every week.
+{100092}{100165}That's a terrible lot of money|for a working woman to pay.
+{100168}{100238}I am sure that many agree with you.
+{100241}{100395}Miss McKenzie, did you recently apply|to the National Health lnsurance for...
+{100398}{100485}- (quietly)..a hearing aid?|- For... for what?
+{100488}{100560}I protest against the way|in which this question was put!
+{100563}{100637}I will repeat the question, my lord.
+{100640}{100783}I asked you in a normal tone of voice,|audible to everyone in open court,
+{100786}{100903}did you apply to the National Health|lnsurance for a hearing aid?
+{100906}{100931}Yes, I did.
+{100934}{100992}- Did you get it?|- Not yet.
+{100995}{101122}However, you state that you walked past|a door, which is four inches of solid oak,
+{101125}{101202}you heard voices,|and you are willing to swear
+{101206}{101280}that you could distinguish the voice of...
+{101283}{101335}(quietly)..the prisoner, Leonard Vole.
+{101338}{101387}Who? Who?
+{101390}{101413}(murmuring)
+{101416}{101465}No further questions.
+{101523}{101579}Och, maybe you could help me,|Your Lordship.
+{101582}{101680}Six months ago I applied for|my hearing aid, and I'm still waiting for it.
+{101683}{101802}My dear Miss McKenzie, considering|the rubbish that is being talked nowadays,
+{101805}{101876}you are missing very little.|You may stand down now.
+{101879}{101938}(laughter)
+{101941}{102019}(Myers) Call Police Constable Jeffries.
+{102021}{102124}- Police Constable Jeffries.|- Police Constable Jeffries.
+{102378}{102445}I swear by Almighty God|that the evidence I shall give
+{102448}{102570}shall be the truth, the whole truth|and nothing but the truth.
+{102888}{102957}Mr Myers, does that conclude your case?
+{102960}{103080}No, my lord. I now call the final witness|for the prosecution, Christine Helm.
+{103093}{103174}- Christine Helm!|- Christine Helm.
+{103454}{103503}Christine.
+{103762}{103827}I swear by Almighty God|that the evidence I shall give
+{103830}{103918}shall be the truth, the whole truth|and nothing but the truth.
+{103921}{103983}My lord, I have the most serious objection
+{103986}{104084}to this witness being summoned,|as she is the wife of the prisoner.
+{104088}{104138}I call my learned friend's attention
+{104141}{104249}to the fact that I summoned|not Mrs Vole, but Mrs Helm.
+{104252}{104350}- Your name, in fact, is Christine Helm?|- Yes. Christine Helm.
+{104353}{104440}And you have been living|as the wife of the prisoner, Leonard Vole?
+{104443}{104508}- Yes.|- Are you actually his wife?
+{104520}{104558}No.
+{104560}{104668}I went through a marriage ceremony|with him, but I already had a husband.
+{104672}{104734}- He's still alive.|- Christine, that's not true!
+{104737}{104821}There is proof of a marriage|between the witness and the prisoner,
+{104824}{104895}but is there any proof|of a so-called previous marriage?
+{104898}{105032}My lord, the so-called previous marriage|is, in fact, well-documented.
+{105035}{105179}Mrs Helm, is this a certificate of marriage|between yourself and Otto Ludwig Helm,
+{105182}{105295}the ceremony having taken place|in Breslau on 18 April 1942?
+{105298}{105366}Yes, that is the paper of my marriage.
+{105369}{105511}I don't see any reason why this witness|should not be qualified to give evidence.
+{105612}{105722}You're willing to give evidence against the|man you've been calling your husband?
+{105725}{105759}Yes.
+{105776}{105865}You stated to the police that on the night|that Mrs French was murdered,
+{105869}{105994}Leonard Vole left the house at 7.30|and returned at 25 minutes past 9.
+{105998}{106060}Did he, in fact, return at 25 past 9?
+{106100}{106176}No. He returned at ten minutes past ten.
+{106179}{106291}Christine, what are you saying?|It's not true. You know it's not true!
+{106294}{106329}(murmuring)
+{106377}{106428}Silence!
+{106432}{106481}I must have silence.
+{106514}{106586}As your counsel will tell you,|Vole, you will very shortly
+{106589}{106660}have an opportunity of|speaking in your own defence.
+{106663}{106762}Leonard Vole returned, you say,|at ten minutes past ten.
+{106765}{106850}- And what happened next?|- He was breathing hard, very excited.
+{106854}{106919}He threw off his coat|and examined the sleeves.
+{106922}{106974}Then he told me to wash the cuffs.
+{106977}{107029}- They had blood on them.|- Go on.
+{107032}{107104}- I said "What have you done?"|- What did the prisoner say?
+{107107}{107161}He said "I've killed her."
+{107165}{107272}Christine! Why are you lying?|Why are you saying these things?
+{107275}{107375}- What an awful woman.|- She's evil. I've known it all along.
+{107453}{107536}If the defence so desires,|I will adjourn for a short time
+{107539}{107615}so that the prisoner|may gain control of himself.
+{107618}{107708}My lord is most gracious,|but pray let the witness continue.
+{107711}{107813}We are all of us caught up|in the suspense of this horror fiction.
+{107816}{107909}To have to hear it in instalments|might prove unendurable.
+{107912}{107982}- Proceed, Mr Myers.|- Mrs Helm,
+{107985}{108100}when the prisoner said "l have killed her",|did you know to whom he referred?
+{108103}{108172}It was that woman|he had been seeing so often.
+{108174}{108289}When questioned by the police, you told|them that the prisoner returned at 9.25.
+{108292}{108348}Yes. Because Leonard|asked me to say that.
+{108351}{108401}But you've changed your story now. Why?
+{108404}{108458}I cannot go on lying to save him.
+{108461}{108540}I said to the police what he wanted|because I'm grateful to him.
+{108543}{108610}He married me|and brought me to this country.
+{108612}{108685}What he has asked me to do I have|because I was grateful.
+{108688}{108761}It was not because|he was your husband and you loved him?
+{108764}{108813}I never loved him.
+{108826}{108902}It was gratitude, then,|that prompted you to give him an alibi
+{108905}{108988}- in your statement to the police?|- That is it. Exactly.
+{108991}{109076}- But now you think it was wrong to do so.|- Because it is murder.
+{109079}{109130}That woman, she was a harmless old fool,
+{109133}{109195}and he makes of me|an accomplice to the murder.
+{109198}{109293}I cannot come into court and swear that|he was with me at the time it was done.
+{109296}{109361}I cannot do it! I cannot do it!
+{109364}{109417}Then this is the truth?
+{109420}{109506}That Leonard Vole returned|that night at ten minutes past ten,
+{109509}{109559}he had blood on the sleeves of his coat,
+{109562}{109661}and that he said to you|"l have killed her"?
+{109700}{109742}That is the truth.
+{109745}{109821}That is the truth, before God?
+{109825}{109876}That is the truth.
+{109887}{109936}Thank you.
+{110061}{110146}Mrs Vole, or Mrs Helm,|which do you prefer to be called?
+{110150}{110198}- It does not matter.|- Does it not?
+{110201}{110298}In this country we are inclined to take|a rather more serious view of marriage.
+{110301}{110426}However, it would appear that when|you first met the prisoner in Hamburg
+{110429}{110537}- you lied to him about your marital status.|- I wanted to get out of Germany, so...
+{110541}{110614}You lied, did you not?|Just yes or no, please.
+{110617}{110666}- Yes.|- Thank you.
+{110669}{110743}And in arranging the marriage,|you lied to the authorities?
+{110746}{110816}I, um, did not tell the truth|to the authorities.
+{110819}{110874}- You lied to them?|- Yes.
+{110877}{110981}And in the ceremony, when you swore|to love, honour and cherish your husband,
+{110984}{111045}- that too was a lie?|- Yes.
+{111048}{111125}And when the police questioned you|about this wretched man
+{111128}{111186}who believed himself married and loved,
+{111189}{111249}- you told them...|- I told them what he wanted me to.
+{111252}{111344}You told them that he was at home|with you at 25 minutes past 9,
+{111347}{111450}- and now you say that that was a lie?|- Yes, a lie!
+{111453}{111559}And when you said that he had|accidentally cut his wrist, again, you lied?
+{111562}{111679}- Yes!|- And today you told a new story entirely.
+{111682}{111766}The question is, Frau Helm,|were you lying then, are you lying now?
+{111769}{111859}Or are you not, in fact,|a chronic and habitual liar?!
+{111862}{111923}(murmuring)
+{111926}{111944}(coughs)
+{111948}{112051}Carter, Carter!|The other pill. Under the tongue.
+{112055}{112158}My lord, is my learned friend to be|allowed to bully and insult the witness?
+{112161}{112262}Mr Myers, this is a capital charge|and, within the bounds of reason,
+{112266}{112365}I should like the defence|to have every latitude.
+{112441}{112502}My lord, may I also|remind my learned friend
+{112505}{112599}that his witness, by her own admission,|has already violated so many oaths
+{112602}{112696}that I am surprised the Testament|did not leap from her hand
+{112699}{112763}when she was sworn here today.
+{112766}{112869}I doubt if anything is to be gained|by questioning you any further.
+{112872}{112924}That will be all, Frau Helm.
+{112927}{112976}(muttering)
+{113042}{113150}Mrs Helm, I presume you know the|meaning of the English word "perjury"?
+{113153}{113239}- In German, the word is Meineid.|- Yes. Meineid.
+{113243}{113293}It means to swear falsely under oath.
+{113296}{113339}And are you aware, Mrs Helm,
+{113342}{113461}that the penalty in this country for perjury|is a heavy term of imprisonment?
+{113464}{113522}Yes, I'm aware.
+{113525}{113639}Mindful of this fact, I ask you once more,|is the evidence that you have given
+{113642}{113730}the truth, the whole truth|and nothing but the truth?
+{113733}{113780}So help me, God.
+{113808}{113913}Then that, my lord,|is the case for the prosecution.
+{114340}{114431}- Want a tissue?|- Yes, thanks.
+{114434}{114547}It's the first murder trial|I've ever been to. It's terrible.
+{114550}{114573}Silence.
+{114627}{114716}Sir Wilfrid.|Are you ready for the defence?
+{114768}{114859}My lord, members of the jury,
+{114862}{114986}the prosecution has very ably presented|against the prisoner, Leonard Vole,
+{114989}{115094}a case with the most overwhelming|circumstantial evidence.
+{115098}{115182}Among the witnesses you have heard|Chief lnspector Hearne,
+{115185}{115307}who has given his testimony in a fair|and impartial manner, as he always does.
+{115310}{115428}He has put before you a clever theory|of how this crime was committed.
+{115431}{115526}Whether it is theory|or actual fact, however,
+{115529}{115591}you will decide for yourselves.
+{115616}{115690}And then you have heard|the evidence of Janet McKenzie,
+{115693}{115793}a worthy and devoted housekeeper who|has suffered two most grievous losses.
+{115796}{115852}One, the death of her beloved mistress
+{115856}{115991}and, second, in being deprived|of an inheritance of 80,000,
+{115994}{116061}which she'd fully expected to receive.
+{116064}{116156}I will not comment|further on her evidence,
+{116181}{116277}but will express only|my deepest sympathy for her
+{116280}{116349}in both these... mishaps.
+{116373}{116509}And most damaging of all, the prosecution|has produced a surprise witness,
+{116513}{116624}one Christine Helm, whom the prisoner|brought from the rubble of her homeland
+{116627}{116740}to the safety of this country, giving her|his love and the protection of his name.
+{116743}{116834}I objected to her testimony|because a wife cannot give evidence
+{116837}{116896}harmful to her husband.
+{116899}{117059}But it has been proven that her marriage|to Mr Vole was fraudulent and bigamous.
+{117062}{117210}Therefore, her evidence must be admitted|and you must consider it.
+{117213}{117282}For what it is worth.
+{117322}{117427}Such is the prosecution's case.|Now it is the turn of the defence.
+{117430}{117528}We could present, on behalf of|the prisoner, witnesses to his character,
+{117531}{117626}his war record, the lack of criminal|or evil association in his past.
+{117629}{117766}However, only one witness|can shed new light
+{117769}{117838}on this tragic riddle.
+{117865}{117913}The prisoner himself.
+{117948}{118000}Members of the jury,
+{118004}{118089}I call Leonard Stephen Vole.
+{118551}{118631}I swear by Almighty God|that the evidence I give will be the truth,
+{118634}{118711}- the whole truth and nothing but the truth.|- No.
+{118740}{118839}- Is your name Leonard Stephen Vole?|- It is.
+{118842}{118916}- Where do live?|- 620 Edgware Road.
+{118919}{119046}Leonard Stephen Vole, did you or did|you not on the night of October 14 last,
+{119049}{119104}murder Emily Jane French?
+{119117}{119211}- I did not.|- Thank you, that will be all.
+{119214}{119260}(muttering)
+{119263}{119371}Have you, in fact, concluded your|examination of the prisoner, Sir Wilfrid?
+{119374}{119500}The prisoner has endured three days|of profound mental agony and shock.
+{119503}{119563}The defence feels|his faculties should be spared
+{119567}{119652}for the cross-examination|by my learned friend for the prosecution.
+{119655}{119724}This is not a plea for any indulgence.
+{119727}{119800}I am confident that|no matter how searching this may be,
+{119803}{119872}the prisoner will withstand it.
+{119909}{119996}At the time you made the acquaintance|of Mrs French, were you employed?
+{119999}{120048}- No, sir.|- How much money did you have?
+{120051}{120102}- A few pounds.|- Did she give you any?
+{120105}{120123}No.
+{120127}{120180}- Did you expect to receive any?|- No, sir.
+{120183}{120301}Did you know that in her new will,|you were the beneficiary of 80,000?
+{120304}{120332}No, I didn't.
+{120335}{120452}Now, Mr Vole, when you went to visit|Mrs French for the last time,
+{120455}{120534}did you wear a trench coat|and a brown hat?
+{120557}{120646}- Yes, I did.|- Was it this coat and hat?
+{120685}{120709}Yes, sir.
+{120713}{120838}My lord, the defence, in its efforts|to establish an alibi for the prisoner,
+{120841}{120918}circulated this photograph,|hoping to bring forth a witness
+{120921}{120998}who had seen him leaving|Mrs French's house or entering his own
+{121001}{121063}at the times that he has stated.
+{121066}{121149}Apparently, this splendid effort|was without results.
+{121153}{121209}However, the defence|will be pleased to learn
+{121212}{121289}that, at the last moment,|a witness has come forward,
+{121292}{121404}and that the prisoner had been|seen wearing this coat and this hat.
+{121407}{121537}Lamentably, he had not been seen on the|night of the murder but one week before.
+{121540}{121644}On the afternoon of October 8, were you|not in a travel agency in Regent Street?
+{121647}{121744}And did you not make inquiries about|prices and schedules of foreign cruises?
+{121747}{121825}Supposing I did? It's not a crime, is it?
+{121828}{121927}Not at all. Many people go on a cruise|when they can afford to pay for it.
+{121930}{122051}- But you couldn't pay for it, could you?|- Well, I was hard up. I told you that.
+{122055}{122180}And yet you came to this particular|travel agency with a clinging brunette?
+{122184}{122241}A clinging brunette, Mr Myers?
+{122260}{122310}My lord, the lady was so described to me.
+{122313}{122421}She was very affectionate with the|prisoner, constantly clinging to his arm.
+{122424}{122471}Oh.
+{122488}{122598}You then admit that you made inquiries|about expensive and luxurious cruises?
+{122602}{122653}How did you expect|to pay for such a thing?
+{122656}{122734}- I don't know. It was...|- If you don't know, perhaps I can help.
+{122737}{122843}On the morning of the very same day,|you heard Mrs French change her will,
+{122846}{122902}- leaving you the bulk of her money.|- I didn't!
+{122905}{122979}And in the afternoon,|you started plans to dispose of it.
+{122983}{123036}No! It was nothing of the kind.
+{123039}{123114}I was in a pub and I met a girl.|I don't even remember her name.
+{123117}{123168}We had a drink and walked out together.
+{123171}{123316}We passed the window and saw the fancy|posters, all blue seas and palm trees.
+{123319}{123447}The Grecian isles or somewhere. We went|in for fun and I started asking for folders.
+{123450}{123542}Well, the man gave me a funny look|because I did look a bit shabby.
+{123546}{123627}Anyway, it irritated me,|so I kept asking for the swankiest tours,
+{123630}{123715}all de luxe and cabin on the boat deck,|but it was just an act!
+{123718}{123818}An act? You knew that in a week|you were going to inherit 80,000!
+{123821}{123929}No! It wasn't that way at all.|It was make-believe and childish but...
+{123932}{124038}it was fun and I enjoyed it. I never thought|of killing anyone or inheriting any money.
+{124042}{124136}It's just a coincidence that Mrs French|should be killed only one week later?
+{124140}{124198}I told you! I didn't kill her!
+{124213}{124311}Do you know any reason why Christine|Helm should give the evidence she has
+{124314}{124406}- if it were not true?|- No. I don't know why my wife...
+{124424}{124549}I don't know why I still call her my wife.|She must be lying or out of her mind.
+{124553}{124615}She seemed remarkably|sane and self-possessed.
+{124619}{124726}- But insanity is all you can suggest?|- I don't understand it.
+{124729}{124791}Oh, God! What's happened?|What's changed her?
+{124794}{124892}Very effective, I'm sure.|But in this court we deal with fact.
+{124895}{124965}And the fact, Mr Vole,|is that we've only your word for it.
+{124968}{125038}That you left Mrs French's house|at the time you say,
+{125041}{125156}that you came home at 5 and 20 minutes|past 9, and that you did not go out again!
+{125159}{125235}Somebody must have seen me|in the street or going in the house!
+{125238}{125342}One would think so. But the only person|who did see you come home that night
+{125345}{125425}says it was ten past ten|and that you had blood on your hands.
+{125428}{125500}- I cut my wrist!|- You cut your wrist deliberately!
+{125503}{125552}No, I didn't! I didn't do anything.
+{125555}{125625}But you make it sound as though I did.|I can hear it myself.
+{125628}{125680}You came home at ten past ten!
+{125683}{125788}No, I didn't! You've got to believe me.|You've got to believe me!
+{125792}{125845}You killed Emily French!
+{125848}{125903}No, I didn't! I didn't do it!
+{125906}{125999}I didn't kill her! I never killed anybody!
+{126002}{126112}God, it's like a nightmare.|Some ghastly, horrible dream.
+{126248}{126308}Good evening, Sir Wilfrid.|How did it go today?
+{126311}{126364}Oh, Sir Wilfrid.
+{126367}{126495}I'm from Hawks and Hill, sir, and I've|brought your Bermuda shorts for a fitting.
+{126520}{126544}What?
+{126548}{126656}- You'd better slip these on, Sir Wilfrid.|- I'm in the middle of a murder trial.
+{126659}{126756}It'll all be over by the afternoon,|and the boat train doesn't go until 9.40.
+{126759}{126842}You work it out. You know my shape,|you've stabbed it often enough.
+{126845}{126953}Upstairs. You need a lukewarm bath|and your calcium injection.
+{126956}{127027}And there's a lot more packing to be done.
+{127050}{127166}It's ridiculous having boat reservations.|The jury may be out for days.
+{127169}{127273}Not on this case, I'm afraid.|It seems too open-and-shut.
+{127322}{127409}I watched when Frau Helm|was on the stand. They didn't like her.
+{127412}{127514}No, but they believed her. They liked|Leonard Vole but they didn't believe him.
+{127517}{127595}And that travel agency business|doesn't help either. Cigar?
+{127599}{127618}No.
+{127622}{127688}- Wilfrid, do you think she lied?|- Well, don't you?
+{127691}{127724}I'm not sure.
+{127727}{127817}I am. She lied. Whether she calls it|Meineid or perjury, she lied.
+{127820}{127941}The only question is why. What's|her game? What is she up to? What?
+{127954}{128078}I hope that in your final speech you|won't become too emotionally involved.
+{128081}{128151}- You must think of your condition.|- He's right.
+{128154}{128239}I want to see you save yourself.|This isn't going to be your last case.
+{128242}{128333}Yes, it is. But until it's over,|I'm still a barrister.
+{128336}{128428}My client's life is at stake.|That's all that matters - his life.
+{128431}{128500}He's entitled to the best that I can do.
+{128503}{128600}If I can't stand up to make my final appeal|for him, I'll make it sitting down.
+{128603}{128706}If I become short of breath I'll take a pill,|or two pills, or all of them and the box too.
+{128709}{128770}(telephone rings)
+{128896}{128970}- Yes?|- (woman) This Sir Wilfrid Robarts' place?
+{128973}{129054}- Well, yes, it is.|- Let me talk to the old geezer.
+{129057}{129163}- Who is this speaking, please?|- Never you mind. Let me talk to 'im.
+{129166}{129250}I'm afraid that's impossible.|What is the nature of your business?
+{129253}{129333}It's business all right.|I've got something to sell 'im, I 'ave.
+{129336}{129365}Well, really, madam!
+{129368}{129440}And what I want to sell 'im,|believe me, 'e'll want to buy.
+{129443}{129532}- It's got to do with that Leonard Vole.|- Leonard Vole?
+{129535}{129589}It's about that German wife.
+{129592}{129677}I've got the goods on her and it's for sale.
+{129721}{129814}This is Wilfrid Robarts speaking.|Now, what is this all about?
+{129817}{129873}Well, hello, ducky.
+{129877}{129947}What is this you said|about Mrs Leonard Vole?
+{129950}{130042}I'm not just saying.|I've got it in black and white.
+{130046}{130117}- You've got what?|- Listen to this carefully, ducks.
+{130120}{130203}I'm at the buffet at Euston Station|at the far end of the bar.
+{130206}{130289}I'll be here for 30 minutes|because that's when me train leaves.
+{130292}{130370}If you want the lowdown on|that German bag, get yourself here.
+{130373}{130435}What lowdown?|What do you know about her?
+{130438}{130489}Uh-uh. Not on the phone.
+{130492}{130594}You'd better get on over here,|and bring plenty of money.
+{130610}{130689}Now, just a moment! Hello? Hello?
+{130734}{130873}That's... bilge. Some drunken crank.|You get those in every murder trial.
+{130877}{130985}Giving me an ultimatum, Euston Station in|30 minutes. Got the lowdown on Mrs Vole.
+{130988}{131032}Balderdash.
+{131035}{131167}I'm too old and too sick|to go on a wild-goose chase.
+{131170}{131239}- Come on, Mayhew.|- Where to, Sir Wilfrid?
+{131242}{131316}Euston Station, where do you think?
+{131354}{131402}Now, sir?
+{131406}{131449}Shortly.
+{131471}{131509}Cigar!
+{131531}{131580}Sir Wilfrid, where are you going?
+{131583}{131695}Your bath, your massage,|your dinner, your injection!
+{131699}{131748}Thank you, Miss Plimsoll.
+{131888}{131952}(train announcement on PA)
+{132370}{132443}- You wouldn't be Sir Wilfrid, would you?|- I would.
+{132446}{132560}Didn't recognise you without your wig.|Lovely you all look in them wigs.
+{132563}{132619}Two o' yer? I'm not talking to two o' yer.
+{132622}{132683}This is Mr Mayhew,|Leonard Vole's solicitor.
+{132686}{132759}- Well, that's all right, then.|- And your name, please?
+{132762}{132893}No need for mine. If I did give you a name|it mightn't be the right one, might it?
+{132897}{132998}'Ave a drink, boys.|Two whiskies for me gen'lmen friends.
+{133002}{133063}Now what is this information|you allegedly have?
+{133067}{133173}You realise that you're duty-bound|to give any evidence that you might have?
+{133176}{133288}- Come off it. Did you bring any money?|- What is it you have, madam?
+{133291}{133398}Letters. Letters that German wife|of 'is wrote. That's what I've got.
+{133401}{133517}- Letters written to the prisoner?|- To the prisoner? Don't make me laugh.
+{133520}{133614}Poor bleeder, he's been took in|by 'er all right. And these letters prove it.
+{133617}{133741}If we could see these letters, we could|advise you as to how pertinent they are.
+{133744}{133810}Well, I don't expect you...
+{133887}{133984}Well, as I say, I don't expect you|to buy without seeing, but fair's fair.
+{133987}{134097}If these letters get the boy off,|it's 1 00 for me, right?
+{134100}{134217}If these letters contain information useful|to the defence, I'm prepared to offer 1 0.
+{134220}{134301}What? Ten bleeding pounds|for letters like these?
+{134304}{134372}Take that piece of glass|out o' yer eye. Good night.
+{134375}{134426}If these help prove my client's innocence,
+{134429}{134514}20 should, I think, not be an|unreasonable sum for your expenses.
+{134517}{134590}50 and it's a bargain.|That's if you're satisfied with 'em.
+{134593}{134650}- 40.|- All right, blast yer.
+{134654}{134722}'Ere, take 'em. Nice little lot there.
+{134726}{134775}How do we know|these are from Mrs Vole?
+{134778}{134881}Oh, she wrote 'em all right.|It's all fair an' square.
+{134943}{135012}I 'ope they fix 'er good and proper.
+{135057}{135150}I've had messages from Mrs Vole.|It looks like her handwriting.
+{135153}{135212}Good heavens, look at this.
+{135274}{135323}Juicy, ain't they?
+{135326}{135421}- There's one that's even better.|- How did you get hold of these?
+{135424}{135498}What's the difference|so long as she gets what's coming?
+{135501}{135577}- What have you got against her?|- Ha!
+{135581}{135662}I'll give you something|to dream about, mister.
+{135688}{135747}Want to kiss me, ducky?
+{135835}{135854}Ha!
+{135858}{135952}- I didn't suppose you would.|- Christine Vole did that to you?
+{135956}{136075}Not 'er, the chap I was going with. He was|a bit younger than me but I loved 'im.
+{136078}{136197}Then she come along, started seeing 'im|on the sly. Then one day he cleared out.
+{136200}{136330}I found 'em together. I said what I thought|of 'er and he cut me face up proper.
+{136333}{136439}- Did you go to the police about it?|- Who, me? Not likely.
+{136442}{136579}It wasn't 'is fault. It was all 'ers, gettin' 'im|away from me, turnin' 'im against me.
+{136583}{136700}But I waited me time to pay 'er back.|And it's come now.
+{136704}{136831}I'm deeply sorry, deeply sorry.|We'll make it another 5 for the letters.
+{136834}{136937}'Olding out on me, were yer?|I knew I was being soft with yer.
+{136940}{137027}Cold-blooded vindictiveness.|Read this one.
+{137074}{137135}Unbelievable.
+{137138}{137242}We'd better have the full name of the man|to whom these were addressed, Miss...
+{137245}{137293}Miss, um...
+{137296}{137341}Where is she?
+{137485}{137623}On that train, I should think. Doesn't want|her other cheek slashed. Can't blame her.
+{137681}{137731}- Care for another, sir?|- Hm?
+{137734}{137783}Good idea.
+{137953}{137995}(gavel)
+{137999}{138034}Silence!
+{138037}{138088}Be upstanding in court.
+{138113}{138178}All persons who have anything|to do before my lords,
+{138181}{138232}the queen's justices of oyer and terminer
+{138235}{138331}and general jail delivery for the|jurisdiction of the Central Criminal Court,
+{138334}{138439}draw near and give your attendance.|God save the queen.
+{138770}{138849}Since the defence has called|but one witness, the prisoner,
+{138853}{138910}it has the right to be heard last.
+{138913}{139064}Mr Myers, if you are ready, let us have|the final address for the prosecution.
+{139067}{139173}My lord, members of the jury,|I will be brief in my final speech
+{139176}{139288}because I think we've proved so obvious|a case of murder against Leonard Vole,
+{139292}{139373}that a verdict of guilty|must be the only possible conclusion.
+{139389}{139477}- I will briefly summarise these facts...|- (footsteps)
+{139616}{139670}You'd better begin again, Mr Myers.
+{139685}{139788}That is, if Sir Wilfrid|is at all interested in our proceedings.
+{139790}{139897}I am, indeed, my lord. The speech|for the crown, however, is premature.
+{139900}{140020}I ask that the case for the defence be|reopened. And that a witness be recalled.
+{140024}{140116}I most strenuously object to the case|being reopened at this final stage.
+{140119}{140198}Evidence of a startling nature|has come into my possession.
+{140201}{140282}The course my learned friend|proposes is quite unprecedented.
+{140285}{140376}I have anticipated this objection|and can meet it with ample precedent.
+{140379}{140518}There is the king vs Stillman, reported|in the criminal appeal reports of 1926
+{140522}{140579}at page 463.
+{140582}{140685}Also, the king vs Porter in volume one|of the king's bench division reports,
+{140688}{140769}1942 at page 1 53.
+{140772}{140841}And lastly there is the case|of the king vs Sullivan
+{140844}{140942}in which this issue was raised, which|I'm sure Your Lordship will remember,
+{140945}{141007}since you appeared for the prosecution.
+{141010}{141124}I did? Oh, yes, before Mr Justice Swindon.
+{141127}{141180}What is this new evidence, Sir Wilfrid?
+{141183}{141233}Letters, my lord.
+{141236}{141310}Letters written by Christine Helm.
+{141367}{141452}My lord, the prosecution|continues its objection.
+{141455}{141541}If my memory serves me well,|Your Lordship's similar objection
+{141544}{141633}in the king against Sullivan|was sustained.
+{141678}{141764}Your memory, for once,|serves you ill, Mr Myers.
+{141767}{141876}My objection then was overruled|by Mr Justice Swindon.
+{141880}{141956}As yours is now, by me.
+{141959}{142008}(muttering)
+{142109}{142161}Call Christine Helm.
+{142181}{142221}Christine Helm.
+{142224}{142290}- Christine Helm.|- Christine Helm.
+{142689}{142809}If you still have doubts about Mr Vole, l|wouldn't mind betting you a box of cigars.
+{142812}{142908}Mrs Helm, you appreciate|you are still under oath?
+{142911}{142939}Yes.
+{142942}{143080}- Do you know a man named Max?|- I don't know what you mean.
+{143083}{143179}It's a simple question. Do you|or do you not know a man called Max?
+{143182}{143236}Max? Certainly not.
+{143239}{143331}It's a fairly common name and yet|you've never known a man named Max?
+{143334}{143395}In Germany, perhaps, but a long time ago.
+{143398}{143562}I shall not ask you to go back that far.|Just a few weeks, to... October 20 last.
+{143601}{143672}- What have you got there?|- A letter.
+{143675}{143731}I suggest that on October 20
+{143735}{143815}- you wrote a letter...|- I don't know what you're talking about.
+{143818}{143901}-..addressed to a man named Max.|- I did nothing of the sort.
+{143904}{144003}The letter was but one of a series|written to the same man.
+{144022}{144073}Lies! All lies!
+{144077}{144176}You seem to have been, well, let us say,|on intimate terms with this man.
+{144179}{144244}How dare you say a thing like that?|It isn't true!
+{144248}{144379}I'm not concerned with the general trend|of this correspondence, only one letter.
+{144382}{144499}"My beloved Max,|an extraordinary thing has happened."
+{144502}{144573}"l believe all our difficulties|may be ended."
+{144576}{144639}I will not stand here|and listen to a pack of lies!
+{144642}{144733}That letter's a forgery.|It isn't even my letter paper!
+{144737}{144791}- It isn't?|- No!
+{144794}{144876}I write my letters on small blue paper|with my initials on it.
+{144974}{145012}Like this?
+{145014}{145058}(muttering)
+{145076}{145205}This is a bill from my tailor for a pair|of extremely becoming Bermuda shorts.
+{145208}{145239}(laughter)
+{145242}{145350}Wilfrid the fox! That's what we call him|and that's what he is.
+{145353}{145456}Now, Mrs Helm, you've been kind enough|to identify your letter paper.
+{145459}{145577}Now, if you like, I can have an expert|identify your handwriting.
+{145580}{145625}Damn you!
+{145637}{145709}- Damn you!|- Leave her alone!
+{145713}{145766}- Damn you!|- Mrs Helm!
+{145769}{145852}Let me go!|Let me get out of here! Let me go!
+{145855}{145889}- Mrs Helm!|- Let me go!
+{145893}{145958}Usher, get the witness a chair.
+{145961}{146010}(Christine sobs)
+{146109}{146257}Sir Wilfrid, will you now read the letter|in question so that the jury may hear it?
+{146379}{146505}"My beloved Max,|an extraordinary thing has happened."
+{146508}{146597}"All our difficulties may soon be solved."
+{146600}{146721}"Leonard is suspected of murdering|the old lady I told you about."
+{146724}{146865}"His only hope of an alibi|depends on me and me alone."
+{146890}{147039}"Suppose I testify that he was not at home|with me at the time of the murder,
+{147042}{147135}that he came home|with blood on his sleeves,
+{147138}{147232}and that he even admitted to me|that he'd killed her?"
+{147236}{147318}"Strange that he always said|he would never let me leave him."
+{147321}{147408}"But now, if this succeeds,|he will be leaving me
+{147411}{147504}because they will take him away forever
+{147507}{147621}and I shall be free and yours,|my beloved."
+{147625}{147741}"l count the hours until|we are together. Christine."
+{147814}{147908}Mrs Helm?|Will you go back to the witness box?
+{148152}{148278}I now ask you again, Christine Helm,|did you write this letter?
+{148282}{148359}Christine, tell him you didn't write it.|I know you didn't.
+{148362}{148461}Please answer my question.|Did you write this letter?
+{148464}{148507}Before answering, Mrs Helm,
+{148510}{148639}I wish to warn you that the law regarding|perjury in this country is very severe.
+{148643}{148728}If you have already|committed perjury in this courtroom,
+{148731}{148818}I strongly advise you|not to add to your crime.
+{148822}{148912}But, if this letter|has not been written by you,
+{148915}{149003}then now is the time to state this fact.
+{149064}{149115}I wrote the letter.
+{149118}{149172}(muttering)
+{149175}{149269}And that, my lord,|is the case for the defence.
+{149457}{149539}I keep asking which is harder,|your head or your arteries?
+{149542}{149595}Stop pressing your luck, you're overdue.
+{149598}{149697}We're all packed and ready.|I hope the jury won't take all afternoon.
+{149700}{149728}I concede.
+{149731}{149808}- Congratulations, here are your cigars.|- Not yet.
+{149811}{149895}Come on, it's all over,|wrapped up neat and tidy.
+{149898}{149980}- What's wrong?|- It's a little too neat, too tidy,
+{149983}{150083}and altogether too symmetrical,|that's what's wrong with it.
+{150086}{150163}- The jury is back.|- You're not worried about the verdict?
+{150166}{150266}It's not their judgment|that worries me, it's mine.
+{150271}{150315}Come along.
+{150338}{150387}Where's my wig?
+{151081}{151140}The prisoner will stand up.
+{151201}{151320}Members of the jury,|are you all agreed upon your verdict?
+{151358}{151387}We are.
+{151390}{151492}Do you find the prisoner at the bar,|Leonard Stephen Vole,
+{151495}{151604}guilty or not guilty|of the murder of Emily Jane French?
+{151699}{151732}Not guilty, m'lord.
+{151735}{151793}(shouting / gasping)
+{152213}{152244}Silence!
+{152250}{152292}Silence!
+{152362}{152454}Leonard Stephen Vole,|you have been found not guilty
+{152457}{152566}of the murder|of Emily Jane French on October 14.
+{152569}{152677}You are hereby discharged|and are free to leave the court.
+{152939}{153019}Persons with anything more to do|before the queen's justices
+{153022}{153075}of oyer and terminer and jail delivery
+{153078}{153197}for the jurisdiction of the Central|Criminal Court may depart the area.
+{153407}{153495}Thank you. Yes, we'll talk later.|Thank you, Mr Mayhew.
+{153498}{153558}Thank you, Mr Brogan-Moore. Carter.
+{153561}{153643}Thank you, Sir Wilfrid, for everything.|You were wonderful.
+{153647}{153738}- I'd say we were lucky all around.|- Yeah.
+{153741}{153833}I have your belongings. Sign the receipt,|Mr Vole, and we can release you.
+{153836}{153911}"Mr Vole." They didn't call me Mr|when they charged me.
+{153915}{154039}- I'll go with you, I have your hat and coat.|- Let's go before they change their mind!
+{154266}{154343}Chipper, isn't he? An hour ago,|he had one foot on the gallows
+{154346}{154397}and the other on a banana peel.
+{154400}{154478}You ought to be very proud, Wilfrid.|Aren't you?
+{154481}{154553}Not yet. We've disposed of the gallows,
+{154556}{154653}but there's still that banana peel|somewhere, under somebody's foot.
+{154657}{154695}(commotion)
+{154979}{155092}- (woman) Every word you said was a lie!|- (man) You ought to be locked up! Liar!
+{155095}{155174}You'd better wait here|until we get rid of that crowd, madam.
+{155177}{155226}Thank you.
+{155317}{155395}Ready, sir? Miss Plimsoll will be waiting.
+{155398}{155532}Let me finish the last of the cocoa|while I'm still beyond her jurisdiction.
+{155535}{155639}Would you excuse me,|Brogan-Moore, Carter? Thank you.
+{156286}{156384}I never thought you British could get|so emotional. Especially in public.
+{156387}{156447}- I apologise for my compatriots.|- It's all right.
+{156450}{156544}I don't mind being called names or|pushed around or even kicked in the shin.
+{156547}{156604}But I have a ladder|in my last pair of nylons.
+{156607}{156709}In case you are not familiar with|our prison regulations, no silk stockings.
+{156712}{156765}Prison? Will I go to prison?
+{156768}{156855}You heard the judge.|You will certainly be charged with perjury,
+{156858}{156962}- tried for it, and to prison you shall go.|- Well, it won't be for life, will it?
+{156965}{157052}If I were appearing|for the prosecution, it would be.
+{157055}{157151}You loathe me, don't you?|Like the people outside.
+{157154}{157229}What a wicked woman I am,|and how brilliantly you exposed me
+{157232}{157345}and saved Leonard's life.|The great Sir Wilfrid Robarts did it again.
+{157348}{157487}Well, let me tell you something.|You didn't do it alone. You had help.
+{157513}{157554}What are you driving at?
+{157557}{157628}I'm not driving at anything.|Leonard is free and we did it.
+{157631}{157664}- We?|- Remember?
+{157667}{157755}When you said that no jury would|believe an alibi given by a loving wife,
+{157758}{157856}no matter how much she swore|he was innocent? That gave me the idea.
+{157859}{157898}What idea?
+{157901}{158008}The idea that I should be a witness, not|for my husband, but for the prosecution.
+{158011}{158106}That I should swear Leonard was guilty|and that you should expose me as a liar
+{158109}{158212}because only then would they believe|Leonard was innocent.
+{158215}{158303}So now you know|the whole story, Sir Wilfrid.
+{158430}{158532}I'll give yer something|to dream about, mister.
+{158535}{158598}Want to kiss me, ducky?
+{158688}{158786}I suspected something, but not that.
+{158789}{158861}- Never that!|- Thank you for the compliment.
+{158864}{158954}It's been a long time since I acted|and I never played such a vital role.
+{158957}{159026}All those blue letters!
+{159029}{159117}It took me hours to write them,|to invent Max. There never was a Max.
+{159120}{159178}There's never been anyone but Leonard.
+{159181}{159235}My dear, could you not have trusted me,
+{159239}{159333}worked with me truthfully|and honourably? We would have won.
+{159337}{159406}I could not run that risk.|You thought he was innocent.
+{159410}{159486}And you knew he was innocent.|I understand.
+{159489}{159567}No, Sir Wilfrid,|you do not understand at all.
+{159570}{159630}I knew he was guilty.
+{159711}{159782}That can't be true! No!
+{159811}{159869}Listen to me, once and for all.
+{159873}{159937}He came home after ten,|he had blood on his sleeves,
+{159940}{160023}he said he had killed the woman,|only I could save him. He pleaded.
+{160027}{160101}And you saved him? A murderer?
+{160104}{160155}Again, you don't understand.
+{160158}{160207}I love him.
+{160346}{160403}I told you she was an actress.|And a good one.
+{160406}{160445}Leonard!
+{160448}{160524}I knew she'd do something,|but I just didn't know what or how.
+{160527}{160576}Leonard, Leonard.
+{160625}{160758}- Fooled you completely, didn't she?|- It was you, Vole, who fooled me.
+{160761}{160896}Oh, easy. Easy. We both got|out of this alive, let's stay this way.
+{160900}{160983}- Where are your pills?|- You've made a mockery of English law.
+{160986}{161064}Who did? You got me off|and I can't be tried again for this.
+{161067}{161177}- That's English law too, isn't it?|- You can't touch him now. Nobody can.
+{161180}{161246}The scales of justice|may tip one way or another,
+{161249}{161323}but ultimately they balance out.|You'll pay for this.
+{161326}{161426}Ultimately's a long way off. I'd rather|pay for it as soon as possible and in cash.
+{161429}{161539}Suppose we double your fee? There'll be|lots of money once the will goes through.
+{161542}{161612}I'm not cheap, I want everybody|to get something out of it.
+{161615}{161701}There's Janet McKenzie.|We'll get her that new hearing aid.
+{161705}{161824}And we'll get you a new one of these.|18-carat gold if they make them.
+{161828}{161916}And when they try you for perjury|there'll be 5,000 for the defence.
+{161919}{162033}I don't care, just so we'll be together.|You don't know what I've been through.
+{162036}{162155}Standing in the witness box, having|to face you, saying I never loved you.
+{162158}{162187}What is it, Leonard?
+{162190}{162283}The luggage is in the car and we've|only 20 minutes to catch the boat train.
+{162286}{162348}This is a nice young lady|I met during the trial.
+{162351}{162383}Len!
+{162387}{162426}Oh, Len!
+{162429}{162469}Len...
+{162507}{162596}Oh, Len, they've been trying to keep|me away. It's had me nearly crazy.
+{162599}{162659}Leonard, who's this girl?
+{162663}{162727}I'm not this girl, I'm his girl.
+{162731}{162774}Tell her, Len.
+{162778}{162861}Leonard, is this the girl|who was with you in the travel bureau?
+{162864}{162940}The girl you said you hardly knew,|didn't even know her name?
+{162943}{163055}That's right. That's who I am and I know|all about you. You're not his wife.
+{163058}{163161}Never have been. You're years older than|he is. We've been together for months
+{163164}{163306}and we're going away on a cruise,|just like they said in court. Tell her, Len.
+{163309}{163429}- Yes, Len, tell me yourself.|- All right, Diana, come along.
+{163432}{163497}You can't, not after what I've done.|I won't let you.
+{163500}{163571}I saved your life|getting you out of Germany,
+{163574}{163651}you got me out of this mess,|so we're even. It's over now.
+{163654}{163763}Don't, Leonard! Don't leave me!|Don't, Leonard! Don't!
+{163766}{163835}Pull yourself together.|They'll have you up for perjury.
+{163838}{163948}Don't make it worse|or they'll try you as an accessory.
+{163952}{164006}And you know what that means.
+{164009}{164122}I don't care. Let them. Let them try me|for perjury, or an accessory, or...
+{164146}{164209}- Ready?|- Or better yet...
+{164212}{164260}Iet them try me for...!
+{164263}{164307}Argh!
+{164386}{164430}(Diana screams)
+{164472}{164516}(sobs)
+{164824}{164934}- Call a doctor.|- It's no use. No doctor can help now.
+{164959}{165016}- What happened?|- She killed him.
+{165019}{165067}Killed him?
+{165070}{165125}She executed him.
+{165163}{165225}Carter, what have you done|with the luggage?
+{165229}{165366}I sent it on ahead to the station,|and I've got a cab waiting outside.
+{165522}{165617}- A remarkable woman.|- You can just barely catch the boat train.
+{165620}{165711}Better bring the luggage back,|and you can dismiss the cab.
+{165715}{165789}We are not going yet, are we?
+{165846}{165915}Thank you, Miss Plimsoll.
+{165918}{165983}Get Brogan-Moore to my chambers,|and Mayhew too.
+{165986}{166088}We're appearing for the defence|in the trial of Christine Vole.
+{166091}{166135}Sir Wilfrid?
+{166138}{166203}You've forgotten your brandy.
+{166746}{166792}The management of this theatre suggests
+{166795}{166897}that for the greater entertainment of|friends who have not yet seen the picture,
+{166900}{166977}you will not divulge to anyone|the secret of the ending
+{166980}{167045}of "Witness For The Prosecution".
+{167080}{167180}>> Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisw <<<<<<<<

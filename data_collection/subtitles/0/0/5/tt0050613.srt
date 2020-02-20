@@ -1,0 +1,3197 @@
+1
+00:00:18,551 --> 00:00:23,648  X1:264 X2:453 Y1:340 Y2:366
+TOHO CO., LTD.
+
+2
+00:00:31,197 --> 00:00:36,692  X1:235 X2:483 Y1:372 Y2:433
+THRONE OF BLOOD
+(Spider's Web Castle)
+
+3
+00:00:46,079 --> 00:00:51,278  X1:180 X2:541 Y1:371 Y2:433
+Producers: KUROSAWA AKIRA
+and MOTOGI SOJIRO
+
+4
+00:00:51,384 --> 00:00:56,720  X1:120 X2:600 Y1:339 Y2:430
+Screenplay by: OGUNI HI DEO,
+HASHI MOTO SHI NOBU,
+KIKUSHI MARYUZO, KUROSAWA AKIRA
+
+5
+00:00:56,823 --> 00:01:00,884  X1:152 X2:564 Y1:371 Y2:427
+Cinematography: NAKAI ASAKAZU
+Art Director: MURAKI YOSHIRO
+
+6
+00:01:05,298 --> 00:01:08,131  X1:228 X2:488 Y1:404 Y2:427
+Score: SATO MASARU
+
+7
+00:01:12,138 --> 00:01:14,106  X1:331 X2:387 Y1:404 Y2:427
+Cast:
+
+8
+00:01:14,240 --> 00:01:18,540  X1:251 X2:469 Y1:372 Y2:427
+MIFUNE TOSHIRO
+YAMADA ISUZU
+
+9
+00:01:18,678 --> 00:01:24,810  X1:128 X2:588 Y1:372 Y2:430
+SHIMURA TAKASHI, KUBO AKIRA,
+TACHI KAWA YOICHI, CHIAKI MINORU
+
+10
+00:02:19,439 --> 00:02:29,314  X1:245 X2:476 Y1:372 Y2:427
+Director:
+KUROSAWA AKIRA
+
+11
+00:02:41,294 --> 00:02:49,133  X1:236 X2:471 Y1:403 Y2:433
+Look upon the ruins
+
+12
+00:02:50,970 --> 00:02:57,899  X1:213 X2:495 Y1:403 Y2:427
+Of the castle of delusion
+
+13
+00:03:00,346 --> 00:03:05,010  X1:247 X2:463 Y1:403 Y2:433
+Haunted only now
+
+14
+00:03:05,285 --> 00:03:08,015  X1:278 X2:430 Y1:403 Y2:433
+By the spirits
+
+15
+00:03:09,455 --> 00:03:14,483  X1:223 X2:489 Y1:403 Y2:433
+Of those who perished
+
+16
+00:03:19,866 --> 00:03:27,363  X1:240 X2:464 Y1:403 Y2:433
+A scene of carnage
+
+17
+00:03:31,377 --> 00:03:36,007  X1:204 X2:503 Y1:403 Y2:433
+Born of consuming desire
+
+18
+00:03:39,018 --> 00:03:46,151  X1:260 X2:449 Y1:403 Y2:433
+Never changing
+
+19
+00:03:48,161 --> 00:03:53,656  X1:181 X2:530 Y1:403 Y2:433
+Now and throughout eternity
+
+20
+00:03:54,901 --> 00:04:01,898  X1:226 X2:492 Y1:372 Y2:427
+HERE STOOD
+SPIDER'S WEB CASTLE
+
+21
+00:05:26,659 --> 00:05:29,321  X1:253 X2:464 Y1:371 Y2:427
+Fujimaki mutinies
+at North Garrison.
+
+22
+00:05:29,529 --> 00:05:34,728  X1:176 X2:541 Y1:371 Y2:427
+Caught unawares, fire ravages
+the Fourth and Fifth Fortresses.
+
+23
+00:05:34,834 --> 00:05:36,802  X1:221 X2:497 Y1:403 Y2:427
+And the Third Fortress?
+
+24
+00:05:36,903 --> 00:05:40,464  X1:179 X2:539 Y1:371 Y2:433
+The Third Fortress had no time
+to prepare itself.
+
+25
+00:05:40,573 --> 00:05:42,404  X1:209 X2:509 Y1:403 Y2:427
+And the Second Fortress?
+
+26
+00:05:43,776 --> 00:05:48,770  X1:163 X2:554 Y1:371 Y2:427
+Fighting like a man possessed,
+Second Fortress commander Miki
+
+27
+00:05:48,981 --> 00:05:51,848  X1:237 X2:480 Y1:371 Y2:427
+has redeployed men
+of the Third Fortress.
+
+28
+00:05:51,951 --> 00:05:53,475  X1:251 X2:468 Y1:404 Y2:427
+Our First Fortress?
+
+29
+00:05:56,189 --> 00:05:59,181  X1:176 X2:541 Y1:371 Y2:430
+As flames engulfed
+the Fourth and Fifth Fortresses,
+
+30
+00:05:59,392 --> 00:06:02,418  X1:197 X2:522 Y1:372 Y2:430
+First Fortress,
+under commander Washizu,
+
+31
+00:06:02,628 --> 00:06:06,724  X1:150 X2:568 Y1:371 Y2:433
+came under assault from Inui's men,
+some 400 strong,
+
+32
+00:06:06,833 --> 00:06:09,427  X1:239 X2:479 Y1:371 Y2:427
+who poured across
+our border full force.
+
+33
+00:06:09,635 --> 00:06:12,433  X1:220 X2:498 Y1:403 Y2:430
+So, this is Inui's scheme.
+
+34
+00:06:12,538 --> 00:06:15,666  X1:140 X2:577 Y1:403 Y2:427
+And how does Washizu fare in battle?
+
+35
+00:06:15,775 --> 00:06:17,402  X1:279 X2:437 Y1:403 Y2:433
+A bitter fight.
+
+36
+00:06:18,411 --> 00:06:20,641  X1:245 X2:471 Y1:403 Y2:427
+Attend to this man.
+
+37
+00:06:37,363 --> 00:06:39,058  X1:269 X2:450 Y1:403 Y2:427
+Shall we strike?
+
+38
+00:06:39,265 --> 00:06:42,200  X1:147 X2:572 Y1:403 Y2:427
+Or barricade ourselves in this castle?
+
+39
+00:07:02,088 --> 00:07:05,057  X1:169 X2:548 Y1:403 Y2:427
+We must confine ourselves here.
+
+40
+00:07:06,392 --> 00:07:12,524  X1:124 X2:593 Y1:371 Y2:433
+Striking at forces bent on victory
+will only bring greater injury to our men.
+
+41
+00:07:13,800 --> 00:07:17,896  X1:150 X2:567 Y1:372 Y2:433
+First, post sentries
+at the edges of Spider's Web Forest,
+
+42
+00:07:18,438 --> 00:07:22,397  X1:195 X2:524 Y1:371 Y2:433
+divide our foe's forces
+by luring them into its maze,
+
+43
+00:07:22,608 --> 00:07:25,736  X1:183 X2:534 Y1:403 Y2:433
+and wound as many as we can.
+
+44
+00:07:25,945 --> 00:07:28,914  X1:189 X2:528 Y1:371 Y2:427
+Then withdraw
+and barricade ourselves here.
+
+45
+00:07:29,115 --> 00:07:31,811  X1:203 X2:513 Y1:403 Y2:433
+This would be my strategy.
+
+46
+00:07:37,323 --> 00:07:38,290  X1:280 X2:439 Y1:403 Y2:433
+Our supplies?
+
+47
+00:07:41,427 --> 00:07:46,660  X1:182 X2:534 Y1:371 Y2:433
+We can eke out three months,
+slurping gruel.
+
+48
+00:07:55,041 --> 00:07:56,303  X1:279 X2:426 Y1:403 Y2:433
+I bring word.
+
+49
+00:07:56,409 --> 00:07:59,742  X1:203 X2:502 Y1:373 Y2:427
+I am a messenger
+from the Second Fortress.
+
+50
+00:07:59,946 --> 00:08:01,846  X1:279 X2:441 Y1:403 Y2:427
+Let him enter.
+
+51
+00:08:03,583 --> 00:08:04,550  X1:279 X2:441 Y1:403 Y2:427
+Let him enter.
+
+52
+00:08:16,195 --> 00:08:19,323  X1:166 X2:554 Y1:403 Y2:433
+Lord, the tides of battle favor you.
+
+53
+00:08:19,432 --> 00:08:20,194  X1:289 X2:432 Y1:403 Y2:427
+How is that?
+
+54
+00:08:23,803 --> 00:08:28,297  X1:182 X2:535 Y1:371 Y2:433
+Even as Miki's valiant defense
+exhausted our foe's strategies,
+
+55
+00:08:28,508 --> 00:08:32,467  X1:179 X2:539 Y1:371 Y2:430
+Washizu tore through
+Inui's lines at the First Fortress,
+
+56
+00:08:32,678 --> 00:08:35,010  X1:190 X2:529 Y1:403 Y2:433
+raining arrows on their ranks.
+
+57
+00:08:35,114 --> 00:08:36,706  X1:250 X2:469 Y1:371 Y2:427
+- Washizu did this?
+- Yes.
+
+58
+00:08:36,816 --> 00:08:39,580  X1:257 X2:459 Y1:403 Y2:427
+Washizu did that.
+
+59
+00:08:39,685 --> 00:08:42,677  X1:193 X2:526 Y1:371 Y2:433
+Washizu's gambit
+has easily wasted our enemy,
+
+60
+00:08:42,889 --> 00:08:45,915  X1:207 X2:512 Y1:371 Y2:433
+and turned the tide of war
+to our advantage.
+
+61
+00:08:47,026 --> 00:08:52,328  X1:129 X2:590 Y1:371 Y2:433
+Lord, even now Washizu and Miki's men
+have driven the enemy back,
+
+62
+00:08:52,532 --> 00:08:54,193  X1:183 X2:535 Y1:403 Y2:433
+trapping them in the Garrison.
+
+63
+00:08:55,201 --> 00:08:56,293  X1:331 X2:389 Y1:403 Y2:427
+Lord.
+
+64
+00:08:57,069 --> 00:08:57,865  X1:331 X2:389 Y1:403 Y2:427
+Lord.
+
+65
+00:08:58,170 --> 00:09:01,628  X1:189 X2:532 Y1:371 Y2:433
+At the Garrison,
+Fujimaki prepares to abdicate
+
+66
+00:09:01,841 --> 00:09:03,706  X1:247 X2:471 Y1:403 Y2:433
+and begs for peace.
+
+67
+00:09:03,809 --> 00:09:05,902  X1:187 X2:532 Y1:403 Y2:433
+No, we shall not talk of peace.
+
+68
+00:09:06,012 --> 00:09:07,570  X1:306 X2:414 Y1:404 Y2:433
+Noriyasu.
+
+69
+00:09:09,916 --> 00:09:12,680  X1:209 X2:509 Y1:371 Y2:427
+Take your men
+to North Garrison at once
+
+70
+00:09:13,352 --> 00:09:15,115  X1:257 X2:460 Y1:403 Y2:433
+and slay Fujimaki.
+
+71
+00:09:15,855 --> 00:09:21,225  X1:149 X2:569 Y1:371 Y2:427
+Fortify our border positions,
+and if Inui refuses to move his men...
+
+72
+00:09:21,427 --> 00:09:25,454  X1:191 X2:528 Y1:371 Y2:433
+Bring Washizu and Miki here.
+I wish to thank them myself.
+
+73
+00:09:38,511 --> 00:09:40,172  X1:260 X2:457 Y1:403 Y2:433
+What is this day?
+
+74
+00:09:40,379 --> 00:09:42,540  X1:228 X2:490 Y1:371 Y2:433
+I have never seen
+such peculiar weather.
+
+75
+00:09:45,184 --> 00:09:48,745  X1:216 X2:504 Y1:371 Y2:433
+Make haste. I wish to see
+our Lord's joyous face.
+
+76
+00:09:50,089 --> 00:09:51,556  X1:316 X2:402 Y1:403 Y2:427
+Indeed.
+
+77
+00:10:37,203 --> 00:10:39,228  X1:294 X2:425 Y1:403 Y2:430
+No, this is...
+
+78
+00:10:39,672 --> 00:10:42,766  X1:201 X2:516 Y1:371 Y2:433
+the very path where
+we last stopped our beasts.
+
+79
+00:10:42,875 --> 00:10:46,504  X1:203 X2:515 Y1:371 Y2:427
+Indeed, see the hoof marks
+where our horses tread.
+
+80
+00:10:49,215 --> 00:10:50,648  X1:272 X2:445 Y1:403 Y2:433
+This is baffling.
+
+81
+00:10:50,850 --> 00:10:53,182  X1:155 X2:565 Y1:403 Y2:433
+Is not this the Spider's Web Forest?
+
+82
+00:10:53,386 --> 00:10:54,512  X1:252 X2:465 Y1:403 Y2:433
+Without question.
+
+83
+00:10:55,321 --> 00:10:58,085  X1:231 X2:488 Y1:371 Y2:433
+Then the castle
+must be but very near.
+
+84
+00:10:59,659 --> 00:11:02,526  X1:210 X2:508 Y1:371 Y2:427
+We have wandered
+the forest two hours now.
+
+85
+00:11:02,728 --> 00:11:04,127  X1:257 X2:462 Y1:403 Y2:433
+Finding no outlet.
+
+86
+00:11:06,132 --> 00:11:08,293  X1:157 X2:560 Y1:403 Y2:433
+The infamous Spider's Web Forest.
+
+87
+00:11:08,501 --> 00:11:10,867  X1:163 X2:555 Y1:403 Y2:433
+Stretching out like a spider's web,
+
+88
+00:11:11,070 --> 00:11:15,131  X1:180 X2:540 Y1:371 Y2:433
+protecting Spider's Web Castle
+against all foes.
+
+89
+00:11:16,509 --> 00:11:17,703  X1:297 X2:422 Y1:403 Y2:427
+Ridiculous.
+
+90
+00:11:17,910 --> 00:11:22,643  X1:178 X2:540 Y1:371 Y2:433
+Though perilous to our foes,
+surely we know this forest well.
+
+91
+00:11:36,862 --> 00:11:39,524  X1:256 X2:461 Y1:371 Y2:427
+Hear that?
+There's evil afoot.
+
+92
+00:11:39,932 --> 00:11:41,866  X1:230 X2:486 Y1:403 Y2:433
+That was an evil spirit.
+
+93
+00:11:44,437 --> 00:11:47,929  X1:225 X2:493 Y1:371 Y2:433
+Then I'll trust my spear
+to conquer it and pass.
+
+94
+00:11:48,040 --> 00:11:51,339  X1:205 X2:513 Y1:371 Y2:433
+And I shall depend upon
+my faithful bow and arrow.
+
+95
+00:12:27,747 --> 00:12:29,408  X1:281 X2:437 Y1:403 Y2:427
+What is that?
+
+96
+00:12:29,982 --> 00:12:32,246  X1:205 X2:516 Y1:403 Y2:433
+Do you recall such a hovel?
+
+97
+00:12:32,451 --> 00:12:35,682  X1:178 X2:541 Y1:403 Y2:433
+No, the sight is new to my eyes.
+
+98
+00:12:37,723 --> 00:12:39,588  X1:187 X2:530 Y1:403 Y2:433
+Also the work of an evil spirit.
+
+99
+00:12:39,792 --> 00:12:40,850  X1:304 X2:413 Y1:403 Y2:433
+And yet...
+
+100
+00:12:41,060 --> 00:12:44,461  X1:216 X2:500 Y1:371 Y2:433
+Look at the horses.
+They're out of their wits.
+
+101
+00:12:54,340 --> 00:13:02,440  X1:235 X2:474 Y1:403 Y2:433
+Strange is the world
+
+102
+00:13:03,149 --> 00:13:06,915  X1:258 X2:452 Y1:403 Y2:433
+Why should men
+
+103
+00:13:07,019 --> 00:13:12,457  X1:206 X2:504 Y1:403 Y2:427
+Receive life in this world?
+
+104
+00:13:13,359 --> 00:13:18,262  X1:177 X2:530 Y1:403 Y2:433
+Men's lives are as meaningless
+
+105
+00:13:19,098 --> 00:13:22,727  X1:226 X2:478 Y1:403 Y2:427
+As the lives of insects
+
+106
+00:13:24,203 --> 00:13:29,231  X1:260 X2:454 Y1:403 Y2:433
+The terrible folly
+
+107
+00:13:30,109 --> 00:13:35,741  X1:255 X2:455 Y1:403 Y2:433
+Of such suffering
+
+108
+00:13:39,485 --> 00:13:43,683  X1:261 X2:445 Y1:403 Y2:427
+A man lives but
+
+109
+00:13:45,157 --> 00:13:48,126  X1:231 X2:476 Y1:403 Y2:433
+As briefly as a flower
+
+110
+00:13:49,361 --> 00:13:55,698  X1:230 X2:478 Y1:403 Y2:427
+Destined all too soon
+
+111
+00:13:56,535 --> 00:14:01,700  X1:179 X2:532 Y1:403 Y2:433
+To decay into the stink of flesh
+
+112
+00:14:04,944 --> 00:14:09,278  X1:255 X2:452 Y1:404 Y2:433
+Humanity strives
+
+113
+00:14:09,481 --> 00:14:13,850  X1:288 X2:416 Y1:403 Y2:433
+All its days
+
+114
+00:14:15,454 --> 00:14:21,222  X1:238 X2:472 Y1:403 Y2:427
+To sear its own flesh
+
+115
+00:14:21,694 --> 00:14:26,529  X1:195 X2:512 Y1:403 Y2:427
+In the flames of base desire
+
+116
+00:14:28,167 --> 00:14:34,163  X1:269 X2:446 Y1:403 Y2:433
+Exposing itself
+
+117
+00:14:34,273 --> 00:14:39,370  X1:214 X2:497 Y1:403 Y2:427
+To Fate's Five Calamities
+
+118
+00:14:41,547 --> 00:14:49,716  X1:192 X2:516 Y1:403 Y2:433
+Heaping karma upon karma
+
+119
+00:14:52,625 --> 00:14:55,856  X1:238 X2:467 Y1:403 Y2:427
+All that awaits Man
+
+120
+00:14:56,362 --> 00:15:00,196  X1:288 X2:419 Y1:403 Y2:427
+At the end
+
+121
+00:15:00,299 --> 00:15:03,530  X1:276 X2:433 Y1:403 Y2:427
+Of his travails
+
+122
+00:15:05,604 --> 00:15:10,564  X1:190 X2:518 Y1:403 Y2:433
+Is the stench of rotting flesh
+
+123
+00:15:11,810 --> 00:15:16,713  X1:167 X2:547 Y1:403 Y2:433
+That will yet blossom into flower
+
+124
+00:15:18,250 --> 00:15:24,746  X1:226 X2:485 Y1:403 Y2:427
+Its foul odor rendered
+
+125
+00:15:24,957 --> 00:15:30,418  X1:239 X2:469 Y1:403 Y2:433
+Into sweet perfume
+
+126
+00:15:32,264 --> 00:15:36,200  X1:267 X2:444 Y1:403 Y2:433
+Oh, fascinating
+
+127
+00:15:37,069 --> 00:15:44,601  X1:269 X2:441 Y1:403 Y2:427
+The life of Man
+
+128
+00:15:46,478 --> 00:15:50,141  X1:267 X2:444 Y1:403 Y2:433
+Oh, fascinating
+
+129
+00:16:03,595 --> 00:16:04,425  X1:278 X2:439 Y1:403 Y2:433
+Who are you?
+
+130
+00:16:04,630 --> 00:16:07,497  X1:234 X2:485 Y1:371 Y2:433
+Are you human
+or of the spirit world?
+
+131
+00:16:08,667 --> 00:16:11,465  X1:204 X2:513 Y1:371 Y2:433
+Speak now. If you can sing,
+surely you can speak.
+
+132
+00:16:11,670 --> 00:16:13,262  X1:335 X2:382 Y1:404 Y2:427
+Yes.
+
+133
+00:16:14,606 --> 00:16:18,098  X1:252 X2:465 Y1:403 Y2:427
+Washizu Taketoki.
+
+134
+00:16:18,677 --> 00:16:22,738  X1:167 X2:550 Y1:403 Y2:427
+Commander of the First Fortress.
+
+135
+00:16:22,948 --> 00:16:25,439  X1:217 X2:500 Y1:403 Y2:427
+What? You know of me?
+
+136
+00:16:25,651 --> 00:16:26,948  X1:335 X2:382 Y1:404 Y2:427
+Yes.
+
+137
+00:16:28,153 --> 00:16:33,022  X1:203 X2:517 Y1:371 Y2:427
+From this day forward,
+Lord of the North Garrison.
+
+138
+00:16:33,125 --> 00:16:36,526  X1:184 X2:532 Y1:371 Y2:433
+What? Lord of North Garrison
+from this day?
+
+139
+00:16:37,363 --> 00:16:38,694  X1:335 X2:382 Y1:404 Y2:427
+Yes.
+
+140
+00:16:39,465 --> 00:16:43,561  X1:150 X2:567 Y1:403 Y2:433
+One day, you shall also be Sovereign
+
+141
+00:16:43,669 --> 00:16:45,796  X1:212 X2:505 Y1:403 Y2:433
+over Spider's Web Castle.
+
+142
+00:16:49,475 --> 00:16:52,467  X1:251 X2:467 Y1:371 Y2:433
+How dare you.
+Cease your jesting.
+
+143
+00:16:53,178 --> 00:16:57,308  X1:206 X2:512 Y1:403 Y2:433
+Why should you show fury
+
+144
+00:16:57,516 --> 00:17:02,317  X1:179 X2:539 Y1:403 Y2:433
+when my tidings are so joyous?
+
+145
+00:17:02,521 --> 00:17:05,354  X1:197 X2:521 Y1:371 Y2:433
+Our Great Lord
+is the only lord of the castle.
+
+146
+00:17:06,525 --> 00:17:11,360  X1:189 X2:530 Y1:403 Y2:433
+Human beings are so strange.
+
+147
+00:17:12,564 --> 00:17:18,230  X1:176 X2:541 Y1:371 Y2:427
+Terrified to look into
+the bottom of their own hearts.
+
+148
+00:17:25,077 --> 00:17:26,476  X1:299 X2:418 Y1:404 Y2:427
+Wait now.
+
+149
+00:17:27,413 --> 00:17:30,007  X1:244 X2:474 Y1:371 Y2:433
+Though this may be
+a spirit creature,
+
+150
+00:17:30,215 --> 00:17:35,847  X1:156 X2:561 Y1:371 Y2:433
+it would not jest
+with your arrow poised at its heart.
+
+151
+00:17:36,388 --> 00:17:38,913  X1:219 X2:500 Y1:403 Y2:433
+Let me question further.
+
+152
+00:17:39,558 --> 00:17:42,026  X1:265 X2:452 Y1:403 Y2:427
+Answer me this.
+
+153
+00:17:44,530 --> 00:17:48,899  X1:185 X2:533 Y1:371 Y2:433
+Do you see into the future
+as clearly as my eyes now see?
+
+154
+00:17:49,101 --> 00:17:50,398  X1:335 X2:382 Y1:404 Y2:427
+Yes.
+
+155
+00:17:51,703 --> 00:17:54,934  X1:280 X2:439 Y1:403 Y2:427
+Miki Yoshiaki.
+
+156
+00:17:55,741 --> 00:17:59,507  X1:150 X2:567 Y1:403 Y2:427
+Commander of the Second Fortress.
+
+157
+00:18:00,112 --> 00:18:04,606  X1:169 X2:549 Y1:371 Y2:427
+And henceforward,
+commander of the First Fortress.
+
+158
+00:18:06,318 --> 00:18:09,082  X1:188 X2:530 Y1:371 Y2:427
+Even today,
+commander of First Fortress?
+
+159
+00:18:13,459 --> 00:18:16,223  X1:155 X2:562 Y1:403 Y2:433
+And my realm and rank thereafter?
+
+160
+00:18:17,996 --> 00:18:20,726  X1:285 X2:433 Y1:403 Y2:433
+Your destiny
+
+161
+00:18:20,933 --> 00:18:25,063  X1:204 X2:516 Y1:371 Y2:427
+is both smaller and greater
+than that of Washizu.
+
+162
+00:18:25,938 --> 00:18:26,768  X1:320 X2:398 Y1:403 Y2:427
+What?
+
+163
+00:18:27,506 --> 00:18:29,098  X1:196 X2:522 Y1:403 Y2:433
+What can you mean by this?
+
+164
+00:18:30,309 --> 00:18:33,574  X1:311 X2:408 Y1:403 Y2:433
+One day
+
+165
+00:18:33,779 --> 00:18:36,577  X1:253 X2:465 Y1:403 Y2:433
+your son shall rule
+
+166
+00:18:36,682 --> 00:18:38,650  X1:241 X2:477 Y1:403 Y2:433
+Spider's Web Castle.
+
+167
+00:22:48,266 --> 00:22:50,496  X1:233 X2:484 Y1:403 Y2:430
+Ah, there's the castle.
+
+168
+00:22:51,236 --> 00:22:55,002  X1:178 X2:542 Y1:371 Y2:433
+Finally free of that spider's web.
+Come, at a gallop.
+
+169
+00:22:55,207 --> 00:22:56,868  X1:309 X2:411 Y1:404 Y2:430
+No, wait.
+
+170
+00:22:57,576 --> 00:23:02,070  X1:176 X2:540 Y1:371 Y2:433
+My fatigue is great. My armor
+weighs heavily, as never before.
+
+171
+00:23:03,215 --> 00:23:04,580  X1:265 X2:451 Y1:403 Y2:427
+And no wonder.
+
+172
+00:23:04,783 --> 00:23:07,980  X1:209 X2:508 Y1:371 Y2:433
+We've tired three mounts
+since yesterday's battle.
+
+173
+00:23:08,186 --> 00:23:09,653  X1:279 X2:439 Y1:403 Y2:427
+Shall we rest?
+
+174
+00:23:22,567 --> 00:23:24,501  X1:294 X2:425 Y1:403 Y2:433
+I'm drowsy.
+
+175
+00:23:25,804 --> 00:23:29,831  X1:205 X2:514 Y1:371 Y2:433
+I desire nothing more than
+a deep, restful sleep.
+
+176
+00:23:32,611 --> 00:23:37,207  X1:227 X2:490 Y1:371 Y2:433
+I can't help but feel
+this is already a dream.
+
+177
+00:23:38,150 --> 00:23:40,744  X1:184 X2:535 Y1:403 Y2:433
+Our encounter with that spirit
+
+178
+00:23:40,952 --> 00:23:43,785  X1:194 X2:525 Y1:403 Y2:433
+may well have been a dream.
+
+179
+00:23:43,989 --> 00:23:47,390  X1:209 X2:508 Y1:371 Y2:427
+They say dreams manifest
+our basest desires.
+
+180
+00:23:47,959 --> 00:23:53,420  X1:160 X2:559 Y1:371 Y2:433
+In truth, who would not dream
+of ruling over a vanquished castle?
+
+181
+00:23:54,800 --> 00:23:58,702  X1:179 X2:540 Y1:371 Y2:427
+It seems your son shall become
+Great Lord of that castle.
+
+182
+00:23:58,904 --> 00:24:03,898  X1:182 X2:535 Y1:371 Y2:427
+No, it is you, yourself,
+who shall rule over that castle.
+
+183
+00:24:07,946 --> 00:24:13,282  X1:203 X2:517 Y1:371 Y2:427
+But first, I must become
+Lord of the North Garrison.
+
+184
+00:24:13,485 --> 00:24:15,885  X1:236 X2:483 Y1:371 Y2:427
+And I, commander of
+the First Fortress.
+
+185
+00:24:16,087 --> 00:24:17,577  X1:267 X2:451 Y1:371 Y2:433
+- Joyous tidings.
+- Joyous tidings.
+
+186
+00:24:27,032 --> 00:24:28,659  X1:322 X2:395 Y1:372 Y2:427
+- Yet...
+- Yet...
+
+187
+00:24:29,501 --> 00:24:33,961  X1:154 X2:564 Y1:371 Y2:433
+- What? What did you mean to say?
+- No, what did you?
+
+188
+00:24:37,175 --> 00:24:41,134  X1:176 X2:540 Y1:403 Y2:433
+And yet, what if as of this night,
+
+189
+00:24:41,646 --> 00:24:44,444  X1:149 X2:569 Y1:403 Y2:430
+I do become Lord of North Garrison,
+
+190
+00:24:44,649 --> 00:24:47,482  X1:163 X2:554 Y1:403 Y2:433
+and you command First Fortress...
+
+191
+00:25:18,917 --> 00:25:21,317  X1:149 X2:570 Y1:403 Y2:433
+Most distinguished warrior in battle,
+
+192
+00:25:21,520 --> 00:25:23,511  X1:252 X2:465 Y1:403 Y2:427
+Washizu Taketoki.
+
+193
+00:25:34,933 --> 00:25:38,266  X1:225 X2:494 Y1:371 Y2:427
+Henceforward, you are
+Lord of North Garrison.
+
+194
+00:25:52,551 --> 00:25:54,382  X1:280 X2:439 Y1:403 Y2:427
+Miki Yoshiaki.
+
+195
+00:25:54,586 --> 00:25:57,817  X1:133 X2:584 Y1:403 Y2:433
+Your service was equally distinguished.
+
+196
+00:26:08,533 --> 00:26:10,933  X1:220 X2:500 Y1:403 Y2:433
+From this night forward,
+
+197
+00:26:11,036 --> 00:26:13,334  X1:168 X2:549 Y1:403 Y2:427
+commander of our First Fortress.
+
+198
+00:27:27,846 --> 00:27:29,313  X1:259 X2:458 Y1:403 Y2:433
+Awfully peaceful.
+
+199
+00:27:29,514 --> 00:27:32,142  X1:228 X2:489 Y1:403 Y2:433
+Surely, this is paradise.
+
+200
+00:27:32,450 --> 00:27:35,578  X1:198 X2:519 Y1:371 Y2:427
+Vastly superior to
+the discomfort of a fortress.
+
+201
+00:27:35,787 --> 00:27:38,119  X1:196 X2:524 Y1:403 Y2:433
+Life can always be improved.
+
+202
+00:27:38,323 --> 00:27:40,814  X1:151 X2:568 Y1:403 Y2:430
+Fine fortune for we who serve them,
+
+203
+00:27:41,026 --> 00:27:44,689  X1:232 X2:488 Y1:371 Y2:427
+but our Lord and Lady
+must be well satisfied.
+
+204
+00:28:20,365 --> 00:28:23,061  X1:229 X2:490 Y1:403 Y2:433
+Is your heart resolved?
+
+205
+00:28:23,268 --> 00:28:24,292  X1:340 X2:380 Y1:404 Y2:427
+No.
+
+206
+00:28:25,503 --> 00:28:29,405  X1:227 X2:492 Y1:403 Y2:427
+I dreamt an evil dream.
+
+207
+00:28:30,241 --> 00:28:33,802  X1:203 X2:517 Y1:403 Y2:433
+Beguiled by a wicked spirit.
+
+208
+00:28:34,279 --> 00:28:36,474  X1:234 X2:486 Y1:403 Y2:433
+But I no longer waver.
+
+209
+00:28:37,015 --> 00:28:41,042  X1:196 X2:524 Y1:371 Y2:433
+Preposterous, to wish I were
+Lord of Spider's Web Castle.
+
+210
+00:28:41,252 --> 00:28:45,552  X1:145 X2:575 Y1:403 Y2:433
+Do not call your dream preposterous.
+
+211
+00:28:46,024 --> 00:28:51,326  X1:171 X2:546 Y1:371 Y2:427
+Any man who takes bow in hand
+would dream of such a fate.
+
+212
+00:28:51,529 --> 00:28:52,860  X1:340 X2:380 Y1:404 Y2:427
+No.
+
+213
+00:28:55,266 --> 00:28:58,099  X1:225 X2:493 Y1:403 Y2:433
+I prefer to remain here.
+
+214
+00:28:58,937 --> 00:29:02,839  X1:209 X2:512 Y1:371 Y2:427
+I will serve my Lord loyally
+from this Garrison.
+
+215
+00:29:03,374 --> 00:29:06,366  X1:211 X2:507 Y1:371 Y2:433
+Savor the peace
+of a life befitting my rank.
+
+216
+00:29:07,045 --> 00:29:09,878  X1:190 X2:528 Y1:371 Y2:427
+- That shall not come to pass.
+- What?
+
+217
+00:29:11,116 --> 00:29:14,176  X1:143 X2:574 Y1:403 Y2:427
+What if Miki Yoshiaki should disclose
+
+218
+00:29:14,385 --> 00:29:18,719  X1:203 X2:516 Y1:371 Y2:427
+the forest spirit's prophecy
+to our Great Lord?
+
+219
+00:29:20,792 --> 00:29:24,125  X1:212 X2:504 Y1:371 Y2:427
+If that comes to pass,
+we shall not survive here.
+
+220
+00:29:25,663 --> 00:29:29,963  X1:164 X2:554 Y1:371 Y2:430
+At once, the Great Lord would
+surround this castle with his men,
+
+221
+00:29:30,168 --> 00:29:35,800  X1:204 X2:513 Y1:371 Y2:433
+jealous of the threat
+you pose to his hegemony.
+
+222
+00:29:39,244 --> 00:29:42,645  X1:238 X2:480 Y1:371 Y2:433
+My Lord, you have
+but two paths ahead.
+
+223
+00:29:43,815 --> 00:29:48,218  X1:180 X2:540 Y1:371 Y2:433
+Remain here and patiently wait
+for our Great Lord to slay you,
+
+224
+00:29:48,953 --> 00:29:53,583  X1:174 X2:544 Y1:371 Y2:433
+or slay him first and become
+the Lord of Spider's Web Castle.
+
+225
+00:30:03,201 --> 00:30:06,762  X1:225 X2:491 Y1:371 Y2:433
+Slaying the Great Lord
+would be high treason.
+
+226
+00:30:06,971 --> 00:30:09,439  X1:229 X2:490 Y1:403 Y2:427
+Did not the Great Lord
+
+227
+00:30:09,641 --> 00:30:14,340  X1:198 X2:521 Y1:371 Y2:433
+secure his own position
+murdering his predecessor?
+
+228
+00:30:14,445 --> 00:30:19,280  X1:157 X2:561 Y1:371 Y2:433
+No, only because his own Lord
+doubted him and sought his death.
+
+229
+00:30:21,619 --> 00:30:25,350  X1:210 X2:508 Y1:403 Y2:427
+Our Great Lord trusts me.
+
+230
+00:30:26,024 --> 00:30:28,356  X1:186 X2:534 Y1:403 Y2:427
+He treasures me like no other.
+
+231
+00:30:28,560 --> 00:30:34,430  X1:175 X2:543 Y1:371 Y2:433
+Only because he does not know
+the depths of your heart.
+
+232
+00:30:35,834 --> 00:30:37,665  X1:303 X2:418 Y1:403 Y2:433
+My heart?
+
+233
+00:30:38,837 --> 00:30:41,328  X1:191 X2:525 Y1:403 Y2:433
+There is nothing in my heart.
+
+234
+00:30:45,143 --> 00:30:46,474  X1:290 X2:427 Y1:403 Y2:427
+That is a lie.
+
+235
+00:30:49,848 --> 00:30:51,179  X1:297 X2:422 Y1:403 Y2:427
+Ridiculous.
+
+236
+00:30:51,816 --> 00:30:56,344  X1:159 X2:557 Y1:371 Y2:433
+I am... perfectly content
+with my station at North Garrison.
+
+237
+00:30:56,588 --> 00:30:59,716  X1:233 X2:486 Y1:403 Y2:430
+Even if that were true,
+
+238
+00:30:59,924 --> 00:31:03,883  X1:198 X2:519 Y1:371 Y2:430
+do you think the Great Lord
+will trust it is so,
+
+239
+00:31:04,095 --> 00:31:07,861  X1:223 X2:493 Y1:371 Y2:433
+should Miki inform him
+of that prophecy?
+
+240
+00:31:10,835 --> 00:31:12,826  X1:314 X2:406 Y1:403 Y2:427
+Miki is...
+
+241
+00:31:13,037 --> 00:31:15,733  X1:229 X2:489 Y1:371 Y2:427
+Miki is my beloved
+friend from childhood.
+
+242
+00:31:16,040 --> 00:31:17,905  X1:206 X2:514 Y1:403 Y2:433
+He is incapable of betrayal.
+
+243
+00:31:18,109 --> 00:31:21,169  X1:146 X2:571 Y1:403 Y2:430
+To advance themselves in this world,
+
+244
+00:31:21,379 --> 00:31:25,907  X1:202 X2:515 Y1:371 Y2:433
+parents will kill children,
+and children, their parents.
+
+245
+00:31:27,018 --> 00:31:33,048  X1:159 X2:559 Y1:371 Y2:427
+In this degenerate age,
+one must kill so as not to be killed.
+
+246
+00:31:34,626 --> 00:31:40,724  X1:148 X2:571 Y1:371 Y2:433
+I cannot help wondering if Miki
+has already informed the Great Lord.
+
+247
+00:31:41,232 --> 00:31:44,326  X1:180 X2:538 Y1:403 Y2:433
+I have no respite from this fear.
+
+248
+00:31:48,273 --> 00:31:51,538  X1:237 X2:480 Y1:371 Y2:433
+Asaji. Do not speak
+of your doubts again.
+
+249
+00:31:51,743 --> 00:31:53,108  X1:323 X2:382 Y1:403 Y2:427
+Lord.
+
+250
+00:31:57,849 --> 00:32:01,876  X1:137 X2:580 Y1:371 Y2:433
+I've word. 300 men of
+Spider's Web Castle lurk in the woods.
+
+251
+00:32:02,086 --> 00:32:04,452  X1:175 X2:542 Y1:403 Y2:433
+They have assembled in silence.
+
+252
+00:32:04,656 --> 00:32:07,124  X1:302 X2:403 Y1:403 Y2:433
+My Lord.
+
+253
+00:32:10,995 --> 00:32:16,399  X1:128 X2:589 Y1:371 Y2:430
+The forests surrounding North Garrison
+are thick with armed men,
+
+254
+00:32:16,601 --> 00:32:19,069  X1:193 X2:524 Y1:403 Y2:433
+all from Spider's Web Castle.
+
+255
+00:32:19,270 --> 00:32:24,207  X1:158 X2:559 Y1:371 Y2:433
+Their flags and spears are lowered,
+their horses bridled with twigs.
+
+256
+00:32:36,788 --> 00:32:39,814  X1:225 X2:494 Y1:371 Y2:427
+News for Washizu,
+Lord of North Garrison.
+
+257
+00:32:40,024 --> 00:32:42,652  X1:197 X2:519 Y1:403 Y2:433
+The Great Lord approaches.
+
+258
+00:32:45,897 --> 00:32:46,864  X1:296 X2:421 Y1:403 Y2:427
+What is it?
+
+259
+00:32:47,065 --> 00:32:50,159  X1:149 X2:571 Y1:403 Y2:433
+My Lord, the Great Lord approaches.
+
+260
+00:32:50,368 --> 00:32:52,165  X1:234 X2:486 Y1:403 Y2:433
+Men, form your ranks.
+
+261
+00:32:53,538 --> 00:32:55,233  X1:263 X2:456 Y1:403 Y2:433
+Form your ranks.
+
+262
+00:32:58,543 --> 00:33:00,238  X1:291 X2:428 Y1:403 Y2:430
+Fall in, men.
+
+263
+00:33:00,445 --> 00:33:02,106  X1:206 X2:510 Y1:403 Y2:430
+Washizu, there is no need.
+
+264
+00:33:02,213 --> 00:33:04,943  X1:235 X2:482 Y1:371 Y2:433
+The Great Lord is out
+hunting incognito.
+
+265
+00:33:05,149 --> 00:33:08,744  X1:221 X2:497 Y1:371 Y2:433
+And thus no need
+for an official reception.
+
+266
+00:34:02,507 --> 00:34:06,568  X1:235 X2:483 Y1:371 Y2:433
+My congratulations
+on your bountiful kill.
+
+267
+00:34:06,677 --> 00:34:10,238  X1:192 X2:529 Y1:403 Y2:433
+No, the hunt is only a pretext
+
+268
+00:34:13,017 --> 00:34:15,679  X1:209 X2:508 Y1:371 Y2:427
+that I may deploy my men
+to attack Inui.
+
+269
+00:34:19,157 --> 00:34:21,216  X1:198 X2:520 Y1:403 Y2:427
+Inui's behavior is untenable.
+
+270
+00:34:21,325 --> 00:34:24,123  X1:184 X2:536 Y1:403 Y2:433
+Knowing this day would come,
+
+271
+00:34:24,328 --> 00:34:26,922  X1:203 X2:518 Y1:371 Y2:433
+I overlooked his conspiracy
+with Fujimaki.
+
+272
+00:34:27,298 --> 00:34:31,428  X1:179 X2:539 Y1:371 Y2:430
+Take heed. Hereafter, I quarter
+at North Garrison here,
+
+273
+00:34:31,869 --> 00:34:36,329  X1:139 X2:578 Y1:371 Y2:433
+secretly fortify our border,
+and attack when opportunity permits.
+
+274
+00:34:36,541 --> 00:34:40,637  X1:169 X2:550 Y1:403 Y2:433
+Until then, not a word to anyone.
+
+275
+00:34:42,814 --> 00:34:44,406  X1:299 X2:419 Y1:371 Y2:427
+- Washizu.
+- Sir.
+
+276
+00:34:44,515 --> 00:34:46,608  X1:322 X2:396 Y1:371 Y2:427
+- Miki.
+- Sir.
+
+277
+00:34:46,984 --> 00:34:49,043  X1:202 X2:517 Y1:403 Y2:433
+I elevate you in recognition
+
+278
+00:34:49,153 --> 00:34:50,211  X1:265 X2:453 Y1:403 Y2:433
+of your courage.
+
+279
+00:34:50,588 --> 00:34:53,751  X1:200 X2:517 Y1:371 Y2:433
+Washizu take my vanguard,
+Miki, Spider's Web Castle.
+
+280
+00:34:53,858 --> 00:34:54,847  X1:332 X2:385 Y1:372 Y2:427
+- Sir.
+- Sir.
+
+281
+00:35:08,573 --> 00:35:10,063  X1:327 X2:389 Y1:404 Y2:433
+Asaji.
+
+282
+00:35:11,709 --> 00:35:15,145  X1:207 X2:514 Y1:371 Y2:433
+Now your suspicious heart
+must find respite.
+
+283
+00:35:18,549 --> 00:35:22,007  X1:210 X2:508 Y1:403 Y2:427
+Our Great Lord trusts me.
+
+284
+00:35:23,187 --> 00:35:29,057  X1:167 X2:551 Y1:371 Y2:433
+In your uneasy heart that would
+slander Miki, that evil spirit lurks.
+
+285
+00:35:29,260 --> 00:35:31,592  X1:273 X2:445 Y1:404 Y2:433
+I cannot agree.
+
+286
+00:35:34,298 --> 00:35:36,926  X1:203 X2:513 Y1:403 Y2:433
+And still you doubt. Listen.
+
+287
+00:35:38,069 --> 00:35:41,869  X1:171 X2:548 Y1:371 Y2:427
+Great Lord places his trust in me
+above all others.
+
+288
+00:35:42,874 --> 00:35:47,402  X1:171 X2:548 Y1:371 Y2:433
+Thus he gives me the noble rank
+of vanguard commander.
+
+289
+00:35:47,612 --> 00:35:50,206  X1:203 X2:515 Y1:403 Y2:433
+This vanguard commander
+
+290
+00:35:50,414 --> 00:35:53,713  X1:229 X2:490 Y1:371 Y2:433
+is vulnerable to arrows
+on every side.
+
+291
+00:36:01,425 --> 00:36:04,223  X1:251 X2:467 Y1:403 Y2:427
+Great Lord is a fox.
+
+292
+00:36:04,562 --> 00:36:08,362  X1:177 X2:540 Y1:371 Y2:430
+With easy words, he cheats you
+of the North Garrison,
+
+293
+00:36:08,799 --> 00:36:11,597  X1:232 X2:485 Y1:403 Y2:427
+sends his trusted Miki
+
+294
+00:36:11,802 --> 00:36:15,932  X1:188 X2:529 Y1:371 Y2:433
+out of danger
+to guard Spider's Web Castle,
+
+295
+00:36:17,008 --> 00:36:20,967  X1:190 X2:528 Y1:371 Y2:433
+and casts you, his most hated
+adversary, into danger.
+
+296
+00:36:25,416 --> 00:36:28,874  X1:152 X2:567 Y1:403 Y2:433
+From the heights of the castle keep,
+
+297
+00:36:29,120 --> 00:36:34,422  X1:168 X2:551 Y1:371 Y2:433
+Miki will laugh as he watches you
+take your last gullible breath.
+
+298
+00:36:48,773 --> 00:36:51,207  X1:202 X2:515 Y1:371 Y2:427
+- Who's there?
+- We are with the Garrison.
+
+299
+00:36:52,343 --> 00:36:56,245  X1:192 X2:524 Y1:371 Y2:433
+That way lie the Great Lord's
+sleeping quarters.
+
+300
+00:36:56,480 --> 00:36:58,607  X1:196 X2:523 Y1:403 Y2:433
+No one may approach them.
+
+301
+00:36:58,716 --> 00:37:01,014  X1:211 X2:508 Y1:403 Y2:433
+I do not seek his quarters.
+
+302
+00:37:01,219 --> 00:37:03,449  X1:167 X2:552 Y1:403 Y2:427
+I come to air the sealed chamber.
+
+303
+00:37:04,488 --> 00:37:05,512  X1:260 X2:459 Y1:403 Y2:427
+Sealed chamber?
+
+304
+00:37:06,691 --> 00:37:10,650  X1:164 X2:553 Y1:371 Y2:433
+The place where the former Lord,
+Fujimaki, took his life.
+
+305
+00:37:11,562 --> 00:37:14,588  X1:212 X2:509 Y1:371 Y2:430
+No scrubbing will cleanse
+the bloodstained floor,
+
+306
+00:37:14,799 --> 00:37:17,461  X1:232 X2:488 Y1:371 Y2:427
+and thus the chamber
+remains locked.
+
+307
+00:37:17,568 --> 00:37:20,264  X1:144 X2:573 Y1:403 Y2:433
+Why open the room on such a night?
+
+308
+00:37:21,405 --> 00:37:24,135  X1:224 X2:494 Y1:371 Y2:430
+The Great Lord sleeps
+in our Lord's chambers,
+
+309
+00:37:24,342 --> 00:37:26,207  X1:225 X2:492 Y1:403 Y2:427
+thus he must rest here.
+
+310
+00:37:26,711 --> 00:37:30,477  X1:205 X2:513 Y1:371 Y2:433
+I thank you for your labors.
+You may pass.
+
+311
+00:38:25,102 --> 00:38:26,729  X1:278 X2:442 Y1:403 Y2:433
+Most peculiar.
+
+312
+00:38:28,272 --> 00:38:33,335  X1:184 X2:533 Y1:371 Y2:430
+Though I have waded through
+endless mires of battle dead,
+
+313
+00:38:34,078 --> 00:38:37,878  X1:218 X2:501 Y1:371 Y2:433
+these blood stains never
+fail to chill my spine.
+
+314
+00:38:44,655 --> 00:38:46,623  X1:231 X2:488 Y1:403 Y2:433
+For this is dog's blood.
+
+315
+00:38:46,824 --> 00:38:50,260  X1:177 X2:539 Y1:403 Y2:427
+The blood of a traitor most foul
+
+316
+00:38:50,461 --> 00:38:52,861  X1:156 X2:560 Y1:403 Y2:430
+who, when his rash schemes failed,
+
+317
+00:38:53,064 --> 00:38:57,626  X1:164 X2:554 Y1:371 Y2:427
+begged our Great Lord for his life.
+This is coward's blood.
+
+318
+00:39:11,615 --> 00:39:15,915  X1:151 X2:568 Y1:403 Y2:433
+Damn, even the birds cry ominously.
+
+319
+00:39:26,797 --> 00:39:30,824  X1:238 X2:480 Y1:371 Y2:433
+You accuse me of
+doubting too deeply.
+
+320
+00:39:31,369 --> 00:39:33,963  X1:188 X2:529 Y1:403 Y2:433
+Yet even my distrustful heart,
+
+321
+00:39:34,171 --> 00:39:38,505  X1:233 X2:485 Y1:371 Y2:433
+cannot help but trust
+that spirit's prophecy.
+
+322
+00:39:39,643 --> 00:39:42,942  X1:145 X2:573 Y1:403 Y2:433
+Open your eyes and look for yourself.
+
+323
+00:39:43,714 --> 00:39:46,581  X1:214 X2:507 Y1:371 Y2:433
+Each truthful provision of
+that prophecy
+
+324
+00:39:46,784 --> 00:39:52,017  X1:150 X2:567 Y1:371 Y2:433
+has come to pass,
+without the slightest help from you.
+
+325
+00:39:54,859 --> 00:39:57,919  X1:178 X2:543 Y1:403 Y2:433
+Do you still not comprehend it?
+
+326
+00:39:58,863 --> 00:40:04,324  X1:182 X2:537 Y1:371 Y2:433
+The Great Lord himself
+has flown into your very hands.
+
+327
+00:40:06,036 --> 00:40:11,668  X1:110 X2:607 Y1:371 Y2:433
+If you let this night pass,
+such an opportunity will never come again.
+
+328
+00:40:22,586 --> 00:40:23,678  X1:304 X2:413 Y1:403 Y2:433
+And yet...
+
+329
+00:40:24,822 --> 00:40:27,052  X1:201 X2:518 Y1:371 Y2:433
+under what pretext
+can I commit high treason?
+
+330
+00:40:27,258 --> 00:40:30,819  X1:229 X2:490 Y1:371 Y2:433
+In any case, all his men
+will turn against me.
+
+331
+00:40:31,028 --> 00:40:34,191  X1:225 X2:492 Y1:371 Y2:433
+Though the Great Lord
+claims to trust you,
+
+332
+00:40:34,398 --> 00:40:40,166  X1:141 X2:578 Y1:371 Y2:433
+he's left Noriyasu's men to guard him.
+This is our good fortune.
+
+333
+00:40:41,439 --> 00:40:45,876  X1:144 X2:573 Y1:371 Y2:433
+We'll quench their thirst
+with a sleeping potion mixed in sake.
+
+334
+00:40:46,076 --> 00:40:50,206  X1:192 X2:525 Y1:371 Y2:433
+As his guards dream,
+you shall slay the Great Lord,
+
+335
+00:40:50,614 --> 00:40:54,482  X1:171 X2:547 Y1:371 Y2:427
+and denounce Noriyasu
+as the murderer to his own men.
+
+336
+00:41:05,896 --> 00:41:09,593  X1:152 X2:565 Y1:403 Y2:433
+What do you hear in that bird's cry?
+
+337
+00:41:14,238 --> 00:41:16,570  X1:211 X2:506 Y1:403 Y2:433
+"Will you risk the world?"
+
+338
+00:41:17,107 --> 00:41:20,235  X1:249 X2:469 Y1:403 Y2:427
+So it sounds to me.
+
+339
+00:41:27,251 --> 00:41:30,220  X1:208 X2:508 Y1:403 Y2:427
+Ambition makes the man.
+
+340
+00:41:30,454 --> 00:41:32,718  X1:148 X2:571 Y1:403 Y2:433
+From your stronghold, Spider's Web,
+
+341
+00:41:32,923 --> 00:41:37,519  X1:157 X2:560 Y1:371 Y2:433
+you may yet aspire to all the world.
+The cry is from heaven.
+
+342
+00:42:07,525 --> 00:42:08,822  X1:281 X2:437 Y1:403 Y2:427
+Who's there?
+
+343
+00:42:09,493 --> 00:42:11,927  X1:165 X2:543 Y1:403 Y2:433
+Your sleeping quarters are ready.
+
+344
+00:42:16,367 --> 00:42:18,232  X1:292 X2:426 Y1:403 Y2:427
+Good work.
+
+345
+00:42:20,337 --> 00:42:24,068  X1:217 X2:502 Y1:371 Y2:433
+And how did you leave
+the Great Lord's guards?
+
+346
+00:42:24,308 --> 00:42:27,641  X1:186 X2:521 Y1:371 Y2:433
+Spears poised, they maintain
+their sleepless vigil.
+
+347
+00:42:27,845 --> 00:42:29,972  X1:270 X2:449 Y1:403 Y2:433
+Indeed they do.
+
+348
+00:42:31,649 --> 00:42:34,982  X1:162 X2:558 Y1:403 Y2:430
+Let us offer them some sake, then.
+
+349
+00:49:12,449 --> 00:49:14,940  X1:243 X2:476 Y1:403 Y2:427
+Intruders! Intruders!
+
+350
+00:49:23,727 --> 00:49:24,989  X1:295 X2:421 Y1:403 Y2:427
+Take arms!
+
+351
+00:49:29,132 --> 00:49:31,760  X1:197 X2:519 Y1:403 Y2:433
+The Great Lord is in danger.
+
+352
+00:49:44,548 --> 00:49:46,311  X1:315 X2:402 Y1:404 Y2:427
+Traitor.
+
+353
+00:50:26,957 --> 00:50:29,721  X1:189 X2:529 Y1:372 Y2:433
+- Let me go.
+- You must hold your temper.
+
+354
+00:50:29,826 --> 00:50:32,818  X1:180 X2:539 Y1:403 Y2:430
+First, back to the castle, Prince.
+
+355
+00:50:33,030 --> 00:50:34,588  X1:299 X2:420 Y1:404 Y2:433
+Let me go.
+
+356
+00:50:35,298 --> 00:50:37,391  X1:190 X2:527 Y1:403 Y2:433
+Surely this is Washizu's work.
+
+357
+00:50:37,601 --> 00:50:39,899  X1:157 X2:562 Y1:403 Y2:433
+Flee now and they mark us traitors.
+
+358
+00:50:40,003 --> 00:50:42,267  X1:234 X2:485 Y1:404 Y2:433
+Hear my story, Prince.
+
+359
+00:50:42,472 --> 00:50:44,099  X1:225 X2:494 Y1:403 Y2:433
+No justice for the dead.
+
+360
+00:50:44,207 --> 00:50:47,768  X1:285 X2:435 Y1:372 Y2:433
+Let me go.
+Let go of me.
+
+361
+00:50:57,654 --> 00:51:01,522  X1:214 X2:506 Y1:371 Y2:433
+Do not heed the minions.
+Noriyasu is our only foe.
+
+362
+00:51:02,292 --> 00:51:05,193  X1:239 X2:478 Y1:371 Y2:433
+- Where's Noriyasu?
+- He was nearly ours.
+
+363
+00:51:05,295 --> 00:51:07,855  X1:265 X2:453 Y1:403 Y2:433
+So he's escaped.
+
+364
+00:51:08,065 --> 00:51:10,966  X1:244 X2:476 Y1:371 Y2:433
+He fled to the castle
+with the prince.
+
+365
+00:51:11,334 --> 00:51:13,928  X1:248 X2:470 Y1:371 Y2:433
+What, to the castle
+with the prince?
+
+366
+00:51:14,137 --> 00:51:16,970  X1:195 X2:526 Y1:371 Y2:433
+My God. Spider's Web Castle
+is in Miki's charge.
+
+367
+00:51:17,174 --> 00:51:18,801  X1:222 X2:497 Y1:403 Y2:427
+If he admits those two...
+
+368
+00:51:19,009 --> 00:51:21,944  X1:191 X2:526 Y1:371 Y2:427
+Admitting those foul traitors
+insults our Great Lord.
+
+369
+00:51:23,280 --> 00:51:24,372  X1:279 X2:441 Y1:403 Y2:427
+Press forward.
+
+370
+00:51:46,703 --> 00:51:48,830  X1:294 X2:423 Y1:403 Y2:427
+Give chase.
+
+371
+00:51:56,313 --> 00:51:58,508  X1:251 X2:468 Y1:403 Y2:433
+Ready your arrows.
+
+372
+00:53:16,026 --> 00:53:17,857  X1:289 X2:431 Y1:403 Y2:427
+Damn them.
+
+373
+00:53:25,268 --> 00:53:26,428  X1:243 X2:473 Y1:403 Y2:427
+Word for Lord Miki.
+
+374
+00:53:27,604 --> 00:53:31,199  X1:185 X2:532 Y1:371 Y2:433
+As he prepared to attack Inui,
+our Great Lord died tragically,
+
+375
+00:53:31,408 --> 00:53:34,900  X1:184 X2:533 Y1:371 Y2:427
+in the Garrison
+at Washizu's treasonous hand.
+
+376
+00:53:35,011 --> 00:53:37,502  X1:176 X2:544 Y1:403 Y2:433
+I, Noriyasu, fought my way back
+
+377
+00:53:37,614 --> 00:53:41,710  X1:193 X2:525 Y1:371 Y2:433
+to this castle with the prince
+under my protection.
+
+378
+00:53:42,719 --> 00:53:44,448  X1:218 X2:499 Y1:403 Y2:433
+Open the gates in haste.
+
+379
+00:53:45,455 --> 00:53:46,820  X1:267 X2:451 Y1:403 Y2:433
+Open the gates.
+
+380
+00:53:48,191 --> 00:53:49,249  X1:302 X2:418 Y1:403 Y2:427
+Lord Miki.
+
+381
+00:53:49,359 --> 00:53:51,122  X1:195 X2:521 Y1:403 Y2:433
+Washizu swiftly approaches.
+
+382
+00:53:52,195 --> 00:53:54,186  X1:267 X2:451 Y1:403 Y2:433
+Open the gates.
+
+383
+00:53:55,365 --> 00:53:58,562  X1:267 X2:451 Y1:403 Y2:433
+Open the gates.
+
+384
+00:54:18,054 --> 00:54:19,578  X1:245 X2:476 Y1:403 Y2:433
+Miki, how dare you?
+
+385
+00:54:19,823 --> 00:54:21,256  X1:321 X2:399 Y1:404 Y2:427
+Prince.
+
+386
+00:54:40,010 --> 00:54:41,477  X1:254 X2:463 Y1:403 Y2:430
+Strike them, Lord.
+
+387
+00:54:42,746 --> 00:54:43,906  X1:299 X2:420 Y1:403 Y2:427
+Hold back.
+
+388
+00:54:45,782 --> 00:54:48,580  X1:167 X2:551 Y1:403 Y2:430
+Give chase and strike them, Lord.
+
+389
+00:54:50,854 --> 00:54:52,583  X1:277 X2:442 Y1:403 Y2:430
+No, hold back.
+
+390
+00:55:00,297 --> 00:55:03,562  X1:178 X2:540 Y1:372 Y2:433
+We cannot move
+until we perceive Miki's design.
+
+391
+00:55:03,867 --> 00:55:05,494  X1:205 X2:512 Y1:403 Y2:433
+With our Great Lord gone,
+
+392
+00:55:05,702 --> 00:55:08,262  X1:160 X2:559 Y1:403 Y2:433
+Miki may plan to usurp the throne,
+
+393
+00:55:08,471 --> 00:55:12,100  X1:190 X2:526 Y1:371 Y2:433
+and then Miki himself
+will become our next enemy.
+
+394
+00:55:26,690 --> 00:55:28,021  X1:323 X2:382 Y1:403 Y2:427
+Lord.
+
+395
+00:55:32,729 --> 00:55:33,696  X1:331 X2:389 Y1:403 Y2:427
+Lord.
+
+396
+00:55:33,897 --> 00:55:35,762  X1:206 X2:511 Y1:403 Y2:433
+A message from your lady.
+
+397
+00:55:36,032 --> 00:55:37,158  X1:296 X2:421 Y1:403 Y2:427
+What is it?
+
+398
+00:55:37,267 --> 00:55:39,667  X1:170 X2:548 Y1:403 Y2:433
+If Miki refuses to open the gates,
+
+399
+00:55:39,869 --> 00:55:43,032  X1:200 X2:518 Y1:371 Y2:427
+approach the gates bearing
+the Great Lord's coffin.
+
+400
+00:55:43,807 --> 00:55:44,831  X1:330 X2:388 Y1:404 Y2:427
+I see.
+
+401
+00:56:03,827 --> 00:56:05,795  X1:267 X2:451 Y1:403 Y2:433
+Open the gates.
+
+402
+00:56:06,529 --> 00:56:08,622  X1:222 X2:495 Y1:403 Y2:427
+The Great Lord returns.
+
+403
+00:56:10,333 --> 00:56:11,732  X1:267 X2:451 Y1:403 Y2:433
+Open the gates.
+
+404
+00:56:13,269 --> 00:56:18,070  X1:171 X2:547 Y1:371 Y2:433
+Washizu will enter,
+guarding the Great Lord's coffin.
+
+405
+01:00:44,207 --> 01:00:47,301  X1:182 X2:535 Y1:403 Y2:433
+What of the Great Lord's lady?
+
+406
+01:00:47,610 --> 01:00:49,737  X1:232 X2:485 Y1:403 Y2:427
+She has taken her life.
+
+407
+01:00:51,848 --> 01:00:56,615  X1:196 X2:522 Y1:371 Y2:433
+She could not bear to see
+an enemy occupy the castle.
+
+408
+01:01:50,239 --> 01:01:55,006  X1:141 X2:578 Y1:371 Y2:427
+Surely the evil spirit of Spider's Forest
+foretold the truth.
+
+409
+01:01:57,213 --> 01:02:02,412  X1:128 X2:590 Y1:371 Y2:433
+With the Great Lord gone,
+Inui will surely turn against this fortress.
+
+410
+01:02:03,186 --> 01:02:05,313  X1:221 X2:496 Y1:403 Y2:433
+They will come in force.
+
+411
+01:02:05,588 --> 01:02:10,252  X1:195 X2:522 Y1:371 Y2:427
+You alone have the strength
+to defend this castle.
+
+412
+01:02:10,927 --> 01:02:15,990  X1:193 X2:525 Y1:371 Y2:427
+I will argue the justice of this
+before the Council.
+
+413
+01:02:36,886 --> 01:02:39,946  X1:246 X2:472 Y1:371 Y2:433
+We shall speak of it
+at greater length.
+
+414
+01:03:15,758 --> 01:03:17,658  X1:215 X2:503 Y1:403 Y2:427
+Where lies the Garrison?
+
+415
+01:03:19,328 --> 01:03:22,058  X1:148 X2:570 Y1:403 Y2:430
+At the foot of those mountains, see?
+
+416
+01:03:23,633 --> 01:03:27,069  X1:229 X2:490 Y1:371 Y2:433
+From this height,
+it seems almost pitiful.
+
+417
+01:03:28,104 --> 01:03:32,268  X1:196 X2:524 Y1:371 Y2:430
+Life can always be improved.
+Fine, fine fortune.
+
+418
+01:03:32,475 --> 01:03:37,105  X1:174 X2:544 Y1:371 Y2:433
+If only there were an heir,
+this house would have great joy.
+
+419
+01:03:45,655 --> 01:03:48,886  X1:149 X2:571 Y1:403 Y2:433
+So I cannot persuade you of the folly
+
+420
+01:03:49,091 --> 01:03:53,425  X1:158 X2:560 Y1:371 Y2:427
+in naming Miki's son
+as heir to the throne of this castle?
+
+421
+01:03:55,231 --> 01:03:57,392  X1:219 X2:497 Y1:403 Y2:433
+At the Council meeting,
+
+422
+01:03:57,600 --> 01:04:00,535  X1:227 X2:492 Y1:371 Y2:433
+he ardently argued
+my right to succession.
+
+423
+01:04:01,704 --> 01:04:05,538  X1:197 X2:521 Y1:372 Y2:433
+I owe my position
+to his unflagging friendship.
+
+424
+01:04:06,075 --> 01:04:08,134  X1:225 X2:494 Y1:403 Y2:433
+I must repay his loyalty.
+
+425
+01:04:08,344 --> 01:04:11,074  X1:273 X2:445 Y1:404 Y2:433
+I cannot agree.
+
+426
+01:04:11,280 --> 01:04:16,047  X1:212 X2:507 Y1:371 Y2:433
+Miki did not promote you
+out of friendship.
+
+427
+01:04:16,419 --> 01:04:20,185  X1:187 X2:530 Y1:403 Y2:433
+Surely you know this yourself.
+
+428
+01:04:20,890 --> 01:04:22,824  X1:255 X2:464 Y1:403 Y2:433
+Do not speak of it.
+
+429
+01:04:23,893 --> 01:04:25,724  X1:249 X2:471 Y1:403 Y2:433
+Miki is courageous.
+
+430
+01:04:25,928 --> 01:04:28,055  X1:219 X2:500 Y1:403 Y2:433
+He's a shrewd strategist.
+
+431
+01:04:28,564 --> 01:04:32,830  X1:224 X2:492 Y1:371 Y2:433
+Terrifying as an enemy,
+but a trustworthy ally.
+
+432
+01:04:33,970 --> 01:04:36,734  X1:171 X2:547 Y1:403 Y2:433
+If I appoint his son to be my heir,
+
+433
+01:04:36,939 --> 01:04:40,204  X1:206 X2:515 Y1:371 Y2:433
+he will engage in any labor
+on my behalf.
+
+434
+01:04:42,144 --> 01:04:43,509  X1:305 X2:414 Y1:403 Y2:427
+Hear this.
+
+435
+01:04:43,713 --> 01:04:48,241  X1:146 X2:571 Y1:371 Y2:433
+At tonight's banquet I will announce
+and celebrate my successor.
+
+436
+01:04:49,418 --> 01:04:52,182  X1:162 X2:557 Y1:403 Y2:433
+Entertain Miki and his son lavishly.
+
+437
+01:04:54,090 --> 01:04:57,958  X1:150 X2:568 Y1:403 Y2:427
+I did not soil these hands with blood
+
+438
+01:04:58,728 --> 01:05:02,596  X1:182 X2:535 Y1:403 Y2:427
+for the sake of Lord Miki's son.
+
+439
+01:05:06,769 --> 01:05:09,294  X1:185 X2:534 Y1:403 Y2:433
+My rule lasts but a generation.
+
+440
+01:05:10,506 --> 01:05:13,134  X1:171 X2:546 Y1:403 Y2:430
+Thereafter, Miki's heirs succeed.
+
+441
+01:05:13,609 --> 01:05:16,305  X1:146 X2:572 Y1:403 Y2:433
+If you believe in the Forest prophecy,
+
+442
+01:05:16,512 --> 01:05:19,242  X1:186 X2:533 Y1:371 Y2:427
+it is the most we can hope for.
+- I refuse.
+
+443
+01:05:19,982 --> 01:05:22,246  X1:224 X2:493 Y1:403 Y2:433
+And yet, we are barren.
+
+444
+01:05:22,485 --> 01:05:25,283  X1:160 X2:558 Y1:403 Y2:433
+Someday, we must choose an heir.
+
+445
+01:05:27,857 --> 01:05:29,620  X1:326 X2:393 Y1:404 Y2:427
+I am...
+
+446
+01:05:31,027 --> 01:05:32,722  X1:297 X2:419 Y1:403 Y2:427
+with child.
+
+447
+01:05:34,430 --> 01:05:36,125  X1:291 X2:426 Y1:403 Y2:427
+With child?
+
+448
+01:05:37,266 --> 01:05:38,255  X1:335 X2:382 Y1:404 Y2:427
+Yes.
+
+449
+01:06:04,460 --> 01:06:05,290  X1:332 X2:387 Y1:403 Y2:427
+Fool.
+
+450
+01:06:07,730 --> 01:06:09,163  X1:283 X2:434 Y1:403 Y2:427
+What is this?
+
+451
+01:06:10,399 --> 01:06:12,924  X1:177 X2:542 Y1:403 Y2:433
+His loyal horse went mad today.
+
+452
+01:06:13,903 --> 01:06:16,030  X1:239 X2:481 Y1:371 Y2:427
+He bucked his bridle,
+tore off his reins
+
+453
+01:06:16,138 --> 01:06:17,435  X1:309 X2:408 Y1:403 Y2:427
+and fled.
+
+454
+01:06:19,742 --> 01:06:23,439  X1:204 X2:513 Y1:371 Y2:427
+Father, this bodes ill.
+We cannot visit the Castle.
+
+455
+01:06:23,646 --> 01:06:24,670  X1:297 X2:422 Y1:403 Y2:427
+Ridiculous.
+
+456
+01:06:25,548 --> 01:06:29,780  X1:138 X2:580 Y1:371 Y2:433
+We are honored guests
+at tonight's banquet. We must attend.
+
+457
+01:06:41,931 --> 01:06:43,193  X1:320 X2:400 Y1:403 Y2:427
+Father.
+
+458
+01:06:45,701 --> 01:06:47,464  X1:232 X2:484 Y1:403 Y2:433
+As I have said already,
+
+459
+01:06:47,670 --> 01:06:50,161  X1:179 X2:540 Y1:403 Y2:433
+I am grateful for these honors...
+
+460
+01:06:50,373 --> 01:06:51,465  X1:272 X2:445 Y1:403 Y2:433
+You complain?
+
+461
+01:06:51,674 --> 01:06:53,699  X1:209 X2:510 Y1:403 Y2:433
+No, I make no complaints.
+
+462
+01:06:54,744 --> 01:06:57,338  X1:248 X2:473 Y1:403 Y2:427
+But I refuse to trust
+
+463
+01:06:57,546 --> 01:06:59,980  X1:220 X2:498 Y1:371 Y2:427
+an evil spirit's prophecy.
+Foolish.
+
+464
+01:07:00,182 --> 01:07:01,911  X1:313 X2:408 Y1:403 Y2:427
+Foolish?
+
+465
+01:07:03,085 --> 01:07:05,485  X1:169 X2:549 Y1:403 Y2:433
+I saw it clearly with my own eyes.
+
+466
+01:07:06,088 --> 01:07:09,353  X1:196 X2:523 Y1:371 Y2:427
+For Washizu, the prophecies
+have been fulfilled.
+
+467
+01:07:10,559 --> 01:07:11,685  X1:261 X2:458 Y1:403 Y2:433
+For me, tonight...
+
+468
+01:07:11,894 --> 01:07:15,386  X1:228 X2:489 Y1:371 Y2:433
+Such reasoning proves
+you are possessed.
+
+469
+01:07:15,598 --> 01:07:19,762  X1:198 X2:521 Y1:371 Y2:433
+The spirit has tricked you
+into fulfilling its prophecies,
+
+470
+01:07:19,969 --> 01:07:24,702  X1:151 X2:567 Y1:371 Y2:427
+and now you believe the prophecies
+have come true. Is it wise?
+
+471
+01:07:25,474 --> 01:07:28,102  X1:224 X2:493 Y1:403 Y2:427
+Then believe them not.
+
+472
+01:07:30,446 --> 01:07:31,845  X1:310 X2:407 Y1:403 Y2:433
+And yet,
+
+473
+01:07:32,982 --> 01:07:38,420  X1:170 X2:549 Y1:371 Y2:427
+Washizu's wish to name you heir
+is neither dream nor illusion.
+
+474
+01:07:38,621 --> 01:07:40,452  X1:295 X2:424 Y1:403 Y2:427
+Listen well.
+
+475
+01:07:42,558 --> 01:07:46,085  X1:230 X2:488 Y1:371 Y2:430
+You can become lord
+and master of a castle,
+
+476
+01:07:48,297 --> 01:07:51,960  X1:157 X2:560 Y1:371 Y2:433
+without bloodshed,
+without heaping corpse on corpse.
+
+477
+01:07:59,308 --> 01:08:02,038  X1:208 X2:510 Y1:371 Y2:433
+What got into that horse?
+Look at my wounds.
+
+478
+01:08:02,244 --> 01:08:03,268  X1:265 X2:455 Y1:403 Y2:433
+Kept me behind.
+
+479
+01:08:03,479 --> 01:08:06,107  X1:165 X2:555 Y1:403 Y2:433
+Made you miss out on castle sake.
+
+480
+01:08:17,259 --> 01:08:18,783  X1:302 X2:417 Y1:403 Y2:427
+He's back.
+
+481
+01:09:00,536 --> 01:09:03,505  X1:212 X2:505 Y1:403 Y2:427
+Where can Lord Miki be?
+
+482
+01:09:03,806 --> 01:09:05,865  X1:202 X2:515 Y1:403 Y2:427
+Great Lord is vexed as well.
+
+483
+01:09:06,075 --> 01:09:08,339  X1:179 X2:539 Y1:403 Y2:433
+Such impudence is unlike Miki.
+
+484
+01:09:08,444 --> 01:09:13,609  X1:231 X2:478 Y1:371 Y2:433
+Oh, terrible gods
+attend our story well
+
+485
+01:09:13,816 --> 01:09:18,048  X1:202 X2:508 Y1:371 Y2:433
+The very same tale
+foretold in ancient legend
+
+486
+01:09:18,254 --> 01:09:21,223  X1:241 X2:469 Y1:371 Y2:427
+The warrior Chikata
+whose devilish men
+
+487
+01:09:21,323 --> 01:09:24,690  X1:179 X2:527 Y1:403 Y2:427
+served his traitorous schemes
+
+488
+01:09:25,928 --> 01:09:30,627  X1:173 X2:538 Y1:371 Y2:433
+Yet when his demon henchmen
+murder him in betrayal
+
+489
+01:09:31,000 --> 01:09:34,060  X1:191 X2:520 Y1:403 Y2:433
+their debt of royal treachery
+
+490
+01:09:34,170 --> 01:09:40,040  X1:188 X2:517 Y1:403 Y2:433
+swiftly brings their own ruin
+
+491
+01:09:40,242 --> 01:09:43,803  X1:208 X2:497 Y1:403 Y2:433
+And thus it came to pass
+
+492
+01:09:44,046 --> 01:09:47,038  X1:220 X2:499 Y1:371 Y2:433
+That's enough.
+Enough of your dancing.
+
+493
+01:09:49,018 --> 01:09:49,985  X1:340 X2:377 Y1:404 Y2:427
+Sir.
+
+494
+01:11:21,510 --> 01:11:23,671  X1:267 X2:453 Y1:403 Y2:433
+Damn you, Miki.
+
+495
+01:11:26,282 --> 01:11:28,147  X1:269 X2:449 Y1:403 Y2:427
+Such insolence.
+
+496
+01:11:32,521 --> 01:11:34,148  X1:262 X2:458 Y1:403 Y2:433
+Remove yourself.
+
+497
+01:11:34,990 --> 01:11:36,116  X1:262 X2:458 Y1:403 Y2:433
+Remove yourself.
+
+498
+01:11:38,027 --> 01:11:39,426  X1:293 X2:424 Y1:403 Y2:427
+Great Lord.
+
+499
+01:11:41,497 --> 01:11:42,987  X1:277 X2:440 Y1:403 Y2:433
+Calm yourself.
+
+500
+01:11:43,198 --> 01:11:45,792  X1:209 X2:510 Y1:403 Y2:433
+He has imbibed too freely.
+
+501
+01:11:48,837 --> 01:11:53,934  X1:150 X2:566 Y1:371 Y2:427
+Lately, he is often this way
+when he has had too much to drink.
+
+502
+01:11:54,543 --> 01:11:59,981  X1:123 X2:596 Y1:371 Y2:427
+No doubt his predecessor's violent death
+tears at his heart.
+
+503
+01:12:25,908 --> 01:12:28,035  X1:255 X2:463 Y1:403 Y2:433
+I'm terribly drunk.
+
+504
+01:12:32,247 --> 01:12:32,872  X1:271 X2:447 Y1:403 Y2:433
+What's wrong?
+
+505
+01:12:36,352 --> 01:12:38,980  X1:184 X2:534 Y1:403 Y2:433
+Will you men not take a drop?
+
+506
+01:12:39,922 --> 01:12:40,684  X1:272 X2:447 Y1:403 Y2:427
+Let's celebrate.
+
+507
+01:13:03,145 --> 01:13:06,444  X1:226 X2:491 Y1:371 Y2:433
+What can be the cause
+of Miki's delay?
+
+508
+01:13:10,819 --> 01:13:14,482  X1:235 X2:484 Y1:371 Y2:433
+Rumor has it that Inui
+has spies afoot.
+
+509
+01:13:15,824 --> 01:13:18,019  X1:269 X2:449 Y1:403 Y2:433
+I pray all is well.
+
+510
+01:13:37,946 --> 01:13:39,538  X1:257 X2:460 Y1:403 Y2:433
+There he is again.
+
+511
+01:13:59,234 --> 01:14:03,432  X1:199 X2:519 Y1:371 Y2:433
+If you reprove me so,
+draw your sword and strike.
+
+512
+01:14:06,108 --> 01:14:08,076  X1:239 X2:480 Y1:403 Y2:433
+I'll slay you yet again.
+
+513
+01:14:18,720 --> 01:14:20,244  X1:310 X2:410 Y1:403 Y2:433
+My Lord.
+
+514
+01:14:21,623 --> 01:14:23,250  X1:261 X2:458 Y1:403 Y2:433
+Pay him no mind.
+
+515
+01:14:23,725 --> 01:14:26,922  X1:212 X2:509 Y1:371 Y2:433
+His confusion will subside
+with the liquor.
+
+516
+01:14:27,129 --> 01:14:30,292  X1:227 X2:490 Y1:371 Y2:433
+Forgive this unseemly
+disruption of our feast.
+
+517
+01:14:30,499 --> 01:14:32,933  X1:209 X2:510 Y1:403 Y2:433
+Please retire for the night.
+
+518
+01:14:57,025 --> 01:14:58,492  X1:322 X2:397 Y1:404 Y2:427
+Retire!
+
+519
+01:15:26,889 --> 01:15:29,414  X1:282 X2:437 Y1:403 Y2:427
+How brilliant.
+
+520
+01:15:29,958 --> 01:15:33,587  X1:182 X2:537 Y1:371 Y2:430
+A Great Lord,
+his ambitions set on the world,
+
+521
+01:15:33,795 --> 01:15:37,356  X1:148 X2:570 Y1:403 Y2:433
+terrorized and undone by phantoms.
+
+522
+01:15:38,066 --> 01:15:39,363  X1:281 X2:437 Y1:403 Y2:427
+Who's there?
+
+523
+01:16:13,936 --> 01:16:16,803  X1:222 X2:497 Y1:403 Y2:427
+Lord Miki is done with...
+
+524
+01:16:24,546 --> 01:16:25,274  X1:313 X2:406 Y1:403 Y2:433
+Enough!
+
+525
+01:16:28,116 --> 01:16:29,743  X1:322 X2:397 Y1:404 Y2:427
+Retire.
+
+526
+01:16:31,420 --> 01:16:33,149  X1:274 X2:445 Y1:403 Y2:433
+My Great Lord.
+
+527
+01:16:33,255 --> 01:16:36,918  X1:159 X2:557 Y1:403 Y2:433
+There is a more pressing question.
+
+528
+01:16:40,429 --> 01:16:41,453  X1:313 X2:408 Y1:404 Y2:427
+His son?
+
+529
+01:16:43,932 --> 01:16:48,198  X1:176 X2:543 Y1:371 Y2:433
+I wounded him, but he escaped,
+clinging to his steed.
+
+530
+01:16:48,403 --> 01:16:50,371  X1:244 X2:474 Y1:403 Y2:433
+What? He escaped?
+
+531
+01:16:51,273 --> 01:16:53,298  X1:262 X2:457 Y1:403 Y2:427
+I have no excuse.
+
+532
+01:18:24,700 --> 01:18:26,429  X1:241 X2:475 Y1:403 Y2:427
+A fierce wind blows.
+
+533
+01:18:26,702 --> 01:18:29,603  X1:221 X2:496 Y1:371 Y2:427
+As if to shake the castle
+to its foundation.
+
+534
+01:18:31,139 --> 01:18:32,868  X1:251 X2:466 Y1:403 Y2:427
+These foundations
+
+535
+01:18:33,075 --> 01:18:36,602  X1:208 X2:508 Y1:371 Y2:427
+already tremble,
+without need of the wind.
+
+536
+01:18:37,012 --> 01:18:40,812  X1:194 X2:526 Y1:371 Y2:430
+Nowadays, even the garrison
+and fortress commanders,
+
+537
+01:18:41,016 --> 01:18:44,816  X1:176 X2:540 Y1:371 Y2:433
+who once paid court here daily,
+are hardly seen.
+
+538
+01:18:45,020 --> 01:18:47,454  X1:239 X2:481 Y1:403 Y2:433
+Let sleeping dogs lie.
+
+539
+01:18:47,656 --> 01:18:49,055  X1:251 X2:466 Y1:403 Y2:430
+Two commanders,
+
+540
+01:18:49,257 --> 01:18:53,057  X1:178 X2:539 Y1:371 Y2:427
+whom the Great Lord doubted,
+forced to take their lives.
+
+541
+01:18:53,261 --> 01:18:58,130  X1:170 X2:550 Y1:371 Y2:427
+Hard to believe it was Inui's spies
+that murdered Miki.
+
+542
+01:18:59,334 --> 01:19:00,995  X1:281 X2:436 Y1:403 Y2:427
+I've heard tell
+
+543
+01:19:01,203 --> 01:19:06,641  X1:203 X2:515 Y1:371 Y2:427
+that Miki's son
+has taken shelter with Inui.
+
+544
+01:19:06,908 --> 01:19:10,344  X1:231 X2:487 Y1:371 Y2:427
+Only a fool would side
+with his father's foe.
+
+545
+01:19:10,545 --> 01:19:13,708  X1:223 X2:493 Y1:371 Y2:433
+They say even Noriyasu
+and our last prince
+
+546
+01:19:13,915 --> 01:19:16,884  X1:170 X2:549 Y1:403 Y2:433
+have pledged themselves to Inui.
+
+547
+01:19:17,185 --> 01:19:19,483  X1:222 X2:496 Y1:403 Y2:427
+What will come of this?
+
+548
+01:19:19,955 --> 01:19:25,188  X1:160 X2:559 Y1:371 Y2:433
+In any case, we can no longer trust
+this castle's invincibility.
+
+549
+01:19:26,061 --> 01:19:28,529  X1:231 X2:489 Y1:371 Y2:433
+I heard a guard
+of the watchtower say
+
+550
+01:19:28,730 --> 01:19:33,224  X1:205 X2:512 Y1:371 Y2:433
+he saw a pack of rats
+fleeing the castle grounds.
+
+551
+01:19:34,436 --> 01:19:36,165  X1:265 X2:452 Y1:403 Y2:433
+They always say,
+
+552
+01:19:36,371 --> 01:19:41,604  X1:159 X2:558 Y1:403 Y2:427
+"Rats flee a house before it burns."
+
+553
+01:19:59,995 --> 01:20:01,622  X1:293 X2:428 Y1:403 Y2:427
+How is she?
+
+554
+01:20:02,230 --> 01:20:03,595  X1:313 X2:406 Y1:403 Y2:433
+My lady,
+
+555
+01:20:03,799 --> 01:20:06,029  X1:250 X2:470 Y1:403 Y2:427
+how does she fare?
+
+556
+01:20:08,236 --> 01:20:09,100  X1:321 X2:397 Y1:403 Y2:433
+Speak.
+
+557
+01:20:10,138 --> 01:20:12,265  X1:245 X2:473 Y1:403 Y2:433
+Why are you silent?
+
+558
+01:20:13,742 --> 01:20:18,372  X1:193 X2:523 Y1:403 Y2:433
+There is nothing to speak of.
+
+559
+01:20:20,182 --> 01:20:23,640  X1:225 X2:495 Y1:371 Y2:427
+My lady has given birth.
+The child was stillborn.
+
+560
+01:20:23,852 --> 01:20:26,150  X1:303 X2:416 Y1:403 Y2:427
+Stillborn?
+
+561
+01:20:27,489 --> 01:20:33,155  X1:202 X2:514 Y1:371 Y2:433
+And lifeless first some days
+within my lady's womb,
+
+562
+01:20:33,361 --> 01:20:38,594  X1:159 X2:560 Y1:403 Y2:433
+my lady's health is far from certain.
+
+563
+01:20:45,473 --> 01:20:46,531  X1:293 X2:424 Y1:403 Y2:427
+Great Lord.
+
+564
+01:21:06,494 --> 01:21:07,791  X1:293 X2:424 Y1:403 Y2:427
+Great Lord.
+
+565
+01:21:47,002 --> 01:21:48,629  X1:332 X2:387 Y1:403 Y2:427
+Fool!
+
+566
+01:21:53,675 --> 01:21:55,404  X1:332 X2:387 Y1:403 Y2:427
+Fool.
+
+567
+01:22:21,770 --> 01:22:23,704  X1:288 X2:417 Y1:403 Y2:427
+Great Lord.
+
+568
+01:22:29,344 --> 01:22:31,107  X1:293 X2:424 Y1:403 Y2:427
+Great Lord.
+
+569
+01:22:33,348 --> 01:22:35,543  X1:146 X2:570 Y1:403 Y2:433
+A messenger from the First Fortress.
+
+570
+01:22:35,750 --> 01:22:36,944  X1:320 X2:398 Y1:403 Y2:427
+What?
+
+571
+01:22:43,758 --> 01:22:45,089  X1:296 X2:421 Y1:403 Y2:427
+What is it?
+
+572
+01:22:45,293 --> 01:22:49,059  X1:175 X2:543 Y1:371 Y2:433
+Inui's men swarmed our border,
+taking the First Fortress.
+
+573
+01:22:49,464 --> 01:22:53,958  X1:109 X2:608 Y1:371 Y2:433
+Noriyasu leads the vanguard,
+swearing vengeance for the prince's father.
+
+574
+01:22:56,071 --> 01:22:59,006  X1:154 X2:563 Y1:403 Y2:427
+The Second Fortress is surrounded.
+
+575
+01:22:59,207 --> 01:23:01,266  X1:199 X2:521 Y1:403 Y2:427
+Miki's son commands them.
+
+576
+01:23:05,380 --> 01:23:08,474  X1:201 X2:518 Y1:371 Y2:430
+First and Second Fortresses
+are both lost,
+
+577
+01:23:08,683 --> 01:23:10,514  X1:217 X2:500 Y1:403 Y2:433
+our foe has joined forces
+
+578
+01:23:10,618 --> 01:23:12,176  X1:157 X2:560 Y1:403 Y2:433
+and approaches the Third Fortress.
+
+579
+01:23:49,491 --> 01:23:50,458  X1:306 X2:412 Y1:403 Y2:427
+Cowards.
+
+580
+01:23:50,992 --> 01:23:56,294  X1:151 X2:567 Y1:371 Y2:433
+It is two hours since I called council.
+How can we greet this attack?
+
+581
+01:24:13,515 --> 01:24:14,743  X1:260 X2:459 Y1:403 Y2:433
+Enough with you.
+
+582
+01:24:14,949 --> 01:24:19,750  X1:143 X2:574 Y1:371 Y2:433
+What need for the advice of cowards,
+who quake and pale under fire?
+
+583
+01:24:37,038 --> 01:24:39,506  X1:270 X2:449 Y1:371 Y2:433
+Bring my horse.
+My horse.
+
+584
+01:24:50,618 --> 01:24:52,279  X1:290 X2:428 Y1:403 Y2:427
+Come forth.
+
+585
+01:24:52,821 --> 01:24:54,755  X1:305 X2:415 Y1:403 Y2:433
+Evil spirit.
+
+586
+01:24:55,623 --> 01:24:58,091  X1:305 X2:415 Y1:403 Y2:433
+Evil spirit.
+
+587
+01:25:03,565 --> 01:25:06,227  X1:231 X2:487 Y1:403 Y2:433
+Come forth, evil spirit.
+
+588
+01:25:17,679 --> 01:25:20,307  X1:231 X2:487 Y1:403 Y2:433
+Come forth, evil spirit.
+
+589
+01:25:20,515 --> 01:25:21,812  X1:290 X2:428 Y1:403 Y2:427
+Come forth.
+
+590
+01:25:31,459 --> 01:25:33,518  X1:275 X2:443 Y1:371 Y2:427
+Show yourself.
+I must know.
+
+591
+01:25:58,319 --> 01:26:00,685  X1:233 X2:485 Y1:403 Y2:427
+Whom have we here?
+
+592
+01:26:01,456 --> 01:26:06,018  X1:215 X2:504 Y1:371 Y2:433
+Is this not the Great Lord
+of Spider's Web Castle?
+
+593
+01:26:06,995 --> 01:26:09,828  X1:186 X2:533 Y1:403 Y2:433
+Damn you. Answer me plainly.
+
+594
+01:26:10,031 --> 01:26:13,558  X1:190 X2:528 Y1:371 Y2:433
+Is it true Miki's son
+will be Lord of Spider's Web?
+
+595
+01:26:14,235 --> 01:26:16,795  X1:312 X2:406 Y1:404 Y2:430
+So I see,
+
+596
+01:26:18,206 --> 01:26:23,269  X1:182 X2:536 Y1:371 Y2:433
+you have finally come
+to the end of your wanderings.
+
+597
+01:26:24,913 --> 01:26:27,473  X1:243 X2:474 Y1:403 Y2:427
+You have done well.
+
+598
+01:26:29,050 --> 01:26:30,915  X1:243 X2:474 Y1:403 Y2:427
+You have done well.
+
+599
+01:26:31,819 --> 01:26:33,480  X1:250 X2:470 Y1:403 Y2:433
+Damn you. Tell me.
+
+600
+01:26:33,688 --> 01:26:37,351  X1:163 X2:555 Y1:371 Y2:433
+If you have the power,
+foretell the outcome of my battle.
+
+601
+01:26:46,768 --> 01:26:50,534  X1:184 X2:533 Y1:403 Y2:433
+You may set your fears to rest.
+
+602
+01:26:52,340 --> 01:26:57,243  X1:228 X2:491 Y1:371 Y2:433
+Until the very trees
+of Spider's Web Forest
+
+603
+01:26:58,446 --> 01:27:03,884  X1:173 X2:546 Y1:403 Y2:433
+rise against Spider's Web Castle,
+
+604
+01:27:04,085 --> 01:27:10,422  X1:164 X2:553 Y1:403 Y2:433
+you will not be defeated in battle.
+
+605
+01:27:13,461 --> 01:27:16,897  X1:218 X2:499 Y1:403 Y2:427
+The trees rise to attack?
+
+606
+01:27:19,934 --> 01:27:22,402  X1:206 X2:511 Y1:403 Y2:433
+Such a thing is impossible.
+
+607
+01:27:25,607 --> 01:27:28,804  X1:180 X2:540 Y1:371 Y2:427
+Which means,
+I will not be defeated in battle?
+
+608
+01:27:33,581 --> 01:27:37,244  X1:150 X2:569 Y1:403 Y2:433
+If you choose the path of bloodshed,
+
+609
+01:27:38,286 --> 01:27:43,383  X1:219 X2:498 Y1:371 Y2:433
+then climb to
+the very pinnacle of evil.
+
+610
+01:27:44,459 --> 01:27:49,362  X1:243 X2:477 Y1:371 Y2:430
+Noriyasu, the prince
+and even Miki's son,
+
+611
+01:27:49,564 --> 01:27:51,623  X1:208 X2:510 Y1:403 Y2:427
+I swear I shall kill them all.
+
+612
+01:27:55,570 --> 01:27:58,971  X1:228 X2:490 Y1:371 Y2:433
+If you choose to build
+a mountain of corpses,
+
+613
+01:27:59,173 --> 01:28:03,109  X1:247 X2:471 Y1:371 Y2:433
+build its summit
+as high as you dare.
+
+614
+01:28:06,447 --> 01:28:10,281  X1:164 X2:555 Y1:371 Y2:427
+I'll lay a fresh mountain of corpses
+over these bleached bones.
+
+615
+01:28:14,255 --> 01:28:17,224  X1:202 X2:517 Y1:403 Y2:433
+If you will make blood flow,
+
+616
+01:28:17,425 --> 01:28:20,952  X1:233 X2:486 Y1:371 Y2:430
+let it be a river,
+no, an ocean of blood.
+
+617
+01:28:21,663 --> 01:28:26,259  X1:194 X2:522 Y1:371 Y2:427
+A deluge of blood shall stain
+these woods crimson.
+
+618
+01:28:29,971 --> 01:28:31,768  X1:223 X2:495 Y1:403 Y2:433
+Come for me, Noriyasu.
+
+619
+01:28:31,973 --> 01:28:33,565  X1:229 X2:487 Y1:403 Y2:433
+Ally yourself with Inui,
+
+620
+01:28:33,775 --> 01:28:35,800  X1:178 X2:539 Y1:403 Y2:433
+with the prince, and Miki's son.
+
+621
+01:28:36,010 --> 01:28:39,343  X1:212 X2:506 Y1:371 Y2:430
+Join forces with the First
+and Second Fortress, too.
+
+622
+01:28:39,781 --> 01:28:41,681  X1:184 X2:533 Y1:403 Y2:430
+Thousands, tens of thousands.
+
+623
+01:28:42,050 --> 01:28:46,043  X1:187 X2:531 Y1:371 Y2:433
+Bring every man you can find
+and lay siege to Spider's Web!
+
+624
+01:29:36,604 --> 01:29:37,571  X1:302 X2:417 Y1:403 Y2:427
+Heed this.
+
+625
+01:29:39,674 --> 01:29:42,040  X1:216 X2:501 Y1:403 Y2:433
+The Spider's Web Forest
+
+626
+01:29:42,243 --> 01:29:44,677  X1:241 X2:477 Y1:403 Y2:427
+is but a web of trails.
+
+627
+01:29:47,448 --> 01:29:50,679  X1:171 X2:548 Y1:403 Y2:433
+Do not let the paths beguile you.
+
+628
+01:29:50,885 --> 01:29:52,477  X1:267 X2:450 Y1:403 Y2:427
+Avoid the trails.
+
+629
+01:29:52,687 --> 01:29:57,090  X1:180 X2:539 Y1:371 Y2:433
+Once inside the forest,
+ride straight through the trees,
+
+630
+01:29:57,291 --> 01:29:59,259  X1:225 X2:493 Y1:403 Y2:433
+and press only forward.
+
+631
+01:30:48,743 --> 01:30:52,702  X1:188 X2:532 Y1:371 Y2:427
+What? My hidden troops
+in the forest have withdrawn?
+
+632
+01:30:54,148 --> 01:30:55,240  X1:306 X2:412 Y1:403 Y2:427
+Cowards.
+
+633
+01:30:58,252 --> 01:30:59,913  X1:218 X2:500 Y1:403 Y2:433
+The men who lay in wait
+
+634
+01:31:00,121 --> 01:31:03,579  X1:165 X2:552 Y1:371 Y2:433
+withdrew en masse
+without receiving a single arrow?
+
+635
+01:31:03,925 --> 01:31:07,884  X1:157 X2:561 Y1:371 Y2:433
+Our foe Noriyasu knows the forest.
+We cannot entrap him.
+
+636
+01:32:21,869 --> 01:32:23,632  X1:281 X2:438 Y1:404 Y2:427
+I was remiss...
+
+637
+01:32:34,315 --> 01:32:35,282  X1:331 X2:388 Y1:404 Y2:430
+Men,
+
+638
+01:32:36,684 --> 01:32:38,515  X1:282 X2:436 Y1:403 Y2:427
+hear me well.
+
+639
+01:32:39,186 --> 01:32:41,882  X1:167 X2:551 Y1:403 Y2:430
+In battle, the final victor takes all.
+
+640
+01:32:42,390 --> 01:32:44,358  X1:208 X2:509 Y1:403 Y2:433
+Skirmishes mean nothing.
+
+641
+01:32:45,560 --> 01:32:46,993  X1:293 X2:424 Y1:403 Y2:427
+Take heart.
+
+642
+01:32:47,194 --> 01:32:49,253  X1:184 X2:534 Y1:403 Y2:433
+I, Washizu, demand your trust.
+
+643
+01:32:49,463 --> 01:32:53,297  X1:197 X2:520 Y1:372 Y2:427
+On no account
+shall I meet defeat in battle.
+
+644
+01:33:03,978 --> 01:33:07,641  X1:218 X2:501 Y1:371 Y2:433
+If you do not believe me,
+I'll tell you why.
+
+645
+01:33:14,589 --> 01:33:19,219  X1:181 X2:537 Y1:371 Y2:427
+This happened when I still
+commanded the First Fortress.
+
+646
+01:33:19,794 --> 01:33:24,288  X1:176 X2:541 Y1:371 Y2:433
+As I returned to the Castle
+after rushing Fujimaki's mutiny,
+
+647
+01:33:25,032 --> 01:33:27,592  X1:257 X2:462 Y1:371 Y2:433
+I saw an evil spirit
+in Spider's Forest.
+
+648
+01:33:27,802 --> 01:33:29,963  X1:204 X2:512 Y1:403 Y2:433
+According to its prophecy,
+
+649
+01:33:30,171 --> 01:33:33,231  X1:203 X2:517 Y1:371 Y2:430
+I would that eve become
+Lord of the North Garrison,
+
+650
+01:33:33,441 --> 01:33:35,739  X1:224 X2:494 Y1:403 Y2:430
+and later, of this Castle.
+
+651
+01:33:36,210 --> 01:33:38,405  X1:271 X2:449 Y1:403 Y2:433
+Behold my fate.
+
+652
+01:33:38,613 --> 01:33:42,515  X1:228 X2:488 Y1:371 Y2:433
+The prophecy foretold
+my destiny precisely.
+
+653
+01:33:44,852 --> 01:33:47,013  X1:262 X2:454 Y1:403 Y2:433
+And then, today.
+
+654
+01:33:50,124 --> 01:33:52,786  X1:243 X2:476 Y1:371 Y2:427
+I spurred my steed
+back into the Forest
+
+655
+01:33:52,994 --> 01:33:56,327  X1:212 X2:506 Y1:371 Y2:433
+to ask the spirit
+of my fortune once more.
+
+656
+01:33:59,133 --> 01:34:00,498  X1:315 X2:404 Y1:404 Y2:433
+Rejoice.
+
+657
+01:34:01,068 --> 01:34:05,630  X1:147 X2:573 Y1:371 Y2:427
+None may defeat me, though heaven
+descends or the earth rends.
+
+658
+01:34:06,907 --> 01:34:08,932  X1:252 X2:465 Y1:403 Y2:433
+The spirit told me,
+
+659
+01:34:09,143 --> 01:34:13,637  X1:204 X2:516 Y1:371 Y2:430
+until the trees of the forest
+rise to attack the Castle,
+
+660
+01:34:13,848 --> 01:34:16,442  X1:164 X2:554 Y1:403 Y2:427
+I shall never be defeated in battle.
+
+661
+01:34:19,687 --> 01:34:20,813  X1:331 X2:388 Y1:404 Y2:427
+Men.
+
+662
+01:34:21,255 --> 01:34:24,884  X1:266 X2:455 Y1:371 Y2:427
+Don't tell me.
+Do trees attack?
+
+663
+01:34:34,268 --> 01:34:36,532  X1:176 X2:540 Y1:403 Y2:433
+Those of you who trust my fate,
+
+664
+01:34:36,637 --> 01:34:38,161  X1:260 X2:458 Y1:404 Y2:433
+raise your spears.
+
+665
+01:35:11,305 --> 01:35:13,034  X1:260 X2:458 Y1:403 Y2:433
+Can't see a thing.
+
+666
+01:35:30,558 --> 01:35:31,525  X1:335 X2:384 Y1:404 Y2:433
+Hey.
+
+667
+01:35:32,093 --> 01:35:36,120  X1:167 X2:549 Y1:371 Y2:433
+What can the enemy be plotting,
+with nary a torch?
+
+668
+01:35:53,914 --> 01:35:55,779  X1:252 X2:466 Y1:403 Y2:427
+What can that be?
+
+669
+01:35:59,487 --> 01:36:03,787  X1:186 X2:531 Y1:371 Y2:427
+No doubt they've abandoned
+their attack to build defenses.
+
+670
+01:36:25,446 --> 01:36:27,778  X1:189 X2:530 Y1:403 Y2:433
+Even the formidable Noriyasu
+
+671
+01:36:28,315 --> 01:36:32,012  X1:186 X2:532 Y1:371 Y2:433
+has no power against
+these legendary fortifications.
+
+672
+01:36:33,354 --> 01:36:36,619  X1:184 X2:533 Y1:371 Y2:427
+The attackers can see nothing
+inside the castle.
+
+673
+01:36:37,358 --> 01:36:39,792  X1:138 X2:579 Y1:403 Y2:433
+Yet we have a bird's-eye view of them.
+
+674
+01:36:41,128 --> 01:36:43,187  X1:247 X2:472 Y1:403 Y2:433
+If they do attack us,
+
+675
+01:36:43,397 --> 01:36:46,764  X1:153 X2:564 Y1:371 Y2:427
+let them draw near
+and then shower them with arrows.
+
+676
+01:36:59,914 --> 01:37:01,472  X1:296 X2:421 Y1:403 Y2:427
+What is it?
+
+677
+01:37:05,653 --> 01:37:07,382  X1:244 X2:476 Y1:403 Y2:427
+Is it a covert attack?
+
+678
+01:37:23,971 --> 01:37:25,336  X1:296 X2:421 Y1:403 Y2:427
+What is it?
+
+679
+01:37:30,511 --> 01:37:31,842  X1:288 X2:428 Y1:403 Y2:427
+An ill omen.
+
+680
+01:37:36,951 --> 01:37:40,079  X1:204 X2:515 Y1:371 Y2:433
+Commanders of cowardice
+who quake and pale.
+
+681
+01:37:41,722 --> 01:37:44,213  X1:159 X2:561 Y1:403 Y2:433
+Do you not see this as good omen?
+
+682
+01:37:45,292 --> 01:37:50,059  X1:145 X2:575 Y1:371 Y2:433
+How dare you let an auspicious omen
+of our victory fluster you.
+
+683
+01:38:27,134 --> 01:38:28,624  X1:305 X2:399 Y1:403 Y2:433
+My lady.
+
+684
+01:38:32,907 --> 01:38:34,431  X1:305 X2:399 Y1:403 Y2:433
+My lady.
+
+685
+01:39:44,211 --> 01:39:46,475  X1:253 X2:465 Y1:404 Y2:427
+It won't come out.
+
+686
+01:39:48,349 --> 01:39:51,147  X1:207 X2:510 Y1:403 Y2:427
+What an awful bloodstain.
+
+687
+01:39:57,658 --> 01:39:59,956  X1:218 X2:502 Y1:403 Y2:430
+No matter how I wash it,
+
+688
+01:40:00,160 --> 01:40:03,687  X1:167 X2:551 Y1:403 Y2:433
+why won't this blood wash away?
+
+689
+01:40:07,835 --> 01:40:11,032  X1:204 X2:515 Y1:403 Y2:427
+It reeks of blood even now.
+
+690
+01:40:14,074 --> 01:40:18,534  X1:206 X2:513 Y1:371 Y2:433
+Why can I not clean
+this blood from my hands?
+
+691
+01:40:21,782 --> 01:40:23,079  X1:327 X2:389 Y1:404 Y2:433
+Asaji.
+
+692
+01:40:25,719 --> 01:40:28,517  X1:152 X2:565 Y1:403 Y2:427
+What is the matter with this blood?
+
+693
+01:40:31,125 --> 01:40:34,652  X1:164 X2:552 Y1:403 Y2:433
+The stain will not leave my hands.
+
+694
+01:40:37,965 --> 01:40:40,092  X1:202 X2:518 Y1:403 Y2:433
+No matter how many times
+
+695
+01:40:40,634 --> 01:40:42,761  X1:229 X2:490 Y1:403 Y2:433
+I wash and wash again,
+
+696
+01:40:43,604 --> 01:40:47,700  X1:182 X2:535 Y1:403 Y2:427
+still these hands reek of blood.
+
+697
+01:40:56,884 --> 01:40:58,442  X1:327 X2:389 Y1:404 Y2:433
+Asaji.
+
+698
+01:40:58,919 --> 01:41:01,251  X1:214 X2:502 Y1:403 Y2:427
+This awful stain of blood.
+
+699
+01:41:38,992 --> 01:41:39,959  X1:327 X2:393 Y1:403 Y2:427
+Fools.
+
+700
+01:41:40,327 --> 01:41:43,262  X1:228 X2:490 Y1:371 Y2:433
+Why this confusion
+as victory approaches?
+
+701
+01:41:44,264 --> 01:41:45,322  X1:287 X2:430 Y1:403 Y2:433
+Quiet down.
+
+702
+01:41:45,966 --> 01:41:47,763  X1:256 X2:461 Y1:403 Y2:433
+Quiet down, I say.
+
+703
+01:41:48,135 --> 01:41:50,126  X1:233 X2:485 Y1:403 Y2:430
+Great Lord. The trees,
+
+704
+01:41:50,237 --> 01:41:51,932  X1:200 X2:517 Y1:403 Y2:433
+the trees of Spider's Forest.
+
+705
+01:41:52,039 --> 01:41:55,770  X1:161 X2:557 Y1:371 Y2:427
+- What of them?
+- The trees have risen to attack us.
+
+706
+01:41:58,278 --> 01:41:59,472  X1:297 X2:422 Y1:403 Y2:427
+Ridiculous.
+
+707
+01:41:59,680 --> 01:42:03,514  X1:207 X2:513 Y1:371 Y2:427
+A madman's delusion.
+How would a forest move?
+
+708
+01:43:53,760 --> 01:43:55,159  X1:286 X2:430 Y1:403 Y2:427
+What is this!
+
+709
+01:43:55,362 --> 01:43:57,057  X1:252 X2:468 Y1:403 Y2:433
+Hold your stations.
+
+710
+01:44:09,610 --> 01:44:11,134  X1:287 X2:432 Y1:403 Y2:433
+Do not yield.
+
+711
+01:44:11,245 --> 01:44:13,076  X1:224 X2:495 Y1:404 Y2:433
+Return to your stations.
+
+712
+01:44:29,763 --> 01:44:30,957  X1:306 X2:412 Y1:403 Y2:427
+Cowards.
+
+713
+01:44:31,164 --> 01:44:32,358  X1:291 X2:428 Y1:404 Y2:427
+I see it now.
+
+714
+01:44:32,566 --> 01:44:36,366  X1:172 X2:544 Y1:371 Y2:433
+You'll slay me and offer my head
+when you surrender.
+
+715
+01:44:54,421 --> 01:44:55,683  X1:286 X2:430 Y1:404 Y2:427
+You traitors.
+
+716
+01:44:56,089 --> 01:44:59,320  X1:223 X2:496 Y1:371 Y2:433
+Murdering a Great Lord
+is high treason.
+
+717
+01:44:59,426 --> 01:45:02,088  X1:244 X2:475 Y1:371 Y2:427
+And who killed
+our last Great Lord?
+
+718
+01:47:44,758 --> 01:47:47,659  X1:203 X2:515 Y1:371 Y2:427
+They know our every move
+from the castle.
+
+719
+01:47:47,861 --> 01:47:49,954  X1:156 X2:561 Y1:403 Y2:433
+Send the large and small carts first.
+
+720
+01:47:50,163 --> 01:47:52,495  X1:162 X2:558 Y1:403 Y2:433
+Hide yourselves beneath the carts.
+
+721
+01:47:53,834 --> 01:47:58,168  X1:127 X2:591 Y1:371 Y2:433
+Conceal yourselves among the branches
+and don't expose yourselves.
+
+722
+01:48:25,065 --> 01:48:30,628  X1:236 X2:471 Y1:403 Y2:433
+Look upon the ruins
+
+723
+01:48:32,572 --> 01:48:37,441  X1:213 X2:495 Y1:403 Y2:427
+Of the castle of delusion
+
+724
+01:48:39,346 --> 01:48:45,444  X1:247 X2:463 Y1:403 Y2:433
+Haunted only now
+
+725
+01:48:46,186 --> 01:48:52,386  X1:146 X2:564 Y1:403 Y2:433
+By the spirits of those who perished
+
+726
+01:48:53,994 --> 01:49:00,160  X1:240 X2:464 Y1:403 Y2:433
+A scene of carnage
+
+727
+01:49:02,235 --> 01:49:06,001  X1:204 X2:503 Y1:403 Y2:433
+Born of consuming desire
+
+728
+01:49:07,707 --> 01:49:13,509  X1:181 X2:530 Y1:371 Y2:433
+Never changing
+Now and throughout eternity
+
+729
+01:49:14,047 --> 01:49:19,075  X1:226 X2:492 Y1:372 Y2:427
+HERE STOOD
+SPIDER'S WEB CASTLE
+
+730
+01:49:34,467 --> 01:49:38,494  X1:304 X2:414 Y1:404 Y2:427
+THE END

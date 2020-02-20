@@ -1,0 +1,3256 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:01:19.66,00:01:22.79
+"France 1916"
+
+00:01:22.87,00:01:25.75
+War began between Germany and France...
+
+00:01:25.83,00:01:28.96
+on August 3, 1914.
+
+00:01:29.04,00:01:31.88
+Five weeks later, the German army[br]had smashed its way...
+
+00:01:31.92,00:01:34.42
+to within 18 miles of Paris.
+
+00:01:34.46,00:01:38.68
+There the battered French miraculously[br]rallied at the Marne River...
+
+00:01:38.76,00:01:43.10
+and in a series of unexpected[br]counterattacks, drove the Germans back.
+
+00:01:43.18,00:01:45.60
+The front was stabilized[br]and shortly afterwards...
+
+00:01:45.68,00:01:49.39
+developed into a continuous line[br]of heavily fortified trenches...
+
+00:01:49.48,00:01:51.85
+zigzagging their way 500 miles...
+
+00:01:51.94,00:01:55.40
+from the English Channel[br]to the Swiss frontier.
+
+00:01:55.48,00:01:59.40
+By 1916, after two grisly years[br]of trench warfare...
+
+00:01:59.44,00:02:02.66
+the battle lines had changed[br]very little.
+
+00:02:02.74,00:02:06.28
+Successful attacks were measured[br]in hundreds of yards...
+
+00:02:06.37,00:02:09.41
+and paid for in lives[br]by hundreds of thousands.
+
+00:02:12.83,00:02:14.25
+General Broulard, sir.
+
+00:02:14.29,00:02:16.71
+- Hello, George. How are you?[br]- Paul.
+
+00:02:16.79,00:02:19.63
+Wonderful seeing you again.[br]Really wonderful.
+
+00:02:19.67,00:02:22.59
+Well, this is splendid.
+
+00:02:22.63,00:02:25.38
+Superb! Grand, very grand.
+
+00:02:25.47,00:02:28.09
+Well, I've tried to create a pleasant[br]atmosphere in which to work.
+
+00:02:28.18,00:02:32.47
+You've succeeded marvellously. I wish I[br]had your taste in carpets and pictures.
+
+00:02:32.56,00:02:35.73
+You're much too kind, George.[br]Sit down, George.
+
+00:02:35.81,00:02:37.73
+- Thank you.[br]- I really haven't done very much.
+
+00:02:37.81,00:02:41.23
+The place is much the same[br]as it was when I moved in.
+
+00:02:42.06,00:02:46.07
+Paul, I've come to see you[br]about something big.
+
+00:02:46.15,00:02:49.36
+It's top secret and must go no further[br]than your chief of staff...
+
+00:02:49.45,00:02:51.82
+and not to him[br]unless you can trust his discretion.
+
+00:02:51.86,00:02:53.12
+Of course.
+
+00:02:53.16,00:02:56.62
+A group of armies is forming on this[br]front for an offensive very soon.
+
+00:02:56.66,00:02:59.08
+Headquarters is determined[br]to make a complete breakthrough.
+
+00:02:59.16,00:03:01.46
+- Why are you smiling?[br]- I'm really sorry.
+
+00:03:01.50,00:03:04.96
+I thought for a moment I knew what you[br]were going to say. Please go on.
+
+00:03:05.00,00:03:07.46
+What did you think[br]I was about to say?
+
+00:03:09.05,00:03:11.76
+- Something about the Ant Hill.[br]- You are a mind reader.
+
+00:03:11.84,00:03:13.76
+Well, it is a key position.
+
+00:03:13.84,00:03:17.64
+It's in my sector. To be perfectly[br]honest, I've heard some talk.
+
+00:03:17.68,00:03:21.06
+-There's nothing secret at headquarters.[br]-What do you think?
+
+00:03:21.14,00:03:24.14
+It's the key to the whole[br]German position in this sector.
+
+00:03:24.22,00:03:26.18
+They've held it for a year now...
+
+00:03:26.27,00:03:28.73
+and it looks as though they'll hold it[br]for another year if they want to.
+
+00:03:28.81,00:03:31.44
+I have formal orders to take[br]the Ant Hill no later than the tenth.
+
+00:03:31.52,00:03:35.15
+- That's the day after tomorrow.[br]- Don't you think that's ridiculous?
+
+00:03:35.23,00:03:38.82
+I don't imagine I'd be here[br]if I really thought that.
+
+00:03:38.86,00:03:43.41
+Paul, if there's one man in this army[br]who can do this for me, it's you.
+
+00:03:44.16,00:03:47.45
+It's out of the question.[br]Absolutely.
+
+00:03:47.54,00:03:49.54
+My division was cut to pieces.
+
+00:03:49.62,00:03:53.17
+What's left is in no position to even[br]hold the Ant Hill, let alone take it.
+
+00:03:53.21,00:03:56.34
+I'm sorry, but that's the truth.
+
+00:03:56.42,00:03:59.67
+Well, there was something else[br]I wanted to tell you...
+
+00:03:59.76,00:04:02.84
+however I'm sure you'll misunderstand[br]my motives in mentioning it.
+
+00:04:02.88,00:04:07.55
+- What was it?[br]- Oh, you'd be bound to misunderstand.
+
+00:04:07.64,00:04:11.14
+However, as your friend,[br]maybe I should tell you.
+
+00:04:11.22,00:04:14.77
+- What are you trying to say?[br]- Paul, the talk around headquarters...
+
+00:04:14.85,00:04:17.65
+is that you are being considered[br]for the 12th Corps.
+
+00:04:17.73,00:04:20.48
+- The 12th Corps?[br]- Yes, and with that, another star.
+
+00:04:20.56,00:04:22.48
+I've pushed it all I can.
+
+00:04:22.57,00:04:25.78
+The 12th Corps needs a fighting general,[br]and your star is overdue.
+
+00:04:25.86,00:04:28.03
+We both know that your record[br]is good enough...
+
+00:04:28.07,00:04:30.86
+for you to refuse this assignment[br]on the grounds you've stated.
+
+00:04:30.91,00:04:35.45
+No one would question your opinion.[br]They'd simply get someone else to do it.
+
+00:04:35.54,00:04:39.54
+So you shouldn't let this[br]influence your opinion.
+
+00:04:41.21,00:04:44.21
+- Oh, I'm sorry. Have a cognac?[br]- No, thanks. Not before dinner.
+
+00:04:48.71,00:04:52.34
+I am responsible for the lives[br]of 8,000 men.
+
+00:04:53.43,00:04:56.14
+What is my ambition against that?
+
+00:04:56.22,00:04:59.51
+What is my reputation[br]in comparison to that?
+
+00:04:59.60,00:05:02.06
+My men come first of all, George.
+
+00:05:02.10,00:05:04.64
+- And those men know it too.[br]- I know that.
+
+00:05:04.73,00:05:07.81
+You see, those men know[br]that I would never let them down.
+
+00:05:07.90,00:05:09.56
+That goes without saying.
+
+00:05:09.61,00:05:14.19
+One soldier's life means more to me[br]than all the decorations in France.
+
+00:05:15.32,00:05:18.07
+So, you think...
+
+00:05:18.16,00:05:21.49
+this attack is absolutely beyond[br]the ability of your men at this time?
+
+00:05:21.57,00:05:24.91
+I didn't say that, George.
+
+00:05:24.95,00:05:28.58
+Nothing is beyond those men[br]once their fighting spirit is aroused.
+
+00:05:28.66,00:05:31.25
+I don't want to push you[br]if you think it's ill-advised.
+
+00:05:31.29,00:05:34.75
+Don't worry. You couldn't do that[br]if you tried.
+
+00:05:36.13,00:05:39.51
+Of course, artillery[br]would make an enormous difference.
+
+00:05:39.59,00:05:42.76
+-What artillery support can you give me?[br]-Well, I'll see.
+
+00:05:42.84,00:05:44.93
+- What about replacements?[br]- We'll see what we can do...
+
+00:05:44.97,00:05:48.22
+but I feel sure that you can get along[br]with what you have.
+
+00:05:48.31,00:05:50.22
+We might just do it.
+
+00:05:50.31,00:05:52.89
+Paul, I knew that I was right[br]to come to you.
+
+00:05:52.98,00:05:55.98
+You are the man to take the Ant Hill.[br]As for that star--
+
+00:05:56.06,00:05:58.15
+That has nothing to do[br]with my decision!
+
+00:05:58.23,00:06:00.15
+If anything,[br]it would sway me the other way.
+
+00:06:00.23,00:06:02.11
+I realize that perfectly.
+
+00:06:02.15,00:06:04.11
+When do you see this coming off?
+
+00:06:04.15,00:06:08.24
+- No later than the day after tomorrow.[br]- We just might do it!
+
+00:06:30.63,00:06:33.47
+Hello there, soldier.[br]Ready to kill more Germans?
+
+00:06:33.51,00:06:35.47
+- Yes, sir.[br]- What's your name, soldier?
+
+00:06:35.51,00:06:38.47
+- Sir, Private Ferol, Company A.[br]- Aha. You married, Private?
+
+00:06:38.52,00:06:41.27
+- No, sir.[br]- I'll bet your mother's proud of you.
+
+00:06:41.35,00:06:44.81
+- Yes, sir.[br]- Carry on, Private, and good luck.
+
+00:06:44.90,00:06:46.86
+Thank you, sir.
+
+00:06:51.36,00:06:53.32
+- Morning, General.[br]- Good morning.
+
+00:06:53.36,00:06:55.32
+- Hello there, soldier.[br]- Sir.
+
+00:06:55.36,00:06:57.49
+- Ready to kill more Germans?[br]- Yes, sir.
+
+00:06:57.57,00:06:59.53
+Working over your rifle, I see.
+
+00:06:59.57,00:07:02.12
+That's the way.[br]The soldier's best friend.
+
+00:07:02.20,00:07:04.41
+You be good to it,[br]and it'll always be good to you.
+
+00:07:04.50,00:07:06.41
+Yes, sir.
+
+00:07:09.17,00:07:11.17
+Well, good luck to you, soldier.
+
+00:07:11.21,00:07:13.17
+- Carry on.[br]- Thank you, sir.
+
+00:07:39.57,00:07:41.53
+Hello there, soldier.
+
+00:07:41.61,00:07:44.07
+Ready to kill more Germans?
+
+00:07:45.16,00:07:47.28
+Is everything all right, soldier?
+
+00:07:47.37,00:07:50.41
+All right. Yes, sir.[br]I'm all right.
+
+00:07:50.49,00:07:51.95
+Good fella.
+
+00:07:52.04,00:07:57.04
+- Are you married, soldier?[br]- Married? Me, married?
+
+00:07:57.08,00:08:00.67
+- Yes. Have you got a wife?[br]- A wife? Have I got a wife?
+
+00:08:00.75,00:08:02.96
+Sir. He's a bit shellshocked.
+
+00:08:03.05,00:08:08.38
+I beg your pardon, Sergeant.[br]There is no such thing as shell shock.
+
+00:08:08.42,00:08:09.88
+Have you got a wife, soldier?
+
+00:08:09.93,00:08:14.56
+My wife? My wife. Yes, I have a wife.
+
+00:08:14.60,00:08:16.56
+I'm never gonna see her again.
+
+00:08:16.60,00:08:19.10
+Get a grip on yourself![br]You're acting like a coward!
+
+00:08:19.14,00:08:21.60
+- I am a coward, sir.[br]- Snap out of it!
+
+00:08:21.69,00:08:25.77
+Sergeant, I want you to immediately[br]transfer this baby out of my regiment!
+
+00:08:25.86,00:08:28.53
+I won't have other brave men[br]contaminated by him.
+
+00:08:28.61,00:08:30.94
+- Yes, sir.[br]- Carry on, Sergeant.
+
+00:08:34.11,00:08:38.20
+You were right, sir. This sort of thing[br]can spread if it isn't checked.
+
+00:08:38.28,00:08:40.41
+General, I'm convinced[br]that these tours of yours...
+
+00:08:40.45,00:08:43.08
+have an incalculable effect[br]upon the morale of these men.
+
+00:08:43.12,00:08:46.08
+I think the fighting spirit[br]of the 701st derives from it.
+
+00:08:46.12,00:08:49.96
+No, Major. That spirit[br]was just born in them.
+
+00:08:55.55,00:08:57.80
+The general is coming, sir.
+
+00:09:12.44,00:09:15.27
+- Always a pleasure to see you, Colonel.[br]- I'm honored, General.
+
+00:09:15.32,00:09:17.32
+It's our privilege entirely.
+
+00:09:17.40,00:09:20.40
+Well, quite a neat little spot[br]you have here.
+
+00:09:20.49,00:09:24.20
+I'll reserve comment on the neatness,[br]sir, but it is little.
+
+00:09:24.28,00:09:26.57
+Pretty shy[br]on seating accommodations, though.
+
+00:09:26.66,00:09:29.95
+More than enough for me.[br]Never got the habit of sitting.
+
+00:09:29.99,00:09:32.75
+Like to be on my feet,[br]keep on the move.
+
+00:09:32.83,00:09:37.71
+I can vouch for that. I can hardly[br]get him behind a desk to sign an order.
+
+00:09:37.79,00:09:39.92
+That's the way I am, you know, Dax.
+
+00:09:40.00,00:09:42.92
+I can't understand these[br]armchair officers--
+
+00:09:43.01,00:09:47.09
+fellows trying to fight from behind[br]a desk, waving papers at the enemy.
+
+00:09:47.18,00:09:50.34
+Worrying about whether a mouse is going[br]to run up their pants leg.
+
+00:09:50.43,00:09:54.97
+I don't know. If I could choose between[br]mice and Mausers, I'd take the mice.
+
+00:09:55.02,00:09:57.10
+You'll never make me believe that.
+
+00:09:57.18,00:09:59.69
+Seriously, though, if a man's a ninny...
+
+00:09:59.77,00:10:02.40
+let him put on a dress[br]and hide under the bed.
+
+00:10:02.48,00:10:05.44
+But if he wants to be a soldier,[br]then by heavens, he's got to be one.
+
+00:10:05.52,00:10:09.65
+He's got to fight. He can't do that[br]unless he's where the fighting is.
+
+00:10:09.74,00:10:12.49
+- That's my credo.[br]- I think I have to agree with you...
+
+00:10:12.57,00:10:14.53
+presenting your case[br]so convincingly, sir.
+
+00:10:14.57,00:10:17.70
+- You've never failed to live up to it.[br]- You'd like a look around?
+
+00:10:17.78,00:10:19.49
+Yes, Colonel.
+
+00:10:19.58,00:10:22.33
+Here's something to see.[br]The Ant Hill.
+
+00:10:22.41,00:10:24.87
+About as good a view as you can get[br]without actually being there.
+
+00:10:24.96,00:10:27.71
+Ha-ha. That won't be long now, will it?
+
+00:10:30.71,00:10:32.46
+Ah.
+
+00:10:33.88,00:10:35.80
+Yeah.
+
+00:10:35.88,00:10:39.55
+Well, I've seen much more formidable[br]objectives.
+
+00:10:39.64,00:10:41.64
+Much, much worse.
+
+00:10:46.43,00:10:50.52
+Well, not something[br]we can grab and run away with...
+
+00:10:50.60,00:10:52.73
+but certainly pregnable.
+
+00:10:52.81,00:10:55.69
+-Sounds kind of odd, though, doesn't it?[br]-Why?
+
+00:10:55.73,00:10:58.03
+Well, like something[br]to do with giving birth.
+
+00:10:58.07,00:11:01.53
+Oh, yes, quite. You're right on[br]your toes this morning, Colonel.
+
+00:11:01.57,00:11:04.03
+Even sharper than usual.[br]But we mustn't forget...
+
+00:11:04.07,00:11:07.20
+the colonel was perhaps the foremost[br]criminal lawyer in all France.
+
+00:11:07.29,00:11:11.12
+- Of course, General.[br]- Gentlemen, you're both much too kind.
+
+00:11:11.21,00:11:14.54
+Tell me, Colonel, how did your relief[br]come off last night?
+
+00:11:14.58,00:11:17.63
+We drew some artillery.[br]Twenty-nine casualties, sir.
+
+00:11:17.71,00:11:21.76
+Yes, I noticed it on the road in.[br]Utterly inexcusable. Stupid.
+
+00:11:21.84,00:11:25.01
+All swarmed together like flies,[br]just waiting for someone to swat them.
+
+00:11:25.09,00:11:29.05
+Well, they never learn, it seems. They[br]get in a tight spot under heavy fire--
+
+00:11:29.14,00:11:31.72
+gang up every time--[br]herd instinct, I suppose.
+
+00:11:31.76,00:11:35.35
+- Kind of a lower animal sort of thing.[br]- Kind of a human thing, it seems to me.
+
+00:11:35.43,00:11:37.39
+Don't you make a distinction between[br]the two, Major?
+
+00:11:37.44,00:11:40.10
+Oh, yes, very regrettable, of course.
+
+00:11:40.19,00:11:44.69
+Yes, indeed. Major, will you excuse us[br]for a few minutes?
+
+00:11:44.78,00:11:46.86
+Yes, sir. Of course.
+
+00:11:47.94,00:11:49.36
+Colonel.
+
+00:11:53.95,00:11:56.62
+Well, Colonel, what do you think of it?
+
+00:11:56.70,00:11:59.62
+- What do I think of what, sir?[br]- The Ant Hill.
+
+00:11:59.70,00:12:04.63
+Colonel, your regiment is going to[br]take the Ant Hill tomorrow.
+
+00:12:04.71,00:12:08.42
+- You know the condition of my men, sir.[br]- Naturally, men are gonna be killed.
+
+00:12:08.46,00:12:11.88
+Possibly a lot of them.[br]They'll absorb bullets and shrapnel...
+
+00:12:11.97,00:12:14.30
+and by doing so make it possible[br]for others to get through.
+
+00:12:14.38,00:12:17.64
+- What support will we have?[br]- I have none to give you.
+
+00:12:18.97,00:12:21.47
+What sort of casualties[br]do you anticipate, sir?
+
+00:12:21.56,00:12:26.27
+Say, five percent killed by our own[br]barrage. That's a generous allowance.
+
+00:12:26.35,00:12:28.73
+Ten percent more in getting through[br]no-man's-land...
+
+00:12:28.81,00:12:31.06
+and 20 percent more[br]getting through the wire.
+
+00:12:31.15,00:12:35.03
+That leaves 65 percent[br]with the worst part of the job over.
+
+00:12:35.11,00:12:39.11
+Let's say another 25 percent[br]in actually taking the Ant Hill.
+
+00:12:39.16,00:12:42.20
+We're still left with a force[br]more than adequate to hold it.
+
+00:12:42.28,00:12:45.16
+General, you're saying that[br]more than half my men will be killed.
+
+00:12:45.24,00:12:48.00
+Yes, it's a terrible price to pay,[br]Colonel.
+
+00:12:48.08,00:12:52.50
+- But we will have the Ant Hill.[br]- But will we, sir?
+
+00:12:52.54,00:12:57.13
+I'm depending on you, Colonel.[br]All France is depending on you.
+
+00:13:00.21,00:13:02.17
+Am I amusing you, Colonel?
+
+00:13:03.51,00:13:06.85
+I'm not a bull, General. I don't need[br]a flag waved to get me to charge.
+
+00:13:06.93,00:13:09.89
+I don't like your comparison of the flag[br]of France to a bullfighter's cape.
+
+00:13:09.97,00:13:12.14
+I meant nothing disrespectful[br]to the flag of France, sir.
+
+00:13:12.18,00:13:15.73
+Patriotism may be old-fashioned,[br]but a patriot is an honest man.
+
+00:13:15.81,00:13:19.56
+Not everyone has always thought so.[br]Samuel Johnson said something else.
+
+00:13:19.65,00:13:21.07
+What was that?
+
+00:13:22.86,00:13:25.07
+- Nothing, really.[br]- What do you mean, "Nothing, really"?
+
+00:13:25.15,00:13:28.53
+- Well, sir, nothing really important.[br]- When I ask a question, it's important.
+
+00:13:28.61,00:13:31.16
+- Now, who was this man?[br]- Samuel Johnson, sir.
+
+00:13:31.24,00:13:33.95
+All right. What did he have to say[br]about patriotism?
+
+00:13:34.04,00:13:37.25
+He said it was the last refuge[br]of a scoundrel, sir. I'm sorry.
+
+00:13:37.33,00:13:39.33
+I meant nothing personal.
+
+00:13:39.41,00:13:42.67
+You're tired, Dax.[br]You're very tired.
+
+00:13:42.71,00:13:46.17
+It's you who are exhausted,[br]not your men, and it's my fault.
+
+00:13:46.21,00:13:49.97
+I've given you one impossible task[br]after another. You need rest badly.
+
+00:13:50.05,00:13:52.30
+- I haven't said that![br]- And you never would, either.
+
+00:13:52.38,00:13:54.51
+Therefore you're not going to have[br]any say-so about it, Colonel.
+
+00:13:54.59,00:13:57.30
+I'm ordering you on indefinite furlough.
+
+00:13:57.39,00:13:59.97
+General, you can't take me away from[br]my men. You can't do that to me, sir!
+
+00:14:00.06,00:14:03.69
+Not to you, Dax. For you. For your good[br]and for the good of your men.
+
+00:14:03.73,00:14:05.69
+The good of my men, sir?
+
+00:14:05.73,00:14:09.52
+If an officer lacks confidence,[br]what can we expect of his men?
+
+00:14:09.57,00:14:13.69
+Naturally, I don't want to relieve you,[br]but I must have enthusiastic support.
+
+00:14:13.78,00:14:18.03
+Not once have you said that your men[br]can take the Ant Hill.
+
+00:14:19.28,00:14:23.04
+We'll take the Ant Hill.
+
+00:14:23.08,00:14:26.50
+If any soldiers in the world[br]can take it...
+
+00:14:26.58,00:14:28.92
+we'll take the Ant Hill.
+
+00:14:29.00,00:14:32.33
+And when you do, your men will be[br]relieved and get a long rest.
+
+00:14:48.10,00:14:50.31
+Corporal Paris and Private Lejeune[br]reporting, sir.
+
+00:14:51.14,00:14:52.60
+You took your time.
+
+00:14:52.64,00:14:56.56
+We prepared as quick as we could, sir.[br]We had to alert the sentries.
+
+00:14:56.61,00:15:00.32
+All right. You men, at ease.[br]This is a reconnaissance patrol.
+
+00:15:00.40,00:15:04.24
+German wire, machine gun posts,[br]identification of bodies.
+
+00:15:04.28,00:15:07.70
+There'll only be the three of us,[br]and we're to avoid a fight if we can.
+
+00:15:09.74,00:15:14.08
+We go out to the left, and we come back[br]through Post Six on the right.
+
+00:15:14.12,00:15:16.87
+- Is everything all clear at Post Six?[br]- All the sentries have been warned.
+
+00:15:16.96,00:15:20.33
+Number six will send up flares at[br]ten minute intervals starting at 0400.
+
+00:15:20.42,00:15:23.29
+- I wanted them every five minutes.[br]- I told them that, sir.
+
+00:15:23.34,00:15:26.71
+The sergeant says every five minutes[br]is too much. It'll draw artillery.
+
+00:15:26.80,00:15:28.84
+Quite a strategist, this sergeant.[br]What's his name?
+
+00:15:28.92,00:15:31.30
+I don't know, sir.
+
+00:15:32.89,00:15:35.64
+All right. You men wait outside.[br]I'll join you in a minute.
+
+00:15:35.72,00:15:38.27
+Would you mind telling us[br]the password, sir?
+
+00:15:38.35,00:15:40.81
+- Calais.[br]- Yes, sir.
+
+00:15:49.23,00:15:52.65
+- He's fortifying himself.[br]- It smelled like heaven.
+
+00:15:52.69,00:15:55.78
+I can always tell when he's had a few.[br]He gets sarcastic.
+
+00:15:55.82,00:15:58.74
+Well, at least[br]he could have passed it around, the pig.
+
+00:15:58.82,00:16:01.87
+Hey, what's he got against you anyway?
+
+00:16:01.95,00:16:04.54
+We went to school together[br]before the war.
+
+00:16:04.62,00:16:07.12
+He thinks I don't have enough respect[br]for him. He's right.
+
+00:16:09.88,00:16:11.84
+You gentlemen are ready?
+
+00:16:17.97,00:16:20.80
+- Everything clear and understood?[br]- Yes, sir.
+
+00:16:20.84,00:16:23.26
+The lane through our wire[br]is right out in front here.
+
+00:16:23.35,00:16:25.64
+The machine guns are pointing[br]at the opening.
+
+00:16:25.68,00:16:27.81
+- Good luck, men.[br]- Thank you, sir.
+
+00:16:27.85,00:16:30.27
+All right, men. Let's go.
+
+00:18:24.78,00:18:28.08
+- What's that?[br]- I don't know.
+
+00:18:28.87,00:18:33.54
+Lejeune, move out and look that over.[br]We'll cover you.
+
+00:18:33.62,00:18:35.96
+Split up a night patrol?
+
+00:18:36.04,00:18:37.96
+Move out, Lejeune.
+
+00:20:02.62,00:20:04.53
+I don't like this.[br]Let's get out of here.
+
+00:20:04.62,00:20:06.83
+We haven't given him enough time.
+
+00:20:12.58,00:20:15.67
+- If we wait, they'll get us too.[br]- We've got to wait for him.
+
+00:20:20.88,00:20:23.22
+He must be dead.[br]Where is he?
+
+00:21:21.77,00:21:24.73
+- Well![br]- Surprised, Lieutenant?
+
+00:21:24.77,00:21:28.36
+Yes, I am. Happily surprised.[br]I thought you'd been killed.
+
+00:21:28.44,00:21:31.27
+You didn't wait around to find out,[br]did you, Lieutenant?
+
+00:21:31.36,00:21:32.86
+Look here. What do you mean?
+
+00:21:32.94,00:21:36.20
+I mean you ran like a rabbit[br]after you killed Lejeune.
+
+00:21:36.28,00:21:39.82
+Killed Lejeune?[br]What are you talking about?
+
+00:21:39.91,00:21:42.37
+I don't think I like your tone.
+
+00:21:42.45,00:21:44.70
+You're speaking to an officer.[br]Remember that.
+
+00:21:44.79,00:21:48.00
+Oh, well, I must be mistaken, then, sir.
+
+00:21:48.08,00:21:50.58
+An officer wouldn't do that.
+
+00:21:50.67,00:21:53.08
+A man wouldn't do it.
+
+00:21:53.13,00:21:55.09
+Only a thing would.
+
+00:21:55.13,00:21:57.09
+A sneaky, booze-guzzling...
+
+00:21:57.13,00:22:00.76
+yellow-bellied rat[br]with a bottle for a brain...
+
+00:22:00.84,00:22:03.47
+- That's enough.[br]- and a streak of spit for a spine.
+
+00:22:03.55,00:22:06.76
+- You got yourself into a mess.[br]- Oh, I have?
+
+00:22:06.80,00:22:10.35
+Well, you've got yourself in a worse[br]one. First, general insubordination.
+
+00:22:10.43,00:22:13.44
+Second, threatening[br]your superior officer.
+
+00:22:13.52,00:22:17.81
+Third, refusing to obey an order[br]and inciting others to do the same.
+
+00:22:17.90,00:22:20.44
+How do you think those charges[br]are going to look on paper?
+
+00:22:20.52,00:22:22.73
+Not half as bad as these.
+
+00:22:22.82,00:22:25.78
+Endangering the lives of your men[br]through recklessness...
+
+00:22:25.86,00:22:29.87
+drunk on duty, wanton murder[br]of one of your own men...
+
+00:22:29.95,00:22:33.04
+and cowardice in the face[br]of the enemy.
+
+00:22:34.70,00:22:39.58
+Phillip, have you ever tried[br]to bring charges against an officer?
+
+00:22:39.67,00:22:44.46
+It's my word against yours. Whose word[br]do you think they are going to believe?
+
+00:22:44.50,00:22:46.59
+Or let me put it another way.
+
+00:22:46.67,00:22:49.59
+Whose word are they going to accept?
+
+00:22:49.67,00:22:52.13
+I'll tell you what I'm willing to do.
+
+00:22:52.22,00:22:55.30
+So far, all I have written[br]in this report...
+
+00:22:55.35,00:22:58.89
+is that you and Lejeune were killed[br]while out on patrol.
+
+00:22:58.97,00:23:01.14
+I'll fix this to read[br]that you made your way back...
+
+00:23:01.23,00:23:03.52
+after becoming separated[br]during the skirmish.
+
+00:23:03.60,00:23:06.27
+- That'll end the matter.[br]- You killed Lejeune. You know that.
+
+00:23:06.36,00:23:08.02
+- It was an accident.[br]- You threw that grenade.
+
+00:23:08.11,00:23:11.78
+I'd give anything if it hadn't happened.[br]That's the truth.
+
+00:23:11.86,00:23:15.65
+Honestly, I know you don't like me, but[br]what kind of a man do you think I am?
+
+00:23:18.03,00:23:20.83
+- Oh, good morning, Colonel.[br]- At ease, men.
+
+00:23:20.87,00:23:24.45
+- I've been waiting for your report.[br]- We found out a thing or two.
+
+00:23:24.54,00:23:28.25
+- Everything go well?[br]- No, sir. Private Lejeune was killed.
+
+00:23:28.33,00:23:30.46
+- How'd it happen?[br]- It's in the report, sir.
+
+00:23:30.54,00:23:33.67
+- Let's have it.[br]- It isn't quite finished yet, sir.
+
+00:23:33.71,00:23:35.80
+That's all, Corporal.[br]You did a good night's work.
+
+00:23:35.88,00:23:39.17
+Should feel very proud of yourself.[br]Go get some sleep.
+
+00:23:39.22,00:23:40.68
+Yes, sir.
+
+00:23:45.14,00:23:48.35
+- How'd you lose Lejeune?[br]- Machine gun fire, sir.
+
+00:23:48.43,00:23:52.39
+He coughed. Almost got us all killed.
+
+00:23:52.44,00:23:54.77
+Finish that report and get it[br]to my dugout immediately.
+
+00:23:54.85,00:23:56.27
+Yes, sir.
+
+00:24:01.28,00:24:05.03
+The artillery starts at 0515.
+
+00:24:05.11,00:24:09.12
+The First Battalion[br]will move out at 0530.
+
+00:24:09.20,00:24:11.37
+When the leading elements[br]have cleared the German wires...
+
+00:24:11.45,00:24:14.25
+the second wave, consisting of[br]the Second and Third Battalions...
+
+00:24:14.33,00:24:17.75
+minus two companies in reserve,[br]will move out.
+
+00:24:17.83,00:24:21.79
+In no case later than 0540.
+
+00:24:21.88,00:24:24.67
+That's it, gentlemen.[br]Are there any questions?
+
+00:24:24.76,00:24:29.01
+Sir, is 15 minutes of artillery[br]preparation all that we can expect?
+
+00:24:29.09,00:24:33.55
+The feeling is that any more will give[br]them too much time to get organized.
+
+00:24:33.64,00:24:35.85
+What's the weather supposed to be like[br]tomorrow, sir?
+
+00:24:37.10,00:24:38.02
+Too good.
+
+00:24:39.35,00:24:42.06
+No chance of rain or fog?
+
+00:24:42.10,00:24:44.61
+The forecast is for sun all day.
+
+00:24:44.65,00:24:49.07
+If, or perhaps I should say when,[br]we take the Ant Hill...
+
+00:24:49.11,00:24:52.11
+how long do we have to hold it[br]before we can expect any support?
+
+00:24:52.99,00:24:56.57
+General Mireau, who, by the way, will be[br]personally observing the attack...
+
+00:24:56.66,00:24:59.53
+has promised support from the 72nd[br]by sundown tomorrow...
+
+00:24:59.62,00:25:03.79
+which means, of course,[br]that we'll have to hold all day.
+
+00:25:04.71,00:25:06.29
+Any more questions?
+
+00:25:10.04,00:25:14.26
+Well, gentlemen, good luck. I'm sure[br]you'll come through as you always do.
+
+00:25:14.30,00:25:16.01
+Let's get some sleep.
+
+00:25:18.13,00:25:21.26
+I'm not afraid of dying tomorrow,[br]only of getting killed.
+
+00:25:21.30,00:25:24.26
+- That's as clear as mud.[br]- Which would you rather be done in by?
+
+00:25:24.31,00:25:27.02
+- A bayonet or a machine gun?[br]- Machine gun, naturally.
+
+00:25:27.10,00:25:30.85
+That's my point. They're both pieces[br]of steel ripping into your guts...
+
+00:25:30.94,00:25:33.73
+only the machine gun is quicker,[br]cleaner and less painful, isn't it?
+
+00:25:33.81,00:25:35.61
+- What does that prove?[br]- That proves most of us...
+
+00:25:35.69,00:25:38.86
+are more afraid of getting hurt[br]than getting killed.
+
+00:25:38.94,00:25:43.28
+Look at Bernard. He panics when it comes[br]to gas. Gas doesn't bother me a bit.
+
+00:25:43.32,00:25:46.91
+He's seen photos of gas cases,[br]but it doesn't mean anything to me.
+
+00:25:46.99,00:25:50.33
+But I'll tell you something. I'd hate[br]like the devil to be without my tin hat.
+
+00:25:50.37,00:25:52.96
+But I don't mind not having a tin hat[br]for my tail.
+
+00:25:53.04,00:25:55.42
+- Why's that?[br]- That's where your brains are.
+
+00:25:55.50,00:25:57.92
+Because I know a wound to the head[br]will hurt more than one in the tail.
+
+00:25:58.00,00:26:01.05
+The tail is just meat, but the head--[br]the head is all bone.
+
+00:26:01.13,00:26:03.46
+- Speak for yourself.[br]- Tell me this.
+
+00:26:03.51,00:26:06.05
+Aside from the bayonet,[br]what are you most afraid of?
+
+00:26:06.13,00:26:08.38
+- High explosives.[br]- Exactly. It's the same with me.
+
+00:26:08.47,00:26:11.39
+Because I know that it can chew you up[br]worse than anything else.
+
+00:26:11.47,00:26:14.06
+Look, it's like I'm trying to tell you.[br]If you're really afraid of dying...
+
+00:26:14.14,00:26:16.14
+you'd be living in a funk[br]all the rest of your life...
+
+00:26:16.22,00:26:18.48
+because you know you've got to go[br]someday, any day.
+
+00:26:18.52,00:26:23.02
+If death is what you really fear, why[br]should you care about what kills you?
+
+00:26:23.11,00:26:27.65
+You're too smart for me, Professor.[br]All I know is nobody wants to die.
+
+00:26:36.74,00:26:39.49
+Through to Division, sir.[br]Through to Polygon.
+
+00:26:39.54,00:26:43.46
+Everything quiet.[br]All units report themselves ready.
+
+00:26:43.54,00:26:46.17
+Zero minus two.
+
+00:26:46.21,00:26:48.17
+May I offer you gentlemen[br]some cognac?
+
+00:26:48.21,00:26:49.67
+Thank you, sir.
+
+00:26:53.46,00:26:55.38
+After you, sir.
+
+00:26:57.09,00:26:58.55
+To France.
+
+00:28:39.97,00:28:44.43
+Minus 15, 14, 13...
+
+00:28:46.44,00:28:49.65
+ten, nine, eight...
+
+00:28:49.73,00:28:53.53
+seven, six, five, four...
+
+00:28:53.61,00:28:56.90
+three, two, one, zero.
+
+00:31:55.05,00:31:56.72
+Sergeant, where's B Company?
+
+00:31:56.81,00:31:58.72
+I don't know, sir.
+
+00:32:02.98,00:32:05.61
+- Where in heaven's name are they?[br]- On the left, sir.
+
+00:32:05.65,00:32:08.77
+Where are the rest? Zero plus one,[br]and they're still in the trenches.
+
+00:32:08.82,00:32:12.61
+They're not advancing. Miserable[br]cowards! They're not advancing!
+
+00:32:12.65,00:32:15.66
+The barrage is getting away from them.[br]They're still in the trenches!
+
+00:32:15.74,00:32:17.16
+Yes, sir.
+
+00:32:19.03,00:32:20.16
+Captain Nichols.
+
+00:32:20.24,00:32:21.70
+Yes, sir?
+
+00:32:22.83,00:32:25.62
+Order the 75's to commence[br]firing on our own positions.
+
+00:32:27.12,00:32:31.59
+Captain, do you fail to comprehend[br]the meaning of my order?
+
+00:32:31.67,00:32:34.05
+No, sir, but I respectfully[br]ask to--
+
+00:32:34.13,00:32:37.38
+Captain, do you fail to comprehend[br]the meaning of my order?
+
+00:32:37.47,00:32:38.38
+No, sir.
+
+00:32:38.47,00:32:41.43
+- Then carry it out, Captain.[br]- Yes, sir.
+
+00:32:46.64,00:32:51.27
+Hello, Polygon?[br]This is Division.
+
+00:32:51.35,00:32:54.27
+Batteries One and Two commence firing...
+
+00:32:54.36,00:32:59.32
+on coordinates 32-58-78.
+
+00:32:59.40,00:33:01.99
+Batteries One and Two[br]to commence firing...
+
+00:33:02.07,00:33:07.12
+on coordinates 32-58-78, over.
+
+00:33:15.29,00:33:18.63
+General, the battery commander[br]reports those are our own positions.
+
+00:33:18.71,00:33:20.29
+He says it must be a mistake.
+
+00:33:20.38,00:33:23.13
+- Confirm the order, Captain.[br]- Yes, sir.
+
+00:33:23.21,00:33:25.63
+There is no mistake.[br]The order is confirmed.
+
+00:33:25.72,00:33:29.59
+Battery commander respectfully reports[br]he cannot execute such an order...
+
+00:33:29.68,00:33:33.35
+unless it is in writing and signed[br]by the general, over.
+
+00:33:33.39,00:33:37.64
+General, battery commander reports[br]he cannot execute such an order...
+
+00:33:37.73,00:33:39.89
+unless it is in writing and signed[br]by the general.
+
+00:33:39.98,00:33:42.02
+- Give me that phone.[br]- Yes, sir.
+
+00:33:46.61,00:33:47.94
+General Mireau speaking.
+
+00:33:48.03,00:33:49.82
+Battery commander speaking, sir.
+
+00:33:49.90,00:33:54.32
+The troops are mutinying, refusing[br]to advance. Fire until further notice!
+
+00:33:54.41,00:33:58.24
+With all respect, sir, you have no right[br]to order me to shoot down my own men...
+
+00:33:58.33,00:34:01.87
+unless you are willing to take full[br]and undivided responsibility for it.
+
+00:34:01.91,00:34:04.41
+Captain Rousseau, are you going[br]to obey my order?
+
+00:34:04.46,00:34:08.08
+I must have a written order before[br]I can execute such a command, sir.
+
+00:34:08.17,00:34:10.54
+Supposing you are killed?[br]Then where will I be?
+
+00:34:10.59,00:34:14.13
+You'll be in front of a firing squad[br]tomorrow morning!
+
+00:34:14.21,00:34:18.68
+Hand over your command. Report yourself[br]under arrest to my headquarters!
+
+00:34:29.81,00:34:32.48
+Roget!
+
+00:34:32.56,00:34:36.82
+- Why are your men still in here?[br]- Impossible, sir. Major Vignon is dead.
+
+00:34:36.90,00:34:39.07
+Get these men out of the trenches!
+
+00:34:39.11,00:34:44.03
+Come on! Let's get ready for another[br]try! Get these men out of here!
+
+00:34:44.12,00:34:46.37
+I've tried three times![br]Look at all the casualties.
+
+00:34:46.45,00:34:51.20
+All right, let's give it another try![br]Come on!
+
+00:35:02.30,00:35:05.76
+It's impossible, sir.[br]All the men are falling back.
+
+00:35:06.97,00:35:11.39
+Sir, I respectfully submit[br]to the colonel.
+
+00:35:11.47,00:35:16.10
+Pardon. Your remarks to me[br]were very unfair, sir.
+
+00:35:16.14,00:35:19.85
+It's just impossible.
+
+00:35:19.94,00:35:23.61
+General, according to first reports, the[br]attack has failed all along the line.
+
+00:35:23.69,00:35:26.28
+The men are falling back[br]to our own trenches.
+
+00:35:26.36,00:35:31.16
+Major Saint-Auban, arrange for the[br]immediate relief of the 701st Regiment.
+
+00:35:31.24,00:35:35.12
+Send them to the Chateau de L'aigle.[br]Have Colonel Dax report to me.
+
+00:35:35.16,00:35:38.29
+Major Gouderc, assemble[br]a general court martial.
+
+00:35:38.37,00:35:40.96
+Have it ready to meet at 3:00[br]tomorrow afternoon.
+
+00:35:41.00,00:35:44.96
+If those sweethearts won't face German[br]bullets, they'll face French ones!
+
+00:35:55.76,00:35:59.76
+I ordered an attack.[br]Your troops refused to attack.
+
+00:35:59.85,00:36:02.31
+Our troops did attack, sir,[br]but they could make no headway.
+
+00:36:02.39,00:36:06.94
+Because they didn't try. I saw it[br]myself. Half never left the trenches.
+
+00:36:07.02,00:36:09.90
+A third of my men were pinned down[br]because the fire was so intense.
+
+00:36:09.98,00:36:13.61
+Don't quibble over fractions.[br]The fact remains...
+
+00:36:13.69,00:36:16.49
+a good part of your men[br]never left their own trenches.
+
+00:36:16.53,00:36:20.24
+Colonel Dax, I'm going to have ten men[br]from each company in your regiment...
+
+00:36:20.32,00:36:23.07
+tried under penalty of death[br]for cowardice.
+
+00:36:23.16,00:36:25.74
+- Penalty of death?[br]- For cowardice!
+
+00:36:25.83,00:36:28.04
+They've skim milk in their veins[br]instead of blood.
+
+00:36:28.12,00:36:31.04
+It's the reddest milk I've ever seen.[br]My trenches are soaked with it!
+
+00:36:31.08,00:36:34.25
+- That's just about enough out of you.[br]- I'm not gonna mince words--
+
+00:36:34.33,00:36:36.92
+If you continue in this manner, I shall[br]be forced to place you under arrest.
+
+00:36:37.00,00:36:40.67
+I believe the colonel has a point,[br]even though he makes it rather bluntly.
+
+00:36:40.71,00:36:43.34
+This is not a trial, but it does[br]bear certain aspects of one...
+
+00:36:43.42,00:36:46.84
+and Colonel Dax technically[br]is cast in the role of the defense.
+
+00:36:46.89,00:36:51.56
+In view of the charges, a court would[br]grant latitude in presenting his case.
+
+00:36:51.64,00:36:54.85
+Latitude is one thing,[br]insubordination another.
+
+00:36:54.89,00:36:56.98
+I am merely offering an opinion,[br]General.
+
+00:36:57.06,00:36:59.15
+Please do not feel constrained[br]to accept it.
+
+00:36:59.23,00:37:03.07
+I'm perfectly willing to accept it,[br]General Broulard.
+
+00:37:03.15,00:37:06.86
+I'm sorry, sir. I certainly didn't[br]intend to be insubordinate.
+
+00:37:06.94,00:37:09.91
+My only aim is to remind you[br]of the heroism these men have shown...
+
+00:37:09.99,00:37:12.03
+on every occasion in the past.
+
+00:37:12.12,00:37:15.04
+We're not talking about the past.[br]We're talking about the present.
+
+00:37:15.08,00:37:17.58
+But don't you see, sir?[br]They're not cowards.
+
+00:37:17.66,00:37:20.83
+If some didn't leave the trenches,[br]it must have been impossible.
+
+00:37:20.92,00:37:25.46
+They were ordered to attack.[br]It was their duty to obey that order.
+
+00:37:25.54,00:37:28.42
+We can't leave it up to the men[br]to decide whether an order is possible.
+
+00:37:28.50,00:37:32.59
+If it was impossible, the only proof[br]of that would be their dead bodies...
+
+00:37:32.68,00:37:35.09
+lying in the trenches.
+
+00:37:35.18,00:37:37.22
+They're scum, Colonel.
+
+00:37:37.26,00:37:41.89
+The whole rotten regiment is a pack of[br]sneaking, whining, tail-dragging curs.
+
+00:37:41.97,00:37:43.43
+Do you really believe that?
+
+00:37:43.48,00:37:46.77
+Yes, I do.[br]That's exactly what I believe.
+
+00:37:46.85,00:37:49.81
+And what's more,[br]it's an incontestable fact.
+
+00:37:49.90,00:37:53.07
+Why not shoot the entire regiment?[br]I'm perfectly serious.
+
+00:37:53.11,00:37:57.57
+You're missing the point entirely. We[br]don't want to slaughter the French army.
+
+00:37:57.65,00:37:59.61
+All we want[br]is to set an example.
+
+00:37:59.66,00:38:01.99
+Oh, if it's an example you want,[br]then take me.
+
+00:38:02.08,00:38:04.49
+- Take you?[br]- Yes, sir. If you want an example...
+
+00:38:04.58,00:38:06.20
+one man will do as well as a hundred.
+
+00:38:06.29,00:38:10.75
+The logical choice is the officer[br]most responsible for the attack.
+
+00:38:12.13,00:38:13.92
+Come, Colonel.[br]I think you're overwrought.
+
+00:38:14.00,00:38:16.63
+This is not a question of officers.
+
+00:38:16.71,00:38:19.84
+Paul, we don't want to overdo[br]this thing.
+
+00:38:19.92,00:38:21.55
+Suppose we just make it a dozen.
+
+00:38:22.84,00:38:25.72
+I was talking of a hundred men.[br]Now we're down to 12.
+
+00:38:25.80,00:38:28.18
+Paul, let's not haggle over this[br]anymore.
+
+00:38:28.26,00:38:31.31
+Let's get it settled once and for all,[br]so we can all live with it.
+
+00:38:33.56,00:38:38.48
+Well, perhaps I was a bit too anxious[br]to see proper justice meted out.
+
+00:38:38.52,00:38:40.61
+I've spent my entire life in the army.
+
+00:38:40.69,00:38:43.11
+I've always tried to be true[br]to my principles.
+
+00:38:43.15,00:38:47.11
+It's the only mistake[br]I can ever be accused of.
+
+00:38:47.16,00:38:49.28
+I'll settle for this:
+
+00:38:49.37,00:38:53.95
+Have the company commanders select one[br]man from each company in the first wave.
+
+00:38:54.04,00:38:57.00
+- Three in all.[br]- Well, that's very reasonable, Paul.
+
+00:38:57.04,00:39:00.88
+The court martial will meet[br]at the chateau at 3:00 this afternoon.
+
+00:39:00.96,00:39:03.59
+- Will that be convenient for you?[br]- I won't be there, Paul.
+
+00:39:03.67,00:39:05.05
+You won't be there?
+
+00:39:05.13,00:39:07.55
+No. I think it best that you handle[br]this matter on your own.
+
+00:39:07.63,00:39:09.59
+Probably so.
+
+00:39:09.67,00:39:13.14
+General Mireau, if it's possible...
+
+00:39:13.22,00:39:15.47
+I'd like to be appointed counsel[br]for the accused.
+
+00:39:15.55,00:39:17.26
+I'll take it under consideration.
+
+00:39:17.35,00:39:20.22
+Oh, we can permit that.[br]Consider it settled, Colonel.
+
+00:39:20.31,00:39:21.31
+Thank you, sir.
+
+00:39:24.35,00:39:27.02
+Noon straight up, Paul. I hope that[br]you can stay for lunch, Colonel.
+
+00:39:27.11,00:39:30.15
+George, I'm afraid the colonel[br]won't have time.
+
+00:39:30.23,00:39:33.11
+Don't deny it, Paul,[br]you've been hiding this man.
+
+00:39:33.19,00:39:35.65
+Keeping him for your own.[br]I think that was very selfish of you.
+
+00:39:35.70,00:39:39.91
+Thank you, General, but I'm afraid there[br]isn't much time between now and 3:00.
+
+00:39:39.99,00:39:43.91
+Of course, Colonel. I shall look forward[br]to the pleasure of seeing you again.
+
+00:40:03.85,00:40:06.64
+- Yes, Captain? What is it?[br]- You ordered me to report to you, sir.
+
+00:40:06.72,00:40:09.77
+- Captain Rousseau, Battery Commander.[br]- Yes, of course.
+
+00:40:09.85,00:40:13.69
+I wanted to speak to you about[br]some of your shells falling short.
+
+00:40:13.73,00:40:17.98
+I haven't time now. Report back[br]to your command until further orders.
+
+00:40:18.07,00:40:19.48
+Yes, sir.
+
+00:40:21.82,00:40:25.11
+- Bad stuff. It demoralizes the men.[br]- I quite agree with you.
+
+00:40:25.20,00:40:27.87
+The best solution is to shelve him[br]to another outfit.
+
+00:40:27.91,00:40:29.99
+A court of inquiry ought to roast him[br]a bit first.
+
+00:40:30.08,00:40:34.54
+Well, in cases like shells falling[br]short, I always try to avoid an inquiry.
+
+00:40:34.62,00:40:38.08
+It gets around among the men[br]and makes a bad impression.
+
+00:40:38.12,00:40:40.42
+Shelving will be the best discipline[br]for him in my opinion.
+
+00:40:40.50,00:40:43.46
+- Perhaps you're right.[br]- Oh, would you excuse me for a moment?
+
+00:40:43.55,00:40:45.46
+A regimental matter for the colonel.
+
+00:40:45.55,00:40:47.88
+- I'll join you in the dining room.[br]- Splendid. In a moment.
+
+00:40:49.72,00:40:52.51
+There'll be Captain Sancy,[br]Captain Renouart and Lieutenant Roget.
+
+00:40:52.60,00:40:55.43
+- Yes, sir.[br]- Have them meet me in half an hour.
+
+00:40:55.51,00:40:57.43
+- Yes, sir.[br]- Colonel Dax?
+
+00:40:58.73,00:41:01.35
+- Yes, sir.[br]- I'd like a word.
+
+00:41:01.44,00:41:03.77
+Certainly, sir.
+
+00:41:03.85,00:41:08.44
+- Let's be sensible about this.[br]- Sensible, sir?
+
+00:41:08.53,00:41:13.45
+Listen to me, Dax. You can cut out[br]this fancy talk with me, understand?
+
+00:41:13.53,00:41:17.37
+General Broulard seemed to think[br]you're funny. I don't.
+
+00:41:17.45,00:41:21.66
+- I want you to drop this affair.[br]- I beg your pardon. Is that an order?
+
+00:41:21.74,00:41:25.54
+Colonel Dax, when this mess[br]is cleaned up, I'll break you!
+
+00:41:25.62,00:41:27.58
+I'll find an excuse,[br]and I'll break you to the ranks.
+
+00:41:27.67,00:41:30.54
+I'll ruin you. It will be[br]just what you deserve...
+
+00:41:30.63,00:41:34.17
+showing such little loyalty[br]to your commanding officer.
+
+00:41:34.26,00:41:36.30
+That's all, Colonel.
+
+00:41:59.11,00:42:02.20
+General Mireau feels that the attack[br]on the Ant Hill yesterday morning...
+
+00:42:02.28,00:42:05.95
+failed because of an inadequate effort[br]on the part of the First Battalion.
+
+00:42:06.03,00:42:08.45
+Each of you is to select one man[br]from your company...
+
+00:42:08.49,00:42:12.25
+place him under arrest and have him[br]appear before a general court martial...
+
+00:42:12.33,00:42:15.00
+no later than 1500 hours this afternoon.
+
+00:42:15.08,00:42:17.42
+The charge is cowardice[br]in the face of the enemy.
+
+00:42:17.50,00:42:20.46
+You have your orders, gentlemen.[br]Let's carry them out.
+
+00:42:40.35,00:42:42.81
+But Lieutenant Roget killed Lejeune[br]on that patrol...
+
+00:42:42.86,00:42:45.27
+and then blackmailed me[br]into keeping quiet about it!
+
+00:42:45.36,00:42:47.90
+- That's why he picked me![br]- Corporal, I understand your feelings.
+
+00:42:47.98,00:42:50.65
+But that has nothing to do with[br]the charges you're being tried for.
+
+00:42:50.74,00:42:53.61
+- Don't you believe me, sir?[br]- Yes, I do.
+
+00:42:53.70,00:42:57.33
+But who else will?[br]You've got no witnesses.
+
+00:42:57.41,00:43:01.33
+Besides, such charges against an officer[br]would only antagonize the court.
+
+00:43:01.37,00:43:04.92
+When we get clear of this, I'm going[br]into the story of that patrol again.
+
+00:43:05.00,00:43:08.88
+Sir, in my case, Captain Renouart[br]had the sergeant draw lots.
+
+00:43:08.96,00:43:11.09
+I was picked purely by chance.
+
+00:43:11.17,00:43:13.63
+You were lucky. Look at me.
+
+00:43:13.72,00:43:18.18
+I was just picked because Captain Sancy[br]said I was a social undesirable.
+
+00:43:18.26,00:43:20.51
+Me, a social undesirable.
+
+00:43:20.60,00:43:23.22
+I didn't act like a coward.[br]Picking by lots! Is that fair?
+
+00:43:23.31,00:43:24.43
+Gentlemen!
+
+00:43:24.52,00:43:27.23
+You've all got to understand that the[br]reason you were picked is immaterial.
+
+00:43:27.31,00:43:31.31
+Whatever the reason,[br]you're on trial for your lives.
+
+00:43:35.02,00:43:39.95
+Stick to your stories, and don't let[br]the prosecutor shake you out of them.
+
+00:43:40.03,00:43:43.49
+Now remember, you'll be soldiers[br]in the presence of superior officers...
+
+00:43:43.57,00:43:45.53
+so act like what you are.
+
+00:43:45.58,00:43:47.37
+Soldiers.
+
+00:43:47.45,00:43:49.95
+And brave ones at that.
+
+00:43:50.04,00:43:53.42
+I've been in the room you'll be sitting[br]in. The sun will be in your faces...
+
+00:43:53.50,00:43:57.84
+so don't let it seem as if you're[br]dropping your eyes in a hangdog manner.
+
+00:43:59.17,00:44:01.51
+When you answer questions,[br]look the judges in the eye.
+
+00:44:01.59,00:44:04.51
+Don't whine, plead or make speeches.[br]That's my job.
+
+00:44:04.59,00:44:06.55
+Simple statements. Short.
+
+00:44:06.64,00:44:08.64
+But make them so they can be heard[br]all over the room.
+
+00:44:08.72,00:44:12.68
+And try not to repeat yourselves.[br]I'll do that for you when I sum up.
+
+00:44:12.77,00:44:15.23
+We haven't much time. The court martial[br]begins in about an hour.
+
+00:44:15.27,00:44:17.23
+I've got notes to look at.
+
+00:44:19.15,00:44:21.36
+Good luck.
+
+00:44:21.44,00:44:23.36
+Thank you, Colonel.
+
+00:45:04.06,00:45:07.02
+The court martial is opened.[br]Prisoners may be seated.
+
+00:45:13.98,00:45:18.28
+This is a general court martial. We'll[br]dispense with unnecessary formalities.
+
+00:45:19.36,00:45:22.95
+These men are charged with cowardice[br]in the face of the enemy...
+
+00:45:23.03,00:45:25.49
+and will be tried for that offense.
+
+00:45:25.54,00:45:26.79
+Mr. Prosecutor.
+
+00:45:26.87,00:45:30.12
+Call the accused, Private Ferol.
+
+00:45:30.21,00:45:33.29
+Mr. President, will the prosecutor...
+
+00:45:33.38,00:45:36.13
+question the witnesses[br]without even reading the indictment?
+
+00:45:36.21,00:45:39.80
+Please don't take up the court's time[br]with technicalities.
+
+00:45:39.84,00:45:43.63
+The indictment is lengthy[br]and there's no point in reading it.
+
+00:45:43.72,00:45:46.30
+- The defense has a right--[br]- The indictment is...
+
+00:45:46.34,00:45:48.97
+that the accused showed cowardice[br]in the face of the enemy...
+
+00:45:49.06,00:45:51.22
+during the attack on the Ant Hill.
+
+00:45:51.31,00:45:54.27
+Proceed, Mr. Prosecutor.
+
+00:45:54.35,00:45:57.10
+Call the accused, Private Ferol.
+
+00:46:06.99,00:46:09.95
+- Private Ferol.[br]- Yes, sir?
+
+00:46:10.03,00:46:13.08
+Were you in the first wave[br]during the attack on the Ant Hill?
+
+00:46:13.16,00:46:16.33
+- Yes, sir.[br]- Did you refuse to advance?
+
+00:46:16.41,00:46:18.37
+No, sir.
+
+00:46:18.46,00:46:21.54
+- Did you advance?[br]- Yes, sir.
+
+00:46:21.62,00:46:23.17
+How far did you advance?
+
+00:46:23.25,00:46:27.50
+- To about the middle of no-man's-land.[br]- Then what did you do?
+
+00:46:27.59,00:46:30.92
+There were machine gun bullets[br]landing all around--
+
+00:46:31.01,00:46:33.59
+Answer the question.[br]What did you do?
+
+00:46:33.68,00:46:38.06
+Well, I saw that me and Meyer--
+
+00:46:38.10,00:46:40.27
+I didn't ask what you saw.
+
+00:46:40.35,00:46:44.35
+The court has no concern[br]with your visual experiences.
+
+00:46:44.44,00:46:47.77
+- My what, sir?[br]- You will reply to the question.
+
+00:46:47.86,00:46:49.57
+Yes, sir. What question was it?
+
+00:46:49.65,00:46:53.57
+You advanced to the middle of[br]no-man's-land. What did you do then?
+
+00:46:53.65,00:46:56.36
+- Then, sir?[br]- Did you go back or forward?
+
+00:46:56.40,00:47:00.41
+- I went back, sir.[br]- In other words, Private Ferol...
+
+00:47:01.66,00:47:03.08
+you retreated.
+
+00:47:04.24,00:47:05.66
+Yes, sir.
+
+00:47:05.75,00:47:09.37
+That's all. The accused[br]may return to his seat.
+
+00:47:09.46,00:47:10.71
+Just a minute.
+
+00:47:11.79,00:47:15.42
+Mr. President, I'd like to question[br]the witness, if I may.
+
+00:47:15.50,00:47:17.17
+Proceed, Colonel.
+
+00:47:17.26,00:47:22.05
+Thank you. Private Ferol, when you[br]reached the middle of no-man's-land...
+
+00:47:22.09,00:47:24.09
+were you alone with Private Meyer?
+
+00:47:24.14,00:47:25.35
+Yes, sir.
+
+00:47:25.43,00:47:27.64
+What happened to the rest[br]of your company?
+
+00:47:27.72,00:47:32.14
+Well, I don't know, sir. I guess the[br]rest of them had been killed or wounded.
+
+00:47:32.23,00:47:36.19
+You found yourself in the middle of[br]no-man's-land alone with Private Meyer?
+
+00:47:36.27,00:47:39.48
+- Yes, sir.[br]- Why didn't you attack single-handed?
+
+00:47:43.74,00:47:46.57
+Why didn't you storm the Ant Hill alone?
+
+00:47:46.66,00:47:48.87
+Just me and Meyer? You're kidding, sir.
+
+00:47:50.33,00:47:54.20
+Yes, I'm kidding, Private Ferol.[br]Thank you. That's all.
+
+00:47:54.29,00:47:57.00
+I don't see the point of this line[br]of questioning.
+
+00:47:57.08,00:48:00.46
+Well, I'm attempting to indicate, sir,[br]the utter absurdity...
+
+00:48:00.54,00:48:04.09
+of the line of questioning[br]used by the prosecutor.
+
+00:48:04.13,00:48:05.55
+Mr. Prosecutor.
+
+00:48:05.63,00:48:10.05
+So you freely admit, Private Ferol,[br]that you retreated?
+
+00:48:10.13,00:48:12.89
+Yes, sir. Me and Meyer both.
+
+00:48:12.97,00:48:17.10
+I knew we should have took Ant Hill,[br]but we came on back.
+
+00:48:19.14,00:48:21.44
+That's all.
+
+00:48:23.23,00:48:25.73
+The accused may return to his seat.
+
+00:48:35.49,00:48:39.20
+Private Arnaud, did you advance?
+
+00:48:39.28,00:48:44.04
+Yes, sir, until I was ordered back[br]to the trenches by Captain Renouart.
+
+00:48:44.12,00:48:46.21
+How far did you advance?
+
+00:48:46.29,00:48:48.21
+Into the wire, sir.
+
+00:48:48.29,00:48:52.09
+The enemy wire, I suppose.
+
+00:48:52.17,00:48:54.09
+No, sir. It was our wire.
+
+00:48:55.55,00:49:00.89
+You mean to tell me that you didn't[br]advance any further than our wire?
+
+00:49:00.97,00:49:02.93
+No, sir. I didn't.
+
+00:49:04.14,00:49:07.64
+How far would you say that was?[br]How many meters?
+
+00:49:07.72,00:49:10.39
+Well, I advanced as far as I could.
+
+00:49:10.48,00:49:12.65
+How many meters?
+
+00:49:13.81,00:49:14.90
+Not many.
+
+00:49:16.94,00:49:18.86
+Not many?
+
+00:49:21.49,00:49:23.49
+Now, Private Arnaud...
+
+00:49:23.57,00:49:26.99
+before you were ordered back...
+
+00:49:27.03,00:49:29.41
+did you urge your fellow soldiers[br]forward?
+
+00:49:31.12,00:49:34.41
+Most were dead or wounded before they[br]got three steps beyond the trenches.
+
+00:49:34.50,00:49:35.83
+Reply to the question.
+
+00:49:35.92,00:49:38.50
+I didn't urge them on.[br]No, sir.
+
+00:49:42.21,00:49:43.67
+Thank you.
+
+00:49:49.68,00:49:53.97
+Private Arnaud, at ease, please.
+
+00:49:55.89,00:50:00.19
+Aside from your sad failure to give[br]throat to spirited battle cries...
+
+00:50:00.23,00:50:02.23
+was your behavior different[br]in any respect...
+
+00:50:02.27,00:50:04.15
+from that of the other men?
+
+00:50:04.23,00:50:06.02
+Objection.[br]That's a matter of conjecture.
+
+00:50:06.11,00:50:08.32
+Sustained.
+
+00:50:11.40,00:50:14.20
+Did any men in your company[br]get beyond our wire?
+
+00:50:14.28,00:50:15.66
+No, sir.
+
+00:50:15.74,00:50:18.12
+Is it true that you've been designated[br]a coward...
+
+00:50:18.20,00:50:20.83
+simply and purely because you drew[br]a slip of paper marked "X"?
+
+00:50:20.91,00:50:21.83
+Yes, sir.
+
+00:50:21.91,00:50:24.00
+I don't see that that's significant.
+
+00:50:24.08,00:50:27.88
+It's accepted practice in the French[br]army to pick examples by lot.
+
+00:50:27.96,00:50:30.50
+Since this entire company advanced[br]only a few meters...
+
+00:50:30.59,00:50:33.55
+picking by lot was eminently fair[br]in this case.
+
+00:50:33.59,00:50:36.38
+Well, I'd like to point out that this[br]soldier has distinguished himself...
+
+00:50:36.47,00:50:39.84
+in some of the bloodiest battles[br]of the war.
+
+00:50:39.93,00:50:42.97
+With the court's permission,[br]I'll read citations for bravery...
+
+00:50:43.06,00:50:46.39
+that he's already earned on[br]two occasions.
+
+00:50:46.48,00:50:50.23
+First, citations[br]in the Orders in the Army for bravery--
+
+00:50:50.27,00:50:53.73
+That's immaterial. The accused is not[br]being tried for his former bravery...
+
+00:50:53.81,00:50:55.82
+but for his recent cowardice.
+
+00:50:55.90,00:50:58.24
+Medals are no defense.
+
+00:51:00.61,00:51:03.07
+May I call witnesses to his character?
+
+00:51:03.11,00:51:04.91
+You may not.
+
+00:51:04.99,00:51:08.66
+But you may call witnesses to the effect[br]that he reached the German wire.
+
+00:51:10.41,00:51:13.33
+Mr. President, no one[br]in the entire regiment...
+
+00:51:13.41,00:51:16.58
+got anywhere near the German wire,[br]including myself.
+
+00:51:17.38,00:51:19.50
+Call the next accused.
+
+00:51:19.59,00:51:21.80
+If you're through, Colonel.
+
+00:51:21.84,00:51:24.38
+Thank you.
+
+00:51:24.47,00:51:27.68
+The prisoner[br]may return to his seat.
+
+00:51:34.97,00:51:39.73
+- So you never even left the trenches?[br]- No, sir.
+
+00:51:41.19,00:51:42.11
+That's all.
+
+00:51:43.06,00:51:47.32
+Corporal Paris,[br]why didn't you leave the trenches?
+
+00:51:48.74,00:51:52.70
+Major Vignon was shot, and he fell back[br]on top of me, sir, and knocked me cold.
+
+00:51:52.78,00:51:56.53
+And were you lying unconscious in[br]the trenches during the entire attack?
+
+00:51:57.41,00:51:58.41
+Yes, sir.
+
+00:52:00.04,00:52:03.00
+- That's all.[br]- Have you any witnesses?
+
+00:52:03.96,00:52:09.05
+No. Everybody was too busy to notice me,[br]and there were many others lying dead.
+
+00:52:09.13,00:52:13.13
+- But you have no witnesses?[br]- No, sir.
+
+00:52:13.22,00:52:16.05
+I only have a rather large cut[br]on my head, sir.
+
+00:52:16.13,00:52:18.34
+That could've been[br]self-inflicted later.
+
+00:52:20.14,00:52:22.89
+Thank you.[br]You may stand down.
+
+00:52:28.48,00:52:30.94
+Mr. Prosecutor,[br]you can make your plea.
+
+00:52:36.11,00:52:39.36
+Gentlemen of the court...
+
+00:52:39.45,00:52:42.37
+this case speaks[br]for itself.
+
+00:52:42.45,00:52:46.37
+All of us witnessed the[br]regrettable attack yesterday morning.
+
+00:52:48.95,00:52:53.33
+And I submit[br]that that attack...
+
+00:52:53.42,00:52:56.84
+was a stain[br]on the flag of France...
+
+00:52:56.92,00:52:59.21
+a blot on the honor...
+
+00:52:59.30,00:53:02.63
+of every man, woman and child[br]in the French nation.
+
+00:53:05.13,00:53:08.35
+It is to us that the sad...
+
+00:53:08.43,00:53:14.14
+distressing,[br]repellent duty falls, gentlemen.
+
+00:53:15.31,00:53:17.44
+I ask this court...
+
+00:53:17.52,00:53:20.52
+to find the accused guilty...
+
+00:53:24.15,00:53:28.20
+and impose the penalties prescribed[br]by the code of military justice.
+
+00:53:32.49,00:53:33.99
+Thank you.
+
+00:53:35.12,00:53:37.58
+Colonel, would you like[br]to make your plea?
+
+00:53:47.71,00:53:50.13
+Gentlemen of the court,[br]there are times when I'm ashamed...
+
+00:53:50.21,00:53:54.43
+to be a member of the human race,[br]and this is one such occasion.
+
+00:53:56.68,00:54:00.31
+It's impossible for me to summarize[br]the case for the defense since...
+
+00:54:00.35,00:54:03.98
+the court never allowed me a reasonable[br]opportunity to present my case.
+
+00:54:04.06,00:54:06.98
+Are you protesting[br]the authenticity of this court?
+
+00:54:09.81,00:54:11.65
+Yes, sir.
+
+00:54:11.73,00:54:14.69
+I protest against being prevented[br]from introducing evidence...
+
+00:54:14.78,00:54:18.28
+that I consider[br]vital to the defense.
+
+00:54:18.36,00:54:20.16
+The prosecution[br]presented no witnesses.
+
+00:54:20.99,00:54:23.16
+There has never been a written[br]indictment of charges...
+
+00:54:23.20,00:54:25.58
+made against the defendants.
+
+00:54:25.66,00:54:29.33
+And lastly I protest[br]against the fact that...
+
+00:54:29.41,00:54:32.42
+no stenographic records[br]of this trial have been kept.
+
+00:54:40.92,00:54:46.05
+The attack yesterday morning[br]was no stain on the honor of France...
+
+00:54:47.56,00:54:50.93
+and certainly no disgrace[br]to the fighting men of this nation.
+
+00:54:51.02,00:54:54.35
+But this court martial[br]is such a stain...
+
+00:54:54.44,00:54:56.19
+and such a disgrace.
+
+00:54:56.27,00:55:00.27
+The case made against these men[br]is a mockery of all human justice.
+
+00:55:00.98,00:55:02.86
+Gentlemen of the court...
+
+00:55:02.90,00:55:06.78
+to find these men guilty[br]would be a crime...
+
+00:55:07.57,00:55:12.12
+to haunt each of you[br]till the day you die.
+
+00:55:15.37,00:55:20.54
+I can't believe[br]that the noblest impulse of man--
+
+00:55:20.58,00:55:24.67
+his compassion for another--[br]can be completely dead here.
+
+00:55:26.00,00:55:28.92
+Therefore I humbly beg you...
+
+00:55:30.42,00:55:33.59
+show mercy to these men.
+
+00:55:39.60,00:55:41.89
+The accused[br]will be escorted back to the guard room.
+
+00:55:41.98,00:55:45.98
+The hearing is closed.[br]The court will now retire to deliberate.
+
+00:55:46.61,00:55:48.61
+There will be a guard[br]of six men under arms.
+
+00:55:48.65,00:55:52.11
+Rifles loaded, bayonets fixed,[br]two men to each prisoner.
+
+00:55:52.15,00:55:54.49
+Any sign of trouble, the prisoners[br]will be instantly covered...
+
+00:55:54.57,00:55:58.53
+and if the trouble doesn't subside[br]at once, the prisoner will be shot.
+
+00:55:58.62,00:56:02.04
+Everything must go off without a hitch[br]with the least possible delay.
+
+00:56:02.12,00:56:05.91
+It shouldn't be hurried.[br]There must be no fumbling around.
+
+00:56:06.00,00:56:09.21
+I've been put in charge[br]and made personally responsible...
+
+00:56:09.29,00:56:12.29
+for any lack of order[br]or any mistakes.
+
+00:56:12.38,00:56:17.46
+But you can take it from me that I shall[br]pass on any blame and with interest...
+
+00:56:17.55,00:56:21.26
+to any one of you[br]who fails in his duties.
+
+00:56:21.30,00:56:24.14
+The execution[br]will take place at 7:00...
+
+00:56:24.22,00:56:27.14
+according to the verdict[br]of the court martial.
+
+00:56:28.81,00:56:31.64
+Detail, attention![br]Dismissed!
+
+00:56:45.49,00:56:48.49
+- This is compliments of General Mireau.[br]- Duck!
+
+00:56:48.57,00:56:51.79
+- Well, tell him thanks.[br]- Don't blame me, soldier.
+
+00:56:52.83,00:56:55.08
+Hey, ugly, what are we supposed[br]to eat this with, our fingers?
+
+00:56:55.16,00:56:58.92
+The guard says[br]you can't have any knives or forks.
+
+00:56:59.00,00:57:01.13
+Is this supposed to be[br]our last meal or something?
+
+00:57:01.21,00:57:05.21
+It isn't supposed to be our last meal.[br]It is our last meal.
+
+00:57:05.30,00:57:07.51
+This duck is terrific.
+
+00:57:07.59,00:57:09.97
+You suppose[br]they'd put anything in the food?
+
+00:57:10.05,00:57:12.55
+First they poison us,[br]then they shoot us?
+
+00:57:15.60,00:57:19.31
+- I think they put something in it.[br]- Like what?
+
+00:57:19.35,00:57:23.52
+Like, uh-- like something[br]to make us groggy or something.
+
+00:57:23.60,00:57:25.77
+What would be wrong with that[br]if they did?
+
+00:57:25.86,00:57:29.40
+Maybe nothing for you, but I'm[br]going to get out of this somehow.
+
+00:57:29.48,00:57:32.15
+- And I don't want to be drugged.[br]- How are you going to get out?
+
+00:57:32.24,00:57:35.53
+Chew your way[br]through that stone wall?
+
+00:57:35.61,00:57:38.62
+Colonel Dax,[br]he'll see us through.
+
+00:57:40.33,00:57:43.58
+Listen, we got to get out of here.[br]They're going to kill us if we don't.
+
+00:57:43.66,00:57:47.25
+- Have you got an idea?[br]- No, but there's got to be a way.
+
+00:57:48.54,00:57:51.17
+How many guys you think[br]they've got out there?
+
+00:57:51.25,00:57:54.01
+They may have a couple of squads. That's[br]what it sounded like this morning.
+
+00:57:54.09,00:57:57.38
+- Maybe they're some of our friends.[br]- That's the Third Battalion.
+
+00:57:57.47,00:58:00.80
+Anyway, right now[br]we have no friends.
+
+00:58:00.89,00:58:03.85
+Why kid yourself?[br]We're not going to get out of this.
+
+00:58:03.93,00:58:07.93
+Maybe you're not, but I am.[br]I'll guarantee you of that.
+
+00:58:08.73,00:58:11.19
+You see that cockroach?
+
+00:58:11.27,00:58:14.48
+Tomorrow morning,[br]we'll be dead and it'll be alive.
+
+00:58:14.56,00:58:17.65
+It'll have more contact[br]with my wife and child than I will.
+
+00:58:18.73,00:58:21.65
+I'll be nothing,[br]and it'll be alive.
+
+00:58:21.74,00:58:24.70
+Now you got the edge on him.
+
+00:58:29.12,00:58:31.95
+Good evening, my sons.[br]I'm Father Du Pres.
+
+00:58:35.12,00:58:39.88
+- Is there any news?[br]- Yes, I'm afraid I bring you bad news.
+
+00:58:39.96,00:58:42.80
+You must prepare for the worst.[br]Colonel Dax asked me to tell you.
+
+00:58:42.88,00:58:45.51
+- Oh, mercy, no![br]- He's been in telephone contact...
+
+00:58:45.59,00:58:48.97
+with army headquarters but unable[br]to speak to General Broulard...
+
+00:58:49.05,00:58:50.97
+or to anyone in authority.
+
+00:58:51.05,00:58:54.39
+The same way at Division.[br]No one wants to be found.
+
+00:58:54.47,00:58:57.23
+- How much time do we have?[br]- You have plenty of time yet.
+
+00:58:57.31,00:58:59.60
+Certainly more than enough[br]to prepare yourselves.
+
+00:59:16.74,00:59:18.74
+Father, will you[br]take this letter, please?
+
+00:59:18.83,00:59:20.79
+- Of course, my son.[br]- It's to my wife.
+
+00:59:20.87,00:59:23.96
+She won't understand this,[br]and I tried to explain it to her.
+
+00:59:24.04,00:59:25.96
+I'll see that she gets it.
+
+00:59:26.04,00:59:28.92
+Do you want me[br]to hear your confession?
+
+00:59:29.00,00:59:33.46
+Well, Father, to tell you the truth,[br]I'm not very religious.
+
+00:59:33.55,00:59:36.01
+I know you're trying to help,[br]and I appreciate it...
+
+00:59:36.09,00:59:39.09
+but if I started praying now[br]I'd feel like a hypocrite.
+
+00:59:39.18,00:59:41.10
+Oh, that's an error, my son.
+
+00:59:41.18,00:59:44.31
+God is always ready[br]to listen to your prayers.
+
+00:59:46.81,00:59:50.48
+All right, Father.[br]Will you please hear my confession?
+
+00:59:50.56,00:59:52.77
+Yes.
+
+00:59:52.81,00:59:57.86
+Have faith in your creator, my son.[br]Death comes to us all.
+
+00:59:57.94,00:59:59.74
+In the Father, the Son[br]and the Holy Ghost.
+
+00:59:59.82,01:00:03.20
+That's really deep:[br]"Death comes to us all."
+
+01:00:03.28,01:00:05.58
+That really is deep.
+
+01:00:05.66,01:00:08.29
+Ferol, afraid your luck[br]isn't going to hold up?
+
+01:00:08.33,01:00:11.46
+Look! This is my religion.
+
+01:00:11.54,01:00:13.83
+Oh, great bottle, forgive me my sins,[br]for now I lay me down to sleep.
+
+01:00:13.92,01:00:16.42
+Bo-peep. May I drink of you first?[br]Thank you. Amen.
+
+01:00:16.50,01:00:20.84
+I understand your anguish, my son, but[br]you must not let it harden your heart.
+
+01:00:20.92,01:00:23.13
+May I tell you something, Father?
+
+01:00:23.17,01:00:25.26
+Back in my hometown,[br]there was a certain little cafe...
+
+01:00:25.34,01:00:27.72
+with an amusing sign[br]over the bar.
+
+01:00:27.80,01:00:28.85
+It read,
+
+01:00:28.93,01:00:33.31
+"Do not be afraid to ask for credit,[br]for our way of refusing is very polite."
+
+01:00:33.39,01:00:37.23
+- Come on. Sit down. You're drunk.[br]- Oh, Paris, leave me alone.
+
+01:00:37.31,01:00:40.36
+Can you get out of here[br]with your sanctimonious, pat answers?
+
+01:00:40.44,01:00:43.77
+- Are you hanging around to torture us?[br]- No, to help you with all my power.
+
+01:00:43.86,01:00:46.99
+- Your power? You have no power![br]- No, but God has power.
+
+01:00:47.07,01:00:49.74
+- Does he? What a laugh![br]- You can be saved.
+
+01:00:49.82,01:00:52.53
+Saved? I'll be saved?
+
+01:00:54.20,01:00:56.74
+Cut it out, Arnaud!
+
+01:01:07.21,01:01:10.71
+Father, get a doctor.[br]Quick.
+
+01:01:19.30,01:01:22.64
+That should keep him quiet long enough.[br]That's a nasty skull fracture, though.
+
+01:01:22.72,01:01:26.10
+- He may not live out the night.[br]- What are we supposed to do with him?
+
+01:01:26.19,01:01:29.94
+My advice is to tie him to a stretcher[br]so he won't slip when you tilt it.
+
+01:01:30.02,01:01:33.07
+Surely they won't execute[br]a man in that condition.
+
+01:01:33.15,01:01:37.65
+The sentence will be carried out.[br]I've already checked with the general.
+
+01:01:37.74,01:01:41.70
+If he's still alive in the morning,[br]pinch his cheeks a couple of times.
+
+01:01:41.78,01:01:44.66
+It may make him open his eyes.[br]The general wants him to be conscious.
+
+01:01:46.62,01:01:48.16
+Yes?
+
+01:01:50.75,01:01:53.71
+- Lieutenant Roget reporting, sir.[br]- Come in.
+
+01:01:54.79,01:01:57.34
+Sergeant Boulanger[br]said you wanted to see me, sir.
+
+01:01:57.42,01:02:01.76
+Yes. We have a pretty unpleasant thing[br]on our hands in a few hours.
+
+01:02:02.59,01:02:05.59
+- You mean the execution?[br]- Yes.
+
+01:02:05.68,01:02:07.72
+Yes, sir.[br]It's very unfortunate.
+
+01:02:07.80,01:02:11.22
+Very unfortunate.[br]That's just how I feel about it.
+
+01:02:11.31,01:02:14.02
+- None of us are happy about it, sir.[br]- How'd you happen...
+
+01:02:14.10,01:02:15.89
+to pick Corporal Paris?
+
+01:02:16.98,01:02:18.90
+I-- I had to pick somebody, sir.
+
+01:02:18.98,01:02:21.69
+That's right. Of course,[br]you had no personal motive...
+
+01:02:21.73,01:02:23.94
+in picking Paris,[br]did you?
+
+01:02:24.99,01:02:27.90
+You picked him[br]because he was a coward, didn't you?
+
+01:02:29.32,01:02:31.91
+Did you or didn't you?
+
+01:02:31.99,01:02:34.04
+Yes, sir. I did.
+
+01:02:34.12,01:02:38.54
+Well, like you say,[br]somebody had to be picked.
+
+01:02:38.62,01:02:42.25
+- It was quite a problem, sir.[br]- Yes, I have the same kind of problem.
+
+01:02:42.33,01:02:45.17
+I have to pick someone to be in charge[br]of the firing squad tomorrow.
+
+01:02:45.25,01:02:47.46
+Do you have any objections[br]to taking the job?
+
+01:02:48.63,01:02:51.22
+- Me, sir?[br]- Yes, you.
+
+01:02:53.55,01:02:55.30
+Don't you feel well?
+
+01:02:55.39,01:02:58.85
+We-- No-- Yeah, I feel all right, sir.[br]It's just that l--
+
+01:02:58.93,01:03:01.68
+I-Is it too hot in here?[br]Would you like me to open a window?
+
+01:03:03.39,01:03:08.02
+Well, it's just that I've never been[br]in charge of a firing squad before, sir.
+
+01:03:09.19,01:03:13.61
+There's nothing to it. First you help[br]the sergeant tie the men to the post...
+
+01:03:13.69,01:03:18.74
+and offer the men blindfolds--[br]if they want them, you tie them on.
+
+01:03:18.78,01:03:21.99
+Now, you take your position with[br]the firing squad, you raise your sword:
+
+01:03:22.08,01:03:25.16
+Ready, aim, fire.
+
+01:03:25.25,01:03:28.41
+Then you draw your revolver out,[br]walk forward...
+
+01:03:28.50,01:03:30.79
+and put a bullet[br]through each man's head.
+
+01:03:32.08,01:03:35.46
+Sir, I request that I be excused[br]from this duty.
+
+01:03:35.55,01:03:37.63
+Request denied.
+
+01:03:37.71,01:03:40.63
+- Colonel, l--[br]- You've got the job. It's all yours.
+
+01:03:40.68,01:03:42.64
+- That's all.[br]- Colonel, if you could just--
+
+01:03:42.68,01:03:43.97
+That's all!
+
+01:03:44.80,01:03:46.64
+Yes?
+
+01:03:46.72,01:03:48.72
+Excuse me, sir.[br]Colonel Dax?
+
+01:03:48.81,01:03:51.35
+- Yes?[br]- My name is Rousseau, sir.
+
+01:03:51.43,01:03:54.90
+- Captain of Artillery.[br]- What is it, Captain?
+
+01:04:00.19,01:04:03.99
+I have something to tell you that may[br]have a bearing on the court martial.
+
+01:04:05.15,01:04:06.74
+Come in.
+
+01:05:01.41,01:05:03.29
+Colonel. Good evening.
+
+01:05:03.37,01:05:05.66
+- Good evening.[br]- Come and sit down.
+
+01:05:05.75,01:05:08.96
+Thank you, sir. I-- I'm really sorry[br]to intrude on you in this way.
+
+01:05:09.04,01:05:12.21
+Not at all. Always delighted to see you,[br]Colonel Dax. Will you have a cigar?
+
+01:05:12.25,01:05:14.46
+No, thank you, sir.
+
+01:05:14.55,01:05:17.76
+- Well, l--[br]- Think you'll find it delicious.
+
+01:05:17.84,01:05:20.30
+I must apologize for not inviting you[br]to the party tonight...
+
+01:05:20.38,01:05:23.72
+but I'm afraid that it's[br]a dress affair.
+
+01:05:23.76,01:05:25.56
+Thank you, sir,[br]but I must confess...
+
+01:05:25.64,01:05:29.10
+that this is not entirely[br]a social visit.
+
+01:05:29.18,01:05:33.73
+Come, Dax.[br]Let's not go over all that ground again.
+
+01:05:34.73,01:05:37.32
+Though, I must admit[br]that judging....
+
+01:05:37.40,01:05:40.40
+from the casualties, the efforts of your[br]regiment must have been considerable.
+
+01:05:40.49,01:05:43.86
+How can you understand that[br]and allow these men to be shot tomorrow?
+
+01:05:43.90,01:05:46.78
+Come, Colonel, you're choosing[br]to take a rather simple view of this.
+
+01:05:46.87,01:05:51.20
+The attack was impossible.[br]The general staff must have known that.
+
+01:05:52.41,01:05:56.79
+Colonel Dax, we think[br]we're doing a good job running the war.
+
+01:05:56.87,01:06:00.88
+You must be aware the general staff[br]is subject to unfair pressures...
+
+01:06:00.92,01:06:02.96
+from newspapers and politicians.
+
+01:06:03.05,01:06:05.92
+Maybe the attack against the Ant Hill[br]was impossible.
+
+01:06:06.01,01:06:08.18
+Perhaps it was an error of judgment[br]on our part.
+
+01:06:08.26,01:06:12.35
+On the other hand, if your men had been[br]more daring, they might have taken it.
+
+01:06:12.43,01:06:14.93
+Who knows? In any case...
+
+01:06:15.01,01:06:18.77
+why should we have to bear any more[br]criticism than we have to?
+
+01:06:18.85,01:06:22.40
+Aside from the fact that many of[br]your men never left the trenches...
+
+01:06:22.48,01:06:24.94
+there's the troops' morale,[br]don't forget.
+
+01:06:24.98,01:06:26.94
+- The troops' morale?[br]- Certainly.
+
+01:06:27.02,01:06:29.99
+These executions will be a perfect tonic[br]for the entire division.
+
+01:06:30.07,01:06:32.65
+There are few things more fundamentally[br]encouraging and stimulating...
+
+01:06:32.74,01:06:34.57
+than seeing someone else die.
+
+01:06:34.66,01:06:37.66
+- I never thought of that, sir.[br]- Colonel, troops are like children.
+
+01:06:37.74,01:06:42.33
+Just as a child wants his father[br]to be firm, troops crave discipline.
+
+01:06:42.41,01:06:45.29
+One way to maintain discipline[br]is to shoot a man now and then.
+
+01:06:46.17,01:06:48.84
+May I ask...
+
+01:06:48.92,01:06:51.88
+do you sincerely believe[br]the things you've said?
+
+01:06:56.84,01:06:58.76
+It's been a pleasure[br]discussing this with you, Colonel...
+
+01:06:58.84,01:07:02.22
+but I'm afraid that I'd better[br]be getting back to my guests.
+
+01:07:02.30,01:07:05.22
+Forgive me for having kept you[br]from your party.
+
+01:07:07.27,01:07:10.98
+Oh, by the way, sir,[br]have you heard that General Mireau...
+
+01:07:11.02,01:07:14.40
+ordered his own battery commander,[br]Captain Rousseau...
+
+01:07:14.48,01:07:17.65
+to open fire on his own positions[br]during the attack?
+
+01:07:21.24,01:07:24.49
+Of course, the captain refused[br]without a written order.
+
+01:07:24.53,01:07:27.95
+But General Mireau demanded that[br]he commence firing on our own trenches.
+
+01:07:27.99,01:07:31.37
+Well, again, Rousseau refused[br]without an order in writing...
+
+01:07:31.45,01:07:35.71
+but again he was ordered[br]and again he refused...
+
+01:07:35.79,01:07:37.50
+all in front of witnesses.
+
+01:07:37.58,01:07:40.34
+Do you actually[br]believe this fantastic story?
+
+01:07:40.38,01:07:44.51
+Here are copies of the sworn statements[br]from all the principals involved.
+
+01:07:44.59,01:07:48.30
+Battery Commander Rousseau, Captain[br]Nichols, the artillery spotter...
+
+01:07:48.34,01:07:52.18
+the telephone clerk[br]and my own deposition.
+
+01:07:52.26,01:07:56.39
+What has this got to do with the charge[br]against the condemned prisoners?
+
+01:07:56.48,01:08:00.15
+A general in a tantrum over the failure[br]of an impossible attack...
+
+01:08:00.19,01:08:03.98
+orders his artillery[br]to fire on his own men.
+
+01:08:04.02,01:08:07.86
+The same officer on the same day[br]orders a court martial...
+
+01:08:07.94,01:08:11.95
+in which three of his men[br]are sentenced to be shot.
+
+01:08:12.03,01:08:17.12
+General, what would your newspapers[br]and your politicians do with that?
+
+01:08:18.20,01:08:21.91
+- Are you trying to blackmail me?[br]- Sir, that's an ugly word...
+
+01:08:22.00,01:08:24.75
+but you are in a difficult position.
+
+01:08:24.83,01:08:28.92
+Too much has happened. Someone's[br]got to be hurt. The question is whom.
+
+01:08:31.05,01:08:34.05
+General Mireau's[br]assault on the Ant Hill failed.
+
+01:08:34.13,01:08:37.89
+His order to fire on his own troops[br]was refused.
+
+01:08:37.97,01:08:40.39
+But his attempt[br]to murder three innocent men...
+
+01:08:40.43,01:08:44.89
+to protect his own reputation will be[br]prevented by the general staff.
+
+01:08:52.06,01:08:56.40
+Will you pardon me, Colonel Dax?[br]I've been rude to my guests too long.
+
+01:09:23.63,01:09:25.55
+Detail, halt!
+
+01:09:26.89,01:09:29.51
+Order, arms!
+
+01:09:29.60,01:09:31.52
+Fall out.
+
+01:09:57.04,01:10:00.08
+Courage, my sons.[br]The worst is over.
+
+01:10:11.42,01:10:14.09
+Good morning, Paris.
+
+01:10:14.13,01:10:17.93
+Good morning, Sergeant.[br]How are you today?
+
+01:10:18.01,01:10:20.72
+Not too bad. How are you?
+
+01:10:23.85,01:10:26.19
+You missed some good chow[br]in here last night.
+
+01:10:26.27,01:10:28.61
+What did you have?
+
+01:10:30.98,01:10:33.82
+Have you got a drink for us?
+
+01:10:33.86,01:10:36.32
+Take a swig of this.
+
+01:10:39.66,01:10:43.16
+It just occurred to me.[br]Funny thing. I--
+
+01:10:43.24,01:10:46.12
+I haven't had one sexual thought[br]since the court martial.
+
+01:10:46.16,01:10:49.33
+It's pretty extraordinary,[br]isn't it?
+
+01:10:49.41,01:10:51.25
+Act like a man.
+
+01:10:53.08,01:10:56.17
+- Listen, Paris. Are you listening?[br]- Yes.
+
+01:10:56.25,01:10:58.34
+There will be a lot of dignitaries,[br]newspapermen out there.
+
+01:10:58.42,01:11:00.51
+How do you want to be remembered?
+
+01:11:01.34,01:11:03.89
+- I don't want to die.[br]- Many of us will be joining you...
+
+01:11:03.97,01:11:05.47
+before this war's over.
+
+01:11:05.55,01:11:08.01
+I don't care.[br]I don't want to die.
+
+01:11:09.10,01:11:13.60
+- Please save me, Sergeant.[br]- I can't save you. No one can now.
+
+01:11:15.10,01:11:17.90
+This is the last decision[br]you'll have a chance to make on earth.
+
+01:11:17.98,01:11:21.57
+You can act like a man,[br]or we'll have to drag you out of here.
+
+01:11:21.65,01:11:24.57
+In the end, it will all be the same.[br]It's up to you.
+
+01:11:41.08,01:11:45.80
+Let's get busy. You and Ferol take your[br]coats off. No use hanging around here.
+
+01:12:03.85,01:12:06.56
+...with the help of Thy grace[br]to do penance...
+
+01:12:06.65,01:12:09.19
+to amend my life.
+
+01:12:16.49,01:12:18.91
+What do I have to die for, Father?
+
+01:12:21.99,01:12:25.20
+What do I have to die for?[br]I didn't do anything wr--
+
+01:12:25.25,01:12:28.33
+We do not question[br]the will of God, my son.
+
+01:12:28.42,01:12:32.59
+But I fought. I fought.[br]I fought on the battlefield.
+
+01:12:32.67,01:12:36.17
+Why don't they die?[br]Why don't they put them to death?
+
+01:12:36.26,01:12:38.72
+You showed courage in the face[br]of the enemy, my son.
+
+01:12:38.80,01:12:40.68
+Show it now before your own troops.
+
+01:12:40.76,01:12:43.18
+But I'm scared.[br]I'm scared.
+
+01:12:44.51,01:12:47.56
+Oh, Father, I'm scared.
+
+01:12:47.64,01:12:51.02
+Courage. Brace yourself.[br]Man, brace yourself.
+
+01:12:58.77,01:13:02.61
+He said, "This day,[br]thou shalt be with me in paradise."
+
+01:13:02.65,01:13:07.57
+- Really, Father?[br]- Yes, my son.
+
+01:13:08.87,01:13:12.08
+I'll never see my wife again,[br]Father.
+
+01:13:13.66,01:13:16.83
+I'll never see nobody again,[br]Father.
+
+01:13:16.92,01:13:19.33
+Courage, man.[br]Brace yourself.
+
+01:13:19.42,01:13:22.00
+- I can't help it.[br]- Brace yourself, man.
+
+01:13:22.09,01:13:27.09
+- I can't help it, Father.[br]- Oh, God, Almighty God.
+
+01:13:27.17,01:13:31.01
+- Oh, Christ. Strengthen me, God![br]- Grant courage to this man...
+
+01:13:31.09,01:13:32.80
+who is about to die.
+
+01:13:39.48,01:13:42.40
+What do I have to die for,[br]Father?
+
+01:13:44.94,01:13:46.98
+What do I have to die for?
+
+01:13:47.07,01:13:49.86
+Forward, face!
+
+01:13:59.78,01:14:01.95
+Secure the men!
+
+01:14:04.83,01:14:06.71
+Detail, attention!
+
+01:14:06.79,01:14:09.33
+Forward, march!
+
+01:14:17.84,01:14:19.43
+Detail...
+
+01:14:21.89,01:14:22.97
+halt!
+
+01:14:23.05,01:14:25.14
+Left, face!
+
+01:14:27.64,01:14:29.23
+Repent.
+
+01:14:59.54,01:15:02.42
+In the name of the French people...
+
+01:15:02.50,01:15:06.59
+Corporal Phillip Paris,[br]Private Maurice Ferol...
+
+01:15:06.68,01:15:10.97
+and Private Pierre Arnaud[br]of the 701st Regiment...
+
+01:15:11.05,01:15:16.14
+having been found guilty of cowardice[br]in the face of the enemy...
+
+01:15:16.22,01:15:19.44
+are to be executed[br]by rifle fire immediately...
+
+01:15:19.52,01:15:23.36
+in accordance with the judgment[br]of the military court martial.
+
+01:15:53.46,01:15:55.93
+You want a blindfold?
+
+01:15:56.01,01:15:59.43
+Yes, Lieutenant. Please.
+
+01:16:04.22,01:16:06.60
+I don't want to die.
+
+01:16:19.57,01:16:22.57
+Did-- Did you want a blindfold?
+
+01:16:25.45,01:16:27.41
+I'm sorry.
+
+01:16:50.64,01:16:52.56
+Oh, Father.
+
+01:17:05.40,01:17:06.99
+Ready!
+
+01:17:09.86,01:17:11.16
+Aim!
+
+01:17:13.32,01:17:14.95
+Fire!
+
+01:17:18.66,01:17:20.91
+I'm awfully glad[br]you could be there, George.
+
+01:17:21.00,01:17:23.79
+This sort of thing[br]is always rather grim.
+
+01:17:23.83,01:17:26.00
+But this had splendor,[br]don't you think?
+
+01:17:26.09,01:17:28.50
+I have never seen an affair[br]of this sort handled any better.
+
+01:17:29.46,01:17:32.63
+The men died wonderfully.[br]There's always that chance...
+
+01:17:32.67,01:17:34.97
+that one will do something that[br]will leave everyone with a bad taste.
+
+01:17:35.01,01:17:37.76
+This time,[br]you couldn't ask for better.
+
+01:17:39.18,01:17:40.85
+Yes?
+
+01:17:42.14,01:17:44.56
+- Yes, Colonel?[br]- You wanted to see me, sir.
+
+01:17:44.64,01:17:47.85
+Oh, yes. Come in, Colonel.[br]Come in and sit down.
+
+01:17:49.15,01:17:53.36
+Colonel,[br]your men died very well.
+
+01:17:56.07,01:17:58.99
+- Would you like some coffee, Colonel?[br]- No, thank you, sir.
+
+01:17:59.03,01:18:02.95
+Paul, it's been brought to my attention[br]that you ordered your artillery...
+
+01:18:03.03,01:18:05.37
+to fire on your own men[br]during the attack on the Ant Hill.
+
+01:18:07.29,01:18:10.41
+I did what?[br]Who told you that?
+
+01:18:10.50,01:18:13.58
+Colonel Dax came to me last night[br]with the story.
+
+01:18:17.38,01:18:20.26
+I've always known you were[br]a disloyal officer...
+
+01:18:20.34,01:18:23.72
+but I never dreamed you would stoop[br]to anything so low as this.
+
+01:18:23.76,01:18:28.05
+I've sworn statements from Captain[br]Nichols, your artillery spotter...
+
+01:18:28.14,01:18:30.89
+Captain Rousseau, the battery commander[br]who refused your order.
+
+01:18:30.97,01:18:33.23
+I think it's[br]absolutely infamous.
+
+01:18:33.31,01:18:35.60
+Then there's no truth to the charge[br]made by Colonel Dax?
+
+01:18:35.69,01:18:38.06
+I don't see[br]how you could even ask me that.
+
+01:18:38.10,01:18:40.57
+You cannot imagine[br]how glad I am to hear that, Paul.
+
+01:18:40.61,01:18:43.19
+I'm certain[br]you'll come through it all right.
+
+01:18:43.23,01:18:45.74
+- I'll come through what?[br]- There'll have to be an inquiry.
+
+01:18:45.82,01:18:49.45
+- An inquiry?[br]- Those things, the public forgets.
+
+01:18:49.53,01:18:52.37
+- Public?[br]- You've got to clear your name.
+
+01:18:52.41,01:18:57.87
+You cannot allow such vile insinuations[br]against your character to go undenied.
+
+01:18:57.96,01:18:59.92
+So that's it.
+
+01:19:01.08,01:19:03.04
+You're making me the goat.
+
+01:19:03.08,01:19:06.13
+The only completely innocent man[br]in this whole affair.
+
+01:19:10.51,01:19:14.01
+I have only one last thing[br]to say to you, George.
+
+01:19:14.09,01:19:17.76
+The man you stabbed in the back[br]is a soldier.
+
+01:19:26.56,01:19:28.15
+Well...
+
+01:19:29.61,01:19:31.32
+it had to be done.
+
+01:19:31.40,01:19:34.74
+France cannot afford to have fools[br]guiding her military destiny.
+
+01:19:34.78,01:19:37.86
+I'm grateful to you for having[br]brought this matter to my attention.
+
+01:19:37.95,01:19:41.37
+Colonel, how would you like[br]General Mireau's job?
+
+01:19:43.16,01:19:45.54
+- His what?[br]- His job.
+
+01:19:46.91,01:19:49.25
+Let me get this straight, sir.
+
+01:19:49.29,01:19:52.13
+You're offering me[br]General Mireau's command?
+
+01:19:52.21,01:19:55.05
+Come, come, Colonel Dax.[br]Don't overdo the surprise.
+
+01:19:55.13,01:19:58.46
+You've been after the job from[br]the start. We all know that, my boy.
+
+01:19:59.55,01:20:02.59
+I may be many things, sir,[br]but I am not your boy.
+
+01:20:02.64,01:20:05.60
+Well, I certainly didn't mean[br]to imply any biological relationship.
+
+01:20:05.64,01:20:07.72
+- I'm not your boy in any sense.[br]- Are you trying to provoke me, Colonel?
+
+01:20:07.81,01:20:09.93
+- Why should I want to do that?[br]- Exactly. It would be a pity...
+
+01:20:10.02,01:20:11.77
+to lose your promotion[br]before you get it.
+
+01:20:11.81,01:20:16.02
+A promotion[br]you have so very carefully planned for.
+
+01:20:17.15,01:20:20.98
+Sir, would you like me to suggest[br]what you can do with that promotion?
+
+01:20:21.03,01:20:25.49
+Colonel, you will apologize at once[br]or shall be placed under arrest!
+
+01:20:26.74,01:20:30.62
+I apologize[br]for not being entirely honest with you.
+
+01:20:30.66,01:20:34.50
+I apologize[br]for not revealing my true feelings.
+
+01:20:34.58,01:20:36.75
+I apologize[br]for not telling you sooner...
+
+01:20:36.83,01:20:39.79
+that you're a degenerate,[br]sadistic old man.
+
+01:20:39.83,01:20:43.75
+And you can go to hell before I[br]apologize to you now or ever again!
+
+01:20:45.88,01:20:50.55
+Colonel Dax,[br]you're a disappointment to me.
+
+01:20:50.63,01:20:54.68
+You've spoiled the keenness of your mind[br]by wallowing in sentimentality.
+
+01:20:54.76,01:20:56.81
+You really did want[br]to save those men...
+
+01:20:56.89,01:20:59.68
+and you were[br]not angling for Mireau's command.
+
+01:20:59.77,01:21:03.60
+You're an idealist, and I pity you[br]as I would the village idiot.
+
+01:21:03.69,01:21:06.15
+We're fighting a war,[br]a war that we've got to win.
+
+01:21:06.23,01:21:08.23
+Those men didn't fight,[br]so they were shot.
+
+01:21:08.32,01:21:12.69
+You bring charges against General[br]Mireau, so I insist he answer them.
+
+01:21:12.78,01:21:14.95
+Wherein have I done wrong?
+
+01:21:18.03,01:21:21.91
+Because you don't know the answer[br]to that question...
+
+01:21:23.00,01:21:24.91
+I pity you.
+
+01:21:51.02,01:21:52.98
+Thank you.
+
+01:21:53.06,01:21:55.44
+Now, gentlemen,[br]we have a special entertainment...
+
+01:21:55.52,01:21:56.94
+for you.
+
+01:22:00.74,01:22:03.53
+Sort of a--[br]sort of a little diversion, as it were.
+
+01:22:03.57,01:22:08.20
+And my wife always says, "What is life[br]without a little diversion?"
+
+01:22:10.08,01:22:14.58
+Now, gentlemen, I give you[br]our latest acquisition from the enemy.
+
+01:22:14.66,01:22:15.92
+Boo!
+
+01:22:16.79,01:22:20.88
+From Germany,[br]the land of the Hun!
+
+01:22:44.73,01:22:48.98
+Gentlemen, a little pearl[br]washed ashore...
+
+01:22:49.07,01:22:51.49
+by the tide of war.
+
+01:23:00.45,01:23:04.37
+Hey, talk[br]in a civilized language!
+
+01:23:05.25,01:23:07.63
+It's true.[br]The little lady has her limitations.
+
+01:23:07.67,01:23:10.96
+As a matter of fact,[br]she has absolutely no talent at all...
+
+01:23:11.00,01:23:14.97
+except, that is,[br]maybe a little natural talent.
+
+01:23:19.89,01:23:22.89
+The little lady can't dance,[br]she can't tell any jokes...
+
+01:23:22.97,01:23:26.14
+and she can't balance rubber balls[br]on her little nose.
+
+01:23:27.48,01:23:31.10
+But she can sing like a bird![br]She has a throat of gold.
+
+01:23:31.15,01:23:35.19
+- Come on, baby![br]- Come on, honey! Sing us a song!
+
+01:23:51.79,01:23:53.37
+Louder!
+
+01:26:08.57,01:26:10.53
+- Sir.[br]- Yes, sir?
+
+01:26:10.61,01:26:13.53
+We have orders[br]to move back to the front immediately.
+
+01:26:15.12,01:26:17.87
+- Give the men a few minutes more.[br]- Yes, sir.
