@@ -15,14 +15,6 @@ class DBInterface(ABC):
         raise NotImplementedError()
 
     @abstractmethod
-    def get_all_quote_ids(self):
-        return NotImplementedError()
-
-    @abstractmethod
-    def get_all_words(self):
-        return NotImplementedError()
-
-    @abstractmethod
     def get_index_docs_by_word(self, word: str):
         raise NotImplementedError()
 

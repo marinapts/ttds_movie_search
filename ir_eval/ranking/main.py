@@ -9,6 +9,8 @@ from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 TOTAL_NUMBER_OF_SENTENCES = 77584425
+batch_size = 20
+db = get_db_instance()
 
 def json_load(path):
     """ It loads and returns a json data in dictionary structure.
@@ -66,7 +68,7 @@ def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs, relevant_movies):
         tfidf = (1 + tf) * idf(term, relevant_docs, doc_nums)
     return tfidf
 
-def tfidf_score(query, doc_nums, db):
+def tfidf_score(query, doc_nums):
     """
     Apply preprocess to the query and calculates the tfidf scores for each document having at least one of the terms.
 
@@ -88,14 +90,14 @@ def tfidf_score(query, doc_nums, db):
     return tracker
 
 
-def ranked_retrieval(query, db, batch_size, number_results):
+def ranked_retrieval(query, number_results):
     """ This function should be called by app.py to perform the ranked retrieval
     """
-    tracker = ranking_query_BM25(query, db, batch_size)
+    tracker = ranking_query_BM25(query, batch_size)
     result_ids = [item[0] for item in tracker.get_top(number_results)]
     return result_ids
 
-def ranking_query_BM25(query_params, db, batch_size=MAX_INDEX_SPLITS):
+def ranking_query_BM25(query_params, batch_size=MAX_INDEX_SPLITS):
     tracker = ScoreTracker()
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
@@ -145,29 +147,23 @@ if __name__ == '__main__':
 
     db = get_db_instance()
     batch_size = 50
-    #print(len(db.get_indexed_documents_by_term('father', 0, 6)))
-    #exit()
-    #@TODO: replace this by real number of documents
-    doc_nums = TOTAL_NUMBER_OF_SENTENCES
 
     start = time.time()
-    query_params = {'query': ["i", "father"]} #, "boy", "girl"]}
+    query_params = {'query': ["father"]} #, "boy", "girl"]}
     query_params['movie_title'] = ''
     query_params['year'] = ''
     query_params['actor'] = ''
 
-    tracker = ranking_query_BM25(query_params, db, batch_size)
+    tracker = ranking_query_BM25(query_params, batch_size)
     end = time.time()
     print(end-start)
-    # print(tracker.get_top(10))
 
     query_params = {"year": "2000-2001"}
     query_params['query'] = ["may"]
     query_params['movie_title'] = ''
-    # query_params['year'] = ''
     query_params['actor'] = ''
     start = time.time()
-    tracker = ranking_query_BM25(query_params, db, batch_size)
+    tracker = ranking_query_BM25(query_params, batch_size)
     end = time.time()
     print(end-start)
     print(tracker.get_top(10))

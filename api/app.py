@@ -111,7 +111,6 @@ def query_search():
             'movies', query results
             'category list', list of categories
     """
-    batch_size = 20
     number_results = 100
     query_params = request.get_json()
 
@@ -133,25 +132,10 @@ def query_search():
     query_params['query'] = query
 
     # @Todo: send query to ranking function and receive quote ids
-    query_id_results = ranked_retrieval(query_params, db, batch_size, number_results)
+    query_id_results = ranked_retrieval(query_params, number_results)
 
     # Get quotes, quote_ids and movie_ids for the given query
-    query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)[0:100000]
-
-    # query_results = db.get_quotes_by_list_of_quote_ids([234,
-    #                                                     234234,
-    #                                                     1151,
-    #                                                     15,
-    #                                                     488483,
-    #                                                     3453222])
-
-    # to_delete = []
-    # for i, dic_sentence in enumerate(query_results):
-    #     if len(dic_sentence['sentence']) > 1000:
-    #         to_delete.append(i)
-
-    # for i in sorted(to_delete, reverse=True):
-    #     del query_results[i]
+    query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
 
     for i, dic_sentence in enumerate(query_results):
             dic_sentence['quote_id'] = dic_sentence.pop('_id')

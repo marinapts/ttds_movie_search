@@ -11,5 +11,4 @@ nltk==3.4.5
 numpy==1.18.1
 pymongo==3.10.1
 six==1.13.0
--e git+https://github.com/marinapts/ttds_movie_search@4d9b2541f6cb4058431cfea5b41c974312357337#egg=ttds_movie_search
 Werkzeug==0.16.0
