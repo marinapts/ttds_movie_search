@@ -7,7 +7,10 @@ import json
 import re
 from operator import itemgetter
 
+
 class MongoDB(DBInterface):
+
+    BULK_WRITE_LIMIT = 1000
 
     def __init__(self):
         super().__init__()
@@ -55,7 +58,50 @@ class MongoDB(DBInterface):
         # Given a file with movies data, populate the database with those movies.
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
-        raise NotImplementedError()
+
+        if clear:  # clear the movies collection before populating
+            self.movies.delete_many({})
+
+        movies_list = list()
+
+        with open(file_path, 'r') as file:
+            ext = file_path.split('.')[-1]
+            if ext == 'json':  # JSON format - the whole file is a JSON list of movies
+                movies = json.load(file)
+                for movie in movies:
+                    movies_list.append(self._process_imdb_movie(movie))
+                self.movies.insert_many(movies_list, ordered=False)
+            elif ext == 'jsonl':  # JSON Lines format - each line is a JSON object
+                for line in file:
+                    movie = json.loads(line)
+                    movies_list.append(self._process_imdb_movie(movie))
+                    if len(movies_list) >= self.BULK_WRITE_LIMIT:  # flush the movies from the main memory to the DB
+                        self.movies.insert_many(movies_list, ordered=False)
+                        movies_list = list()
+            else:  # Invalid file extension. Do not populate
+                print("Invalid file extension {}. Will not populate...".format(ext))
+                return
+
+    def _process_imdb_movie(self, movie_object):
+        movie = {
+            '_id': movie_object['id'],
+            'title': movie_object['title'],
+            'cast': []
+        }
+        for attr in ['description', 'year', 'rating', 'countOfRatings', 'categories', 'thumbnail', 'plotKeywords']:
+            if attr in movie_object:  # check for existence before adding
+                movie[attr] = movie_object[attr]
+
+        for actor in movie_object['cast'].keys():
+            movie['cast'].append({
+                'actor': actor,
+                'character': movie_object['cast'][actor]
+            })
+        return movie
+
+
+
+
 
     def splits_per_term(self, term: str):
         return self.inverted_index.count_documents({"term": term})
