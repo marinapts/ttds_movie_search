@@ -5,7 +5,7 @@ import sys
 from db.DB import get_db_instance
 import math
 import time
-from ir_eval.utils.score_tracker import ScoreTracker
+from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 TOTAL_NUMBER_OF_SENTENCES = 77584425
@@ -96,7 +96,7 @@ def ranked_retrieval(query, db, batch_size, number_results):
     return result_ids
 
 def ranking_query_BM25(query_params, db, batch_size=MAX_INDEX_SPLITS):
-    tracker = ScoreTracker()
+    tracker = NaiveScoreTracker()
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
     filtered_movies = None
@@ -109,7 +109,10 @@ def ranking_query_BM25(query_params, db, batch_size=MAX_INDEX_SPLITS):
     for term in terms:
         for i in range(0, MAX_INDEX_SPLITS, batch_size):
             list_of_splitted = db.get_indexed_documents_by_term(term, i, batch_size)
+            # process_start = time.time()
             for relevant_movies in list_of_splitted:
+                # print("time for processing an index entry: {} s".format(time.time() - process_start))
+                # process_start = time.time()
                 doc_nums_term = relevant_movies['doc_count']
                 for m, movie in enumerate(relevant_movies['movies']):
                     movie_id = movie['_id']
@@ -141,14 +144,14 @@ def get_dl(term, document_id, relevant_docs, relevant_movies):
 if __name__ == '__main__':
 
     db = get_db_instance()
-    batch_size = 5
+    batch_size = 50
     #print(len(db.get_indexed_documents_by_term('father', 0, 6)))
     #exit()
     #@TODO: replace this by real number of documents
     doc_nums = TOTAL_NUMBER_OF_SENTENCES
 
     start = time.time()
-    query_params = {'query': ["may"]} #, "boy", "girl"]}
+    query_params = {'query': ["i", "father"]} #, "boy", "girl"]}
     query_params['movie_title'] = ''
     query_params['year'] = ''
     query_params['actor'] = ''

@@ -85,3 +85,15 @@ for term in ["I", "am", "your", "father"]:
             print("{} - {}".format(term, doc_id))
 
 """
+
+class NaiveScoreTracker:
+    def __init__(self):
+        self.scores = defaultdict(float)  # doc_id -> score
+
+    def add_score(self, id, score):
+        self.scores[id] += score
+
+    def get_top(self, n: int, skip=0):
+        # get top N results (skipping the first `skip` results)
+        # return a list of (id, score) tuples, sorted from highest to lowest by score (e.g. [(19, 1.5), (6, 1.46), ...]
+        return [(id, score) for id, score in sorted(self.scores.items(), key=lambda item: item[1], reverse=True)][skip:skip+n]
