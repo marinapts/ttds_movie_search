@@ -111,28 +111,28 @@ class MongoDB(DBInterface):
         return docs_for_term
 
     def get_movie_ids_advanced_search(self, query_params:dict):
-        movie_list = []
+        movies_set = set()
         if query_params.get('movie_title'):
             if query_params.get('year'):
                 year = re.split('-', query_params['year'])
                 if query_params.get('actor'):
                     movie = self.movies.find_one({"$and" :[{"title": query_params['movie_title']}, {"year": {"$gte": int(year[0]), "$lte": int(year[1])}}, {"cast.actor": query_params['actor']}]},{"_id": 1})
-                    movie_list.append(movie.get("_id"))
+                    movies_set.add(movie.get("_id"))
                 else:
                     movie = self.movies.find_one({"$and": [{"title": query_params['movie_title']}, {"year": {"$gte": int(year[0]), "$lte": int(year[1])}}]},{"_id": 1})
-                    movie_list.append(movie.get("_id"))
+                    movies_set.add(movie.get("_id"))
             else:
                 movie = self.movies.find_one({"title": query_params['movie_title']},{"_id": 1})
-                movie_list.append(movie.get("_id"))
+                movies_set.add(movie.get("_id"))
         elif query_params.get('year'):
             year = re.split('-', query_params['year'])
             if query_params.get('actor'):
-                movie = list(self.movies.find({"$and": [{"year": {"$gte": int(year[0]), "$lte": int(year[1])}}, {"cast.actor": query_params['actor']}]},{"_id": 1}))
-                return list(map(itemgetter('_id'), movie))
+                movies = list(self.movies.find({"$and": [{"year": {"$gte": int(year[0]), "$lte": int(year[1])}}, {"cast.actor": query_params['actor']}]},{"_id": 1}))
+                return set(map(itemgetter('_id'), movies))
             else:
-                movie = list(self.movies.find({"year": {"$gte": int(year[0]), "$lte": int(year[1])}},{"_id": 1}))
-                return list(map(itemgetter('_id'), movie))
+                movies = list(self.movies.find({"year": {"$gte": int(year[0]), "$lte": int(year[1])}},{"_id": 1}))
+                return set(map(itemgetter('_id'), movies))
         else:
-            movie = list(self.movies.find({"cast.actor": query_params['actor']},{"_id": 1}))
-            return list(map(itemgetter('_id'), movie))
-        return movie_list
+            movies = list(self.movies.find({"cast.actor": query_params['actor']},{"_id": 1}))
+            return set(map(itemgetter('_id'), movies))
+        return movies_set
