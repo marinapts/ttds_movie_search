@@ -98,40 +98,29 @@ def ranked_retrieval(query, db, batch_size, number_results):
 def ranking_query_BM25(query_params, db, batch_size=MAX_INDEX_SPLITS):
     tracker = ScoreTracker()
     terms = query_params['query']
+    # Prepare advanced search if any filters are provided
+    filtered_movies = None
+    if len(query_params['movie_title']) > 0 or len(query_params['year']) > 0 or len(query_params['actor']) > 0:
+        print('advanced search')
+        filtered_movies = db.get_movie_ids_advanced_search(query_params)
+
     #query_result_score = dict()
     doc_nums = TOTAL_NUMBER_OF_SENTENCES
     for term in terms:
-        #num_splits = db.splits_per_term(term)
         for i in range(0, MAX_INDEX_SPLITS, batch_size):
             list_of_splitted = db.get_indexed_documents_by_term(term, i, batch_size)
             for relevant_movies in list_of_splitted:
-                relevant_docs = {}
-                if len(query_params['movie_title']) > 0 or len(query_params['year']) > 0 or len(query_params['actor']) > 0:
-                #any(key in query_params for key in ['movie_title', 'year', 'actor']):
-                    print('advanced')
-                    filtered_movies = db.get_movie_ids_advanced_search(query_params)
-                    for m, movie in enumerate(relevant_movies['movies']):
-                        movie_id = movie['_id']
-                        if movie['_id'] in filtered_movies:
-                            for s, sentence in enumerate(movie['sentences']):
-                                quote_id = sentence['_id']
-                                relevant_docs[int(quote_id)] = (m, s)
-                else:
-                    for m, movie in enumerate(relevant_movies['movies']):
-                        movie_id = movie['_id']
-                        for s, sentence in enumerate(movie['sentences']):
-                            quote_id = sentence['_id']
-                            relevant_docs[int(quote_id)] = (m, s)
                 doc_nums_term = relevant_movies['doc_count']
-                for document in relevant_docs.keys():
-                    term_freq = term_frequency(term, document, relevant_docs, relevant_movies)
-                    dl = get_dl(term, document, relevant_docs, relevant_movies)
-                    if dl < 100000:
-                        score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=200, dl=dl, avgdl=20)
-                    else:
-                        score = 0
-                    if score > 0:
-                        tracker.add_score(document, score)
+                for m, movie in enumerate(relevant_movies['movies']):
+                    movie_id = movie['_id']
+                    if filtered_movies is None or movie_id in filtered_movies:  # advanced search if filtered_movies is initialised
+                        for s, sentence in enumerate(movie['sentences']):
+                            quote_id = int(sentence['_id'])
+                            term_freq = len(sentence['pos'])
+                            dl = sentence['len']
+                            score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=200, dl=dl, avgdl=20) if dl < 100000 else 0
+                            if score > 0:
+                                tracker.add_score(quote_id, score)
     return tracker
 
 
@@ -172,7 +161,7 @@ if __name__ == '__main__':
     query_params = {"year": "2000-2001"}
     query_params['query'] = ["may"]
     query_params['movie_title'] = ''
-    query_params['year'] = ''
+    # query_params['year'] = ''
     query_params['actor'] = ''
     start = time.time()
     tracker = ranking_query_BM25(query_params, db, batch_size)
