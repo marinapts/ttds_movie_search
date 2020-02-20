@@ -9,14 +9,18 @@ import io
 import glob
 from datetime import datetime
 
-DOWNLOAD_LIMIT = 1000
+OPENSUBTITLES_ACCOUNT_NAME = 'ADD_YOUR_OWN_HERE'
+OPENSUBTITLES_ACCOUNT_PASSWORD = 'ADD_YOUR_OWN_HERE'
+DOWNLOAD_LIMIT = 1004
+
+SLEEP_TIME = 0.4  # seconds to wait before downloading next subtitle. Limit: 40 requests per 10 seconds
 SUBTITLES_DIRECTORY = './subtitles'
 MOVIES_FILE = './data/missing.csv'
 LOG_FILE = './logs/log.txt'
 OWNED_IDS_FILE = './data/owned_ids.txt'
 UNAVAILABLE_IDS_FILE = './data/unavailable_ids.txt'
 
-log_file = open(LOG_FILE, 'a')
+log_file = io.open(LOG_FILE, encoding='utf-8', mode='a')
 def log(msg):
     log_file.write("{}- {}\n".format(datetime.now().strftime("%m/%d %H:%M:%S"), msg))
     log_file.flush()
@@ -50,7 +54,7 @@ download_count = 0
 override_filenames = dict()
 
 ost = OpenSubtitles()
-ost.login('kasparas42180', 'ksfy3SGGPoqI')
+ost.login(OPENSUBTITLES_ACCOUNT_NAME, OPENSUBTITLES_ACCOUNT_PASSWORD)
 
 movies_file = io.open(MOVIES_FILE, encoding='utf-8', mode='r')
 movies = csv.DictReader(movies_file)
@@ -71,7 +75,7 @@ for movie in movies:
     subtitles = ost.search_subtitles([{'sublanguageid': 'eng', 'imdbid': imdb_id[2:]}])
     if subtitles is None or len(subtitles) == 0:  # not found. Log and Skip...
         log_unavailable(imdb_id)
-        time.sleep(0.5)
+        time.sleep(SLEEP_TIME)
         continue
 
     subtitles = sorted(subtitles, key=lambda i: int(i['SubDownloadsCnt']), reverse=True)
@@ -84,7 +88,7 @@ for movie in movies:
                                override_filenames=override_filenames)
     except:
         log("Error downloading subtitles: {}".format(sys.exc_info()[0]))
-        time.sleep(0.5)
+        time.sleep(SLEEP_TIME)
         continue
 
     if not os.path.exists("./subtitles/{}.srt".format(imdb_id)):
@@ -93,7 +97,7 @@ for movie in movies:
 
     log_owned(imdb_id)  # we have downloaded it successfully. Let's log it.
     download_count += 1
-    time.sleep(1)
+    time.sleep(SLEEP_TIME)
 
 # Count how many subtitles we have already
 print("We now have {} unique subtitle files.".format(len(owned_ids)))

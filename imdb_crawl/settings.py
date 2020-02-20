@@ -91,7 +91,7 @@ ITEM_PIPELINES = {
 
 
 #  Custom settings
-IMDB_IDS_FILE = './imdb_at_least_100_ratings.txt'
+IMDB_IDS_FILE = './data/imdb_at_least_100_ratings.txt'
 QUOTES_FOLDER = './quotes'
 SUBTITLES_FOLDER = './subtitles'
 DATA_FILE = './movies.jsonl'
