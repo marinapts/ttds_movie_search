@@ -102,13 +102,13 @@ def ranking_query_BM25(query_params, db):
             relevant_movies = db.get_indexed_documents_by_term(term, i)
             relevant_docs = {}
             if any(key in query_params for key in ['movie_title', 'year', 'actor']):
-                movie_list = db.get_movie_ids_advanced_search(query_params, i)
-                filtered_movies = list(set(movie_list) & set(relevant_movies['movies'].keys()))
-                for m, movie in enumerate(filtered_movies['movies']):
+                filtered_movies = db.get_movie_ids_advanced_search(query_params)
+                for m, movie in enumerate(relevant_movies['movies']):
                     movie_id = movie['_id']
-                    for s, sentence in enumerate(movie['sentences']):
-                        quote_id = sentence['_id']
-                        relevant_docs[int(quote_id)] = (m, s)
+                    if movie['_id'] in filtered_movies:
+                        for s, sentence in enumerate(movie['sentences']):
+                            quote_id = sentence['_id']
+                            relevant_docs[int(quote_id)] = (m, s)
             else:
                 for m, movie in enumerate(relevant_movies['movies']):
                     movie_id = movie['_id']
@@ -148,14 +148,20 @@ if __name__ == '__main__':
     #@TODO: replace this by real number of documents
     doc_nums = 85000000
 
-    query = ["may", "boy", "girl"]
+    start = time.time()
+    query_params = {'query': ["may"]} #, "boy", "girl"]}
 
-    ranking_query_BM25(query, db)
-    print(tracker.get_top(10))
-
-    query_params = {"year": "2000-2005"}
-    query_params['query'] = ["may", "boy", "girl"]
     ranking_query_BM25(query_params, db)
+    end = time.time()
+    print(end-start)
+    #print(tracker.get_top(10))
+
+    query_params = {"year": "2000-2001"}
+    query_params['query'] = ["may"]
+    start = time.time()
+    ranking_query_BM25(query_params, db)
+    end = time.time()
+    print(end-start)
     print(tracker.get_top(3))
 
 

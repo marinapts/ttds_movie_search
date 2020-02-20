@@ -64,7 +64,6 @@ class MongoDB(DBInterface):
         docs_for_term = list(self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(1))[0]
         return docs_for_term
 
-
     def get_movie_ids_advanced_search(self, query_params:dict):
         movie_list = []
         if query_params.get('movie_title'):
