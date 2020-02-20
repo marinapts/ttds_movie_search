@@ -1,0 +1,102 @@
+
+Hamlet: A little more than kin and less than kind.
+Hamlet: For there is nothing either good or bad, but thinking makes it so.
+Hamlet: To be or not to be, that is the question. Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or take arms against a sea of troubles, and by opposing, end them.
+Hamlet: Frailty, thy name is woman!
+Hamlet: There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.
+Ghost: Murder most foul, as in the best it is, But this most foul, strange, and unnatural.
+Marcellus: Something is rotten in the state of Denmark.
+Polonius: This above all - to thine own self be true/ And it must follow as the night the day/ Thou canst not then be false to any man.
+Hamlet: I have of late, but wherefore I know not, lost all my mirth, forgone all custom of exercises; and indeed, it goes so heavily with my disposition that this goodly frame, the earth, seems to me a sterile promontory; this most excellent canopy, the air, look you, this brave o'erhanging firmament, this majestical roof fretted with golden fire! Why, it appears no other thing to me than a foul and pestilent congregation of vapours. What a piece of work is man! How noble in reason! How infinite in faculties! In form and moving, how express and admirable! In action how like an angel! in apprehension, how like a god! The beauty of the world! The paragon of animals! And yet, to me, what is this quintessence of dust?
+Hamlet: Alas, poor Yorick! I knew him, Horatio - a fellow of infinite jest, of most excellent fancy. He hath bore me on his back a thousand times, and now how abhorred in my imagination it is! My gorge rises at it. Here hung these lips that I have kissed I know not how oft. Where be your gibes now? Your gambols? Your songs? Your flashes of merriment that were wont to set the table on a roar?
+Hamlet: But break, my heart, for I must hold my tongue.
+Horatio: Now cracks a noble heart. Good night, sweet prince, and flights of angels sing thee to thy rest.
+Hamlet: Now mother, what's the matter?
+Gertrude: Hamlet, thou hast thy father much offended.
+Hamlet: Mother, you have *my* father much offended.
+Gertrude: Come, come, you answer with an idle tongue.
+Hamlet: Go, go, you question with a wicked tongue!
+Gertrude: Why, how now, Hamlet?
+Hamlet: What's the matter now?
+Gertrude: Have you forgot me?
+Hamlet: No by the rood, not so! You are the queen, your husband's brother's wife!
+Polonius: Though this be madness, yet there is method in't!
+Claudius: Where is Polonius?
+Hamlet: In heaven. Send thither to see. If your messenger find him not there, seek him in the other place yourself!
+Hamlet: O, from this time forth my thoughts be bloody or be nothing worth!
+Hamlet: If thou didst ever hold me in thy heart, absent thee from felicity awhile and in this harsh world draw thy breath in pain to tell my story.
+Hamlet: If it be now, 'tis not to come; if it be not to come, it will be now; if it be not now, yet it will come: the readiness is all.
+Hamlet: I lov'd Ophelia. Forty thousand brothers could not with all their quantity of love make up my sum.
+Hamlet: Seems, madam! nay it is; I know not "seems."
+Gertrude: One woe doth tread upon another's heels so fast they follow.
+Hamlet: The play's the thing wherein I'll catch the conscience of the king.
+Hamlet: Whose grave is this sir?
+First Gravedigger: Mine sir.
+Hamlet: I think it be thine indeed, for thou liest in't.
+First Gravedigger: You lie out on't sir, and therefore it is not yours. For my part I do not lie ins't and yet it is mine.
+Hamlet: Thou dost lie in't to be in't, and say 'tis thine. 'Tis for the dead not for the quick, therefore thou liest.
+First Gravedigger: 'Tis a quick lie, sir. 'Twill away again from me to you.
+Hamlet: What man dost thou dig it for?
+First Gravedigger: For no man sir.
+Hamlet: For what woman then?
+First Gravedigger: For none neither.
+Hamlet: *Who* is to be buried here?
+First Gravedigger: One that was a woman sir, but rest her soul, she's dead.
+Polonius: My lord I will take my leave of you.
+Hamlet: You cannot sir, take from me anything I would more willingly part withal. Except my life. Except my life
+Hamlet: Except my life.
+Polonius: Fare you well, my lord.
+Hamlet: These tedious old fools.
+Fortinbras: This quarry cries on havoc. / O proud Death, what feast is toward in thine eternal cell / That thou so many princes at a shot / So bloodily hast struck?
+Hamlet: What in faith make you from Wittenberg?
+Horatio: A truant disposition, good my lord.
+Hamlet: I would not hear your enemy say so, nor shall you do my ear thine violence to make it truster of your own report against yourself. I know you are no truant.
+Horatio: Two nights together had these gentlemen, Marcellus and Barnardo, on their watch in the dead waste and middle of the night, been thus encountered. A figure like your father, armed at all points exactly, cap-a-pie, appears before them, and with solemn march goes slowly and stately by them. Thrice he walked by their oppressed and fear-surprised eyes within his truncheon's length, whilst they distilled almost to jelly with the act of fear, stand dumb and speak not to him. This to me in dreadful secrecy impart they did and I with them the third night kept the watch where, as they had delivered, both in time, form of the thing, each word made true and good the apparition comes. I knew your father. These hands are not more like.
+Hamlet: But where was this?
+Marcellus: My lord, upon the platform where we watched.
+Hamlet: Did you not speak to it?
+Horatio: Oh, my lord, I did, but answer made it none. Yet once methought it lifted up its head and did address itself to motion like as it would speak, but even then the morning cock crew loud, and at the sound it shrunk in haste away and vanished from our sight.
+Hamlet: 'Tis very strange.
+Horatio: As I do live, my honored lord, 'tis true, and we did think it writ down in our duty to let you know of it.
+Hamlet: Indeed, indeed, sirs. But this troubles me. Hold you the watch tonight?
+Barnardo: My lord, we do.
+Hamlet: Armed, say you?
+Horatio, Marcellus, Barnardo: Armed, my lord.
+Hamlet: What, from top to toe?
+Marcellus: My lord, from head to foot.
+Hamlet: Then saw you not his face.
+Horatio: O, yes, my lord. He wore his beaver up.
+Hamlet: What looked he? Frowningly?
+Horatio: A countenance more in sorrow than in anger.
+Hamlet: Pale or red?
+Horatio: Nay, very pale.
+Hamlet: And fixed his eyes upon you?
+Horatio: Most constantly.
+Hamlet: I would I had been there.
+Horatio: It would have much amazed you.
+Hamlet: Wither with thou lead me? Speak. I'll go no further.
+Ghost: Mark me.
+Hamlet: I will.
+Ghost: My hour is almost come when I to sulph'rous and tormenting flames must render up myself.
+Hamlet: Alas, poor ghost.
+Ghost: Pity me not, but lend thy serious hearing to what I shall unfold.
+Hamlet: Speak. I am bound to hear.
+Hamlet: So gentlemen, with all my love I do commend me to you, and what so poor a man as Hamlet is may do to express his love and friending to you, God willing, shall not lack. Let us go in together, and still your fingers on your lips, I pray. The time is out of joint. O cursed spite that ever I was born to set it right.
+Hamlet: 'Tis now the very witching time of night, when church yards yawn and hell itself breathes out contagion to this world.
+Horatio: This bodes some strange eruption to our state.
+Claudius: When sorrows come, they come not single spies but in battalions.
+Hamlet: I myself am indifferent honest, yet I could accuse me of such things that it were better my mother had not borne me.
+Hamlet: Oh, that this too, too solid flesh would melt!
+Hamlet: Do you see yonder cloud that's almost in the shape of a camel?
+Polonius: By the mass, and 'tis like a camel indeed.
+Hamlet: Methinks it's like a weasel.
+Polonius: It is backed like a weasel.
+Hamlet: Or like a whale.
+Polonius: Very like a whale.
+Polonius: How dost my good lord Hamlet?
+Hamlet: Well. God a' mercy.
+Polonius: Do you know me my lord?
+Hamlet: Excellent well. You are a fishmonger.
+Hamlet: Hide fox and all after!
+Hamlet: Hoist with his own petard.
+Hamlet: You cannot call it love! At your age the heyday in the blood is tame!     
