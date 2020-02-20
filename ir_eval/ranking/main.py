@@ -96,7 +96,7 @@ def ranked_retrieval(query, db, batch_size, number_results):
     return result_ids
 
 def ranking_query_BM25(query_params, db, batch_size=MAX_INDEX_SPLITS):
-    tracker = NaiveScoreTracker()
+    tracker = ScoreTracker()
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
     filtered_movies = None
