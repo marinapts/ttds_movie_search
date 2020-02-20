@@ -112,6 +112,7 @@ def query_search():
             'category list', list of categories
     """
     batch_size = 20
+    number_results = 100
     query_params = request.get_json()
 
     query = query_params['query']
@@ -132,7 +133,7 @@ def query_search():
     query_params['query'] = query
 
     # @Todo: send query to ranking function and receive quote ids
-    query_id_results = ranked_retrieval(query_params, db, batch_size)
+    query_id_results = ranked_retrieval(query_params, db, batch_size, number_results)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)[0:100000]
