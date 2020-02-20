@@ -84,11 +84,11 @@ def tfidf_score(query, doc_nums, db):
                 tracker.add_score(document, score_doc)
 
 
-def ranked_retrieval(query, db, batch_size):
+def ranked_retrieval(query, db, batch_size, number_results):
     """ This function should be called by app.py to perform the ranked retrieval
     """
     ranking_query_BM25(query, db, batch_size)
-    result_tracker = [item[0] for item in tracker.get_top(100)]
+    result_tracker = [item[0] for item in tracker.get_top(number_results)]
     return result_tracker
 
 def ranking_query_BM25(query_params, db, batch_size):
