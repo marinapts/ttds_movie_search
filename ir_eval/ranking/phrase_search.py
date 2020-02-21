@@ -17,6 +17,10 @@ def phrase_search(query_params, number_results):
     return results[:number_results]
 
 def query_phrase_search(query_params):
+    """
+    Phrase search finds all sentences containing the exact phrase specified in query_params, and returns a list of
+    sentence _ids sorted by iMDB count of ratings (in descending order), reflecting popularity.
+    """
     results = []
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
