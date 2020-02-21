@@ -30,12 +30,6 @@ class MongoDB(DBInterface):
         quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         return quote_list
 
-    def get_index_docs_by_word(self, word: str):
-        doc_list = list(self.inverted_index.find({"_id": word}, {"_id": 0}))
-        if len(doc_list) != 0:
-            doc_list = doc_list[0]
-        return doc_list
-
     def get_quotes_by_movie_id(self, movie_id: str):
         # Given a movie id, returns a list of all sentences in that movie
         quote_list = list(self.sentences.find({"movie_id": movie_id}))
