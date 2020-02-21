@@ -2,7 +2,11 @@ from typing import List
 from flask_pymongo import PyMongo
 from pymongo import MongoClient
 from db.DBInterface import DBInterface
+import gridfs
 import json
+import re
+from operator import itemgetter
+
 
 class MongoDB(DBInterface):
 
@@ -13,9 +17,15 @@ class MongoDB(DBInterface):
         client = MongoClient('167.71.139.222', 27017, username='admin', password='iamyourfather')
         self.ttds = client.ttds
         self.sentences = self.ttds.sentences
+        self.inverted_index = self.ttds.inverted_index
         self.movies = self.ttds.movies
+        self.sentences.create_index('_id')
+        self.inverted_index.create_index('_id')
+        self.movies.create_index('_id')
+        self.inverted_index_gridfs = gridfs.GridFS(self.ttds)
 
-    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+
+    def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
         quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         return quote_list
@@ -79,3 +89,36 @@ class MongoDB(DBInterface):
 
 
 
+    def splits_per_term(self, term: str):
+        return self.inverted_index.count_documents({"term": term})
+
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
+        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit)
+        return docs_for_term
+
+    def get_movie_ids_advanced_search(self, query_params:dict):
+        movies_set = set()
+        if query_params.get('movie_title'):
+            if query_params.get('year'):
+                year = re.split('-', query_params['year'])
+                if query_params.get('actor'):
+                    movie = self.movies.find_one({"$and" :[{"title": query_params['movie_title']}, {"year": {"$gte": int(year[0]), "$lte": int(year[1])}}, {"cast.actor": query_params['actor']}]},{"_id": 1})
+                    movies_set.add(movie.get("_id"))
+                else:
+                    movie = self.movies.find_one({"$and": [{"title": query_params['movie_title']}, {"year": {"$gte": int(year[0]), "$lte": int(year[1])}}]},{"_id": 1})
+                    movies_set.add(movie.get("_id"))
+            else:
+                movie = self.movies.find_one({"title": query_params['movie_title']},{"_id": 1})
+                movies_set.add(movie.get("_id"))
+        elif query_params.get('year'):
+            year = re.split('-', query_params['year'])
+            if query_params.get('actor'):
+                movies = list(self.movies.find({"$and": [{"year": {"$gte": int(year[0]), "$lte": int(year[1])}}, {"cast.actor": query_params['actor']}]},{"_id": 1}))
+                return set(map(itemgetter('_id'), movies))
+            else:
+                movies = list(self.movies.find({"year": {"$gte": int(year[0]), "$lte": int(year[1])}},{"_id": 1}))
+                return set(map(itemgetter('_id'), movies))
+        else:
+            movies = list(self.movies.find({"cast.actor": query_params['actor']},{"_id": 1}))
+            return set(map(itemgetter('_id'), movies))
+        return movies_set

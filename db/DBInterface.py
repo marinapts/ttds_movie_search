@@ -10,7 +10,7 @@ class DBInterface(ABC):
         pass
 
     @abstractmethod
-    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+    def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
         raise NotImplementedError()
 
@@ -29,4 +29,19 @@ class DBInterface(ABC):
         # Given a file with movies data, populate the database with those movies.
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
+        raise NotImplementedError()
+
+    @abstractmethod
+    def splits_per_term(self, term: str):
+        # Return the splits that each term has.
+        return NotImplementedError()
+
+    @abstractmethod
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
+        # Given a term, returns a dict of the quote ids
+        raise NotImplementedError()
+
+    @abstractmethod
+    def get_movie_ids_advanced_search(self, query_params:dict):
+        # Given a query parameters for advanced search, returns a list of movie ids
         raise NotImplementedError()
