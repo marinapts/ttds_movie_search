@@ -27,20 +27,6 @@ def load_file_binary(file_name):
         return pickle.load(f)
 
 
-def term_frequency(term, document_id, relevant_docs, relevant_movies):
-    """
-    Calculates the term frequency in the document.
-
-    Parameters:
-        term (string):     a single term
-        document_id (int): the document id
-    """
-    tf = 0
-
-    if document_id in relevant_docs.keys():
-        tf = len(relevant_movies['movies'][relevant_docs[document_id][0]]['sentences'][relevant_docs[document_id][1]]['pos'])
-    return tf
-
 def idf(term, docs_for_term, doc_nums):
     """
     Calculates and return the IDF for the term. Returns 0 if DF is 0.
@@ -52,42 +38,6 @@ def idf(term, docs_for_term, doc_nums):
     if df == 0:
         return 0
     return math.log10(doc_nums / df)
-
-def tfidf_score_for_doc(term, doc, doc_nums, relevant_docs, relevant_movies):
-    """
-    Returns the list of tfidf scores for the terms and the doc.
-
-    Parameters:
-        term (string): a single term
-        document_id (int): the document id
-    """
-    result = []
-    tf = term_frequency(term, doc, relevant_docs, relevant_movies)
-    if tf > 0:
-        tf = math.log10(tf)
-        tfidf = (1 + tf) * idf(term, relevant_docs, doc_nums)
-    return tfidf
-
-def tfidf_score(query, doc_nums):
-    """
-    Apply preprocess to the query and calculates the tfidf scores for each document having at least one of the terms.
-
-    Parameters:
-        term (string): a single term
-    """
-    tracker = ScoreTracker()
-    terms = query
-    for term in terms:
-        relevant_movies = db.get_indexed_documents_by_term(term)
-        relevant_docs = {}
-        for movie in relevant_movies['movies'].keys():
-            for doc_id in relevant_movies['movies'][movie]['sentences'].keys():
-                relevant_docs[int(doc_id)] = movie
-        for document in relevant_docs.keys():
-            score_doc = tfidf_score_for_doc(term, document, doc_nums, relevant_docs, relevant_movies)
-            if int(score_doc) > 0:
-                tracker.add_score(document, score_doc)
-    return tracker
 
 
 def ranked_retrieval(query, number_results):
@@ -138,9 +88,6 @@ def score_BM25(doc_nums, doc_nums_term, term_freq, k1, b, dl, avgdl):
 
 def compute_K(k1, b, dl, avgdl):
     return k1 * ((1-b) + b * (float(dl)/float(avgdl)) )
-
-def get_dl(term, document_id, relevant_docs, relevant_movies):
-    return relevant_movies['movies'][relevant_docs[document_id][0]]['sentences'][relevant_docs[document_id][1]]['len']
 
 
 if __name__ == '__main__':
