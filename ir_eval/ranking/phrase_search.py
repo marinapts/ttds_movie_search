@@ -5,7 +5,7 @@ from pathlib import Path
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 BATCH_SIZE = 52
-pickle_path = Path(__file__).parent / '..' / 'data' / 'movie_ratings.p'
+pickle_path = Path(__file__).parent.absolute() / '..' / 'data' / 'movie_ratings.p'
 movie_ratings = pickle.load(open(pickle_path, 'rb'))
 db = get_db_instance()
 
