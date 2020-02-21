@@ -1,13 +1,12 @@
-import json
 import pickle
 from db.DB import get_db_instance
-import math
 import time
-from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
+from pathlib import Path
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 BATCH_SIZE = 52
-movie_ratings = pickle.load(open('ir_eval/data/movie_ratings.p', 'rb'))
+pickle_path = Path(__file__).parent / '..' / 'data' / 'movie_ratings.p'
+movie_ratings = pickle.load(open(pickle_path, 'rb'))
 db = get_db_instance()
 
 def phrase_search(query_params, number_results):
