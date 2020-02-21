@@ -14,18 +14,20 @@
 
   .advanced-search-button {
     width: 20%;
+    color: white;
   }
-
 }
 
 .error-container {
   color: red;
 }
 
-h6, span {
- color: white;
-}
+.examples {
+  h6, span {
+   color: white;
+  }
 
-a {
-  cursor: pointer;
+  a {
+    cursor: pointer;
+  }
 }

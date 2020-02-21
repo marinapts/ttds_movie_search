@@ -39,7 +39,7 @@ export default class SearchInput extends Component {
     e && e.preventDefault()
     const { query, movieTitle, actor, year, keywords, enableAdvancedSearch } = this.state
 
-    if (!enableAdvancedSearch) {
+    if (!enableAdvancedSearch && query.length) {
       this.props.getMoviesForQuery({query, movieTitle: '', actor: '', year: '', keywords: ''})
     } else if (query.length | movieTitle.length | actor.length | year.length | keywords.length) {
       this.props.getMoviesForQuery({query, movieTitle, actor, year, keywords})
@@ -74,6 +74,7 @@ export default class SearchInput extends Component {
 
             <FormControlLabel
               className="advanced-search-button"
+              color="primary"
               control={
                 <Switch
                   checked={enableAdvancedSearch}
@@ -95,10 +96,10 @@ export default class SearchInput extends Component {
 
 
         {showExamples &&
-          <Typography variant="h6" color="primary">
+          <Typography variant="h6" color="primary" className="examples">
             <span>
               Try <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
-                I see dead people
+                Carpe Diem
               </Link>
             </span>
             <span> or <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
@@ -118,5 +119,7 @@ export default class SearchInput extends Component {
 }
 
 SearchInput.propTypes = {
-  getMoviesForQuery: PropTypes.func.isRequired
+  getMoviesForQuery: PropTypes.func.isRequired,
+  showExamples: PropTypes.bool.isRequired,
+  showErrorMsg: PropTypes.bool.isRequired
 }

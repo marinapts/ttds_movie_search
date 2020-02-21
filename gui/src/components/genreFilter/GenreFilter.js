@@ -47,7 +47,7 @@ export default class GenreFilter extends Component {
     const { genres } = this.props
 
     return(
-      <ButtonGroup color="primary" aria-label="primary button group">
+      <ButtonGroup color="primary" aria-label="primary button group" className="genre-filtering">
       {
         genres.map((genre, value) =>
           <GenreButton

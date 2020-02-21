@@ -1,7 +1,11 @@
+@import '../../variables.scss';
+
 .details-card {
-  margin-top: 60px;
+  margin-top: 95px;
+  position: sticky;
+  top: 10px;
 }
 
 h5 {
-  color: #2196f3;
+  color: $mainColor;
 }
