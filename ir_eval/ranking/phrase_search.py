@@ -152,18 +152,18 @@ def catchup(cur_from, cur_to):
 
 if __name__ == '__main__':
 
-    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', 'year': '', 'actor': ''}
+    query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
     start = time.time()
-    results = query_phrase_search(query_params)[:10]
+    results = query_phrase_search(query_params)
     end = time.time()
     print(end-start)
-    print(results)
+    print(results[:10], len(results))
+    print(8777416 in results)
 
-    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', "year": "1933-1934", 'actor': ''}
+    query_params = {'query': ['i', 'father'], 'movie_title': '', "year": "1980-1981", 'actor': ''}
     start = time.time()
-    results = query_phrase_search(query_params)[:10]
+    results = query_phrase_search(query_params)
     end = time.time()
     print(end-start)
-    print(results)
-
-
+    print(results[:10], len(results))
+    print(8777416 in results)
