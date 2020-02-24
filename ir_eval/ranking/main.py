@@ -45,8 +45,7 @@ def ranked_retrieval(query, number_results, search_phrase=False):
     """ This function should be called by app.py to perform the ranked retrieval
     """
     if search_phrase:
-        results = phrase_search(query)  # here results is a list of sentence ids, ordered by popularity (descending)
-        return results[:number_results]
+        return phrase_search(query, number_results)  # here results is a list of sentence ids, ordered by popularity (descending)
     tracker = ranking_query_BM25(query, batch_size)
     result_ids = [item[0] for item in tracker.get_top(number_results)]
     return result_ids
