@@ -74,15 +74,15 @@ def query_phrase_search(query_params):
         end_cur = cursors[-1]
         end_mov = end_cur['index']['movies'][end_cur['m']]
         end_sen = end_mov['sentences'][end_cur['s']]
-        # end_pos = end_sen['pos'][end_cur['p']]
+        end_pos = end_sen['pos'][end_cur['p']]
         if start_mov['_id'] < end_mov['_id']:
             advance_cursor_iterator(start_cur, 'm')
-        elif start_sen['_id'] < end_sen['_id']:
+        if start_mov['_id'] == end_mov['_id'] and start_sen['_id'] < end_sen['_id']:
             advance_cursor_iterator(start_cur, 's')
-        else:
+        if start_mov['_id'] == end_mov['_id'] and start_sen['_id'] == end_sen['_id'] and start_sen['pos'][start_cur['p']] < end_pos:
             advance_cursor_iterator(start_cur, 'p')
 
-        if exhausted:
+        if start_cur['cursor'] is None:
             return order_results_by_popularity(results)
 
 
