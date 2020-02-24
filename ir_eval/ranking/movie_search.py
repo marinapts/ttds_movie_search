@@ -58,9 +58,9 @@ def idf(total_movie_count_for_term):
     return math.log(1.0 * TOTAL_NUMBER_OF_MOVIES / total_movie_count_for_term)
 
 
-def movie_search(query_params, number_results):
+def ranked_movie_search(query_params, number_results):
     tracker = movie_ranking_query_TFIDF(query_params)
-    return tracker.get_top(number_results, skip=0)  # TODO: add pagination here
+    return [item[0] for item in tracker.get_top(number_results, skip=0)]  # TODO: add pagination here
 
 def movie_ranking_query_TFIDF(query_params):
     tracker = NaiveScoreTracker()  # there's no more than 220k movies, so we can fit all the scores in main memory
