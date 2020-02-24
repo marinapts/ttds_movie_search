@@ -115,6 +115,8 @@ def query_search():
     query_params = request.get_json()
 
     query = query_params['query']
+    search_phrase = True if query.startswith('"') and query.endswith('"') and len(query) >= 3 else False
+    # Perform phrase search if the whole query enclosed in quotes and there's at least one character inside quotes.
 
     filter_title = query_params['movie_title']
     #filter_title = ''
@@ -132,7 +134,7 @@ def query_search():
     query_params['query'] = query
 
     # @Todo: send query to ranking function and receive quote ids
-    query_id_results = ranked_retrieval(query_params, number_results)
+    query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)

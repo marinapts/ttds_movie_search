@@ -70,8 +70,7 @@ def query_phrase_search(query_params):
                 'movie_id': start_mov['_id'],
                 'sentence_id': start_sen['_id']
             })
-        # # Done. Now advance the first cursor ("i") to point beyond the last cursor ("father").
-        # exhausted = catchup(cursors[0], cursors[-1])  # this is wrong. What if the first cursor needs to approach, but not overtake the last cursor?
+        # # Done. Now advance the first cursor ("i") to catch up with the last cursor ("father").
         end_cur = cursors[-1]
         end_mov = end_cur['index']['movies'][end_cur['m']]
         end_sen = end_mov['sentences'][end_cur['s']]
@@ -156,18 +155,22 @@ def catchup(cur_from, cur_to):
 
 if __name__ == '__main__':
 
-    query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
+    # query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
+    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', 'year': '', 'actor': ''}
     start = time.time()
     results = query_phrase_search(query_params)
     end = time.time()
-    print(end-start)
+    print(f"Basic phrase search took {end-start} s")
     print(results[:10], len(results))
-    print(8777416 in results)
+    print(258464 in results)
+    # print(8777416 in results)
 
-    query_params = {'query': ['i', 'father'], 'movie_title': '', "year": "1980-1981", 'actor': ''}
+    # query_params = {'query': ['i', 'father'], 'movie_title': '', "year": "1980-1981", 'actor': ''}
+    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', "year": "1933-1934", 'actor': ''}
     start = time.time()
     results = query_phrase_search(query_params)
     end = time.time()
-    print(end-start)
+    print(f"Advanced phrase search took {end-start} s")
     print(results[:10], len(results))
-    print(8777416 in results)
+    print(258464 in results)
+    # print(8777416 in results)
