@@ -133,11 +133,11 @@ def query_search():
     t0 = time.time()
     query_params = preprocess_query_params(query_params)
     query = query_params['query']
-    search_query = query_params.get('search_query', False)
+    search_phrase = query_params.get('search_phrase', False)
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
         return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
 
-    query_id_results = ranked_retrieval(query_params, number_results, search_query)
+    query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
