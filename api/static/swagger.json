@@ -175,6 +175,10 @@
             "items": {
               "type": "string"
             }
+          },
+          "query_time": {
+            "type": "number",
+            "format": "float"
           }
         }
       },
