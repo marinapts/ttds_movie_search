@@ -38,7 +38,12 @@ class DBInterface(ABC):
 
     @abstractmethod
     def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
-        # Given a term, returns a dict of the quote ids
+        # Given a term, returns an iterable of inverted index entries
+        raise NotImplementedError()
+
+    @abstractmethod
+    def get_indexed_movies_by_term(self, term: str):
+        # Given a term, returns an iterable of inverted index entries without sentences
         raise NotImplementedError()
 
     @abstractmethod

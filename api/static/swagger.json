@@ -10,7 +10,7 @@
         "tags": [
           "Movies"
         ],
-        "summary": "Sample endpoint returning movies",
+        "summary": "Endpoint for querying words in sentences",
         "description": "A regular query would run a BM25 ranking algorithm. If the whole query is wrapped in double quotation marks (\"), then the query would run a phrase search algorithm that returns sentences containing the exact matching phrase, and sentences will be ordered by popularity (from most to least popular).",
         "requestBody": {
           "description": "Request body object for specifying query parameters, including a query string (required) and (optional) movie title, actor, keywords and/or year.",
@@ -53,6 +53,55 @@
           }
         }
       }
+    },
+    "/movie_search": {
+      "post": {
+        "tags": [
+          "Movies"
+        ],
+        "summary": "Endpoint for querying words in movies",
+        "description": "A query will run a TFIDF ranking algorithm on movies. Phrase search is not supported on a movie level. For phrase search, use endpoint /query_search",
+        "requestBody": {
+          "description": "Request body object for specifying query parameters, including a query string (required) and (optional) movie title, actor, keywords and/or year.",
+            "required": false,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "query": {
+                      "type": "string"
+                    },
+                    "movie_title": {
+                      "type": "string"
+                    },
+                    "actor": {
+                      "type": "string"
+                    },
+                    "keywords": {
+                      "type": "string"
+                    },
+                    "year": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/movie_search_response"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
@@ -61,6 +110,9 @@
         "type": "object",
         "properties": {
           "_id": {
+            "type": "string"
+          },
+          "movie_id": {
             "type": "string"
           },
           "title": {
@@ -168,6 +220,27 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/movie_quote_combined"
+            }
+          },
+          "category_list": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "query_time": {
+            "type": "number",
+            "format": "float"
+          }
+        }
+      },
+      "movie_search_response": {
+        "type": "object",
+        "properties": {
+          "movies": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/movie"
             }
           },
           "category_list": {
