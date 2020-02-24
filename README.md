@@ -33,3 +33,8 @@ cd api
 ./run.sh
 ```
 
+### Testing
+Add your tests to the `tests/` folder. The file names should start with `test_`. Each test method should also start with `test_`. See `tests/test_phrase_search.py` for an example. Execute the following command to run tests:
+```bash
+python -m unittest discover -p test*.py
+```

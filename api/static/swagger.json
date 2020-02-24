@@ -11,8 +11,9 @@
           "Movies"
         ],
         "summary": "Sample endpoint returning movies",
+        "description": "A regular query would run a BM25 ranking algorithm. If the whole query is wrapped in double quotation marks (\"), then the query would run a phrase search algorithm that returns sentences containing the exact matching phrase, and sentences will be ordered by popularity (from most to least popular).",
         "requestBody": {
-          "description": "Request body object for specifying query parameters, for example movie ids.",
+          "description": "Request body object for specifying query parameters, including a query string (required) and (optional) movie title, actor, keywords and/or year.",
             "required": false,
             "content": {
               "application/json": {
@@ -174,6 +175,10 @@
             "items": {
               "type": "string"
             }
+          },
+          "query_time": {
+            "type": "number",
+            "format": "float"
           }
         }
       },
