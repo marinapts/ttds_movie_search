@@ -10,7 +10,7 @@ from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 # TODO: update the below with total number of movies having at least one term (movies with subtitles)
-TOTAL_NUMBER_OF_MOVIES = 218000
+TOTAL_NUMBER_OF_MOVIES = 120000
 batch_size = 20
 db = get_db_instance()
 
@@ -77,6 +77,8 @@ def movie_ranking_query_TFIDF(query_params):
         total_movie_count = 0
         for index in list_of_indexes:
             total_movie_count += len(index['movies'])
+
+        print(f"term {term} movie count: {total_movie_count}")
 
         # Compute
         for index in list_of_indexes:
