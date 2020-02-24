@@ -5,6 +5,7 @@ from db.DB import get_db_instance
 import json
 #from preprocessing_api import preprocess
 from ir_eval.ranking.main import ranked_retrieval
+from ir_eval.ranking.movie_search import ranked_movie_search
 import re
 import time
 from ir_eval.preprocessing import preprocess
@@ -102,6 +103,22 @@ def filtering_years(query_results, filter_years):
             years_match.append(query_result)
     return years_match
 
+def preprocess_query_params(query_params):
+    query_params['query'] = query_params.get('query', '')
+    for param in ['movie_title', 'actor', 'keywords', 'year']:
+        query_params[param] = query_params.get(param, '')  # setting missing params to default empty strings
+
+    query = query_params['query']
+    search_phrase = True if query.startswith('"') and query.endswith('"') else False
+    # Perform phrase search if the whole query enclosed in quotes and there's at least two terms inside the quotes.
+    query = preprocess(query)
+    search_phrase = search_phrase and len(query) >= 2  # search phrase must consist of at least 2 terms
+    query_params['query'] = query
+    query_params['search_phrase'] = search_phrase
+
+    return query_params
+
+
 @app.route('/query_search', methods=['POST'])
 def query_search():
     """ Returns ranked query results for a given query. Additionally, returns sorted list of categories for filtering.
@@ -113,27 +130,14 @@ def query_search():
     """
     number_results = 100
     query_params = request.get_json()
-
-    query = query_params.get('query', '')
-    for param in ['movie_title', 'actor', 'keywords', 'year']:
-        query_params[param] = query_params.get(param, '')  # setting missing params to default empty strings
-
-    # filter_years = '1970-2010'  # example year parameter string
-
-    search_phrase = True if query.startswith('"') and query.endswith('"') else False
-    # Perform phrase search if the whole query enclosed in quotes and there's at least two terms inside the quotes.
-
-    # Get search input 'query' and perform tokenisation etc
     t0 = time.time()
-    query = preprocess(query)
+    query_params = preprocess_query_params(query_params)
+    query = query_params['query']
+    search_query = query_params.get('search_query', False)
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
         return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
-    search_phrase = search_phrase and len(query) >= 2  # search phrase must consist of at least 2 terms
-    query_params['query'] = query
 
-
-
-    query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
+    query_id_results = ranked_retrieval(query_params, number_results, search_query)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
@@ -158,6 +162,36 @@ def query_search():
     print(f"Query took {t1-t0} s to process")
 
     return json.dumps({'movies': query_results, 'category_list': category_list, 'query_time': t1-t0})
+
+@app.route('/movie_search', methods=['POST'])
+def movie_search():
+    """ Returns ranked query results for a given query. Additionally, returns sorted list of categories for filtering.
+        Input:
+            query
+        Output:
+            'movies', query results
+            'category list', list of categories
+    """
+    number_results = 100
+    query_params = request.get_json()
+    t0 = time.time()
+    query_params = preprocess_query_params(query_params)
+    query = query_params['query']
+    if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
+        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+
+    movie_id_results = ranked_movie_search(query_params, number_results)
+    movies = db.get_movies_by_list_of_ids(movie_id_results)
+    for dic_movie in movies:
+        if dic_movie is not None:
+            dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
+
+    #Create sorted list of all returned categories
+    category_list = find_categories(movies)
+    t1 = time.time()
+    print(f"Query took {t1-t0} s to process")
+
+    return json.dumps({'movies': movies, 'category_list': category_list, 'query_time': t1-t0})
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
