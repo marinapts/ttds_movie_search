@@ -114,25 +114,26 @@ def query_search():
     number_results = 100
     query_params = request.get_json()
 
-    query = query_params['query']
+    query = query_params.get('query', '')
+    for param in ['movie_title', 'actor', 'keywords', 'year']:
+        query_params[param] = query_params.get(param, '')  # setting missing params to default empty strings
 
-    filter_title = query_params['movie_title']
-    #filter_title = ''
-    filter_actor = query_params['actor']
-    #filter_actor = ''
-    filter_keywords = query_params['keywords']
-    #filter_keywords = ''
-    filter_years = query_params['year']
+    # filter_years = '1970-2010'  # example year parameter string
 
-    #filter_years = '1970-2010'
+    search_phrase = True if query.startswith('"') and query.endswith('"') else False
+    # Perform phrase search if the whole query enclosed in quotes and there's at least two terms inside the quotes.
 
-    t0 = time.time()
     # Get search input 'query' and perform tokenisation etc
+    t0 = time.time()
     query = preprocess(query)
+    if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
+        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+    search_phrase = search_phrase and len(query) >= 2  # search phrase must consist of at least 2 terms
     query_params['query'] = query
 
-    # @Todo: send query to ranking function and receive quote ids
-    query_id_results = ranked_retrieval(query_params, number_results)
+
+
+    query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
@@ -151,24 +152,12 @@ def query_search():
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
 
-    # #Filtering
-    # if filter_title != '':
-    #     query_results = filtering_title(query_results, filter_title)
-
-    # # @TODO: Function to filter by actors
-
-    # if filter_years != '':
-    #     query_results = filtering_years(query_results, filter_years)
-
-    # if filter_keywords != '':
-    #     query_results = filtering_keywords(query_results, filter_keywords)
-
     #Create sorted list of all returned categories
     category_list = find_categories(query_results)
     t1 = time.time()
-    print(t1-t0)
+    print(f"Query took {t1-t0} s to process")
 
-    return json.dumps({'movies': query_results, 'category_list': category_list})
+    return json.dumps({'movies': query_results, 'category_list': category_list, 'query_time': t1-t0})
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)

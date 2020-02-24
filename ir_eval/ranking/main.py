@@ -6,6 +6,7 @@ from db.DB import get_db_instance
 import math
 import time
 from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
+from ir_eval.ranking.phrase_search import phrase_search
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 TOTAL_NUMBER_OF_SENTENCES = 77584425
@@ -40,9 +41,11 @@ def idf(term, docs_for_term, doc_nums):
     return math.log10(doc_nums / df)
 
 
-def ranked_retrieval(query, number_results):
+def ranked_retrieval(query, number_results, search_phrase=False):
     """ This function should be called by app.py to perform the ranked retrieval
     """
+    if search_phrase:
+        return phrase_search(query, number_results)  # here results is a list of sentence ids, ordered by popularity (descending)
     tracker = ranking_query_BM25(query, batch_size)
     result_ids = [item[0] for item in tracker.get_top(number_results)]
     return result_ids
