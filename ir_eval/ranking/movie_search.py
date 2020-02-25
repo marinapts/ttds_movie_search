@@ -6,15 +6,14 @@ import math
 import time
 from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 
-# TODO: update the below with total number of movies having at least one term (movies with subtitles)
-TOTAL_NUMBER_OF_MOVIES = 120000
+TOTAL_NUMBER_OF_MOVIES = 121958
 db = get_db_instance()
 
-# TODO: add a pickle file containing an actual dictionary of movie term counts
 movie_term_counts = defaultdict(lambda: 1)
 try:
     pickle_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_term_counts.p'
     movie_term_counts = pickle.load(open(pickle_path, 'rb'))
+    TOTAL_NUMBER_OF_MOVIES = len(movie_term_counts)
 except:
     print("No valid pickle file with movie term counts found. Movie search may not work properly...")
 
@@ -102,7 +101,7 @@ if __name__ == '__main__':
     print(end-start)
     print(tracker.get_top(10))
 
-    query_params = {"year": "2000-2001", 'query': ["luke", "father"], 'movie_title': '', 'actor': ''}
+    query_params = {"year": "1980-1981", 'query': ["luke", "father"], 'movie_title': '', 'actor': ''}
     start = time.time()
     tracker = movie_ranking_query_TFIDF(query_params)
     end = time.time()
