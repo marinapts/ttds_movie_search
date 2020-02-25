@@ -76,7 +76,7 @@ def ranking_query_BM25(query_params, batch_size=MAX_INDEX_SPLITS):
                             quote_id = int(sentence['_id'])
                             term_freq = len(sentence['pos'])
                             dl = sentence['len']
-                            score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=200, dl=dl, avgdl=20) if dl < 100000 else 0
+                            score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=dl, avgdl=4.82) if dl < 100000 else 0
                             if score > 0:
                                 tracker.add_score(quote_id, score)
     return tracker

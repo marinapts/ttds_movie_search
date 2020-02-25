@@ -76,32 +76,15 @@ def find_categories(results_dict):
 def filtering_keywords(query_results, filter_keywords):
     with_keywords = []
     without_keywords = []
-    filter_keywords = re.split(',', filter_keywords)
+    filter_keywords = re.split(',', filter_keywords.replace(', ', ','))
+    print(filter_keywords)
     for query_result in query_results:
-        if any(i in filter_keywords for i in query_result['plotKeywords']):
+        if len(list(set(filter_keywords).intersection(query_result['plotKeywords']))) > 0:
             with_keywords.append(query_result)
         else:
             without_keywords.append(query_result)
     with_keywords.extend(without_keywords)
     return with_keywords
-
-def filtering_title(query_results, filter_title):
-    title_match = []
-    for query_result in query_results:
-        if query_result['title'] == filter_title:
-            title_match.append(query_result)
-    return title_match
-
-def filtering_years(query_results, filter_years):
-    years_match = []
-    filter_years = re.split('-', filter_years)
-    for query_result in query_results:
-        # Some iMDb entries have no 'year' attribute. This will prevent crashes:
-        if 'year' not in query_result:  # assume it matches the filter
-            years_match.append(query_result)
-        elif int(query_result['year']) >= int(filter_years[0]) and int(query_result['year']) <= int(filter_years[1]):
-            years_match.append(query_result)
-    return years_match
 
 def preprocess_query_params(query_params):
     query_params['query'] = query_params.get('query', '')
@@ -155,6 +138,10 @@ def query_search():
 
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
+
+    #Sort by keywords if keyword filtering is requested:
+    if len(query_params['keywords']) > 0:
+        query_results = filtering_keywords(query_results, query_params['keywords'])
 
     #Create sorted list of all returned categories
     category_list = find_categories(query_results)
