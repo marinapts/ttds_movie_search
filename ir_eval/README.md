@@ -1,4 +1,4 @@
-# IR: Indexing and Ranking
+# IR: Indexing
 
 ## Indexing
 Indexing part consists of following processes:
