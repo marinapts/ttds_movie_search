@@ -7,6 +7,7 @@ import time
 from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 
 TOTAL_NUMBER_OF_MOVIES = 121958
+MAX_QUERY_TIME = 10  # max seconds to allow the query to run for
 db = get_db_instance()
 
 movie_term_counts = defaultdict(lambda: 1)
@@ -73,6 +74,7 @@ def movie_ranking_query_TFIDF(query_params):
         print('advanced search')
         filtered_movies = db.get_movie_ids_advanced_search(query_params)
 
+    start_time = time.time()
     for term in terms:
         # Setup
         list_of_indexes = list(db.get_indexed_movies_by_term(term))
@@ -87,6 +89,10 @@ def movie_ranking_query_TFIDF(query_params):
             for movie in index['movies']:
                 score = tfidf(movie, total_movie_count)
                 tracker.add_score(movie['_id'], score)
+
+        # Time control
+        if time.time() - start_time > MAX_QUERY_TIME:
+            break
 
     if filtered_movies is not None:  # Filter
         for id in list(tracker.scores.keys()):

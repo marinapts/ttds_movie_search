@@ -2,11 +2,13 @@ import pickle
 from db.DB import get_db_instance
 import time
 from pathlib import Path
+from collections import defaultdict
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 BATCH_SIZE = 52
+MAX_QUERY_TIME = 10  # max seconds to allow the query to run for
 pickle_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
-movie_ratings = pickle.load(open(pickle_path, 'rb'))
+movie_ratings = defaultdict(lambda: 100, pickle.load(open(pickle_path, 'rb')))
 db = get_db_instance()
 
 def phrase_search(query_params, number_results):
@@ -42,6 +44,7 @@ def query_phrase_search(query_params):
         })
 
     # while all(c['index'] is not None for c in cursors):  # continue until at least one cursor is fully exhausted
+    start_time = time.time()
     while True:  # continue until at least one cursor is fully exhausted
         for i in range(len(cursors) - 1):
             cur_i = cursors[i]
@@ -82,7 +85,7 @@ def query_phrase_search(query_params):
         if start_mov['_id'] == end_mov['_id'] and start_sen['_id'] == end_sen['_id'] and start_sen['pos'][start_cur['p']] < end_pos:
             advance_cursor_iterator(start_cur, 'p')
 
-        if start_cur['cursor'] is None:
+        if start_cur['cursor'] is None or time.time() - start_time > MAX_QUERY_TIME:
             return order_results_by_popularity(results)
 
 
@@ -156,14 +159,14 @@ def catchup(cur_from, cur_to):
 if __name__ == '__main__':
 
     # query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
-    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', 'year': '', 'actor': ''}
+    query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
     start = time.time()
     results = query_phrase_search(query_params)
     end = time.time()
     print(f"Basic phrase search took {end-start} s")
     print(results[:10], len(results))
-    print(258464 in results)
-    # print(8777416 in results)
+    # print(258464 in results)
+    print(8777416 in results)
 
     # query_params = {'query': ['i', 'father'], 'movie_title': '', "year": "1980-1981", 'actor': ''}
     query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', "year": "1933-1934", 'actor': ''}
