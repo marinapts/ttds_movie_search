@@ -30,7 +30,7 @@ def tfidf(index_movie, total_movie_count_for_term):
     """
     Computes TFIDF score for a document-term pair.
     :param index_movie: movie from inverted index, containing {'_id': string, 'doc_count': int)
-    :param total_doc_count: total number of
+    :param total_movie_count_for_term: total number of movies containing the term
     :return:
     """
     return tf(index_movie) * idf(total_movie_count_for_term)
@@ -84,9 +84,8 @@ def movie_ranking_query_TFIDF(query_params):
 
         # Compute
         for index in list_of_indexes:
-            total_doc_count = index['doc_count']
             for movie in index['movies']:
-                score = tfidf(movie, total_doc_count)
+                score = tfidf(movie, total_movie_count)
                 tracker.add_score(movie['_id'], score)
 
     if filtered_movies is not None:  # Filter
