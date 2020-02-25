@@ -12,11 +12,18 @@ db = get_db_instance()
 movie_term_counts = defaultdict(lambda: 1)
 try:
     pickle_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_term_counts.p'
-    movie_term_counts = pickle.load(open(pickle_path, 'rb'))
+    movie_term_counts = defaultdict(lambda: 1, pickle.load(open(pickle_path, 'rb')))
     TOTAL_NUMBER_OF_MOVIES = len(movie_term_counts)
 except:
     print("No valid pickle file with movie term counts found. Movie search may not work properly...")
 
+MIN_RATINGS = 100
+movie_ratings = defaultdict(lambda: MIN_RATINGS)
+try:
+    ratings_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
+    movie_ratings = defaultdict(lambda: MIN_RATINGS, pickle.load(open(ratings_path, 'rb')))
+except:
+    print("No valid pickle file with movie ratings found. Weighted movie search may not work properly...")
 
 
 def tfidf(index_movie, total_movie_count_for_term):
@@ -86,6 +93,10 @@ def movie_ranking_query_TFIDF(query_params):
         for id in list(tracker.scores.keys()):
             if id not in filtered_movies:
                 tracker.scores.pop(id, None)
+
+    for id in tracker.scores:  # Add movie popularity weights
+        # tracker.scores[id] *= math.log(movie_ratings[id], RATINGS_WEIGHT_LOG_BASE)
+        tracker.scores[id] *= movie_ratings[id]
 
     return tracker
 
