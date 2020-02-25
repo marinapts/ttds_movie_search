@@ -1,3 +1,10 @@
+__pycache__/
+inverted_index.json
+inverted_index.pickle
+ranking/inverted_index_files
+ranking/boolean_matrix.pickle
+ranking/collection_dict.pickle
+ranking/env
 data
 __pycache__
 .DS_Store

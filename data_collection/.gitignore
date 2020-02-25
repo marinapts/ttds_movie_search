@@ -1,0 +1,13 @@
+
+.idea/
+
+# You may want to uncomment these two if you have a lot of quotes and subtitles
+# quotes/
+# subtitles/
+
+*.pyc
+
+.DS_Store
+
+movies.jsonl
+

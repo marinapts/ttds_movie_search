@@ -20,7 +20,7 @@ tweetTokenizer = TweetTokenizer()
 def tokenize(string_line):
     ''' This function tokenizes the string of text and removes all non alpha-numeric characters
     it takes a string of text as an argument
-    it returns a list of all individual words after tokenizing and removing all non alpha-numeric characters'''    
+    it returns a list of all individual words after tokenizing and removing all non alpha-numeric characters'''
     #return re.findall('[a-zA-Z0-9]+', string.lower())
     #return word_tokenize(string)
     tokens = tweetTokenizer.tokenize(string_line)

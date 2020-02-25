@@ -2,17 +2,30 @@ from typing import List
 from flask_pymongo import PyMongo
 from pymongo import MongoClient
 from db.DBInterface import DBInterface
+import gridfs
+import json
+import re
+from operator import itemgetter
+
 
 class MongoDB(DBInterface):
+
+    BULK_WRITE_LIMIT = 1000
 
     def __init__(self):
         super().__init__()
         client = MongoClient('167.71.139.222', 27017, username='admin', password='iamyourfather')
         self.ttds = client.ttds
         self.sentences = self.ttds.sentences
+        self.inverted_index = self.ttds.inverted_index
         self.movies = self.ttds.movies
+        self.sentences.create_index('_id')
+        self.inverted_index.create_index('_id')
+        self.movies.create_index('_id')
+        self.inverted_index_gridfs = gridfs.GridFS(self.ttds)
 
-    def get_quotes_by_list_of_quote_ids(self, ids: List[str]):
+
+    def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
         quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         return quote_list
@@ -31,5 +44,72 @@ class MongoDB(DBInterface):
         # Given a file with movies data, populate the database with those movies.
         # File can be either .json or .jsonl
         # clear flag specifies whether all contents of the database should be cleared before populating.
-        raise NotImplementedError()
 
+        if clear:  # clear the movies collection before populating
+            self.movies.delete_many({})
+
+        movies_list = list()
+
+        with open(file_path, 'r') as file:
+            ext = file_path.split('.')[-1]
+            if ext == 'json':  # JSON format - the whole file is a JSON list of movies
+                movies = json.load(file)
+                for movie in movies:
+                    movies_list.append(self._process_imdb_movie(movie))
+                self.movies.insert_many(movies_list, ordered=False)
+            elif ext == 'jsonl':  # JSON Lines format - each line is a JSON object
+                for line in file:
+                    movie = json.loads(line)
+                    movies_list.append(self._process_imdb_movie(movie))
+                    if len(movies_list) >= self.BULK_WRITE_LIMIT:  # flush the movies from the main memory to the DB
+                        self.movies.insert_many(movies_list, ordered=False)
+                        movies_list = list()
+            else:  # Invalid file extension. Do not populate
+                print("Invalid file extension {}. Will not populate...".format(ext))
+                return
+
+    def _process_imdb_movie(self, movie_object):
+        movie = {
+            '_id': movie_object['id'],
+            'title': movie_object['title'],
+            'cast': []
+        }
+        for attr in ['description', 'year', 'rating', 'countOfRatings', 'categories', 'thumbnail', 'plotKeywords']:
+            if attr in movie_object:  # check for existence before adding
+                movie[attr] = movie_object[attr]
+
+        for actor in movie_object['cast'].keys():
+            movie['cast'].append({
+                'actor': actor,
+                'character': movie_object['cast'][actor]
+            })
+        return movie
+
+
+
+
+
+    def splits_per_term(self, term: str):
+        return self.inverted_index.count_documents({"term": term})
+
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
+        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit)
+        return docs_for_term
+
+    def get_indexed_movies_by_term(self, term: str):
+        return self.inverted_index.find({"term": term}, {"movies.sentences": 0})
+
+    def get_movie_ids_advanced_search(self, query_params:dict):
+        and_list = []
+        if query_params.get('movie_title', False):
+            and_list.append({"title": query_params['movie_title']})
+        if query_params.get('year', False):
+            try:  # this may crash, so careful
+                year = re.split('-', query_params['year'])
+                and_list.append({"year": {"$gte": int(year[0]), "$lte": int(year[1])}})
+            except:
+                pass
+        if query_params.get('actor', False):
+            and_list.append({"cast.actor": query_params['actor']})
+        movies = self.movies.find({"$and": and_list}, {"_id": 1})
+        return set(map(itemgetter('_id'), movies))
