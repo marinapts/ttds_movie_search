@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography, Checkbox } from '@material-ui/core'
 
 import AdvancedSearch from '../advancedSearch/AdvancedSearch'
-import API from '../../utils/API'
 
 import './searchInput.scss'
 
@@ -31,7 +30,7 @@ export default class SearchInput extends Component {
   }
 
   setSearchInput = (event) => {
-    this.setState({ query: event.target.text }, this.querySearch)
+    this.setState({ query: event.target.text }, this.selectSearch)
   }
 
   toggleAdvancedSearch = () => this.setState({ enableAdvancedSearch: !this.state.enableAdvancedSearch })
@@ -49,29 +48,15 @@ export default class SearchInput extends Component {
     this.props.performSearch({query, ...advancedSearchParams}, this.state.movieSearchEnabled)
   }
 
-  querySearch = (e) => {
-    console.log('QUERY SEARCH')
-    e && e.preventDefault()
-    const { query, movieTitle, actor, year, keywords, enableAdvancedSearch } = this.state
-
-    if (!enableAdvancedSearch) {
-      this.props.getMoviesForQuery({query, movieTitle: '', actor: '', year: '', keywords: ''})
-    } else if (query.length | movieTitle.length | actor.length | year.length | keywords.length) {
-      this.props.getMoviesForQuery({query, movieTitle, actor, year, keywords})
-    }
-  }
-
   /**
    * Perform movie search if there is a query provided and the user enables movie search.
    * Otherwise do nothing.
    * @param  {Event} e - event from toggling the checkbox
    */
   toggleMovieSearch = (e) => {
-    console.log('toggle checkbox', e.target.checked)
-    e && e.preventDefault()
     const { query, movieTitle, actor, year, keywords } = this.state
     const movieSearchEnabled = e.target.checked
-
+    console.log(movieSearchEnabled)
     this.setState({ movieSearchEnabled }, () => {
       if (query.length) {
         const advancedSearchParams = { movieTitle, actor, year, keywords }
@@ -107,26 +92,30 @@ export default class SearchInput extends Component {
               type="submit"
             >Search</Button>
 
-            <FormControlLabel
-              className="advanced-search-button"
+            <FormControlLabel className="movie-search"
               control={
-                <Switch
-                  checked={enableAdvancedSearch}
-                  onChange={this.toggleAdvancedSearch}
-                  value="checkedB"
+                <Checkbox
+                  checked={movieSearchEnabled}
+                  onChange={this.toggleMovieSearch}
                   color="primary"
+                  inputProps={{ 'aria-label': 'primary checkbox' }}
                 />
               }
-              label="Advanced Search"
+              label="Search for movies"
             />
           </div>
 
-          <Checkbox
-            checked={movieSearchEnabled}
-            onChange={this.toggleMovieSearch}
-            value="Search only movies"
-            color="primary"
-            inputProps={{ 'aria-label': 'primary checkbox' }}
+          <FormControlLabel
+            className="advanced-search-button"
+            control={
+              <Switch
+                checked={enableAdvancedSearch}
+                onChange={this.toggleAdvancedSearch}
+                value="checkedB"
+                color="primary"
+              />
+            }
+            label="Advanced Search"
           />
 
           <AdvancedSearch
