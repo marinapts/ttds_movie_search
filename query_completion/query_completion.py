@@ -6,6 +6,7 @@ from keras import optimizers
 from keras.callbacks import ModelCheckpoint
 from pickle import dump,load
 import os
+import io
 import nltk
 import string
 from nltk.tokenize import word_tokenize
@@ -15,7 +16,7 @@ import numpy as np
 tweetTokenizer = TweetTokenizer()
 input_words = 1
 batch_size = 5
-text_file = open('sentences.txt', 'r')
+text_file = io.open('sentences.txt', 'r', encoding='utf-8')
 
 ######################### Pre-Processing #########################
 
@@ -24,7 +25,7 @@ def get_sentence():
     global text_file
     line = text_file.readline()
     if line == '':  # end of file reached. Start reading from the beginning again.
-        text_file = open('sentences.txt', 'r')  # perhaps run a command to shuffle the sentences file before opening it.
+        text_file = io.open('sentences.txt', 'r', encoding='utf-8')  # perhaps run a command to shuffle the sentences file before opening it.
         line = text_file.readline()
     return line
 
