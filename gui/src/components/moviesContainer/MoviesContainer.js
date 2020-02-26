@@ -41,15 +41,14 @@ export default class MoviesContainer extends React.Component {
   }
 
   viewMovieInfoCard = async movieId => {
-    const response = await API.get(`/movie/${movieId}`)
-    console.log(response)
     let errorMovieInfoMsg = ''
     let movieInfo = {}
-
-    if (response.status === 404) {
-      errorMovieInfoMsg = 'Movie could not be retrieved! Please click on another movie'
-    } else {
+    try {
+      const response = await API.get(`/movie/${movieId}`)
       movieInfo = response.data
+    } catch(error) {
+      errorMovieInfoMsg = 'Movie not found'
+      movieInfo = {}
     }
 
     this.setState({ showDetails: true, movieInfo, errorMovieInfoMsg })
