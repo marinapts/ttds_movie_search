@@ -15,13 +15,26 @@ import numpy as np
 tweetTokenizer = TweetTokenizer()
 input_words = 1
 batch_size = 5
+text_file = open('sentences.txt', 'r')
 
 ######################### Pre-Processing #########################
 
-def read_file(filepath):
-    with open(filepath) as f:
-        str_text = f.read()
-    return str_text
+def get_sentence():
+    # read the next sentence from file. If file is finished, load the file again and start reading from beginning.
+    global text_file
+    line = text_file.readline()
+    if line == '':  # end of file reached. Start reading from the beginning again.
+        text_file = open('sentences.txt', 'r')  # perhaps run a command to shuffle the sentences file before opening it.
+        line = text_file.readline()
+    return line
+
+def get_sentences(n):
+    # get n sentences in a string format joined with spaces
+    sentences = ''
+    for i in range(n):
+        sentences += get_sentence() + ' '
+    return sentences
+    # return ' '.join([get_sentence() for i in range(n)])  # <- this should be slower, I think
 
 def tokenize(string_line):
     ''' This function tokenizes the string of text and removes all non alpha-numeric characters
@@ -30,7 +43,7 @@ def tokenize(string_line):
     tokens = tweetTokenizer.tokenize(string_line)
     return list(filter(None, [s.translate(str.maketrans('','',string.punctuation)) for s in tokens]))
 
-text = read_file('sentences.txt')
+text = get_sentences(100000)  # Comment: try getting the sentences in chunks like this and repeating the fitting process.
 tokens = tokenize(text)
 tokens.pop(0)
 
