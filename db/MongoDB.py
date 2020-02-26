@@ -114,8 +114,14 @@ class MongoDB(DBInterface):
                 year = re.split('-', query_params['year'])
                 and_list.append({"year": {"$gte": int(year[0]), "$lte": int(year[1])}})
             except:
-                pass
+                print(f"Attempted to make advanced search with invalid year: {query_params['year']}")
         if query_params.get('actor', False):
             and_list.append({"cast.actor": query_params['actor']})
+        if query_params.get('categories', False):
+            try:
+                categories = re.split(',', query_params['categories'])
+                and_list.append({'categories': {'$in': categories}})
+            except:
+                print(f"Attempted to make advanced search with invalid categories: {query_params['categories']}")
         movies = self.movies.find({"$and": and_list}, {"_id": 1})
         return set(map(itemgetter('_id'), movies))
