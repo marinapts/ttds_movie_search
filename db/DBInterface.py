@@ -42,7 +42,7 @@ class DBInterface(ABC):
         return NotImplementedError()
 
     @abstractmethod
-    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int, sort_entries: bool = False):
         # Given a term, returns an iterable of inverted index entries
         raise NotImplementedError()
 

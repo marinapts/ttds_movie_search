@@ -69,7 +69,7 @@ def ranking_query_BM25(query_params, batch_size=MAX_INDEX_SPLITS):
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
     filtered_movies = None
-    if len(query_params['movie_title']) > 0 or len(query_params['year']) > 0 or len(query_params['actor']) > 0:
+    if any(len(query_params.get(param, '')) > 0 for param in ['movie_title', 'year', 'actor', 'categories']):
         print('advanced search')
         filtered_movies = db.get_movie_ids_advanced_search(query_params)
 

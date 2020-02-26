@@ -106,8 +106,11 @@ class MongoDB(DBInterface):
     def splits_per_term(self, term: str):
         return self.inverted_index.count_documents({"term": term})
 
-    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
-        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit)
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int, sort_entries: bool = False):
+        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0})
+        if sort_entries:
+            docs_for_term = docs_for_term.sort('movies.0._id')
+        docs_for_term = docs_for_term.skip(skip).limit(limit)
         return docs_for_term
 
     def get_indexed_movies_by_term(self, term: str):
@@ -122,8 +125,14 @@ class MongoDB(DBInterface):
                 year = re.split('-', query_params['year'])
                 and_list.append({"year": {"$gte": int(year[0]), "$lte": int(year[1])}})
             except:
-                pass
+                print(f"Attempted to make advanced search with invalid year: {query_params['year']}")
         if query_params.get('actor', False):
             and_list.append({"cast.actor": query_params['actor']})
+        if query_params.get('categories', False):
+            try:
+                categories = re.split(',', query_params['categories'])
+                and_list.append({'categories': {'$in': categories}})
+            except:
+                print(f"Attempted to make advanced search with invalid categories: {query_params['categories']}")
         movies = self.movies.find({"$and": and_list}, {"_id": 1})
         return set(map(itemgetter('_id'), movies))

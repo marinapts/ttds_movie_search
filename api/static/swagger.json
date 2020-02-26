@@ -18,24 +18,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "query": {
-                      "type": "string"
-                    },
-                    "movie_title": {
-                      "type": "string"
-                    },
-                    "actor": {
-                      "type": "string"
-                    },
-                    "keywords": {
-                      "type": "string"
-                    },
-                    "year": {
-                      "type": "string"
-                    }
-                  }
+                  "$ref": "#/components/schemas/query_params"
                 }
               }
             }
@@ -67,24 +50,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "query": {
-                      "type": "string"
-                    },
-                    "movie_title": {
-                      "type": "string"
-                    },
-                    "actor": {
-                      "type": "string"
-                    },
-                    "keywords": {
-                      "type": "string"
-                    },
-                    "year": {
-                      "type": "string"
-                    }
-                  }
+                  "$ref": "#/components/schemas/query_params"
                 }
               }
             }
@@ -149,6 +115,29 @@
   },
   "components": {
     "schemas": {
+      "query_params": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string"
+          },
+          "movie_title": {
+            "type": "string"
+          },
+          "categories": {
+            "type": "string"
+          },
+          "actor": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          }
+        }
+      },
       "movie": {
         "type": "object",
         "properties": {
