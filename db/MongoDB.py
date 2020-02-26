@@ -98,8 +98,11 @@ class MongoDB(DBInterface):
     def splits_per_term(self, term: str):
         return self.inverted_index.count_documents({"term": term})
 
-    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int):
-        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0}).skip(skip).limit(limit)
+    def get_indexed_documents_by_term(self, term: str, skip: int, limit: int, sort_entries: bool = False):
+        docs_for_term = self.inverted_index.find({"term": term}, {"_id": 0})
+        if sort_entries:
+            docs_for_term = docs_for_term.sort('movies.0._id')
+        docs_for_term = docs_for_term.skip(skip).limit(limit)
         return docs_for_term
 
     def get_indexed_movies_by_term(self, term: str):
