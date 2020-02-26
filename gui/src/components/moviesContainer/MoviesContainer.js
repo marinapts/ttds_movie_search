@@ -6,7 +6,7 @@ import Pagination from 'material-ui-flat-pagination'
 import MovieCard from '../movieCard/MovieCard'
 import DetailsCard from '../detailsCard/DetailsCard'
 import GenreFilter from '../genreFilter/GenreFilter'
-
+import API from '../../utils/API'
 
 import './moviesContainer.scss'
 
@@ -18,7 +18,9 @@ export default class MoviesContainer extends React.Component {
       showDetails: false,
       quoteId: null,
       offset: 0,
-      perPage: 3
+      perPage: 10,
+      errorMovieInfoMsg: '',
+      movieInfo: {}
     }
   }
 
@@ -38,8 +40,18 @@ export default class MoviesContainer extends React.Component {
     this.setState({ data, showDetails: false })
   }
 
-  viewDetailsCard = quoteId => {
-    this.setState({ showDetails: true, quoteId })
+  viewMovieInfoCard = async movieId => {
+    let errorMovieInfoMsg = ''
+    let movieInfo = {}
+    try {
+      const response = await API.get(`/movie/${movieId}`)
+      movieInfo = response.data
+    } catch(error) {
+      errorMovieInfoMsg = 'Movie not found'
+      movieInfo = {}
+    }
+
+    this.setState({ showDetails: true, movieInfo, errorMovieInfoMsg })
   }
 
   handleClick = (offset) => {
@@ -47,7 +59,7 @@ export default class MoviesContainer extends React.Component {
   }
 
   render() {
-    const { showDetails, quoteId, data, offset, perPage } = this.state
+    const { showDetails, data, offset, perPage, movieInfo, errorMovieInfoMsg } = this.state
     const { genres } = this.props
 
     return(
@@ -61,14 +73,14 @@ export default class MoviesContainer extends React.Component {
             <Typography variant="h6" color="primary">{`Query results: ${data.length} movies`}</Typography>
 
             {data.slice(offset, offset + perPage).map((movie, idx) =>
-              <MovieCard key={idx} viewDetails={this.viewDetailsCard} {...movie} />
+              <MovieCard key={idx} viewDetails={this.viewMovieInfoCard} {...movie} />
             )}
           </Grid>
 
           {showDetails &&
             <Grid item xs={4}>
               <Zoom in={showDetails} style={{ transitionDelay: showDetails ? '100ms' : '0ms' }}>
-                <DetailsCard details={data.find(d => d.quote_id === quoteId)} />
+                <DetailsCard details={movieInfo} errorMovieInfoMsg={errorMovieInfoMsg} />
               </Zoom>
             </Grid>
           }

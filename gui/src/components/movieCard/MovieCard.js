@@ -6,12 +6,12 @@ import './movieCard.scss'
 
 export default class MovieCard extends React.Component {
   viewDetails = () => {
-    this.props.viewDetails(this.props.quote_id)
+    this.props.viewDetails(this.props.movie_id)
   }
 
   render() {
     const { full_quote, title, character_name, categories, plotKeywords } = this.props
-    const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
+    // const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
 
     return (
       <div>
