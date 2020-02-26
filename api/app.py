@@ -3,7 +3,6 @@ from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
 import json
-#from preprocessing_api import preprocess
 from ir_eval.ranking.main import ranked_retrieval
 from ir_eval.ranking.movie_search import ranked_movie_search
 import re
@@ -27,7 +26,7 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 db = get_db_instance()
-cache = ResultsCache.instance()
+cache = ResultsCache.instance()  # Usage: cache.get(query_params), cache.store(query_params, output)
 
 
 @app.route('/')
@@ -120,6 +119,12 @@ def preprocess_query_params(query_params):
 
     return query_params
 
+@app.route('/movie/<movie_id>')
+def find_movie_by_id(movie_id):
+    movie = db.get_movie_by_id(movie_id)
+    if movie is None:
+        return {}, 404
+    return movie
 
 @app.route('/query_search', methods=['POST'])
 def query_search():
@@ -135,13 +140,13 @@ def query_search():
     output = cache.get(request.get_json())
     if output:
         output['query_time'] = time.time() - t0
-        return json.dumps(output)
+        return output
 
-    query_params = preprocess_query_params(request.get_json())
+    query_params = preprocess_query_params(request.get_json().copy())
     query = query_params['query']
     search_phrase = query_params.get('search_phrase', False)
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
-        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+        return {'movies': [], 'category_list': [], 'query_time': time.time()-t0}
 
     query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
 
@@ -156,7 +161,7 @@ def query_search():
     movie_ids = ([dic['movie_id'] for dic in query_results])
     movies = db.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
-        if dic_movie is not None:
+        if dic_movie is not None and 'movie_id' not in dic_movie:  # movie_id may already be added if different quotes share the same movie!
             dic_movie['movie_id'] = dic_movie.pop('_id')
 
     #Merge Movie Details with Quotes
@@ -169,7 +174,7 @@ def query_search():
 
     output = {'movies': query_results, 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output)
-    return json.dumps(output)
+    return output
 
 @app.route('/movie_search', methods=['POST'])
 def movie_search():
@@ -185,12 +190,12 @@ def movie_search():
     output = cache.get(request.get_json())
     if output:
         output['query_time'] = time.time() - t0
-        return json.dumps(output)
+        return output
 
-    query_params = preprocess_query_params(request.get_json())
+    query_params = preprocess_query_params(request.get_json().copy())
     query = query_params['query']
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
-        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+        return {'movies': [], 'category_list': [], 'query_time': time.time()-t0}
 
     movie_id_results = ranked_movie_search(query_params, number_results)
     movies = db.get_movies_by_list_of_ids(movie_id_results)
@@ -205,7 +210,7 @@ def movie_search():
 
     output = {'movies': movies, 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output)
-    return json.dumps(output)
+    return output
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)

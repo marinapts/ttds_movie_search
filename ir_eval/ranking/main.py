@@ -1,6 +1,5 @@
 import json
 import pickle
-import numpy as np
 import sys
 from db.DB import get_db_instance
 from pathlib import Path
