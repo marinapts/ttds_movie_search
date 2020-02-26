@@ -24,7 +24,7 @@ try:
     ratings_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
     movie_ratings = defaultdict(lambda: MIN_RATINGS, pickle.load(open(ratings_path, 'rb')))
 except:
-    print("No valid pickle file with movie ratings found. Weighted movie search may not work properly...")
+    print("No valid pickle file with movie ratings found. Weighted quote BM25 search may not work properly...")
 
 class TimeLimitTerm(Exception): pass
 

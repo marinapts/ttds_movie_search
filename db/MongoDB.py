@@ -27,10 +27,8 @@ class MongoDB(DBInterface):
 
     def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
         # Given a list of quote ids, return a list of quote dictionaries
-        quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
+        sorted_quote_list = list(self.sentences.find({"_id": {"$in": ids}}).sort('_id'))
         # Sort results from mongodb by the ids list, since the order is not maintained
-        sorted_quote_dict = {d['_id']: d for d in quote_list}
-        sorted_quote_list = [sorted_quote_dict[i] for i in ids]
         return sorted_quote_list
 
     def get_quotes_by_movie_id(self, movie_id: str):
@@ -39,8 +37,8 @@ class MongoDB(DBInterface):
         return quote_list
 
     def get_movies_by_list_of_ids(self, ids: List[str]):
-        # Given a list of movie ids, return a list of movie dictionaries
-        movie_list = list(self.movies.find({"_id": {"$in": ids}}))
+        # Given a list of movie ids, return a list of movie dictionaries, sorted by movie_id
+        movie_list = list(self.movies.find({"_id": {"$in": ids}}).sort('_id'))
         return movie_list
 
     def populate_movies_data(self, file_path: str, clear: bool):
@@ -102,7 +100,7 @@ class MongoDB(DBInterface):
     def get_indexed_movies_by_term(self, term: str):
         return self.inverted_index.find({"term": term}, {"movies.sentences": 0})
 
-    def get_movie_ids_advanced_search(self, query_params:dict):
+    def get_movie_ids_advanced_search(self, query_params: dict):
         and_list = []
         if query_params.get('movie_title', False):
             and_list.append({"title": query_params['movie_title']})
