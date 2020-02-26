@@ -6,7 +6,7 @@ from collections import defaultdict
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 BATCH_SIZE = 52
-MAX_QUERY_TIME = 100  # max seconds to allow the query to run for
+MAX_QUERY_TIME = 10  # max seconds to allow the query to run for
 MIN_RATINGS = 100
 movie_ratings = defaultdict(lambda: MIN_RATINGS)
 try:
