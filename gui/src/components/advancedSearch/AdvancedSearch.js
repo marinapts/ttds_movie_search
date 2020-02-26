@@ -61,5 +61,5 @@ AdvancedSearch.propTypes = {
     year: PropTypes.string,
     keywords: PropTypes.string,
   }).isRequired,
-  onAdvancedSearchChange: PropTypes.bool.isRequired
+  onAdvancedSearchChange: PropTypes.func.isRequired
 }

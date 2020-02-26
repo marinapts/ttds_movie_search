@@ -35,12 +35,16 @@ export default class App extends Component {
     }
   }
 
-  getMoviesForQuery = data => {
+  performSearch = (data, isMovieSearch) => {
     const { query, movieTitle, actor, year, keywords } = data
+    console.log(isMovieSearch ? 'MOVIE SEARCH ': 'QUOTE SEARCH ')
 
     this.setState({ loading: true }, async () => {
       try {
-        const response = await API.post('/query_search', { query, movie_title: movieTitle, actor, year, keywords })
+        const response = await API.post(
+          isMovieSearch ? '/movie_search' : '/query_search',
+          { query, movie_title: movieTitle, actor, year, keywords }
+        )
         this.setState({
           movies: response.data.movies,
           genres: response.data.category_list,
@@ -69,7 +73,7 @@ export default class App extends Component {
           <h3>TTDS Movie Project 2020</h3>
           <div className="search-container">
             <SearchInput
-              getMoviesForQuery={this.getMoviesForQuery}
+              performSearch={this.performSearch}
               showExamples={showExamples}
               showErrorMsg={showErrorMsg}
             />

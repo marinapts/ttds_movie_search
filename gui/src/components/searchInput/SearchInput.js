@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography } from '@material-ui/core'
+import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography, Checkbox } from '@material-ui/core'
+
 import AdvancedSearch from '../advancedSearch/AdvancedSearch'
+import API from '../../utils/API'
 
 import './searchInput.scss'
 
@@ -15,7 +17,8 @@ export default class SearchInput extends Component {
       actor: '',
       year: '',
       keywords: '',
-      enableAdvancedSearch: false
+      enableAdvancedSearch: false,
+      movieSearchEnabled: false
     }
   }
 
@@ -35,7 +38,19 @@ export default class SearchInput extends Component {
 
   onAdvancedSearchChange = (field, value) => this.setState({ [field]: value })
 
-  querySearch = async (e) => {
+  /**
+   * Select between a quote search or movie search
+   * @param  {Event} e - event from submitting the button
+   */
+  selectSearch = e => {
+    e && e.preventDefault()
+    const { query, movieTitle, actor, year, keywords } = this.state
+    const advancedSearchParams = { movieTitle, actor, year, keywords }
+    this.props.performSearch({query, ...advancedSearchParams}, this.state.movieSearchEnabled)
+  }
+
+  querySearch = (e) => {
+    console.log('QUERY SEARCH')
     e && e.preventDefault()
     const { query, movieTitle, actor, year, keywords, enableAdvancedSearch } = this.state
 
@@ -46,14 +61,34 @@ export default class SearchInput extends Component {
     }
   }
 
+  /**
+   * Perform movie search if there is a query provided and the user enables movie search.
+   * Otherwise do nothing.
+   * @param  {Event} e - event from toggling the checkbox
+   */
+  toggleMovieSearch = (e) => {
+    console.log('toggle checkbox', e.target.checked)
+    e && e.preventDefault()
+    const { query, movieTitle, actor, year, keywords } = this.state
+    const movieSearchEnabled = e.target.checked
+
+    this.setState({ movieSearchEnabled }, () => {
+      if (query.length) {
+        const advancedSearchParams = { movieTitle, actor, year, keywords }
+        this.props.performSearch({query, ...advancedSearchParams}, movieSearchEnabled)
+
+      }
+    })
+  }
+
   render() {
-    const { enableAdvancedSearch, movieTitle, actor, year, keywords } = this.state
+    const { enableAdvancedSearch, movieTitle, actor, year, keywords, movieSearchEnabled } = this.state
     const { showErrorMsg, showExamples } = this.props
     const advancedSearchData = { movieTitle, actor, year, keywords }
 
     return (
       <Grid item xs={12}>
-        <form noValidate autoComplete="off" onSubmit={this.querySearch}>
+        <form noValidate autoComplete="off" onSubmit={this.selectSearch}>
           <div className="search-form">
             <div className="search-input">
               <TextField
@@ -85,6 +120,14 @@ export default class SearchInput extends Component {
               label="Advanced Search"
             />
           </div>
+
+          <Checkbox
+            checked={movieSearchEnabled}
+            onChange={this.toggleMovieSearch}
+            value="Search only movies"
+            color="primary"
+            inputProps={{ 'aria-label': 'primary checkbox' }}
+          />
 
           <AdvancedSearch
             enableAdvancedSearch={enableAdvancedSearch}
@@ -118,5 +161,5 @@ export default class SearchInput extends Component {
 }
 
 SearchInput.propTypes = {
-  getMoviesForQuery: PropTypes.func.isRequired
+  performSearch: PropTypes.func.isRequired
 }

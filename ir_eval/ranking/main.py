@@ -122,7 +122,8 @@ if __name__ == '__main__':
     batch_size = 50
 
     start = time.time()
-    query_params = {'query': ["father"]} #, "boy", "girl"]}
+    # query_params = {'query': ["father"]} #, "boy", "girl"]}
+    query_params = {'query': ["luke", "father"], 'movie_title': '', 'year': '', 'actor': ''}
     query_params['movie_title'] = ''
     query_params['year'] = ''
     query_params['actor'] = ''
@@ -130,8 +131,11 @@ if __name__ == '__main__':
     tracker = ranking_query_BM25(query_params, batch_size)
     end = time.time()
     print(end-start)
+    print(tracker.get_top(10))
 
-    query_params = {"year": "2000-2001"}
+
+    # query_params = {"year": "2000-2001"}
+    query_params = {"year": "1980-1981", 'query': ["luke", "father"], 'movie_title': '', 'actor': ''}
     query_params['query'] = ["may"]
     query_params['movie_title'] = ''
     query_params['actor'] = ''
