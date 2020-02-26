@@ -105,7 +105,7 @@ def filtering_years(query_results, filter_years):
 
 def preprocess_query_params(query_params):
     query_params['query'] = query_params.get('query', '')
-    for param in ['movie_title', 'actor', 'keywords', 'year']:
+    for param in ['movie_title', 'actor', 'keywords', 'year', 'categories']:
         query_params[param] = query_params.get(param, '')  # setting missing params to default empty strings
 
     query = query_params['query']
