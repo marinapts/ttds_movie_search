@@ -13,7 +13,7 @@ export default class DetailsCard extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (prevProps.details.movie_id !== this.props.details.movie_id) {
+    if (prevProps.details._id !== this.props.details._id) {
       this.setState({ moreCastVisible: false })
     }
   }
@@ -56,7 +56,7 @@ export default class DetailsCard extends Component {
                   }
                   <br/>
                   <Typography variant="body1" gutterBottom></Typography>
-                  <Button target="_blank" variant="contained" color="primary" href={`https://www.imdb.com/title/${details.movie_id}`}>View in IMDB</Button>
+                  <Button target="_blank" variant="contained" color="primary" href={`https://www.imdb.com/title/${details._id}`}>View in IMDB</Button>
                 </CardContent>
               }
             </div>
@@ -68,5 +68,6 @@ export default class DetailsCard extends Component {
 }
 
 DetailsCard.propTypes = {
-  details: PropTypes.object.isRequired
+  details: PropTypes.object.isRequired,
+  errorMovieInfoMsg: PropTypes.object.isRequired
 }
