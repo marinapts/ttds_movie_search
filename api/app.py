@@ -9,6 +9,7 @@ from ir_eval.ranking.movie_search import ranked_movie_search
 import re
 import time
 from ir_eval.preprocessing import preprocess
+from api.utils.cache import ResultsCache
 
 app = Flask(__name__)
 CORS(app)
@@ -26,6 +27,7 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 db = get_db_instance()
+cache = ResultsCache.instance()
 
 
 @app.route('/')
@@ -129,9 +131,13 @@ def query_search():
             'category list', list of categories
     """
     number_results = 100
-    query_params = request.get_json()
     t0 = time.time()
-    query_params = preprocess_query_params(query_params)
+    output = cache.get(request.get_json())
+    if output:
+        output['query_time'] = time.time() - t0
+        return json.dumps(output)
+
+    query_params = preprocess_query_params(request.get_json())
     query = query_params['query']
     search_phrase = query_params.get('search_phrase', False)
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
@@ -161,7 +167,9 @@ def query_search():
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
 
-    return json.dumps({'movies': query_results, 'category_list': category_list, 'query_time': t1-t0})
+    output = {'movies': query_results, 'category_list': category_list, 'query_time': t1-t0}
+    cache.store(request.get_json(), output)
+    return json.dumps(output)
 
 @app.route('/movie_search', methods=['POST'])
 def movie_search():
@@ -173,9 +181,13 @@ def movie_search():
             'category list', list of categories
     """
     number_results = 100
-    query_params = request.get_json()
     t0 = time.time()
-    query_params = preprocess_query_params(query_params)
+    output = cache.get(request.get_json())
+    if output:
+        output['query_time'] = time.time() - t0
+        return json.dumps(output)
+
+    query_params = preprocess_query_params(request.get_json())
     query = query_params['query']
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
         return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
@@ -191,7 +203,9 @@ def movie_search():
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
 
-    return json.dumps({'movies': movies, 'category_list': category_list, 'query_time': t1-t0})
+    output = {'movies': movies, 'category_list': category_list, 'query_time': t1-t0}
+    cache.store(request.get_json(), output)
+    return json.dumps(output)
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)

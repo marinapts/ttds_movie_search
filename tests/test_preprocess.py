@@ -1,7 +1,7 @@
 import unittest
 from ir_eval.preprocessing import preprocess
 
-class TestPhraseSearch(unittest.TestCase):
+class TestPreprocess(unittest.TestCase):
 
     def test_preprocess(self):
         query = preprocess("I am your father.")
