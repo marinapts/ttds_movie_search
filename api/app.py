@@ -194,4 +194,4 @@ def movie_search():
     return json.dumps({'movies': movies, 'category_list': category_list, 'query_time': t1-t0})
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=False, port=5000)
