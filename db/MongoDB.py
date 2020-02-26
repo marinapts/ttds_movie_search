@@ -26,9 +26,11 @@ class MongoDB(DBInterface):
 
 
     def get_quotes_by_list_of_quote_ids(self, ids: List[int]):
-        # Given a list of quote ids, return a list of quote dictionaries
-        sorted_quote_list = list(self.sentences.find({"_id": {"$in": ids}}).sort('_id'))
+        # Given a list of quote ids, return a list of quote dictionaries, sorted in the same order that the ids are provided.
+        quote_list = list(self.sentences.find({"_id": {"$in": ids}}))
         # Sort results from mongodb by the ids list, since the order is not maintained
+        sorted_quote_dict = {d['_id']: d for d in quote_list}  # sentence_id -> sentence_dict
+        sorted_quote_list = [sorted_quote_dict[i] for i in ids]
         return sorted_quote_list
 
     def get_quotes_by_movie_id(self, movie_id: str):
@@ -37,9 +39,12 @@ class MongoDB(DBInterface):
         return quote_list
 
     def get_movies_by_list_of_ids(self, ids: List[str]):
-        # Given a list of movie ids, return a list of movie dictionaries, sorted by movie_id
-        movie_list = list(self.movies.find({"_id": {"$in": ids}}).sort('_id'))
-        return movie_list
+        # Given a list of movie ids, return a list of movie dictionaries, sorted in the same order that the ids are provided.
+        movie_list = list(self.movies.find({"_id": {"$in": ids}}))
+        # Sort results from mongodb by the ids list, since the order is not maintained
+        movie_id_to_movie = {d['_id']: d for d in movie_list}
+        sorted_movie_list = [movie_id_to_movie[id] for id in ids]
+        return sorted_movie_list
 
     def populate_movies_data(self, file_path: str, clear: bool):
         # Given a file with movies data, populate the database with those movies.
