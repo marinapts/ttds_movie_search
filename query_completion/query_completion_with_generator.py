@@ -27,7 +27,7 @@ tweetTokenizer = TweetTokenizer()
 # hyperparameters
 seq_len = 1  # 1 for bigrams, 2 for trigrams, and so on
 train_len = seq_len + 1
-batch_size = 5
+batch_size = 10
 num_epochs = 500
 # Number of generated sentences at a time
 num_sentences = 100
