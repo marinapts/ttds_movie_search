@@ -98,7 +98,7 @@ def data_generator():
                 train_targets = []
                 for seq in tokenizer.texts_to_sequences_generator(bigrams):
                     # Splitting the sequences into inputs and target
-                    train_input = seq[:-1]
+                    train_input = np.array(seq[:-1])
                     train_target = seq[-1]
                     train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
                     train_inputs.append(train_input)
