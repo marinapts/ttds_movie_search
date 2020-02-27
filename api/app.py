@@ -9,6 +9,7 @@ from ir_eval.ranking.movie_search import ranked_movie_search
 import re
 import time
 from ir_eval.preprocessing import preprocess
+from query_completion.model import predict_next_word
 
 app = Flask(__name__)
 CORS(app)
@@ -200,14 +201,16 @@ def query_suggest():
     if len(query) == 0:  # no words in the query, return empty list of suggestions
         return {'results': []}
 
-    word = query[-1]  # get the last word
-    # TODO: use the model to predict the next 3 words based on the `word`
+    predictions = [request.args.get('query', '').strip()]
+    for i in range(3):  # make 3 predictions based on the previous one
+        prev_query = predictions[len(predictions)-1]
+        prev_word = prev_query.split()[-1]  # last word of the previous prediction
+        next_word = predict_next_word(prev_word)
+        if next_word:
+            predictions.append(prev_query + " " + next_word)
+    predictions.pop(0)  # remove the first prediction (which is the query itself)
 
-    return {'results': [
-        'I am',
-        'I am your',
-        'I am your father'
-    ]}
+    return {'results': predictions}
 
 
 if __name__ == '__main__':
