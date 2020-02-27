@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
@@ -9,6 +9,7 @@ import re
 import time
 from ir_eval.preprocessing import preprocess
 from api.utils.cache import ResultsCache
+
 
 app = Flask(__name__)
 CORS(app)
@@ -30,9 +31,10 @@ cache = ResultsCache.instance()  # Usage: cache.get(params, which_cache), cache.
 QUOTES_CACHE = 'quotes'
 MOVIES_CACHE = 'movies'
 
+
 @app.route('/')
 def home():
-    return 'Hello, World!'
+    return render_template('template.html')
 
 
 @app.route('/test')
@@ -224,6 +226,7 @@ def movie_search():
     output = {'movies': clean_results(movies), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output, which_cache=MOVIES_CACHE)
     return output
+
 
 if __name__ == '__main__':
     app.run(debug=False, port=5000)
