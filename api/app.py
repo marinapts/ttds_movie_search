@@ -184,7 +184,6 @@ def query_search():
 
     output = {'movies': clean_results(query_results), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output, which_cache=QUOTES_CACHE)
-    print(query_results)
     return output
 
 @app.route('/movie_search', methods=['POST'])

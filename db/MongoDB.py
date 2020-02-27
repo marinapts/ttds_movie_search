@@ -129,7 +129,6 @@ class MongoDB(DBInterface):
                 print(f"Attempted to make advanced search with invalid year: {query_params['year']}")
         if query_params.get('actor', False):
             and_list.append({"cast.actor": query_params['actor'].title()})
-            print(and_list)
         if query_params.get('categories', False):
             try:
                 categories = re.split(',', query_params['categories'].title())
