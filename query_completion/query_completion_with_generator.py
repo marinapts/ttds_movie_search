@@ -20,6 +20,7 @@ import nltk
 import string
 
 text_file = io.open('test.txt', 'r', encoding='utf-8')
+tokenizer = load(open('tokenizer_Model','rb'))
 stop_words = set(stopwords.words('english'))
 tweetTokenizer = TweetTokenizer()
 
@@ -43,7 +44,7 @@ def get_sentence():
     line = text_file.readline().lower()
     #    print(line)
     if line == '':  # end of file reached. Start reading from the beginning again.
-        text_file = io.open('sentences.txt', 'r',
+        text_file = io.open('test.txt', 'r',
                             encoding='utf-8')  # perhaps run a command to shuffle the sentences file before opening it.
         line = text_file.readline()
     return line
@@ -183,14 +184,14 @@ def create_model(vocabulary_size, seq_len):
 model = create_model(vocabulary_size + 1, seq_len)
 
 # Saving the model
-path = os.path.join('checkpoints', 'word_pred_Model0.h5')
+path = os.path.join('checkpoints', 'word_pred_Model1.h5')
 
 # Saving the checkpoints
 checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
 
 # Fitting the model
-model.fit_generator(data_generator, steps_per_epoch=vocabulary_size // batch_size, epochs=num_epochs,
+model.fit_generator(data_generator(), steps_per_epoch=vocabulary_size // batch_size, epochs=num_epochs,
                     shuffle=True, verbose=1, callbacks=[checkpoint])
 
-# Saving the tokenizer model
-dump(tokenizer, open('tokenizer_Model0', 'wb'))
+## Saving the tokenizer model
+#dump(tokenizer, open('tokenizer_Model0', 'wb'))
