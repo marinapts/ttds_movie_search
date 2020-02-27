@@ -224,6 +224,9 @@
           "full_quote": {
             "type": "string"
           },
+          "character": {
+            "type": "string"
+          },
           "title": {
             "type": "string"
           },

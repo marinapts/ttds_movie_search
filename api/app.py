@@ -89,7 +89,7 @@ def filtering_keywords(query_results, filter_keywords):
     return with_keywords
 
 def clean_results(query_results):  # return only the fields we use for display on the webpage
-    props = {'_id', 'movie_id', 'quote_id', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
+    props = {'_id', 'movie_id', 'quote_id', 'character', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
     query_results = [{k: v for k, v in result.items() if k in props} for result in query_results]
     return query_results
 
