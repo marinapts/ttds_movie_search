@@ -31,13 +31,13 @@ export default class App extends Component {
       showCards: false,
       showExamples: true,
       showErrorMsg: false,
-      loading: true
+      loading: false,
+      queryTime: 0
     }
   }
 
   performSearch = (data, isMovieSearch) => {
     const { query, movieTitle, actor, year, keywords } = data
-    console.log(isMovieSearch ? 'MOVIE SEARCH ': 'QUOTE SEARCH ')
 
     this.setState({ loading: true }, async () => {
       try {
@@ -48,6 +48,7 @@ export default class App extends Component {
         this.setState({
           movies: response.data.movies,
           genres: response.data.category_list,
+          queryTime: response.data.query_time,
           showCards: true,
           showExamples: false,
           loading: false
@@ -65,7 +66,7 @@ export default class App extends Component {
   }
 
   render() {
-    const { showCards, movies, genres, showExamples, showErrorMsg, loading } = this.state
+    const { showCards, movies, genres, showExamples, showErrorMsg, loading, queryTime } = this.state
 
     return (
       <ThemeProvider theme={darkTheme}>
@@ -78,18 +79,16 @@ export default class App extends Component {
               showErrorMsg={showErrorMsg}
             />
           </div>
-          {showCards &&
-            <Fragment>
-              {loading ?
-                <Fragment>
-                  {Array.apply(null, { length: 2 }).map((e, i) => (
-                    <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
-                  ))}
-                </Fragment>
-                : <MoviesContainer data={movies} genres={genres} />
-              }
-            </Fragment>
-          }
+          <Fragment>
+            {loading ?
+              <Fragment>
+                {Array.apply(null, { length: 3 }).map((e, i) => (
+                  <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
+                ))}
+              </Fragment>
+              : showCards && <MoviesContainer data={movies} genres={genres} queryTime={queryTime} />
+            }
+          </Fragment>
         </Container>
       </ThemeProvider>
     )
