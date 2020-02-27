@@ -38,9 +38,17 @@ class MongoDB(DBInterface):
         quote_list = list(self.sentences.find({"movie_id": movie_id}))
         return quote_list
 
+    def get_movie_by_id(self, id):
+        return self.movies.find_one({'_id': id})
+
     def get_movies_by_list_of_ids(self, ids: List[str]):
         # Given a list of movie ids, return a list of movie dictionaries, sorted in the same order that the ids are provided.
-        movie_list = list(self.movies.find({"_id": {"$in": ids}}))
+        movie_list = list(self.movies.find({"_id": {"$in": ids}}, {  # return only fields that are displayed in the list.
+            '_id': 1,
+            'title': 1,
+            'categories': 1,
+            'thumbnail': 1
+        }))  # full movie information can be retrieved via get_movie_by_id()
         # Sort results from mongodb by the ids list, since the order is not maintained
         movie_id_to_movie = {d['_id']: d for d in movie_list}
         sorted_movie_list = [movie_id_to_movie[id] for id in ids]

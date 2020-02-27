@@ -20,6 +20,11 @@ class DBInterface(ABC):
         raise NotImplementedError()
 
     @abstractmethod
+    def get_movie_by_id(self, id: str):
+        # Given a movie iMDB ID, returns a movie dictionary or None if doesn't exist
+        raise NotImplementedError()
+
+    @abstractmethod
     def get_movies_by_list_of_ids(self, ids: List[str]):
         # Given a list of movie ids, return a list of movie dictionaries
         raise NotImplementedError()

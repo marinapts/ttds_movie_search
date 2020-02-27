@@ -4,14 +4,30 @@ import { Card, CardMedia, CardContent, CardActionArea, Typography } from '@mater
 
 import './movieCard.scss'
 
+const QUOTE_LIMIT = 200
+
 export default class MovieCard extends React.Component {
   viewDetails = () => {
-    this.props.viewDetails(this.props.quote_id)
+    this.props.viewDetails(this.props.movie_id)
+  }
+
+  convertMsToTime = time_ms => {
+    let milliseconds = parseInt((time_ms % 1000) / 100)
+    let seconds = Math.floor((time_ms / 1000) % 60)
+    let minutes = Math.floor((time_ms / (1000 * 60)) % 60)
+    let hours = Math.floor((time_ms / (1000 * 60 * 60)) % 24)
+
+    hours = (hours < 10) ? '0' + hours : hours
+    minutes = (minutes < 10) ? '0' + minutes : minutes
+    seconds = (seconds < 10) ? '0' + seconds : seconds
+
+    return `${hours}:${minutes}:${seconds}`
   }
 
   render() {
-    const { full_quote, title, character_name, categories, plotKeywords } = this.props
-    const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
+    let { full_quote, title, character_name, categories, time_ms, plotKeywords } = this.props
+    // const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
+    const truncatedQuote = full_quote && full_quote.length > QUOTE_LIMIT ? `${full_quote.substr(0, QUOTE_LIMIT)}...` : full_quote
 
     return (
       <div>
@@ -23,11 +39,12 @@ export default class MovieCard extends React.Component {
           <CardActionArea onClick={this.viewDetails}>
             <div className="card-content">
               <CardContent>
-                <Typography variant="h5">{full_quote}</Typography>
+                <Typography variant="h5">{truncatedQuote}</Typography>
                 <Typography variant="h6">{title}</Typography>
                 <br/>
                 <Typography variant="body2">Character: {character_name}</Typography>
                 <Typography variant="body2">Category: {categories.join(', ')}</Typography>
+                <Typography variant="body2">Quote was said at {this.convertMsToTime(time_ms)}</Typography>
               </CardContent>
             </div>
           </CardActionArea>

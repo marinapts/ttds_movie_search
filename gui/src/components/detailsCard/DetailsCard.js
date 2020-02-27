@@ -13,7 +13,7 @@ export default class DetailsCard extends Component {
   }
 
   componentDidUpdate(prevProps) {
-    if (prevProps.details.movie_id !== this.props.details.movie_id) {
+    if (prevProps.details._id !== this.props.details._id) {
       this.setState({ moreCastVisible: false })
     }
   }
@@ -24,28 +24,36 @@ export default class DetailsCard extends Component {
   }
 
   render() {
-    const { details } = this.props
+    const { details, errorMovieInfoMsg } = this.props
     const { moreCastVisible } = this.state
-    const castSlice = details.cast.length > 10 ? 10 : details.cast.length
+
+    let castSlice = 0
+    if (details.cast) {
+      castSlice = details.cast.length > 10 ? 10 : details.cast.length
+    }
 
     return(
       <div {...this.props} className="details-card">
         <Card raised className="card-container">
           <CardContent>
             <div className="card-content">
-              {details &&
+              {errorMovieInfoMsg.length ?
+                <CardContent>
+                  <Typography variant="h6" color="secondary">{errorMovieInfoMsg}</Typography>
+                </CardContent>
+              : details &&
                 <CardContent>
                   <Typography variant="h5">{details.title}</Typography>
                   <Typography variant="body1">{details.description}</Typography>
                   <Typography variant="body1"><b>Year:</b> {details.year}</Typography>
                   <Typography variant="body1" gutterBottom><b>Rating:</b> {details.rating}</Typography>
-                  {details.cast.length > 0 && <Typography variant="h5">Cast</Typography>}
+                  {castSlice > 0 && details.cast.length > 0 && <Typography variant="h5">Cast</Typography>}
 
-                  {details.cast.slice(0, castSlice).map((item) =>
+                  {castSlice > 0 && details.cast.slice(0, castSlice).map((item) =>
                     <Typography key={item.actor} variant="body1">{item.actor} as <i>{item.character}</i></Typography>
                   )}
 
-                  {details.cast.length > 10 &&
+                  {castSlice > 0 && details.cast.length > 10 &&
                     <Fragment>
                       {!moreCastVisible && <Link onClick={this.showMoreCast}><Typography>Show more...</Typography></Link>}
                       {moreCastVisible && details.cast.slice(10, -1).map((item) =>
@@ -56,7 +64,7 @@ export default class DetailsCard extends Component {
                   }
                   <br/>
                   <Typography variant="body1" gutterBottom></Typography>
-                  <Button target="_blank" variant="contained" color="primary" href={`https://www.imdb.com/title/${details.movie_id}`}>View in IMDB</Button>
+                  <Button target="_blank" variant="contained" color="primary" href={`https://www.imdb.com/title/${details._id}`}>View in IMDB</Button>
                 </CardContent>
               }
             </div>
@@ -68,5 +76,6 @@ export default class DetailsCard extends Component {
 }
 
 DetailsCard.propTypes = {
-  details: PropTypes.object.isRequired
+  details: PropTypes.object.isRequired,
+  errorMovieInfoMsg: PropTypes.object.isRequired
 }
