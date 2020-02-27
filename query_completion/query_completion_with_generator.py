@@ -28,7 +28,7 @@ tweetTokenizer = TweetTokenizer()
 seq_len = 1  # 1 for bigrams, 2 for trigrams, and so on
 train_len = seq_len + 1
 batch_size = 5
-num_epochs = 50
+num_epochs = 500
 # Number of generated sentences at a time
 num_sentences = 100
 
@@ -98,20 +98,28 @@ def data_generator():
                 train_targets = []
                 for seq in tokenizer.texts_to_sequences_generator(bigrams):
                     # Splitting the sequences into inputs and target
-                    train_input = np.array(seq[:-1])
+#                    print(seq)
+                    train_input = seq[:-1]
+#                    print(train_input)
                     train_target = seq[-1]
+#                    print(train_target)
                     train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
                     train_inputs.append(train_input)
+#                    print((train_inputs))
                     train_targets.append(train_target)
+#                    print(type(train_targets))
                 bigrams.clear()
-                yield train_inputs, train_targets
+#                print(type(
+                x = np.array(train_inputs)
+                y = np.array(train_targets)
+                yield x, y
 
 
 
 
 
 #for x, y in data_generator():
-#    print (x,y)
+#    print ('1')
 # train_inputs, train_targets, vocabulary_size, tokenizer = data_generator(text_file, batch_size)
 # print(train_targets)
 
@@ -184,8 +192,7 @@ path = os.path.join('checkpoints', 'word_pred_Model1.h5')
 checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
 
 # Fitting the model
-model.fit_generator(data_generator(), steps_per_epoch = vocabulary_size // batch_size, epochs=num_epochs,
-                    shuffle=True, verbose=1, callbacks=[checkpoint])
+model.fit_generator(data_generator(), steps_per_epoch = vocabulary_size // batch_size, epochs=num_epochs, shuffle=True, verbose=1, callbacks=[checkpoint])
 
 ## Saving the tokenizer model
 #dump(tokenizer, open('tokenizer_Model0', 'wb'))

@@ -6,13 +6,13 @@ import os
 
 #This model just predict one word only
 
-model_path = os.path.join('checkpoints', 'word_pred_Model2.h5')
+model_path = os.path.join('checkpoints', 'word_pred_Model1.h5')
 model = load_model(model_path)
-tokenizer = load(open('tokenizer_Model2','rb'))
+tokenizer = load(open('tokenizer_Model','rb'))
 
-seq_len = 2
+seq_len = 1
 num_gen_words = 1
- 
+
 def gen_text(model, tokenizer, seq_len, seed_text, num_gen_words):
     output_text = []
     input_text = seed_text
@@ -20,7 +20,7 @@ def gen_text(model, tokenizer, seq_len, seed_text, num_gen_words):
         encoded_text = tokenizer.texts_to_sequences([input_text])[0]
         pad_encoded = pad_sequences([encoded_text], maxlen=seq_len,truncating='pre')
         pred_word_ind = model.predict_classes(pad_encoded,verbose=0)[0]
-        
+
         pred_word = tokenizer.index_word[pred_word_ind]
         input_text += ' '+pred_word
         output_text.append(pred_word)
