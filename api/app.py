@@ -213,8 +213,7 @@ def movie_search():
     movies = db.get_movies_by_list_of_ids(movie_id_results)
     for dic_movie in movies:
         if dic_movie is not None:
-            if '_id' in dic_movie:
-                dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
+            dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
 
     #Create sorted list of all returned categories
     category_list = find_categories(movies)
