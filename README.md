@@ -40,7 +40,13 @@ python -m unittest discover -p test*.py
 ```
 
 ## Deploying on DigitalOcean
-Install Miniconda3 on DigitalOcean, create and activate an environment called `ttds-prod`. Install production requirements: `pip install -r requirements-prod.txt`. Note, uWSGI may fail to install. In that case, install it via conda:
+Install Miniconda3 on DigitalOcean, create and activate an environment called `ttds-prod` (Python 3.6):
+```bash
+conda create -n ttds-prod python=3.6
+conda activate ttds-prod
+```
+
+Install production requirements: `pip install -r requirements-prod.txt`. Note, uWSGI may fail to install. In that case, install it via conda:
 ```bash
 conda install -c conda-forge uwsgi
 ```
