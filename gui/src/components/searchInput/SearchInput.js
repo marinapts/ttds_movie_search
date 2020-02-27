@@ -161,11 +161,11 @@ export default class SearchInput extends Component {
           <Typography variant="h6" color="primary" className="examples">
             <span>
               Try <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
-                Carpe Diem
+                May the force be with you
               </Link>
             </span>
             <span> or <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
-                Following's not really my style
+                Carpe Diem
               </Link>
             </span>
           </Typography>

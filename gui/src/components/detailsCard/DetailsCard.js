@@ -45,7 +45,7 @@ export default class DetailsCard extends Component {
                 <CardContent>
                   <Typography variant="h5">{details.title}</Typography>
                   <Typography variant="body1">{details.description}</Typography>
-                  <Typography variant="body1"><b>Year:</b> {details.year}</Typography>
+                  {details.year && <Typography variant="body1"><b>Year:</b> {details.year}</Typography>}
                   <Typography variant="body1" gutterBottom><b>Rating:</b> {details.rating}</Typography>
                   {castSlice > 0 && details.cast.length > 0 && <Typography variant="h5">Cast</Typography>}
 
