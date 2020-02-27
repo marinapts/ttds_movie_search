@@ -67,7 +67,7 @@ def text_generator():
 
 # Keras Tokenizer, which encodes words into numbers
 tokenizer = Tokenizer()
-tokenizer.fit_on_text(text_generator)
+tokenizer.fit_on_text(text_generator())
 
 print(tokenizer)
 
