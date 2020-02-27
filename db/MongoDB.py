@@ -120,7 +120,7 @@ class MongoDB(DBInterface):
     def get_movie_ids_advanced_search(self, query_params: dict):
         and_list = []
         if query_params.get('movie_title', False):
-            and_list.append({"title": query_params['movie_title']})
+            and_list.append({"title": query_params['movie_title'].title()})
         if query_params.get('year', False):
             try:  # this may crash, so careful
                 year = re.split('-', query_params['year'])
@@ -128,10 +128,11 @@ class MongoDB(DBInterface):
             except:
                 print(f"Attempted to make advanced search with invalid year: {query_params['year']}")
         if query_params.get('actor', False):
-            and_list.append({"cast.actor": query_params['actor']})
+            and_list.append({"cast.actor": query_params['actor'].title()})
+            print(and_list)
         if query_params.get('categories', False):
             try:
-                categories = re.split(',', query_params['categories'])
+                categories = re.split(',', query_params['categories'].title())
                 and_list.append({'categories': {'$in': categories}})
             except:
                 print(f"Attempted to make advanced search with invalid categories: {query_params['categories']}")
