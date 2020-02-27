@@ -56,7 +56,7 @@ export default class SearchInput extends Component {
   toggleMovieSearch = (e) => {
     const { query, movieTitle, actor, year, keywords } = this.state
     const movieSearchEnabled = e.target.checked
-    console.log(movieSearchEnabled)
+
     this.setState({ movieSearchEnabled }, () => {
       if (query.length) {
         const advancedSearchParams = { movieTitle, actor, year, keywords }

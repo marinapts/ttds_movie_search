@@ -4,14 +4,17 @@ import { Card, CardMedia, CardContent, CardActionArea, Typography } from '@mater
 
 import './movieCard.scss'
 
+const QUOTE_LIMIT = 200
+
 export default class MovieCard extends React.Component {
   viewDetails = () => {
     this.props.viewDetails(this.props.movie_id)
   }
 
   render() {
-    const { full_quote, title, character_name, categories, plotKeywords } = this.props
+    let { full_quote, title, character_name, categories, plotKeywords } = this.props
     // const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
+    const truncatedQuote = full_quote.length > QUOTE_LIMIT ? `${full_quote.substr(0, QUOTE_LIMIT)}...` : full_quote
 
     return (
       <div>
@@ -23,7 +26,7 @@ export default class MovieCard extends React.Component {
           <CardActionArea onClick={this.viewDetails}>
             <div className="card-content">
               <CardContent>
-                <Typography variant="h5">{full_quote}</Typography>
+                <Typography variant="h5">{truncatedQuote}</Typography>
                 <Typography variant="h6">{title}</Typography>
                 <br/>
                 <Typography variant="body2">Character: {character_name}</Typography>
