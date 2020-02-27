@@ -100,7 +100,7 @@ def data_generator():
             train_input = seq[:-1]
             train_target = seq[-1]
             train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
-            yield train_input, train_target
+            yield np.array(train_input), np.array(train_target)
 
 
 
@@ -178,7 +178,7 @@ path = os.path.join('checkpoints', 'word_pred_Model1.h5')
 checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
 
 # Fitting the model
-model.fit_generator(data_generator(), steps_per_epoch =vocabulary_size // batch_size, epochs=num_epochs,
+model.fit_generator(data_generator(), steps_per_epoch = vocabulary_size // batch_size, epochs=num_epochs,
                     shuffle=True, verbose=1, callbacks=[checkpoint])
 
 ## Saving the tokenizer model
