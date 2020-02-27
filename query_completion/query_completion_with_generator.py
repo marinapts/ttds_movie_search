@@ -85,41 +85,24 @@ def data_generator():
     total_times = 0
     while True:  # while total_times < 100000: I don't know how many times this loop should happen. Try and see. Hopefully it can be run forever
         total_times += 1
-        text_sequences = []
-        sequences = {}
-        count, count_lines = 1, 0
-        text = ''
+        bigrams = []  # or tri-grams or whatever, but in this case it will be a list of lists of 2 strings
         # keep looping until we reach our batch size
-        text = get_sentences(batch_size)
-        count_lines += batch_size
+        text = get_sentence()
         tokens = tokenize(text)
 
         for i in range(train_len, len(tokens)+1):
             seq = tokens[i - train_len:i]
-            text_sequences.append(seq)
-
-        for i in range(len(tokens)):
-            if tokens[i] not in sequences:
-                sequences[tokens[i]] = count
-                count += 1
+            bigrams.append(seq)
 
         # Keras Tokenizer, which encodes words into numbers
-        sequences = tokenizer.texts_to_sequences(text_sequences)
-
-        n_sequences = np.empty([len(sequences), train_len], dtype='int32')
-        for i in range(len(sequences)):
-            n_sequences[i] = sequences[i]
-
-        # yield the batch to the calling function
-        for seq in n_sequences:
+        for seq in tokenizer.texts_to_sequences_generator(bigrams):
             # Splitting the sequences into inputs and target
             train_input = seq[:-1]
             train_target = seq[-1]
             train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
-#            print(train_input)
-#            print(train_target)
-
             yield train_input, train_target
+
+
 
 for x, y in data_generator():
     print (x,y)
