@@ -26,8 +26,9 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 db = get_db_instance()
-cache = ResultsCache.instance()  # Usage: cache.get(query_params), cache.store(query_params, output)
-
+cache = ResultsCache.instance()  # Usage: cache.get(params, which_cache), cache.store(params, output, which_cache)
+QUOTES_CACHE = 'quotes'
+MOVIES_CACHE = 'movies'
 
 @app.route('/')
 def home():
@@ -137,7 +138,7 @@ def query_search():
     """
     number_results = 100
     t0 = time.time()
-    output = cache.get(request.get_json())
+    output = cache.get(request.get_json(), which_cache=QUOTES_CACHE)
     if output:
         output['query_time'] = time.time() - t0
         return output
@@ -173,7 +174,7 @@ def query_search():
     print(f"Query took {t1-t0} s to process")
 
     output = {'movies': query_results, 'category_list': category_list, 'query_time': t1-t0}
-    cache.store(request.get_json(), output)
+    cache.store(request.get_json(), output, which_cache=QUOTES_CACHE)
     return output
 
 @app.route('/movie_search', methods=['POST'])
@@ -187,7 +188,7 @@ def movie_search():
     """
     number_results = 100
     t0 = time.time()
-    output = cache.get(request.get_json())
+    output = cache.get(request.get_json(), which_cache=MOVIES_CACHE)
     if output:
         output['query_time'] = time.time() - t0
         return output
@@ -209,7 +210,7 @@ def movie_search():
     print(f"Query took {t1-t0} s to process")
 
     output = {'movies': movies, 'category_list': category_list, 'query_time': t1-t0}
-    cache.store(request.get_json(), output)
+    cache.store(request.get_json(), output, which_cache=MOVIES_CACHE)
     return output
 
 if __name__ == '__main__':

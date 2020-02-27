@@ -6,7 +6,7 @@ class TestCache(unittest.TestCase):
     def setUp(self) -> None:
         # Clear the cache
         c = ResultsCache.instance()
-        c.cache.clear()
+        c.clear_all()
 
     def test_cache_singleton(self):
         a = ResultsCache.instance()
@@ -38,6 +38,22 @@ class TestCache(unittest.TestCase):
         c.store({'query': 'world'}, {'movies': [3, 4]})
         missing_output = c.get({'query': 'hello'})
         self.assertFalse(missing_output, 'If no hit, cache.get(key) should return False')
+
+    def test_multi_cache(self):
+        c = ResultsCache.instance()
+        c1 = 'Name One'
+        c2 = 'Name Two'
+        params1 = {'query': 'hello'}
+        params2 = {'query': 'world'}
+        output1 = {'movies': [1, 2]}
+        output2 = {'movies': [3, 4]}
+        c.store(params1, output1, c1)
+        c.store(params2, output2, c2)
+        self.assertFalse(c.get(params1, c2), 'Params 1 should not be in Cache 2')
+        self.assertFalse(c.get(params2, c1), 'Params 2 should not be in Cache 1')
+        self.assertEqual(c.get(params1, c1), output1)
+        self.assertEqual(c.get(params2, c2), output2)
+
 
 if __name__ == '__main__':
     unittest.main()
