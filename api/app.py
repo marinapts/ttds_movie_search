@@ -79,12 +79,21 @@ def filtering_keywords(query_results, filter_keywords):
     without_keywords = []
     filter_keywords = re.split(',', filter_keywords)
     for query_result in query_results:
-        if any(i in filter_keywords for i in query_result['plotKeywords']):
+        plot_keywords = query_result.pop('plotKeywords', [])  # final results should not have 'plotKeywords' - they take space
+        if any(k in filter_keywords for k in plot_keywords):
             with_keywords.append(query_result)
         else:
             without_keywords.append(query_result)
     with_keywords.extend(without_keywords)
     return with_keywords
+
+def clean_results(query_results):  # return only the fields we use for display on the webpage
+    props = {'_id', 'movie_id', 'quote_id', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
+    for result in query_results:
+        for key in result.keys():
+            if key not in props:
+                result.pop(key, False)
+    return query_results
 
 def filtering_title(query_results, filter_title):
     title_match = []
@@ -175,10 +184,9 @@ def query_search():
     if len(query_params['keywords']) > 0:
         query_results = filtering_keywords(query_results, query_params['keywords'])
 
-    output = {'movies': query_results, 'category_list': category_list, 'query_time': t1-t0}
+    output = {'movies': clean_results(query_results), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output)
     return output
->>>>>>> master
 
 @app.route('/movie_search', methods=['POST'])
 def movie_search():
@@ -214,9 +222,9 @@ def movie_search():
     print(f"Query took {t1-t0} s to process")
 
     if len(query_params['keywords']) > 0:
-        query_results = filtering_keywords(query_results, query_params['keywords'])
+        movies = filtering_keywords(movies, query_params['keywords'])
 
-    output = {'movies': movies, 'category_list': category_list, 'query_time': t1-t0}
+    output = {'movies': clean_results(movies), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output)
     return output
 
