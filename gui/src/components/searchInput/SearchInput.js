@@ -1,8 +1,10 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { Grid, FormControlLabel, Switch, TextField, Button, Link, Typography, Checkbox } from '@material-ui/core'
+import Autocomplete from '@material-ui/lab/Autocomplete'
 
 import AdvancedSearch from '../advancedSearch/AdvancedSearch'
+import API from '../../utils/API'
 
 import './searchInput.scss'
 
@@ -20,7 +22,8 @@ export default class SearchInput extends Component {
       keywords: '',
       enableAdvancedSearch: false,
       movieSearchEnabled: false,
-      invalidMessage: ''
+      invalidMessage: '',
+      suggestions: []
     }
   }
 
@@ -29,7 +32,21 @@ export default class SearchInput extends Component {
   }
 
   onSearchChange = e => {
-    this.setState({ query: e.target.value })
+    const query = e.target.value
+
+    this.setState({ query }, async () => {
+      if (query.length && /(\w+)\s$/.test(query)) {
+        this.querySuggestion(query)
+      } else if (!query.length) {
+        this.setState({ suggestions: [] })
+      }
+    })
+  }
+
+  querySuggestion = async query => {
+    const response = await API.get(`/query_suggest?query=${query}`)
+    console.log('response', response)
+    this.setState({ suggestions: response.data.results })
   }
 
   setSearchInput = (event) => {
@@ -96,24 +113,47 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    const { enableAdvancedSearch, movieTitle, actor, year, keywords, movieSearchEnabled, invalidMessage } = this.state
+    const { enableAdvancedSearch, movieTitle, actor, year, keywords, movieSearchEnabled, invalidMessage, suggestions } = this.state
     const { showErrorMsg, showExamples } = this.props
     const advancedSearchData = { movieTitle, actor, year, keywords }
+    console.log(suggestions)
 
     return (
       <Grid item xs={12}>
         <form noValidate autoComplete="off" onSubmit={this.selectSearch}>
           <div className="search-form">
             <div className="search-input">
-              <TextField
+              <Autocomplete
                 id="outlined-basic"
-                label="Search for a movie quote..."
-                variant="outlined"
-                fullWidth
-                onChange={this.onSearchChange}
-                value = {this.state.query}
+                getOptionLabel={option => (typeof option === 'string' ? option : option.description)}
+                options={suggestions}
+                autoComplete
+                includeInputInList
+                disableOpenOnFocus
+                debug
+                disableListWrap
+                freeSolo
+                className="suggestions"
+                renderInput={params => {
+                  return(
+                  <TextField
+                    {...params}
+                    label={movieSearchEnabled ? 'Search for keywords in a movie...' : 'Search for a movie quote...'}
+                    variant="outlined"
+                    fullWidth
+                    onChange={this.onSearchChange}
+                  />
+                )}}
+                renderOption={option => {
+                  console.log(option)
+
+                  return (
+                    <div>{option}</div>
+                  );
+                }}
               />
             </div>
+
             <Button
               className="search-button"
               variant="outlined"
