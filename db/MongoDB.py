@@ -47,7 +47,8 @@ class MongoDB(DBInterface):
             '_id': 1,
             'title': 1,
             'categories': 1,
-            'thumbnail': 1
+            'thumbnail': 1,
+            'plotKeywords': 1  # this will have to be cleaned later before returning the results
         }))  # full movie information can be retrieved via get_movie_by_id()
         # Sort results from mongodb by the ids list, since the order is not maintained
         movie_id_to_movie = {d['_id']: d for d in movie_list}
