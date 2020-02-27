@@ -6,11 +6,11 @@ import os
 
 #This model just predict one word only
 
-model_path = os.path.join('checkpoints', 'word_pred_Model2.h5')
+model_path = os.path.join('checkpoints', 'word_pred_Model44.h5')
 model = load_model(model_path)
-tokenizer = load(open('tokenizer_Model2','rb'))
+tokenizer = load(open('tokenizer_Model44','rb'))
 
-seq_len = 2
+seq_len = 1
 num_gen_words = 1
  
 def gen_text(model, tokenizer, seq_len, seed_text, num_gen_words):
