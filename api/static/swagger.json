@@ -69,21 +69,37 @@
         }
       }
     },
+<<<<<<< HEAD
     "/movie/{movie_id}": {
+=======
+    "/query_suggest": {
+>>>>>>> 5595473cb902041b01eb038debb9292a35551faa
       "get": {
         "tags": [
           "Movies"
         ],
+<<<<<<< HEAD
         "summary": "Endpoint for getting a movie by iMDB ID",
         "description": "A query will return full movie information (JSON) by iMDB ID if such movie exists. Otherwise it will return an HTTP 404 response with an empty JSON object.",
         "parameters": [{
           "in": "path",
           "name": "movie_id",
+=======
+        "summary": "Endpoint for suggesting next words for a query",
+        "description": "A query accepts one parameter: a query a user has entered so far. The response will contain a list of up to 3 suggestions. The dropdown should only appear if the list has at least one suggestion.",
+        "parameters": [{
+          "in": "query",
+          "name": "query",
+>>>>>>> 5595473cb902041b01eb038debb9292a35551faa
           "schema": {
             "type": "string"
           },
           "required": true,
+<<<<<<< HEAD
           "description": "iMDB ID, e.g. 'tt1234567'"
+=======
+          "description": "User query completed so far, for example: 'I am'"
+>>>>>>> 5595473cb902041b01eb038debb9292a35551faa
         }],
         "responses": {
           "200": {
@@ -91,6 +107,7 @@
             "content": {
               "application/json": {
                 "schema": {
+<<<<<<< HEAD
                   "$ref": "#/components/schemas/movie"
                 }
               }
@@ -105,6 +122,9 @@
                   "properties": {
 
                   }
+=======
+                  "$ref": "#/components/schemas/query_suggest_response"
+>>>>>>> 5595473cb902041b01eb038debb9292a35551faa
                 }
               }
             }
@@ -283,6 +303,17 @@
           "query_time": {
             "type": "number",
             "format": "float"
+          }
+        }
+      },
+      "query_suggest_response": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           }
         }
       },
