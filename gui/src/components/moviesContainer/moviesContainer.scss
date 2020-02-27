@@ -1,3 +1,13 @@
+@import '../../variables.scss';
+
 .movies-container {
   margin-top: 20px;
+
+  .query-results {
+    color: white;
+  }
+
+  .MuiFlatPageButton-rootCurrent {
+    color: white;
+  }
 }
