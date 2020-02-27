@@ -49,8 +49,8 @@ class SubtitleParser:
         it loads the old index file. Otherwise, It iterates all srt files, parses and saves them into db.
     """
     for element, quote_path in self.__iterate_files():
-        if (element.endswith('.srt')):
-          self.__index_single_file(element, quote_path)
+      if (element.endswith('.srt')):
+        self.__index_single_file(element, quote_path)
 
   def __index_single_file(self, file_path, quote_path):
     """ It indexes only one file. It is called for each file in build_index function.
@@ -59,7 +59,6 @@ class SubtitleParser:
         file_path {string} -- the srt file path.
     """
     file_name = os.path.splitext(os.path.basename(file_path))[0]
-
     with codecs.open(file_path, mode="r", encoding="utf-8-sig", errors='ignore') as f:
       lines = f.readlines()
 
@@ -167,7 +166,7 @@ class SubtitleParser:
             dquote = False
     return lines
 
-sp = SubtitleParser("/Users/oguz/Documents/missing_sub")
+sp = SubtitleParser("/home/new_sub/subtitles")
 sp.run_parser()
 
 #pprint.pprint(ab.get_inverted_index())

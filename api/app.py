@@ -3,12 +3,12 @@ from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
 import json
-#from preprocessing_api import preprocess
 from ir_eval.ranking.main import ranked_retrieval
 from ir_eval.ranking.movie_search import ranked_movie_search
 import re
 import time
 from ir_eval.preprocessing import preprocess
+from api.utils.cache import ResultsCache
 from query_completion.model import predict_next_word
 
 app = Flask(__name__)
@@ -27,7 +27,9 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 
 db = get_db_instance()
-
+cache = ResultsCache.instance()  # Usage: cache.get(params, which_cache), cache.store(params, output, which_cache)
+QUOTES_CACHE = 'quotes'
+MOVIES_CACHE = 'movies'
 
 @app.route('/')
 def home():
@@ -79,12 +81,18 @@ def filtering_keywords(query_results, filter_keywords):
     without_keywords = []
     filter_keywords = re.split(',', filter_keywords)
     for query_result in query_results:
-        if any(i in filter_keywords for i in query_result['plotKeywords']):
+        plot_keywords = query_result.pop('plotKeywords', [])  # final results should not have 'plotKeywords' - they take space
+        if any(k in filter_keywords for k in plot_keywords):
             with_keywords.append(query_result)
         else:
             without_keywords.append(query_result)
     with_keywords.extend(without_keywords)
     return with_keywords
+
+def clean_results(query_results):  # return only the fields we use for display on the webpage
+    props = {'_id', 'movie_id', 'quote_id', 'character', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
+    query_results = [{k: v for k, v in result.items() if k in props} for result in query_results]
+    return query_results
 
 def filtering_title(query_results, filter_title):
     title_match = []
@@ -106,7 +114,7 @@ def filtering_years(query_results, filter_years):
 
 def preprocess_query_params(query_params):
     query_params['query'] = query_params.get('query', '')
-    for param in ['movie_title', 'actor', 'keywords', 'year']:
+    for param in ['movie_title', 'actor', 'keywords', 'year', 'categories']:
         query_params[param] = query_params.get(param, '')  # setting missing params to default empty strings
 
     query = query_params['query']
@@ -119,6 +127,12 @@ def preprocess_query_params(query_params):
 
     return query_params
 
+@app.route('/movie/<movie_id>')
+def find_movie_by_id(movie_id):
+    movie = db.get_movie_by_id(movie_id)
+    if movie is None:
+        return {}, 404
+    return movie
 
 @app.route('/query_search', methods=['POST'])
 def query_search():
@@ -130,15 +144,19 @@ def query_search():
             'category list', list of categories
     """
     number_results = 100
-    query_params = request.get_json()
     t0 = time.time()
-    query_params = preprocess_query_params(query_params)
-    query = query_params['query']
-    search_query = query_params.get('search_query', False)
-    if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
-        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+    output = cache.get(request.get_json(), which_cache=QUOTES_CACHE)
+    if output:
+        output['query_time'] = time.time() - t0
+        return output
 
-    query_id_results = ranked_retrieval(query_params, number_results, search_query)
+    query_params = preprocess_query_params(request.get_json().copy())
+    query = query_params['query']
+    search_phrase = query_params.get('search_phrase', False)
+    if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
+        return {'movies': [], 'category_list': [], 'query_time': time.time()-t0}
+
+    query_id_results = ranked_retrieval(query_params, number_results, search_phrase)
 
     # Get quotes, quote_ids and movie_ids for the given query
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
@@ -151,7 +169,7 @@ def query_search():
     movie_ids = ([dic['movie_id'] for dic in query_results])
     movies = db.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
-        if dic_movie is not None:
+        if dic_movie is not None and 'movie_id' not in dic_movie:  # movie_id may already be added if different quotes share the same movie!
             dic_movie['movie_id'] = dic_movie.pop('_id')
 
     #Merge Movie Details with Quotes
@@ -162,7 +180,12 @@ def query_search():
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
 
-    return json.dumps({'movies': query_results, 'category_list': category_list, 'query_time': t1-t0})
+    if len(query_params['keywords']) > 0:
+        query_results = filtering_keywords(query_results, query_params['keywords'])
+
+    output = {'movies': clean_results(query_results), 'category_list': category_list, 'query_time': t1-t0}
+    cache.store(request.get_json(), output, which_cache=QUOTES_CACHE)
+    return output
 
 @app.route('/movie_search', methods=['POST'])
 def movie_search():
@@ -174,12 +197,16 @@ def movie_search():
             'category list', list of categories
     """
     number_results = 100
-    query_params = request.get_json()
     t0 = time.time()
-    query_params = preprocess_query_params(query_params)
+    output = cache.get(request.get_json(), which_cache=MOVIES_CACHE)
+    if output:
+        output['query_time'] = time.time() - t0
+        return output
+
+    query_params = preprocess_query_params(request.get_json().copy())
     query = query_params['query']
     if query is None or len(query) == 0:  # no query or the query consists only of stop words. Abort...
-        return json.dumps({'movies': [], 'category_list': [], 'query_time': time.time()-t0})
+        return {'movies': [], 'category_list': [], 'query_time': time.time()-t0}
 
     movie_id_results = ranked_movie_search(query_params, number_results)
     movies = db.get_movies_by_list_of_ids(movie_id_results)
@@ -192,7 +219,12 @@ def movie_search():
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
 
-    return json.dumps({'movies': movies, 'category_list': category_list, 'query_time': t1-t0})
+    if len(query_params['keywords']) > 0:
+        movies = filtering_keywords(movies, query_params['keywords'])
+
+    output = {'movies': clean_results(movies), 'category_list': category_list, 'query_time': t1-t0}
+    cache.store(request.get_json(), output, which_cache=MOVIES_CACHE)
+    return output
 
 
 @app.route('/query_suggest')

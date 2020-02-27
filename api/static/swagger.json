@@ -18,24 +18,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "query": {
-                      "type": "string"
-                    },
-                    "movie_title": {
-                      "type": "string"
-                    },
-                    "actor": {
-                      "type": "string"
-                    },
-                    "keywords": {
-                      "type": "string"
-                    },
-                    "year": {
-                      "type": "string"
-                    }
-                  }
+                  "$ref": "#/components/schemas/query_params"
                 }
               }
             }
@@ -67,24 +50,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "query": {
-                      "type": "string"
-                    },
-                    "movie_title": {
-                      "type": "string"
-                    },
-                    "actor": {
-                      "type": "string"
-                    },
-                    "keywords": {
-                      "type": "string"
-                    },
-                    "year": {
-                      "type": "string"
-                    }
-                  }
+                  "$ref": "#/components/schemas/query_params"
                 }
               }
             }
@@ -96,6 +62,49 @@
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/movie_search_response"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/movie/{movie_id}": {
+      "get": {
+        "tags": [
+          "Movies"
+        ],
+        "summary": "Endpoint for getting a movie by iMDB ID",
+        "description": "A query will return full movie information (JSON) by iMDB ID if such movie exists. Otherwise it will return an HTTP 404 response with an empty JSON object.",
+        "parameters": [{
+          "in": "path",
+          "name": "movie_id",
+          "schema": {
+            "type": "string"
+          },
+          "required": true,
+          "description": "iMDB ID, e.g. 'tt1234567'"
+        }],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/movie"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Movie not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+
+                  }
                 }
               }
             }
@@ -136,6 +145,29 @@
   },
   "components": {
     "schemas": {
+      "query_params": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string"
+          },
+          "movie_title": {
+            "type": "string"
+          },
+          "categories": {
+            "type": "string"
+          },
+          "actor": {
+            "type": "string"
+          },
+          "keywords": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          }
+        }
+      },
       "movie": {
         "type": "object",
         "properties": {
@@ -183,6 +215,29 @@
           }
         }
       },
+      "movie_minimised_for_list": {
+        "type": "object",
+        "properties": {
+          "_id": {
+            "type": "string"
+          },
+          "movie_id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "categories": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "thumbnail": {
+            "type": "string"
+          }
+        }
+      },
       "movie_quote_combined": {
         "type": "object",
         "properties": {
@@ -199,23 +254,11 @@
           "full_quote": {
             "type": "string"
           },
+          "character": {
+            "type": "string"
+          },
           "title": {
             "type": "string"
-          },
-          "description": {
-            "type": "string"
-          },
-          "year": {
-            "type": "number",
-            "format": "integer"
-          },
-          "rating": {
-            "type": "number",
-            "format": "float"
-          },
-          "countOfRatings": {
-            "type": "number",
-            "format": "integer"
           },
           "categories": {
             "type": "array",
@@ -225,22 +268,13 @@
           },
           "thumbnail": {
             "type": "string"
-          },
-          "cast": {
-            "$ref": "#/components/schemas/cast_info"
-          },
-          "plotKeywords": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
           }
         }
       },
       "movies": {
         "type": "array",
         "items": {
-          "$ref": "#/components/schemas/movie"
+          "$ref": "#/components/schemas/movie_minimised_for_list"
         }
       },
       "query_search_response": {
@@ -270,7 +304,7 @@
           "movies": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/movie"
+              "$ref": "#/components/schemas/movie_minimised_for_list"
             }
           },
           "category_list": {

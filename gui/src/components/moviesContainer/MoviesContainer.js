@@ -6,7 +6,7 @@ import Pagination from 'material-ui-flat-pagination'
 import MovieCard from '../movieCard/MovieCard'
 import DetailsCard from '../detailsCard/DetailsCard'
 import GenreFilter from '../genreFilter/GenreFilter'
-
+import API from '../../utils/API'
 
 import './moviesContainer.scss'
 
@@ -18,7 +18,9 @@ export default class MoviesContainer extends React.Component {
       showDetails: false,
       quoteId: null,
       offset: 0,
-      perPage: 3
+      perPage: 10,
+      errorMovieInfoMsg: '',
+      movieInfo: {}
     }
   }
 
@@ -35,11 +37,21 @@ export default class MoviesContainer extends React.Component {
       data = data.filter(d => d.categories.includes(selectedGenre[0]))
     }
 
-    this.setState({ data, showDetails: false })
+    this.setState({ data, showDetails: false, offset: 0 })
   }
 
-  viewDetailsCard = quoteId => {
-    this.setState({ showDetails: true, quoteId })
+  viewMovieInfoCard = async movieId => {
+    let errorMovieInfoMsg = ''
+    let movieInfo = {}
+    try {
+      const response = await API.get(`/movie/${movieId}`)
+      movieInfo = response.data
+    } catch(error) {
+      errorMovieInfoMsg = 'Movie not found'
+      movieInfo = {}
+    }
+
+    this.setState({ showDetails: true, movieInfo, errorMovieInfoMsg })
   }
 
   handleClick = (offset) => {
@@ -47,8 +59,9 @@ export default class MoviesContainer extends React.Component {
   }
 
   render() {
-    const { showDetails, quoteId, data, offset, perPage } = this.state
-    const { genres } = this.props
+    const { showDetails, data, offset, perPage, movieInfo, errorMovieInfoMsg } = this.state
+    const { genres, queryTime } = this.props
+    const time = (Math.round(queryTime * 100) / 100).toFixed(3)
 
     return(
       <div>
@@ -58,29 +71,41 @@ export default class MoviesContainer extends React.Component {
           }
 
           <Grid item xs={8}>
-            <Typography variant="h6" color="primary">{`Query results: ${data.length} movies`}</Typography>
+            <Typography variant="body1" className="query-results">{`Query results: ${data.length} movies (${time} seconds)`}</Typography>
+
+            {data.length > perPage &&
+              <Pagination
+                limit={perPage}
+                offset={offset}
+                total={data.length}
+                currentPageColor="primary"
+                onClick={(e, offset) => this.handleClick(offset)}
+              />
+            }
 
             {data.slice(offset, offset + perPage).map((movie, idx) =>
-              <MovieCard key={idx} viewDetails={this.viewDetailsCard} {...movie} />
+              <MovieCard key={idx} viewDetails={this.viewMovieInfoCard} {...movie} />
             )}
+
+            {data.length > perPage &&
+              <Pagination
+                limit={perPage}
+                offset={offset}
+                total={data.length}
+                currentPageColor="primary"
+                onClick={(e, offset) => this.handleClick(offset)}
+              />
+            }
           </Grid>
 
           {showDetails &&
             <Grid item xs={4}>
               <Zoom in={showDetails} style={{ transitionDelay: showDetails ? '100ms' : '0ms' }}>
-                <DetailsCard details={data.find(d => d.quote_id === quoteId)} />
+                <DetailsCard details={movieInfo} errorMovieInfoMsg={errorMovieInfoMsg} />
               </Zoom>
             </Grid>
           }
         </Grid>
-        {data.length > 0 &&
-          <Pagination
-            limit={perPage}
-            offset={offset}
-            total={data.length}
-            onClick={(e, offset) => this.handleClick(offset)}
-          />
-        }
       </div>
     )
   }
@@ -88,5 +113,6 @@ export default class MoviesContainer extends React.Component {
 
 MoviesContainer.propTypes = {
   movies: PropTypes.array.isRequired,
-  genres: PropTypes.array.isRequired
+  genres: PropTypes.array.isRequired,
+  queryTime: PropTypes.number.isRequired
 }

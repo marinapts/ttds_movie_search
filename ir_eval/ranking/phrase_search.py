@@ -2,11 +2,19 @@ import pickle
 from db.DB import get_db_instance
 import time
 from pathlib import Path
+from collections import defaultdict
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 BATCH_SIZE = 52
-pickle_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
-movie_ratings = pickle.load(open(pickle_path, 'rb'))
+MAX_QUERY_TIME = 10  # max seconds to allow the query to run for
+MIN_RATINGS = 100
+movie_ratings = defaultdict(lambda: MIN_RATINGS)
+try:
+    ratings_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
+    movie_ratings = defaultdict(lambda: MIN_RATINGS, pickle.load(open(ratings_path, 'rb')))
+except:
+    print("No valid pickle file with movie ratings found. Weighted quote phrase search may not work properly...")
+
 db = get_db_instance()
 
 def phrase_search(query_params, number_results):
@@ -15,6 +23,24 @@ def phrase_search(query_params, number_results):
     assert len(query_params['query']) > 1, "phrase search should not be used for queries with only one term. Use BM25 instead."
     results = query_phrase_search(query_params)
     return results[:number_results]
+
+def print_cursors(cursors):
+    for i, cursor in enumerate(cursors):
+        print(f"Cursor {i+1} = {cursor_to_string(cursor)}")
+    print()
+
+def cursor_to_string(cursor):
+    if cursor['index'] is None:
+        return "Cursor End"
+    movie = cursor['index']['movies'][cursor['m']]
+    movie_id = movie['_id']
+    sentence = movie['sentences'][cursor['s']]
+    sentence_id = sentence['_id']
+    pos = sentence['pos'][cursor['p']]
+    return f"m={cursor['m']}: {movie_id}, s={cursor['s']}: {sentence_id}, p={cursor['p']}: {pos}"
+
+def cursor_to_tuple(cursor):
+    return cursor['m'], cursor['s'], cursor['p']
 
 def query_phrase_search(query_params):
     """
@@ -25,13 +51,13 @@ def query_phrase_search(query_params):
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
     filtered_movies = None
-    if len(query_params['movie_title']) > 0 or len(query_params['year']) > 0 or len(query_params['actor']) > 0:
+    if any(len(query_params.get(param, '')) > 0 for param in ['movie_title', 'year', 'actor', 'categories']):
         print('advanced search')
         filtered_movies = db.get_movie_ids_advanced_search(query_params)
 
     cursors = []
     for dist, term in enumerate(terms):
-        cursor = db.get_indexed_documents_by_term(term, 0, BATCH_SIZE)
+        cursor = db.get_indexed_documents_by_term(term, 0, BATCH_SIZE, sort_entries=True)
         index = next(cursor, None)
         cursors.append({
             'cursor': cursor,
@@ -41,13 +67,21 @@ def query_phrase_search(query_params):
             'p': 0  # position index,
         })
 
+    # print("Cursors beginning:")
+    # print_cursors(cursors)
+
     # while all(c['index'] is not None for c in cursors):  # continue until at least one cursor is fully exhausted
+    start_time = time.time()
     while True:  # continue until at least one cursor is fully exhausted
         for i in range(len(cursors) - 1):
             cur_i = cursors[i]
             cur_j = cursors[i+1]
             # catch up j with i
+            # cur_j_before = cursor_to_tuple(cur_j)
             exhausted = catchup(cur_j, cur_i)
+            # if cur_j_before != cursor_to_tuple(cur_j):
+            #     print(f"Cursor {i+1} caught up with Cursor {i}:")
+            #     print_cursors(cursors)
             if exhausted:  # cur_j has been exhausted so there's no point in trying to find any more matches, abort.
                 return order_results_by_popularity(results)
         # At this point, the term cursors should be ordered, e.g. "i" < "am" < "your" < "father".
@@ -77,12 +111,15 @@ def query_phrase_search(query_params):
         end_pos = end_sen['pos'][end_cur['p']]
         if start_mov['_id'] < end_mov['_id']:
             advance_cursor_iterator(start_cur, 'm')
-        if start_mov['_id'] == end_mov['_id'] and start_sen['_id'] < end_sen['_id']:
+        elif start_mov['_id'] == end_mov['_id'] and start_sen['_id'] < end_sen['_id']:
             advance_cursor_iterator(start_cur, 's')
-        if start_mov['_id'] == end_mov['_id'] and start_sen['_id'] == end_sen['_id'] and start_sen['pos'][start_cur['p']] < end_pos:
+        elif start_mov['_id'] == end_mov['_id'] and start_sen['_id'] == end_sen['_id'] and start_sen['pos'][start_cur['p']] < end_pos:
             advance_cursor_iterator(start_cur, 'p')
 
-        if start_cur['cursor'] is None:
+        # print("Start cursor advanced:")
+        # print_cursors(cursors)
+
+        if start_cur['cursor'] is None or time.time() - start_time > MAX_QUERY_TIME:
             return order_results_by_popularity(results)
 
 
@@ -156,14 +193,14 @@ def catchup(cur_from, cur_to):
 if __name__ == '__main__':
 
     # query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
-    query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', 'year': '', 'actor': ''}
+    query_params = {'query': ['i', 'father'], 'movie_title': '', 'year': '', 'actor': ''}
     start = time.time()
     results = query_phrase_search(query_params)
     end = time.time()
     print(f"Basic phrase search took {end-start} s")
     print(results[:10], len(results))
-    print(258464 in results)
-    # print(8777416 in results)
+    # print(258464 in results)
+    print(8777416 in results)
 
     # query_params = {'query': ['i', 'father'], 'movie_title': '', "year": "1980-1981", 'actor': ''}
     query_params = {'query': ['togeth', 'utopia'], 'movie_title': '', "year": "1933-1934", 'actor': ''}

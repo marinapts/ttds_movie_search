@@ -12,20 +12,32 @@
     width: 10%;
   }
 
-  .advanced-search-button {
+  .movie-search {
     width: 20%;
+    color: white;
   }
+}
 
+.advanced-search-button {
+  padding-bottom: 20px;
+  color: white;
 }
 
 .error-container {
   color: red;
 }
 
-h6, span {
- color: white;
+.error-message {
+  color: red;
+  padding-bottom: 10px;
 }
 
-a {
-  cursor: pointer;
+.examples {
+  h6, span {
+   color: white;
+  }
+
+  a {
+    cursor: pointer;
+  }
 }

@@ -1,17 +1,31 @@
 import json
 import pickle
-import numpy as np
 import sys
 from db.DB import get_db_instance
+from pathlib import Path
 import math
 import time
 from ir_eval.utils.score_tracker import ScoreTracker, NaiveScoreTracker
 from ir_eval.ranking.phrase_search import phrase_search
+from collections import defaultdict
+
 
 MAX_INDEX_SPLITS = 52  # maximum number of different entries in the inverted_index with the same term
 TOTAL_NUMBER_OF_SENTENCES = 77584425
+MAX_QUERY_TIME = 10  # max seconds to allow the query to run for
+MAX_TERM_TIME = 4
 batch_size = 20
 db = get_db_instance()
+
+MIN_RATINGS = 100
+movie_ratings = defaultdict(lambda: MIN_RATINGS)
+try:
+    ratings_path = Path(__file__).parent.absolute() / 'pickles' / 'movie_ratings.p'
+    movie_ratings = defaultdict(lambda: MIN_RATINGS, pickle.load(open(ratings_path, 'rb')))
+except:
+    print("No valid pickle file with movie ratings found. Weighted quote BM25 search may not work properly...")
+
+class TimeLimitTerm(Exception): pass
 
 def json_load(path):
     """ It loads and returns a json data in dictionary structure.
@@ -55,30 +69,39 @@ def ranking_query_BM25(query_params, batch_size=MAX_INDEX_SPLITS):
     terms = query_params['query']
     # Prepare advanced search if any filters are provided
     filtered_movies = None
-    if len(query_params['movie_title']) > 0 or len(query_params['year']) > 0 or len(query_params['actor']) > 0:
+    if any(len(query_params.get(param, '')) > 0 for param in ['movie_title', 'year', 'actor', 'categories']):
         print('advanced search')
         filtered_movies = db.get_movie_ids_advanced_search(query_params)
 
     #query_result_score = dict()
     doc_nums = TOTAL_NUMBER_OF_SENTENCES
+    total_start_time = time.time()
     for term in terms:
-        for i in range(0, MAX_INDEX_SPLITS, batch_size):
-            list_of_splitted = db.get_indexed_documents_by_term(term, i, batch_size)
-            # process_start = time.time()
-            for relevant_movies in list_of_splitted:
-                # print("time for processing an index entry: {} s".format(time.time() - process_start))
+        term_start_time = time.time()
+        try:
+            for i in range(0, MAX_INDEX_SPLITS, batch_size):
+                list_of_splitted = db.get_indexed_documents_by_term(term, i, batch_size)
                 # process_start = time.time()
-                doc_nums_term = relevant_movies['doc_count']
-                for m, movie in enumerate(relevant_movies['movies']):
-                    movie_id = movie['_id']
-                    if filtered_movies is None or movie_id in filtered_movies:  # advanced search if filtered_movies is initialised
-                        for s, sentence in enumerate(movie['sentences']):
-                            quote_id = int(sentence['_id'])
-                            term_freq = len(sentence['pos'])
-                            dl = sentence['len']
-                            score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=200, dl=dl, avgdl=20) if dl < 100000 else 0
-                            if score > 0:
-                                tracker.add_score(quote_id, score)
+                for relevant_movies in list_of_splitted:
+                    if time.time() - term_start_time > MAX_TERM_TIME:
+                        raise TimeLimitTerm()
+                    doc_nums_term = relevant_movies['doc_count']
+                    for m, movie in enumerate(relevant_movies['movies']):
+                        movie_id = movie['_id']
+                        if filtered_movies is None or movie_id in filtered_movies:  # advanced search if filtered_movies is initialised
+                            for s, sentence in enumerate(movie['sentences']):
+                                quote_id = int(sentence['_id'])
+                                term_freq = len(sentence['pos'])
+                                dl = sentence['len']
+                                score = score_BM25(doc_nums, doc_nums_term, term_freq, k1=1.2, b=0.75, dl=dl, avgdl=4.82) if dl < 100000 else 0
+                                if score > 0:
+                                    score += math.log10(movie_ratings[movie_id])
+                                    tracker.add_score(quote_id, score)
+                                if time.time() - total_start_time > MAX_QUERY_TIME:
+                                    return tracker
+        except TimeLimitTerm:
+            pass
+
     return tracker
 
 
@@ -99,7 +122,8 @@ if __name__ == '__main__':
     batch_size = 50
 
     start = time.time()
-    query_params = {'query': ["father"]} #, "boy", "girl"]}
+    # query_params = {'query': ["father"]} #, "boy", "girl"]}
+    query_params = {'query': ["luke", "father"], 'movie_title': '', 'year': '', 'actor': ''}
     query_params['movie_title'] = ''
     query_params['year'] = ''
     query_params['actor'] = ''
@@ -107,8 +131,11 @@ if __name__ == '__main__':
     tracker = ranking_query_BM25(query_params, batch_size)
     end = time.time()
     print(end-start)
+    print(tracker.get_top(10))
 
-    query_params = {"year": "2000-2001"}
+
+    # query_params = {"year": "2000-2001"}
+    query_params = {"year": "1980-1981", 'query': ["luke", "father"], 'movie_title': '', 'actor': ''}
     query_params['query'] = ["may"]
     query_params['movie_title'] = ''
     query_params['actor'] = ''
