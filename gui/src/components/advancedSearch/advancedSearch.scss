@@ -8,8 +8,35 @@
     justify-content: space-between;
     margin-bottom: 10px;
 
-    &.adv-search-item {
-      min-width: 100%;
+    .adv-search-item {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    .adv-search-input {
+      flex: 1 0 auto;
+      padding-right: 30px;
+    }
+
+    .adv-search-icon {
+      padding-top: 20px;
+      padding-right: 10px;
+    }
+
+    .year {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      flex: 1;
+    }
+
+    .year-input {
+      flex: 1 1 auto;
+    }
+
+    p {
+      color: white;
     }
   }
 }

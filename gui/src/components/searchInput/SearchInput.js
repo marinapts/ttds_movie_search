@@ -15,14 +15,17 @@ export default class SearchInput extends Component {
       movieTitle: '',
       actor: '',
       year: '',
+      fromYear: '',
+      toYear: '',
       keywords: '',
       enableAdvancedSearch: false,
-      movieSearchEnabled: false
+      movieSearchEnabled: false,
+      invalidMessage: ''
     }
   }
 
   componentDidMount() {
-    this.setState({ showErrorMsg: false })
+    this.setState({ showErrorMsg: false, invalidMessage: '' })
   }
 
   onSearchChange = e => {
@@ -35,7 +38,33 @@ export default class SearchInput extends Component {
 
   toggleAdvancedSearch = () => this.setState({ enableAdvancedSearch: !this.state.enableAdvancedSearch })
 
-  onAdvancedSearchChange = (field, value) => this.setState({ [field]: value })
+  onAdvancedSearchChange = (field, value) => {
+    let invalidMessage = ''
+
+    if (field === 'year') {
+      let [fromYear, toYear] = value.split('-')
+      fromYear = parseInt(fromYear)
+      toYear = parseInt(toYear)
+
+      if ((fromYear.length && isNaN(fromYear)) || (toYear.length && isNaN(toYear))) {
+        invalidMessage = 'Year should be a number in the range 1900-2020'
+      } else {
+        if (fromYear && toYear) {
+          value = `${fromYear}-${toYear}`
+          if (fromYear > toYear || fromYear < 1900 || toYear > 2020) {
+            invalidMessage = 'Invalid year range'
+          }
+        } else if (!fromYear && !toYear) {
+          value = ''
+        } else if (!fromYear && toYear) {
+          value = `1900-${toYear}`
+        } else if (fromYear && !toYear) {
+          value = `${fromYear}-2020`
+        }
+      }
+    }
+    this.setState({ [field]: value, invalidMessage })
+  }
 
   /**
    * Select between a quote search or movie search
@@ -67,7 +96,7 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    const { enableAdvancedSearch, movieTitle, actor, year, keywords, movieSearchEnabled } = this.state
+    const { enableAdvancedSearch, movieTitle, actor, year, keywords, movieSearchEnabled, invalidMessage } = this.state
     const { showErrorMsg, showExamples } = this.props
     const advancedSearchData = { movieTitle, actor, year, keywords }
 
@@ -123,6 +152,7 @@ export default class SearchInput extends Component {
             data={advancedSearchData}
             onAdvancedSearchChange={this.onAdvancedSearchChange}
           />
+          {invalidMessage.length ? <Typography variant="body1" className="error-message">{invalidMessage}</Typography> : ''}
         </form>
 
 

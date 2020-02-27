@@ -14,7 +14,7 @@ export default class MovieCard extends React.Component {
   render() {
     let { full_quote, title, character_name, categories, plotKeywords } = this.props
     // const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
-    const truncatedQuote = full_quote.length > QUOTE_LIMIT ? `${full_quote.substr(0, QUOTE_LIMIT)}...` : full_quote
+    const truncatedQuote = full_quote && full_quote.length > QUOTE_LIMIT ? `${full_quote.substr(0, QUOTE_LIMIT)}...` : full_quote
 
     return (
       <div>

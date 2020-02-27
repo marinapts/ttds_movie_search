@@ -37,7 +37,6 @@ export default class App extends Component {
 
   performSearch = (data, isMovieSearch) => {
     const { query, movieTitle, actor, year, keywords } = data
-    console.log(isMovieSearch ? 'MOVIE SEARCH ': 'QUOTE SEARCH ')
 
     this.setState({ loading: true }, async () => {
       try {
