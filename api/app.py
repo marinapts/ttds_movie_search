@@ -193,5 +193,22 @@ def movie_search():
 
     return json.dumps({'movies': movies, 'category_list': category_list, 'query_time': t1-t0})
 
+
+@app.route('/query_suggest')
+def query_suggest():
+    query = request.args.get('query', '').strip().split()
+    if len(query) == 0:  # no words in the query, return empty list of suggestions
+        return {'results': []}
+
+    word = query[-1]  # get the last word
+    # TODO: use the model to predict the next 3 words based on the `word`
+
+    return {'results': [
+        'I am',
+        'I am your',
+        'I am your father'
+    ]}
+
+
 if __name__ == '__main__':
     app.run(debug=True, port=8000)

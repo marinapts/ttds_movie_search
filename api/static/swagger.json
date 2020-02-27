@@ -102,6 +102,36 @@
           }
         }
       }
+    },
+    "/query_suggest": {
+      "get": {
+        "tags": [
+          "Movies"
+        ],
+        "summary": "Endpoint for suggesting next words for a query",
+        "description": "A query accepts one parameter: a query a user has entered so far. The response will contain a list of up to 3 suggestions. The dropdown should only appear if the list has at least one suggestion.",
+        "parameters": [{
+          "in": "query",
+          "name": "query",
+          "schema": {
+            "type": "string"
+          },
+          "required": true,
+          "description": "User query completed so far, for example: 'I am'"
+        }],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/query_suggest_response"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {
@@ -252,6 +282,17 @@
           "query_time": {
             "type": "number",
             "format": "float"
+          }
+        }
+      },
+      "query_suggest_response": {
+        "type": "object",
+        "properties": {
+          "results": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           }
         }
       },
