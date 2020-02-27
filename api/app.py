@@ -151,7 +151,8 @@ def query_search():
     movies = db.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
         if dic_movie is not None:
-            dic_movie['movie_id'] = dic_movie.pop('_id')
+            if '_id' in dic_movie:
+                dic_movie['movie_id'] = dic_movie.pop('_id')
 
     #Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
@@ -160,6 +161,9 @@ def query_search():
     category_list = find_categories(query_results)
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
+
+    if len(query_params['keywords']) > 0:
+        query_results = filtering_keywords(query_results, query_params['keywords'])
 
     return json.dumps({'movies': query_results, 'category_list': category_list, 'query_time': t1-t0})
 
@@ -184,7 +188,8 @@ def movie_search():
     movies = db.get_movies_by_list_of_ids(movie_id_results)
     for dic_movie in movies:
         if dic_movie is not None:
-            dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
+            if '_id' in dic_movie:
+                dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
 
     #Create sorted list of all returned categories
     category_list = find_categories(movies)
