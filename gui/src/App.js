@@ -31,7 +31,7 @@ export default class App extends Component {
       showCards: false,
       showExamples: true,
       showErrorMsg: false,
-      loading: true
+      loading: false
     }
   }
 
@@ -77,18 +77,16 @@ export default class App extends Component {
               showErrorMsg={showErrorMsg}
             />
           </div>
-          {showCards &&
-            <Fragment>
-              {loading ?
-                <Fragment>
-                  {Array.apply(null, { length: 2 }).map((e, i) => (
-                    <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
-                  ))}
-                </Fragment>
-                : <MoviesContainer data={movies} genres={genres} />
-              }
-            </Fragment>
-          }
+          <Fragment>
+            {loading ?
+              <Fragment>
+                {Array.apply(null, { length: 3 }).map((e, i) => (
+                  <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
+                ))}
+              </Fragment>
+              : showCards && <MoviesContainer data={movies} genres={genres} />
+            }
+          </Fragment>
         </Container>
       </ThemeProvider>
     )

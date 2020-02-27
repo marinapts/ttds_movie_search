@@ -136,6 +136,7 @@ export default class SearchInput extends Component {
 
           <FormControlLabel
             className="advanced-search-button"
+            color="primary"
             control={
               <Switch
                 checked={enableAdvancedSearch}
@@ -157,10 +158,10 @@ export default class SearchInput extends Component {
 
 
         {showExamples &&
-          <Typography variant="h6" color="primary">
+          <Typography variant="h6" color="primary" className="examples">
             <span>
               Try <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
-                I see dead people
+                Carpe Diem
               </Link>
             </span>
             <span> or <Link color="primary" underline="none" variant="inherit" onClick={this.setSearchInput}>
@@ -180,5 +181,7 @@ export default class SearchInput extends Component {
 }
 
 SearchInput.propTypes = {
-  performSearch: PropTypes.func.isRequired
+  performSearch: PropTypes.func.isRequired,
+  showExamples: PropTypes.bool.isRequired,
+  showErrorMsg: PropTypes.bool.isRequired
 }

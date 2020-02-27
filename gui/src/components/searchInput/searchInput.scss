@@ -14,11 +14,13 @@
 
   .movie-search {
     width: 20%;
+    color: white;
   }
 }
 
 .advanced-search-button {
   padding-bottom: 20px;
+  color: white;
 }
 
 .error-container {
@@ -30,10 +32,12 @@
   padding-bottom: 10px;
 }
 
-h6, span {
- color: white;
-}
+.examples {
+  h6, span {
+   color: white;
+  }
 
-a {
-  cursor: pointer;
+  a {
+    cursor: pointer;
+  }
 }

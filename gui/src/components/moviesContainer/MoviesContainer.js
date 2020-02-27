@@ -37,7 +37,7 @@ export default class MoviesContainer extends React.Component {
       data = data.filter(d => d.categories.includes(selectedGenre[0]))
     }
 
-    this.setState({ data, showDetails: false })
+    this.setState({ data, showDetails: false, offset: 0 })
   }
 
   viewMovieInfoCard = async movieId => {
@@ -70,11 +70,31 @@ export default class MoviesContainer extends React.Component {
           }
 
           <Grid item xs={8}>
-            <Typography variant="h6" color="primary">{`Query results: ${data.length} movies`}</Typography>
+            <Typography variant="body1" className="query-results">{`Query results: ${data.length} movies`}</Typography>
+
+            {data.length > perPage &&
+              <Pagination
+                limit={perPage}
+                offset={offset}
+                total={data.length}
+                currentPageColor="primary"
+                onClick={(e, offset) => this.handleClick(offset)}
+              />
+            }
 
             {data.slice(offset, offset + perPage).map((movie, idx) =>
               <MovieCard key={idx} viewDetails={this.viewMovieInfoCard} {...movie} />
             )}
+
+            {data.length > perPage &&
+              <Pagination
+                limit={perPage}
+                offset={offset}
+                total={data.length}
+                currentPageColor="primary"
+                onClick={(e, offset) => this.handleClick(offset)}
+              />
+            }
           </Grid>
 
           {showDetails &&
@@ -85,14 +105,6 @@ export default class MoviesContainer extends React.Component {
             </Grid>
           }
         </Grid>
-        {data.length > 0 &&
-          <Pagination
-            limit={perPage}
-            offset={offset}
-            total={data.length}
-            onClick={(e, offset) => this.handleClick(offset)}
-          />
-        }
       </div>
     )
   }
