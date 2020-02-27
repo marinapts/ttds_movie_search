@@ -25,7 +25,7 @@ export default class MovieCard extends React.Component {
   }
 
   render() {
-    let { full_quote, title, character_name, categories, time_ms, plotKeywords } = this.props
+    let { full_quote, title, character, categories, time_ms, plotKeywords } = this.props
     // const keywords = plotKeywords.length > 5 ? plotKeywords.slice(0, 5) : plotKeywords
     const truncatedQuote = full_quote && full_quote.length > QUOTE_LIMIT ? `${full_quote.substr(0, QUOTE_LIMIT)}...` : full_quote
 
@@ -42,7 +42,7 @@ export default class MovieCard extends React.Component {
                 <Typography variant="h5">{truncatedQuote}</Typography>
                 <Typography variant="h6">{title}</Typography>
                 <br/>
-                <Typography variant="body2">Character: {character_name}</Typography>
+                {character && <Typography variant="body2">Character: {character}</Typography>}
                 <Typography variant="body2">Category: {categories.join(', ')}</Typography>
                 <Typography variant="body2">Quote was said at {this.convertMsToTime(time_ms)}</Typography>
               </CardContent>
