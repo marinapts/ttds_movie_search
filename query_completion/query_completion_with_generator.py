@@ -80,6 +80,7 @@ def preprocess(string: str, stop=True):
 ######################### Data Generator #########################
 
 def data_generator():
+    print("hi")
     global tokenizer  # you have to load tokenizer from file at the top of this script
     total_times = 0
     while True:  # while total_times < 100000: I don't know how many times this loop should happen. Try and see. Hopefully it can be run forever
@@ -115,9 +116,13 @@ def data_generator():
             train_input = seq[:-1]
             train_target = seq[-1]
             train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
+#            print(train_input)
+#            print(train_target)
+
             yield train_input, train_target
 
-
+for x, y in data_generator():
+    print (x,y)
 # train_inputs, train_targets, vocabulary_size, tokenizer = data_generator(text_file, batch_size)
 # print(train_targets)
 
@@ -179,19 +184,19 @@ def create_model(vocabulary_size, seq_len):
 
 
 ######################### The Main Code #########################
-
-# Creating the model
-model = create_model(vocabulary_size + 1, seq_len)
-
-# Saving the model
-path = os.path.join('checkpoints', 'word_pred_Model1.h5')
-
-# Saving the checkpoints
-checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
-
-# Fitting the model
-model.fit_generator(data_generator(), steps_per_epoch=vocabulary_size // batch_size, epochs=num_epochs,
-                    shuffle=True, verbose=1, callbacks=[checkpoint])
+#
+## Creating the model
+#model = create_model(vocabulary_size + 1, seq_len)
+#
+## Saving the model
+#path = os.path.join('checkpoints', 'word_pred_Model1.h5')
+#
+## Saving the checkpoints
+#checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
+#
+## Fitting the model
+#model.fit_generator(data_generator(), steps_per_epoch=vocabulary_size // batch_size, epochs=num_epochs,
+#                    shuffle=True, verbose=1, callbacks=[checkpoint])
 
 ## Saving the tokenizer model
 #dump(tokenizer, open('tokenizer_Model0', 'wb'))
