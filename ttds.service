@@ -1,0 +1,14 @@
+[Unit]
+Description=uWSGI instance to serve TTDS Movie Search project
+After=network.target
+
+[Service]
+User=root
+Group=www-data
+WorkingDirectory=/root/ttds_movie_search/api
+Environment="PATH=/root/miniconda3/envs/ttds-prod/bin/"
+ExecStart=/root/miniconda3/envs/ttds-prod/bin/uwsgi --ini ttds.ini
+
+[Install]
+WantedBy=multi-user.target
+
