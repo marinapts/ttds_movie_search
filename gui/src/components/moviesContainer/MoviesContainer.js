@@ -60,7 +60,8 @@ export default class MoviesContainer extends React.Component {
 
   render() {
     const { showDetails, data, offset, perPage, movieInfo, errorMovieInfoMsg } = this.state
-    const { genres } = this.props
+    const { genres, queryTime } = this.props
+    const time = (Math.round(queryTime * 100) / 100).toFixed(3)
 
     return(
       <div>
@@ -70,7 +71,7 @@ export default class MoviesContainer extends React.Component {
           }
 
           <Grid item xs={8}>
-            <Typography variant="body1" className="query-results">{`Query results: ${data.length} movies`}</Typography>
+            <Typography variant="body1" className="query-results">{`Query results: ${data.length} movies (${time} seconds)`}</Typography>
 
             {data.length > perPage &&
               <Pagination
@@ -112,5 +113,6 @@ export default class MoviesContainer extends React.Component {
 
 MoviesContainer.propTypes = {
   movies: PropTypes.array.isRequired,
-  genres: PropTypes.array.isRequired
+  genres: PropTypes.array.isRequired,
+  queryTime: PropTypes.number.isRequired
 }
