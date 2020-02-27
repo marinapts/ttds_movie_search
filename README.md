@@ -52,3 +52,5 @@ sudo systemctl enable ttds
 ```
 
 To check the status, run: `sudo systemctl status ttds`. The app should now be available to access via http://DIGITAL_OCEAN_DROPLET_IP:5000 (or http://DIGITAL_OCEAN_DROPLET_IP if you have set up port 80 to redirect to 5000).
+
+Once the service is up and running, you can update the app simply by pulling a new version from git and running `./restart_on_digital_ocean.sh` from the repository root folder.
