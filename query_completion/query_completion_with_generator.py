@@ -32,7 +32,7 @@ num_epochs = 50
 # Number of generated sentences at a time
 num_sentences = 100
 
-tokenizer = Tokenizer()  # load tokenizer from file instead
+#tokenizer = Tokenizer()  # load tokenizer from file instead
 # Collecting some information
 vocabulary_size = len(tokenizer.word_counts)
 
@@ -80,8 +80,7 @@ def preprocess(string: str, stop=True):
 ######################### Data Generator #########################
 
 def data_generator():
-    print("hi")
-    global tokenizer  # you have to load tokenizer from file at the top of this script
+#    global tokenizer  # you have to load tokenizer from file at the top of this script
     total_times = 0
     while True:  # while total_times < 100000: I don't know how many times this loop should happen. Try and see. Hopefully it can be run forever
         total_times += 1
@@ -93,6 +92,7 @@ def data_generator():
         for i in range(train_len, len(tokens)+1):
             seq = tokens[i - train_len:i]
             bigrams.append(seq)
+#            print(bigrams)
 
         # Keras Tokenizer, which encodes words into numbers
         for seq in tokenizer.texts_to_sequences_generator(bigrams):
@@ -104,8 +104,8 @@ def data_generator():
 
 
 
-for x, y in data_generator():
-    print (x,y)
+#for x, y in data_generator():
+#    print (x,y)
 # train_inputs, train_targets, vocabulary_size, tokenizer = data_generator(text_file, batch_size)
 # print(train_targets)
 
@@ -167,19 +167,19 @@ def create_model(vocabulary_size, seq_len):
 
 
 ######################### The Main Code #########################
-#
-## Creating the model
-#model = create_model(vocabulary_size + 1, seq_len)
-#
-## Saving the model
-#path = os.path.join('checkpoints', 'word_pred_Model1.h5')
-#
-## Saving the checkpoints
-#checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
-#
-## Fitting the model
-#model.fit_generator(data_generator(), steps_per_epoch=vocabulary_size // batch_size, epochs=num_epochs,
-#                    shuffle=True, verbose=1, callbacks=[checkpoint])
+
+# Creating the model
+model = create_model(vocabulary_size + 1, seq_len)
+
+# Saving the model
+path = os.path.join('checkpoints', 'word_pred_Model1.h5')
+
+# Saving the checkpoints
+checkpoint = ModelCheckpoint(path, monitor='loss', verbose=1, save_best_only=True, mode='min')
+
+# Fitting the model
+model.fit_generator(data_generator(), steps_per_epoch =vocabulary_size // batch_size, epochs=num_epochs,
+                    shuffle=True, verbose=1, callbacks=[checkpoint])
 
 ## Saving the tokenizer model
 #dump(tokenizer, open('tokenizer_Model0', 'wb'))
