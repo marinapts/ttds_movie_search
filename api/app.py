@@ -213,6 +213,9 @@ def movie_search():
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
 
+    if len(query_params['keywords']) > 0:
+        query_results = filtering_keywords(query_results, query_params['keywords'])
+
     output = {'movies': movies, 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output)
     return output
