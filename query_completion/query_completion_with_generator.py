@@ -82,25 +82,31 @@ def preprocess(string: str, stop=True):
 def data_generator():
 #    global tokenizer  # you have to load tokenizer from file at the top of this script
     total_times = 0
+    bigrams = []  # or tri-grams or whatever, but in this case it will be a list of lists of 2 strings
     while True:  # while total_times < 100000: I don't know how many times this loop should happen. Try and see. Hopefully it can be run forever
         total_times += 1
-        bigrams = []  # or tri-grams or whatever, but in this case it will be a list of lists of 2 strings
         # keep looping until we reach our batch size
         text = get_sentence()
         tokens = tokenize(text)
 
         for i in range(train_len, len(tokens)+1):
             seq = tokens[i - train_len:i]
-            bigrams.append(seq)
-#            print(bigrams)
+            if len(seq) == train_len:  # safety check: only add bigrams
+                bigrams.append(seq)
+            if len(bigrams) >= batch_size:  # batch size reached. Yield!
+                train_inputs = []
+                train_targets = []
+                for seq in tokenizer.texts_to_sequences_generator(bigrams):
+                    # Splitting the sequences into inputs and target
+                    train_input = seq[:-1]
+                    train_target = seq[-1]
+                    train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
+                    train_inputs.append(train_input)
+                    train_targets.append(train_target)
+                bigrams.clear()
+                yield train_inputs, train_targets
 
-        # Keras Tokenizer, which encodes words into numbers
-        for seq in tokenizer.texts_to_sequences_generator(bigrams):
-            # Splitting the sequences into inputs and target
-            train_input = seq[:-1]
-            train_target = seq[-1]
-            train_target = to_categorical(train_target, num_classes=vocabulary_size + 1)
-            yield np.array(train_input), np.array(train_target)
+
 
 
 
