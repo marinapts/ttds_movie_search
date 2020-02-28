@@ -3,7 +3,7 @@ from keras.models import load_model
 from pickle import load
 import os
 
-model_path = os.path.join('checkpoints', 'word_pred_Model1.h5')
+model_path = os.path.join('checkpoints', 'word_pred_Model.h5')
 model = load_model(model_path)
 tokenizer = load(open('tokenizer_Model','rb'))
 
@@ -24,7 +24,7 @@ def predict_next_word(seed_text):
 
 if __name__ == '__main__':
     # You can add some print tests here to see that predict_next_word(word) is working as expected
-    print(predict_next_word("poor"))
-    print(predict_next_word("cat"))
-    print(predict_next_word("shall"))
-    print(predict_next_word("mother"))
+    print(predict_next_word("where"))
+    print(predict_next_word("love"))
+    print(predict_next_word("check"))
+    print(predict_next_word("go"))
