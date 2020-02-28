@@ -54,6 +54,16 @@ class TestCache(unittest.TestCase):
         self.assertEqual(c.get(params1, c1), output1)
         self.assertEqual(c.get(params2, c2), output2)
 
+    def test_same_semantics(self):
+        c = ResultsCache.instance()
+        params1 = {'keywords': 'eScApe, pRiSoN'}
+        params2 = {'keywords': 'prison,escape'}
+        output1 = {'movies': [1, 2]}
+        output2 = {'movies': [3, 4]}
+        c.store(params1, output1)
+        c.store(params2, output2)
+        self.assertEqual(c.get(params1), c.get(params2))
+
 
 if __name__ == '__main__':
     unittest.main()
