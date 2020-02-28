@@ -11,7 +11,7 @@ model = load_model(model_path)
 tokenizer = load(open('tokenizer_Model','rb'))
 
 seq_len = 1
-num_gen_words = 3
+num_gen_words = 1
 
 def gen_text(model, tokenizer, seq_len, seed_text, num_gen_words):
     output_text = []
