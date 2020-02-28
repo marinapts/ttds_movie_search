@@ -124,7 +124,7 @@ def query_phrase_search(query_params):
 
 
 def order_results_by_popularity(results):
-    return list(set(map(lambda r: r['sentence_id'], sorted(results, key=lambda r: movie_ratings[r['movie_id']], reverse=True))))
+    return list(map(lambda r: r['sentence_id'], sorted(results, key=lambda r: movie_ratings[r['movie_id']], reverse=True)))
 
 
 def advance_cursor_iterator(cursor, which):
