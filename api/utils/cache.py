@@ -1,6 +1,7 @@
 from cacheout.lru import LRUCache
 from api.utils.singleton import Singleton
 from collections import defaultdict
+import re
 
 
 @Singleton  # get ResultsCache by calling ResultsCache.instance(). There will be only one instance of ResultsCache.
@@ -14,7 +15,12 @@ class ResultsCache:
         # 512 quote results + 512 movie results = up to 50MB of main memory.
 
     def __hash_params(self, query_params):
-        return hash(frozenset(query_params.items()))
+        params = query_params.copy()  # copying just in case to not break other parts of code due to modifying the query_params
+        for p in ['categories', 'keywords']:  # comma-delimited lists should be sorted before hashing for consistency.
+            if p in params and isinstance(params[p], str):
+                params[p] = ','.join(sorted(re.split(',', params[p].lower().replace(', ', ','))))
+                print(params)
+        return hash(frozenset(params.items()))
 
     def get(self, query_params, which_cache='quotes'):
         return self.caches[which_cache].get(self.__hash_params(query_params))
