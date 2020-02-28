@@ -164,8 +164,9 @@ def query_search():
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
 
     for i, dic_sentence in enumerate(query_results):
-            dic_sentence['quote_id'] = dic_sentence.pop('_id', dic_sentence['quote_id'])
-            dic_sentence['full_quote'] = dic_sentence.pop('sentence')
+        if '_id' in dic_sentence:
+            dic_sentence['quote_id'] = dic_sentence.pop('_id')
+        dic_sentence['full_quote'] = dic_sentence.pop('sentence')
 
     #Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])

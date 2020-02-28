@@ -35,7 +35,7 @@ class TestPhraseSearch(unittest.TestCase):
         self.assertEqual(query, ["may", "forc"])
         query_params = {'query': query, 'movie_title': '', 'year': '', 'actor': ''}
         start = time.time()
-        results = query_phrase_search(query_params)
+        results = query_phrase_search(query_params)[:20]
         end = time.time()
         print("May the force be with you. {:.4f} s".format(end - start))
         star_wars_sentence_ids = [
@@ -47,8 +47,7 @@ class TestPhraseSearch(unittest.TestCase):
             14904435,  # Star Wars: Episode III - Revenge of the Sith
             14904433,  # Star Wars: Episode III - Revenge of the Sith
             14903103,  # Star Wars: Episode II - Attack of the Clones
-            14903102,  # Star Wars: Episode II - Attack of the Clones
-            13503009   # Hackers
+            14903102  # Star Wars: Episode II - Attack of the Clones
         ]
         for id in star_wars_sentence_ids:
             self.assertIn(id, results, f"Sentence _id {id} should be in the results.")
