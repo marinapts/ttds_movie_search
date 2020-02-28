@@ -79,10 +79,10 @@ def find_categories(results_dict):
 def filtering_keywords(query_results, filter_keywords):
     with_keywords = []
     without_keywords = []
-    filter_keywords = re.split(',', filter_keywords)
+    filter_keywords = re.split(',', filter_keywords.lower().replace(', ', ','))
     for query_result in query_results:
         plot_keywords = query_result.pop('plotKeywords', [])  # final results should not have 'plotKeywords' - they take space
-        if any(k in filter_keywords for k in plot_keywords):
+        if len(list(set(filter_keywords).intersection(plot_keywords))) > 0:
             with_keywords.append(query_result)
         else:
             without_keywords.append(query_result)
