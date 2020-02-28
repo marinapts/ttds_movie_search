@@ -82,7 +82,7 @@ export default class App extends Component {
           <Fragment>
             {loading ?
               <Fragment>
-                {Array.apply(null, { length: 3 }).map((e, i) => (
+                {Array.apply(null, { length: 5 }).map((e, i) => (
                   <Skeleton variant="rect" width={790} height={170} className="skeleton-card" />
                 ))}
               </Fragment>

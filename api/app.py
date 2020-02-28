@@ -80,10 +80,10 @@ def find_categories(results_dict):
 def filtering_keywords(query_results, filter_keywords):
     with_keywords = []
     without_keywords = []
-    filter_keywords = re.split(',', filter_keywords)
+    filter_keywords = re.split(',', filter_keywords.lower().replace(', ', ','))
     for query_result in query_results:
         plot_keywords = query_result.pop('plotKeywords', [])  # final results should not have 'plotKeywords' - they take space
-        if any(k in filter_keywords for k in plot_keywords):
+        if len(list(set(filter_keywords).intersection(plot_keywords))) > 0:
             with_keywords.append(query_result)
         else:
             without_keywords.append(query_result)
@@ -91,7 +91,7 @@ def filtering_keywords(query_results, filter_keywords):
     return with_keywords
 
 def clean_results(query_results):  # return only the fields we use for display on the webpage
-    props = {'_id', 'movie_id', 'quote_id', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
+    props = {'_id', 'movie_id', 'quote_id', 'character', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
     query_results = [{k: v for k, v in result.items() if k in props} for result in query_results]
     return query_results
 

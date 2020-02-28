@@ -224,6 +224,9 @@
           "full_quote": {
             "type": "string"
           },
+          "character": {
+            "type": "string"
+          },
           "title": {
             "type": "string"
           },
@@ -283,6 +286,58 @@
           "query_time": {
             "type": "number",
             "format": "float"
+          }
+        }
+      },
+      "inverted_index_entry": {
+        "type": "object",
+        "properties": {
+          "_id": {
+            "type": "string"
+          },
+          "term": {
+            "type": "string"
+          },
+          "doc_count": {
+            "type": "string"
+          },
+          "movies": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "_id": {
+                  "type": "string"
+                },
+                "doc_count": {
+                  "type": "number",
+                  "format": "integer"
+                },
+                "sentences": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "_id": {
+                        "type": "number",
+                        "format": "integer"
+                      },
+                      "len": {
+                        "type": "number",
+                        "format": "integer"
+                      },
+                      "pos": {
+                        "type": "array",
+                        "items": {
+                          "type": "number",
+                          "format": "integer"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       },
