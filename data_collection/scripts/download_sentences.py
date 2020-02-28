@@ -7,7 +7,7 @@ import io
 import csv
 
 # Change this to the number of sentences already processed if you want to resume the script.
-START_COUNT = 0
+START_COUNT = 71400000
 
 mongo = MongoDB()
 sentences = mongo.sentences

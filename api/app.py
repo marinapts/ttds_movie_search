@@ -9,6 +9,7 @@ import re
 import time
 from ir_eval.preprocessing import preprocess
 from api.utils.cache import ResultsCache
+from query_completion.model import predict_next_word
 
 app = Flask(__name__)
 CORS(app)
@@ -224,6 +225,25 @@ def movie_search():
     output = {'movies': clean_results(movies), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output, which_cache=MOVIES_CACHE)
     return output
+
+
+@app.route('/query_suggest')
+def query_suggest():
+    query = request.args.get('query', '').strip().split()
+    if len(query) == 0:  # no words in the query, return empty list of suggestions
+        return {'results': []}
+
+    predictions = [request.args.get('query', '').strip()]
+    for i in range(3):  # make 3 predictions based on the previous one
+        prev_query = predictions[len(predictions)-1]
+        prev_word = prev_query.split()[-1]  # last word of the previous prediction
+        next_word = predict_next_word(prev_word)
+        if next_word:
+            predictions.append(prev_query + " " + next_word)
+    predictions.pop(0)  # remove the first prediction (which is the query itself)
+
+    return {'results': predictions}
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)

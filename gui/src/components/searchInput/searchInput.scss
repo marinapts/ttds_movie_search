@@ -1,3 +1,5 @@
+@import '../../variables.scss';
+
 .search-form {
   display: flex;
   align-items: row;
@@ -41,3 +43,8 @@
     cursor: pointer;
   }
 }
+
+ul {
+  background-color: $cardBackground;
+}
+
