@@ -9,6 +9,7 @@ from ir_eval.ranking.movie_search import ranked_movie_search
 import re
 import time
 from ir_eval.preprocessing import preprocess
+from api.utils.cache import ResultsCache
 from query_completion.model import predict_next_word
 
 app = Flask(__name__)
@@ -85,6 +86,11 @@ def filtering_keywords(query_results, filter_keywords):
             without_keywords.append(query_result)
     with_keywords.extend(without_keywords)
     return with_keywords
+
+def clean_results(query_results):  # return only the fields we use for display on the webpage
+    props = {'_id', 'movie_id', 'quote_id', 'character', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
+    query_results = [{k: v for k, v in result.items() if k in props} for result in query_results]
+    return query_results
 
 def filtering_title(query_results, filter_title):
     title_match = []

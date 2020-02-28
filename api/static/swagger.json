@@ -103,6 +103,49 @@
         }
       }
     },
+    "/movie/{movie_id}": {
+      "get": {
+        "tags": [
+          "Movies"
+        ],
+        "summary": "Endpoint for getting a movie by iMDB ID",
+        "description": "A query will return full movie information (JSON) by iMDB ID if such movie exists. Otherwise it will return an HTTP 404 response with an empty JSON object.",
+        "parameters": [{
+          "in": "path",
+          "name": "movie_id",
+          "schema": {
+            "type": "string"
+          },
+          "required": true,
+          "description": "iMDB ID, e.g. 'tt1234567'"
+        }],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/movie"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Movie not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/query_suggest": {
       "get": {
         "tags": [
@@ -197,6 +240,9 @@
             "format": "integer"
           },
           "full_quote": {
+            "type": "string"
+          },
+          "character": {
             "type": "string"
           },
           "title": {
