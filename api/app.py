@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 from flask_cors import CORS
 from flask_swagger_ui import get_swaggerui_blueprint
 from db.DB import get_db_instance
@@ -10,6 +10,7 @@ import time
 from ir_eval.preprocessing import preprocess
 from api.utils.cache import ResultsCache
 from query_completion.model import predict_next_word
+
 
 app = Flask(__name__)
 CORS(app)
@@ -31,9 +32,10 @@ cache = ResultsCache.instance()  # Usage: cache.get(params, which_cache), cache.
 QUOTES_CACHE = 'quotes'
 MOVIES_CACHE = 'movies'
 
+
 @app.route('/')
 def home():
-    return 'Hello, World!'
+    return render_template('template.html')
 
 
 @app.route('/test')
@@ -246,4 +248,4 @@ def query_suggest():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=False, port=5000)

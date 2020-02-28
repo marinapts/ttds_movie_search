@@ -124,7 +124,7 @@ def query_phrase_search(query_params):
 
 
 def order_results_by_popularity(results):
-    return list(map(lambda r: r['sentence_id'], sorted(results, key=lambda r: movie_ratings[r['movie_id']], reverse=True)))
+    return list(set(map(lambda r: r['sentence_id'], sorted(results, key=lambda r: movie_ratings[r['movie_id']], reverse=True))))
 
 
 def advance_cursor_iterator(cursor, which):
@@ -158,36 +158,39 @@ def advance_cursor_iterator(cursor, which):
 
 def catchup(cur_from, cur_to):
     # cur_from is behind cur_to if the movie_id, sentence_id or position of cur_from is lower than cur_to
-    while cur_from['index']['movies'][cur_from['m']]['_id'] < cur_to['index']['movies'][cur_to['m']]['_id']:
-        # advance movie iterator
-        advance_cursor_iterator(cur_from, 'm')
-        if cur_from['index'] is None:
-            return True  # True means that the cursor has been exhausted (no more index entries)
-
-    movie_from = cur_from['index']['movies'][cur_from['m']]
-    movie_to = cur_to['index']['movies'][cur_to['m']]
-    if movie_from['_id'] == movie_to['_id']:
-        # caught up with the movie and a movie match was found. Now catch up with the sentence
-        while movie_from['sentences'][cur_from['s']]['_id'] < movie_to['sentences'][cur_to['s']]['_id']:
-            # advance sentence iterator
-            advance_cursor_iterator(cur_from, 's')
+    try:
+        while cur_from['index']['movies'][cur_from['m']]['_id'] < cur_to['index']['movies'][cur_to['m']]['_id']:
+            # advance movie iterator
+            advance_cursor_iterator(cur_from, 'm')
             if cur_from['index'] is None:
                 return True  # True means that the cursor has been exhausted (no more index entries)
-            if cur_from['s'] == 0:  # end of sentences has been reached
-                return False  # there's no way we'll have a movie match now (movie_from > movie_to), catch up is done.
 
-    sen_from = movie_from['sentences'][cur_from['s']]
-    sen_to = movie_to['sentences'][cur_to['s']]
-    if movie_from['_id'] == movie_to['_id'] and sen_from['_id'] == sen_to['_id']:
-        # caught up with the movie and sentence. Now catch up with the position
-        while sen_from['pos'][cur_from['p']] < sen_to['pos'][cur_to['p']]:
-            advance_cursor_iterator(cur_from, 'p')
-            if cur_from['index'] is None:
-                return True  # True means that the cursor has been exhausted (no more index entries)
-            if cur_from['p'] == 0:  # end of positions reached
-                return False
+        movie_from = cur_from['index']['movies'][cur_from['m']]
+        movie_to = cur_to['index']['movies'][cur_to['m']]
+        if movie_from['_id'] == movie_to['_id']:
+            # caught up with the movie and a movie match was found. Now catch up with the sentence
+            while movie_from['sentences'][cur_from['s']]['_id'] < movie_to['sentences'][cur_to['s']]['_id']:
+                # advance sentence iterator
+                advance_cursor_iterator(cur_from, 's')
+                if cur_from['index'] is None:
+                    return True  # True means that the cursor has been exhausted (no more index entries)
+                if cur_from['s'] == 0:  # end of sentences has been reached
+                    return False  # there's no way we'll have a movie match now (movie_from > movie_to), catch up is done.
 
-    return False
+        sen_from = movie_from['sentences'][cur_from['s']]
+        sen_to = movie_to['sentences'][cur_to['s']]
+        if movie_from['_id'] == movie_to['_id'] and sen_from['_id'] == sen_to['_id']:
+            # caught up with the movie and sentence. Now catch up with the position
+            while sen_from['pos'][cur_from['p']] < sen_to['pos'][cur_to['p']]:
+                advance_cursor_iterator(cur_from, 'p')
+                if cur_from['index'] is None:
+                    return True  # True means that the cursor has been exhausted (no more index entries)
+                if cur_from['p'] == 0:  # end of positions reached
+                    return False
+
+        return False
+    except:
+        return True
 
 
 if __name__ == '__main__':

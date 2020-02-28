@@ -38,3 +38,27 @@ Add your tests to the `tests/` folder. The file names should start with `test_`.
 ```bash
 python -m unittest discover -p test*.py
 ```
+
+## Deploying on DigitalOcean
+### First Time Setup
+Install Miniconda3 on DigitalOcean, create and activate an environment called `ttds-prod` (Python 3.6):
+```bash
+conda create -n ttds-prod python=3.6
+conda activate ttds-prod
+```
+
+Install production requirements: `pip install -r requirements-prod.txt`. Note, uWSGI may fail to install. In that case, install it via conda:
+```bash
+conda install -c conda-forge uwsgi
+```
+
+Copy file `ttds.service` to `/etc/systemd/system/` (sudo privilleges required). Run:
+```bash
+sudo systemctl start ttds
+sudo systemctl enable ttds
+```
+
+To check the status, run: `sudo systemctl status ttds`. The app should now be available to access via http://DIGITAL_OCEAN_DROPLET_IP:5000 (or http://DIGITAL_OCEAN_DROPLET_IP if you have set up port 80 to redirect to 5000).
+
+### How to Restart with Code Changes
+Once the service is up and running, you can update the app simply by pulling a new version from git and running `./restart_on_digital_ocean.sh` from the repository root folder.
