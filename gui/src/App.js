@@ -71,7 +71,7 @@ export default class App extends Component {
     return (
       <ThemeProvider theme={darkTheme}>
         <Container className="app">
-          <h3>TTDS Movie Project 2020</h3>
+          <h3>Movie Quotes Search Engine</h3>
           <div className="search-container">
             <SearchInput
               performSearch={this.performSearch}
