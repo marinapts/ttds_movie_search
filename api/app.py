@@ -203,12 +203,13 @@ def movie_search():
 
 @app.route('/query_suggest')
 def query_suggest():
+    NUM_OF_PREDICTIONS = 3  # CHANGE THIS 3 TO A SMALLER NUMBER FOR LESS PREDICTIONS
     query = request.args.get('query', '').strip().split()
     if len(query) == 0:  # no words in the query, return empty list of suggestions
         return {'results': []}
 
     predictions = [request.args.get('query', '').strip()]
-    for i in range(3):  # make 3 predictions based on the previous one
+    for i in range(NUM_OF_PREDICTIONS):  # make 3 predictions based on the previous one
         prev_query = predictions[len(predictions)-1]
         prev_word = prev_query.split()[-1]  # last word of the previous prediction
         next_word = predict_next_word(prev_word)
@@ -220,4 +221,4 @@ def query_suggest():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=False, port=8000)

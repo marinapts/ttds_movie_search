@@ -1,11 +1,13 @@
-from keras.preprocessing.sequence import pad_sequences
-from keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import load_model
 from pickle import load
 import os
+from pathlib import Path
 
-model_path = os.path.join('checkpoints', 'word_pred_Model.h5')
+this_path = Path(__file__).parent
+model_path = this_path / 'checkpoints' / 'word_pred_Model.h5'
 model = load_model(model_path)
-tokenizer = load(open('tokenizer_Model','rb'))
+tokenizer = load(open(this_path / 'tokenizer_Model', 'rb'))
 
 seq_len = 1
 num_gen_words = 1
