@@ -53,5 +53,16 @@ class TestPhraseSearch(unittest.TestCase):
         for id in star_wars_sentence_ids:
             self.assertIn(id, results, f"Sentence _id {id} should be in the results.")
 
+    def test_phrase_search_box_of_chocolates(self):
+        query = preprocess("Box of chocolates.")
+        query_params = {'query': query}
+        start = time.time()
+        results = query_phrase_search(query_params)
+        end = time.time()
+        print(end-start)
+        print(results)
+        self.assertTrue(True)
+
+
 if __name__ == '__main__':
     unittest.main()
