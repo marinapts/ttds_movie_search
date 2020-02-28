@@ -142,7 +142,7 @@ def query_search():
             'movies', query results
             'category list', list of categories
     """
-    number_results = 100
+    number_results = 500
     t0 = time.time()
     output = cache.get(request.get_json(), which_cache=QUOTES_CACHE)
     if output:
@@ -195,7 +195,7 @@ def movie_search():
             'movies', query results
             'category list', list of categories
     """
-    number_results = 100
+    number_results = 500
     t0 = time.time()
     output = cache.get(request.get_json(), which_cache=MOVIES_CACHE)
     if output:
