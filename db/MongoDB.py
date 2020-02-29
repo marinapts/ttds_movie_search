@@ -52,7 +52,7 @@ class MongoDB(DBInterface):
         }))  # full movie information can be retrieved via get_movie_by_id()
         # Sort results from mongodb by the ids list, since the order is not maintained
         movie_id_to_movie = {d['_id']: d for d in movie_list}
-        sorted_movie_list = [movie_id_to_movie[id] for id in ids]
+        sorted_movie_list = [movie_id_to_movie[id] for id in ids if id in movie_id_to_movie]
         return sorted_movie_list
 
     def populate_movies_data(self, file_path: str, clear: bool):
