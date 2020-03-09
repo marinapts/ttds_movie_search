@@ -9,8 +9,11 @@ import re
 import time
 from ir_eval.preprocessing import preprocess
 from api.utils.cache import ResultsCache
-from query_completion.model import predict_next_word
-
+try:
+    from query_completion.model import predict_next_word
+except:
+    print("Failed to import Query completion model. Maysara's model may not work properly.")
+    pass
 
 app = Flask(__name__)
 CORS(app)
@@ -236,17 +239,21 @@ def query_suggest():
     query = request.args.get('query', '').strip().split()
     if len(query) == 0:  # no words in the query, return empty list of suggestions
         return {'results': []}
+    try:
+        predictions = [request.args.get('query', '').strip()]
+        for i in range(3):  # make 3 predictions based on the previous one
+            prev_query = predictions[len(predictions)-1]
+            prev_word = prev_query.split()[-1]  # last word of the previous prediction
+            next_word = predict_next_word(prev_word)
+            if next_word:
+                predictions.append(prev_query + " " + next_word)
+        predictions.pop(0)  # remove the first prediction (which is the query itself)
+        return {'results': predictions}
+    except:
+        print(f"Failed to generate predictions. Returning an empty list...")
+        return {'results': []}
 
-    predictions = [request.args.get('query', '').strip()]
-    for i in range(3):  # make 3 predictions based on the previous one
-        prev_query = predictions[len(predictions)-1]
-        prev_word = prev_query.split()[-1]  # last word of the previous prediction
-        next_word = predict_next_word(prev_word)
-        if next_word:
-            predictions.append(prev_query + " " + next_word)
-    predictions.pop(0)  # remove the first prediction (which is the query itself)
 
-    return {'results': predictions}
 
 
 if __name__ == '__main__':

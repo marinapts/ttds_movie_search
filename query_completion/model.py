@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 this_path = Path(__file__).parent
-model_path = this_path / 'checkpoints' / 'word_pred_Model.h5'
+model_path = this_path / 'checkpoints' / 'word_pred_Model_1_250.h5'
 model = load_model(model_path)
 tokenizer = load(open(this_path / 'tokenizer_Model', 'rb'))
 
