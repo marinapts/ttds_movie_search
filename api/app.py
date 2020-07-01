@@ -31,14 +31,11 @@ cache = ResultsCache.instance()  # Usage: cache.get(params, which_cache), cache.
 QUOTES_CACHE = 'quotes'
 MOVIES_CACHE = 'movies'
 
+
 @app.route('/')
 def home():
     return 'Hello, World!'
 
-
-@app.route('/test')
-def testing():
-    return 'Hey ttds team, routes seem to be working :)'
 
 def merge_lists(l1, l2, key):
     """ Updates one list with the matching information of the other, using the 'key' parameter.
@@ -55,6 +52,7 @@ def merge_lists(l1, l2, key):
             if item1[key] == item2[key]:
                 merged[n].update(item2)
     return merged
+
 
 def find_categories(results_dict):
     """ Finds categories of retrieved movies and sorts them by frequency
@@ -76,6 +74,7 @@ def find_categories(results_dict):
         category_list.append(key)
     return category_list
 
+
 def filtering_keywords(query_results, filter_keywords):
     with_keywords = []
     without_keywords = []
@@ -89,10 +88,12 @@ def filtering_keywords(query_results, filter_keywords):
     with_keywords.extend(without_keywords)
     return with_keywords
 
+
 def clean_results(query_results):  # return only the fields we use for display on the webpage
     props = {'_id', 'movie_id', 'quote_id', 'character', 'time_ms', 'full_quote', 'title', 'categories', 'thumbnail'}
     query_results = [{k: v for k, v in result.items() if k in props} for result in query_results]
     return query_results
+
 
 def filtering_title(query_results, filter_title):
     title_match = []
@@ -100,6 +101,7 @@ def filtering_title(query_results, filter_title):
         if query_result['title'] == filter_title:
             title_match.append(query_result)
     return title_match
+
 
 def filtering_years(query_results, filter_years):
     years_match = []
@@ -111,6 +113,7 @@ def filtering_years(query_results, filter_years):
         elif int(query_result['year']) >= int(filter_years[0]) and int(query_result['year']) <= int(filter_years[1]):
             years_match.append(query_result)
     return years_match
+
 
 def preprocess_query_params(query_params):
     query_params['query'] = query_params.get('query', '')
@@ -127,12 +130,14 @@ def preprocess_query_params(query_params):
 
     return query_params
 
+
 @app.route('/movie/<movie_id>')
 def find_movie_by_id(movie_id):
     movie = db.get_movie_by_id(movie_id)
     if movie is None:
         return {}, 404
     return movie
+
 
 @app.route('/query_search', methods=['POST'])
 def query_search():
@@ -162,20 +167,20 @@ def query_search():
     query_results = db.get_quotes_by_list_of_quote_ids(query_id_results)
 
     for i, dic_sentence in enumerate(query_results):
-            dic_sentence['quote_id'] = dic_sentence.pop('_id')
-            dic_sentence['full_quote'] = dic_sentence.pop('sentence')
+        dic_sentence['quote_id'] = dic_sentence.pop('_id')
+        dic_sentence['full_quote'] = dic_sentence.pop('sentence')
 
-    #Get Movie Details for movie_ids
+    # Get Movie Details for movie_ids
     movie_ids = ([dic['movie_id'] for dic in query_results])
     movies = db.get_movies_by_list_of_ids(movie_ids)
     for dic_movie in movies:
         if dic_movie is not None and 'movie_id' not in dic_movie:  # movie_id may already be added if different quotes share the same movie!
             dic_movie['movie_id'] = dic_movie.pop('_id')
 
-    #Merge Movie Details with Quotes
+    # Merge Movie Details with Quotes
     query_results = merge_lists(query_results, movies, 'movie_id')
 
-    #Create sorted list of all returned categories
+    # Create sorted list of all returned categories
     category_list = find_categories(query_results)
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
@@ -186,6 +191,7 @@ def query_search():
     output = {'movies': clean_results(query_results), 'category_list': category_list, 'query_time': t1-t0}
     cache.store(request.get_json(), output, which_cache=QUOTES_CACHE)
     return output
+
 
 @app.route('/movie_search', methods=['POST'])
 def movie_search():
@@ -214,7 +220,7 @@ def movie_search():
         if dic_movie is not None:
             dic_movie['movie_id'] = dic_movie['_id']  # both movie_id and _id can be used
 
-    #Create sorted list of all returned categories
+    # Create sorted list of all returned categories
     category_list = find_categories(movies)
     t1 = time.time()
     print(f"Query took {t1-t0} s to process")
