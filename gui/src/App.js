@@ -2,6 +2,7 @@ import React, { Component, Fragment } from 'react'
 import { Container } from '@material-ui/core'
 import Skeleton from '@material-ui/lab/Skeleton'
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
+import { Link } from '@material-ui/core'
 
 import SearchInput from './components/searchInput/SearchInput'
 import MoviesContainer from './components/moviesContainer/MoviesContainer'
@@ -21,7 +22,7 @@ const darkTheme = createMuiTheme({
       contrastText: '#ffcc00',
     }
   },
-});
+})
 
 export default class App extends Component {
   constructor(props) {
@@ -39,7 +40,7 @@ export default class App extends Component {
   performSearch = (data, isMovieSearch) => {
     const { query, movieTitle, actor, year, keywords } = data
 
-    this.setState({ loading: true }, async () => {
+    this.setState({ loading: true, showErrorMsg: false }, async () => {
       try {
         const response = await API.post(
           isMovieSearch ? '/movie_search' : '/query_search',
@@ -54,7 +55,6 @@ export default class App extends Component {
           loading: false
         })
       } catch (error) {
-        // @TODO: Show a proper error message to the user
         console.error(error)
         this.setState({
           showErrorMsg: true,
@@ -71,7 +71,11 @@ export default class App extends Component {
     return (
       <ThemeProvider theme={darkTheme}>
         <Container className="app">
-          <h3>Movie Quotes Search Engine</h3>
+          <h3>
+            <Link color="primary" underline="none" variant="inherit" onClick={() => window.location.reload()}>
+              Movie Quotes Search Engine
+            </Link>
+          </h3>
           <div className="search-container">
             <SearchInput
               performSearch={this.performSearch}
@@ -90,6 +94,13 @@ export default class App extends Component {
             }
           </Fragment>
         </Container>
+        <div className="custom-footer" style={{position: (loading || showCards) ? 'relative': 'fixed'}}>
+          <div>
+            Powered by <a target="_blank" rel="noopener noreferrer" href="https://www.opensubtitles.org/en/search">OpenSubtitles.org</a>
+          </div>
+          <div> | </div>
+          <div>Code available on <a target="_blank" rel="noopener noreferrer" href="https://github.com/marinapts/ttds_movie_search">Github</a></div>
+        </div>
       </ThemeProvider>
     )
   }

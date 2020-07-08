@@ -212,7 +212,7 @@ export default class SearchInput extends Component {
         }
         {showErrorMsg &&
           <h6 className="error-container">
-            Error: API not running. Go to ttds_movie_search/api and run ./run.sh
+            Oops, query timeout. Please try again.
           </h6>
         }
       </Grid>
