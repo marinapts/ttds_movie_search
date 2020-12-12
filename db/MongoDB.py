@@ -14,7 +14,7 @@ class MongoDB(DBInterface):
 
     def __init__(self):
         super().__init__()
-        client = MongoClient('167.71.139.222', 27017, username='admin', password='iamyourfather')
+        client = MongoClient('INSERT_YOUR_OWN_IP', 27017, username='INSERT_YOUR_OWN_USERNAME', password='INSERT_YOUR_OWN_PASSWORD')
         self.ttds = client.ttds
         self.sentences = self.ttds.sentences
         self.inverted_index = self.ttds.inverted_index
