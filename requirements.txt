@@ -9,7 +9,7 @@ kaggle==1.5.5
 louis==3.0.0
 Mako==1.0.6
 MarkupSafe==0.23
-numpy==1.18.5
+numpy==1.22.0
 pycups==1.9.73
 pycurl==7.43.0
 pygobject==3.22.0
