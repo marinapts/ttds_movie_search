@@ -19,7 +19,7 @@ PyHamcrest==2.0.0
 pyOpenSSL==19.1.0
 -e git+https://github.com/Kasparas42180/imdb-subtitles-crawl.git@03a2462b4c5e9ccdb3e5971649a95b3c4dafc961#egg=python_opensubtitles&subdirectory=src\python-opensubtitles
 queuelib==1.5.0
-Scrapy==1.8.0
+Scrapy==2.6.2
 service-identity==18.1.0
 six==1.14.0
 Twisted==19.10.0
