@@ -7,7 +7,7 @@ h5py==2.10.0
 idna==2.8
 kaggle==1.5.5
 louis==3.0.0
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==0.23
 numpy==1.18.5
 pycups==1.9.73
