@@ -50,3 +50,6 @@ class Quotes:
       character_similarities[character] = max([spacy_nlp(doc).similarity(spacy_nlp(sentence)) for doc in docs])
     #print(character_similarities)
     return max(character_similarities, key=character_similarities.get)
+
+
+print(spacy_nlp("You're not in school now. Miss Conway can't do anything.").similarity(spacy_nlp("You are not in school now  Conway cannot do anything.")))

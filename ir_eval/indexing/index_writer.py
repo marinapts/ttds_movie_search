@@ -3,8 +3,8 @@
 import os
 import sys
 import logging
-import preprocessing
-import database_functions
+from ir_eval import preprocessing
+from ir_eval import database_functions
 import argparse
 import pickle
 from pymongo import MongoClient

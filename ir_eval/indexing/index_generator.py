@@ -7,8 +7,7 @@ import pickle
 
 #import pandas as pd
 
-import preprocessing
-import database_functions
+from ir_eval import preprocessing, database_functions
 import argparse
 import logging
 
